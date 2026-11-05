@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:35.560Z"
+  },
+  "title": "Wuppertal",
+  "instructions": {
+    "stadt-wuppertal-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-wuppertal-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-wuppertal-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-wuppertal-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-wuppertal-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-wuppertal-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "Schwebebahn (treni inayoning'inia)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Treni inayoning'inia kwenye reli na kupita juu ya mto – tangu 1901.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "Tuffi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "Tembo mchanga aliyeruka kutoka Schwebebahn akaangukia Wupper mwaka 1950.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "Wupper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Mto unaopita katikati ya mji mzima.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Pina Bausch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Mcheza densi maarufu; ukumbi wake wa densi kutoka Wuppertal unajulikana duniani kote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "ngazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "Wuppertal ina ngazi nyingi sana za umma, kwa sababu mji uko kwenye miteremko.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Friedrich Engels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Mwanafikra na rafiki wa Karl Marx; alizaliwa katika mtaa wa Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "Nordbahntrasse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Njia ya baiskeli juu ya reli ya zamani, yenye mahandaki na madaraja.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "Schwebebahn inapita juu ya Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "Mwaka 1950 tembo aliruka kutoka Schwebebahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Tunaendesha baiskeli kwenye Nordbahntrasse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Friedrich Engels alizaliwa katika mtaa wa Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Tunapanda ngazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "Ukumbi huo wa densi unajulikana duniani kote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi alianguka mtoni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "Schwebebahn inaning'inia kwenye reli juu ya mto.",
+      "answerText": "inaning'inia"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi alianguka katika Wupper.",
+      "answerText": "alianguka"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "Wuppertal kuna ngazi nyingi sana.",
+      "answerText": "kuna"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "Schwebebahn imefanya kazi kwa zaidi ya miaka 120.",
+      "answerText": "imefanya"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Waendesha baiskeli wengi wanatumia Nordbahntrasse.",
+      "answerText": "wanatumia"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "treni",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "tembo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "ngazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "mto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "baiskeli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "kituo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "Schwebebahn inaning'inia juu ya Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "Kila siku watu wengi husafiri kwa Schwebebahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "Unaijua hadithi ya Tuffi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "Wuppertal ina ngazi nyingi sana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "tembo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "ngazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "mto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "reli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "kituo",
+      "answerText": null
+    }
+  ]
+}

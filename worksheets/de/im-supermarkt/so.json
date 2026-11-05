@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Suuqa weyn (supermarket)",
+  "instructions": {
+    "im-supermarkt-matching": "Eray kasta ku xidh sharraxaadda saxda ah.",
+    "im-supermarkt-gap": "Calaamadee baakadda ama tirada saxda ah.",
+    "im-supermarkt-verbs": "Ku buuxi falka saxda ah, qaabka saxda ah.",
+    "im-supermarkt-table": "Ku buuxi qodobka (der/die/das) iyo qaabka wadarta.",
+    "im-supermarkt-order": "Erayada u habee si sax ah oo qor jumladda.",
+    "im-supermarkt-spelling": "Erayga kee ayaa si sax ah loo qoray? Calaamadee."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "gaadhiga dukaanka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Inta aad wax iibsanayso alaabtaada ayaad ku riddaa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "miiska farmaajada",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Halkan waxaad ka heleysaa farmaajo cusub oo miisaan lagu iibiyo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "lacagta dhalooyinka (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Lacag laguu celiyo marka aad keento dhalooyin madhan.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "mashiinka dhalooyinka lagu celiyo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Halkan ayaad ku celisaa dhalooyinka madhan.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "dalab gaar ah (Angebot)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Alaab ayaa muddo gaaban ka jaban.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "rasiidka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Warqaddan waxaa ku qoran dhammaan qiimaha.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "bacda",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Waxaad ku qaadataa alaabtaada guriga.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Waxaan iibsanayaa weel caano fadhi ah.",
+      "answerText": "weel"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Iyo dhalo biyo ah, fadlan.",
+      "answerText": "dhalo"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Waxaan u baahannahay baako baasto ah.",
+      "answerText": "baako"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Maraqa waxaan u qaadanayaa qasac yaanyo ah.",
+      "answerText": "qasac"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Waxaan jeclaan lahaa 200 garaam oo Gouda ah, fadlan.",
+      "answerText": "garaam"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Xabbad subag ah waxay ku kacdaa 2.29 yuuro.",
+      "answerText": "Xabbad"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Waxaan qaadanayaa hal litir oo caano ah.",
+      "answerText": "litir"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Ma ii sarifi kartaa shan yuuro?",
+      "answerText": "sarifi"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Iga raali ahow, xagee ka helayaa bur?",
+      "answerText": "helayaa"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Waxaan ku bixinayaa kaadh.",
+      "answerText": "bixinayaa"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Waxaan jeclaan lahaa 200 garaam oo Gouda ah.",
+      "answerText": "jeclaan lahaa"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Maalmaha Axadda ku dhowaad dhammaan suuqyada waaweyn way xidhan yihiin.",
+      "answerText": "yihiin"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "dhalada",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "weelka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "qasaca",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "rootiga",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "tufaaxa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "mooska",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Iga raali ahow, xagee ka helayaa bur?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Bac ayaan soo qaatay.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Mooska maanta wuxuu ku jiraa dalab gaar ah.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Xagee buu yaallaa mashiinka dhalooyinka lagu celiyo?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "gaadhiga dukaanka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "rasiid",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "lacagta dhalooyinka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "farmaajo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "rooti yar",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "d4a543c2-6a70-4308-ac31-9cc4f868f90d",
+    "level": "A1"
+  },
+  "title": "At the Café",
+  "topic": "Ordering, paying and asking politely",
+  "tasks": [
+    {
+      "id": "en-at-the-cafe-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-at-the-cafe-matching-1",
+          "term": "the menu",
+          "meaning": "A list of food and drinks with prices."
+        },
+        {
+          "id": "en-at-the-cafe-matching-2",
+          "term": "the waiter",
+          "meaning": "The person who brings your food and drinks."
+        },
+        {
+          "id": "en-at-the-cafe-matching-3",
+          "term": "the bill",
+          "meaning": "The paper that shows how much you have to pay."
+        },
+        {
+          "id": "en-at-the-cafe-matching-4",
+          "term": "the tip",
+          "meaning": "Extra money for good service."
+        },
+        {
+          "id": "en-at-the-cafe-matching-5",
+          "term": "the cake",
+          "meaning": "A sweet food, for example with chocolate."
+        },
+        {
+          "id": "en-at-the-cafe-matching-6",
+          "term": "to go",
+          "meaning": "You take your food or drink with you."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-at-the-cafe-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-at-the-cafe-gap-1",
+          "promptBefore": "Can I see the",
+          "promptAfter": ", please?",
+          "correctAnswer": "menu",
+          "options": [
+            "menu",
+            "tip",
+            "cake"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-cafe-gap-2",
+          "promptBefore": "I'd like a",
+          "promptAfter": "of coffee, please.",
+          "correctAnswer": "cup",
+          "options": [
+            "cup",
+            "bill",
+            "menu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-cafe-gap-3",
+          "promptBefore": "We are finished. Could we have the",
+          "promptAfter": ", please?",
+          "correctAnswer": "bill",
+          "options": [
+            "bill",
+            "menu",
+            "cup"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-cafe-gap-4",
+          "promptBefore": "Is this for here or to",
+          "promptAfter": "?",
+          "correctAnswer": "go",
+          "options": [
+            "go",
+            "eat",
+            "tip"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-cafe-gap-5",
+          "promptBefore": "The",
+          "promptAfter": "is very friendly.",
+          "correctAnswer": "waiter",
+          "options": [
+            "waiter",
+            "menu",
+            "bill"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-cafe-gap-6",
+          "promptBefore": "We left a",
+          "promptAfter": "for the waiter.",
+          "correctAnswer": "tip",
+          "options": [
+            "tip",
+            "menu",
+            "cup"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-at-the-cafe-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-at-the-cafe-verbs-1",
+          "promptBefore": "I",
+          "promptAfter": "like a tea, please.",
+          "correctAnswer": "would",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "would"
+        },
+        {
+          "id": "en-at-the-cafe-verbs-2",
+          "promptBefore": "What",
+          "promptAfter": "you recommend?",
+          "correctAnswer": "do",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "do"
+        },
+        {
+          "id": "en-at-the-cafe-verbs-3",
+          "promptBefore": "We",
+          "promptAfter": "to pay, please.",
+          "correctAnswer": "want",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "want"
+        },
+        {
+          "id": "en-at-the-cafe-verbs-4",
+          "promptBefore": "The cake",
+          "promptAfter": "delicious.",
+          "correctAnswer": "tastes",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "taste"
+        },
+        {
+          "id": "en-at-the-cafe-verbs-5",
+          "promptBefore": "Can I",
+          "promptAfter": "by card?",
+          "correctAnswer": "pay",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pay"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-at-the-cafe-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-at-the-cafe-order-1",
+          "chunks": [
+            "Can I",
+            "have",
+            "a glass",
+            "of water"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-cafe-order-2",
+          "chunks": [
+            "I'd like",
+            "a piece",
+            "of cake"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-cafe-order-3",
+          "chunks": [
+            "How much",
+            "is",
+            "a coffee"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-cafe-order-4",
+          "chunks": [
+            "We",
+            "would like",
+            "to pay"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-at-the-cafe-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-at-the-cafe-spelling-1",
+          "correct": "coffee",
+          "wrong": "coffe"
+        },
+        {
+          "id": "en-at-the-cafe-spelling-2",
+          "correct": "chocolate",
+          "wrong": "chocolat"
+        },
+        {
+          "id": "en-at-the-cafe-spelling-3",
+          "correct": "sandwich",
+          "wrong": "sandwitch"
+        },
+        {
+          "id": "en-at-the-cafe-spelling-4",
+          "correct": "delicious",
+          "wrong": "delicous"
+        },
+        {
+          "id": "en-at-the-cafe-spelling-5",
+          "correct": "breakfast",
+          "wrong": "brekfast"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Esimene tööpäev",
+  "instructions": {
+    "erster-arbeitstag-matching": "Leidke igale sõnale õige selgitus.",
+    "erster-arbeitstag-gap": "Märkige õige vorm.",
+    "erster-arbeitstag-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "erster-arbeitstag-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "erster-arbeitstag-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "erster-arbeitstag-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "kolleeg",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Mees, kellega koos töötate.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "ülemus (naine)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Ta juhib meeskonda.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "paus",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Vaba aeg töö ajal, näiteks söömiseks.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "puhkus",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Vabad päevad, mil te ei tööta, aga saate ikkagi palka.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ületunnitöö tund",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Tund, mille töötate rohkem kui planeeritud.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "tööleping",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Selles on kirjas teie palk, tööaeg ja puhkus.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "söökla",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Siin söövad töötajad ettevõttes.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "See on minu uus kolleeg.",
+      "answerText": "minu"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Kas ma tohin teile oma kolleegi tutvustada?",
+      "answerText": "oma"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Mulle meeldib meeskonnaga koos töötada.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Me kohtume sööklas.",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Mul on üks küsimus.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Millal paus algab?",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Ma annan ülemusele aruande.",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Kas ma tohin end lühidalt tutvustada?",
+      "answerText": "tutvustada"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Ma töötan kella 8-st 16-ni.",
+      "answerText": "töötan"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Kust ma leian tualeti?",
+      "answerText": "leian"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Meeskonnas sinatame üksteist.",
+      "answerText": "sinatame"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Kas te saaksite mulle seda palun selgitada?",
+      "answerText": "selgitada"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "kolleeg",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "ettevõte",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "kontor",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "arvuti",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "koosolek",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "meeskond",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Kas ma tohin end lühidalt tutvustada?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Ma olen meeskonnas uus.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Millal lõunapaus algab?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Kas te saate mulle seda selgitada?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "kolleeg",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "koosolek",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "puhkus",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "kontor",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ületund",
+      "answerText": null
+    }
+  ]
+}

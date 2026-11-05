@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:00.593Z"
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "Lidh çdo fjalë me shpjegimin e saktë.",
+    "stadt-kiel-gap": "Shëno fjalën e saktë.",
+    "stadt-kiel-verbs": "Plotëso foljen e saktë në formën e saktë.",
+    "stadt-kiel-table": "Plotëso nyjën dhe trajtën e shumësit.",
+    "stadt-kiel-order": "Rendit fjalët në rendin e saktë dhe shkruaj fjalinë.",
+    "stadt-kiel-spelling": "Cila fjalë është shkruar saktë? Shënoje."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Förde“ (fjordi)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Krah i gjatë dhe i ngushtë i Detit Baltik që hyn thellë në tokë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Java e Kielit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Festë e madhe lundrimi në qershor me muzikë dhe varka nga e gjithë bota.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "trageti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Anije e madhe për njerëz dhe makina, për shembull për në Norvegji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Kanali i Kielit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Rrugë ujore artificiale midis Detit të Veriut dhe Detit Baltik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "sardelja e Kielit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Peshk i vogël i tymosur, tipik për Kielin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Moin moin!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Përshëndetje e veriut; disa mendojnë se dy herë „Moin“ është shumë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "lundroj me vela",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Udhëtoj me një varkë që e shtyn era.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kieli ndodhet buzë Detit Baltik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Në qershor festojmë Javën e Kielit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Shkojmë me traget në Oslo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Anijet kalojnë nëpër Kanalin e Kielit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Në fundjavë lundrojmë me vela në fjord.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Blej një qese me sardele të Kielit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Shëtisim qenin në plazh.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Trageti shkon çdo ditë në Norvegji.",
+      "answerText": "shkon"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Gjatë Javës së Kielit lundrojnë varka nga e gjithë bota.",
+      "answerText": "lundrojnë"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Shumë anije përdorin Kanalin e Kielit.",
+      "answerText": "përdorin"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Në veri njerëzit thonë „Moin“.",
+      "answerText": "thonë"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Në plazh shpesh fryn erë e fortë.",
+      "answerText": "fryn"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "varka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "trageti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "peshku",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "plazhi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "vela",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "kanali",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kieli ndodhet buzë Detit Baltik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Në qershor qyteti feston Javën e Kielit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "A shkon me traget në Norvegji?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Në fundjavë lundrojmë me vela në fjord.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "traget",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "velë",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "plazh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Deti Baltik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "kanal",
+      "answerText": null
+    }
+  ]
+}

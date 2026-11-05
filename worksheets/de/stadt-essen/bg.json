@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:47.728Z"
+  },
+  "title": "Есен",
+  "instructions": {
+    "stadt-essen-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-essen-gap": "Отбележете правилната дума.",
+    "stadt-essen-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-essen-table": "Попълнете члена и формата за множествено число.",
+    "stadt-essen-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-essen-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "мината „Цолферайн“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Стар рудник; днес световно наследство на ЮНЕСКО с музеи и дизайн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "подемната кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Висока кула над мината; с нея хората и въглищата се качваха нагоре.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Глюк ауф!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Поздрав на миньорите – пожелание всички да се върнат здрави горе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "вила „Хюгел“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Голямата къща на семейство Круп с много стаи и парк.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "езерото Балденай",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Езеро на река Рур; там може да се плава с платноходка, да се гребе и да се разхожда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Гругапарк",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Голям парк с цветя, детски площадки и животни.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "културната столица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Титла, която Есен получи през 2010 г. за цялата Рурска област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "През лятото много хора плават с платноходки по езерото Балденай.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Семейство Круп живееше във вила „Хюгел“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Правим обиколка с екскурзовод из мината „Цолферайн“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Подемната кула е символът на Есен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "В неделя отиваме в Гругапарк.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "През 2010 г. Есен беше Европейска столица на културата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "„Рот-Вайс Есен“ играе на Хафенщрасе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Миньорите казват „Глюк ауф!“.",
+      "answerText": "казват"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Подемната кула стои над старата мина.",
+      "answerText": "стои"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Днес от земята вече не излизат въглища.",
+      "answerText": "излизат"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Много туристи посещават мината „Цолферайн“.",
+      "answerText": "посещават"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Река Рур тече през езерото Балденай.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "рудникът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "паркът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "вилата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "езерото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "музеят",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "залата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Мината „Цолферайн“ е част от световното наследство на ЮНЕСКО.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "През уикенда отиваме до езерото Балденай.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Бил ли си вече в Гругапарк?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "В миналото много миньори работеха под земята.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "музей",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "вила",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "въглища",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "зала",
+      "answerText": null
+    }
+  ]
+}

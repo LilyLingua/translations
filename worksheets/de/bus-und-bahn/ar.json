@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.281Z"
+  },
+  "title": "بالحافلة والقطار",
+  "instructions": {
+    "bus-und-bahn-matching": "صِل كل كلمة بالشرح المناسب.",
+    "bus-und-bahn-gap": "ضع علامة على الكلمة المناسبة.",
+    "bus-und-bahn-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "bus-und-bahn-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "bus-und-bahn-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "bus-und-bahn-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "التذكرة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "بها يُسمح لك بالسفر بالحافلة أو القطار.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "آلة بيع التذاكر",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "هنا تشتري تذكرة بدون شباك.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "الرصيف (السكة)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "هنا يتوقف القطار في المحطة.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "التأخير",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "يصل القطار متأخرًا عن الموعد المخطط.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "تغيير القطار",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "تنتقل من قطار إلى قطار آخر.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "موقف الحافلة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "هنا تتوقف الحافلة.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "تذكرة ألمانيا (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "تذكرة شهرية للحافلات والقطارات المحلية في كل ألمانيا.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "القطار المتجه إلى كولونيا يغادر من الرصيف 5.",
+      "answerText": "الرصيف"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "القطار متأخر عشر دقائق.",
+      "answerText": "متأخر"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "أين أقرب موقف؟",
+      "answerText": "موقف"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "تذكرة إلى برلين، من فضلك.",
+      "answerText": "تذكرة"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "من فضلك، أظهر تذكرتك.",
+      "answerText": "تذكرتك"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "المترو يمر كل عشر دقائق.",
+      "answerText": "المترو"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "يمكنك شراء التذاكر من الآلة.",
+      "answerText": "الآلة"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "أين يجب أن أغيّر القطار؟",
+      "answerText": "أغيّر"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "تغادر الحافلة في الساعة 8:15.",
+      "answerText": "تغادر"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "نصل إلى هامبورغ في الساعة العاشرة.",
+      "answerText": "نصل"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "من فضلك، انزل هنا.",
+      "answerText": "انزل"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "كم تستغرق الرحلة؟",
+      "answerText": "تستغرق"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "القطار",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "المحطة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "التذكرة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "الرصيف",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "الموقف",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "الحافلة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "متى يغادر القطار التالي إلى ميونخ؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "يجب أن أغيّر القطار في مانهايم.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "القطار متأخر للأسف.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "هل التذكرة صالحة للحافلة أيضًا؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "تذكرة",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "تأخير",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "موقف",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "رصيف",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "محطة",
+      "answerText": null
+    }
+  ]
+}

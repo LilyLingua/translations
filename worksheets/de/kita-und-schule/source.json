@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "5a85802c-f075-4412-bd15-29a2ebc39e97",
+    "level": "A2"
+  },
+  "title": "Kita und Schule",
+  "topic": "Elternabend, Krankmeldung und Schulalltag",
+  "tasks": [
+    {
+      "id": "kita-und-schule-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "kita-und-schule-matching-1",
+          "term": "der Elternabend",
+          "meaning": "Ein Treffen der Eltern mit den Lehrkräften."
+        },
+        {
+          "id": "kita-und-schule-matching-2",
+          "term": "die Kita",
+          "meaning": "Hier werden kleine Kinder tagsüber betreut."
+        },
+        {
+          "id": "kita-und-schule-matching-3",
+          "term": "die Klassenlehrerin",
+          "meaning": "Sie ist für eine Schulklasse verantwortlich."
+        },
+        {
+          "id": "kita-und-schule-matching-4",
+          "term": "das Zeugnis",
+          "meaning": "Hier stehen die Noten am Ende des Schuljahres."
+        },
+        {
+          "id": "kita-und-schule-matching-5",
+          "term": "die Entschuldigung",
+          "meaning": "Ein kurzer Brief an die Schule, wenn Ihr Kind krank war."
+        },
+        {
+          "id": "kita-und-schule-matching-6",
+          "term": "die Ferien",
+          "meaning": "Die Zeit ohne Schule, zum Beispiel im Sommer."
+        },
+        {
+          "id": "kita-und-schule-matching-7",
+          "term": "der Ausflug",
+          "meaning": "Die Klasse fährt zusammen an einen anderen Ort."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "kita-und-schule-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "kita-und-schule-gap-1",
+          "promptBefore": "Mein Sohn ist krank. Er kann heute nicht in die",
+          "promptAfter": "kommen.",
+          "correctAnswer": "Schule",
+          "options": [
+            "Note",
+            "Ferien",
+            "Schule"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-2",
+          "promptBefore": "Beim",
+          "promptAfter": "sprechen die Eltern mit der Lehrerin.",
+          "correctAnswer": "Elternabend",
+          "options": [
+            "Zeugnis",
+            "Elternabend",
+            "Stundenplan"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-3",
+          "promptBefore": "Im Sommer haben die Kinder sechs Wochen",
+          "promptAfter": ".",
+          "correctAnswer": "Ferien",
+          "options": [
+            "Ferien",
+            "Zeugnisse",
+            "Hausaufgaben"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-4",
+          "promptBefore": "Am Ende des Schuljahres bekommt meine Tochter ein",
+          "promptAfter": ".",
+          "correctAnswer": "Zeugnis",
+          "options": [
+            "Elternabend",
+            "Zeugnis",
+            "Schultasche"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-5",
+          "promptBefore": "Ich schreibe der Lehrerin eine",
+          "promptAfter": ", weil mein Kind krank war.",
+          "correctAnswer": "Entschuldigung",
+          "options": [
+            "Zeugnis",
+            "Entschuldigung",
+            "Ferien"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-6",
+          "promptBefore": "Die Kinder müssen jeden Tag",
+          "promptAfter": "machen.",
+          "correctAnswer": "Hausaufgaben",
+          "options": [
+            "Elternabend",
+            "Kita",
+            "Hausaufgaben"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "kita-und-schule-gap-7",
+          "promptBefore": "Mein Kind ist drei Jahre alt und geht in die",
+          "promptAfter": ".",
+          "correctAnswer": "Kita",
+          "options": [
+            "Ferien",
+            "Kita",
+            "Universität"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "kita-und-schule-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "kita-und-schule-verbs-1",
+          "promptBefore": "Ich",
+          "promptAfter": "mein Kind um 16 Uhr ab.",
+          "correctAnswer": "hole",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "abholen"
+        },
+        {
+          "id": "kita-und-schule-verbs-2",
+          "promptBefore": "Meine Tochter",
+          "promptAfter": "heute leider krank.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "kita-und-schule-verbs-3",
+          "promptBefore": "Können wir einen Termin",
+          "promptAfter": "?",
+          "correctAnswer": "vereinbaren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "vereinbaren"
+        },
+        {
+          "id": "kita-und-schule-verbs-4",
+          "promptBefore": "Der Unterricht",
+          "promptAfter": "um 8 Uhr.",
+          "correctAnswer": "beginnt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "beginnen"
+        },
+        {
+          "id": "kita-und-schule-verbs-5",
+          "promptBefore": "Bitte",
+          "promptAfter": "Sie das Formular bis Freitag.",
+          "correctAnswer": "unterschreiben",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "unterschreiben"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "kita-und-schule-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "kita-und-schule-table-1",
+          "article": "das",
+          "singular": "Kind",
+          "plural": "Kinder"
+        },
+        {
+          "id": "kita-und-schule-table-2",
+          "article": "die",
+          "singular": "Klasse",
+          "plural": "Klassen"
+        },
+        {
+          "id": "kita-und-schule-table-3",
+          "article": "der",
+          "singular": "Lehrer",
+          "plural": "Lehrer"
+        },
+        {
+          "id": "kita-und-schule-table-4",
+          "article": "das",
+          "singular": "Heft",
+          "plural": "Hefte"
+        },
+        {
+          "id": "kita-und-schule-table-5",
+          "article": "die",
+          "singular": "Note",
+          "plural": "Noten"
+        },
+        {
+          "id": "kita-und-schule-table-6",
+          "article": "der",
+          "singular": "Stift",
+          "plural": "Stifte"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "kita-und-schule-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "kita-und-schule-order-1",
+          "chunks": [
+            "Mein Sohn",
+            "ist",
+            "heute",
+            "krank"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "kita-und-schule-order-2",
+          "chunks": [
+            "Wann",
+            "beginnt",
+            "der Elternabend"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "kita-und-schule-order-3",
+          "chunks": [
+            "Ich",
+            "hole",
+            "meine Tochter",
+            "um 15 Uhr",
+            "ab"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "kita-und-schule-order-4",
+          "chunks": [
+            "Braucht",
+            "mein Kind",
+            "etwas",
+            "für den Ausflug"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "kita-und-schule-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "kita-und-schule-spelling-1",
+          "correct": "Elternabend",
+          "wrong": "Elternabent"
+        },
+        {
+          "id": "kita-und-schule-spelling-2",
+          "correct": "Zeugnis",
+          "wrong": "Zeugniss"
+        },
+        {
+          "id": "kita-und-schule-spelling-3",
+          "correct": "Entschuldigung",
+          "wrong": "Entschuldigunk"
+        },
+        {
+          "id": "kita-und-schule-spelling-4",
+          "correct": "Hausaufgaben",
+          "wrong": "Hausaufgaaben"
+        },
+        {
+          "id": "kita-und-schule-spelling-5",
+          "correct": "Klassenlehrerin",
+          "wrong": "Klassenlererin"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

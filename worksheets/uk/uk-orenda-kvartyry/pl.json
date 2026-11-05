@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.356Z"
+  },
+  "title": "Wynajem mieszkania",
+  "instructions": {
+    "uk-orenda-kvartyry-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-orenda-kvartyry-gap": "Wybierz właściwe słowo.",
+    "uk-orenda-kvartyry-verbs": "Wstaw właściwy czasownik.",
+    "uk-orenda-kvartyry-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-orenda-kvartyry-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-orenda-kvartyry-matching-1",
+      "translation": "czynsz",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-1:meaning",
+      "translation": "Pieniądze, które co miesiąc płaci się za mieszkanie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-2",
+      "translation": "wynajmujący, właściciel",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-2:meaning",
+      "translation": "Osoba, do której należy mieszkanie i która je wynajmuje.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-3",
+      "translation": "kaucja",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-3:meaning",
+      "translation": "Pieniądze, które płaci się na początku i odzyskuje przy wyprowadzce.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-4",
+      "translation": "umowa najmu",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-4:meaning",
+      "translation": "Dokument, który podpisują najemca i wynajmujący.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-5",
+      "translation": "media",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-5:meaning",
+      "translation": "Woda, prąd, gaz i ogrzewanie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-6",
+      "translation": "oglądanie mieszkania",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-6:meaning",
+      "translation": "Kiedy przychodzi się zobaczyć mieszkanie przed wynajmem.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-1",
+      "translation": "Czy media są wliczone w czynsz?",
+      "answerText": "media"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-2",
+      "translation": "Trzeba zapłacić kaucję za dwa miesiące.",
+      "answerText": "kaucję"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-3",
+      "translation": "Kiedy mogę przyjść obejrzeć mieszkanie?",
+      "answerText": "obejrzeć"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-4",
+      "translation": "Proszę uważnie przeczytać umowę przed podpisaniem.",
+      "answerText": "umowę"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-5",
+      "translation": "Mieszkanie ma dwa pokoje i balkon.",
+      "answerText": "pokoje"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-6",
+      "translation": "Klucze przekaże Panu/Pani właściciel.",
+      "answerText": "właściciel"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-1",
+      "translation": "Szukam mieszkania dwupokojowego.",
+      "answerText": "Szukam"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-2",
+      "translation": "Wczoraj podpisaliśmy umowę.",
+      "answerText": "podpisaliśmy"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-3",
+      "translation": "Czy mogę dziś obejrzeć mieszkanie?",
+      "answerText": "obejrzeć"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-4",
+      "translation": "Właściciel da nam klucze w poniedziałek.",
+      "answerText": "da"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-5",
+      "translation": "Ile kosztują media zimą?",
+      "answerText": "kosztują"
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-1",
+      "translation": "Czy mieszkanie jest jeszcze wolne?",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-2",
+      "translation": "Chcę obejrzeć mieszkanie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-3",
+      "translation": "Ile wynosi kaucja?",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-4",
+      "translation": "Czynsz trzeba płacić do piątego dnia miesiąca.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-1",
+      "translation": "mieszkanie",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-2",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-3",
+      "translation": "pokój",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-4",
+      "translation": "ogrzewanie",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-5",
+      "translation": "klucze",
+      "answerText": null
+    }
+  ]
+}

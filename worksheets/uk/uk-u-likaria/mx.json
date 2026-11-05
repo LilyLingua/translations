@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:51.055Z"
+  },
+  "title": "Con el médico",
+  "instructions": {
+    "uk-u-likaria-matching": "Relacione cada palabra con su significado.",
+    "uk-u-likaria-gap": "Elija la palabra correcta.",
+    "uk-u-likaria-verbs": "Escriba el verbo correcto.",
+    "uk-u-likaria-order": "Ordene las palabras y escriba la oración.",
+    "uk-u-likaria-spelling": "¿Qué palabra está bien escrita? Márquela."
+  },
+  "items": [
+    {
+      "id": "uk-u-likaria-matching-1",
+      "translation": "la consulta",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-1:meaning",
+      "translation": "La hora en que el médico atiende a un paciente.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2",
+      "translation": "el síntoma",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2:meaning",
+      "translation": "Una señal de enfermedad, por ejemplo la temperatura alta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3",
+      "translation": "la temperatura",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3:meaning",
+      "translation": "Lo que se mide con el termómetro.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4",
+      "translation": "la recepción",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4:meaning",
+      "translation": "El lugar en la clínica donde se hacen las citas con el médico.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5",
+      "translation": "la orden médica",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5:meaning",
+      "translation": "Un documento del médico para otro médico o para análisis.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6",
+      "translation": "la incapacidad",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6:meaning",
+      "translation": "Un documento que dice que una persona está enferma y no puede trabajar.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-gap-1",
+      "translation": "Quiero sacar una cita con el médico general.",
+      "answerText": "cita"
+    },
+    {
+      "id": "uk-u-likaria-gap-2",
+      "translation": "Tengo temperatura alta desde ayer.",
+      "answerText": "temperatura"
+    },
+    {
+      "id": "uk-u-likaria-gap-3",
+      "translation": "Por favor, haga su cita en recepción.",
+      "answerText": "recepción"
+    },
+    {
+      "id": "uk-u-likaria-gap-4",
+      "translation": "El médico me dio una orden para un análisis de sangre.",
+      "answerText": "orden"
+    },
+    {
+      "id": "uk-u-likaria-gap-5",
+      "translation": "Necesito una incapacidad para el trabajo.",
+      "answerText": "incapacidad"
+    },
+    {
+      "id": "uk-u-likaria-gap-6",
+      "translation": "¿Qué síntomas tiene?",
+      "answerText": "síntomas"
+    },
+    {
+      "id": "uk-u-likaria-verbs-1",
+      "translation": "Me duele la garganta.",
+      "answerText": "duele"
+    },
+    {
+      "id": "uk-u-likaria-verbs-2",
+      "translation": "Duermo mal.",
+      "answerText": "Duermo"
+    },
+    {
+      "id": "uk-u-likaria-verbs-3",
+      "translation": "El médico me mide la presión.",
+      "answerText": "mide"
+    },
+    {
+      "id": "uk-u-likaria-verbs-4",
+      "translation": "Necesita quedarse en casa dos días.",
+      "answerText": "quedarse"
+    },
+    {
+      "id": "uk-u-likaria-verbs-5",
+      "translation": "Por favor, respire profundo.",
+      "answerText": "respire"
+    },
+    {
+      "id": "uk-u-likaria-order-1",
+      "translation": "Me duele el estómago.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-2",
+      "translation": "¿Cuándo puedo venir a consulta?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-3",
+      "translation": "¿Necesito receta?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-4",
+      "translation": "Venga la próxima semana.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-1",
+      "translation": "médico",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-2",
+      "translation": "clínica",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-3",
+      "translation": "termómetro",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-4",
+      "translation": "análisis",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-5",
+      "translation": "salud",
+      "answerText": null
+    }
+  ]
+}

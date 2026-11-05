@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:09.653Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ሉቤክ",
+  "instructions": {
+    "stadt-luebeck-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-luebeck-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-luebeck-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-luebeck-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-luebeck-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-luebeck-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "Holstentor (ሆልስተንቶር)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "ሁለት ክብ ማማዎች ያሉት አሮጌ የከተማ በር – የሉቤክ መለያ ምልክት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "ማርዚፓኑ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "ከአልሞንድና ከስኳር የሚሠራ ጣፋጭ፤ ሉቤክ በእሱ ታዋቂ ናት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "የሃንዛ ንግሥት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "ቅጽል ስም፦ በመካከለኛው ዘመን ሉቤክ የሃንዛ በጣም አስፈላጊ ከተማ ነበረች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "የአሮጌው ከተማ ደሴት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "አሮጌው ከተማ በደሴት ላይ ይገኛል፤ የዓለም ቅርስም ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Travemünde (ትራቨምዩንደ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "በባልቲክ ባሕር ላይ ያለ የከተማ ክፍል፤ የባሕር ዳርቻና ትላልቅ የመሻገሪያ መርከቦች (ፌሪ) አሉት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Thomas Mann (ቶማስ ማን)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "ከሉቤክ የመጣ ታዋቂ ደራሲ፤ „Buddenbrooks“ን ጻፈ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "„Gänge“ (መተላለፊያዎቹ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "በአሮጌው ከተማ በቤቶች መካከል ያሉ ጠባብ መንገዶች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "በHolstentor በኩል እናልፋለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "አንድ ቁራጭ ማርዚፓን እገዛለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "በመካከለኛው ዘመን ሉቤክ የሃንዛ በጣም አስፈላጊ ከተማ ነበረች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "በTravemünde ወደ ባሕር ዳርቻው እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "ፌሪው የባልቲክ ባሕርን ያቋርጣል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "ቶማስ ማን ስለ አንድ ቤተሰብ ልብ ወለድ ጻፈ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "አሮጌው ከተማ በደሴት ላይ ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "Holstentor ሁለት ክብ ማማዎች አሉት።",
+      "answerText": "አሉት"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "ማርዚፓን ከአልሞንድና ከስኳር ይሠራል።",
+      "answerText": "ይሠራል"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "ፌሪዎቹ ወደ ስዊድንና ፊንላንድ ይሄዳሉ።",
+      "answerText": "ይሄዳሉ"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "አሮጌው ከተማ በደሴት ላይ ይገኛል።",
+      "answerText": "ይገኛል"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "ቶማስ ማን „Buddenbrooks“ የተባለውን ልብ ወለድ ጻፈ።",
+      "answerText": "ጻፈ"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "በሩ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "አልሞንዱ (ለውዝ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "ደሴቱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "የባሕር ዳርቻው",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "ፌሪው (የመሻገሪያ መርከብ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "ልብ ወለዱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "Holstentor የሉቤክ መለያ ምልክት ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "ማርዚፓን ትወዳለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "አሮጌው ከተማ በደሴት ላይ ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "በበጋ ወደ Travemünde እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "ማርዚፓን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "ደሴት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "የባሕር ዳርቻ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "ፌሪ (የመሻገሪያ መርከብ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "አልሞንድ (ለውዝ)",
+      "answerText": null
+    }
+  ]
+}

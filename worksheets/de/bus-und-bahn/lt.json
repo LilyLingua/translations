@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Autobusu ir traukiniu",
+  "instructions": {
+    "bus-und-bahn-matching": "Kiekvieną žodį sujunkite su tinkamu paaiškinimu.",
+    "bus-und-bahn-gap": "Pažymėkite tinkamą žodį.",
+    "bus-und-bahn-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "bus-und-bahn-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "bus-und-bahn-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "bus-und-bahn-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "bilietas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Su juo galima važiuoti autobusu arba traukiniu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "bilietų automatas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Čia bilietą perkate be kasos.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "peronas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Čia stotyje sustoja traukinys.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "vėlavimas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Traukinys atvyksta vėliau nei planuota.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "persėsti",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Iš vieno traukinio persėdate į kitą.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "stotelė",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Čia sustoja autobusas.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Mėnesinis bilietas autobusams ir vietiniams traukiniams visoje Vokietijoje.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Traukinys į Köln išvyksta nuo 5 perono.",
+      "answerText": "perono"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Traukinio vėlavimas – dešimt minučių.",
+      "answerText": "vėlavimas"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Kur yra artimiausia stotelė?",
+      "answerText": "stotelė"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Prašom vieną bilietą į Berlyną.",
+      "answerText": "bilietą"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Prašome parodyti savo bilietą.",
+      "answerText": "bilietą"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metro važiuoja kas dešimt minučių.",
+      "answerText": "Metro"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Bilietų galite nusipirkti automate.",
+      "answerText": "automate"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Kur man reikia persėsti?",
+      "answerText": "persėsti"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Autobusas išvyksta 8:15.",
+      "answerText": "išvyksta"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Į Hamburgą atvykstame 10 valandą.",
+      "answerText": "atvykstame"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Prašome čia išlipti.",
+      "answerText": "išlipti"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Kiek laiko trunka kelionė?",
+      "answerText": "trunka"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "traukinys",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "stotis",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "bilietas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "peronas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "stotelė",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "autobusas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Kada išvyksta kitas traukinys į Miuncheną?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Manheime turiu persėsti į kitą traukinį.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Deja, traukinys vėluoja.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Ar bilietas galioja ir autobusui?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bilietas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "vėlavimas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "stotelė",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "peronas",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "stotis",
+      "answerText": null
+    }
+  ]
+}

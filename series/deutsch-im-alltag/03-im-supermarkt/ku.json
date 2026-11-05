@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Tu dikarî pênc ewro ji min re hûr bikî?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Bibore, ez ardê li ku dibînim?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Ji kerema xwe 200 gram Gouda dixwazim."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Erê, baş e."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Mûz bi erzanî ne."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Otomata şûşeyan li ku ye?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Na, spas."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Çenteyek bi min re heye."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Bi kartê, ji kerema xwe."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Spas, ji we re jî!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Ez pir birçî me! Lê sarinca min vala ye."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Wê demê em herin supermarketê!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Supermarket? Bi tevahî bi almanî?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Bê guman! Îro tu kirîneke tevahî dikî – ji erebeya kirînê heta fîşa kasê."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Û di her rewşê de em ji te dipirsin: Tu çi dibêjî?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Û tenê pênc çirkeyên te hene!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Tu erebeyeke kirînê dixwazî. Lê ji bo wê pereyekî hesinî lazim e – û tenê kaxezeke pênc ewroyî li cem te heye."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Li kêleka te mêrekî kal radiweste."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Bibore, tu dikarî pênc ewro diyarî min bikî?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Bibore, tu dikarî pênc ewro ji min re hûr bikî?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Bibore, ez erebeya te dixwazim."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ tê wateya: tu kaxezekê didî û pereyên hesinî distînî. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "tê wateya: tu wê belaş distînî – ev dê pir xweş be, lê hinekî bêşerm e."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Kêlîkekê… erê: du, çar, pênc ewro. Fermo!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Gelek spas!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Tu dikarî pênc ewro ji min re hûr bikî?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Ard ji te re lazim e. Lê ard li ku ye? Karmendek niha refikekê tije dike."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Tu çi dipirsî?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Bibore, ez ardê li ku dibînim?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (artîkela şaş)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: We ard dît?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Hema hema, Leo. Rast „das Mehl“ e. Lê A hê baştir e: „Entschuldigung, wo finde ich …?“ (Bibore, ez …"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "li ku dibînim?) – bi vî awayî tu li supermarketê bi rêzdarî li her tiştî dipirsî."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Ard li korîdora sêyem e, li jêra jêrîn a refikê."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Spas!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Bibore, ez ardê li ku dibînim?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Korîdora sêyem, li jêra jêrîn."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Niha tu diçî tezgaha xwarinên teze. Tu penîrê Gouda dixwazî."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Rojbaş! Hûn çi dixwazin?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Ez 200 gram Gouda me."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Erê, dibe."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Ji kerema xwe 200 gram Gouda dixwazim."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ bi hêsanî tê wateya: Hûn çi dixwazin? Û bi „Ich hätte gern …“ (…"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "dixwazim) tu her tim bi rêzdarî sîparîş didî – li tezgahê, li firinê, li kafeyê."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Ji kerema xwe 200 gram Gouda dixwazim."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Xatûn Haas penîr dibire. Li ser terazûyê nivîsandî ye: 230 gram."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Dibe ku hinekî zêdetir be?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Na, destûra min tune."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Erê, baş e."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Erê, ez hinekî zêdetir im."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Tu vê hevokê li her tezgahekê li Almanyayê dibihîzî. Wateya wê: hinekî ji sîparîşê zêdetir bû – baş e?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Heke na, bi hêsanî bêje: „Nein, bitte genau 200 Gramm.“ (Na, ji kerema xwe tam 200 gram.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Tiştekî din?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Na, spas. Ev bû."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Erê, baş e."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Na, spas. Ev bû."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Tu dimeşî. Ji nişka ve tu daxuyaniyekê dibihîzî. Baş guhdarî bike!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Kiriyarên hêja! Îro bi erzanî: mûz, kîloyek tenê 99 sent."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Kîloyek mûz bi çend e?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 sent"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 sent. „Im Angebot“ tê wateya: îro ji her carê erzantir e."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Mûz bi erzanî ne."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Şûşeyên vala jî li cem te hene – bi vê nîşanê: emanet („Pfand“). Tu wan dibî ku derê?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Ji bo otomata şûşeyan. Tu pere paşde distînî."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Ji bo sela gemarê li ber derî."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Ji bo kasê – wek diyarî."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, bavêje gemarê!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Na Leo – wê demê tu pere diavêjî! A! Ji bo gelek şûşeyan tu 25 sent paşde distînî."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Otomat fîşekê dide te. Tu wê li kasê didî."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Otomata şûşeyan li ku ye?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Niha tu li kasê yî. Tu her tiştî datînî ser bandê."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Silav! Hûn xalan berhev dikin?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Erê, ez pûlan berhev dikim."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Ez xalên we berhev dikim."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Na, spas."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Ez pûlan berhev dikim. Ji dema dibistanê ve."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Xweş e, Leo – lê ew naxwaze vê bizane. C! Gelek supermarketan kartek an sepanek bi xalan heye."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Heke ya te tune be, bi hêsanî bêje: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Na, spas."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Erê, ev karta min e."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Hûn tûrikekî dixwazin?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Erê, tûrikekî şîr, ji kerema xwe."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Na, spas. Çenteyek bi min re heye."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Na, ez ne tûrik im."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Baş e ku tu zanibî: li Almanyayê tûrik hema her tim bi pere ne."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Gelek kes çenteyê xwe bi xwe re tînin."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Çenteyek bi min re heye."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Dibe 23,47 €. Hûn bi pereyê kaş didin an bi kartê?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Bi kartê, ji kerema xwe."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Ez bi „Bar“ didim."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Erê, kaş an kart."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Erê!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo… ev ne pirsa erê-na ye! A! „Bar“ tê wateya: bi kaxez û pereyên hesinî. Û heke tu ne bawer î, bipirse: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Ez dikarim bi kartê bidim?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Bi kartê, ji kerema xwe."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Ez dikarim bi kartê bidim?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Hûn fîşa kasê dixwazin?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Na, ez ji şekirokan („Bonbons“) hez nakim."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Na, spas. Ew ji min re ne lazim e."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Erê, ez kasê dixwazim."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Ez ji şekirokan hez nakim. Pir şekir."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ ne „Bonbon“ e. „Kassenbon“ ew kaxez e – li ser wê nivîsandî ye ka te çi kirî."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B rast e. An jî: „Ja, bitte.“ (Erê, ji kerema xwe.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Rojeke xweş!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Spas, ji we re jî!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Spas, ji we re jî!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Sê şîret ji bo supermarketê li Almanyayê."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Yekem: roja yekşemê hema hema hemû supermarket girtî ne – ji ber vê yekê roja şemiyê bikire!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Duyem: li kasê tu her tiştî bi xwe datînî ser bandê."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Cudakar nîşan dide: ji vir ve kiriyarê din dest pê dike."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Û sêyem: li kasê her tişt bi lez diçe."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Piştî kasê bi aramî tiştên xwe bixe çenteyê – ev bi tevahî normal e."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo lîsteya kirînê dinivîse. Lê tiştek ne rast e…"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Şûşeyek mast."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Qedehek mast!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Qûtiyek nan."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Nanek – an pakêtek nanê tost!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Qedehek makarone."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Pakêtek makarone!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Pakêtek av."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Şûşeyek av!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Tûrikek bacanên sor."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Qûtiyek bacanên sor!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Ez penîr li ku dibînim?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "Û lêker diçe dawiyê: ne „Ich möchte bezahlen mit Karte“, lê: „Ich möchte mit Karte bezahlen.“ (Ez dixwazim bi kartê bidim.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "Û li kasê: „Bon“ fîş e. „Bonbon“ şekirok e."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "Û niha her tişt careke din. Deh hevokên herî girîng. Dubare bike!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Tu dikarî pênc ewro ji min re hûr bikî?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Bibore, ez ardê li ku dibînim?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Ji kerema xwe 200 gram Gouda dixwazim."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Erê, baş e."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Na, spas. Ev bû."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Mûz bi erzanî ne."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Otomata şûşeyan li ku ye?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Çenteyek bi min re heye."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Ez dikarim bi kartê bidim?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Spas, ji we re jî!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Tu herî zêde hez dikî ji supermarketê çi bikirî? Di şîroveyan de binivîse!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Bi xatirê te, heta demeke nêzîk li LilyLingua!"
+    }
+  ]
+}

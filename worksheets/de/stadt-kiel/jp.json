@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:07.315Z"
+  },
+  "title": "キール",
+  "instructions": {
+    "stadt-kiel-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-kiel-gap": "正しい単語に印をつけましょう。",
+    "stadt-kiel-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-kiel-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-kiel-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-kiel-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "「フェルデ」（入り江）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "陸の奥まで入りこんだ、バルト海の細長い入り江。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "キール・ウィーク",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "6月の大きなヨットの祭りで、音楽と世界中の船が集まる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "フェリー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "人と車を運ぶ大きな船。たとえばノルウェーへ行く。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "キール運河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "北海とバルト海を結ぶ人工の水路。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "キールの燻製スプラット",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "キール名物の小さな燻製の魚。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "「モイン・モイン！」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "北ドイツのあいさつ。「モイン」を2回言うのは多すぎると思う人もいる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "帆走する",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "風で進む船で移動すること。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "キールはバルト海に面しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "6月に私たちはキール・ウィークを祝います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "私たちはフェリーでオスロへ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "船がキール運河を通ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "週末、私たちは入り江でヨットに乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "私はキールの燻製スプラットを一袋買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "私たちは浜辺で犬の散歩をします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "フェリーは毎日ノルウェーへ行きます。",
+      "answerText": "行き"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "キール・ウィークには世界中の船が帆走します。",
+      "answerText": "帆走し"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "多くの船がキール運河を利用します。",
+      "answerText": "利用し"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "北では「モイン」と言います。",
+      "answerText": "言い"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "浜辺ではよく強い風が吹きます。",
+      "answerText": "吹き"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "ボート",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "フェリー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "魚",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "浜辺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "帆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "運河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "キールはバルト海に面しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "6月に街はキール・ウィークを祝います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "フェリーでノルウェーへ行きますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "週末、私たちは入り江でヨットに乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "フェリー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "帆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "浜辺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "バルト海",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "運河",
+      "answerText": null
+    }
+  ]
+}

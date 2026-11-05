@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.716Z"
+  },
+  "title": "Аутобусом и возом",
+  "instructions": {
+    "bus-und-bahn-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "bus-und-bahn-gap": "Означите одговарајућу реч.",
+    "bus-und-bahn-verbs": "Упишите прави глагол у правом облику.",
+    "bus-und-bahn-table": "Допуните члан (der/die/das) и облик множине.",
+    "bus-und-bahn-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "bus-und-bahn-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "карта (возна карта)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "С њом смете да се возите аутобусом или возом.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "аутомат за карте",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Овде купујете карту без шалтера.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "колосек",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Овде воз стаје на станици.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "кашњење",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Воз долази касније него што је планирано.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "преседати",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Прелазите из једног воза у други.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "станица (стајалиште)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Овде стаје аутобус.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Месечна карта за аутобус и воз у локалном саобраћају у целој Немачкој.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Воз за Келн полази с колосека 5.",
+      "answerText": "колосека"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Воз касни десет минута.",
+      "answerText": "касни"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Где је најближа станица?",
+      "answerText": "станица"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Једну карту за Берлин, молим.",
+      "answerText": "карту"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Молим вас, покажите карту.",
+      "answerText": "карту"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Метро иде на сваких десет минута.",
+      "answerText": "Метро"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "На аутомату можете да купите карте.",
+      "answerText": "аутомату"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Где морам да преседнем?",
+      "answerText": "преседнем"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Аутобус полази у 8:15.",
+      "answerText": "полази"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Стижемо у Хамбург у 10 сати.",
+      "answerText": "Стижемо"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Молим вас, сиђите овде.",
+      "answerText": "сиђите"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Колико траје вожња?",
+      "answerText": "траје"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "воз",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "железничка станица",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "карта",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "колосек",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "станица (стајалиште)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "аутобус",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Када полази следећи воз за Минхен?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Морам да преседнем у Манхајму.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Воз нажалост касни.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Да ли карта важи и за аутобус?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "карта",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "кашњење",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "станица",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "колосек",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "железничка станица",
+      "answerText": null
+    }
+  ]
+}

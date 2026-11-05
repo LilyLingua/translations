@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.620Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Wɔ supermarket mu",
+  "instructions": {
+    "im-supermarkt-matching": "Fa asɛmfua biara ka ne nkyerɛkyerɛmu a ɛfata ho.",
+    "im-supermarkt-gap": "Hyɛ kotokuo anaa dodoɔ a ɛfata no nsɛnkyerɛnne.",
+    "im-supermarkt-verbs": "Fa adeyɛ asɛmfua a ɛteɛ hyɛ mu wɔ ne nsɛsoɔ a ɛteɛ mu.",
+    "im-supermarkt-table": "Fa artikel (der/die/das) ne dodoɔ nsɛsoɔ no hyɛ mu.",
+    "im-supermarkt-order": "Hyehyɛ nsɛmfua no yie na kyerɛw kasamu no.",
+    "im-supermarkt-spelling": "Asɛmfua bɛn na wɔakyerɛw no yie? Hyɛ no nsɛnkyerɛnne."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "adetɔ kaa (shopping trolley)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Bere a woretɔ nneɛma no, wode wo nneɛma gu mu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "kyiisi tɔnbea",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Ɛha na wonya kyiisi foforɔ a wɔkari ma wo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "toa ho sika (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Sika a wonya bere a wode toa hunu san ba.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "toa san gye mfiri",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Ɛha na wode toa hunu ma.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "ka a ɛso atew (offer)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Adeɛ bi bo so tew bere tiawa bi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "rasiid",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Nneɛma no bo nyinaa wɔ saa krataa yi so.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "kotokuo (bag)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Wode wo nneɛma a woatɔ no gu mu kɔ fie.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Metɔ yogurt kɔpo baako.",
+      "answerText": "kɔpo"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Mepa wo kyɛw, nsuo toa baako bio.",
+      "answerText": "toa"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Yɛhia macaroni pakete baako.",
+      "answerText": "pakete"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Mɛfa ntoosi kankyee baako ama abomu no.",
+      "answerText": "kankyee"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Mepa wo kyɛw, mepɛ Gouda kyiisi gram 200.",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Bota baako yɛ euro 2,29.",
+      "answerText": "baako"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Mɛfa nufosuo lita baako.",
+      "answerText": "lita"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Wobɛtumi asesa euro enum ama me?",
+      "answerText": "asesa"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Kafra, ɛhe na mehunu esiam?",
+      "answerText": "mehunu"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Mede kaad tua.",
+      "answerText": "tua"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Mepɛ Gouda kyiisi gram 200.",
+      "answerText": "Mepɛ"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Kwasiada, supermarket no fa pii to mu.",
+      "answerText": "to mu"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "toa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "kɔpo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "kankyee (can)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "paanoo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "aprɛ (apple)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "kwadu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Kafra, ɛhe na mehunu esiam?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Mekura kotokuo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Ɛnnɛ kwadu no bo so atew.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Ɛhe na toa san gye mfiri no wɔ?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "adetɔ kaa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "rasiid",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "toa ho sika",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "kyiisi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "paanoo ketewa",
+      "answerText": null
+    }
+  ]
+}

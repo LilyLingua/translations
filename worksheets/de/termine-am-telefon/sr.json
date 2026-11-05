@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.591Z"
+  },
+  "title": "Заказивање термина телефоном",
+  "instructions": {
+    "termine-am-telefon-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "termine-am-telefon-gap": "Означите тачан предлог.",
+    "termine-am-telefon-verbs": "Упишите прави глагол у правом облику.",
+    "termine-am-telefon-table": "Допуните члан (der/die/das) и облик множине.",
+    "termine-am-telefon-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "termine-am-telefon-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "телефонска секретарица",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Овде можете да оставите поруку.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "локал (директан број)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Директан телефонски број неке особе у фирми.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "узвратити позив",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Позвати некога касније, јер је он пре тога звао.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "померити",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Пребацити термин на други дан.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "отказати",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Рећи да нећете доћи на термин.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "радно време за странке",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Време у којем се некога може добити.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "спеловати",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Изговорити реч слово по слово.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Да ли имате времена у понедељак?",
+      "answerText": "у"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Да ли може у 10 сати?",
+      "answerText": "у"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Имам времена тек у децембру.",
+      "answerText": "у"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Ординација је затворена викендом.",
+      "answerText": "викендом"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Позваћу вас за сат времена.",
+      "answerText": "за"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Већ две недеље чекам термин.",
+      "answerText": "Већ"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Молим вас, дођите десет минута пре термина.",
+      "answerText": "пре"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Могу ли, молим вас, да разговарам с госпођом Вебер?",
+      "answerText": "разговарам"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Нажалост, морам да откажем термин.",
+      "answerText": "откажем"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Можете ли, молим вас, да ме позовете?",
+      "answerText": "позовете"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Даћу вам свој број.",
+      "answerText": "Даћу"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Како се пише ваше име?",
+      "answerText": "пише"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "позив",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "број",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "порука",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "време (сат)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "мобилни телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Желим да померим термин.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Када имате времена?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Сутра ћу поново позвати.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Да ли вам одговара четвртак у 9 сати?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "порука",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "термин",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "узвратити позив",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "време (сат)",
+      "answerText": null
+    }
+  ]
+}

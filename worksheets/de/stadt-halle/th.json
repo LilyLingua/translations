@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:52.631Z"
+  },
+  "title": "ฮัลเลอ (ซาเลอ)",
+  "instructions": {
+    "stadt-halle-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-halle-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-halle-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-halle-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-halle-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-halle-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "เกออร์ก ฟรีดริช ฮันเดิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "นักประพันธ์เพลงชื่อดัง เกิดที่ฮัลเลอในปี 1685",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "ช็อกโกแลตกลมฮัลโลเริน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "ช็อกโกแลตลูกกลมเล็ก ๆ จากโรงงานช็อกโกแลตที่เก่าแก่มาก (ตั้งแต่ปี 1804)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "ฮัลโลเริน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "เมื่อก่อนคือคนงานเกลือในฮัลเลอ สมาคมของพวกเขายังมีอยู่จนถึงทุกวันนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "เกลือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "ทำให้ฮัลเลอร่ำรวย มาจากน้ำพุเค็มใต้เมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "เมืองแห่งห้าหอคอย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "ชื่อเล่น: ที่จัตุรัสตลาดมองเห็นหอคอยห้าหอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "แม่น้ำซาเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "แม่น้ำที่ไหลผ่านฮัลเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "มูลนิธิฟรังเคอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "เมืองโรงเรียนเก่าแก่ มีบ้านโครงไม้ขนาดใหญ่ ก่อตั้งปี 1698",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "พวกเราไปเยี่ยมชมบ้านฮันเดิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "ฉันซื้อช็อกโกแลตกลมฮัลโลเรินหนึ่งกล่อง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "ฮัลเลอตั้งอยู่ริมแม่น้ำซาเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "บนจัตุรัสตลาดมีหอคอยห้าหอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "เมื่อก่อนผู้คนนำเกลือขึ้นมาจากใต้ดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "พวกเรานั่งเรือในแม่น้ำซาเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "ฮันเดิลแต่งเพลงชื่อดังเพลงหนึ่ง: \"เมสไซอาห์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "ฮันเดิลเกิดที่ฮัลเลอในปี 1685",
+      "answerText": "เกิด"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "แม่น้ำซาเลอไหลผ่านเมือง",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "ช็อกโกแลตกลมมีรสหวานมาก",
+      "answerText": "มีรส"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "เกลือทำให้ฮัลเลอร่ำรวย",
+      "answerText": "ทำให้"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "ที่จัตุรัสตลาดมองเห็นหอคอยห้าหอ",
+      "answerText": "มองเห็น"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "ลูกกลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "นักประพันธ์เพลง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "แหล่งน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "กล่อง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "ฮันเดิลเกิดที่ฮัลเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "คุณอยากได้ช็อกโกแลตกลมฮัลโลเรินสักลูกไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "แม่น้ำซาเลอไหลผ่านฮัลเลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "ที่จัตุรัสตลาดมีหอคอยห้าหอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "นักประพันธ์เพลง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "ลูกกลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "ช็อกโกแลต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "เกลือ",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:23.070Z"
+  },
+  "title": "Wuppertal",
+  "instructions": {
+    "stadt-wuppertal-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-wuppertal-gap": "Đánh dấu từ đúng.",
+    "stadt-wuppertal-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-wuppertal-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-wuppertal-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-wuppertal-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "tàu treo (Schwebebahn)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Tàu treo dưới đường ray và chạy phía trên con sông – từ năm 1901.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "\"Tuffi\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "Chú voi con năm 1950 đã nhảy từ tàu treo xuống sông Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "sông Wupper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Con sông chảy qua cả thành phố.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Pina Bausch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Vũ công nổi tiếng; nhà hát múa của bà ở Wuppertal được biết đến khắp thế giới.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "những bậc cầu thang",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "Wuppertal có rất nhiều cầu thang công cộng, vì thành phố nằm trên sườn đồi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Friedrich Engels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Nhà tư tưởng và bạn của Karl Marx; ông sinh ra ở quận Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "Nordbahntrasse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Đường xe đạp trên một tuyến đường sắt cũ, có đường hầm và cầu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "Tàu treo chạy phía trên sông Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "Năm 1950 một con voi đã nhảy ra khỏi tàu treo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Chúng tôi đạp xe trên Nordbahntrasse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Friedrich Engels sinh ra ở quận Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Chúng tôi leo lên cầu thang.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "Nhà hát múa nổi tiếng khắp thế giới.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi đã rơi xuống sông.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "Đoàn tàu Schwebebahn treo trên đường ray phía trên con sông.",
+      "answerText": "treo"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi rơi xuống sông Wupper.",
+      "answerText": "rơi"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "Ở Wuppertal có rất nhiều cầu thang.",
+      "answerText": "có"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "Tàu treo đã chạy hơn 120 năm.",
+      "answerText": "chạy"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Nhiều người đi xe đạp sử dụng Nordbahntrasse.",
+      "answerText": "sử dụng"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "đoàn tàu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "con voi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "cầu thang",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "con sông",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "xe đạp",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "trạm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "Tàu treo lơ lửng phía trên sông Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "Mỗi ngày có nhiều người đi tàu treo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "Bạn có biết câu chuyện về Tuffi không?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "Wuppertal có rất nhiều cầu thang.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "con voi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "cầu thang",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "con sông",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "đường ray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "trạm",
+      "answerText": null
+    }
+  ]
+}

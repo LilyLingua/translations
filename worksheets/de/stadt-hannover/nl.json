@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:38.066Z"
+  },
+  "title": "Hannover",
+  "instructions": {
+    "stadt-hannover-matching": "Verbind elk woord met de juiste uitleg.",
+    "stadt-hannover-gap": "Kruis het juiste woord aan.",
+    "stadt-hannover-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "stadt-hannover-table": "Vul het lidwoord en het meervoud in.",
+    "stadt-hannover-order": "Zet de woorden in de juiste volgorde en schrijf de zin.",
+    "stadt-hannover-spelling": "Welk woord is goed geschreven? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "de beurs",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Grote tentoonstelling voor bedrijven; Hannover heeft een enorm beursterrein.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "de Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Kunstmatig meer in de stad om te zeilen, te joggen en feest te vieren.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "de Rode Draad",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Rode lijn op de grond; hij leidt naar de bezienswaardigheden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "het Standaardduits",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "De standaardtaal; in Hannover spreekt men die bijzonder duidelijk.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "de \"Lüttje Lage\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Bier en jenever uit twee glazen die je tegelijk drinkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "het schuttersfeest",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Heel groot volksfeest in de zomer met een lange optocht.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "de \"Nana\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Grote, kleurrijke vrouwenfiguur aan de Leine, van Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "We volgen de Rode Draad door de stad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "In de zomer joggen veel mensen rond de Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Het bedrijf staat op de beurs.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "We gaan met de lift omhoog in de koepel van het stadhuis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "De Nana's staan aan de Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "We bezoeken de Herrenhäuser Gärten.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "Hij probeert een Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "De Rode Draad leidt naar veel bezienswaardigheden.",
+      "answerText": "leidt"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "In het Nieuwe Stadhuis gaat een schuine lift omhoog in de koepel.",
+      "answerText": "gaat"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Veel bedrijven tonen hun producten op de beurs.",
+      "answerText": "tonen"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "De mensen in Hannover spreken heel duidelijk Standaardduits.",
+      "answerText": "spreken"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "In 2000 vond de wereldtentoonstelling Expo plaats in Hannover.",
+      "answerText": "vond"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "de beurs",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "de tuin",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "de draad",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "de figuur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "het stadhuis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "de lift",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "De Rode Draad leidt door het centrum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "In de zomer zeilen veel mensen op de Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Ga je met de lift omhoog in de koepel?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "In Hannover spreekt men duidelijk Standaardduits.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "de beurs",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "de bezienswaardigheid",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "de lift",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "de figuur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "de koepel",
+      "answerText": null
+    }
+  ]
+}

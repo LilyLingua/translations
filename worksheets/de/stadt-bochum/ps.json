@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:13.901Z"
+  },
+  "title": "بوخوم",
+  "instructions": {
+    "stadt-bochum-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "stadt-bochum-gap": "سمه کلمه په نښه کړئ.",
+    "stadt-bochum-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "stadt-bochum-table": "آرټیکل او د جمع بڼه ولیکئ.",
+    "stadt-bochum-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "stadt-bochum-spelling": "کومه کلمه سمه لیکل شوې ده؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "برموډا مثلث (Bermuda3eck)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "د ښار په مرکز کې سیمه له ډېرو مېخانو او بارونو سره.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "کري ورسټ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "وریت ساسیج له کېچپ او کري پوډر سره – په بوخوم کې ډېر خوښ دی.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "هربرټ ګرونه مایر",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "سندرغاړی چې د خپل ښار بوخوم په اړه یوه مشهوره سندره وايي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "فاو اېف اېل بوخوم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "د ښار د فوټبال کلب، په شین او سپین رنګ کې.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "د کانونو موزیم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "لوی موزیم د ځمکې لاندې کار په اړه – له یوه کان سره چې کتل یې کېږي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "سټارلایټ اېکسپرېس",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "موزیکال چې لوبغاړي پکې په رولر سکېټونو ګرځي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "د روهر پوهنتون",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "د ښار په څنډه لوی پوهنتون له ډېرو محصلینو سره.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "د جمعې په ورځ موږ په برموډا مثلث کې سره ګورو.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "زه کري ورسټ له پومس (کچالو چپس) سره خورم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "ډېر محصلین د روهر په پوهنتون کې زده کړه کوي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "د کانونو په موزیم کې موږ کان ته ننوځو.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "لوبغاړي په رولر سکېټونو ګرځي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "هربرټ ګرونه مایر د بوخوم په اړه یوه سندره وايي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "فاو اېف اېل د کاستروپر شټراسې په لوبغالي کې لوبه کوي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "په موزیکال کې لوبغاړي په رولر سکېټونو ګرځي.",
+      "answerText": "ګرځي"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "هربرټ ګرونه مایر د خپل ښار په اړه سندرې وايي.",
+      "answerText": "وايي"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "د اونۍ په پای کې ډېر خلک برموډا مثلث ته ځي.",
+      "answerText": "ځي"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "کري ورسټ له پومس سره خوړل کېږي.",
+      "answerText": "خوړل"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "موزیکال له ۱۹۸۸ راهیسې په بوخوم کې ښودل کېږي.",
+      "answerText": "ښودل"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "مېخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "سندره",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "محصل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "موزیکال",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "پوهنتون",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "سندرغاړی",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "سټارلایټ اېکسپرېس له ۱۹۸۸ راهیسې په بوخوم کې ښودل کېږي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "له پوهنتون وروسته موږ برموډا مثلث ته ځو.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "آیا ته کري ورسټ له پومس سره خورې؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "ګرونه مایر د بوخوم په اړه یوه سندره وايي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "موزیکال",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "پوهنتون",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "کري ورسټ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "مېخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "سندرغاړی",
+      "answerText": null
+    }
+  ]
+}

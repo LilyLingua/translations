@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.215Z"
+  },
+  "title": "Termine am Telefon",
+  "instructions": {
+    "pl-wizyty-przez-telefon-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-wizyty-przez-telefon-gap": "Wähle das richtige Wort.",
+    "pl-wizyty-przez-telefon-verbs": "Setze das richtige Verb ein.",
+    "pl-wizyty-przez-telefon-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-wizyty-przez-telefon-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1",
+      "translation": "anrufen",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1:meaning",
+      "translation": "Mit jemandem am Telefon sprechen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2:meaning",
+      "translation": "Sagen, dass man nicht kommt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3",
+      "translation": "verschieben",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3:meaning",
+      "translation": "Den Termin ändern.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4",
+      "translation": "die Sprachnachricht",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4:meaning",
+      "translation": "Eine Nachricht, die man hinterlässt, wenn niemand abnimmt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5",
+      "translation": "die Durchwahl",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5:meaning",
+      "translation": "Eine kurze Telefonnummer in einer Firma.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6",
+      "translation": "ein freier Termin",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6:meaning",
+      "translation": "Eine Zeit, für die man sich noch anmelden kann.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-1",
+      "translation": "Ich möchte den Termin am Freitag absagen.",
+      "answerText": "absagen"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-2",
+      "translation": "Können wir ihn auf nächste Woche verschieben?",
+      "answerText": "verschieben"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-3",
+      "translation": "Gibt es am Montag einen freien Termin?",
+      "answerText": "freien"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-4",
+      "translation": "Bitte hinterlassen Sie eine Sprachnachricht.",
+      "answerText": "Sprachnachricht"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-5",
+      "translation": "Können Sie mich später zurückrufen?",
+      "answerText": "zurückrufen"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-6",
+      "translation": "Bitte wählen Sie die Durchwahl 245.",
+      "answerText": "Durchwahl"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-1",
+      "translation": "Ich rufe wegen eines Termins an.",
+      "answerText": "rufe"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-2",
+      "translation": "Kann ich einen Termin vereinbaren?",
+      "answerText": "vereinbaren"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-3",
+      "translation": "Können Sie das wiederholen?",
+      "answerText": "wiederholen"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-4",
+      "translation": "Ich rufe in zehn Minuten zurück.",
+      "answerText": "rufe"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-5",
+      "translation": "Das Büro ist bis siebzehn Uhr geöffnet.",
+      "answerText": "ist"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-1",
+      "translation": "Kann ich mit Doktor Nowak sprechen?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-2",
+      "translation": "Ich möchte den Termin absagen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-3",
+      "translation": "Passt Ihnen Dienstag um zehn?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-4",
+      "translation": "Ich rufe morgen früh zurück.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-1",
+      "translation": "Telefon",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-2",
+      "translation": "Nachricht",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-3",
+      "translation": "Mittwoch",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-4",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-5",
+      "translation": "Termin",
+      "answerText": null
+    }
+  ]
+}

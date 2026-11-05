@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:21.018Z"
+  },
+  "title": "Сарбрикен",
+  "instructions": {
+    "stadt-saarbruecken-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-saarbruecken-gap": "Означи тачну реч.",
+    "stadt-saarbruecken-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-saarbruecken-table": "Упиши члан и облик множине.",
+    "stadt-saarbruecken-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-saarbruecken-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-saarbruecken-matching-1",
+      "translation": "„Lyoner“ (Лионер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-1:meaning",
+      "translation": "Месна кобасица; у Сарланду се једе веома често, на пример на хлебу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2",
+      "translation": "„Schwenker“ (Швенкер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2:meaning",
+      "translation": "Роштиљ на ланцу који се њише напред-назад изнад ватре.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3",
+      "translation": "„schwenken“ (швенкен)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3:meaning",
+      "translation": "У Сарланду: пећи месо на Швенкеру.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4",
+      "translation": "граница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4:meaning",
+      "translation": "Овде се једна земља завршава, а почиње следећа; Француска је веома близу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5",
+      "translation": "рударство",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5:meaning",
+      "translation": "Рад под земљом ради вађења угља; некада веома важно у Сарланду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6",
+      "translation": "Сар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6:meaning",
+      "translation": "Река која тече кроз Сарбрикен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7",
+      "translation": "савоар вивр",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7:meaning",
+      "translation": "Француски израз за уметност уживања у животу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-1",
+      "translation": "За викенд стојимо код Швенкера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-2",
+      "translation": "Једем хлеб са Лионером.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-3",
+      "translation": "Возимо се преко границе у Француску.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-4",
+      "translation": "Река у граду зове се Сар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-5",
+      "translation": "Суботом много људи купује у француском супермаркету.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-6",
+      "translation": "Мој деда је радио под земљом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-7",
+      "translation": "Правимо пикник у Немачко-француском врту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-1",
+      "translation": "За викенд Сарланђани радо пеку месо на Швенкеру.",
+      "answerText": "пеку"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-2",
+      "translation": "Сар тече кроз сам град.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-3",
+      "translation": "Многи Сарланђани говоре и француски.",
+      "answerText": "говоре"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-4",
+      "translation": "Некада је много мушкараца радило у рударству.",
+      "answerText": "радило"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-5",
+      "translation": "Од 1957. Сарланд припада Савезној Републици.",
+      "answerText": "припада"
+    },
+    {
+      "id": "stadt-saarbruecken-table-1",
+      "translation": "роштиљ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-2",
+      "translation": "граница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-3",
+      "translation": "кобасица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-4",
+      "translation": "супермаркет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-5",
+      "translation": "мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-6",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-1",
+      "translation": "За викенд печемо роштиљ у врту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-2",
+      "translation": "Француска је удаљена само неколико километара.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-3",
+      "translation": "Да ли волиш да једеш лионер?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-4",
+      "translation": "Од 1957. Сарланд припада Немачкој.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-1",
+      "translation": "граница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-2",
+      "translation": "угаљ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-3",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-4",
+      "translation": "француски",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-5",
+      "translation": "кобасица",
+      "answerText": null
+    }
+  ]
+}

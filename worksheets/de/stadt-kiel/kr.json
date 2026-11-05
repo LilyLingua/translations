@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:32.444Z"
+  },
+  "title": "킬",
+  "instructions": {
+    "stadt-kiel-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-kiel-gap": "알맞은 단어에 표시하세요.",
+    "stadt-kiel-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-kiel-table": "관사와 복수형을 쓰세요.",
+    "stadt-kiel-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-kiel-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "'푀르데'(협만)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "육지 깊숙이 들어온 발트해의 길고 좁은 만.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "킬 주간",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "6월의 큰 요트 축제로, 음악과 세계 각국의 배들이 모인다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "페리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "사람과 자동차를 싣는 큰 배로, 예를 들어 노르웨이로 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "킬 운하",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "북해와 발트해를 잇는 인공 물길.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "킬 훈제 청어",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "킬의 명물인 작은 훈제 생선.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "'모인 모인!'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "북독일 인사말로, '모인'을 두 번 말하는 건 너무 많다고 생각하는 사람도 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "요트를 타다",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "바람으로 움직이는 배를 타고 가다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "킬은 발트해에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "6월에 우리는 킬 주간을 즐긴다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "우리는 페리를 타고 오슬로에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "배들이 킬 운하를 지나간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "주말에 우리는 협만에서 요트를 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "나는 킬 훈제 청어 한 봉지를 산다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "우리는 해변에서 개를 산책시킨다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "페리는 매일 노르웨이로 간다.",
+      "answerText": "간다"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "킬 주간에는 세계 각국의 배들이 항해한다.",
+      "answerText": "항해한다"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "많은 배들이 킬 운하를 이용한다.",
+      "answerText": "이용한다"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "북쪽에서는 '모인'이라고 말한다.",
+      "answerText": "말한다"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "해변에는 자주 강한 바람이 분다.",
+      "answerText": "분다"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "보트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "페리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "생선",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "해변",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "돛",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "운하",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "킬은 발트해에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "6월에 도시는 킬 주간을 즐긴다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "페리 타고 노르웨이에 가?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "주말에 우리는 협만에서 요트를 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "페리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "돛",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "해변",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "발트해",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "운하",
+      "answerText": null
+    }
+  ]
+}

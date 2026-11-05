@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "c4b5e45c-a373-4914-a69d-88e672ea8180",
+    "level": "A1"
+  },
+  "title": "У кав'ярні",
+  "topic": "Замовляти, платити й ввічливо просити",
+  "tasks": [
+    {
+      "id": "uk-u-kavyarni-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-u-kavyarni-matching-1",
+          "term": "меню",
+          "meaning": "Список страв і напоїв з цінами."
+        },
+        {
+          "id": "uk-u-kavyarni-matching-2",
+          "term": "офіціант",
+          "meaning": "Людина, яка приносить їжу й напої."
+        },
+        {
+          "id": "uk-u-kavyarni-matching-3",
+          "term": "рахунок",
+          "meaning": "Папірець, на якому написано, скільки треба заплатити."
+        },
+        {
+          "id": "uk-u-kavyarni-matching-4",
+          "term": "чайові",
+          "meaning": "Додаткові гроші за добре обслуговування."
+        },
+        {
+          "id": "uk-u-kavyarni-matching-5",
+          "term": "торт",
+          "meaning": "Солодка страва, наприклад шоколадна."
+        },
+        {
+          "id": "uk-u-kavyarni-matching-6",
+          "term": "з собою",
+          "meaning": "Коли їжу чи напій забирають і не їдять у кафе."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-u-kavyarni-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-u-kavyarni-gap-1",
+          "promptBefore": "Можна, будь ласка,",
+          "promptAfter": "?",
+          "correctAnswer": "меню",
+          "options": [
+            "меню",
+            "торт",
+            "чайові"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-kavyarni-gap-2",
+          "promptBefore": "Мені чашку",
+          "promptAfter": ", будь ласка.",
+          "correctAnswer": "кави",
+          "options": [
+            "кави",
+            "меню",
+            "торта"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-kavyarni-gap-3",
+          "promptBefore": "Ми вже поїли. Принесіть, будь ласка,",
+          "promptAfter": ".",
+          "correctAnswer": "рахунок",
+          "options": [
+            "рахунок",
+            "торт",
+            "меню"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-kavyarni-gap-4",
+          "promptBefore": "Вам тут чи",
+          "promptAfter": "?",
+          "correctAnswer": "з собою",
+          "options": [
+            "з собою",
+            "рахунок",
+            "меню"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-kavyarni-gap-5",
+          "promptBefore": "Наш",
+          "promptAfter": "дуже привітний.",
+          "correctAnswer": "офіціант",
+          "options": [
+            "офіціант",
+            "торт",
+            "рахунок"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-kavyarni-gap-6",
+          "promptBefore": "Ми залишили",
+          "promptAfter": "на столі.",
+          "correctAnswer": "чайові",
+          "options": [
+            "чайові",
+            "офіціанта",
+            "меню"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-u-kavyarni-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-u-kavyarni-verbs-1",
+          "promptBefore": "Я",
+          "promptAfter": "чай із лимоном.",
+          "correctAnswer": "візьму",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "взяти"
+        },
+        {
+          "id": "uk-u-kavyarni-verbs-2",
+          "promptBefore": "Що ви",
+          "promptAfter": "?",
+          "correctAnswer": "порадите",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "порадити"
+        },
+        {
+          "id": "uk-u-kavyarni-verbs-3",
+          "promptBefore": "Ми",
+          "promptAfter": "заплатити.",
+          "correctAnswer": "хочемо",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "хотіти"
+        },
+        {
+          "id": "uk-u-kavyarni-verbs-4",
+          "promptBefore": "Торт",
+          "promptAfter": "дуже смачно.",
+          "correctAnswer": "пахне",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "пахнути"
+        },
+        {
+          "id": "uk-u-kavyarni-verbs-5",
+          "promptBefore": "Чи можу я",
+          "promptAfter": "карткою?",
+          "correctAnswer": "заплатити",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "заплатити"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-u-kavyarni-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-u-kavyarni-order-1",
+          "chunks": [
+            "Можна",
+            "склянку",
+            "води"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-kavyarni-order-2",
+          "chunks": [
+            "Мені",
+            "шматок",
+            "торта"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-u-kavyarni-order-3",
+          "chunks": [
+            "Скільки",
+            "коштує",
+            "кава"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-kavyarni-order-4",
+          "chunks": [
+            "Ми",
+            "хочемо",
+            "заплатити"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-u-kavyarni-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-u-kavyarni-spelling-1",
+          "correct": "кава",
+          "wrong": "кова"
+        },
+        {
+          "id": "uk-u-kavyarni-spelling-2",
+          "correct": "шоколад",
+          "wrong": "шеколад"
+        },
+        {
+          "id": "uk-u-kavyarni-spelling-3",
+          "correct": "бутерброд",
+          "wrong": "бутерберд"
+        },
+        {
+          "id": "uk-u-kavyarni-spelling-4",
+          "correct": "сніданок",
+          "wrong": "сниданок"
+        },
+        {
+          "id": "uk-u-kavyarni-spelling-5",
+          "correct": "смачно",
+          "wrong": "смачьно"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

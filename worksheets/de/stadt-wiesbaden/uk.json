@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:48.251Z"
+  },
+  "title": "Вісбаден",
+  "instructions": {
+    "stadt-wiesbaden-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-wiesbaden-gap": "Позначте правильне слово.",
+    "stadt-wiesbaden-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-wiesbaden-table": "Допишіть артикль і форму множини.",
+    "stadt-wiesbaden-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-wiesbaden-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "курортне місто",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "Місто з лікувальною водою; колись сюди приїжджали багаті гості відпочивати.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "джерело",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "Тут вода виходить із землі; у Вісбадені вона часто гаряча.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "Кохбруннен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "Відоме гаряче джерело в центрі; вода гаряча й солона.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "Кургауз",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "Розкішна будівля для свят і концертів, з казино.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "Нероберґбан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "Старий фунікулер, що працює лише на воді як противазі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "Штерншнуппенмаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "Назва різдвяного ярмарку у Вісбадені.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "казино",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "Місце, де грають на гроші, наприклад у рулетку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "Ми їдемо на гору фунікулером Нероберґбан.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "Вода з Кохбруннена гаряча.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "Ми йдемо на концерт у Кургауз.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "У грудні ми відвідуємо Штерншнуппенмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "Вісбаден – столиця землі Гессен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "У Федеральному статистичному відомстві рахують жителів Німеччини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "Ми відпочиваємо в термах.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "Гаряча вода виходить із землі.",
+      "answerText": "виходить"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "Нероберґбан працює лише на воді.",
+      "answerText": "працює"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "Колись багаті гості їздили на лікування до Вісбадена.",
+      "answerText": "їздили"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "У Кургаузі можна грати в рулетку.",
+      "answerText": "можна"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "Багато людей відпочивають у термах.",
+      "answerText": "відпочивають"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "джерело",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "гість",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "залізниця",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "криниця (фонтан)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "купальня",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "гора",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "У Вісбадені багато гарячих джерел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "Нероберґбан їздить на воді.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "Підеш зі мною в терми?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "Вісбаден – столиця землі Гессен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "джерело",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "фонтан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "терми",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "гість",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "концерт",
+      "answerText": null
+    }
+  ]
+}

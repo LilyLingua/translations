@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:44.001Z"
+  },
+  "title": "관공서에서",
+  "instructions": {
+    "auf-dem-amt-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "auf-dem-amt-gap": "알맞은 단어에 표시하세요.",
+    "auf-dem-amt-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "auf-dem-amt-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "auf-dem-amt-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "auf-dem-amt-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "전입 신고",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "새 주소를 관공서에 신고합니다.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "대기 번호표",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "이 번호를 기계에서 뽑습니다.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "여권",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "외국에 갈 때 쓰는 신분증.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "집주인 확인서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "전입 신고를 위해 집주인에게서 받는 서류.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "거주 등록 증명서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "지금 이 주소에 산다는 것을 보여 주는 서류.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "혼인 상태",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "미혼, 기혼, 이혼 또는 사별",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "서명",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "손으로 쓴 이름.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "신청서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "빈칸을 채우는 종이.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "새 집을 전입 신고하고 싶어요.",
+      "answerText": "집"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "기계에서 번호표를 뽑아 주세요.",
+      "answerText": "번호표"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "147번 손님, 12번 창구로 오세요.",
+      "answerText": "창구"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "여기 집주인의 확인서가 있어요.",
+      "answerText": "집주인"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "신분증을 가지고 오셨어요?",
+      "answerText": "신분증"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "신청서를 빠짐없이 작성해 주세요.",
+      "answerText": "신청서"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "거주 등록 증명서는 예를 들어 은행 계좌를 만들 때 자주 다시 필요합니다.",
+      "answerText": "거주 등록 증명서"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "오늘 전입 신고를 합니다.",
+      "answerText": "합니다"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "어디에 서명해야 해요?",
+      "answerText": "서명해야"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "제 이름의 철자를 말할게요: N – O – W – A – K.",
+      "answerText": "말할게요"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "앉으세요.",
+      "answerText": "앉으세요"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "처리하는 데 약 2주가 걸립니다.",
+      "answerText": "걸립니다"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "관공서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "신분증",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "집",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "신청서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "집주인",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "주소",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "전입 신고를 하고 싶어요.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "어디에 서명해야 해요?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "여기 제 여권이 있어요.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "다른 게 더 필요해요?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "거주 등록 증명서",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "여권",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "미혼",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "집주인",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "주소",
+      "answerText": null
+    }
+  ]
+}

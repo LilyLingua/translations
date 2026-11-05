@@ -1,0 +1,333 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "02785511-e093-46cb-9336-91e054e2955c",
+    "level": "A2"
+  },
+  "title": "In der Apotheke",
+  "topic": "Medikamente kaufen und Fragen stellen",
+  "tasks": [
+    {
+      "id": "in-der-apotheke-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "in-der-apotheke-matching-1",
+          "term": "das Rezept",
+          "meaning": "Das Papier vom Arzt für ein Medikament."
+        },
+        {
+          "id": "in-der-apotheke-matching-2",
+          "term": "die Tablette",
+          "meaning": "Ein kleines Medikament, das man schluckt."
+        },
+        {
+          "id": "in-der-apotheke-matching-3",
+          "term": "der Hustensaft",
+          "meaning": "Ein flüssiges Medikament gegen Husten."
+        },
+        {
+          "id": "in-der-apotheke-matching-4",
+          "term": "die Salbe",
+          "meaning": "Man streicht sie auf die Haut."
+        },
+        {
+          "id": "in-der-apotheke-matching-5",
+          "term": "die Nebenwirkung",
+          "meaning": "Eine unerwünschte Wirkung eines Medikaments."
+        },
+        {
+          "id": "in-der-apotheke-matching-6",
+          "term": "die Packungsbeilage",
+          "meaning": "Der Zettel im Medikament mit allen Informationen."
+        },
+        {
+          "id": "in-der-apotheke-matching-7",
+          "term": "die Zuzahlung",
+          "meaning": "Einen kleinen Betrag für ein Rezept zahlen Sie selbst."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "in-der-apotheke-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "in-der-apotheke-gap-1",
+          "promptBefore": "Ich habe ein",
+          "promptAfter": "von meiner Ärztin.",
+          "correctAnswer": "Rezept",
+          "options": [
+            "Husten",
+            "Rezept",
+            "Fieber"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-2",
+          "promptBefore": "Haben Sie etwas gegen",
+          "promptAfter": "?",
+          "correctAnswer": "Halsschmerzen",
+          "options": [
+            "Apotheke",
+            "Packung",
+            "Halsschmerzen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-3",
+          "promptBefore": "Nehmen Sie zwei",
+          "promptAfter": "am Tag.",
+          "correctAnswer": "Tabletten",
+          "options": [
+            "Tabletten",
+            "Salben",
+            "Rezepte"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-4",
+          "promptBefore": "Die Salbe ist für die",
+          "promptAfter": ".",
+          "correctAnswer": "Haut",
+          "options": [
+            "Haut",
+            "Kasse",
+            "Tablette"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-5",
+          "promptBefore": "Lesen Sie bitte die",
+          "promptAfter": ".",
+          "correctAnswer": "Packungsbeilage",
+          "options": [
+            "Packungsbeilage",
+            "Zuzahlung",
+            "Nebenwirkung"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-6",
+          "promptBefore": "Das Medikament hat kaum",
+          "promptAfter": ".",
+          "correctAnswer": "Nebenwirkungen",
+          "options": [
+            "Apotheken",
+            "Nebenwirkungen",
+            "Rezepte"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "in-der-apotheke-gap-7",
+          "promptBefore": "Am Wochenende hat eine",
+          "promptAfter": "Notdienst.",
+          "correctAnswer": "Apotheke",
+          "options": [
+            "Salbe",
+            "Tablette",
+            "Apotheke"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "in-der-apotheke-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "in-der-apotheke-verbs-1",
+          "promptBefore": "Ich",
+          "promptAfter": "seit gestern Husten.",
+          "correctAnswer": "habe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "in-der-apotheke-verbs-2",
+          "promptBefore": "Wie oft soll ich die Tabletten",
+          "promptAfter": "?",
+          "correctAnswer": "nehmen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "nehmen"
+        },
+        {
+          "id": "in-der-apotheke-verbs-3",
+          "promptBefore": "Wir",
+          "promptAfter": "das Medikament bis morgen.",
+          "correctAnswer": "bestellen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bestellen"
+        },
+        {
+          "id": "in-der-apotheke-verbs-4",
+          "promptBefore": "Sie",
+          "promptAfter": "die Salbe zweimal täglich auf.",
+          "correctAnswer": "tragen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "auftragen"
+        },
+        {
+          "id": "in-der-apotheke-verbs-5",
+          "promptBefore": "Bitte",
+          "promptAfter": "Sie viel Wasser.",
+          "correctAnswer": "trinken",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "trinken"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "in-der-apotheke-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "in-der-apotheke-table-1",
+          "article": "die",
+          "singular": "Apotheke",
+          "plural": "Apotheken"
+        },
+        {
+          "id": "in-der-apotheke-table-2",
+          "article": "das",
+          "singular": "Medikament",
+          "plural": "Medikamente"
+        },
+        {
+          "id": "in-der-apotheke-table-3",
+          "article": "die",
+          "singular": "Salbe",
+          "plural": "Salben"
+        },
+        {
+          "id": "in-der-apotheke-table-4",
+          "article": "das",
+          "singular": "Pflaster",
+          "plural": "Pflaster"
+        },
+        {
+          "id": "in-der-apotheke-table-5",
+          "article": "die",
+          "singular": "Packung",
+          "plural": "Packungen"
+        },
+        {
+          "id": "in-der-apotheke-table-6",
+          "article": "der",
+          "singular": "Tropfen",
+          "plural": "Tropfen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "in-der-apotheke-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "in-der-apotheke-order-1",
+          "chunks": [
+            "Haben",
+            "Sie",
+            "etwas",
+            "gegen",
+            "Husten"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "in-der-apotheke-order-2",
+          "chunks": [
+            "Wie oft",
+            "soll",
+            "ich",
+            "die Tabletten",
+            "nehmen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "in-der-apotheke-order-3",
+          "chunks": [
+            "Ich",
+            "brauche",
+            "ein Medikament",
+            "gegen",
+            "Kopfschmerzen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "in-der-apotheke-order-4",
+          "chunks": [
+            "Brauche",
+            "ich",
+            "dafür",
+            "ein Rezept"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "in-der-apotheke-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "in-der-apotheke-spelling-1",
+          "correct": "Apotheke",
+          "wrong": "Apoteke"
+        },
+        {
+          "id": "in-der-apotheke-spelling-2",
+          "correct": "Medikament",
+          "wrong": "Medikamend"
+        },
+        {
+          "id": "in-der-apotheke-spelling-3",
+          "correct": "Pflaster",
+          "wrong": "Flaster"
+        },
+        {
+          "id": "in-der-apotheke-spelling-4",
+          "correct": "Nebenwirkung",
+          "wrong": "Nebenwirkunk"
+        },
+        {
+          "id": "in-der-apotheke-spelling-5",
+          "correct": "Husten",
+          "wrong": "Hussten"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

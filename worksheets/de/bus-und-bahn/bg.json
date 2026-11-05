@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.078Z"
+  },
+  "title": "С автобус и влак",
+  "instructions": {
+    "bus-und-bahn-matching": "Свържете всяка дума с подходящото обяснение.",
+    "bus-und-bahn-gap": "Отбележете подходящата дума.",
+    "bus-und-bahn-verbs": "Попълнете правилния глагол в правилната форма.",
+    "bus-und-bahn-table": "Допълнете члена и формата за множествено число.",
+    "bus-und-bahn-order": "Подредете думите в правилния ред и напишете изречението.",
+    "bus-und-bahn-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "С него можете да пътувате с автобус или влак.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "автомат за билети",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Тук купувате билет без каса.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "коловоз",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Тук влакът спира на гарата.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "закъснение",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Влакът идва по-късно от планираното.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "прекачвам се",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Минавате от един влак в друг.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "спирка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Тук спира автобусът.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Месечна карта за автобус и влак в местния транспорт в цяла Германия.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Влакът за Кьолн тръгва от коловоз 5.",
+      "answerText": "коловоз"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Влакът има десет минути закъснение.",
+      "answerText": "закъснение"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Къде е най-близката спирка?",
+      "answerText": "спирка"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Един билет за Берлин, моля.",
+      "answerText": "билет"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Моля, покажете билета си.",
+      "answerText": "билета"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Метрото минава на всеки десет минути.",
+      "answerText": "Метрото"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "На автомата можете да купите билети.",
+      "answerText": "автомата"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Къде трябва да се прекача?",
+      "answerText": "прекача"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Автобусът тръгва в 8:15 часа.",
+      "answerText": "тръгва"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Пристигаме в Хамбург в 10 часа.",
+      "answerText": "Пристигаме"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Моля, слезте тук.",
+      "answerText": "слезте"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Колко трае пътуването?",
+      "answerText": "трае"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "влак",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "гара",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "коловоз",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "спирка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "автобус",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Кога тръгва следващият влак за Мюнхен?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Трябва да се прекача в Манхайм.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Влакът за съжаление закъснява.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Важи ли билетът и за автобуса?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "закъснение",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "спирка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "коловоз",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "гара",
+      "answerText": null
+    }
+  ]
+}

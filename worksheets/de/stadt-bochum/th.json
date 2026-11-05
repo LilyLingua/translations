@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:54.609Z"
+  },
+  "title": "โบฮุม",
+  "instructions": {
+    "stadt-bochum-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-bochum-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-bochum-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-bochum-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-bochum-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-bochum-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "\"แบร์มูดาไดรเอ็ค\" (สามเหลี่ยมเบอร์มิวดา)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "ย่านที่มีผับและบาร์มากมายในใจกลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "เคอร์รีเวิร์สท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "ไส้กรอกย่างราดซอสมะเขือเทศและผงกะหรี่ – เป็นที่นิยมมากในโบฮุม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "แฮร์แบร์ท เกรอเนอไมเออร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "นักร้องที่ร้องเพลงดังเกี่ยวกับโบฮุม เมืองของเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "เฟาเอฟแอล โบฮุม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "สโมสรฟุตบอลของเมือง สีน้ำเงินและขาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "พิพิธภัณฑ์การทำเหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "พิพิธภัณฑ์ใหญ่เกี่ยวกับงานใต้ดิน – มีเหมืองให้ชมด้วย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "สตาร์ไลท์เอ็กซ์เพรส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "ละครเพลงที่นักแสดงใส่รองเท้าสเกต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "มหาวิทยาลัยรูห์ร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "มหาวิทยาลัยใหญ่ที่ชานเมือง มีนักศึกษามากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "วันศุกร์พวกเรานัดเจอกันที่แบร์มูดาไดรเอ็ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "ฉันกินเคอร์รีเวิร์สท์กับเฟรนช์ฟรายส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "นักศึกษาหลายคนเรียนที่มหาวิทยาลัยรูห์ร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "ในพิพิธภัณฑ์การทำเหมือง พวกเราลงไปในเหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "นักแสดงเล่นสเกตด้วยรองเท้าสเกต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "แฮร์แบร์ท เกรอเนอไมเออร์ร้องเพลงเกี่ยวกับโบฮุม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "เฟาเอฟแอลเล่นที่สนามบนถนนคาสโทรเพอร์ชตราเซอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "ในละครเพลง นักแสดงเล่นสเกตด้วยรองเท้าสเกต",
+      "answerText": "เล่นสเกต"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "แฮร์แบร์ท เกรอเนอไมเออร์ร้องเพลงเกี่ยวกับเมืองของเขา",
+      "answerText": "ร้องเพลง"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "สุดสัปดาห์หลายคนไปแบร์มูดาไดรเอ็ค",
+      "answerText": "ไป"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "ผู้คนกินเคอร์รีเวิร์สท์กับเฟรนช์ฟรายส์",
+      "answerText": "กิน"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "ละครเพลงเรื่องนี้เปิดแสดงที่โบฮุมตั้งแต่ปี 1988",
+      "answerText": "เปิดแสดง"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "เพลง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "นักศึกษา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "ละครเพลง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "นักร้อง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "สตาร์ไลท์เอ็กซ์เพรสเปิดแสดงที่โบฮุมตั้งแต่ปี 1988",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "หลังเลิกเรียนพวกเราไปแบร์มูดาไดรเอ็ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "คุณกินเคอร์รีเวิร์สท์กับเฟรนช์ฟรายส์ไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "เกรอเนอไมเออร์ร้องเพลงเกี่ยวกับโบฮุม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "ละครเพลง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "เคอร์รีเวิร์สท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "นักร้อง",
+      "answerText": null
+    }
+  ]
+}

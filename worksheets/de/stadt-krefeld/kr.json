@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:25.161Z"
+  },
+  "title": "크레펠트",
+  "instructions": {
+    "stadt-krefeld-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-krefeld-gap": "알맞은 단어에 표시하세요.",
+    "stadt-krefeld-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-krefeld-table": "관사와 복수형을 쓰세요.",
+    "stadt-krefeld-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-krefeld-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "벨벳과 비단의 도시",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "별명: 옛날에 이곳에서 비단으로 고급 옷감을 많이 만들었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "린 성",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "린 지구에 있는 오래된 수상 성.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "플락스마르크트(아마 시장)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "봄에 린 성에서 열리는 큰 수공예 시장.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "'핑구이네'(펭귄스)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "크레펠트의 아이스하키 팀.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "동물원",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "나비관과 유인원을 위한 새 숲이 있는 동물원.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "하우스 랑에와 하우스 에스터스",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "유명한 건축가 미스 반 데어 로에가 지은 집에 있는 두 박물관.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "위르딩겐",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "라인강 가에 있는 지구로, 큰 항구가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "그녀는 비단 원피스를 입고 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "린 성 주위에는 물이 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "토요일에 우리는 핑구이네의 경기를 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "동물원에서 우리는 나비관에 들어간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "플락스마르크트에서 대장장이가 자기 일을 보여 준다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "위르딩겐은 라인강 가에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "우리는 하우스 랑에 박물관을 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "핑구이네는 아이스하키를 한다.",
+      "answerText": "한다"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "크레펠트에서는 옛날에 비단으로 옷감을 많이 만들었다.",
+      "answerText": "만들었다"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "동물원에서는 나비가 많이 날아다닌다.",
+      "answerText": "날아다닌다"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "성은 물속에 서 있다.",
+      "answerText": "서 있다"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "플락스마르크트에서 장인들이 자기 일을 보여 준다.",
+      "answerText": "보여 준다"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "옷감",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "성",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "펭귄",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "나비",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "원피스",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "항구",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "크레펠트는 벨벳과 비단의 도시라고 불린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "아이스하키 보러 같이 갈래?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "린 성은 물속에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "동물원에서는 나비가 많이 날아다닌다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "비단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "펭귄",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "나비",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "항구",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "원피스",
+      "answerText": null
+    }
+  ]
+}

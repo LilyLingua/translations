@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.768Z"
+  },
+  "title": "スーパーで",
+  "instructions": {
+    "im-supermarkt-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "im-supermarkt-gap": "合う容器または量に印をつけなさい。",
+    "im-supermarkt-verbs": "正しい動詞を正しい形で入れなさい。",
+    "im-supermarkt-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "im-supermarkt-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "im-supermarkt-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "ショッピングカート",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "買い物中に商品を入れます。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "チーズ売り場",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "新鮮なチーズを量り売りで買えます。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "デポジット（瓶の預かり金）",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "空き瓶を返すと戻ってくるお金。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "空き瓶回収機",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "ここで空き瓶を返します。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "特売",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "ある商品が短い間だけ安くなること。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "レシート",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "この紙にすべての値段が書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "袋",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "買ったものを家に運びます。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "ヨーグルトを1カップ買います。",
+      "answerText": "カップ"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "水も1本お願いします。",
+      "answerText": "本"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "パスタが1袋必要です。",
+      "answerText": "袋"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "ソース用にトマトを1缶取ります。",
+      "answerText": "缶"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "ゴーダチーズを200グラムください。",
+      "answerText": "グラム"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "バター1箱は2.29ユーロです。",
+      "answerText": "箱"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "牛乳を1リットル買います。",
+      "answerText": "リットル"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "5ユーロを両替していただけますか？",
+      "answerText": "両替して"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "すみません、小麦粉はどこにありますか？",
+      "answerText": "ありますか"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "カードで払います。",
+      "answerText": "払います"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "ゴーダチーズを200グラムください。",
+      "answerText": "ください"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "日曜日はほとんどのスーパーが閉まっています。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "瓶",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "カップ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "缶",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "パン",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "りんご",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "バナナ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "すみません、小麦粉はどこにありますか？",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "バッグを持っています。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "今日はバナナが特売です。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "空き瓶回収機はどこですか？",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "ショッピングカート",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "レシート",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "デポジット",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "チーズ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "小さなパン",
+      "answerText": null
+    }
+  ]
+}

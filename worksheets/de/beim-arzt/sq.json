@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.293Z"
+  },
+  "title": "Te mjeku",
+  "instructions": {
+    "beim-arzt-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "beim-arzt-gap": "Shënoni fjalën e duhur.",
+    "beim-arzt-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "beim-arzt-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "beim-arzt-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "beim-arzt-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "karta e sigurimit shëndetësor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Këtë kartë e tregoni në recepsion. Mbi të shkruhet arka juaj e sigurimit.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "takimi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Një orë e caktuar kur vini në klinikë.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "salla e pritjes",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Këtu uleni derisa t'ju thërrasin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "receta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Me të merrni një ilaç në farmaci.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "raporti mjekësor (pushimi mjekësor)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Këtë letër e merr punëdhënësi juaj kur jeni i sëmurë.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "temperatura (ethet)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Temperatura e trupit është shumë e lartë, për shembull 39 gradë.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergjia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Trupi reagon fort ndaj diçkaje, për shembull ndaj penicilinës.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "thirrja emergjente",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Numri 112 – në rast aksidenti ose emergjence.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Mirëdita, do të doja të caktoja një takim.",
+      "answerText": "takim"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "E keni me vete kartën e sigurimit shëndetësor?",
+      "answerText": "kartën e sigurimit shëndetësor"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Ju lutem uluni në sallën e pritjes.",
+      "answerText": "sallën e pritjes"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Kam dhimbje koke dhe temperaturë.",
+      "answerText": "dhimbje koke"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Më dhemb barku.",
+      "answerText": "barku"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Jam alergjik ndaj penicilinës.",
+      "answerText": "penicilinës"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Më duhet një raport mjekësor për punëdhënësin tim.",
+      "answerText": "raport mjekësor"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Merrini tabletat tri herë në ditë pas ngrënies.",
+      "answerText": "ngrënies"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "A mund ta thoni më ngadalë, ju lutem?",
+      "answerText": "thoni"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Kam temperaturë prej tri ditësh.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Koka më dhemb shumë.",
+      "answerText": "dhemb"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Ju lutem merrni frymë thellë – dhe nxirreni përsëri.",
+      "answerText": "merrni frymë"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Mjekja më jep një recetë.",
+      "answerText": "jep"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Do t'ju thërrasim menjëherë.",
+      "answerText": "thërrasim"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "mjeku",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "receta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "takimi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "klinika",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "ilaçi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Do të doja të caktoja një takim.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Prej tri ditësh kam temperaturë.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "A mund ta përsërisni, ju lutem?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Ku ju dhemb?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "dhimbje koke",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "raporti mjekësor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "karta e sigurimit shëndetësor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alergjik",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tableta",
+      "answerText": null
+    }
+  ]
+}

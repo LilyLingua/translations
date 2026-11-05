@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:54.150Z"
+  },
+  "title": "บีเลเฟลด์",
+  "instructions": {
+    "stadt-bielefeld-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-bielefeld-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-bielefeld-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-bielefeld-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-bielefeld-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-bielefeld-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-bielefeld-matching-1",
+      "translation": "ทฤษฎีสมคบคิดบีเลเฟลด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-1:meaning",
+      "translation": "มุกตลกเก่าบนอินเทอร์เน็ต: บีเลเฟลด์ไม่มีอยู่จริง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2",
+      "translation": "ปราสาทชพาเรินบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2:meaning",
+      "translation": "ปราสาทเก่าบนภูเขา จากด้านบนมองเห็นทั้งเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3",
+      "translation": "ดร. เอทเคอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3:meaning",
+      "translation": "บริษัทชื่อดังผู้ผลิตพุดดิ้ง ผงฟู และพิซซ่า – มาจากบีเลเฟลด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4",
+      "translation": "ป่าทอยโทบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4:meaning",
+      "translation": "ผืนป่ายาวที่มีเนินเขา อยู่ติดเมือง เหมาะกับการเดินป่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5",
+      "translation": "\"อาร์มีเนีย\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5:meaning",
+      "translation": "สโมสรฟุตบอลของเมือง แฟนบอลเรียกสนามของทีมว่า \"อาล์ม\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6",
+      "translation": "ชาวเวสต์ฟาเลียตะวันออก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6:meaning",
+      "translation": "คนที่นี่ถูกเรียกแบบนี้ ว่ากันว่าพวกเขาพูดน้อย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7",
+      "translation": "\"พิคเคิร์ท\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7:meaning",
+      "translation": "แพนเค้กมันฝรั่งแบบเวสต์ฟาเลียตะวันออก มักใส่ลูกเกด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-1",
+      "translation": "ปราสาทชพาเรินบวร์คตั้งอยู่บนภูเขาเหนือเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-2",
+      "translation": "หลายคนเดินป่าในป่าทอยโทบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-3",
+      "translation": "ฉันซื้อพุดดิ้งของ ดร. เอทเคอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-4",
+      "translation": "พิคเคิร์ททอดในกระทะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-5",
+      "translation": "อาร์มีเนียเล่นที่สนามอาล์ม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-6",
+      "translation": "หลายคนหัวเราะกับทฤษฎีสมคบคิดบีเลเฟลด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-7",
+      "translation": "บีเลเฟลด์ตั้งอยู่ในภูมิภาคออสท์เวสท์ฟาเลิน-ลิพเพอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-verbs-1",
+      "translation": "บางคนพูดเล่น ๆ ว่า \"บีเลเฟลด์ไม่มีอยู่จริง\"",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-2",
+      "translation": "ชาวเวสต์ฟาเลียตะวันออกพูดไม่ค่อยเยอะ",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-3",
+      "translation": "ดร. เอทเคอร์ตั้งอยู่ที่บีเลเฟลด์มากว่า 100 ปีแล้ว",
+      "answerText": "ตั้งอยู่"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-4",
+      "translation": "แฟนบอลเชียร์อาร์มีเนียที่สนามอาล์ม",
+      "answerText": "เชียร์"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-5",
+      "translation": "จากปราสาทชพาเรินบวร์คมองเห็นทั้งเมือง",
+      "answerText": "มองเห็น"
+    },
+    {
+      "id": "stadt-bielefeld-table-1",
+      "translation": "ป่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-2",
+      "translation": "กระทะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-3",
+      "translation": "ภูเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-4",
+      "translation": "บริษัท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-5",
+      "translation": "ข่าวลือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-6",
+      "translation": "มุกตลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-1",
+      "translation": "บีเลเฟลด์มีอยู่จริง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-2",
+      "translation": "วันอาทิตย์พวกเราเดินป่าในป่าทอยโทบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-3",
+      "translation": "คุณเคยไปปราสาทชพาเรินบวร์คหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-4",
+      "translation": "ดร. เอทเคอร์มาจากบีเลเฟลด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-1",
+      "translation": "มุกตลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-2",
+      "translation": "กระทะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-3",
+      "translation": "ป่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-4",
+      "translation": "บริษัท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-5",
+      "translation": "พุดดิ้ง",
+      "answerText": null
+    }
+  ]
+}

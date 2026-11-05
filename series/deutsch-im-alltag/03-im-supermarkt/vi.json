@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Ông có thể đổi giúp tôi năm euro không?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Xin lỗi, tôi tìm bột mì ở đâu?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Cho tôi 200 gam Gouda ạ."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Vâng, được ạ."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Chuối đang khuyến mãi."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Máy trả chai ở đâu?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Không, cảm ơn."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Tôi có mang túi."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Bằng thẻ ạ."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Cảm ơn, chị cũng vậy nhé!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Mình đói quá! Nhưng tủ lạnh trống trơn."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Vậy thì đi siêu thị thôi!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Siêu thị á? Hoàn toàn bằng tiếng Đức?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Tất nhiên! Hôm nay bạn đi mua sắm trọn vẹn – từ xe đẩy cho đến hóa đơn."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Và trong mỗi tình huống, chúng mình hỏi bạn: Bạn nói gì?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Và bạn chỉ có năm giây thôi!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Bạn muốn lấy một xe đẩy. Nhưng cần một đồng xu – mà bạn chỉ có tờ năm euro."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Bên cạnh bạn có một ông lớn tuổi."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Xin lỗi, ông có thể tặng tôi năm euro không?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Xin lỗi, ông có thể đổi giúp tôi năm euro không?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Xin lỗi, tôi muốn xe đẩy của ông."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ nghĩa là: bạn đưa tờ tiền giấy và nhận lại tiền xu. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "nghĩa là: bạn được cho không – thế thì rất tử tế, nhưng hơi trơ trẽn."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Chờ chút… đây: hai, bốn, năm euro. Của cậu đây!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Cảm ơn ông nhiều!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Ông có thể đổi giúp tôi năm euro không?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Bạn cần bột mì. Nhưng bột mì ở đâu? Một nhân viên đang xếp hàng lên kệ."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Bạn hỏi gì?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Xin lỗi, tôi tìm bột mì ở đâu?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (sai quán từ)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Anh đã tìm thấy bột mì chưa?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Gần đúng rồi, Leo. Phải là „das Mehl“. Nhưng A còn tốt hơn: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Xin lỗi, tôi tìm … ở đâu?) – như vậy bạn hỏi lịch sự về mọi thứ trong siêu thị."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Bột mì ở dãy số ba, tầng dưới cùng của kệ."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Cảm ơn anh!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Xin lỗi, tôi tìm bột mì ở đâu?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Dãy số ba, dưới cùng."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Bây giờ bạn đến quầy đồ tươi. Bạn muốn mua phô mai Gouda."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Xin chào! Quý khách muốn gì ạ?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Tôi là 200 gam Gouda."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Vâng, có thể."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Cho tôi 200 gam Gouda ạ."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ đơn giản nghĩa là: Quý khách muốn gì? Và với „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(Cho tôi …) bạn luôn gọi món lịch sự – ở quầy, ở tiệm bánh, ở quán cà phê."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Cho tôi 200 gam Gouda ạ."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Bà Haas cắt phô mai. Trên cân hiện: 230 gam."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Hơi nhiều một chút có được không ạ?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Không, tôi không được phép."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Vâng, được ạ."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Vâng, tôi hơi nhiều một chút."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Câu này bạn sẽ nghe ở mọi quầy hàng ở Đức. Nghĩa là: hơi nhiều hơn bạn đặt một chút – có được không?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Nếu không, chỉ cần nói: „Nein, bitte genau 200 Gramm.“ (Không, cho đúng 200 gam ạ.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Còn gì nữa không ạ?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Không, cảm ơn. Vậy thôi ạ."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Vâng, được ạ."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Không, cảm ơn. Vậy thôi ạ."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Bạn đi tiếp. Bỗng bạn nghe thấy một thông báo. Hãy nghe kỹ!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Kính chào quý khách! Hôm nay khuyến mãi: chuối, mỗi ký chỉ 99 cent."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Một ký chuối giá bao nhiêu?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 cent"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 cent. „Im Angebot“ nghĩa là: hôm nay rẻ hơn bình thường."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Chuối đang khuyến mãi."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Bạn còn mang theo chai rỗng – có ký hiệu này: tiền cọc („Pfand“). Mang đi đâu?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Đến máy trả chai. Bạn được nhận lại tiền."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Vào thùng rác ở lối vào."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Đến quầy thu ngân – làm quà."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, vứt vào thùng rác!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Không, Leo – vậy là bạn vứt tiền đi đấy! A! Với nhiều loại chai, bạn được trả lại 25 cent."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Máy sẽ in cho bạn một phiếu. Bạn đưa phiếu đó ở quầy thu ngân."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Máy trả chai ở đâu?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Bây giờ bạn ở quầy thu ngân. Bạn đặt mọi thứ lên băng chuyền."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Xin chào! Quý khách có tích điểm không?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Có, tôi sưu tầm tem."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Tôi tích điểm của chị."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Không, cảm ơn."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Tôi sưu tầm tem. Từ hồi đi học."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Hay đấy, Leo – nhưng chị ấy không muốn biết điều đó. C! Nhiều siêu thị có thẻ hoặc ứng dụng tích điểm."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Nếu bạn không có, chỉ cần nói: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Không, cảm ơn."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Có, đây là thẻ của tôi."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Quý khách có cần túi không?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Có, cho tôi một túi sữa."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Không, cảm ơn. Tôi có mang túi."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Không, tôi không phải là cái túi."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Nên biết: ở Đức túi gần như luôn phải trả tiền."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Nhiều người mang túi riêng."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Tôi có mang túi."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Tổng cộng 23,47 €. Quý khách trả tiền mặt hay bằng thẻ?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Bằng thẻ ạ."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Tôi trả bằng „Bar“."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Vâng, tiền mặt hoặc thẻ."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Vâng!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo… đây đâu phải câu hỏi có hay không! A! „Bar“ nghĩa là: bằng tiền giấy và tiền xu. Và nếu không chắc, hãy hỏi: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Tôi trả bằng thẻ được không?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Bằng thẻ ạ."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Tôi trả bằng thẻ được không?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Quý khách có lấy hóa đơn không?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Không, tôi không thích kẹo („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Không, cảm ơn. Tôi không cần."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Có, tôi muốn quầy thu ngân."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Tôi không thích kẹo. Nhiều đường quá."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ không phải là „Bonbon“. „Kassenbon“ là tờ giấy – trên đó ghi những gì bạn đã mua."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B mới đúng. Hoặc: „Ja, bitte.“ (Vâng, cho tôi.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Chúc một ngày tốt lành!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Cảm ơn, chị cũng vậy nhé!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Nói theo!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Cảm ơn, chị cũng vậy nhé!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Ba mẹo đi siêu thị ở Đức."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Thứ nhất: Chủ nhật gần như tất cả siêu thị đều đóng cửa – vậy hãy mua sắm vào thứ Bảy!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Thứ hai: ở quầy thu ngân, bạn tự đặt mọi thứ lên băng chuyền."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Thanh ngăn cho biết: từ đây là hàng của khách tiếp theo."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Và thứ ba: ở quầy thu ngân mọi thứ diễn ra rất nhanh."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Hãy thong thả xếp đồ sau quầy – điều đó hoàn toàn bình thường."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo viết danh sách mua sắm. Nhưng có gì đó không đúng…"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Một chai sữa chua."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Một hộp sữa chua!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Một lon bánh mì."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Một ổ bánh mì – hoặc một gói bánh mì sandwich!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Một hộp mì ống."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Một gói mì ống!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Một gói nước."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Một chai nước!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Một túi cà chua."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Một lon cà chua!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Tôi tìm phô mai ở đâu?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "Và động từ đứng cuối câu: không phải „Ich möchte bezahlen mit Karte“, mà là: „Ich möchte mit Karte bezahlen.“ (Tôi muốn trả bằng thẻ.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "Và ở quầy thu ngân: „Bon“ là hóa đơn. „Bonbon“ là cái kẹo."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "Và bây giờ tất cả thêm một lần nữa. Mười câu quan trọng nhất. Nói theo!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Ông có thể đổi giúp tôi năm euro không?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Xin lỗi, tôi tìm bột mì ở đâu?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Cho tôi 200 gam Gouda ạ."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Vâng, được ạ."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Không, cảm ơn. Vậy thôi ạ."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Chuối đang khuyến mãi."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Máy trả chai ở đâu?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Tôi có mang túi."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Tôi trả bằng thẻ được không?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Cảm ơn, chị cũng vậy nhé!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Bạn thích mua gì nhất ở siêu thị? Viết vào bình luận nhé!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Tạm biệt và hẹn gặp lại ở LilyLingua!"
+    }
+  ]
+}

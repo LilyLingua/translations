@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:04.248Z"
+  },
+  "title": "Magdeburg",
+  "instructions": {
+    "stadt-magdeburg-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-magdeburg-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-magdeburg-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-magdeburg-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-magdeburg-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-magdeburg-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "\"Otto Şehri\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Magdeburg'un lakabı – İmparator Büyük Otto ve Otto von Guericke yüzünden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "katedral",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Büyük gotik kilise; İmparator Büyük Otto burada gömülü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "Yeşil Kale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Çatısında ağaçlar olan renkli bina, Hundertwasser'in son projesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "yarım küre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "Guericke iki yarım küreyle vakumun ne kadar güçlü olduğunu gösterdi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "su yolu kavşağı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Burada gemiler bir kanal köprüsüyle Elbe'nin üzerinden geçer.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "vakum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Hiç havası olmayan bir boşluk.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "imparator",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Bir kraldan bile daha güçlü hükümdar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Katedrali geziyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "Yeşil Kale'nin çatısında ağaçlar var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Bir gemi Elbe'nin üzerindeki bir köprüde gidiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Birçok at yarım küreleri ayıramadı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Magdeburg, Elbe kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Guericke bir vakumla deney yaptı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Renkli binanın fotoğrafını çekiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Hundertwasser Yeşil Kale'yi tasarladı.",
+      "answerText": "tasarladı"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Otto von Guericke hava ile deneyler yaptı.",
+      "answerText": "yaptı"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Atlar yarım küreleri çekti.",
+      "answerText": "çekti"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "Kanal köprüsünde gemiler Elbe'nin üzerinden geçer.",
+      "answerText": "geçer"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "Büyük Otto katedralde gömülü yatıyor.",
+      "answerText": "yatıyor"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "imparator",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "at",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "çatı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "küre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "kanal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "deney",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Magdeburg, Elbe kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "Çatıda ağaçlar büyüyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Yarım küre deneyini biliyor musun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Gemiler Elbe'nin üzerindeki bir köprüde gidiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "imparator",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "at",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "deney",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "küre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "belediye başkanı",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.670Z"
+  },
+  "title": "Общественный транспорт",
+  "instructions": {
+    "en-public-transportation-matching": "Соедини каждое слово с его значением.",
+    "en-public-transportation-gap": "Выбери правильное слово.",
+    "en-public-transportation-verbs": "Вставь правильный глагол.",
+    "en-public-transportation-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-public-transportation-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-public-transportation-matching-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-1:meaning",
+      "translation": "Бумажка или приложение, с которым можно ехать.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2",
+      "translation": "остановка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2:meaning",
+      "translation": "Место, где останавливается автобус.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3",
+      "translation": "платформа",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3:meaning",
+      "translation": "Место на вокзале, где садятся в поезд.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4",
+      "translation": "задержка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4:meaning",
+      "translation": "Когда автобус или поезд приходит позже, чем планировалось.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5",
+      "translation": "расписание",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5:meaning",
+      "translation": "Список с временем автобусов и поездов.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6",
+      "translation": "пересадка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6:meaning",
+      "translation": "Когда переходишь с одного автобуса или поезда на другой.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-gap-1",
+      "translation": "Мне нужен билет в центр.",
+      "answerText": "билет"
+    },
+    {
+      "id": "en-public-transportation-gap-2",
+      "translation": "Поезд отправляется с четвёртой платформы.",
+      "answerText": "платформы"
+    },
+    {
+      "id": "en-public-transportation-gap-3",
+      "translation": "Выходите на следующей остановке.",
+      "answerText": "остановке"
+    },
+    {
+      "id": "en-public-transportation-gap-4",
+      "translation": "Есть задержка на двадцать минут.",
+      "answerText": "задержка"
+    },
+    {
+      "id": "en-public-transportation-gap-5",
+      "translation": "Расписание автобусов есть в интернете.",
+      "answerText": "Расписание"
+    },
+    {
+      "id": "en-public-transportation-gap-6",
+      "translation": "На центральном вокзале нужно сделать пересадку.",
+      "answerText": "пересадку"
+    },
+    {
+      "id": "en-public-transportation-verbs-1",
+      "translation": "Автобус ходит каждые десять минут.",
+      "answerText": "ходит"
+    },
+    {
+      "id": "en-public-transportation-verbs-2",
+      "translation": "Где купить билет?",
+      "answerText": "купить"
+    },
+    {
+      "id": "en-public-transportation-verbs-3",
+      "translation": "Здесь вам нужно пересесть на другой поезд.",
+      "answerText": "нужно"
+    },
+    {
+      "id": "en-public-transportation-verbs-4",
+      "translation": "Поезд сегодня опаздывает.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-verbs-5",
+      "translation": "Пожалуйста, покажите билет.",
+      "answerText": "покажите"
+    },
+    {
+      "id": "en-public-transportation-order-1",
+      "translation": "Какой автобус идёт в аэропорт?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-2",
+      "translation": "Поезд опаздывает на десять минут.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-3",
+      "translation": "Где следующая остановка?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-4",
+      "translation": "Мой автобус ушёл.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-3",
+      "translation": "расписание",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-4",
+      "translation": "центр города",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-5",
+      "translation": "пассажир",
+      "answerText": null
+    }
+  ]
+}

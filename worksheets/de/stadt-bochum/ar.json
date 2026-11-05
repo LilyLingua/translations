@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:24.994Z"
+  },
+  "title": "بوخوم",
+  "instructions": {
+    "stadt-bochum-matching": "صِل كل كلمة بالشرح الصحيح.",
+    "stadt-bochum-gap": "ضع علامة على الكلمة الصحيحة.",
+    "stadt-bochum-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "stadt-bochum-table": "أكمل أداة التعريف وصيغة الجمع.",
+    "stadt-bochum-order": "رتّب الكلمات واكتب الجملة.",
+    "stadt-bochum-spelling": "أيّ كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "«مثلث برمودا»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "حيّ فيه كثير من الحانات والبارات في وسط المدينة.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "الكاري‌ڤورست",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "نقانق مشوية مع الكاتشب ومسحوق الكاري – محبوبة جدًا في بوخوم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "هربرت غرونماير",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "مغنٍّ يغنّي أغنية معروفة عن مدينته بوخوم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "نادي في إف إل بوخوم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "نادي كرة القدم في المدينة باللونين الأزرق والأبيض.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "متحف التعدين",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "متحف كبير عن العمل تحت الأرض – فيه منجم يمكن مشاهدته.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "ستارلايت إكسبريس",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "مسرحية موسيقية يتزلّج فيها الممثلون على أحذية بعجلات.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "جامعة الرور",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "جامعة كبيرة على طرف المدينة فيها طلاب كثيرون.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "يوم الجمعة نلتقي في مثلث برمودا.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "آكل كاري‌ڤورست مع البطاطس المقلية.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "كثير من الطلاب يدرسون في جامعة الرور.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "في متحف التعدين ندخل المنجم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "الممثلون يتزلّجون على الأحذية ذات العجلات.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "يغنّي هربرت غرونماير أغنية عن بوخوم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "يلعب نادي في إف إل في الملعب الواقع في شارع كاستروبر.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "في المسرحية الموسيقية يتزلّج الممثلون على أحذية بعجلات.",
+      "answerText": "يتزلّج"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "هربرت غرونماير يغنّي عن مدينته.",
+      "answerText": "يغنّي"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "في عطلة نهاية الأسبوع يذهب كثير من الناس إلى مثلث برمودا.",
+      "answerText": "يذهب"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "تُؤكل الكاري‌ڤورست مع البطاطس المقلية.",
+      "answerText": "تُؤكل"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "تُعرض المسرحية الموسيقية في بوخوم منذ 1988.",
+      "answerText": "تُعرض"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "الحانة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "الأغنية",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "الطالب",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "المسرحية الموسيقية",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "الجامعة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "المغنّي",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "تُعرض ستارلايت إكسبريس في بوخوم منذ 1988.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "بعد الجامعة نذهب إلى مثلث برمودا.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "هل تأكل الكاري‌ڤورست مع البطاطس المقلية؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "يغنّي غرونماير أغنية عن بوخوم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "المسرحية الموسيقية",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "الجامعة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "الكاري‌ڤورست",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "الحانة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "المغنّي",
+      "answerText": null
+    }
+  ]
+}

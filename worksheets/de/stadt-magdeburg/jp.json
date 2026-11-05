@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:08.063Z"
+  },
+  "title": "マクデブルク",
+  "instructions": {
+    "stadt-magdeburg-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-magdeburg-gap": "正しい単語に印をつけましょう。",
+    "stadt-magdeburg-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-magdeburg-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-magdeburg-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-magdeburg-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "「オットーの街」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "マクデブルクのあだ名。オットー大帝とオットー・フォン・ゲーリケにちなむ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "大聖堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "大きなゴシック様式の教会。オットー大帝がここに眠っている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "緑の城塞",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "屋根に木が生えたカラフルな建物で、フンデルトヴァッサーの最後の作品。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "半球",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "ゲーリケは二つの半球を使って、真空がどれほど強いかを示した。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "水路の交差点",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "ここでは船が水路橋でエルベ川をわたる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "真空",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "空気がまったくない空間。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "皇帝",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "王よりもさらに力のある支配者。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "私たちは大聖堂を訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "緑の城塞は屋根に木があります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "船がエルベ川の上の橋を進みます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "たくさんの馬でも半球を引きはなせませんでした。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "マクデブルクはエルベ川沿いにあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "ゲーリケは真空の実験をしました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "私たちはカラフルな建物の写真を撮ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "フンデルトヴァッサーが緑の城塞を設計しました。",
+      "answerText": "設計し"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "オットー・フォン・ゲーリケは空気の実験を行いました。",
+      "answerText": "行い"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "馬たちが半球を引っ張りました。",
+      "answerText": "引っ張り"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "水路橋の上を船がエルベ川をこえて進みます。",
+      "answerText": "進み"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "オットー皇帝は大聖堂に眠っています。",
+      "answerText": "眠って"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "皇帝",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "馬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "屋根",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "球",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "運河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "実験",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "マクデブルクはエルベ川沿いにあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "屋根に木が生えています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "半球の実験を知っていますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "船がエルベ川の上の橋を進みます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "皇帝",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "馬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "実験",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "球",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "市長",
+      "answerText": null
+    }
+  ]
+}

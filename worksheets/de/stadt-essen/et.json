@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:13.192Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-essen-gap": "Märkige õige sõna.",
+    "stadt-essen-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-essen-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-essen-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-essen-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "Zollvereini kaevandus (Zeche Zollverein)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Vana söekaevandus; tänapäeval UNESCO maailmapärandi paik muuseumide ja disainiga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "tõstetorn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Kõrge torn kaevanduse kohal; sellega sõitsid inimesed ja süsi üles.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Kaevurite tervitus – soovitakse, et kõik tuleksid elusalt ja tervena üles tagasi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Kruppide perekonna suur maja paljude tubade ja pargiga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeney järv (Baldeneysee)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Järv Ruhri jõel; seal saab purjetada, sõuda ja jalutada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Suur park lillede, mänguväljakute ja loomadega.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "kultuuripealinn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Tiitel, mille Essen sai 2010. aastal kogu Ruhri piirkonna nimel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Suvel purjetavad paljud inimesed Baldeney järvel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Kruppide perekond elas Villa Hügelis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Me osaleme Zollvereini kaevanduse ekskursioonil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Tõstetorn on Esseni sümbol.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Pühapäeval läheme Grugaparki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "2010. aastal oli Essen Euroopa kultuuripealinn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen mängib Hafenstraßel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Kaevurid ütlevad „Glück auf!“.",
+      "answerText": "ütlevad"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Tõstetorn seisab vana kaevanduse kohal.",
+      "answerText": "seisab"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Tänapäeval ei tule maa seest enam sütt.",
+      "answerText": "tule"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Paljud turistid külastavad Zollvereini kaevandust.",
+      "answerText": "külastavad"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Ruhr voolab läbi Baldeney järve.",
+      "answerText": "voolab"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "kaevandus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "park",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "järv",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "muuseum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "saal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Zollvereini kaevandus kuulub UNESCO maailmapärandi hulka.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Nädalavahetusel sõidame Baldeney järve äärde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Kas sa oled juba Grugapargis käinud?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Vanasti töötasid paljud kaevurid maa all.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "muuseum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "kaevandus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "süsi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "saal",
+      "answerText": null
+    }
+  ]
+}

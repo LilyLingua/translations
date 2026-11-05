@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.011Z"
+  },
+  "title": "Kwa basi na treni",
+  "instructions": {
+    "bus-und-bahn-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "bus-und-bahn-gap": "Weka alama kwenye neno linalofaa.",
+    "bus-und-bahn-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "bus-und-bahn-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "bus-und-bahn-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "bus-und-bahn-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "tiketi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Kwa hii unaruhusiwa kusafiri kwa basi au treni.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "mashine ya tiketi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Hapa unanunua tiketi bila dirisha la mauzo.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "jukwaa (njia ya reli)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Hapa treni inasimama kituoni.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "kuchelewa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Treni inafika baadaye kuliko ilivyopangwa.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "kubadilisha treni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Unahama kutoka treni moja kwenda nyingine.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "kituo cha basi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Hapa basi linasimama.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Tiketi ya mwezi kwa mabasi na treni za mitaani kote Ujerumani.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Treni ya kwenda Cologne inaondoka kutoka jukwaa namba 5.",
+      "answerText": "jukwaa"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Treni imechelewa kwa dakika kumi.",
+      "answerText": "imechelewa"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Kituo kilicho karibu zaidi kiko wapi?",
+      "answerText": "Kituo"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Tiketi moja ya kwenda Berlin, tafadhali.",
+      "answerText": "Tiketi"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Tafadhali onyesha tiketi yako.",
+      "answerText": "tiketi"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Treni ya chini ya ardhi inapita kila dakika kumi.",
+      "answerText": "Treni ya chini ya ardhi"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Unaweza kununua tiketi kwenye mashine.",
+      "answerText": "mashine"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Lazima nibadilishe treni wapi?",
+      "answerText": "nibadilishe"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Basi linaondoka saa 2:15 asubuhi.",
+      "answerText": "linaondoka"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Tunafika Hamburg saa 4 asubuhi.",
+      "answerText": "fika"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Tafadhali shuka hapa.",
+      "answerText": "shuka"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Safari inachukua muda gani?",
+      "answerText": "inachukua"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "treni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "stesheni ya treni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "tiketi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "jukwaa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "kituo cha basi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "basi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Treni inayofuata ya kwenda Munich inaondoka lini?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Lazima nibadilishe treni Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Kwa bahati mbaya treni imechelewa.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Tiketi hii inafaa pia kwa basi?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "tiketi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "kuchelewa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "kituo cha basi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "jukwaa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "stesheni ya treni",
+      "answerText": null
+    }
+  ]
+}

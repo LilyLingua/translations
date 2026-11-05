@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:59.825Z"
+  },
+  "title": "Bochum",
+  "instructions": {
+    "stadt-bochum-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-bochum-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-bochum-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-bochum-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-bochum-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-bochum-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "\"Bermuda3eck\" (Bermuda Üçgeni)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "Şehir merkezinde birçok birahane ve barın bulunduğu semt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "Ketçap ve köri tozlu kızarmış sosis – Bochum'da çok sevilir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Herbert Grönemeyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "Şehri Bochum hakkında bilinen bir şarkı söyleyen şarkıcı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "VfL Bochum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "Şehrin mavi-beyaz futbol kulübü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "Madencilik Müzesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "Yer altındaki çalışma hakkında büyük bir müze – gezilebilen bir maden ocağıyla.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "Starlight Express",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "Oyuncuların patenle kaydığı müzikal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "Ruhr Üniversitesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "Şehrin kenarında, çok sayıda öğrencisi olan büyük üniversite.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "Cuma günü Bermuda3eck'te buluşuyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Patates kızartmasıyla bir currywurst yiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "Birçok öğrenci Ruhr Üniversitesi'nde okuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "Madencilik Müzesi'nde maden ocağına giriyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "Oyuncular patenlerle kayıyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Herbert Grönemeyer Bochum hakkında bir şarkı söylüyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfL, Castroper Straße'deki stadyumda oynuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "Müzikalde oyuncular patenle kayar.",
+      "answerText": "kayar"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Herbert Grönemeyer şehri hakkında şarkı söyler.",
+      "answerText": "şarkı söyler"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "Hafta sonu birçok kişi Bermuda3eck'e gider.",
+      "answerText": "gider"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "Currywurst patates kızartmasıyla yenir.",
+      "answerText": "yenir"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "Müzikal 1988'den beri Bochum'da sahneleniyor.",
+      "answerText": "sahneleniyor"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "birahane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "şarkı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "öğrenci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "müzikal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "üniversite",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "şarkıcı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "Starlight Express 1988'den beri Bochum'da sahneleniyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "Üniversiteden sonra Bermuda3eck'e gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Currywurst'u patates kızartmasıyla mı yiyorsun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Grönemeyer Bochum hakkında bir şarkı söylüyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "müzikal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "üniversite",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "birahane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "şarkıcı",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "70a0f9a0-ab1b-4a66-9804-b9251a0f8350",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Halle (Saale)",
+  "topic": "Sachsen-Anhalt: Händel, Halloren-Kugeln, Salz, Saale",
+  "tasks": [
+    {
+      "id": "stadt-halle-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-halle-matching-1",
+          "term": "Georg Friedrich Händel",
+          "meaning": "Berühmter Komponist; er wurde 1685 in Halle geboren."
+        },
+        {
+          "id": "stadt-halle-matching-2",
+          "term": "die Halloren-Kugeln",
+          "meaning": "Kleine Schoko-Kugeln aus einer sehr alten Schokoladenfabrik (seit 1804)."
+        },
+        {
+          "id": "stadt-halle-matching-3",
+          "term": "die Halloren",
+          "meaning": "Früher die Salzarbeiter in Halle; ihre Brüderschaft gibt es bis heute."
+        },
+        {
+          "id": "stadt-halle-matching-4",
+          "term": "das Salz",
+          "meaning": "Damit wurde Halle reich; es kam aus salzigen Quellen unter der Stadt."
+        },
+        {
+          "id": "stadt-halle-matching-5",
+          "term": "die Stadt der fünf Türme",
+          "meaning": "Spitzname: Am Marktplatz sieht man fünf Türme."
+        },
+        {
+          "id": "stadt-halle-matching-6",
+          "term": "die Saale",
+          "meaning": "Fluss, der durch Halle fließt."
+        },
+        {
+          "id": "stadt-halle-matching-7",
+          "term": "die Franckeschen Stiftungen",
+          "meaning": "Alte Schulstadt mit großen Fachwerkhäusern, gegründet 1698."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-halle-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-halle-gap-1",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Händelhaus.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-2",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Packung Halloren-Kugeln.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-3",
+          "promptBefore": "Halle liegt an",
+          "promptAfter": "Saale.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-4",
+          "promptBefore": "Auf",
+          "promptAfter": "Marktplatz stehen fünf Türme.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-5",
+          "promptBefore": "Früher holte man das Salz aus",
+          "promptAfter": "Erde.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-6",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Boot auf der Saale.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-halle-gap-7",
+          "promptBefore": "Händel schrieb",
+          "promptAfter": "berühmtes Stück: den „Messias“.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-halle-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-halle-verbs-1",
+          "promptBefore": "Händel",
+          "promptAfter": "1685 in Halle geboren.",
+          "correctAnswer": "wurde",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "werden"
+        },
+        {
+          "id": "stadt-halle-verbs-2",
+          "promptBefore": "Die Saale",
+          "promptAfter": "durch die Stadt.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-halle-verbs-3",
+          "promptBefore": "Die Schoko-Kugeln",
+          "promptAfter": "sehr süß.",
+          "correctAnswer": "schmecken",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schmecken"
+        },
+        {
+          "id": "stadt-halle-verbs-4",
+          "promptBefore": "Das Salz",
+          "promptAfter": "Halle reich.",
+          "correctAnswer": "machte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-halle-verbs-5",
+          "promptBefore": "Am Marktplatz",
+          "promptAfter": "man fünf Türme.",
+          "correctAnswer": "sieht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sehen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-halle-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-halle-table-1",
+          "article": "die",
+          "singular": "Kugel",
+          "plural": "Kugeln"
+        },
+        {
+          "id": "stadt-halle-table-2",
+          "article": "der",
+          "singular": "Komponist",
+          "plural": "Komponisten"
+        },
+        {
+          "id": "stadt-halle-table-3",
+          "article": "die",
+          "singular": "Quelle",
+          "plural": "Quellen"
+        },
+        {
+          "id": "stadt-halle-table-4",
+          "article": "das",
+          "singular": "Boot",
+          "plural": "Boote"
+        },
+        {
+          "id": "stadt-halle-table-5",
+          "article": "der",
+          "singular": "Fluss",
+          "plural": "Flüsse"
+        },
+        {
+          "id": "stadt-halle-table-6",
+          "article": "die",
+          "singular": "Packung",
+          "plural": "Packungen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-halle-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-halle-order-1",
+          "chunks": [
+            "Händel",
+            "wurde",
+            "in Halle",
+            "geboren"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-halle-order-2",
+          "chunks": [
+            "Möchtest",
+            "du",
+            "eine Halloren-Kugel"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-halle-order-3",
+          "chunks": [
+            "Die Saale",
+            "fließt",
+            "durch",
+            "Halle"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-halle-order-4",
+          "chunks": [
+            "Am Marktplatz",
+            "stehen",
+            "fünf Türme"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-halle-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-halle-spelling-1",
+          "correct": "Komponist",
+          "wrong": "Komponnist"
+        },
+        {
+          "id": "stadt-halle-spelling-2",
+          "correct": "Kugel",
+          "wrong": "Kuggel"
+        },
+        {
+          "id": "stadt-halle-spelling-3",
+          "correct": "Schokolade",
+          "wrong": "Schokolahde"
+        },
+        {
+          "id": "stadt-halle-spelling-4",
+          "correct": "Fluss",
+          "wrong": "Flus"
+        },
+        {
+          "id": "stadt-halle-spelling-5",
+          "correct": "Salz",
+          "wrong": "Sals"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

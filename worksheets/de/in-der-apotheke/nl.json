@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.487Z"
+  },
+  "title": "In de apotheek",
+  "instructions": {
+    "in-der-apotheke-matching": "Verbind elk woord met de juiste uitleg.",
+    "in-der-apotheke-gap": "Kruis het passende woord aan.",
+    "in-der-apotheke-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "in-der-apotheke-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "in-der-apotheke-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "in-der-apotheke-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "het recept",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Het papier van de arts voor een medicijn.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "de tablet (pil)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Een klein medicijn dat je doorslikt.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "de hoestsiroop",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Een vloeibaar medicijn tegen hoesten.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "de zalf",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Die smeer je op de huid.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "de bijwerking",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Een ongewenst effect van een medicijn.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "de bijsluiter",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Het papiertje in het doosje met alle informatie.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "de eigen bijdrage",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Een klein bedrag voor een recept betaalt u zelf.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Ik heb een recept van mijn arts.",
+      "answerText": "recept"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Heeft u iets tegen keelpijn?",
+      "answerText": "keelpijn"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Neem twee tabletten per dag.",
+      "answerText": "tabletten"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "De zalf is voor de huid.",
+      "answerText": "huid"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Lees alstublieft de bijsluiter.",
+      "answerText": "bijsluiter"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Het medicijn heeft bijna geen bijwerkingen.",
+      "answerText": "bijwerkingen"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "In het weekend heeft één apotheek dienst.",
+      "answerText": "apotheek"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Ik heb sinds gisteren een hoest.",
+      "answerText": "heb"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Hoe vaak moet ik de tabletten innemen?",
+      "answerText": "innemen"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "We bestellen het medicijn voor morgen.",
+      "answerText": "bestellen"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Breng de zalf twee keer per dag aan.",
+      "answerText": "Breng"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Drink alstublieft veel water.",
+      "answerText": "Drink"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "de apotheek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "het medicijn",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "de zalf",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "de pleister",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "de verpakking (het doosje)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "de druppel",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Heeft u iets tegen hoest?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Hoe vaak moet ik de tabletten innemen?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Ik heb een medicijn tegen hoofdpijn nodig.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Heb ik daar een recept voor nodig?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "apotheek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "medicijn",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "pleister",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "bijwerking",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "hoest",
+      "answerText": null
+    }
+  ]
+}

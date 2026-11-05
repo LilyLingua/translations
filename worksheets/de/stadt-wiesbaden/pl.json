@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:56.938Z"
+  },
+  "title": "Wiesbaden",
+  "instructions": {
+    "stadt-wiesbaden-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-wiesbaden-gap": "Zaznacz właściwe słowo.",
+    "stadt-wiesbaden-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-wiesbaden-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-wiesbaden-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-wiesbaden-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "miasto uzdrowiskowe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "Miasto z wodą leczniczą; dawniej przyjeżdżali tu bogaci goście na wypoczynek.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "źródło",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "Tu woda wypływa z ziemi; w Wiesbaden często jest gorąca.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "Kochbrunnen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "Słynne gorące źródło w centrum; woda jest gorąca i słona.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "Kurhaus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "Wspaniały budynek na bale i koncerty, z kasynem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "Nerobergbahn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "Stara kolejka górska, która jeździ tylko dzięki ciężarowi wody.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "Sternschnuppenmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "Nazwa jarmarku bożonarodzeniowego w Wiesbaden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "kasyno",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "Miejsce, gdzie gra się o pieniądze, na przykład w ruletkę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "Wjeżdżamy na górę kolejką Nerobergbahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "Woda z Kochbrunnen jest gorąca.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "Idziemy na koncert do Kurhausu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "W grudniu odwiedzamy Sternschnuppenmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "Wiesbaden jest stolicą Hesji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "W Federalnym Urzędzie Statystycznym liczy się mieszkańców Niemiec.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "Odpoczywamy w termach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "Gorąca woda wypływa z ziemi.",
+      "answerText": "wypływa"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "Nerobergbahn działa tylko dzięki wodzie.",
+      "answerText": "działa"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "Dawniej bogaci goście jeździli do Wiesbaden na kurację.",
+      "answerText": "jeździli"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "W Kurhausie można grać w ruletkę.",
+      "answerText": "można"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "Wiele osób odpoczywa w termach.",
+      "answerText": "odpoczywa"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "źródło",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "gość",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "kolej",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "studnia (fontanna)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "łaźnia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "góra",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "W Wiesbaden jest wiele gorących źródeł.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "Nerobergbahn jeździ dzięki wodzie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "Pójdziesz ze mną do term?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "Wiesbaden jest stolicą Hesji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "źródło",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "fontanna",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "termy",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "gość",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "koncert",
+      "answerText": null
+    }
+  ]
+}

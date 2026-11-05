@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.368Z"
+  },
+  "title": "Sa panaderya at sa café",
+  "instructions": {
+    "baecker-und-cafe-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "baecker-und-cafe-gap": "Markahan ang tamang artikulo.",
+    "baecker-und-cafe-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "baecker-und-cafe-table": "Kumpletuhin ang artikulo at ang plural.",
+    "baecker-und-cafe-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "baecker-und-cafe-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "Brötchen (maliit na tinapay)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Isang maliit na tinapay, madalas pang-almusal.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Isang tinapay na may asin, karaniwan sa timog ng Germany.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Isang matamis, madalas kasabay ng kape sa hapon.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "menu",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Dito nakalista ang lahat ng pagkain at inumin.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "bill",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Dito nakasulat kung magkano ang babayaran ninyo.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "tip",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Kaunting dagdag na pera para sa waiter.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "take-out",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Hindi ninyo ito kakainin o iinumin sa café.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Gusto ko po ng isang Brötchen.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Isang kape po ang sa akin.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Magkano po ang pretzel?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Gusto ko po ng isang hiwa ng cake.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Bakante po ba ang mesa?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Umiinom ako ng tsaa na may gatas.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Pakidala po ang bill.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Ano po ang gusto ninyong inumin?",
+      "answerText": "gusto"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Kukunin ko ang isang cappuccino.",
+      "answerText": "Kukunin"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Lahat po ay 6,40 euro.",
+      "answerText": "Lahat"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Puwede po ba akong magbayad gamit ang card?",
+      "answerText": "magbayad"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Napakasarap ng cake.",
+      "answerText": "Napakasarap"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "Brötchen",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "tasa",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "baso",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "plato",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Gusto ko po ng dalawang Brötchen.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Magkano po ang cake?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Puwede po ba akong magbayad gamit ang card?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Dito po ba kayo kakain?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "Brötchen",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "bill",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "kape",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "tip",
+      "answerText": null
+    }
+  ]
+}

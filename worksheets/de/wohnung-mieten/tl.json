@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.400Z"
+  },
+  "title": "Pag-upa ng apartment",
+  "instructions": {
+    "wohnung-mieten-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "wohnung-mieten-gap": "Markahan ang tamang anyo ng artikulo.",
+    "wohnung-mieten-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "wohnung-mieten-table": "Kumpletuhin ang artikulo at ang plural.",
+    "wohnung-mieten-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "wohnung-mieten-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "upa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Ang perang binabayaran ninyo buwan-buwan para sa apartment.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "deposito",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Perang natatanggap ng may-ari sa simula bilang garantiya.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "karagdagang bayarin",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Bayad para sa tubig, heating at basura.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "kontrata sa upa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Ang kontrata sa pagitan ng umuupa at ng may-ari.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "pagtingin sa apartment",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Tinitingnan ninyo ang apartment bago ito upahan.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "caretaker",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Siya ang nag-aasikaso ng gusali at nag-aayos ng maliliit na bagay.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "house rules",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Ang mga patakaran para sa lahat ng nakatira, halimbawa ang oras ng katahimikan.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Naghahanap kami ng apartment na may balkonahe.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Kinakausap ko ang may-ari.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Ibinibigay ko ang deposito sa may-ari.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Inilalagay ko ang bisikleta sa bakuran.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Nasa mesa ang susi.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Sira ang heating sa kusina.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Isang taon na akong nakatira sa apartment na ito.",
+      "answerText": "ito"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kailan ko puwedeng tingnan ang apartment?",
+      "answerText": "tingnan"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Ang upa ay nagkakahalaga ng 850 euro kasama ang bayarin.",
+      "answerText": "nagkakahalaga"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Lilipat kami sa Disyembre 1.",
+      "answerText": "Lilipat"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Sira ang heating. Puwede po ba ninyong ayusin?",
+      "answerText": "ayusin"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Paghiwalayin po ang basura.",
+      "answerText": "Paghiwalayin"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "kuwarto",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "kusina",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkonahe",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "banyo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "susi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "heating",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Bakante pa po ba ang apartment?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Magkano po ang karagdagang bayarin?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kailan ko puwedeng tingnan ang apartment?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Gusto ko pong upahan ang apartment.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "deposito",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "karagdagang bayarin",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkonahe",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "susi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "heating",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:26.783Z"
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-potsdam-gap": "Đánh dấu từ đúng.",
+    "stadt-potsdam-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-potsdam-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-potsdam-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-potsdam-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "Cung điện của Friedrich Đại đế; tên tiếng Pháp nghĩa là \"không lo âu\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "\"Fritz Già\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "Biệt danh của vua Phổ Friedrich II.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "khoai tây",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "Fritz Già làm cho khoai tây phổ biến ở Phổ; người ta đặt khoai tây lên mộ ông.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "Khu phố Hà Lan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "Khu phố có nhà gạch đỏ theo kiểu Hà Lan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "Ở đây có các xưởng phim lớn; nhiều bộ phim được làm ở đây.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "cầu Glienicke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "Cầu sang Berlin; thời Chiến tranh Lạnh, gián điệp được trao đổi ở đây.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "sông Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "Con sông có nhiều hồ quanh Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "Chúng tôi tham quan cung điện Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "Trên mộ của Fritz Già có khoai tây.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "Chúng tôi đi dạo qua Khu phố Hà Lan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "Ở Babelsberg người ta đang quay một bộ phim mới.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "Chúng tôi đi thuyền trên sông Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Potsdam nằm ngay cạnh thủ đô Berlin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "Cầu Glienicke bắc qua sông Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "Friedrich Đại đế thích sống ở Sanssouci.",
+      "answerText": "thích"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "Du khách đặt khoai tây lên mộ ông.",
+      "answerText": "đặt"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "Ở Babelsberg nhiều bộ phim được quay.",
+      "answerText": "được quay"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "Đi tàu S-Bahn bạn tới Berlin rất nhanh.",
+      "answerText": "tới"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "Năm 1945, Hội nghị Potsdam diễn ra ở cung điện Cecilienhof.",
+      "answerText": "diễn ra"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "cung điện",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "nhà vua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "củ khoai tây",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "xưởng phim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "bộ phim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "ngôi mộ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "Fritz Già sống ở Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "Trên mộ ông lúc nào cũng có khoai tây.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "Bạn đã đến Công viên phim Babelsberg chưa?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Potsdam nằm ngay cạnh Berlin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "nhà vua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "khoai tây",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "cung điện",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "bộ phim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "khu vườn",
+      "answerText": null
+    }
+  ]
+}

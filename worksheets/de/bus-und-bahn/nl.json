@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.402Z"
+  },
+  "title": "Met bus en trein",
+  "instructions": {
+    "bus-und-bahn-matching": "Verbind elk woord met de juiste uitleg.",
+    "bus-und-bahn-gap": "Kruis het passende woord aan.",
+    "bus-und-bahn-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "bus-und-bahn-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "bus-und-bahn-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "bus-und-bahn-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "het kaartje",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Daarmee mag u met de bus of de trein reizen.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "de kaartautomaat",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Hier koopt u een kaartje zonder loket.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "het spoor (perron)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Hier stopt de trein in het station.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "de vertraging",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "De trein komt later dan gepland.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "overstappen",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "U gaat van de ene trein naar de andere.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "de halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Hier stopt de bus.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "het Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Een maandkaart voor bussen en regionale treinen in heel Duitsland.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "De trein naar Keulen vertrekt van spoor 5.",
+      "answerText": "spoor"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "De trein heeft tien minuten vertraging.",
+      "answerText": "vertraging"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Waar is de dichtstbijzijnde halte?",
+      "answerText": "halte"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Een kaartje naar Berlijn, alstublieft.",
+      "answerText": "kaartje"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Laat alstublieft uw kaartje zien.",
+      "answerText": "kaartje"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "De metro rijdt elke tien minuten.",
+      "answerText": "metro"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Bij de automaat kunt u kaartjes kopen.",
+      "answerText": "automaat"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Waar moet ik overstappen?",
+      "answerText": "overstappen"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "De bus vertrekt om 8.15 uur.",
+      "answerText": "vertrekt"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "We komen om 10 uur in Hamburg aan.",
+      "answerText": "komen"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Stap hier alstublieft uit.",
+      "answerText": "Stap"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Hoe lang duurt de reis?",
+      "answerText": "duurt"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "de trein",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "het station",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "het kaartje",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "het spoor",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "de halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "de bus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Wanneer vertrekt de volgende trein naar München?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Ik moet in Mannheim overstappen.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "De trein heeft helaas vertraging.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Is het kaartje ook geldig voor de bus?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "kaartje",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "vertraging",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "spoor",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "station",
+      "answerText": null
+    }
+  ]
+}

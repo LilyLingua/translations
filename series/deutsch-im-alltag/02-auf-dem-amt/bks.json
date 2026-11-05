@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Želim se prijaviti."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Izvlačim broj."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – šalter 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Želim prijaviti svoj novi stan."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Izvolite potvrdu od mog stanodavca."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Izvolite moj pasoš."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Slovkam: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Neoženjen sam / neudata sam."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Gdje trebam potpisati?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Treba li mi još nešto?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Preselio sam se! Novi stan, novi grad …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! I – jesi li se već prijavio?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Prijavio? Gdje to? U teretani?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Ne, Leo. U općini! Danas prolaziš cijeli termin u „Bürgeramt“ (šalter za građane) – od ulaza do potvrde o prijavi."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "I u svakoj situaciji te pitamo: Šta kažeš?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "I imaš samo pet sekundi!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Dolaziš u šalter za građane. Na informacijama sjedi muškarac."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Dobro jutro. Šta vas dovodi?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Dobro jutro. Želim se prijaviti."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Ja sam molba."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Ja hoću ured."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ znači: Zašto ste ovdje? Šta vam treba?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "U općini ovu riječ čuješ jako često."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Dobro jutro. Želim se prijaviti."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Imate li termin?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Da, u devet sati."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Želim se prijaviti."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Imam termin u devet sati."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Dobro. Onda, molim vas, izvucite broj i čekajte tamo."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Šta sada radiš?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Seliš se."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Vučeš nekoga za kosu."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Uzimaš iz automata papirić s brojem."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Dakle A! Selim se. Pa upravo sam se i preselio …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Ne, Leo. C! „Eine Nummer ziehen“ znači: uzimaš papirić sa svojim brojem za čekanje."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ je nešto sasvim drugo – to znači: preseliti se u novi stan."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Izvlačim broj."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Čekaš. Odjednom čuješ obavještenje. Slušaj pažljivo!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Broj 147, molim na šalter 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Tvoj broj je 147. Kamo ideš?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Na šalter 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Na šalter 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: U sobu 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Prvo dolazi tvoj broj, onda šalter."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "U mnogim uredima to piše i na ekranu."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – šalter 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Ideš na šalter 12. Tamo sjedi žena."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Dobro jutro. Sjednite. Kako vam mogu pomoći?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Želim prijaviti vas."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Želim prijaviti svoj novi stan."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Sada živim ovdje. Ćao!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Prijavljuješ svoj stan – ili sebe: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Ali ne „Sie“ (vas) – gospođa Krüger je već prijavljena."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Želim prijaviti svoj novi stan."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Rado. Kada ste se uselili?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Prvog oktobra."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Želim prijaviti svoj novi stan."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Uselio sam se prvog oktobra."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Imate li potvrdu stanodavca kod sebe?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, duga riječ! Šta kažeš?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Ne, ja ne dajem stan."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Da, dajem vam svoj stan."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Da, izvolite potvrdu od mog stanodavca."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ je obrazac od tvog stanodavca. Na njemu piše: ti zaista stanuješ u ovom stanu."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Bez ovog papira prijava uglavnom ne ide."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Da, izvolite potvrdu od mog stanodavca."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Izvolite potvrdu od mog stanodavca."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "I vašu ličnu kartu ili pasoš, molim."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Izvolite moj pasoš."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Izvolite su moj pasoš."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Ja sam pasoš."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Jedan pasoš – dakle „ist“ (je), ne „sind“ (su). Pasoš ili ličnu kartu ti u općini skoro uvijek treba."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "A ako si ga zaboravio, reci iskreno: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Izvinite, nažalost sam ga zaboravio.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Izvolite moj pasoš."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Izvolite moj pasoš."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Izvinite, nažalost sam ga zaboravio."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Kako se piše vaše prezime?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Tvoje ime je Nowak. Šta kažeš?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Hemijskom olovkom."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Slovkam: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Piše se jako lijepo."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ znači: Koja slova? Onda slovkaš – slovo po slovo."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Vježbaj svoje ime na njemačkom, treba ti svuda!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Hvala."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Slovkam: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Jeste li oženjeni / udati?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Nisi u braku. Šta kažeš?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Ne, neoženjen sam / neudata sam."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Ne, ja sam nažalost."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Ne, ja sam ženi se."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ znači: nije u braku. Pažnja: „leider“ zvuči slično, ali znači nešto sasvim drugo – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "je: nažalost."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Ne, neoženjen sam / neudata sam."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Neoženjen sam / neudata sam."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Oženjen sam / udata sam."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Molim vas, provjerite podatke. Ako je sve tačno, potpišite ovdje."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Napisat ću to ispod stola."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Ne volim potpisivati."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Sve je tačno. Gdje tačno trebam potpisati?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ znači: napisati svoje ime rukom – tvoj potpis."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "I dobro je: uvijek prvo pročitaj šta piše na obrascu."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Sve je tačno. Gdje tačno trebam potpisati?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Ovdje dolje, molim."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Gdje trebam potpisati?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Tako, to je to. Izvolite vašu potvrdu o prijavi."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Gotov si! Šta kažeš?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Hvala, javit ću se."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Hvala lijepa! Treba li mi još nešto?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Ništa mi ne fali!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! I pažnja kod A: „Ich melde mich“ ne znači „prijavljujem se“, nego: nazvat ću vas kasnije."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "A C možda još pamtiš – to odgovara samo kod doktora!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Hvala lijepa! Treba li mi još nešto?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Ne, to je sve. Dobro čuvajte potvrdu."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Treba li mi još nešto?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Tri savjeta za prijavu. Prvo: prijavi se u roku od dvije sedmice nakon useljenja."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Drugo: u mnogim gradovima treba ti termin – često ga možeš rezervisati online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "I treće: potvrda o prijavi će ti često ponovo trebati, na primjer za bankovni račun."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Zato je dobro čuvaj!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "U općini njemački ponekad zvuči jako komplikovano. Leo čita – a ja to kažem jednostavno."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Šta vas dovodi?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Šta vam treba?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Molim vas, pripremite svoju dokumentaciju."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Molim vas, držite papire u ruci."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Popunite obrazac u potpunosti."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Napišite svuda nešto."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Obrada traje otprilike dvije sedmice."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "To traje oko dvije sedmice."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Molim vas, naknadno dostavite dokumentaciju."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Molim vas, donesite papire kasnije."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Danas se presvlačim!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Aha, oblačiš drugu odjeću? Ili misliš: „Ich ziehe um“ – dakle seliš se u novi stan?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "I u općini: ne „Ich bin leider“, nego „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(nisam u braku) – kad nisi u braku."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "A „Ich melde mich“ znači: nazvat ću kasnije. U općini kažeš: „Ich melde mich an.“ (Prijavljujem se.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "A sada sve još jednom. Deset najvažnijih rečenica. Ponovi za mnom!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Želim se prijaviti."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Imam termin u devet sati."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Izvlačim broj."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Želim prijaviti svoj novi stan."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Izvolite potvrdu od mog stanodavca."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Izvolite moj pasoš."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Slovkam svoje ime."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Neoženjen sam / neudata sam."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Gdje trebam potpisati?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Treba li mi još nešto?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Koja riječ ti je bila najteža? Napiši u komentarima!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Ćao i vidimo se uskoro na LilyLingua!"
+    }
+  ]
+}

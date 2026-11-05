@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:19.802Z"
+  },
+  "title": "Кёльн",
+  "instructions": {
+    "stadt-koeln-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-koeln-gap": "Отметьте правильное слово.",
+    "stadt-koeln-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-koeln-table": "Допишите артикль и форму множественного числа.",
+    "stadt-koeln-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-koeln-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "«Кёлле Алааф!»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Клич кёльнского карнавала – примерно «Да здравствует Кёльн!».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Большая церковь с двумя башнями прямо у главного вокзала.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "«Кёльш»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Светлое пиво из Кёльна; его пьют из маленьких узких бокалов.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "«Кёбес»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Официант в пивоварне; он приносит новый кёльш, пока не положишь подставку на бокал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "«Хальве Ханн»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Ржаная булочка с сыром – а не половина курицы!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "«Веедель»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "По-кёльнски «городской квартал»; каждый кёльнец любит свой веедель.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Розовый понедельник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Кульминация карнавала с большим шествием через город.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Он пьёт кёльш в пивоварне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Кёбес приносит следующий кёльш.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "В Розовый понедельник мы смотрим шествие через город.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Многие туристы посещают Кёльнский собор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Я заказываю «Хальве Ханн».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Многие гуляют по мосту Гогенцоллернов.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "На карнавал надевают костюм.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "На карнавале люди кричат «Кёлле Алааф!».",
+      "answerText": "кричат"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Кёбес без вопросов приносит новый кёльш.",
+      "answerText": "приносит"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "Высота собора составляет более 150 метров.",
+      "answerText": "составляет"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Рейн течёт прямо через Кёльн.",
+      "answerText": "течёт"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "11.11. в 11:11 начинается карнавал.",
+      "answerText": "начинается"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "бокал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "поезд, шествие",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "костюм",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "пивная",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "Кёльнский собор стоит прямо у вокзала.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "В Розовый понедельник весь Кёльн празднует карнавал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Хочешь ещё кёльш?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "В Кёльне кёльш пьют из маленьких бокалов.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "карнавал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "костюм",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "пивная",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "бокал",
+      "answerText": null
+    }
+  ]
+}

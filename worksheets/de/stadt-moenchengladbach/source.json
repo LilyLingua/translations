@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "2e3b6cca-3c90-4832-a060-ef34bb39b1e5",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Mönchengladbach",
+  "topic": "NRW: Borussia, „die Fohlen“, Textil, Schloss Rheydt",
+  "tasks": [
+    {
+      "id": "stadt-moenchengladbach-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-matching-1",
+          "term": "die Borussia",
+          "meaning": "Fußballverein der Stadt in Schwarz, Weiß und Grün."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-2",
+          "term": "die Fohlen",
+          "meaning": "Spitzname der Borussia-Spieler, weil die Mannschaft früher sehr jung war."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-3",
+          "term": "„Gladbach“",
+          "meaning": "So sagen viele kurz zu Mönchengladbach."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-4",
+          "term": "die Textilstadt",
+          "meaning": "Früher arbeiteten hier viele Menschen in Fabriken für Stoffe und Kleidung."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-5",
+          "term": "das Museum Abteiberg",
+          "meaning": "Museum für moderne Kunst in einem besonderen Gebäude."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-6",
+          "term": "das Schloss Rheydt",
+          "meaning": "Altes Schloss mit Wassergraben im Stadtteil Rheydt."
+        },
+        {
+          "id": "stadt-moenchengladbach-matching-7",
+          "term": "der Hockeypark",
+          "meaning": "Großes Hockey-Stadion; hier fand 2006 die Weltmeisterschaft statt."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-moenchengladbach-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-gap-1",
+          "promptBefore": "Am Samstag gehen wir in",
+          "promptAfter": "Borussia-Park.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-2",
+          "promptBefore": "Die Fans singen für",
+          "promptAfter": "Fohlen.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-3",
+          "promptBefore": "In",
+          "promptAfter": "Fabrik nähten die Leute Kleidung.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-4",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Museum Abteiberg.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-5",
+          "promptBefore": "Um das Schloss gibt es",
+          "promptAfter": "Wassergraben.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-6",
+          "promptBefore": "Die Spieler laufen mit",
+          "promptAfter": "Schläger über den Platz.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-moenchengladbach-gap-7",
+          "promptBefore": "Mönchengladbach liegt in",
+          "promptAfter": "Nähe von Düsseldorf.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-verbs-1",
+          "promptBefore": "Die Borussia",
+          "promptAfter": "im Borussia-Park.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-moenchengladbach-verbs-2",
+          "promptBefore": "Viele Gladbacher",
+          "promptAfter": "Fans der Fohlen.",
+          "correctAnswer": "sind",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-moenchengladbach-verbs-3",
+          "promptBefore": "Früher",
+          "promptAfter": "viele Menschen in Textilfabriken.",
+          "correctAnswer": "arbeiteten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arbeiten"
+        },
+        {
+          "id": "stadt-moenchengladbach-verbs-4",
+          "promptBefore": "Das Museum",
+          "promptAfter": "moderne Kunst.",
+          "correctAnswer": "zeigt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zeigen"
+        },
+        {
+          "id": "stadt-moenchengladbach-verbs-5",
+          "promptBefore": "Am Wochenende",
+          "promptAfter": "wir das Schloss Rheydt.",
+          "correctAnswer": "besuchen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "besuchen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-moenchengladbach-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-table-1",
+          "article": "das",
+          "singular": "Fohlen",
+          "plural": "Fohlen"
+        },
+        {
+          "id": "stadt-moenchengladbach-table-2",
+          "article": "der",
+          "singular": "Fan",
+          "plural": "Fans"
+        },
+        {
+          "id": "stadt-moenchengladbach-table-3",
+          "article": "die",
+          "singular": "Fabrik",
+          "plural": "Fabriken"
+        },
+        {
+          "id": "stadt-moenchengladbach-table-4",
+          "article": "der",
+          "singular": "Stoff",
+          "plural": "Stoffe"
+        },
+        {
+          "id": "stadt-moenchengladbach-table-5",
+          "article": "das",
+          "singular": "Museum",
+          "plural": "Museen"
+        },
+        {
+          "id": "stadt-moenchengladbach-table-6",
+          "article": "der",
+          "singular": "Schläger",
+          "plural": "Schläger"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-moenchengladbach-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-order-1",
+          "chunks": [
+            "Die Borussia",
+            "spielt",
+            "im Borussia-Park"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-moenchengladbach-order-2",
+          "chunks": [
+            "Bist",
+            "du",
+            "auch",
+            "ein Fan der Fohlen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-moenchengladbach-order-3",
+          "chunks": [
+            "Früher",
+            "gab es",
+            "hier",
+            "viele Fabriken"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-moenchengladbach-order-4",
+          "chunks": [
+            "Um das Schloss",
+            "gibt es",
+            "einen Wassergraben"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-moenchengladbach-spelling-1",
+          "correct": "Fabrik",
+          "wrong": "Fabrick"
+        },
+        {
+          "id": "stadt-moenchengladbach-spelling-2",
+          "correct": "Museum",
+          "wrong": "Musehum"
+        },
+        {
+          "id": "stadt-moenchengladbach-spelling-3",
+          "correct": "Stadion",
+          "wrong": "Stadjon"
+        },
+        {
+          "id": "stadt-moenchengladbach-spelling-4",
+          "correct": "Mannschaft",
+          "wrong": "Manschaft"
+        },
+        {
+          "id": "stadt-moenchengladbach-spelling-5",
+          "correct": "Kleidung",
+          "wrong": "Kleidunk"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

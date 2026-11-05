@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:30.346Z"
+  },
+  "title": "Hanover",
+  "instructions": {
+    "stadt-hannover-matching": "Match each word with the correct explanation.",
+    "stadt-hannover-gap": "Tick the correct word.",
+    "stadt-hannover-verbs": "Fill in the correct verb in the correct form.",
+    "stadt-hannover-table": "Fill in the article and the plural form.",
+    "stadt-hannover-order": "Put the words in the correct order and write the sentence.",
+    "stadt-hannover-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "the trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Large exhibition for companies; Hanover has a huge exhibition centre.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "the Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Artificial lake in the city for sailing, jogging and celebrating.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "the Red Thread",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Red line on the ground; it leads to the sights.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "Standard German",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "The standard language; in Hanover it is spoken especially clearly.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "the \"Lüttje Lage\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Beer and schnapps from two glasses that you drink at the same time.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "the marksmen's festival",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Very big folk festival in summer with a long parade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "the \"Nana\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Large, colourful female figure on the bank of the Leine, by Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "We follow the Red Thread through the city.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "In summer many people jog around the Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "The company exhibits at the trade fair.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "We take the lift up into the dome of the town hall.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "The Nanas stand by the Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "We visit the Herrenhausen Gardens.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "He tries a Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "The Red Thread leads to many sights.",
+      "answerText": "leads"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "In the New Town Hall, a slanted lift goes up into the dome.",
+      "answerText": "goes"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Many companies show their products at the trade fair.",
+      "answerText": "show"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "The people in Hanover speak very clear Standard German.",
+      "answerText": "speak"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "In 2000 the world exhibition Expo took place in Hanover.",
+      "answerText": "took"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "the trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "the garden",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "the thread",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "the figure",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "the town hall",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "the lift",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "The Red Thread leads through the city centre.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "In summer many people sail on the Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Are you taking the lift up into the dome?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "In Hanover people speak clear Standard German.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "sight",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "lift",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "figure",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "dome",
+      "answerText": null
+    }
+  ]
+}

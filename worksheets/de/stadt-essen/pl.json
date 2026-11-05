@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:53.554Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-essen-gap": "Zaznacz właściwe słowo.",
+    "stadt-essen-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-essen-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-essen-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-essen-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "kopalnia Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Stara kopalnia; dziś Światowe Dziedzictwo UNESCO z muzeami i designem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "wieża wyciągowa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Wysoka wieża nad kopalnią; dzięki niej ludzie i węgiel wyjeżdżali na górę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!” (Szczęść Boże!)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Pozdrowienie górników – życzy się, żeby wszyscy wrócili zdrowi na górę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Duży dom rodziny Krupp z wieloma pokojami i parkiem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Jezioro na Ruhrze; można tam żeglować, wiosłować i spacerować.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Duży park z kwiatami, placami zabaw i zwierzętami.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "Europejska Stolica Kultury",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Tytuł, który Essen otrzymał w 2010 roku dla całego Zagłębia Ruhry.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Latem wiele osób żegluje po Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Rodzina Krupp mieszkała w Villi Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Zwiedzamy kopalnię Zollverein z przewodnikiem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Wieża wyciągowa jest symbolem Essen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "W niedzielę idziemy do Grugaparku.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "W 2010 roku Essen był Europejską Stolicą Kultury.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen gra przy Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Górnicy mówią „Glück auf!”.",
+      "answerText": "mówią"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Wieża wyciągowa stoi nad starą kopalnią.",
+      "answerText": "stoi"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Dziś z ziemi nie wydobywa się już węgla.",
+      "answerText": "wydobywa"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Wielu turystów zwiedza kopalnię Zollverein.",
+      "answerText": "zwiedza"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Ruhra przepływa przez Baldeneysee.",
+      "answerText": "przepływa"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "kopalnia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "park",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "willa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "jezioro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "muzeum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "hala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Kopalnia Zollverein należy do Światowego Dziedzictwa UNESCO.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "W weekend jedziemy nad Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Byłeś już w Grugaparku?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Dawniej wielu górników pracowało pod ziemią.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "muzeum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "kopalnia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "willa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "węgiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "hala",
+      "answerText": null
+    }
+  ]
+}

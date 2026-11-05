@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:39.927Z"
+  },
+  "title": "काम का पहला दिन",
+  "instructions": {
+    "erster-arbeitstag-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "erster-arbeitstag-gap": "सही रूप पर निशान लगाइए।",
+    "erster-arbeitstag-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "erster-arbeitstag-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "erster-arbeitstag-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "erster-arbeitstag-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "सहकर्मी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "एक आदमी जिसके साथ आप काम करते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "बॉस (महिला)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "वह टीम का नेतृत्व करती है।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "ब्रेक",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "काम के दौरान खाली समय, जैसे खाना खाने के लिए।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "छुट्टी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "ऐसे दिन जब आप काम नहीं करते, फिर भी पैसे मिलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ओवरटाइम घंटा",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "योजना से ज़्यादा काम किया गया एक घंटा।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "रोज़गार अनुबंध",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "इसमें वेतन, काम का समय और छुट्टियाँ लिखी होती हैं।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "कैंटीन",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "यहाँ कर्मचारी कंपनी में खाना खाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "यह मेरी नई सहकर्मी है।",
+      "answerText": "मेरी"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "क्या मैं आपसे मेरे सहकर्मी का परिचय करा सकता हूँ?",
+      "answerText": "मेरे"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "मुझे टीम के साथ काम करना अच्छा लगता है।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "हम कैंटीन में मिलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "मेरा एक सवाल है।",
+      "answerText": "एक"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "ब्रेक कब शुरू होता है?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "मैं बॉस को रिपोर्ट देता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "क्या मैं संक्षेप में अपना परिचय दे सकता हूँ?",
+      "answerText": "परिचय दे"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "मैं 8 से 4 बजे तक काम करता हूँ।",
+      "answerText": "काम करता"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "शौचालय मुझे कहाँ मिलेगा?",
+      "answerText": "मिलेगा"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "टीम में हम एक-दूसरे को नाम से बुलाते हैं।",
+      "answerText": "नाम से बुलाते"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "क्या आप मुझे यह समझा सकते हैं?",
+      "answerText": "समझा"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "सहकर्मी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "कंपनी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "दफ़्तर",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "कंप्यूटर",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "मीटिंग",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "टीम",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "क्या मैं संक्षेप में अपना परिचय दे सकता हूँ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "मैं टीम में नया हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "लंच ब्रेक कब शुरू होता है?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "क्या आप मुझे यह समझा सकते हैं?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "सहकर्मी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "मीटिंग",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "छुट्टी",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "दफ़्तर",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ओवरटाइम घंटा",
+      "answerText": null
+    }
+  ]
+}

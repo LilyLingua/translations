@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "d83fa356-9a68-42f7-a388-8bb6cb852d17",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Leipzig",
+  "topic": "Sachsen: Messe, Thomanerchor, Lerche, „Hypezig“",
+  "tasks": [
+    {
+      "id": "stadt-leipzig-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-leipzig-matching-1",
+          "term": "die Leipziger Lerche",
+          "meaning": "Kleiner Kuchen mit Marzipan; früher aß man echte Vögel."
+        },
+        {
+          "id": "stadt-leipzig-matching-2",
+          "term": "das Leipziger Allerlei",
+          "meaning": "Gericht aus verschiedenen Gemüsen, zum Beispiel Erbsen und Möhren."
+        },
+        {
+          "id": "stadt-leipzig-matching-3",
+          "term": "die Montagsdemonstration",
+          "meaning": "Im Herbst 1989 gingen jeden Montag Tausende für die Freiheit auf die Straße."
+        },
+        {
+          "id": "stadt-leipzig-matching-4",
+          "term": "die Messe",
+          "meaning": "Große Ausstellung; Leipzig ist eine der ältesten Messestädte der Welt."
+        },
+        {
+          "id": "stadt-leipzig-matching-5",
+          "term": "der Thomanerchor",
+          "meaning": "Berühmter Knabenchor; Johann Sebastian Bach war hier Kantor."
+        },
+        {
+          "id": "stadt-leipzig-matching-6",
+          "term": "Auerbachs Keller",
+          "meaning": "Altes Restaurant unter der Stadt; Goethe hat es im „Faust“ beschrieben."
+        },
+        {
+          "id": "stadt-leipzig-matching-7",
+          "term": "Hypezig",
+          "meaning": "Spitzname, weil so viele junge Leute nach Leipzig ziehen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-leipzig-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-leipzig-gap-1",
+          "promptBefore": "Bach war Kantor an",
+          "promptAfter": "Thomaskirche.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-2",
+          "promptBefore": "1989 demonstrierten viele Menschen auf",
+          "promptAfter": "Ring.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-3",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Völkerschlachtdenkmal.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-4",
+          "promptBefore": "Zum Kaffee esse ich",
+          "promptAfter": "Leipziger Lerche.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-5",
+          "promptBefore": "Im Sommer baden viele in",
+          "promptAfter": "Cospudener See.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-6",
+          "promptBefore": "Die Buchmesse ist",
+          "promptAfter": "Frühling.",
+          "correctAnswer": "im",
+          "options": [
+            "im",
+            "am",
+            "um"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-leipzig-gap-7",
+          "promptBefore": "Der Zoo liegt in",
+          "promptAfter": "Nähe vom Hauptbahnhof.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-leipzig-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-leipzig-verbs-1",
+          "promptBefore": "Der Thomanerchor",
+          "promptAfter": "in der Thomaskirche.",
+          "correctAnswer": "singt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "singen"
+        },
+        {
+          "id": "stadt-leipzig-verbs-2",
+          "promptBefore": "Im Herbst 1989",
+          "promptAfter": "die Menschen jeden Montag auf die Straße.",
+          "correctAnswer": "gingen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "gehen"
+        },
+        {
+          "id": "stadt-leipzig-verbs-3",
+          "promptBefore": "Viele junge Leute",
+          "promptAfter": "nach Leipzig.",
+          "correctAnswer": "ziehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ziehen"
+        },
+        {
+          "id": "stadt-leipzig-verbs-4",
+          "promptBefore": "Die Buchmesse",
+          "promptAfter": "jedes Jahr im März statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        },
+        {
+          "id": "stadt-leipzig-verbs-5",
+          "promptBefore": "Der Hauptbahnhof",
+          "promptAfter": "einer der größten Bahnhöfe Europas.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-leipzig-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-leipzig-table-1",
+          "article": "der",
+          "singular": "Chor",
+          "plural": "Chöre"
+        },
+        {
+          "id": "stadt-leipzig-table-2",
+          "article": "die",
+          "singular": "Messe",
+          "plural": "Messen"
+        },
+        {
+          "id": "stadt-leipzig-table-3",
+          "article": "das",
+          "singular": "Denkmal",
+          "plural": "Denkmäler"
+        },
+        {
+          "id": "stadt-leipzig-table-4",
+          "article": "der",
+          "singular": "Bahnhof",
+          "plural": "Bahnhöfe"
+        },
+        {
+          "id": "stadt-leipzig-table-5",
+          "article": "die",
+          "singular": "Kirche",
+          "plural": "Kirchen"
+        },
+        {
+          "id": "stadt-leipzig-table-6",
+          "article": "das",
+          "singular": "Buch",
+          "plural": "Bücher"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-leipzig-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-leipzig-order-1",
+          "chunks": [
+            "Bach",
+            "arbeitete",
+            "viele Jahre",
+            "in Leipzig"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-leipzig-order-2",
+          "chunks": [
+            "Im März",
+            "kommen",
+            "viele Besucher",
+            "zur Buchmesse"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-leipzig-order-3",
+          "chunks": [
+            "Kennst",
+            "du",
+            "das Völkerschlachtdenkmal"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-leipzig-order-4",
+          "chunks": [
+            "Die Leipziger Lerche",
+            "ist",
+            "ein Gebäck",
+            "mit Marzipan"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-leipzig-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-leipzig-spelling-1",
+          "correct": "Denkmal",
+          "wrong": "Denkmahl"
+        },
+        {
+          "id": "stadt-leipzig-spelling-2",
+          "correct": "Messe",
+          "wrong": "Mese"
+        },
+        {
+          "id": "stadt-leipzig-spelling-3",
+          "correct": "Chor",
+          "wrong": "Kor"
+        },
+        {
+          "id": "stadt-leipzig-spelling-4",
+          "correct": "Bahnhof",
+          "wrong": "Bahnhoff"
+        },
+        {
+          "id": "stadt-leipzig-spelling-5",
+          "correct": "Marzipan",
+          "wrong": "Marzipahn"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

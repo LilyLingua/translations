@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:12.543Z"
+  },
+  "title": "Галле",
+  "instructions": {
+    "stadt-halle-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-halle-gap": "Отметьте правильное слово.",
+    "stadt-halle-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-halle-table": "Допишите артикль и форму множественного числа.",
+    "stadt-halle-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-halle-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "Георг Фридрих Гендель",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "Известный композитор; он родился в 1685 году в Галле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "«Халлорен-Кугельн»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "Маленькие шоколадные шарики с очень старой шоколадной фабрики (с 1804 года).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "«Халлорен»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "Раньше так называли солеваров в Галле; их братство существует до сих пор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "соль",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "Благодаря ей Галле разбогател; она поступала из солёных источников под городом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "город пяти башен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "Прозвище: на Рыночной площади видно пять башен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "Заале",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "Река, которая протекает через Галле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "Фонды Франке",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "Старый школьный городок с большими фахверковыми домами, основанный в 1698 году.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "Мы посещаем Дом Генделя.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "Я покупаю упаковку «Халлорен-Кугельн».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "Галле находится на Заале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "На Рыночной площади стоят пять башен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "Раньше соль добывали из-под земли.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "Мы катаемся на лодке по Заале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "Гендель написал знаменитое произведение – «Мессию».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "Гендель родился в 1685 году в Галле.",
+      "answerText": "родился"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "Заале протекает через город.",
+      "answerText": "протекает"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "Шоколадные шарики имеют очень сладкий вкус.",
+      "answerText": "имеют"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "Соль сделала Галле богатым.",
+      "answerText": "сделала"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "На Рыночной площади видно пять башен.",
+      "answerText": "видно"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "шарик",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "источник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "лодка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "упаковка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "Гендель родился в Галле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "Хочешь шоколадный шарик «Халлорен»?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "Заале протекает через Галле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "На Рыночной площади стоят пять башен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "шарик",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "соль",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.216Z"
+  },
+  "title": "Први радни дан",
+  "instructions": {
+    "erster-arbeitstag-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "erster-arbeitstag-gap": "Означите тачан облик.",
+    "erster-arbeitstag-verbs": "Упишите прави глагол у правом облику.",
+    "erster-arbeitstag-table": "Допуните члан (der/die/das) и облик множине.",
+    "erster-arbeitstag-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "erster-arbeitstag-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "колега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Мушкарац с којим радите.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "шефица",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Она води тим.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "пауза",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Слободно време током рада, на пример за јело.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "годишњи одмор",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Слободни дани кад не радите, а ипак добијате новац.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "прековремени сат",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Сат који радите више него што је планирано.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "уговор о раду",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Овде пишу плата, радно време и годишњи одмор.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "менза",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Овде запослени једу у фирми.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Ово је моја нова колегиница.",
+      "answerText": "моја"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Смем ли да вам представим свог колегу?",
+      "answerText": "свог"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Радо сарађујем с тимом.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Налазимо се у мензи.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Имам једно питање.",
+      "answerText": "једно"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Када почиње пауза?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Дајем шефици извештај.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Смем ли укратко да се представим?",
+      "answerText": "представим"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Радим од 8 до 16 часова.",
+      "answerText": "Радим"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Где могу да нађем тоалет?",
+      "answerText": "нађем"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "У тиму смо на ти.",
+      "answerText": "смо на ти"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Можете ли, молим вас, да ми то објасните?",
+      "answerText": "објасните"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "колега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "фирма",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "канцеларија",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "рачунар",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "састанак",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "тим",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Смем ли укратко да се представим?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Нов сам у тиму.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Када почиње пауза за ручак?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Можете ли да ми то објасните?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "колега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "састанак",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "годишњи одмор",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "канцеларија",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "прековремени сат",
+      "answerText": null
+    }
+  ]
+}

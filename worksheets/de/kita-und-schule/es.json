@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:22.315Z"
+  },
+  "title": "Guardería y escuela",
+  "instructions": {
+    "kita-und-schule-matching": "Une cada palabra con la explicación correcta.",
+    "kita-und-schule-gap": "Marca la palabra correcta.",
+    "kita-und-schule-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "kita-und-schule-table": "Completa el artículo (der/die/das) y la forma del plural.",
+    "kita-und-schule-order": "Ordena las palabras y escribe la frase.",
+    "kita-und-schule-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "la reunión de padres",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Una reunión de los padres con el profesorado.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "la guardería",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Aquí cuidan a los niños pequeños durante el día.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "la tutora",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Es la responsable de una clase.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "el boletín de notas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Aquí están las notas al final del curso escolar.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "el justificante",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Una carta corta para la escuela cuando tu hijo estuvo enfermo.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "las vacaciones",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "El tiempo sin colegio, por ejemplo en verano.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "la excursión",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "La clase va junta a otro lugar.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mi hijo está enfermo. Hoy no puede ir a la escuela.",
+      "answerText": "escuela"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "En la reunión de padres los padres hablan con la profesora.",
+      "answerText": "reunión de padres"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "En verano los niños tienen seis semanas de vacaciones.",
+      "answerText": "vacaciones"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Al final del curso mi hija recibe un boletín de notas.",
+      "answerText": "boletín de notas"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Le escribo a la profesora un justificante porque mi hijo estuvo enfermo.",
+      "answerText": "justificante"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Los niños tienen que hacer deberes todos los días.",
+      "answerText": "deberes"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mi hijo tiene tres años y va a la guardería.",
+      "answerText": "guardería"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Recojo a mi hijo a las 16:00.",
+      "answerText": "Recojo"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Mi hija está enferma hoy, por desgracia.",
+      "answerText": "está"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "¿Podemos acordar una cita?",
+      "answerText": "acordar"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Las clases empiezan a las 8:00.",
+      "answerText": "empiezan"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Por favor, firme el formulario antes del viernes.",
+      "answerText": "firme"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "el niño",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "la clase",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "el profesor",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "el cuaderno",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "la nota",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "el bolígrafo",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mi hijo está enfermo hoy.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "¿Cuándo empieza la reunión de padres?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Recojo a mi hija a las 15:00.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "¿Necesita mi hijo algo para la excursión?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "reunión de padres",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "boletín de notas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "justificante",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "deberes",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "tutora",
+      "answerText": null
+    }
+  ]
+}

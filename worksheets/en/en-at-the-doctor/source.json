@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "6aaca1f8-f05f-4db8-a5e3-1ce35c0a7f69",
+    "level": "A2"
+  },
+  "title": "At the Doctor",
+  "topic": "Making an appointment, describing symptoms and getting a prescription",
+  "tasks": [
+    {
+      "id": "en-at-the-doctor-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-at-the-doctor-matching-1",
+          "term": "the appointment",
+          "meaning": "A fixed time when you see the doctor."
+        },
+        {
+          "id": "en-at-the-doctor-matching-2",
+          "term": "the symptom",
+          "meaning": "A sign that you are sick, for example a fever."
+        },
+        {
+          "id": "en-at-the-doctor-matching-3",
+          "term": "the fever",
+          "meaning": "A body temperature that is too high."
+        },
+        {
+          "id": "en-at-the-doctor-matching-4",
+          "term": "the waiting room",
+          "meaning": "The room where you wait before you see the doctor."
+        },
+        {
+          "id": "en-at-the-doctor-matching-5",
+          "term": "the insurance card",
+          "meaning": "The card that shows your health insurance."
+        },
+        {
+          "id": "en-at-the-doctor-matching-6",
+          "term": "the sick note",
+          "meaning": "A paper from the doctor that says you cannot work."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-at-the-doctor-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-at-the-doctor-gap-1",
+          "promptBefore": "I'd like to make an",
+          "promptAfter": "for tomorrow.",
+          "correctAnswer": "appointment",
+          "options": [
+            "appointment",
+            "fever",
+            "symptom"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-doctor-gap-2",
+          "promptBefore": "I have had a",
+          "promptAfter": "since yesterday.",
+          "correctAnswer": "fever",
+          "options": [
+            "fever",
+            "waiting room",
+            "sick note"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-doctor-gap-3",
+          "promptBefore": "Please take a seat in the",
+          "promptAfter": ".",
+          "correctAnswer": "waiting room",
+          "options": [
+            "waiting room",
+            "appointment",
+            "fever"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-doctor-gap-4",
+          "promptBefore": "Do you have your insurance",
+          "promptAfter": "with you?",
+          "correctAnswer": "card",
+          "options": [
+            "card",
+            "fever",
+            "room"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-doctor-gap-5",
+          "promptBefore": "I need a",
+          "promptAfter": "for my employer.",
+          "correctAnswer": "sick note",
+          "options": [
+            "sick note",
+            "symptom",
+            "waiting room"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-doctor-gap-6",
+          "promptBefore": "What",
+          "promptAfter": "do you have?",
+          "correctAnswer": "symptoms",
+          "options": [
+            "symptoms",
+            "appointments",
+            "rooms"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-at-the-doctor-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-at-the-doctor-verbs-1",
+          "promptBefore": "My throat",
+          "promptAfter": ".",
+          "correctAnswer": "hurts",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "hurt"
+        },
+        {
+          "id": "en-at-the-doctor-verbs-2",
+          "promptBefore": "I",
+          "promptAfter": "very tired.",
+          "correctAnswer": "feel",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "feel"
+        },
+        {
+          "id": "en-at-the-doctor-verbs-3",
+          "promptBefore": "The doctor",
+          "promptAfter": "my blood pressure.",
+          "correctAnswer": "checks",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "check"
+        },
+        {
+          "id": "en-at-the-doctor-verbs-4",
+          "promptBefore": "You should",
+          "promptAfter": "in bed for two days.",
+          "correctAnswer": "stay",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stay"
+        },
+        {
+          "id": "en-at-the-doctor-verbs-5",
+          "promptBefore": "Please",
+          "promptAfter": "deeply.",
+          "correctAnswer": "breathe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "breathe"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-at-the-doctor-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-at-the-doctor-order-1",
+          "chunks": [
+            "I",
+            "have",
+            "a sore throat"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-doctor-order-2",
+          "chunks": [
+            "When",
+            "can",
+            "I",
+            "come in"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-doctor-order-3",
+          "chunks": [
+            "Do I",
+            "need",
+            "a prescription"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-doctor-order-4",
+          "chunks": [
+            "Please",
+            "come back",
+            "next week"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-at-the-doctor-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-at-the-doctor-spelling-1",
+          "correct": "appointment",
+          "wrong": "apointment"
+        },
+        {
+          "id": "en-at-the-doctor-spelling-2",
+          "correct": "temperature",
+          "wrong": "temprature"
+        },
+        {
+          "id": "en-at-the-doctor-spelling-3",
+          "correct": "stomach",
+          "wrong": "stomache"
+        },
+        {
+          "id": "en-at-the-doctor-spelling-4",
+          "correct": "insurance",
+          "wrong": "insurence"
+        },
+        {
+          "id": "en-at-the-doctor-spelling-5",
+          "correct": "doctor",
+          "wrong": "docter"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.056Z"
+  },
+  "title": "Il primo giorno di lavoro",
+  "instructions": {
+    "erster-arbeitstag-matching": "Collega ogni parola alla spiegazione giusta.",
+    "erster-arbeitstag-gap": "Segna la forma corretta.",
+    "erster-arbeitstag-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "erster-arbeitstag-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "erster-arbeitstag-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "erster-arbeitstag-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "il collega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Un uomo con cui lavori.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "la capa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Guida il team.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "la pausa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Il tempo libero durante il lavoro, per esempio per mangiare.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "le ferie",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Giorni liberi in cui non lavori ma vieni comunque pagato.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "l'ora di straordinario",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Un'ora che lavori in più del previsto.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "il contratto di lavoro",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Indica stipendio, orario di lavoro e ferie.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "la mensa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Qui mangiano i dipendenti in azienda.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Questa è la mia nuova collega.",
+      "answerText": "la mia"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Posso presentarLe il mio collega?",
+      "answerText": "il mio"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Lavoro volentieri con il team.",
+      "answerText": "il"
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Ci vediamo in mensa.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Ho una domanda.",
+      "answerText": "una"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Quando comincia la pausa?",
+      "answerText": "la"
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Do il rapporto alla capa.",
+      "answerText": "alla"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Posso presentarmi brevemente?",
+      "answerText": "presentarmi"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Lavoro dalle 8 alle 16.",
+      "answerText": "Lavoro"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Dove trovo il bagno?",
+      "answerText": "trovo"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Nel team ci diamo del tu.",
+      "answerText": "diamo del tu"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Me lo può spiegare, per favore?",
+      "answerText": "spiegare"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "il collega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "l'azienda",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "l'ufficio",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "il computer",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "la riunione",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "il team",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Posso presentarmi brevemente?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Sono nuovo nel team.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Quando comincia la pausa pranzo?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Me lo può spiegare?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "collega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "riunione",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "ferie",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "ufficio",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ora di straordinario",
+      "answerText": null
+    }
+  ]
+}

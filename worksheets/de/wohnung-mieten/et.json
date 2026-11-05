@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Korteri üürimine",
+  "instructions": {
+    "wohnung-mieten-matching": "Ühendage iga sõna õige selgitusega.",
+    "wohnung-mieten-gap": "Märkige artikli õige vorm.",
+    "wohnung-mieten-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "wohnung-mieten-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "wohnung-mieten-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "wohnung-mieten-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "üür",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Raha, mida te iga kuu korteri eest maksate.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "tagatisraha",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Raha, mille üürileandja saab alguses tagatiseks.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "kõrvalkulud",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Kulud vee, kütte ja prügi eest.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "üürileping",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Leping üürniku ja üürileandja vahel.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "korteri vaatamine",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Te vaatate korterit enne, kui selle üürite.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "majahoidja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ta hoolitseb maja eest ja parandab väiksemaid asju.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "maja kodukord",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Reeglid kõigile elanikele, näiteks vaikuse ajad.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Me otsime rõduga korterit.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Ma räägin üürileandjaga.",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Ma annan üürileandjale tagatisraha.",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Ma panen jalgratta hoovi.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Võti on laual.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Köögis on küte katki.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Ma olen selles korteris elanud juba aasta.",
+      "answerText": "selles"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Millal ma saan korterit vaatama tulla?",
+      "answerText": "vaatama"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Üür maksab koos kõrvalkuludega 850 eurot.",
+      "answerText": "maksab"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Me kolime sisse 1. detsembril.",
+      "answerText": "kolime"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Küte on katki. Kas te saaksite selle palun parandada?",
+      "answerText": "parandada"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Palun sorteerige prügi.",
+      "answerText": "sorteerige"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "tuba",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "köök",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "rõdu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "vannituba",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "võti",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "küte",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Kas korter on veel vaba?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Kui suured on kõrvalkulud?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Millal ma saan korterit vaatama tulla?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Ma sooviksin korteri üürida.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "tagatisraha",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "kõrvalkulud",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "rõdu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "võti",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "küte",
+      "answerText": null
+    }
+  ]
+}

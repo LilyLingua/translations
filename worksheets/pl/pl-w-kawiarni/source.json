@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "de392988-53e0-44c9-9f42-020ea55425f5",
+    "level": "A1"
+  },
+  "title": "W kawiarni",
+  "topic": "Zamawianie, płacenie i uprzejme prośby",
+  "tasks": [
+    {
+      "id": "pl-w-kawiarni-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-w-kawiarni-matching-1",
+          "term": "menu",
+          "meaning": "Lista dań i napojów z cenami."
+        },
+        {
+          "id": "pl-w-kawiarni-matching-2",
+          "term": "kelner",
+          "meaning": "Osoba, która przynosi jedzenie i napoje."
+        },
+        {
+          "id": "pl-w-kawiarni-matching-3",
+          "term": "rachunek",
+          "meaning": "Kartka, na której jest napisane, ile trzeba zapłacić."
+        },
+        {
+          "id": "pl-w-kawiarni-matching-4",
+          "term": "napiwek",
+          "meaning": "Dodatkowe pieniądze za dobrą obsługę."
+        },
+        {
+          "id": "pl-w-kawiarni-matching-5",
+          "term": "ciasto",
+          "meaning": "Słodkie jedzenie, na przykład sernik."
+        },
+        {
+          "id": "pl-w-kawiarni-matching-6",
+          "term": "na wynos",
+          "meaning": "Kiedy zabiera się jedzenie albo napój ze sobą."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-w-kawiarni-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-w-kawiarni-gap-1",
+          "promptBefore": "Czy mogę zobaczyć",
+          "promptAfter": "?",
+          "correctAnswer": "menu",
+          "options": [
+            "menu",
+            "napiwek",
+            "wynos"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-kawiarni-gap-2",
+          "promptBefore": "Poproszę filiżankę",
+          "promptAfter": ".",
+          "correctAnswer": "kawy",
+          "options": [
+            "kawy",
+            "menu",
+            "ciasta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-kawiarni-gap-3",
+          "promptBefore": "Już zjedliśmy. Poproszę",
+          "promptAfter": ".",
+          "correctAnswer": "rachunek",
+          "options": [
+            "rachunek",
+            "menu",
+            "ciasto"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-kawiarni-gap-4",
+          "promptBefore": "Na miejscu czy na",
+          "promptAfter": "?",
+          "correctAnswer": "wynos",
+          "options": [
+            "wynos",
+            "rachunek",
+            "menu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-kawiarni-gap-5",
+          "promptBefore": "Nasz",
+          "promptAfter": "jest bardzo miły.",
+          "correctAnswer": "kelner",
+          "options": [
+            "kelner",
+            "rachunek",
+            "napiwek"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-kawiarni-gap-6",
+          "promptBefore": "Zostawiliśmy",
+          "promptAfter": "dla kelnera.",
+          "correctAnswer": "napiwek",
+          "options": [
+            "napiwek",
+            "menu",
+            "kawiarnię"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-w-kawiarni-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-w-kawiarni-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "herbatę z cytryną.",
+          "correctAnswer": "Poproszę",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "poprosić"
+        },
+        {
+          "id": "pl-w-kawiarni-verbs-2",
+          "promptBefore": "Co Pan/Pani",
+          "promptAfter": "?",
+          "correctAnswer": "poleca",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "polecać"
+        },
+        {
+          "id": "pl-w-kawiarni-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "zapłacić.",
+          "correctAnswer": "Chcemy",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "chcieć"
+        },
+        {
+          "id": "pl-w-kawiarni-verbs-4",
+          "promptBefore": "Ciasto",
+          "promptAfter": "pięknie.",
+          "correctAnswer": "pachnie",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pachnieć"
+        },
+        {
+          "id": "pl-w-kawiarni-verbs-5",
+          "promptBefore": "Czy mogę",
+          "promptAfter": "kartą?",
+          "correctAnswer": "zapłacić",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zapłacić"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-w-kawiarni-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-w-kawiarni-order-1",
+          "chunks": [
+            "Poproszę",
+            "szklankę",
+            "wody"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-kawiarni-order-2",
+          "chunks": [
+            "Poproszę",
+            "kawałek",
+            "ciasta"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-kawiarni-order-3",
+          "chunks": [
+            "Ile",
+            "kosztuje",
+            "kawa"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-w-kawiarni-order-4",
+          "chunks": [
+            "Chcielibyśmy",
+            "zapłacić"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-w-kawiarni-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-w-kawiarni-spelling-1",
+          "correct": "kawa",
+          "wrong": "kafa"
+        },
+        {
+          "id": "pl-w-kawiarni-spelling-2",
+          "correct": "czekolada",
+          "wrong": "czekollada"
+        },
+        {
+          "id": "pl-w-kawiarni-spelling-3",
+          "correct": "kanapka",
+          "wrong": "kanabka"
+        },
+        {
+          "id": "pl-w-kawiarni-spelling-4",
+          "correct": "śniadanie",
+          "wrong": "śniadańe"
+        },
+        {
+          "id": "pl-w-kawiarni-spelling-5",
+          "correct": "herbata",
+          "wrong": "cherbata"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

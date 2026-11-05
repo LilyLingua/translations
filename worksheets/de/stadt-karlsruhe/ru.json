@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:13.208Z"
+  },
+  "title": "Карлсруэ",
+  "instructions": {
+    "stadt-karlsruhe-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-karlsruhe-gap": "Отметьте правильное слово.",
+    "stadt-karlsruhe-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-karlsruhe-table": "Допишите артикль и форму множественного числа.",
+    "stadt-karlsruhe-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-karlsruhe-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-karlsruhe-matching-1",
+      "translation": "город-веер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-1:meaning",
+      "translation": "Прозвище: улицы расходятся от дворца во все стороны, как веер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-2",
+      "translation": "дворец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-2:meaning",
+      "translation": "Центр города; отсюда в 1715 году начали строить Карлсруэ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-3",
+      "translation": "Пирамида",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-3:meaning",
+      "translation": "Стоит на Рыночной площади; под ней похоронен основатель города.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-4",
+      "translation": "Федеральный конституционный суд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-4:meaning",
+      "translation": "Суд, который защищает Основной закон; он находится в Карлсруэ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-5",
+      "translation": "KSC",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-5:meaning",
+      "translation": "«Карлсруэ СК», футбольный клуб города в синем и белом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-6",
+      "translation": "KIT",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-6:meaning",
+      "translation": "Большой технический университет; поэтому многие студенты приезжают в Карлсруэ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-7",
+      "translation": "фуникулёр на Турмберг",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-7:meaning",
+      "translation": "Старая горная железная дорога в Дурлахе (с 1888 года); сейчас строят новую.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-1",
+      "translation": "Улицы расходятся от дворца.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-2",
+      "translation": "На Рыночной площади стоит пирамида.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-3",
+      "translation": "Суд защищает Основной закон.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-4",
+      "translation": "В субботу KSC играет в «Вильдпарке».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-5",
+      "translation": "Многие молодые люди учатся в KIT.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-6",
+      "translation": "Мы с группой идём в поход на Турмберг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-7",
+      "translation": "Летом мы лежим в дворцовом саду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-1",
+      "translation": "Улицы ведут от дворца во все стороны.",
+      "answerText": "ведут"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-2",
+      "translation": "Старый фуникулёр ездил на гору больше 130 лет.",
+      "answerText": "ездил"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-3",
+      "translation": "Под пирамидой похоронен основатель города.",
+      "answerText": "похоронен"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-4",
+      "translation": "Суд находится в Карлсруэ.",
+      "answerText": "находится"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-5",
+      "translation": "Многие студенты изучают в KIT информатику.",
+      "answerText": "изучают"
+    },
+    {
+      "id": "stadt-karlsruhe-table-1",
+      "translation": "веер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-2",
+      "translation": "суд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-3",
+      "translation": "пирамида",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-4",
+      "translation": "сад",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-5",
+      "translation": "гора",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-6",
+      "translation": "железная дорога",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-1",
+      "translation": "Дворец стоит в центре города.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-2",
+      "translation": "На Рыночной площади стоит пирамида.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-3",
+      "translation": "Ты идёшь пешком на Турмберг?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-4",
+      "translation": "Карлсруэ был основан в 1715 году.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-1",
+      "translation": "пирамида",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-2",
+      "translation": "суд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-3",
+      "translation": "дворец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-4",
+      "translation": "сад",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-5",
+      "translation": "университет",
+      "answerText": null
+    }
+  ]
+}

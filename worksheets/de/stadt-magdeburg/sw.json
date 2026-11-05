@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:39.212Z"
+  },
+  "title": "Magdeburg",
+  "instructions": {
+    "stadt-magdeburg-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-magdeburg-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-magdeburg-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-magdeburg-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-magdeburg-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-magdeburg-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "\"Mji wa Otto\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Jina la utani la Magdeburg – kutokana na Mfalme Mkuu Otto na Otto von Guericke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "kanisa kuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Kanisa kubwa la mtindo wa Gothic; Mfalme Mkuu Otto amezikwa hapa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "Ngome ya Kijani",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Jengo la rangi nyingi lenye miti juu ya paa, kazi ya mwisho ya Hundertwasser.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "nusutufe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "Kwa nusutufe mbili Guericke alionyesha jinsi ombwe lilivyo na nguvu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "makutano ya njia za maji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Hapa meli huvuka Elbe juu ya daraja-mfereji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "ombwe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Nafasi isiyo na hewa kabisa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "mfalme mkuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Mtawala mwenye nguvu kuliko mfalme.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Tunatembelea kanisa kuu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "Ngome ya Kijani ina miti juu ya paa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Meli inasafiri juu ya daraja juu ya Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Farasi wengi hawakuweza kutenganisha nusutufe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Magdeburg iko kando ya Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Guericke alifanya jaribio la ombwe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Tunapiga picha ya jengo la rangi nyingi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Hundertwasser alibuni Ngome ya Kijani.",
+      "answerText": "alibuni"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Otto von Guericke alifanya majaribio ya hewa.",
+      "answerText": "alifanya"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Farasi walivuta nusutufe.",
+      "answerText": "walivuta"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "Juu ya daraja-mfereji meli zinasafiri juu ya Elbe.",
+      "answerText": "zinasafiri"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "Mfalme Mkuu Otto amezikwa katika kanisa kuu.",
+      "answerText": "amezikwa"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "mfalme mkuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "farasi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "paa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "tufe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "mfereji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "jaribio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Magdeburg iko kando ya Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "Miti inaota juu ya paa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Unalijua jaribio la nusutufe?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Meli zinasafiri juu ya daraja juu ya Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "mfalme mkuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "farasi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "jaribio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "tufe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "meya",
+      "answerText": null
+    }
+  ]
+}

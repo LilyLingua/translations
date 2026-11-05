@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.694Z"
+  },
+  "title": "Grădinița și școala",
+  "instructions": {
+    "kita-und-schule-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "kita-und-schule-gap": "Bifați cuvântul potrivit.",
+    "kita-und-schule-verbs": "Completați cu verbul corect la forma corectă.",
+    "kita-und-schule-table": "Completați articolul (der/die/das) și forma de plural.",
+    "kita-und-schule-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "kita-und-schule-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "ședința cu părinții",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "O întâlnire a părinților cu profesorii.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "grădinița (creșa)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Aici copiii mici sunt îngrijiți în timpul zilei.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "dirigintea",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Ea răspunde de o clasă.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "carnetul de note (foaia matricolă)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Aici sunt notele de la sfârșitul anului școlar.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "scutirea (motivarea absenței)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "O scrisoare scurtă către școală când copilul a fost bolnav.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "vacanța",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Timpul fără școală, de exemplu vara.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "excursia",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Clasa merge împreună în alt loc.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Fiul meu e bolnav. Azi nu poate veni la școală.",
+      "answerText": "școală"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "La ședința cu părinții părinții vorbesc cu învățătoarea.",
+      "answerText": "ședința cu părinții"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Vara copiii au șase săptămâni de vacanță.",
+      "answerText": "vacanță"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "La sfârșitul anului școlar fiica mea primește carnetul de note.",
+      "answerText": "carnetul de note"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Îi scriu învățătoarei o scutire, pentru că copilul meu a fost bolnav.",
+      "answerText": "scutire"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Copiii trebuie să-și facă temele în fiecare zi.",
+      "answerText": "temele"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Copilul meu are trei ani și merge la grădiniță.",
+      "answerText": "grădiniță"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Îmi iau copilul la ora 16.",
+      "answerText": "iau"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Fiica mea este din păcate bolnavă azi.",
+      "answerText": "este"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Putem să stabilim o întâlnire?",
+      "answerText": "stabilim"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Orele încep la ora 8.",
+      "answerText": "încep"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Vă rog să semnați formularul până vineri.",
+      "answerText": "semnați"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "copilul",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "clasa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "profesorul",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "caietul",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "nota",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "pixul",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Fiul meu e bolnav azi.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Când începe ședința cu părinții?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "O iau pe fiica mea la ora 15.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Are nevoie copilul meu de ceva pentru excursie?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "ședința cu părinții",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "carnetul de note",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "scutire",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "teme",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "dirigintă",
+      "answerText": null
+    }
+  ]
+}

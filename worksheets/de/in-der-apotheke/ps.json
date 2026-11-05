@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.215Z"
+  },
+  "title": "په درملتون کې",
+  "instructions": {
+    "in-der-apotheke-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "in-der-apotheke-gap": "مناسبه کلمه په نښه کړئ.",
+    "in-der-apotheke-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "in-der-apotheke-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "in-der-apotheke-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "in-der-apotheke-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "د درملو لپاره د ډاکټر پاڼه.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ګولۍ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "کوچنی درمل چې تېرېږي.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "د ټوخي شربت",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "د ټوخي پر وړاندې مایع درمل.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "مرهم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "پر پوستکي یې غوړوي.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "جانبي اغېزه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "د درملو نه غوښتل شوې اغېزه.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "د درملو لارښود پاڼه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "د درملو په بکس کې پاڼه چې ټول معلومات لري.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "اضافي ورکړه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "د نسخې یوه کوچنۍ اندازه پخپله ورکوئ.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "زه د خپلې ډاکټرې نسخه لرم.",
+      "answerText": "نسخه"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "ایا د ستوني درد لپاره څه لرئ؟",
+      "answerText": "ستوني درد"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "په ورځ کې دوه ګولۍ وخورئ.",
+      "answerText": "ګولۍ"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "مرهم د پوستکي لپاره دی.",
+      "answerText": "پوستکي"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "مهرباني وکړئ لارښود پاڼه ولولئ.",
+      "answerText": "لارښود پاڼه"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "دا درمل نږدې هېڅ جانبي اغېزې نه لري.",
+      "answerText": "جانبي اغېزې"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "د اونۍ په پای کې یو درملتون نوکریوال وي.",
+      "answerText": "درملتون"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "زه له پرون راهیسې ټوخی لرم.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "ګولۍ څو ځله وخورم؟",
+      "answerText": "وخورم"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "موږ به درمل تر سبا پورې راوغواړو.",
+      "answerText": "راوغواړو"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "مرهم په ورځ کې دوه ځله وغوړوئ.",
+      "answerText": "وغوړوئ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "مهرباني وکړئ ډېرې اوبه وڅښئ.",
+      "answerText": "وڅښئ"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "درملتون",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "درمل",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "مرهم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "پلستر",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "بسته",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "څاڅکی",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "ایا د ټوخي لپاره څه لرئ؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "ګولۍ څو ځله وخورم؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "زه د سر درد لپاره درملو ته اړتیا لرم.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "ایا ددې لپاره نسخې ته اړتیا لرم؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "درملتون",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "درمل",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "پلستر",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "جانبي اغېزه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ټوخی",
+      "answerText": null
+    }
+  ]
+}

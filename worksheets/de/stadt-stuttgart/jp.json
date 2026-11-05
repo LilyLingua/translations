@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:06.629Z"
+  },
+  "title": "シュトゥットガルト",
+  "instructions": {
+    "stadt-stuttgart-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-stuttgart-gap": "正しい単語に印をつけましょう。",
+    "stadt-stuttgart-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-stuttgart-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-stuttgart-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-stuttgart-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-stuttgart-matching-1",
+      "translation": "「ケッセル」（釜）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-1:meaning",
+      "translation": "シュトゥットガルトは丘に囲まれた谷にある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2",
+      "translation": "「ケーアヴォッヘ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2:meaning",
+      "translation": "この週は建物の階段と前の歩道を掃除する当番になる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3",
+      "translation": "シュペッツレ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3:meaning",
+      "translation": "シュヴァーベン地方の麺。チーズと合わせたケーゼシュペッツレが多い。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4",
+      "translation": "マウルタッシェ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4:meaning",
+      "translation": "肉とほうれん草を包んだ大きなパスタ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5",
+      "translation": "「シュテッフェレ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5:meaning",
+      "translation": "坂にあるたくさんの階段のシュトゥットガルトでの呼び名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6",
+      "translation": "「ヴァーゼン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6:meaning",
+      "translation": "バート・カンシュタットの広場で、秋に民衆祭りが開かれる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7",
+      "translation": "「アーデ！」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7:meaning",
+      "translation": "シュヴァーベン方言の「バイバイ！」。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-1",
+      "translation": "シュトゥットガルトは谷にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-2",
+      "translation": "今週は私がケーアヴォッヘの当番です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-3",
+      "translation": "私はサラダと一緒にケーゼシュペッツレを食べるのが好きです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-4",
+      "translation": "テレビ塔は丘の上に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-5",
+      "translation": "秋、私たちはヴァーゼンに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-6",
+      "translation": "多くの人が自動車産業で働いています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-7",
+      "translation": "博物館で古いメルセデスを見ます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-verbs-1",
+      "translation": "シュトゥットガルトではメルセデス・ベンツとポルシェの車を作っています。",
+      "answerText": "作って"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-2",
+      "translation": "ケーアヴォッヘのとき、私は階段を掃除します。",
+      "answerText": "掃除し"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-3",
+      "translation": "街の真ん中の斜面でぶどうが育ちます。",
+      "answerText": "育ち"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-4",
+      "translation": "1956年からテレビ塔が街の上に立っています。",
+      "answerText": "立って"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-5",
+      "translation": "シュヴァーベンの人は別れるとき「アーデ」と言います。",
+      "answerText": "言い"
+    },
+    {
+      "id": "stadt-stuttgart-table-1",
+      "translation": "谷",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-2",
+      "translation": "丘",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-3",
+      "translation": "階段",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-4",
+      "translation": "麺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-5",
+      "translation": "車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-6",
+      "translation": "ぶどう畑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-1",
+      "translation": "シュトゥットガルトは盆地にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-2",
+      "translation": "今週は私がケーアヴォッヘの当番です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-3",
+      "translation": "マウルタッシェは好きですか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-4",
+      "translation": "1956年からテレビ塔が街の上に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-1",
+      "translation": "階段",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-2",
+      "translation": "麺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-3",
+      "translation": "民衆祭り",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-4",
+      "translation": "ワイン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-5",
+      "translation": "丘",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:36.416Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-essen-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-essen-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-essen-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-essen-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-essen-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "Zeche Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Mgodi wa zamani; leo ni Urithi wa Dunia wa UNESCO wenye makumbusho na usanifu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "mnara wa mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Mnara mrefu juu ya mgodi; kwa huo watu na makaa ya mawe walipandishwa juu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "\"Glück auf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Salamu ya wachimba migodi – wanatakiana wote warudi juu wakiwa salama.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Nyumba kubwa ya familia ya Krupp yenye vyumba vingi na bustani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Ziwa kwenye mto Ruhr; unaweza kusafiri kwa tanga, kupiga makasia na kutembea hapo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Bustani kubwa yenye maua, viwanja vya michezo ya watoto na wanyama.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "Mji Mkuu wa Utamaduni",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Cheo ambacho Essen ilipata mwaka 2010 kwa ajili ya eneo lote la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Wakati wa kiangazi wengi husafiri kwa tanga kwenye Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Familia ya Krupp iliishi katika Villa Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Tunashiriki ziara ya kuongozwa katika Zeche Zollverein.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Mnara wa mgodi ni alama ya Essen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Jumapili tunaenda Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "Mwaka 2010 Essen ilikuwa Mji Mkuu wa Utamaduni wa Ulaya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen inacheza Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Wachimba migodi husema \"Glück auf!\".",
+      "answerText": "husema"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Mnara wa mgodi umesimama juu ya mgodi wa zamani.",
+      "answerText": "umesimama"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Leo hakuna tena makaa ya mawe yanayotoka ardhini.",
+      "answerText": "yanayotoka"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Watalii wengi wanatembelea Zeche Zollverein.",
+      "answerText": "wanatembelea"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Mto Ruhr unapita katika Baldeneysee.",
+      "answerText": "unapita"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "bustani",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "jumba la kifahari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ziwa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "makumbusho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "ukumbi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Zeche Zollverein ni sehemu ya Urithi wa Dunia wa UNESCO.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Mwishoni mwa wiki tunaenda Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Umeshawahi kwenda Grugapark?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Zamani wachimba migodi wengi walifanya kazi chini ya ardhi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "makumbusho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "jumba la kifahari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "makaa ya mawe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "ukumbi",
+      "answerText": null
+    }
+  ]
+}

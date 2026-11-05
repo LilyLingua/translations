@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:56.302Z"
+  },
+  "title": "เบอร์ลิน",
+  "instructions": {
+    "stadt-berlin-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-berlin-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-berlin-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-berlin-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-berlin-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-berlin-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "เมืองหลวง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "เมืองที่สำคัญที่สุดของประเทศ รัฐบาลทำงานที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "ประตูบรันเดินบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "สถานที่สำคัญที่มีชื่อเสียง ด้านบนมีรถม้าและม้าสี่ตัว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "กำแพง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "แบ่งเบอร์ลินเป็นฝั่งตะวันออกและตะวันตกจนถึงปี 1989",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "\"ชเปติ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "ร้านเล็ก ๆ ที่เปิดถึงดึก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "\"ชริพเพอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "คนเบอร์ลินเรียกขนมปังก้อนเล็กแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "\"ฟันคูเคิน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "ในเบอร์ลิน: ขนมทอดกลมหวานไส้แยม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "\"คีทซ์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "คนเบอร์ลินเรียกย่านที่อยู่ของตัวเองแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "พวกเราถ่ายรูปประตูบรันเดินบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "หอโทรทัศน์ตั้งอยู่ใกล้อเล็กซานเดอร์พลัทซ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "แม่น้ำชเปรไหลผ่านเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "ฉันซื้อเครื่องดื่มที่ชเปติ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "จนถึงปี 1989 กำแพงตั้งอยู่กลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "ที่ร้านเบเกอรี่ ฉันสั่งชริพเพอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "ฉันอาศัยอยู่ในย่านนี้มาสามปีแล้ว",
+      "answerText": "นี้"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "วันที่ 9 พฤศจิกายน 1989 กำแพงพังลง",
+      "answerText": "พังลง"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "รัฐบาลทำงานในเบอร์ลิน",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "นักท่องเที่ยวหลายคนเยี่ยมชมอีสต์ไซด์แกลเลอรี",
+      "answerText": "เยี่ยมชม"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "ชเปติเปิดถึงดึก",
+      "answerText": "เปิด"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "นั่งรถไฟวงแหวน คุณจะวิ่งเป็นวงรอบใจกลางเมือง",
+      "answerText": "วิ่ง"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "ประตู",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "กำแพง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "เขต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "พิพิธภัณฑ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "ร้านค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "เบอร์ลินเป็นเมืองหลวงของเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "กำแพงพังลงในปี 1989",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "คุณเคยกินเคอร์รีเวิร์สท์หรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "ชเปติเปิดถึงดึก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "เมืองหลวง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "รัฐบาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "สถานที่สำคัญ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "หอโทรทัศน์",
+      "answerText": null
+    }
+  ]
+}

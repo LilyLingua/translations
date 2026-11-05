@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.921Z"
+  },
+  "title": "집 구하기(임대)",
+  "instructions": {
+    "wohnung-mieten-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "wohnung-mieten-gap": "관사의 올바른 형태에 표시하세요.",
+    "wohnung-mieten-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "wohnung-mieten-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "wohnung-mieten-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "wohnung-mieten-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "월세",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "매달 집에 내는 돈.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "보증금",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "집주인이 처음에 담보로 받는 돈.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "관리비",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "물, 난방, 쓰레기 비용.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "임대 계약서",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "세입자와 집주인 사이의 계약.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "집 보기",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "빌리기 전에 집을 둘러봅니다.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "건물 관리인",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "건물을 돌보고 작은 것을 고칩니다.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "건물 규칙",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "모든 입주민을 위한 규칙. 예를 들어 조용히 해야 하는 시간.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "우리는 발코니가 있는 집을 찾고 있어요.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "저는 집주인과 이야기합니다.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "집주인(여)에게 보증금을 드립니다.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "자전거를 마당에 둡니다.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "열쇠는 탁자 위에 있어요.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "부엌 난방이 고장 났어요.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "저는 이 집에서 1년째 살고 있어요.",
+      "answerText": "이"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "언제 집을 볼 수 있어요?",
+      "answerText": "볼"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "월세는 관리비 포함 850유로입니다.",
+      "answerText": "입니다"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "우리는 12월 1일에 이사 들어갑니다.",
+      "answerText": "이사 들어갑니다"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "난방이 고장 났어요. 고쳐 주실 수 있어요?",
+      "answerText": "고쳐"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "쓰레기를 분리해 주세요.",
+      "answerText": "분리해"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "방",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "부엌",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "발코니",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "욕실",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "열쇠",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "난방",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "집이 아직 비어 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "관리비는 얼마예요?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "언제 집을 볼 수 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "이 집을 빌리고 싶어요.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "보증금",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "관리비",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "발코니",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "열쇠",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "난방",
+      "answerText": null
+    }
+  ]
+}

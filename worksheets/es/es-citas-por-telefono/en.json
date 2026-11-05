@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.039Z"
+  },
+  "title": "Appointments by Phone",
+  "instructions": {
+    "es-citas-por-telefono-matching": "Match each word with its meaning.",
+    "es-citas-por-telefono-gap": "Choose the right word.",
+    "es-citas-por-telefono-verbs": "Write the correct verb.",
+    "es-citas-por-telefono-order": "Put the words in order and write the sentence.",
+    "es-citas-por-telefono-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-citas-por-telefono-matching-1",
+      "translation": "to call",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-1:meaning",
+      "translation": "To talk to someone on the phone.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-2",
+      "translation": "to cancel",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-2:meaning",
+      "translation": "To say that you won't come.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-3",
+      "translation": "to reschedule",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-3:meaning",
+      "translation": "To move the appointment to another day or time.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-4",
+      "translation": "voicemail",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-4:meaning",
+      "translation": "You leave a message there when nobody answers.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-5",
+      "translation": "extension",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-5:meaning",
+      "translation": "A short number inside a company.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-6",
+      "translation": "available",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-6:meaning",
+      "translation": "Free, not busy.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-gap-1",
+      "translation": "I want to cancel my appointment on Friday.",
+      "answerText": "cancel"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-2",
+      "translation": "Can we move the appointment to next week?",
+      "answerText": "move"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-3",
+      "translation": "Is the doctor available on Monday?",
+      "answerText": "available"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-4",
+      "translation": "Leave a message on the voicemail.",
+      "answerText": "voicemail"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-5",
+      "translation": "Can you call me later?",
+      "answerText": "call"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-6",
+      "translation": "Please dial extension 245.",
+      "answerText": "extension"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-1",
+      "translation": "Good afternoon, María López speaking.",
+      "answerText": "speaking"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-2",
+      "translation": "I'd like to make an appointment.",
+      "answerText": "like"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-3",
+      "translation": "Could you repeat that, please?",
+      "answerText": "repeat"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-4",
+      "translation": "I'll call you in ten minutes.",
+      "answerText": "call"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-5",
+      "translation": "The office closes at five.",
+      "answerText": "closes"
+    },
+    {
+      "id": "es-citas-por-telefono-order-1",
+      "translation": "Can I speak with Dr. Ruiz?",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-2",
+      "translation": "I want to cancel my appointment.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-3",
+      "translation": "Does Tuesday at ten work for you?",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-4",
+      "translation": "I'll call you early tomorrow.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-1",
+      "translation": "message",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-2",
+      "translation": "cancel",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-3",
+      "translation": "call",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-4",
+      "translation": "available",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-5",
+      "translation": "telephone",
+      "answerText": null
+    }
+  ]
+}

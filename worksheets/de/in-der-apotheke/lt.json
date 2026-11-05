@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Vaistinėje",
+  "instructions": {
+    "in-der-apotheke-matching": "Kiekvieną žodį sujunkite su teisingu paaiškinimu.",
+    "in-der-apotheke-gap": "Pažymėkite teisingą žodį.",
+    "in-der-apotheke-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "in-der-apotheke-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "in-der-apotheke-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "in-der-apotheke-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "receptas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Gydytojo popierius vaistams gauti.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tabletė",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Mažas vaistas, kurį nuryjate.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "sirupas nuo kosulio",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Skystas vaistas nuo kosulio.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "tepalas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Jį tepate ant odos.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "šalutinis poveikis",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Nepageidaujamas vaisto poveikis.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "pakuotės lapelis",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Popieriaus lapelis vaistų dėžutėje su visa informacija.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "priemoka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Už receptą patys sumokate nedidelę sumą.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Turiu receptą iš savo gydytojo.",
+      "answerText": "receptą"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Ar turite ko nors nuo gerklės skausmo?",
+      "answerText": "gerklės skausmo"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Gerkite po dvi tabletes per dieną.",
+      "answerText": "tabletes"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Tepalas skirtas odai.",
+      "answerText": "odai"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Prašome perskaityti pakuotės lapelį.",
+      "answerText": "pakuotės lapelį"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Vaistai beveik neturi šalutinių poveikių.",
+      "answerText": "šalutinių poveikių"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Savaitgalį viena vaistinė budi.",
+      "answerText": "vaistinė"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Nuo vakar kosiu.",
+      "answerText": "kosiu"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Kaip dažnai turiu gerti tabletes?",
+      "answerText": "gerti"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Vaistus užsakysime iki rytojaus.",
+      "answerText": "užsakysime"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Tepkite tepalą du kartus per dieną.",
+      "answerText": "Tepkite"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Prašome gerti daug vandens.",
+      "answerText": "gerti"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "vaistinė",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "vaistas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "tepalas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "pleistras",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "pakuotė",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "lašas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Ar turite ko nors nuo kosulio?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Kaip dažnai turiu gerti tabletes?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Man reikia vaistų nuo galvos skausmo.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Ar tam reikia recepto?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "vaistinė",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "vaistas",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "pleistras",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "šalutinis poveikis",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kosulys",
+      "answerText": null
+    }
+  ]
+}

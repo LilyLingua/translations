@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:56.635Z"
+  },
+  "title": "Nuremberg",
+  "instructions": {
+    "stadt-nuernberg-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-nuernberg-gap": "Coche le bon mot.",
+    "stadt-nuernberg-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-nuernberg-table": "Complète l'article et le pluriel.",
+    "stadt-nuernberg-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-nuernberg-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "la Rostbratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "Petite saucisse fine grillée – typique de Nuremberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "« Drei im Weggla »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "En franconien : trois saucisses grillées dans un petit pain.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "le Christkindlesmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "Célèbre marché de Noël ; c'est le Christkind (l'Enfant Jésus) qui l'ouvre.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "le Lebkuchen (pain d'épices)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "Pâtisserie moelleuse au miel, aux noix et aux épices, surtout à Noël.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "le château impérial",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "Grand château sur un rocher au-dessus de la vieille ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "la Belle Fontaine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "Fontaine sur la place du marché ; celui qui tourne l'anneau doré a de la chance.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "le « Schäufele »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "Rôti franconien d'épaule de porc, avec des quenelles et de la sauce.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "Le château impérial se dresse sur un rocher au-dessus de la vieille ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "En décembre, nous allons au Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "Je mange trois saucisses grillées dans un petit pain.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "Beaucoup de touristes tournent l'anneau doré de la Belle Fontaine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "Nous achetons des Lebkuchen à la boulangerie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "Le dimanche, il y a un Schäufele avec une quenelle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "La Pegnitz traverse la vieille ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "Le Christkind ouvre le Christkindlesmarkt.",
+      "answerText": "ouvre"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "On grille les saucisses au-dessus du feu.",
+      "answerText": "grille"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "Beaucoup d'habitants de Nuremberg se sentent Franconiens, pas Bavarois.",
+      "answerText": "sentent"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "L'anneau de la fontaine porte bonheur.",
+      "answerText": "porte"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "En hiver, le salon du jouet a lieu.",
+      "answerText": "a lieu"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "le château",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "la fontaine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "la saucisse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "le marché",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "le petit pain",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "le mur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "« Drei im Weggla », ce sont trois saucisses grillées dans un petit pain.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "Pendant l'Avent, beaucoup de gens visitent le Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "Tu as déjà goûté les Lebkuchen de Nuremberg ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "Le château impérial se trouve tout en haut au-dessus de la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "le pain d'épices",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "la fontaine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "la saucisse grillée",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "Noël",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "le château",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "8b9d6b47-b634-4b05-bd49-723d43d78bc4",
+    "level": "A2"
+  },
+  "title": "Auf dem Amt",
+  "topic": "Deutsch im Alltag – Folge 2: Die Anmeldung der Wohnung",
+  "tasks": [
+    {
+      "id": "auf-dem-amt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "auf-dem-amt-matching-1",
+          "term": "die Anmeldung",
+          "meaning": "Sie melden beim Amt Ihre neue Adresse."
+        },
+        {
+          "id": "auf-dem-amt-matching-2",
+          "term": "die Wartenummer",
+          "meaning": "Diese Nummer ziehen Sie am Automaten."
+        },
+        {
+          "id": "auf-dem-amt-matching-3",
+          "term": "der Reisepass",
+          "meaning": "Ein Ausweis, mit dem Sie ins Ausland reisen."
+        },
+        {
+          "id": "auf-dem-amt-matching-4",
+          "term": "die Wohnungsgeberbestätigung",
+          "meaning": "Dieses Papier vom Vermieter brauchen Sie für die Anmeldung."
+        },
+        {
+          "id": "auf-dem-amt-matching-5",
+          "term": "die Meldebescheinigung",
+          "meaning": "Dieses Papier zeigt: Sie wohnen jetzt an dieser Adresse."
+        },
+        {
+          "id": "auf-dem-amt-matching-6",
+          "term": "der Familienstand",
+          "meaning": "ledig, verheiratet, geschieden oder verwitwet"
+        },
+        {
+          "id": "auf-dem-amt-matching-7",
+          "term": "die Unterschrift",
+          "meaning": "Ihr Name, mit der Hand geschrieben."
+        },
+        {
+          "id": "auf-dem-amt-matching-8",
+          "term": "das Formular",
+          "meaning": "Ein Papier mit Feldern zum Ausfüllen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "auf-dem-amt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "auf-dem-amt-gap-1",
+          "promptBefore": "Ich möchte meine neue",
+          "promptAfter": "anmelden.",
+          "correctAnswer": "Wohnung",
+          "options": [
+            "Nummer",
+            "Wohnung",
+            "Unterschrift"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-2",
+          "promptBefore": "Ziehen Sie bitte eine",
+          "promptAfter": "am Automaten.",
+          "correctAnswer": "Nummer",
+          "options": [
+            "Meldebescheinigung",
+            "Nummer",
+            "Wohnung"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-3",
+          "promptBefore": "Die Nummer 147 bitte zu",
+          "promptAfter": "12.",
+          "correctAnswer": "Platz",
+          "options": [
+            "Pass",
+            "Platz",
+            "Termin"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-4",
+          "promptBefore": "Hier ist die Bestätigung von meinem",
+          "promptAfter": ".",
+          "correctAnswer": "Vermieter",
+          "options": [
+            "Vermieter",
+            "Platz",
+            "Formular"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-5",
+          "promptBefore": "Haben Sie Ihren",
+          "promptAfter": "dabei?",
+          "correctAnswer": "Ausweis",
+          "options": [
+            "Antrag",
+            "Familienstand",
+            "Ausweis"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-6",
+          "promptBefore": "Bitte füllen Sie das",
+          "promptAfter": "vollständig aus.",
+          "correctAnswer": "Formular",
+          "options": [
+            "Platz",
+            "Vermieter",
+            "Formular"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "auf-dem-amt-gap-7",
+          "promptBefore": "Die",
+          "promptAfter": "brauchen Sie oft wieder, zum Beispiel für ein Bankkonto.",
+          "correctAnswer": "Meldebescheinigung",
+          "options": [
+            "Wartenummer",
+            "Meldebescheinigung",
+            "Unterschrift"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "auf-dem-amt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "auf-dem-amt-verbs-1",
+          "promptBefore": "Ich",
+          "promptAfter": "mich heute an.",
+          "correctAnswer": "melde",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "anmelden"
+        },
+        {
+          "id": "auf-dem-amt-verbs-2",
+          "promptBefore": "Wo soll ich",
+          "promptAfter": "?",
+          "correctAnswer": "unterschreiben",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "unterschreiben"
+        },
+        {
+          "id": "auf-dem-amt-verbs-3",
+          "promptBefore": "Ich",
+          "promptAfter": "meinen Namen: N – O – W – A – K.",
+          "correctAnswer": "buchstabiere",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "buchstabieren"
+        },
+        {
+          "id": "auf-dem-amt-verbs-4",
+          "promptBefore": "Bitte",
+          "promptAfter": "Sie Platz.",
+          "correctAnswer": "nehmen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "nehmen"
+        },
+        {
+          "id": "auf-dem-amt-verbs-5",
+          "promptBefore": "Die Bearbeitung",
+          "promptAfter": "ungefähr zwei Wochen.",
+          "correctAnswer": "dauert",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "dauern"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "auf-dem-amt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "auf-dem-amt-table-1",
+          "article": "das",
+          "singular": "Amt",
+          "plural": "Ämter"
+        },
+        {
+          "id": "auf-dem-amt-table-2",
+          "article": "der",
+          "singular": "Ausweis",
+          "plural": "Ausweise"
+        },
+        {
+          "id": "auf-dem-amt-table-3",
+          "article": "die",
+          "singular": "Wohnung",
+          "plural": "Wohnungen"
+        },
+        {
+          "id": "auf-dem-amt-table-4",
+          "article": "das",
+          "singular": "Formular",
+          "plural": "Formulare"
+        },
+        {
+          "id": "auf-dem-amt-table-5",
+          "article": "der",
+          "singular": "Vermieter",
+          "plural": "Vermieter"
+        },
+        {
+          "id": "auf-dem-amt-table-6",
+          "article": "die",
+          "singular": "Adresse",
+          "plural": "Adressen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "auf-dem-amt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "auf-dem-amt-order-1",
+          "chunks": [
+            "Ich",
+            "möchte",
+            "mich",
+            "anmelden"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "auf-dem-amt-order-2",
+          "chunks": [
+            "Wo",
+            "soll",
+            "ich",
+            "unterschreiben"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "auf-dem-amt-order-3",
+          "chunks": [
+            "Hier",
+            "ist",
+            "mein",
+            "Reisepass"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "auf-dem-amt-order-4",
+          "chunks": [
+            "Brauche",
+            "ich",
+            "sonst",
+            "noch",
+            "etwas"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "auf-dem-amt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "auf-dem-amt-spelling-1",
+          "correct": "Meldebescheinigung",
+          "wrong": "Meldebeschainigung"
+        },
+        {
+          "id": "auf-dem-amt-spelling-2",
+          "correct": "Reisepass",
+          "wrong": "Reisepas"
+        },
+        {
+          "id": "auf-dem-amt-spelling-3",
+          "correct": "ledig",
+          "wrong": "ledich"
+        },
+        {
+          "id": "auf-dem-amt-spelling-4",
+          "correct": "Vermieter",
+          "wrong": "Vermiter"
+        },
+        {
+          "id": "auf-dem-amt-spelling-5",
+          "correct": "Adresse",
+          "wrong": "Adrese"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

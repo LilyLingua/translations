@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.712Z"
+  },
+  "title": "Im Café",
+  "instructions": {
+    "en-at-the-cafe-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-at-the-cafe-gap": "Wähle das richtige Wort.",
+    "en-at-the-cafe-verbs": "Setze das richtige Verb ein.",
+    "en-at-the-cafe-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-at-the-cafe-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-at-the-cafe-matching-1",
+      "translation": "die Speisekarte",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-1:meaning",
+      "translation": "Eine Liste mit Essen und Getränken und ihren Preisen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2",
+      "translation": "der Kellner / die Kellnerin",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2:meaning",
+      "translation": "Die Person, die dir Essen und Getränke bringt.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3",
+      "translation": "die Rechnung",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3:meaning",
+      "translation": "Der Zettel, der zeigt, wie viel du zahlen musst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4",
+      "translation": "das Trinkgeld",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4:meaning",
+      "translation": "Extra Geld für guten Service.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5",
+      "translation": "der Kuchen",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5:meaning",
+      "translation": "Etwas Süßes zum Essen, zum Beispiel mit Schokolade.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6",
+      "translation": "zum Mitnehmen",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6:meaning",
+      "translation": "Du nimmst dein Essen oder Getränk mit.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-gap-1",
+      "translation": "Kann ich bitte die Speisekarte sehen?",
+      "answerText": "Speisekarte"
+    },
+    {
+      "id": "en-at-the-cafe-gap-2",
+      "translation": "Ich hätte gern eine Tasse Kaffee, bitte.",
+      "answerText": "Tasse"
+    },
+    {
+      "id": "en-at-the-cafe-gap-3",
+      "translation": "Wir sind fertig. Können wir bitte die Rechnung haben?",
+      "answerText": "Rechnung"
+    },
+    {
+      "id": "en-at-the-cafe-gap-4",
+      "translation": "Zum Hieressen oder zum Mitnehmen?",
+      "answerText": "Mitnehmen"
+    },
+    {
+      "id": "en-at-the-cafe-gap-5",
+      "translation": "Der Kellner ist sehr freundlich.",
+      "answerText": "Kellner"
+    },
+    {
+      "id": "en-at-the-cafe-gap-6",
+      "translation": "Wir haben dem Kellner ein Trinkgeld gegeben.",
+      "answerText": "Trinkgeld"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-1",
+      "translation": "Ich hätte gern einen Tee, bitte.",
+      "answerText": "hätte"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-2",
+      "translation": "Was empfehlen Sie?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-verbs-3",
+      "translation": "Wir möchten bitte zahlen.",
+      "answerText": "möchten"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-4",
+      "translation": "Der Kuchen schmeckt köstlich.",
+      "answerText": "schmeckt"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-5",
+      "translation": "Kann ich mit Karte zahlen?",
+      "answerText": "zahlen"
+    },
+    {
+      "id": "en-at-the-cafe-order-1",
+      "translation": "Kann ich ein Glas Wasser haben?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-2",
+      "translation": "Ich hätte gern ein Stück Kuchen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-3",
+      "translation": "Was kostet ein Kaffee?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-4",
+      "translation": "Wir möchten zahlen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-1",
+      "translation": "Kaffee",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-2",
+      "translation": "Schokolade",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-3",
+      "translation": "Sandwich",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-4",
+      "translation": "köstlich",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-5",
+      "translation": "Frühstück",
+      "answerText": null
+    }
+  ]
+}

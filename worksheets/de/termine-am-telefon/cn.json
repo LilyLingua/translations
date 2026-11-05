@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.226Z"
+  },
+  "title": "电话预约",
+  "instructions": {
+    "termine-am-telefon-matching": "把每个单词和合适的解释连起来。",
+    "termine-am-telefon-gap": "勾出正确的介词。",
+    "termine-am-telefon-verbs": "用正确形式填入正确的动词。",
+    "termine-am-telefon-table": "填写冠词（der/die/das）和复数形式。",
+    "termine-am-telefon-order": "把单词按正确顺序排列并写出句子。",
+    "termine-am-telefon-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "电话答录机",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "您可以在这里留言。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "分机号",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "公司里某个人的直拨电话号码。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "回电话",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "稍后给某人打电话，因为他之前打过来。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "推迟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "把预约改到另一天。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "取消",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "说自己不去赴约。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "接待时间",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "可以联系到某人的时间。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "拼写",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "一个字母一个字母地说出一个词。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "您星期一有时间吗？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10点可以吗？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "我12月才有时间。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "诊所周末关门。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "我一小时后给您回电话。",
+      "answerText": "后"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "我等预约已经两周了。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "请在预约时间前十分钟到。",
+      "answerText": "前"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "请问我可以和韦伯女士通话吗？",
+      "answerText": "通话"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "很遗憾，我得取消我的预约。",
+      "answerText": "取消"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "您能给我回电话吗？",
+      "answerText": "回电话"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "我给您我的电话号码。",
+      "answerText": "给"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "您的名字怎么写？",
+      "answerText": "写"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "电话（来电）",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "号码",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "消息",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "电话",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "时间",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "手机",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "我想推迟一个预约。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "您什么时候有时间？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "我明天再打电话。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "星期四9点您方便吗？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "消息",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "电话",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "预约",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "回电话",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "时间",
+      "answerText": null
+    }
+  ]
+}

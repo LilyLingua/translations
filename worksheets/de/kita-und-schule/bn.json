@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.264Z"
+  },
+  "title": "কিন্ডারগার্টেন ও স্কুল",
+  "instructions": {
+    "kita-und-schule-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "kita-und-schule-gap": "উপযুক্ত শব্দে চিহ্ন দিন।",
+    "kita-und-schule-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "kita-und-schule-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "kita-und-schule-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "kita-und-schule-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "অভিভাবক সভা",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "অভিভাবক ও শিক্ষকদের একটি সভা।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "শিশুযত্ন কেন্দ্র (কিটা)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "এখানে দিনের বেলা ছোট শিশুদের দেখাশোনা করা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "শ্রেণিশিক্ষিকা",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "তিনি একটি শ্রেণির দায়িত্বে আছেন।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "রিপোর্ট কার্ড",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "এতে শিক্ষাবর্ষের শেষে নম্বরগুলো থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "অনুপস্থিতির চিঠি",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "আপনার সন্তান অসুস্থ ছিল বলে স্কুলকে লেখা একটি ছোট চিঠি।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "ছুটি",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "স্কুল ছাড়া সময়, যেমন গ্রীষ্মকালে।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "শিক্ষাসফর",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "ক্লাস একসাথে অন্য কোথাও যায়।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "আমার ছেলে অসুস্থ। সে আজ স্কুলে আসতে পারবে না।",
+      "answerText": "স্কুলে"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "অভিভাবক সভায় অভিভাবকরা শিক্ষিকার সঙ্গে কথা বলেন।",
+      "answerText": "অভিভাবক সভায়"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "গ্রীষ্মে শিশুদের ছয় সপ্তাহের ছুটি থাকে।",
+      "answerText": "ছুটি"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "শিক্ষাবর্ষের শেষে আমার মেয়ে একটি রিপোর্ট কার্ড পায়।",
+      "answerText": "রিপোর্ট কার্ড"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "আমার সন্তান অসুস্থ ছিল বলে আমি শিক্ষিকাকে একটি অনুপস্থিতির চিঠি লিখি।",
+      "answerText": "অনুপস্থিতির চিঠি"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "শিশুদের প্রতিদিন বাড়ির কাজ করতে হয়।",
+      "answerText": "বাড়ির কাজ"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "আমার সন্তানের বয়স তিন বছর এবং সে কিন্ডারগার্টেনে যায়।",
+      "answerText": "কিন্ডারগার্টেনে"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "আমি বিকেল 4টায় আমার সন্তানকে আনতে যাই।",
+      "answerText": "আনতে"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "আমার মেয়ে আজ দুঃখজনকভাবে অসুস্থ।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "আমরা কি একটা সময় ঠিক করতে পারি?",
+      "answerText": "ঠিক"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "ক্লাস সকাল 8টায় শুরু হয়।",
+      "answerText": "শুরু"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "দয়া করে শুক্রবারের মধ্যে ফর্মে সই করুন।",
+      "answerText": "সই"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "শিশু",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "ক্লাস",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "শিক্ষক",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "খাতা",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "নম্বর",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "কলম",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "আমার ছেলে আজ অসুস্থ।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "অভিভাবক সভা কখন শুরু হয়?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "আমি বিকেল 3টায় আমার মেয়েকে আনতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "শিক্ষাসফরের জন্য আমার সন্তানের কি কিছু লাগবে?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "অভিভাবক সভা",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "রিপোর্ট কার্ড",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "অনুপস্থিতির চিঠি",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "বাড়ির কাজ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "শ্রেণিশিক্ষিকা",
+      "answerText": null
+    }
+  ]
+}

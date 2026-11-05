@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ገዛ ምክራይ",
+  "instructions": {
+    "wohnung-mieten-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መግለጺ ኣዛምድ።",
+    "wohnung-mieten-gap": "ነቲ ቅኑዕ ቅርጺ ኣርቲክል ምልክት ግበረሉ።",
+    "wohnung-mieten-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ምላእ።",
+    "wohnung-mieten-table": "ነቲ ኣርቲክል (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምላእ።",
+    "wohnung-mieten-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቀምጦም እሞ ነቲ ሓረግ ጽሓፍ።",
+    "wohnung-mieten-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበረሉ።"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "ክራይ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "ነፍሲ ወከፍ ወርሒ ንገዛ እትኸፍሎ ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "ናይ ውሕስና ገንዘብ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "ዋና ገዛ ኣብ መጀመርታ ከም ውሕስና ዝወስዶ ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "ተወሳኺ ወጻኢታት",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "ወጻኢታት ማይ፣ መሞቂን ጓሓፍን።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "ውዕል ክራይ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "ኣብ መንጎ ተኻራይን ዋና ገዛን ዝግበር ውዕል።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "ምርኣይ ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "ቅድሚ ምክራይካ ነቲ ገዛ ትርእዮ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "ሓላዊ ህንጻ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "ንህንጻ ይከናኸን ንኣሽቱ ነገራት'ውን የዐርን።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "ስርዓት ህንጻ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "ንኩሎም ነበርቲ ዝኾኑ ሕጊታት፣ ንኣብነት ሰዓታት ህድኣት።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "ምስ በልኮኒ ዘለዎ ገዛ ንደሊ ኣለና።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "ምስ ዋና ገዛ እዛረብ ኣለኹ።",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "ነታ ዋና ገዛ ናይ ውሕስና ገንዘብ እህባ።",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "ነታ ብሽክለታ ኣብ ቀጽሪ የቐምጣ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "እቲ መፍትሕ ኣብ ልዕሊ ጠረጴዛ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "እቲ ኣብ ክሽነ ዘሎ መሞቂ ተበላሽዩ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "ካብ ሓደ ዓመት ጀሚረ ኣብዚ ገዛ እነብር ኣለኹ።",
+      "answerText": "ኣብዚ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "ነቲ ገዛ መዓስ ክርእዮ እኽእል?",
+      "answerText": "ክርእዮ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "እቲ ክራይ ምስ ተወሳኺ ወጻኢታት 850 ዩሮ ይኸውን።",
+      "answerText": "ይኸውን"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "ብ1 ታሕሳስ ንኣቱ።",
+      "answerText": "ንኣቱ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "እቲ መሞቂ ተበላሽዩ። በጃኹም ክተዐርይዎ ትኽእሉ ዶ?",
+      "answerText": "ክተዐርይዎ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "በጃኹም ነቲ ጓሓፍ ፈላልይዎ።",
+      "answerText": "ፈላልይዎ"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ክፍሊ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "ክሽነ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "በልኮኒ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "ባኞ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "መፍትሕ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "መሞቂ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "እቲ ገዛ ገና ነጻ ድዩ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "ተወሳኺ ወጻኢታት ክንደይ እዩ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "ነቲ ገዛ መዓስ ክርእዮ እኽእል?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "ነቲ ገዛ ክካረዮ ደልየ ነይረ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "ናይ ውሕስና ገንዘብ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "ተወሳኺ ወጻኢታት",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "በልኮኒ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "መፍትሕ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "መሞቂ",
+      "answerText": null
+    }
+  ]
+}

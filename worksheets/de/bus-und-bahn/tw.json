@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.730Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Bɔs ne keteke so",
+  "instructions": {
+    "bus-und-bahn-matching": "Fa asɛmfua biara ka ne nkyerɛkyerɛmu a ɛfata ho.",
+    "bus-und-bahn-gap": "Hyɛ asɛmfua a ɛfata no nsɛnkyerɛnne.",
+    "bus-und-bahn-verbs": "Fa adeyɛ asɛmfua a ɛteɛ hyɛ mu wɔ ne nsɛsoɔ a ɛteɛ mu.",
+    "bus-und-bahn-table": "Fa artikel (der/die/das) ne dodoɔ nsɛsoɔ no hyɛ mu.",
+    "bus-und-bahn-order": "Hyehyɛ nsɛmfua no yie na kyerɛw kasamu no.",
+    "bus-und-bahn-spelling": "Asɛmfua bɛn na wɔakyerɛw no yie? Hyɛ no nsɛnkyerɛnne."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "tikiti",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Ɛma wo kwan ma wotena bɔs anaa keteke mu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "tikiti mfiri",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Ɛha na wotɔ tikiti a wonkɔ tikiti tɔnbea.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "keteke kwan (platform)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Ɛha na keteke no gyina wɔ keteke gyinabea.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "akyiri ka (delay)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Keteke no ba akyiri sene sɛdeɛ wɔhyehyɛeɛ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "sesa keteke",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Wofi keteke baako mu kɔ foforɔ mu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "bɔs gyinabea",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Ɛha na bɔs no gyina.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Bosome tikiti ma bɔs ne keteke a ɛkɔ mmeaeɛ a ɛbɛn wɔ Gyaaman nyinaa.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Keteke a ɛkɔ Köln no fi keteke kwan 5 so.",
+      "answerText": "keteke kwan"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Keteke no aka akyi simma du.",
+      "answerText": "aka akyi"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Ɛhe na bɔs gyinabea a ɛbɛn ha wɔ?",
+      "answerText": "bɔs gyinabea"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Mepa wo kyɛw, tikiti baako kɔ Berlin.",
+      "answerText": "tikiti"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Mepa wo kyɛw, kyerɛ wo tikiti.",
+      "answerText": "tikiti"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Asase ase keteke (U-Bahn) no ba simma du biara.",
+      "answerText": "Asase ase keteke"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Wobɛtumi atɔ tikiti wɔ mfiri no so.",
+      "answerText": "mfiri"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Ɛhe na ɛsɛ sɛ mesesa keteke?",
+      "answerText": "mesesa"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Bɔs no fi hɔ dɔn 8:15.",
+      "answerText": "fi hɔ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Yɛduru Hamburg dɔn 10.",
+      "answerText": "Yɛduru"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Mepa wo kyɛw, si ha.",
+      "answerText": "si"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Akwantuo no bɛdi bere tenten sɛn?",
+      "answerText": "bɛdi"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "keteke",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "keteke gyinabea",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "tikiti",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "keteke kwan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "bɔs gyinabea",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "bɔs",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Keteke a ɛdi hɔ a ɛkɔ Munich no bɛfi hɔ dɛn bere?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Ɛsɛ sɛ mesesa keteke wɔ Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Ɛyɛ awerɛhoɔ, keteke no aka akyi.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Tikiti no yɛ adwuma ma bɔs no nso?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "tikiti",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "akyiri ka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "bɔs gyinabea",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "keteke kwan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "keteke gyinabea",
+      "answerText": null
+    }
+  ]
+}

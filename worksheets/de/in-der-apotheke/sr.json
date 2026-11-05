@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:49.992Z"
+  },
+  "title": "У апотеци",
+  "instructions": {
+    "in-der-apotheke-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "in-der-apotheke-gap": "Означите одговарајућу реч.",
+    "in-der-apotheke-verbs": "Упишите прави глагол у правом облику.",
+    "in-der-apotheke-table": "Допуните члан (der/die/das) и облик множине.",
+    "in-der-apotheke-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "in-der-apotheke-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Папир од лекара за неки лек.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "таблета",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Мали лек који се гута.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "сируп за кашаљ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Течни лек против кашља.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "маст (крема)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Маже се на кожу.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "нежељено дејство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Нежељени ефекат неког лека.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "упутство за лек",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Папирић у кутији лека са свим информацијама.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "доплата (партиципација)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Мали износ за рецепт плаћате сами.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Имам рецепт од своје лекарке.",
+      "answerText": "рецепт"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Имате ли нешто против болова у грлу?",
+      "answerText": "болова у грлу"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Узимајте две таблете дневно.",
+      "answerText": "таблете"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Маст је за кожу.",
+      "answerText": "кожу"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Молим вас, прочитајте упутство за лек.",
+      "answerText": "упутство за лек"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Лек скоро да нема нежељених дејстава.",
+      "answerText": "нежељених дејстава"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Викендом једна апотека ради дежурство.",
+      "answerText": "апотека"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Од јуче имам кашаљ.",
+      "answerText": "имам"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Колико често треба да узимам таблете?",
+      "answerText": "узимам"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Наручићемо лек до сутра.",
+      "answerText": "Наручићемо"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Маст наносите два пута дневно.",
+      "answerText": "наносите"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Молим вас, пијте много воде.",
+      "answerText": "пијте"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "апотека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "лек",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "маст",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "фластер",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "кутија (паковање)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "кап",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Имате ли нешто против кашља?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Колико често треба да узимам таблете?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Треба ми лек против главобоље.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Да ли ми за то треба рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "апотека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "лек",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "фластер",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "нежељено дејство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "кашаљ",
+      "answerText": null
+    }
+  ]
+}

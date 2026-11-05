@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "50956c54-b113-48c8-a21e-7203900d6f1a",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Hannover",
+  "topic": "Niedersachsen: Messe, Maschsee, Roter Faden",
+  "tasks": [
+    {
+      "id": "stadt-hannover-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-hannover-matching-1",
+          "term": "die Messe",
+          "meaning": "Große Ausstellung für Firmen; Hannover hat ein riesiges Messegelände."
+        },
+        {
+          "id": "stadt-hannover-matching-2",
+          "term": "der Maschsee",
+          "meaning": "Künstlicher See in der Stadt zum Segeln, Joggen und Feiern."
+        },
+        {
+          "id": "stadt-hannover-matching-3",
+          "term": "der Rote Faden",
+          "meaning": "Rote Linie auf dem Boden; sie führt zu den Sehenswürdigkeiten."
+        },
+        {
+          "id": "stadt-hannover-matching-4",
+          "term": "das Hochdeutsch",
+          "meaning": "Standardsprache; in Hannover spricht man es besonders klar."
+        },
+        {
+          "id": "stadt-hannover-matching-5",
+          "term": "die Lüttje Lage",
+          "meaning": "Bier und Schnaps aus zwei Gläsern, die man gleichzeitig trinkt."
+        },
+        {
+          "id": "stadt-hannover-matching-6",
+          "term": "das Schützenfest",
+          "meaning": "Sehr großes Volksfest im Sommer mit einem langen Umzug."
+        },
+        {
+          "id": "stadt-hannover-matching-7",
+          "term": "die Nana",
+          "meaning": "Große, bunte Frauenfigur am Ufer der Leine, von Niki de Saint Phalle."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-hannover-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-hannover-gap-1",
+          "promptBefore": "Wir folgen",
+          "promptAfter": "Roten Faden durch die Stadt.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-2",
+          "promptBefore": "Im Sommer joggen viele um",
+          "promptAfter": "Maschsee.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-3",
+          "promptBefore": "Die Firma stellt auf",
+          "promptAfter": "Messe aus.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-4",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Aufzug in die Kuppel vom Rathaus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-5",
+          "promptBefore": "Die Nanas stehen an",
+          "promptAfter": "Leine.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-6",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Herrenhäuser Gärten.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hannover-gap-7",
+          "promptBefore": "Er probiert",
+          "promptAfter": "Lüttje Lage.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-hannover-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-hannover-verbs-1",
+          "promptBefore": "Der Rote Faden",
+          "promptAfter": "zu vielen Sehenswürdigkeiten.",
+          "correctAnswer": "führt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "führen"
+        },
+        {
+          "id": "stadt-hannover-verbs-2",
+          "promptBefore": "Im Neuen Rathaus",
+          "promptAfter": "ein schräger Aufzug in die Kuppel.",
+          "correctAnswer": "fährt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-hannover-verbs-3",
+          "promptBefore": "Viele Firmen",
+          "promptAfter": "ihre Produkte auf der Messe.",
+          "correctAnswer": "zeigen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zeigen"
+        },
+        {
+          "id": "stadt-hannover-verbs-4",
+          "promptBefore": "Die Menschen in Hannover",
+          "promptAfter": "ein sehr klares Hochdeutsch.",
+          "correctAnswer": "sprechen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sprechen"
+        },
+        {
+          "id": "stadt-hannover-verbs-5",
+          "promptBefore": "Im Jahr 2000",
+          "promptAfter": "die Weltausstellung Expo in Hannover statt.",
+          "correctAnswer": "fand",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-hannover-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-hannover-table-1",
+          "article": "die",
+          "singular": "Messe",
+          "plural": "Messen"
+        },
+        {
+          "id": "stadt-hannover-table-2",
+          "article": "der",
+          "singular": "Garten",
+          "plural": "Gärten"
+        },
+        {
+          "id": "stadt-hannover-table-3",
+          "article": "der",
+          "singular": "Faden",
+          "plural": "Fäden"
+        },
+        {
+          "id": "stadt-hannover-table-4",
+          "article": "die",
+          "singular": "Figur",
+          "plural": "Figuren"
+        },
+        {
+          "id": "stadt-hannover-table-5",
+          "article": "das",
+          "singular": "Rathaus",
+          "plural": "Rathäuser"
+        },
+        {
+          "id": "stadt-hannover-table-6",
+          "article": "der",
+          "singular": "Aufzug",
+          "plural": "Aufzüge"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-hannover-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-hannover-order-1",
+          "chunks": [
+            "Der Rote Faden",
+            "führt",
+            "durch die Innenstadt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-hannover-order-2",
+          "chunks": [
+            "Im Sommer",
+            "segeln",
+            "viele Leute",
+            "auf dem Maschsee"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-hannover-order-3",
+          "chunks": [
+            "Fährst du",
+            "mit dem Aufzug",
+            "in die Kuppel"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-hannover-order-4",
+          "chunks": [
+            "In Hannover",
+            "spricht man",
+            "klares Hochdeutsch"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-hannover-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-hannover-spelling-1",
+          "correct": "Messe",
+          "wrong": "Mese"
+        },
+        {
+          "id": "stadt-hannover-spelling-2",
+          "correct": "Sehenswürdigkeit",
+          "wrong": "Sehenswürdichkeit"
+        },
+        {
+          "id": "stadt-hannover-spelling-3",
+          "correct": "Aufzug",
+          "wrong": "Aufzuk"
+        },
+        {
+          "id": "stadt-hannover-spelling-4",
+          "correct": "Figur",
+          "wrong": "Vigur"
+        },
+        {
+          "id": "stadt-hannover-spelling-5",
+          "correct": "Kuppel",
+          "wrong": "Kupel"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

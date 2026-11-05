@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:53.831Z"
+  },
+  "title": "Гелзенкирхен",
+  "instructions": {
+    "stadt-gelsenkirchen-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-gelsenkirchen-gap": "Отбележете правилната дума.",
+    "stadt-gelsenkirchen-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-gelsenkirchen-table": "Попълнете члена и формата за множествено число.",
+    "stadt-gelsenkirchen-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-gelsenkirchen-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-gelsenkirchen-matching-1",
+      "translation": "„Шалке 04“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-1:meaning",
+      "translation": "Известен футболен клуб; Шалке всъщност е квартал на Гелзенкирхен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-2",
+      "translation": "кралското синьо",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-2:meaning",
+      "translation": "Цветът на „Шалке 04“; много фенове го носят.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-3",
+      "translation": "„Кнапен“ (младите миньори)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-3:meaning",
+      "translation": "Прякор на играчите на „Шалке“; по-рано така наричаха младите миньори.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-4",
+      "translation": "„Велтинс-Арена“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-4:meaning",
+      "translation": "Стадионът на „Шалке“ с покрив, който може да се затваря.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-5",
+      "translation": "„Глюк ауф!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-5:meaning",
+      "translation": "Стар поздрав на миньорите в Рурската област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-6",
+      "translation": "градът на хилядата огньове",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-6:meaning",
+      "translation": "Стар прякор заради многото огньове на мините и фабриките.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-7",
+      "translation": "ZOOM Erlebniswelt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-matching-7:meaning",
+      "translation": "Голяма зоологическа градина с животни от Африка, Азия и Аляска.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-1",
+      "translation": "Много фенове отиват до арената.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-2",
+      "translation": "Когато вали, затварят покрива.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-3",
+      "translation": "Дядо ми работеше в мината.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-4",
+      "translation": "Децата посещават зоологическата градина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-5",
+      "translation": "Той носи син екип.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-6",
+      "translation": "Разхождаме се в парк „Нордщерн“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap-7",
+      "translation": "Миньорите казват поздрава „Глюк ауф!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs-1",
+      "translation": "„Шалке 04“ играе на „Велтинс-Арена“.",
+      "answerText": "играе"
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs-2",
+      "translation": "Миньорите се поздравяват с „Глюк ауф!“.",
+      "answerText": "поздравяват"
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs-3",
+      "translation": "Стадионът има покрив, който се затваря.",
+      "answerText": "има"
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs-4",
+      "translation": "В зоологическата градина виждаме бели мечки и тигри.",
+      "answerText": "виждаме"
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs-5",
+      "translation": "Феновете силно подкрепят своя отбор.",
+      "answerText": "подкрепят"
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-1",
+      "translation": "миньорът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-2",
+      "translation": "мината",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-3",
+      "translation": "екипът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-4",
+      "translation": "зоологическата градина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-5",
+      "translation": "животното",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-table-6",
+      "translation": "покривът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-order-1",
+      "translation": "„Шалке 04“ играе в кралско синьо.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-order-2",
+      "translation": "Ще ходиш ли в събота на стадиона?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-order-3",
+      "translation": "По-рано много хора работеха в мината.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-order-4",
+      "translation": "Миньорите казват „Глюк ауф!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling-1",
+      "translation": "стадион",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling-2",
+      "translation": "мина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling-3",
+      "translation": "екип",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling-4",
+      "translation": "отбор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling-5",
+      "translation": "миньор",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:32.936Z"
+  },
+  "title": "ক্রেফেল্ড",
+  "instructions": {
+    "stadt-krefeld-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-krefeld-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-krefeld-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-krefeld-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-krefeld-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-krefeld-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "মখমল আর রেশমের শহর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "ডাকনাম: আগে এখানে রেশমের অনেক সূক্ষ্ম কাপড় তৈরি হতো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "লিন দুর্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "লিন এলাকায় পানিঘেরা পুরোনো দুর্গ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "ফ্লাক্সমার্কট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "বসন্তে লিন দুর্গের কাছে কারিগরদের বড় বাজার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "\"পিঙ্গুইনে\" (পেঙ্গুইন)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "ক্রেফেল্ডের আইস হকি দল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "চিড়িয়াখানা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "প্রজাপতি-ঘর আর বনমানুষদের জন্য একটি নতুন বনসহ চিড়িয়াখানা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "হাউস লাঙে আর হাউস এস্টার্স",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "বিখ্যাত স্থপতি মিস ফান ডের রোয়ের তৈরি বাড়িতে দুটি জাদুঘর।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "উয়ারডিঙেন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "রাইনের ধারে বড় বন্দরসহ একটি এলাকা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "সে রেশমের একটি পোশাক পরে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "লিন দুর্গের চারপাশে পানি আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "শনিবার আমরা পিঙ্গুইনের একটা খেলা দেখি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "চিড়িয়াখানায় আমরা প্রজাপতি-ঘরে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "ফ্লাক্সমার্কটে কামার তার কাজ দেখায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "উয়ারডিঙেন রাইনের ধারে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "আমরা হাউস লাঙে জাদুঘর দেখতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "পিঙ্গুইনে আইস হকি খেলে।",
+      "answerText": "খেলে"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "আগে ক্রেফেল্ডে রেশমের অনেক কাপড় তৈরি হতো।",
+      "answerText": "তৈরি"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "চিড়িয়াখানায় অনেক প্রজাপতি ওড়ে।",
+      "answerText": "ওড়ে"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "দুর্গটি পানির মধ্যে দাঁড়িয়ে আছে।",
+      "answerText": "দাঁড়িয়ে"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "ফ্লাক্সমার্কটে কারিগরেরা তাদের কাজ দেখায়।",
+      "answerText": "দেখায়"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "কাপড়",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "দুর্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "পেঙ্গুইন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "প্রজাপতি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "পোশাক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "বন্দর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "ক্রেফেল্ডকে মখমল আর রেশমের শহর বলা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "তুমি কি আইস হকি দেখতে সঙ্গে যাবে?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "লিন দুর্গ পানির মধ্যে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "চিড়িয়াখানায় অনেক প্রজাপতি ওড়ে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "রেশম",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "পেঙ্গুইন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "প্রজাপতি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "বন্দর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "পোশাক",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:39.900Z"
+  },
+  "title": "किंडरगार्टन और स्कूल",
+  "instructions": {
+    "kita-und-schule-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "kita-und-schule-gap": "सही शब्द पर निशान लगाइए।",
+    "kita-und-schule-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "kita-und-schule-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "kita-und-schule-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "kita-und-schule-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "अभिभावक बैठक",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "माता-पिता और शिक्षकों की मुलाक़ात।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "डे-केयर (किंडरगार्टन)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "यहाँ दिन में छोटे बच्चों की देखभाल होती है।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "कक्षा अध्यापिका",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "वह एक कक्षा की ज़िम्मेदार है।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "रिपोर्ट कार्ड",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "इसमें स्कूल वर्ष के अंत के अंक होते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "छुट्टी का आवेदन पत्र",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "बच्चे के बीमार होने पर स्कूल को लिखा गया छोटा पत्र।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "छुट्टियाँ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "स्कूल के बिना समय, जैसे गर्मियों में।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "स्कूल ट्रिप",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "पूरी कक्षा साथ में किसी दूसरी जगह जाती है।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "मेरा बेटा बीमार है। वह आज स्कूल नहीं आ सकता।",
+      "answerText": "स्कूल"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "अभिभावक बैठक में माता-पिता शिक्षिका से बात करते हैं।",
+      "answerText": "अभिभावक बैठक"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "गर्मियों में बच्चों की छह हफ़्ते की छुट्टियाँ होती हैं।",
+      "answerText": "छुट्टियाँ"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "स्कूल वर्ष के अंत में मेरी बेटी को रिपोर्ट कार्ड मिलता है।",
+      "answerText": "रिपोर्ट कार्ड"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "मैं शिक्षिका को छुट्टी का आवेदन लिखता हूँ, क्योंकि मेरा बच्चा बीमार था।",
+      "answerText": "छुट्टी का आवेदन"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "बच्चों को हर दिन गृहकार्य करना पड़ता है।",
+      "answerText": "गृहकार्य"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "मेरा बच्चा तीन साल का है और डे-केयर जाता है।",
+      "answerText": "डे-केयर"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "मैं अपने बच्चे को 4 बजे लेने जाता हूँ।",
+      "answerText": "लेने जाता"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "मेरी बेटी आज दुर्भाग्य से बीमार है।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "क्या हम मिलने का समय तय कर सकते हैं?",
+      "answerText": "तय कर"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "कक्षाएँ 8 बजे शुरू होती हैं।",
+      "answerText": "शुरू होती"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "कृपया फ़ॉर्म पर शुक्रवार तक हस्ताक्षर कीजिए।",
+      "answerText": "हस्ताक्षर कीजिए"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "बच्चा",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "कक्षा",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "शिक्षक",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "कॉपी",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "अंक",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "पेन",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "मेरा बेटा आज बीमार है।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "अभिभावक बैठक कब शुरू होती है?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "मैं अपनी बेटी को 3 बजे लेने जाता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "क्या मेरे बच्चे को स्कूल ट्रिप के लिए कुछ चाहिए?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "अभिभावक बैठक",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "रिपोर्ट कार्ड",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "छुट्टी का आवेदन",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "गृहकार्य",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "कक्षा अध्यापिका",
+      "answerText": null
+    }
+  ]
+}

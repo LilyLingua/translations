@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:17.499Z"
+  },
+  "title": "Киль",
+  "instructions": {
+    "stadt-kiel-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-kiel-gap": "Отметьте правильное слово.",
+    "stadt-kiel-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-kiel-table": "Допишите артикль и форму множественного числа.",
+    "stadt-kiel-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-kiel-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "«Фёрде» (фьорд)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Длинный узкий залив Балтийского моря, глубоко врезающийся в сушу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Кильская неделя",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Большой парусный праздник в июне с музыкой и лодками со всего мира.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "паром",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Большое судно для людей и машин, например в Норвегию.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Кильский канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Искусственный водный путь между Северным и Балтийским морем.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "кильская шпрота",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Маленькая копчёная рыбка, типичная для Киля.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "«Мойн мойн!»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Северонемецкое приветствие; некоторым и два «мойн» уже слишком много.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "ходить под парусом",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Плыть на лодке, которую движет ветер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Киль стоит на Балтийском море.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "В июне мы празднуем Кильскую неделю.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Мы плывём на пароме в Осло.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Корабли идут по Кильскому каналу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "На выходных мы ходим под парусом по фьорду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Я покупаю пакет кильских шпрот.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Мы гуляем с собакой по пляжу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Паром ходит в Норвегию каждый день.",
+      "answerText": "ходит"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "На Кильской неделе соревнуются лодки со всего мира.",
+      "answerText": "соревнуются"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Многие корабли используют Кильский канал.",
+      "answerText": "используют"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "На севере говорят «Мойн».",
+      "answerText": "говорят"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "На пляже часто дует сильный ветер.",
+      "answerText": "дует"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "лодка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "паром",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "рыба",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "пляж",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "парус",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Киль стоит на Балтийском море.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "В июне город празднует Кильскую неделю.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Ты плывёшь на пароме в Норвегию?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "На выходных мы ходим под парусом по фьорду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "паром",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "парус",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "пляж",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Балтийское море",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "канал",
+      "answerText": null
+    }
+  ]
+}

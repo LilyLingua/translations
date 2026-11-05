@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.339Z"
+  },
+  "title": "Вртић и школа",
+  "instructions": {
+    "kita-und-schule-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "kita-und-schule-gap": "Означите одговарајућу реч.",
+    "kita-und-schule-verbs": "Упишите прави глагол у правом облику.",
+    "kita-und-schule-table": "Допуните члан (der/die/das) и облик множине.",
+    "kita-und-schule-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "kita-und-schule-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "родитељски састанак",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Састанак родитеља с наставницима.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "вртић",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Овде се током дана брину о малој деци.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "разредна старешина",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Она је одговорна за једно одељење.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "сведочанство",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Овде пишу оцене на крају школске године.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "оправдање",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Кратко писмо школи кад је ваше дете било болесно.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "распуст",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Време без школе, на пример лети.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "излет",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Одељење заједно путује на неко друго место.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Мој син је болестан. Данас не може да дође у школу.",
+      "answerText": "школу"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "На родитељском састанку родитељи разговарају с учитељицом.",
+      "answerText": "родитељском састанку"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Лети деца имају шест недеља распуста.",
+      "answerText": "распуста"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "На крају школске године моја ћерка добија сведочанство.",
+      "answerText": "сведочанство"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Пишем учитељици оправдање јер ми је дете било болесно.",
+      "answerText": "оправдање"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Деца сваког дана морају да раде домаћи задатак.",
+      "answerText": "домаћи задатак"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Моје дете има три године и иде у вртић.",
+      "answerText": "вртић"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Дете узимам у 16 часова.",
+      "answerText": "узимам"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Моја ћерка је данас нажалост болесна.",
+      "answerText": "је"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Можемо ли да договоримо термин?",
+      "answerText": "договоримо"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Настава почиње у 8 часова.",
+      "answerText": "почиње"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Молим вас, потпишите формулар до петка.",
+      "answerText": "потпишите"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "дете",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "одељење (разред)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "наставник",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "свеска",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "оцена",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "оловка",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Мој син је данас болестан.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Када почиње родитељски састанак?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Ћерку узимам у 15 часова.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Да ли је мом детету нешто потребно за излет?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "родитељски састанак",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "сведочанство",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "оправдање",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "домаћи задатак",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "разредна старешина",
+      "answerText": null
+    }
+  ]
+}

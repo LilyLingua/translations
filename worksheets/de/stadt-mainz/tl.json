@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:41.777Z"
+  },
+  "title": "Mainz",
+  "instructions": {
+    "stadt-mainz-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-mainz-gap": "Markahan ang tamang salita.",
+    "stadt-mainz-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-mainz-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-mainz-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-mainz-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "ang \"Fastnacht\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Ganito tinatawag ang karnabal sa Mainz; \"Helau\" ang isinisigaw.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "ang Rose Monday",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Rurok ng karnabal na may malaking parada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "ang paglilimbag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Inimbento ito ni Johannes Gutenberg sa Mainz, gamit ang naitatanggal na mga titik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "ang Mainzelmännchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Maliliit na cartoon character ng istasyong ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "\"Weck, Worscht un Woi\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "Diyalekto ng Mainz para sa tinapay, sausage at alak.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "ang \"Meenzer\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Ganito tinatawag ng mga taga-Mainz ang sarili nila sa diyalekto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "ang almusal sa palengke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Pagtitipon tuwing Sabado sa palengke sa tabi ng katedral, may alak at sausage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Inimbento ni Gutenberg ang paglilimbag.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "Sa Rose Monday, nanonood kami ng malaking parada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Nasa tabi ng katedral ang almusal sa palengke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "Nasa lungsod ng Mainz ang punong-tanggapan ng ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "Umiinom siya ng isang baso ng alak.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "Sa museo, may nakikita kaming lumang Bibliya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Nasa tabi ng Rhine ang Mainz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Inimbento ni Johannes Gutenberg ang paglilimbag.",
+      "answerText": "Inimbento"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "Tuwing karnabal, \"Helau\" ang isinisigaw ng mga Meenzer.",
+      "answerText": "isinisigaw"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Lumalabas ang Mainzelmännchen sa ZDF sa pagitan ng mga patalastas.",
+      "answerText": "Lumalabas"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "Tuwing Sabado, nagkikita kami sa almusal sa palengke.",
+      "answerText": "nagkikita"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Sa paligid ng Mainz, maraming ubas ang tumutubo.",
+      "answerText": "tumutubo"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "ang parada",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "ang aklat",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "ang titik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "ang Bibliya",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "ang tinapay",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "ang katedral",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Inimbento ni Gutenberg ang paglilimbag sa Mainz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "May malaking parada sa Rose Monday.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "Pupunta ba tayo sa almusal sa palengke sa Sabado?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Nasa tabi ng Rhine ang Mainz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "titik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Bibliya",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "parada",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "Rose Monday",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "telebisyon",
+      "answerText": null
+    }
+  ]
+}

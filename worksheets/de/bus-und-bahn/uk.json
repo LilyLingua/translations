@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.624Z"
+  },
+  "title": "Автобусом і потягом",
+  "instructions": {
+    "bus-und-bahn-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "bus-und-bahn-gap": "Позначте відповідне слово.",
+    "bus-und-bahn-verbs": "Вставте правильне дієслово в правильній формі.",
+    "bus-und-bahn-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "bus-und-bahn-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "bus-und-bahn-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "З ним можна їхати автобусом або потягом.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "квитковий автомат",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Тут купують квиток без каси.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "колія (платформа)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Тут потяг зупиняється на вокзалі.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "запізнення",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Потяг приходить пізніше, ніж планувалося.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "робити пересадку",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Ви переходите з одного потяга на інший.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Тут зупиняється автобус.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Місячний квиток на автобуси й приміські потяги по всій Німеччині.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Потяг до Кельна відправляється з колії 5.",
+      "answerText": "колії"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Потяг має десять хвилин запізнення.",
+      "answerText": "запізнення"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Де найближча зупинка?",
+      "answerText": "зупинка"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Один квиток до Берліна, будь ласка.",
+      "answerText": "квиток"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Будь ласка, покажіть ваш квиток.",
+      "answerText": "квиток"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Метро ходить кожні десять хвилин.",
+      "answerText": "Метро"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "В автоматі можна купити квитки.",
+      "answerText": "автоматі"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Де мені потрібно зробити пересадку?",
+      "answerText": "зробити пересадку"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Автобус відправляється о 8:15.",
+      "answerText": "відправляється"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Ми прибуваємо до Гамбурга о 10-й годині.",
+      "answerText": "прибуваємо"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Будь ласка, виходьте тут.",
+      "answerText": "виходьте"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Скільки триває поїздка?",
+      "answerText": "триває"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "потяг",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "колія",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "автобус",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Коли їде наступний потяг до Мюнхена?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Мені потрібно зробити пересадку в Мангеймі.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Потяг, на жаль, запізнюється.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Квиток діє і на автобус?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "запізнення",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "колія",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "вокзал",
+      "answerText": null
+    }
+  ]
+}

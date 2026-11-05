@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "e9a7fdbf-e1b2-4d75-ac75-4b058857c103",
+    "level": "A2"
+  },
+  "title": "Citas por teléfono",
+  "topic": "Llamar, hacer, cambiar y cancelar citas",
+  "tasks": [
+    {
+      "id": "es-citas-por-telefono-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-citas-por-telefono-matching-1",
+          "term": "llamar",
+          "meaning": "Hablar con alguien por teléfono."
+        },
+        {
+          "id": "es-citas-por-telefono-matching-2",
+          "term": "cancelar",
+          "meaning": "Decir que no vas a ir."
+        },
+        {
+          "id": "es-citas-por-telefono-matching-3",
+          "term": "cambiar la cita",
+          "meaning": "Poner la cita en otro día u hora."
+        },
+        {
+          "id": "es-citas-por-telefono-matching-4",
+          "term": "el buzón de voz",
+          "meaning": "Ahí dejas un mensaje cuando nadie contesta."
+        },
+        {
+          "id": "es-citas-por-telefono-matching-5",
+          "term": "la extensión",
+          "meaning": "Un número corto dentro de una empresa."
+        },
+        {
+          "id": "es-citas-por-telefono-matching-6",
+          "term": "disponible",
+          "meaning": "Libre, no ocupado."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-citas-por-telefono-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-citas-por-telefono-gap-1",
+          "promptBefore": "Quiero",
+          "promptAfter": "mi cita del viernes.",
+          "correctAnswer": "cancelar",
+          "options": [
+            "cancelar",
+            "llamar",
+            "marcar"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-citas-por-telefono-gap-2",
+          "promptBefore": "¿Podemos",
+          "promptAfter": "la cita para la próxima semana?",
+          "correctAnswer": "cambiar",
+          "options": [
+            "cambiar",
+            "llamar",
+            "contestar"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-citas-por-telefono-gap-3",
+          "promptBefore": "¿El doctor está",
+          "promptAfter": "el lunes?",
+          "correctAnswer": "disponible",
+          "options": [
+            "disponible",
+            "extensión",
+            "buzón"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-citas-por-telefono-gap-4",
+          "promptBefore": "Deje un mensaje en el",
+          "promptAfter": "de voz.",
+          "correctAnswer": "buzón",
+          "options": [
+            "buzón",
+            "disponible",
+            "extensión"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-citas-por-telefono-gap-5",
+          "promptBefore": "¿Me puede",
+          "promptAfter": "más tarde?",
+          "correctAnswer": "llamar",
+          "options": [
+            "llamar",
+            "cancelar",
+            "cambiar"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-citas-por-telefono-gap-6",
+          "promptBefore": "Marque la",
+          "promptAfter": "245, por favor.",
+          "correctAnswer": "extensión",
+          "options": [
+            "extensión",
+            "buzón",
+            "cita"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-citas-por-telefono-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-citas-por-telefono-verbs-1",
+          "promptBefore": "Buenas tardes,",
+          "promptAfter": "María López.",
+          "correctAnswer": "habla",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "hablar"
+        },
+        {
+          "id": "es-citas-por-telefono-verbs-2",
+          "promptBefore": "",
+          "promptAfter": "hacer una cita.",
+          "correctAnswer": "Quisiera",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "querer"
+        },
+        {
+          "id": "es-citas-por-telefono-verbs-3",
+          "promptBefore": "¿Podría",
+          "promptAfter": "eso, por favor?",
+          "correctAnswer": "repetir",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "repetir"
+        },
+        {
+          "id": "es-citas-por-telefono-verbs-4",
+          "promptBefore": "Le",
+          "promptAfter": "en diez minutos.",
+          "correctAnswer": "marco",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "marcar"
+        },
+        {
+          "id": "es-citas-por-telefono-verbs-5",
+          "promptBefore": "La oficina",
+          "promptAfter": "a las cinco.",
+          "correctAnswer": "cierra",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "cerrar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-citas-por-telefono-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-citas-por-telefono-order-1",
+          "chunks": [
+            "¿Puedo",
+            "hablar",
+            "con la doctora Ruiz"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-citas-por-telefono-order-2",
+          "chunks": [
+            "Quiero",
+            "cancelar",
+            "mi cita"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-citas-por-telefono-order-3",
+          "chunks": [
+            "¿Le queda bien",
+            "el martes",
+            "a las diez"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-citas-por-telefono-order-4",
+          "chunks": [
+            "Le llamo",
+            "mañana",
+            "temprano"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-citas-por-telefono-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-citas-por-telefono-spelling-1",
+          "correct": "mensaje",
+          "wrong": "mensage"
+        },
+        {
+          "id": "es-citas-por-telefono-spelling-2",
+          "correct": "cancelar",
+          "wrong": "canselar"
+        },
+        {
+          "id": "es-citas-por-telefono-spelling-3",
+          "correct": "llamada",
+          "wrong": "yamada"
+        },
+        {
+          "id": "es-citas-por-telefono-spelling-4",
+          "correct": "disponible",
+          "wrong": "disponivle"
+        },
+        {
+          "id": "es-citas-por-telefono-spelling-5",
+          "correct": "teléfono",
+          "wrong": "telefono"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

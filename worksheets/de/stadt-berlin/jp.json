@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:06.158Z"
+  },
+  "title": "ベルリン",
+  "instructions": {
+    "stadt-berlin-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-berlin-gap": "正しい単語に印をつけましょう。",
+    "stadt-berlin-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-berlin-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-berlin-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-berlin-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "首都",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "国でいちばん重要な都市。政府がここで働いている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "ブランデンブルク門",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "上に馬車と4頭の馬がのった有名な名所。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "壁",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "1989年までベルリンを東と西に分けていた。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "「シュペーティ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "夜遅くまで開いている小さな店。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "「シュリッペ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "ベルリンでの小さな丸パンの呼び名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "「プファンクーヘン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "ベルリンでは、ジャム入りの甘くて丸い揚げパンのこと。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "「キーツ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "ベルリンの人が自分の地元の地区を呼ぶ言葉。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "私たちはブランデンブルク門の写真を撮ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "テレビ塔はアレクサンダー広場の近くに立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "シュプレー川が街を流れています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "私はシュペーティで飲み物を買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "1989年まで壁は街の真ん中に立っていました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "パン屋でシュリッペを注文します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "私はこの地区に3年前から住んでいます。",
+      "answerText": "この"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "1989年11月9日に壁が崩れました。",
+      "answerText": "崩れ"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "政府はベルリンで働いています。",
+      "answerText": "働いて"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "多くの観光客がイーストサイド・ギャラリーを訪れます。",
+      "answerText": "訪れ"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "シュペーティは夜遅くまで開いています。",
+      "answerText": "開いて"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "環状線に乗ると、中心部のまわりを一周走ります。",
+      "answerText": "走り"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "門",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "壁",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "地区",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "橋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "博物館",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "店",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "ベルリンはドイツの首都です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "壁は1989年に崩れました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "カリーヴルストをもう食べましたか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "シュペーティは夜遅くまで開いています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "首都",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "政府",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "小さな丸パン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "名所",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "テレビ塔",
+      "answerText": null
+    }
+  ]
+}

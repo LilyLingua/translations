@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:38.570Z"
+  },
+  "title": "Düsseldorf",
+  "instructions": {
+    "stadt-duesseldorf-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-duesseldorf-gap": "Marque a palavra certa.",
+    "stadt-duesseldorf-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-duesseldorf-table": "Complete o artigo e o plural.",
+    "stadt-duesseldorf-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-duesseldorf-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "a \"Alt\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "Cerveja escura de Düsseldorf; é bebida em copos pequenos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "a \"Kö\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "Abreviação de Königsallee, uma rua elegante de compras.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "a Torre do Reno",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "Torre de TV no Reno com um relógio feito de luzes.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "\"Helau!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "Grito de carnaval em Düsseldorf – e não \"Alaaf\" como em Colônia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "o menino da estrela",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "Criança que dá uma estrela (roda); um símbolo da cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "a cidade velha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "Parte antiga da cidade com muitos bares, \"o balcão mais longo do mundo\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "o \"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "Garçom de cervejaria; traz uma nova Alt sem perguntar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "Ele bebe uma Alt na cidade velha.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "A Kö é uma rua de compras cara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "Do alto da Torre do Reno dá para ver a cidade inteira.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "Na segunda-feira das Rosas assistimos ao desfile.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "Passeamos pela margem do Reno.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "Compro um pote de mostarda de Düsseldorf.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "O Köbes traz uma nova Alt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "No carnaval o pessoal de Düsseldorf grita \"Helau\".",
+      "answerText": "grita"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "O Köbes traz a próxima Alt sem perguntar.",
+      "answerText": "traz"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "O Reno passa bem pelo meio da cidade.",
+      "answerText": "passa"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "Muita gente faz compras na Kö.",
+      "answerText": "faz"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "As crianças dão uma estrela como os meninos da estrela.",
+      "answerText": "dão"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "o copo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "o bar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "a margem",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "o desfile",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "a cervejaria",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "a rua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "Ele bebe uma Alt na cidade velha.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "A Kö é uma rua elegante de compras.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "Você vem comigo ao desfile na segunda-feira das Rosas?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "O Köbes traz logo um copo novo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "o carnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "a cervejaria",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "o bar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "o balcão",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "o copo",
+      "answerText": null
+    }
+  ]
+}

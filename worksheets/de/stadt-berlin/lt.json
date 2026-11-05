@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:13.108Z"
+  },
+  "title": "Berlynas",
+  "instructions": {
+    "stadt-berlin-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "stadt-berlin-gap": "Pažymėkite tinkamą žodį.",
+    "stadt-berlin-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "stadt-berlin-table": "Įrašykite artikelį ir daugiskaitos formą.",
+    "stadt-berlin-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "stadt-berlin-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "sostinė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "Svarbiausias šalies miestas; čia dirba vyriausybė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "Brandenburgo vartai",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Garsus simbolis, kurio viršuje – vežimas su keturiais žirgais.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "Siena",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "Iki 1989 m. ji dalijo Berlyną į Rytus ir Vakarus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "„Späti“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Nedidelė parduotuvė, dirbanti iki vėlyvos nakties.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "„Schrippe“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "Taip Berlyne vadinama bandelė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "„Pfannkuchen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "Berlyne: saldi, apvali spurga su uogiene.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "„Kiez“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "Taip berlyniečiai vadina savo kvartalą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Fotografuojame Brandenburgo vartus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "Televizijos bokštas stovi netoli Alexanderplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "Per miestą teka Šprė upė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "„Späti“ parduotuvėje perku gėrimą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "Iki 1989 m. Siena stovėjo miesto viduryje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "Kepykloje užsisakau „Schrippe“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "Šiame kvartale gyvenu jau trejus metus.",
+      "answerText": "Šiame"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "1989 m. lapkričio 9 d. Siena griuvo.",
+      "answerText": "griuvo"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Vyriausybė dirba Berlyne.",
+      "answerText": "dirba"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Daug turistų aplanko East Side Gallery.",
+      "answerText": "aplanko"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "„Späti“ dirba iki vėlyvos nakties.",
+      "answerText": "dirba"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "Žiediniu traukiniu „Ringbahn“ važiuojate ratu aplink miesto centrą.",
+      "answerText": "važiuojate"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "vartai",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "siena",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "rajonas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "tiltas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "muziejus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "parduotuvė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Berlynas yra Vokietijos sostinė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Siena griuvo 1989 m.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Ar jau valgėte currywurst?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "„Späti“ dirba iki vėlyvos nakties.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "sostinė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "vyriausybė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "bandelė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "įžymybė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "televizijos bokštas",
+      "answerText": null
+    }
+  ]
+}

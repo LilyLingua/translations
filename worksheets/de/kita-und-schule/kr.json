@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.783Z"
+  },
+  "title": "어린이집과 학교",
+  "instructions": {
+    "kita-und-schule-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "kita-und-schule-gap": "알맞은 단어에 표시하세요.",
+    "kita-und-schule-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "kita-und-schule-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "kita-und-schule-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "kita-und-schule-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "학부모 모임",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "학부모와 선생님들의 모임.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "어린이집",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "낮 동안 어린아이들을 돌봐 주는 곳.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "담임 선생님(여)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "한 학급을 맡고 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "성적표",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "학년말 성적이 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "결석 사유서",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "아이가 아팠을 때 학교에 보내는 짧은 편지.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "방학",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "학교에 가지 않는 기간. 예를 들어 여름.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "현장 학습",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "반 전체가 함께 다른 곳에 갑니다.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "제 아들이 아파요. 오늘 학교에 올 수 없어요.",
+      "answerText": "학교"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "학부모 모임에서 학부모들이 선생님과 이야기합니다.",
+      "answerText": "학부모 모임"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "여름에 아이들은 6주 동안 방학이에요.",
+      "answerText": "방학"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "학년말에 제 딸은 성적표를 받습니다.",
+      "answerText": "성적표"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "아이가 아팠기 때문에 선생님께 결석 사유서를 씁니다.",
+      "answerText": "결석 사유서"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "아이들은 매일 숙제를 해야 합니다.",
+      "answerText": "숙제"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "우리 아이는 세 살이고 어린이집에 다닙니다.",
+      "answerText": "어린이집"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "저는 오후 4시에 아이를 데리러 갑니다.",
+      "answerText": "데리러 갑니다"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "제 딸은 오늘 안타깝게도 아파요.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "면담 약속을 잡을 수 있을까요?",
+      "answerText": "잡을"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "수업은 8시에 시작합니다.",
+      "answerText": "시작합니다"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "금요일까지 서류에 서명해 주세요.",
+      "answerText": "서명해"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "아이",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "반(학급)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "선생님",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "공책",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "점수",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "펜",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "제 아들이 오늘 아파요.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "학부모 모임은 언제 시작해요?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "저는 오후 3시에 딸을 데리러 갑니다.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "우리 아이가 현장 학습에 뭐가 필요해요?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "학부모 모임",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "성적표",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "결석 사유서",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "숙제",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "담임 선생님",
+      "answerText": null
+    }
+  ]
+}

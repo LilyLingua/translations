@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:21:07.518Z"
+  },
+  "title": "Li supermarketê",
+  "instructions": {
+    "im-supermarkt-matching": "Her peyvê bi ravekirina guncav ve girê bidin.",
+    "im-supermarkt-gap": "Pakêt an mîqdara guncav nîşan bikin.",
+    "im-supermarkt-verbs": "Lêkera rast bi forma rast binivîsin.",
+    "im-supermarkt-table": "Artîkelê (der/die/das) û forma pirjimar temam bikin.",
+    "im-supermarkt-order": "Peyvan bi rêza rast rêz bikin û hevokê binivîsin.",
+    "im-supermarkt-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bikin."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "erebeya kirînê",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Dema kirînê hûn tiştan dixin nav wê.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "refika penîr",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Li vir hûn penîrê teze bi kîloyê distînin.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "pereyê şûşeyan (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Pereyê ku hûn ji bo şûşeyên vala paşde distînin.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "makîneya vegerandina şûşeyan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Li vir hûn şûşeyên vala didin.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "erzanî (pêşniyara taybet)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Berhemek ji bo demeke kurt erzantir e.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "fîş",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Hemû biha li ser vê kaxezê ne.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "tûrik",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Hûn kirînên xwe bi wê dibin malê.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Ez qedehek mast dikirim.",
+      "answerText": "qedehek"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Şûşeyek av jî, ji kerema xwe.",
+      "answerText": "Şûşeyek"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Pêdiviya me bi pakêtek makarne heye.",
+      "answerText": "pakêtek"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Ji bo sosê ez qutiyek firingî distînim.",
+      "answerText": "qutiyek"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Ji kerema xwe 200 gram penîrê Gouda.",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Pakêtek nivîşk 2,29 euro ye.",
+      "answerText": "Pakêtek"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Ez lîtreyek şîr distînim.",
+      "answerText": "lîtreyek"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Hûn dikarin pênc euroyan ji min re hûr bikin?",
+      "answerText": "hûr bikin"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Bibore, ez ard li ku dibînim?",
+      "answerText": "dibînim"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Ez bi kartê didim.",
+      "answerText": "didim"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Ez 200 gram penîrê Gouda dixwazim.",
+      "answerText": "dixwazim"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Rojên yekşemê hema hemû supermarket girtî ne.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "şûşe",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "qedeh",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "qutî",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "nan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "sêv",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "mûz",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Bibore, ez ard li ku dibînim?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Çenteyek bi min re heye.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Mûz îro erzan in.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Makîneya vegerandina şûşeyan li ku ye?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "erebeya kirînê",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "fîş",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "pereyê şûşeyan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "penîr",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "nanê biçûk",
+      "answerText": null
+    }
+  ]
+}

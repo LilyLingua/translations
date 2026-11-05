@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.507Z"
+  },
+  "title": "Umawianie terminów przez telefon",
+  "instructions": {
+    "termine-am-telefon-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "termine-am-telefon-gap": "Zaznacz poprawny przyimek.",
+    "termine-am-telefon-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "termine-am-telefon-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "termine-am-telefon-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "termine-am-telefon-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "automatyczna sekretarka",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Tu możesz zostawić wiadomość.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "numer wewnętrzny",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Bezpośredni numer telefonu osoby w firmie.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "oddzwonić",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Zadzwonić do kogoś później, bo wcześniej dzwonił.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "przełożyć",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Przenieść termin na inny dzień.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "odwołać",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Powiedzieć, że nie przyjdzie się na termin.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "godziny przyjęć",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Godziny, w których można się z kimś skontaktować.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "przeliterować",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Powiedzieć słowo litera po literze.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Czy ma pan / pani czas w poniedziałek?",
+      "answerText": "w"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Czy pasuje o 10:00?",
+      "answerText": "o"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Mam czas dopiero w grudniu.",
+      "answerText": "w"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Gabinet jest zamknięty w weekend.",
+      "answerText": "w"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Oddzwonię do pana / pani za godzinę.",
+      "answerText": "za"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Czekam na termin już od dwóch tygodni.",
+      "answerText": "od"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Proszę przyjść dziesięć minut przed terminem.",
+      "answerText": "przed"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Czy mogę porozmawiać z panią Weber?",
+      "answerText": "porozmawiać"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Niestety muszę odwołać mój termin.",
+      "answerText": "odwołać"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Czy może pan / pani do mnie oddzwonić?",
+      "answerText": "oddzwonić"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Podaję panu / pani mój numer.",
+      "answerText": "Podaję"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Jak się pisze pana / pani nazwisko?",
+      "answerText": "pisze"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "połączenie (telefon)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numer",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "wiadomość",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "godzina",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "komórka",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Chciałbym przełożyć termin.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Kiedy ma pan / pani czas?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Jutro zadzwonię jeszcze raz.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Czy pasuje panu / pani czwartek o 9:00?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "wiadomość",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "termin",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "oddzwonić",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "godzina",
+      "answerText": null
+    }
+  ]
+}

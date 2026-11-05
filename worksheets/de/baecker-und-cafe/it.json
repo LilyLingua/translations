@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.149Z"
+  },
+  "title": "Dal fornaio e al bar",
+  "instructions": {
+    "baecker-und-cafe-matching": "Collega ogni parola alla spiegazione giusta.",
+    "baecker-und-cafe-gap": "Segna l'articolo corretto.",
+    "baecker-und-cafe-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "baecker-und-cafe-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "baecker-und-cafe-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "baecker-und-cafe-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "il panino",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Un piccolo pane, spesso per la colazione.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "il brezel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Un prodotto da forno salato, tipico della Germania del Sud.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "la torta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Qualcosa di dolce, spesso con il caffè nel pomeriggio.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "il menù",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Qui ci sono tutti i piatti e le bevande.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "il conto",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Qui c'è scritto quanto devi pagare.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "la mancia",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Un po' di soldi in più per il personale.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "da asporto",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Non lo mangi né lo bevi nel bar.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Vorrei un panino.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Prendo un caffè.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Quanto costa il brezel?",
+      "answerText": "il"
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Vorrei una fetta di torta.",
+      "answerText": "una"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Il tavolo è libero?",
+      "answerText": "Il"
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Bevo un tè con latte.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Mi porti il conto, per favore.",
+      "answerText": "il"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Che cosa desidera bere?",
+      "answerText": "desidera"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Prendo un cappuccino.",
+      "answerText": "Prendo"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "In tutto fa 6,40 euro.",
+      "answerText": "fa"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Posso pagare con la carta?",
+      "answerText": "pagare"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "La torta è molto buona.",
+      "answerText": "è"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "il panino",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "la torta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "la tazza",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "il bicchiere",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "il piatto",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "il brezel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Vorrei due panini.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Quanto costa la torta?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Posso pagare con la carta?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Desidera mangiare qui?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "panino",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "torta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "conto",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "caffè",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "mancia",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.266Z"
+  },
+  "title": "وقت گرفتن تلفنی",
+  "instructions": {
+    "termine-am-telefon-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "termine-am-telefon-gap": "حرف اضافه درست را علامت بزنید.",
+    "termine-am-telefon-verbs": "فعل درست را به شکل درست بنویسید.",
+    "termine-am-telefon-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "termine-am-telefon-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "termine-am-telefon-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "منشی تلفنی",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "اینجا می‌توانید پیام بگذارید.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "شماره داخلی مستقیم",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "شماره تلفن مستقیم یک نفر در یک شرکت.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "تماس گرفتن دوباره",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "بعداً با کسی تماس گرفتن، چون او قبلاً زنگ زده است.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "به تعویق انداختن",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "یک وقت ملاقات را به روز دیگری منتقل کردن.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "لغو کردن",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "گفتن اینکه به یک وقت ملاقات نمی‌آیی.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "ساعات پاسخگویی",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "ساعت‌هایی که می‌توان با کسی تماس گرفت.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "هجی کردن",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "گفتن یک کلمه حرف به حرف.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "روز دوشنبه وقت دارید؟",
+      "answerText": "روز"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "ساعت ۱۰ مناسب است؟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "تا دسامبر وقت ندارم.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "مطب در آخر هفته تعطیل است.",
+      "answerText": "در"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "یک ساعت دیگر با شما تماس می‌گیرم.",
+      "answerText": "دیگر"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "دو هفته است که منتظر یک وقت هستم.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "لطفاً ده دقیقه قبل از وقت ملاقات بیایید.",
+      "answerText": "قبل"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "می‌توانم لطفاً با خانم وبر صحبت کنم؟",
+      "answerText": "صحبت کنم"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "متأسفانه باید وقتم را لغو کنم.",
+      "answerText": "لغو کنم"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "می‌توانید لطفاً دوباره با من تماس بگیرید؟",
+      "answerText": "دوباره با من تماس بگیرید"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "شماره‌ام را به شما می‌دهم.",
+      "answerText": "می‌دهم"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "اسم شما چطور نوشته می‌شود؟",
+      "answerText": "نوشته می‌شود"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "تماس تلفنی",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "شماره",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "پیام",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "تلفن",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "ساعت (زمان)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "تلفن همراه",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "می‌خواهم یک وقت را به تعویق بیندازم.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "کی وقت دارید؟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "فردا دوباره زنگ می‌زنم.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "پنجشنبه ساعت ۹ برای شما مناسب است؟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "پیام",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "تلفن",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "وقت ملاقات",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "تماس گرفتن دوباره",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "ساعت",
+      "answerText": null
+    }
+  ]
+}

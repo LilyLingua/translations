@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "497fbfdb-38fe-4a9d-813e-27a5fb6ded5b",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Braunschweig",
+  "topic": "Niedersachsen: Löwenstadt, Eintracht, Rizzi-Haus, Mumme",
+  "tasks": [
+    {
+      "id": "stadt-braunschweig-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-braunschweig-matching-1",
+          "term": "der Burglöwe",
+          "meaning": "Löwe aus Bronze auf dem Burgplatz; das Original steht heute in der Burg."
+        },
+        {
+          "id": "stadt-braunschweig-matching-2",
+          "term": "Heinrich der Löwe",
+          "meaning": "Berühmter Herzog, der im Mittelalter in Braunschweig lebte."
+        },
+        {
+          "id": "stadt-braunschweig-matching-3",
+          "term": "die Eintracht",
+          "meaning": "Fußballverein der Stadt in Gelb und Blau; die Spieler heißen auch „Löwen“."
+        },
+        {
+          "id": "stadt-braunschweig-matching-4",
+          "term": "das Happy Rizzi House",
+          "meaning": "Buntes Haus mit lustigen Gesichtern und Herzen an der Fassade."
+        },
+        {
+          "id": "stadt-braunschweig-matching-5",
+          "term": "die Mumme",
+          "meaning": "Süßer, dunkler Malzsaft – eine sehr alte Spezialität aus Braunschweig."
+        },
+        {
+          "id": "stadt-braunschweig-matching-6",
+          "term": "das Schloss",
+          "meaning": "Das Schloss wurde wieder aufgebaut; dahinter ist heute ein Einkaufszentrum."
+        },
+        {
+          "id": "stadt-braunschweig-matching-7",
+          "term": "Till Eulenspiegel",
+          "meaning": "Lustiger Narr aus alten Geschichten; ein Brunnen in der Stadt erinnert an ihn."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-braunschweig-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-braunschweig-gap-1",
+          "promptBefore": "Auf dem Burgplatz steht",
+          "promptAfter": "Löwe.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-2",
+          "promptBefore": "Heinrich der Löwe baute",
+          "promptAfter": "Burg Dankwarderode.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-3",
+          "promptBefore": "Die Fans singen für",
+          "promptAfter": "Eintracht.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-4",
+          "promptBefore": "Wir machen ein Foto von",
+          "promptAfter": "bunten Haus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-5",
+          "promptBefore": "Im Schloss kaufen wir",
+          "promptAfter": "neue Jacke.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-6",
+          "promptBefore": "Kinder spielen an",
+          "promptAfter": "Eulenspiegelbrunnen.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-braunschweig-gap-7",
+          "promptBefore": "Die Mumme ist",
+          "promptAfter": "alte Spezialität.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-braunschweig-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-braunschweig-verbs-1",
+          "promptBefore": "Der Löwe",
+          "promptAfter": "auf dem Burgplatz.",
+          "correctAnswer": "steht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stehen"
+        },
+        {
+          "id": "stadt-braunschweig-verbs-2",
+          "promptBefore": "Die Eintracht",
+          "promptAfter": "in Gelb und Blau.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-braunschweig-verbs-3",
+          "promptBefore": "Das Rizzi-Haus",
+          "promptAfter": "bunte Farben und lustige Gesichter.",
+          "correctAnswer": "hat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "stadt-braunschweig-verbs-4",
+          "promptBefore": "Till Eulenspiegel",
+          "promptAfter": "viele lustige Streiche.",
+          "correctAnswer": "macht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-braunschweig-verbs-5",
+          "promptBefore": "Heinrich der Löwe",
+          "promptAfter": "im Mittelalter in Braunschweig.",
+          "correctAnswer": "lebte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "leben"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-braunschweig-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-braunschweig-table-1",
+          "article": "der",
+          "singular": "Löwe",
+          "plural": "Löwen"
+        },
+        {
+          "id": "stadt-braunschweig-table-2",
+          "article": "die",
+          "singular": "Burg",
+          "plural": "Burgen"
+        },
+        {
+          "id": "stadt-braunschweig-table-3",
+          "article": "das",
+          "singular": "Gesicht",
+          "plural": "Gesichter"
+        },
+        {
+          "id": "stadt-braunschweig-table-4",
+          "article": "der",
+          "singular": "Herzog",
+          "plural": "Herzöge"
+        },
+        {
+          "id": "stadt-braunschweig-table-5",
+          "article": "die",
+          "singular": "Jacke",
+          "plural": "Jacken"
+        },
+        {
+          "id": "stadt-braunschweig-table-6",
+          "article": "der",
+          "singular": "Streich",
+          "plural": "Streiche"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-braunschweig-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-braunschweig-order-1",
+          "chunks": [
+            "Der Löwe",
+            "ist",
+            "das Wahrzeichen",
+            "von Braunschweig"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-braunschweig-order-2",
+          "chunks": [
+            "Kennst",
+            "du",
+            "das bunte Rizzi-Haus"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-braunschweig-order-3",
+          "chunks": [
+            "Hinter dem Schloss",
+            "ist",
+            "ein Einkaufszentrum"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-braunschweig-order-4",
+          "chunks": [
+            "Till Eulenspiegel",
+            "macht",
+            "viele Streiche"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-braunschweig-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-braunschweig-spelling-1",
+          "correct": "Löwe",
+          "wrong": "Löve"
+        },
+        {
+          "id": "stadt-braunschweig-spelling-2",
+          "correct": "Burg",
+          "wrong": "Burk"
+        },
+        {
+          "id": "stadt-braunschweig-spelling-3",
+          "correct": "Herzog",
+          "wrong": "Herzok"
+        },
+        {
+          "id": "stadt-braunschweig-spelling-4",
+          "correct": "Gesicht",
+          "wrong": "Gesischt"
+        },
+        {
+          "id": "stadt-braunschweig-spelling-5",
+          "correct": "Einkaufszentrum",
+          "wrong": "Einkaufszentrom"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

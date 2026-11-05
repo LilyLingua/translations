@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በስልክ ቀጠሮ መያዝ",
+  "instructions": {
+    "termine-am-telefon-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያገናኙ።",
+    "termine-am-telefon-gap": "ትክክለኛውን መስተዋድድ (ቅድመ-ቃል) ምልክት ያድርጉበት።",
+    "termine-am-telefon-verbs": "ትክክለኛውን ግስ በትክክለኛው ቅጽ ይሙሉ።",
+    "termine-am-telefon-table": "አርቲክሉን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "termine-am-telefon-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "termine-am-telefon-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "የመልእክት መቅጃው (የድምፅ መልእክት ማሽኑ)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "እዚህ መልእክት መተው ይችላሉ።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "ቀጥታ የውስጥ መስመሩ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "በአንድ ኩባንያ ውስጥ ያለ ሰው ቀጥታ የስልክ ቁጥር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "መልሶ መደወል",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "አንድ ሰው ቀደም ብሎ ስለደወለልዎት በኋላ መልሰው መደወል።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "ማስተላለፍ (ቀጠሮን)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "ቀጠሮን ወደ ሌላ ቀን ማዛወር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "መሰረዝ (ቀጠሮን)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "ወደ ቀጠሮ እንደማይመጡ መናገር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "የሥራ ሰዓቱ (የመገናኛ ሰዓቱ)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "አንድን ሰው ማግኘት የሚችሉባቸው ሰዓቶች።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "ፊደል በፊደል መናገር",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "አንድን ቃል ፊደል በፊደል መናገር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "በሰኞ ቀን ነፃ ነዎት?",
+      "answerText": "በሰኞ"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10:00 ሰዓት ይመችዎታል?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "እስከ ታኅሣሥ (ዲሴምበር) ድረስ ነፃ ጊዜ የለኝም።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "በሳምንቱ መጨረሻ ክሊኒኩ ዝግ ነው።",
+      "answerText": "በሳምንቱ"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "ከአንድ ሰዓት በኋላ መልሼ እደውልልዎታለሁ።",
+      "answerText": "በኋላ"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "ለሁለት ሳምንታት ቀጠሮ እየጠበቅሁ ነው።",
+      "answerText": "ለሁለት"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "እባክዎ ከቀጠሮው አሥር ደቂቃ በፊት ይምጡ።",
+      "answerText": "በፊት"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "እባክዎ ከወይዘሮ Weber ጋር መነጋገር እችላለሁ?",
+      "answerText": "መነጋገር"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "እንደ አለመታደል ሆኖ ቀጠሮዬን መሰረዝ አለብኝ።",
+      "answerText": "መሰረዝ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "እባክዎ መልሰው ሊደውሉልኝ ይችላሉ?",
+      "answerText": "መልሰው ሊደውሉልኝ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "ቁጥሬን እሰጥዎታለሁ።",
+      "answerText": "እሰጥዎታለሁ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "ስምዎን ፊደል በፊደል እንዴት ይሉታል?",
+      "answerText": "ይሉታል"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "ጥሪው",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "ቁጥሩ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "መልእክቱ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "ስልኩ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "ሰዓቱ (ጊዜው)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "ሞባይል ስልኩ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "አንድ ቀጠሮ ማስተላለፍ እፈልጋለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "መቼ ነፃ ነዎት?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "ነገ እንደገና እደውላለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "ሐሙስ 9:00 ሰዓት ይመችዎታል?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "መልእክት",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "ስልክ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "ቀጠሮ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "መልሶ መደወል",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "ሰዓት (ጊዜ)",
+      "answerText": null
+    }
+  ]
+}

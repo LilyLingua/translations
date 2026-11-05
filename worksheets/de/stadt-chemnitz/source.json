@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "c10bd242-37a0-4864-b858-b025b8069533",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Chemnitz",
+  "topic": "Sachsen: Nischel, Kulturhauptstadt 2025, Versteinerter Wald",
+  "tasks": [
+    {
+      "id": "stadt-chemnitz-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-chemnitz-matching-1",
+          "term": "der Nischel",
+          "meaning": "Riesiger Kopf von Karl Marx; „Nischel“ heißt im Sächsischen „Kopf“."
+        },
+        {
+          "id": "stadt-chemnitz-matching-2",
+          "term": "Karl-Marx-Stadt",
+          "meaning": "So hieß Chemnitz von 1953 bis 1990."
+        },
+        {
+          "id": "stadt-chemnitz-matching-3",
+          "term": "die Kulturhauptstadt",
+          "meaning": "2025 war Chemnitz Kulturhauptstadt Europas."
+        },
+        {
+          "id": "stadt-chemnitz-matching-4",
+          "term": "der Versteinerte Wald",
+          "meaning": "Bäume, die vor fast 300 Millionen Jahren zu Stein geworden sind."
+        },
+        {
+          "id": "stadt-chemnitz-matching-5",
+          "term": "der Rote Turm",
+          "meaning": "Alter Turm aus dem Mittelalter mitten in der Stadt."
+        },
+        {
+          "id": "stadt-chemnitz-matching-6",
+          "term": "das sächsische Manchester",
+          "meaning": "Alter Spitzname, weil es hier früher sehr viele Fabriken gab."
+        },
+        {
+          "id": "stadt-chemnitz-matching-7",
+          "term": "der CFC",
+          "meaning": "Chemnitzer FC, Fußballverein in Himmelblau."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-chemnitz-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-chemnitz-gap-1",
+          "promptBefore": "Viele Touristen fotografieren",
+          "promptAfter": "Nischel.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-2",
+          "promptBefore": "Im Museum sehen wir",
+          "promptAfter": "Versteinerten Wald.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-3",
+          "promptBefore": "2025 feierte Chemnitz",
+          "promptAfter": "ganzes Jahr Kultur.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-4",
+          "promptBefore": "Wir gehen zu",
+          "promptAfter": "Roten Turm.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-5",
+          "promptBefore": "Früher arbeiteten viele in",
+          "promptAfter": "Fabrik.",
+          "correctAnswer": "einer",
+          "options": [
+            "einer",
+            "eine",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-6",
+          "promptBefore": "Der Kopf steht auf",
+          "promptAfter": "Sockel.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-chemnitz-gap-7",
+          "promptBefore": "Die Fans tragen",
+          "promptAfter": "himmelblaue Mütze.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-chemnitz-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-chemnitz-verbs-1",
+          "promptBefore": "Der Kopf",
+          "promptAfter": "über 7 Meter hoch.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-chemnitz-verbs-2",
+          "promptBefore": "Chemnitz",
+          "promptAfter": "von 1953 bis 1990 Karl-Marx-Stadt.",
+          "correctAnswer": "hieß",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "heißen"
+        },
+        {
+          "id": "stadt-chemnitz-verbs-3",
+          "promptBefore": "Im Museum",
+          "promptAfter": "man versteinerte Bäume.",
+          "correctAnswer": "sieht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sehen"
+        },
+        {
+          "id": "stadt-chemnitz-verbs-4",
+          "promptBefore": "Viele Besucher",
+          "promptAfter": "2025 zur Kulturhauptstadt.",
+          "correctAnswer": "kamen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-chemnitz-verbs-5",
+          "promptBefore": "Der CFC",
+          "promptAfter": "in Himmelblau.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-chemnitz-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-chemnitz-table-1",
+          "article": "der",
+          "singular": "Kopf",
+          "plural": "Köpfe"
+        },
+        {
+          "id": "stadt-chemnitz-table-2",
+          "article": "der",
+          "singular": "Baum",
+          "plural": "Bäume"
+        },
+        {
+          "id": "stadt-chemnitz-table-3",
+          "article": "der",
+          "singular": "Stein",
+          "plural": "Steine"
+        },
+        {
+          "id": "stadt-chemnitz-table-4",
+          "article": "der",
+          "singular": "Turm",
+          "plural": "Türme"
+        },
+        {
+          "id": "stadt-chemnitz-table-5",
+          "article": "die",
+          "singular": "Fabrik",
+          "plural": "Fabriken"
+        },
+        {
+          "id": "stadt-chemnitz-table-6",
+          "article": "die",
+          "singular": "Mütze",
+          "plural": "Mützen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-chemnitz-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-chemnitz-order-1",
+          "chunks": [
+            "Der Nischel",
+            "steht",
+            "in der Innenstadt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-chemnitz-order-2",
+          "chunks": [
+            "Warst",
+            "du",
+            "schon",
+            "in Chemnitz"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-chemnitz-order-3",
+          "chunks": [
+            "Die Bäume",
+            "sind",
+            "zu Stein",
+            "geworden"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-chemnitz-order-4",
+          "chunks": [
+            "Chemnitz",
+            "war",
+            "2025",
+            "Kulturhauptstadt"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-chemnitz-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-chemnitz-spelling-1",
+          "correct": "Kopf",
+          "wrong": "Kopff"
+        },
+        {
+          "id": "stadt-chemnitz-spelling-2",
+          "correct": "Stein",
+          "wrong": "Schtein"
+        },
+        {
+          "id": "stadt-chemnitz-spelling-3",
+          "correct": "Turm",
+          "wrong": "Thurm"
+        },
+        {
+          "id": "stadt-chemnitz-spelling-4",
+          "correct": "Kultur",
+          "wrong": "Kultuhr"
+        },
+        {
+          "id": "stadt-chemnitz-spelling-5",
+          "correct": "Wald",
+          "wrong": "Walt"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

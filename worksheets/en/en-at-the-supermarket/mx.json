@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.278Z"
+  },
+  "title": "En el súper",
+  "instructions": {
+    "en-at-the-supermarket-matching": "Relaciona cada palabra con su significado.",
+    "en-at-the-supermarket-gap": "Elige la palabra correcta.",
+    "en-at-the-supermarket-verbs": "Escribe el verbo correcto.",
+    "en-at-the-supermarket-order": "Ordena las palabras y escribe la oración.",
+    "en-at-the-supermarket-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-at-the-supermarket-matching-1",
+      "translation": "el carrito",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-1:meaning",
+      "translation": "Una canasta grande con ruedas para tus compras.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2",
+      "translation": "la caja",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2:meaning",
+      "translation": "El lugar donde pagas.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3",
+      "translation": "el pasillo",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3:meaning",
+      "translation": "Un camino largo entre los estantes.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4",
+      "translation": "el ticket",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4:meaning",
+      "translation": "Un papel que muestra lo que compraste y pagaste.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5",
+      "translation": "el cajero / la cajera",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5:meaning",
+      "translation": "La persona que trabaja en la caja.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6",
+      "translation": "la bolsa",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6:meaning",
+      "translation": "En ella llevas tus compras a casa.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-gap-1",
+      "translation": "Necesito una botella de leche.",
+      "answerText": "leche"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-2",
+      "translation": "El pan está en el pasillo cinco.",
+      "answerText": "pasillo"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-3",
+      "translation": "¿Necesita una bolsa para sus compras?",
+      "answerText": "bolsa"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-4",
+      "translation": "Por favor, pague en la caja.",
+      "answerText": "caja"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-5",
+      "translation": "Aquí está su ticket. ¡Que tenga buen día!",
+      "answerText": "ticket"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-6",
+      "translation": "Pongo las manzanas en el carrito.",
+      "answerText": "carrito"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-1",
+      "translation": "¿Cuánto cuestan las manzanas?",
+      "answerText": "cuestan"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-2",
+      "translation": "Pago con tarjeta.",
+      "answerText": "Pago"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-3",
+      "translation": "Necesitamos huevos y pan.",
+      "answerText": "Necesitamos"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-4",
+      "translation": "Disculpe, ¿dónde encuentro el arroz?",
+      "answerText": "encuentro"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-5",
+      "translation": "La tienda cierra a las diez.",
+      "answerText": "cierra"
+    },
+    {
+      "id": "en-at-the-supermarket-order-1",
+      "translation": "¿Dónde está el arroz?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-2",
+      "translation": "Necesito una bolsa.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-3",
+      "translation": "¿Puedo pagar con tarjeta?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-4",
+      "translation": "La leche está en el pasillo tres.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-1",
+      "translation": "verduras",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-2",
+      "translation": "pan",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-3",
+      "translation": "queso",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-4",
+      "translation": "pollo",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-5",
+      "translation": "plátano",
+      "answerText": null
+    }
+  ]
+}

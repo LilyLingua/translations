@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:21:07.464Z"
+  },
+  "title": "Xaniyek kirê kirin",
+  "instructions": {
+    "wohnung-mieten-matching": "Her peyvê bi ravekirina guncav ve girê bidin.",
+    "wohnung-mieten-gap": "Forma rast a artîkelê nîşan bikin.",
+    "wohnung-mieten-verbs": "Lêkera rast bi forma rast binivîsin.",
+    "wohnung-mieten-table": "Artîkelê (der/die/das) û forma pirjimar temam bikin.",
+    "wohnung-mieten-order": "Peyvan bi rêza rast rêz bikin û hevokê binivîsin.",
+    "wohnung-mieten-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bikin."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "kirê",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Pereyê ku hûn her meh ji bo xaniyê didin.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "depozîto (pereyê garantiyê)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Pereyê ku xwediyê xaniyê di destpêkê de wek garantî distîne.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "lêçûnên zêde",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Lêçûnên avê, germkirinê û gemarê.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "peymana kirêyê",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Peyman di navbera kirêdar û xwediyê xaniyê de.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "dîtina xaniyê",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Hûn berî kirê kirinê li xaniyê dinêrin.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "berpirsiyarê avahiyê",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ew li avahiyê xwedî derdikeve û tiştên biçûk tamîr dike.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "qaîdeyên avahiyê",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Qaîdeyên ji bo hemû rûniştevanan, wek demên bêdengiyê.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Em li xaniyekî bi balkon digerin.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Ez bi xwediyê xaniyê re diaxivim.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Ez depozîtoyê didim xwediya xaniyê.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Ez duçerxeyê dikim hewşê.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Mifte li ser maseyê ye.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Germkera mitbaxê xera ye.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Salek e ez di vî xaniyî de dijîm.",
+      "answerText": "vî"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Ez kengê dikarim li xaniyê binêrim?",
+      "answerText": "binêrim"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Kirê bi lêçûnan re 850 euro ye.",
+      "answerText": "ye"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Em di 1ê kanûna pêşîn de bar dikin.",
+      "answerText": "bar dikin"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Germker xera ye. Hûn dikarin wê tamîr bikin?",
+      "answerText": "tamîr bikin"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Ji kerema xwe gemarê ji hev veqetînin.",
+      "answerText": "ji hev veqetînin"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ode",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "mitbax",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "serşok",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "mifte",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "germker",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Xanî hêj vala ye?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Lêçûnên zêde çiqas in?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Ez kengê dikarim li xaniyê binêrim?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Ez dixwazim xaniyê kirê bikim.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "depozîto",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "lêçûnên zêde",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "mifte",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "germker",
+      "answerText": null
+    }
+  ]
+}

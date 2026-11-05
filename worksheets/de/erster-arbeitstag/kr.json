@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.812Z"
+  },
+  "title": "첫 출근 날",
+  "instructions": {
+    "erster-arbeitstag-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "erster-arbeitstag-gap": "올바른 형태에 표시하세요.",
+    "erster-arbeitstag-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "erster-arbeitstag-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "erster-arbeitstag-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "erster-arbeitstag-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "동료",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "함께 일하는 남자.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "상사(여)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "팀을 이끕니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "휴식 시간",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "일하는 중의 자유 시간. 예를 들어 식사를 위한 시간.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "휴가",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "일하지 않아도 돈을 받는 쉬는 날.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "초과 근무 시간",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "계획보다 더 일한 한 시간.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "근로 계약서",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "급여, 근무 시간, 휴가가 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "구내식당",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "직원들이 회사에서 식사하는 곳.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "이분은 제 새 동료입니다.",
+      "answerText": "제"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "제 동료를 소개해 드려도 될까요?",
+      "answerText": "제"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "저는 팀과 함께 일하는 것을 좋아합니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "구내식당에서 만나요.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "질문이 하나 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "휴식 시간은 언제 시작해요?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "상사에게 보고서를 드립니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "간단히 저를 소개해도 될까요?",
+      "answerText": "소개해도"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "저는 8시부터 16시까지 일합니다.",
+      "answerText": "일합니다"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "화장실은 어디에서 찾을 수 있어요?",
+      "answerText": "찾을"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "우리 팀에서는 서로 말을 놓습니다.",
+      "answerText": "말을 놓습니다"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "그것을 설명해 주실 수 있어요?",
+      "answerText": "설명해"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "동료",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "회사",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "사무실",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "컴퓨터",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "회의",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "팀",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "간단히 저를 소개해도 될까요?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "저는 팀에 새로 왔습니다.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "점심시간은 언제 시작해요?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "그것을 설명해 주실 수 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "동료",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "회의",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "휴가",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "사무실",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "초과 근무 시간",
+      "answerText": null
+    }
+  ]
+}

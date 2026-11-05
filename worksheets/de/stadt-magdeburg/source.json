@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "c455905e-02d9-4730-94f2-b79aff38c989",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Magdeburg",
+  "topic": "Sachsen-Anhalt: Dom, Grüne Zitadelle, Otto von Guericke",
+  "tasks": [
+    {
+      "id": "stadt-magdeburg-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-magdeburg-matching-1",
+          "term": "die Ottostadt",
+          "meaning": "Beiname von Magdeburg – wegen Kaiser Otto dem Großen und Otto von Guericke."
+        },
+        {
+          "id": "stadt-magdeburg-matching-2",
+          "term": "der Dom",
+          "meaning": "Große gotische Kirche; hier ist Kaiser Otto der Große begraben."
+        },
+        {
+          "id": "stadt-magdeburg-matching-3",
+          "term": "die Grüne Zitadelle",
+          "meaning": "Buntes Haus mit Bäumen auf dem Dach, das letzte Projekt von Hundertwasser."
+        },
+        {
+          "id": "stadt-magdeburg-matching-4",
+          "term": "die Halbkugel",
+          "meaning": "Guericke zeigte mit zwei Halbkugeln, wie stark ein Vakuum ist."
+        },
+        {
+          "id": "stadt-magdeburg-matching-5",
+          "term": "das Wasserstraßenkreuz",
+          "meaning": "Hier fahren Schiffe auf einer Kanalbrücke über die Elbe."
+        },
+        {
+          "id": "stadt-magdeburg-matching-6",
+          "term": "das Vakuum",
+          "meaning": "Ein Raum ganz ohne Luft."
+        },
+        {
+          "id": "stadt-magdeburg-matching-7",
+          "term": "der Kaiser",
+          "meaning": "Herrscher, noch mächtiger als ein König."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-magdeburg-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-magdeburg-gap-1",
+          "promptBefore": "Wir besichtigen",
+          "promptAfter": "Dom.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-2",
+          "promptBefore": "Die Grüne Zitadelle hat Bäume auf",
+          "promptAfter": "Dach.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-3",
+          "promptBefore": "Ein Schiff fährt auf",
+          "promptAfter": "Brücke über die Elbe.",
+          "correctAnswer": "einer",
+          "options": [
+            "einer",
+            "eine",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-4",
+          "promptBefore": "Viele Pferde konnten",
+          "promptAfter": "Halbkugeln nicht trennen.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-5",
+          "promptBefore": "Magdeburg liegt an",
+          "promptAfter": "Elbe.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-6",
+          "promptBefore": "Guericke machte ein Experiment mit",
+          "promptAfter": "Vakuum.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-magdeburg-gap-7",
+          "promptBefore": "Wir machen ein Foto von",
+          "promptAfter": "bunten Haus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-magdeburg-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-magdeburg-verbs-1",
+          "promptBefore": "Hundertwasser",
+          "promptAfter": "die Grüne Zitadelle.",
+          "correctAnswer": "plante",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "planen"
+        },
+        {
+          "id": "stadt-magdeburg-verbs-2",
+          "promptBefore": "Otto von Guericke",
+          "promptAfter": "Experimente mit Luft.",
+          "correctAnswer": "machte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-magdeburg-verbs-3",
+          "promptBefore": "Die Pferde",
+          "promptAfter": "an den Halbkugeln.",
+          "correctAnswer": "zogen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ziehen"
+        },
+        {
+          "id": "stadt-magdeburg-verbs-4",
+          "promptBefore": "Auf der Kanalbrücke",
+          "promptAfter": "Schiffe über die Elbe.",
+          "correctAnswer": "fahren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-magdeburg-verbs-5",
+          "promptBefore": "Kaiser Otto",
+          "promptAfter": "im Dom begraben.",
+          "correctAnswer": "liegt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "liegen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-magdeburg-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-magdeburg-table-1",
+          "article": "der",
+          "singular": "Kaiser",
+          "plural": "Kaiser"
+        },
+        {
+          "id": "stadt-magdeburg-table-2",
+          "article": "das",
+          "singular": "Pferd",
+          "plural": "Pferde"
+        },
+        {
+          "id": "stadt-magdeburg-table-3",
+          "article": "das",
+          "singular": "Dach",
+          "plural": "Dächer"
+        },
+        {
+          "id": "stadt-magdeburg-table-4",
+          "article": "die",
+          "singular": "Kugel",
+          "plural": "Kugeln"
+        },
+        {
+          "id": "stadt-magdeburg-table-5",
+          "article": "der",
+          "singular": "Kanal",
+          "plural": "Kanäle"
+        },
+        {
+          "id": "stadt-magdeburg-table-6",
+          "article": "das",
+          "singular": "Experiment",
+          "plural": "Experimente"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-magdeburg-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-magdeburg-order-1",
+          "chunks": [
+            "Magdeburg",
+            "liegt",
+            "an der Elbe"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-magdeburg-order-2",
+          "chunks": [
+            "Auf dem Dach",
+            "wachsen",
+            "Bäume"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-magdeburg-order-3",
+          "chunks": [
+            "Kennst du",
+            "das Experiment",
+            "mit den Halbkugeln"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-magdeburg-order-4",
+          "chunks": [
+            "Schiffe",
+            "fahren",
+            "auf einer Brücke",
+            "über die Elbe"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-magdeburg-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-magdeburg-spelling-1",
+          "correct": "Kaiser",
+          "wrong": "Keiser"
+        },
+        {
+          "id": "stadt-magdeburg-spelling-2",
+          "correct": "Pferd",
+          "wrong": "Pfert"
+        },
+        {
+          "id": "stadt-magdeburg-spelling-3",
+          "correct": "Experiment",
+          "wrong": "Experement"
+        },
+        {
+          "id": "stadt-magdeburg-spelling-4",
+          "correct": "Kugel",
+          "wrong": "Kuggel"
+        },
+        {
+          "id": "stadt-magdeburg-spelling-5",
+          "correct": "Bürgermeister",
+          "wrong": "Bürgermaister"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

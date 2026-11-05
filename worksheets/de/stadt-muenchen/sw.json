@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:40.281Z"
+  },
+  "title": "Munich",
+  "instructions": {
+    "stadt-muenchen-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-muenchen-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-muenchen-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-muenchen-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-muenchen-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-muenchen-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "\"Wiesn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "Hivi ndivyo watu wa Munich wanavyoita Oktoberfest kwenye uwanja wa Theresienwiese.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "\"Servus!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "Salamu ya Bavaria kwa \"habari\" na \"kwaheri\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "\"Maß\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "Kikombe kikubwa chenye lita moja ya bia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "Weißwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "Soseji nyeupe ambayo kwa desturi huliwa kabla ya saa sita mchana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "\"Brezn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "Hivi ndivyo watu wa Bavaria wanavyoita pretzel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "bustani ya bia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "Kuketi nje chini ya miti, kula na kunywa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "Föhn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "Upepo wa joto kutoka milima ya Alps; wakati huo milima inaonekana wazi sana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "Saa ya kengele iko kwenye ukumbi wa mji Marienplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "Wakati wa kiangazi vijana huteleza kwenye mawimbi ya Eisbach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "Mwisho wa wiki tunaenda kwenye bustani ya bia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "Anaagiza Maß na Brezn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "Mto Isar unapita katikati ya mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "Tunaenda kwenye Bustani ya Kiingereza.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "Föhn ikivuma, unaona milima ya Alps kutoka mjini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "Weißwurst huliwa kabla ya saa sita.",
+      "answerText": "huliwa"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "Saa tano asubuhi saa ya kengele kwenye ukumbi wa mji inapiga muziki.",
+      "answerText": "inapiga"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "Wiesn huanza mwishoni mwa Septemba.",
+      "answerText": "huanza"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "Kwenye Eisbach vijana huteleza juu ya wimbi.",
+      "answerText": "huteleza"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "Wakiagana, watu wa Munich husema \"Servus\".",
+      "answerText": "husema"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "sherehe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "soseji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "bustani",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "kikombe cha bia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "mlima",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "Wiesn huanza mwishoni mwa Septemba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "Weißwurst huliwa kabla ya saa sita.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "Twende kwenye bustani ya bia jioni hii?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "Föhn ikivuma, milima ya Alps inaonekana wazi sana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "bustani ya bia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "saa ya kengele",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "ukumbi wa mji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "Oktoba",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "milima",
+      "answerText": null
+    }
+  ]
+}

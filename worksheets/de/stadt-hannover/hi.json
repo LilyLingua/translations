@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:07.839Z"
+  },
+  "title": "हनोवर",
+  "instructions": {
+    "stadt-hannover-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "stadt-hannover-gap": "सही शब्द पर निशान लगाइए।",
+    "stadt-hannover-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "stadt-hannover-table": "आर्टिकल और बहुवचन रूप भरिए।",
+    "stadt-hannover-order": "शब्दों को सही क्रम में लगाकर वाक्य लिखिए।",
+    "stadt-hannover-spelling": "कौन सा शब्द सही लिखा है? उस पर निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "व्यापार मेला",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "कंपनियों के लिए बड़ी प्रदर्शनी; हनोवर में बहुत बड़ा मेला मैदान है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "माशज़े",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "शहर में बनाई गई झील, नौकायन, दौड़ और उत्सव के लिए।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "लाल धागा",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "ज़मीन पर लाल रेखा; यह दर्शनीय स्थलों तक ले जाती है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "मानक जर्मन",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "मानक भाषा; हनोवर में इसे खास तौर पर साफ़ बोला जाता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "\"ल्युट्ये लागे\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "दो गिलासों में बीयर और शराब, जिन्हें एक साथ पिया जाता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "निशानेबाज़ों का उत्सव",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "गर्मियों में बहुत बड़ा लोक उत्सव, लंबी परेड के साथ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "\"नाना\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "लाइने नदी के किनारे बड़ी रंगीन स्त्री आकृति, निकी द सां फाल की कृति।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "हम लाल धागे के पीछे-पीछे शहर घूमते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "गर्मियों में बहुत से लोग माशज़े के चारों ओर दौड़ते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "कंपनी मेले में प्रदर्शन करती है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "हम लिफ़्ट से टाउन हॉल के गुंबद में जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "नाना आकृतियाँ लाइने के किनारे खड़ी हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "हम हेरेनहाउज़ेन के बगीचे देखने जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "वह एक ल्युट्ये लागे चखता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "लाल धागा कई दर्शनीय स्थलों तक ले जाता है।",
+      "answerText": "ले"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "नए टाउन हॉल में एक तिरछी लिफ़्ट गुंबद तक जाती है।",
+      "answerText": "जाती"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "बहुत सी कंपनियाँ मेले में अपने उत्पाद दिखाती हैं।",
+      "answerText": "दिखाती"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "हनोवर के लोग बहुत साफ़ मानक जर्मन बोलते हैं।",
+      "answerText": "बोलते"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "सन 2000 में हनोवर में विश्व प्रदर्शनी एक्सपो हुई।",
+      "answerText": "हुई"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "मेला",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "बगीचा",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "धागा",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "आकृति",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "टाउन हॉल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "लिफ़्ट",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "लाल धागा शहर के केंद्र से होकर जाता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "गर्मियों में बहुत से लोग माशज़े पर नौकायन करते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "क्या तुम लिफ़्ट से गुंबद तक जाओगे?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "हनोवर में साफ़ मानक जर्मन बोली जाती है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "व्यापार मेला",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "दर्शनीय स्थल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "लिफ़्ट",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "आकृति",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "गुंबद",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "cfc8e2d2-6145-4f2f-a14b-527ef93a1263",
+    "level": "A2"
+  },
+  "title": "At the Pharmacy",
+  "topic": "Buying medicine and asking questions",
+  "tasks": [
+    {
+      "id": "en-at-the-pharmacy-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-at-the-pharmacy-matching-1",
+          "term": "the prescription",
+          "meaning": "A note from the doctor for medicine you need."
+        },
+        {
+          "id": "en-at-the-pharmacy-matching-2",
+          "term": "the pharmacist",
+          "meaning": "The person who sells medicine and gives advice."
+        },
+        {
+          "id": "en-at-the-pharmacy-matching-3",
+          "term": "the side effect",
+          "meaning": "An unwanted effect of a medicine."
+        },
+        {
+          "id": "en-at-the-pharmacy-matching-4",
+          "term": "the tablet",
+          "meaning": "A small, hard piece of medicine that you swallow."
+        },
+        {
+          "id": "en-at-the-pharmacy-matching-5",
+          "term": "the cough syrup",
+          "meaning": "Liquid medicine for a cough."
+        },
+        {
+          "id": "en-at-the-pharmacy-matching-6",
+          "term": "the dose",
+          "meaning": "How much medicine you take at one time."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-at-the-pharmacy-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-at-the-pharmacy-gap-1",
+          "promptBefore": "I have a",
+          "promptAfter": "and a sore throat.",
+          "correctAnswer": "cold",
+          "options": [
+            "cold",
+            "prescription",
+            "receipt"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-pharmacy-gap-2",
+          "promptBefore": "Do I need a",
+          "promptAfter": "for this medicine?",
+          "correctAnswer": "prescription",
+          "options": [
+            "prescription",
+            "dose",
+            "pharmacist"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-pharmacy-gap-3",
+          "promptBefore": "Take one",
+          "promptAfter": "three times a day.",
+          "correctAnswer": "tablet",
+          "options": [
+            "tablet",
+            "bottle",
+            "side effect"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-pharmacy-gap-4",
+          "promptBefore": "Are there any",
+          "promptAfter": "?",
+          "correctAnswer": "side effects",
+          "options": [
+            "side effects",
+            "receipts",
+            "doctors"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-pharmacy-gap-5",
+          "promptBefore": "Please ask the",
+          "promptAfter": "if you have questions.",
+          "correctAnswer": "pharmacist",
+          "options": [
+            "pharmacist",
+            "receipt",
+            "tablet"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-pharmacy-gap-6",
+          "promptBefore": "Can I have a",
+          "promptAfter": ", please?",
+          "correctAnswer": "receipt",
+          "options": [
+            "receipt",
+            "cold",
+            "dose"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-at-the-pharmacy-verbs-1",
+          "promptBefore": "I",
+          "promptAfter": "something for a headache.",
+          "correctAnswer": "need",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "need"
+        },
+        {
+          "id": "en-at-the-pharmacy-verbs-2",
+          "promptBefore": "Do you",
+          "promptAfter": "any allergies?",
+          "correctAnswer": "have",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "have"
+        },
+        {
+          "id": "en-at-the-pharmacy-verbs-3",
+          "promptBefore": "Please",
+          "promptAfter": "this medicine after meals.",
+          "correctAnswer": "take",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "take"
+        },
+        {
+          "id": "en-at-the-pharmacy-verbs-4",
+          "promptBefore": "The pharmacist",
+          "promptAfter": "me how to use the spray.",
+          "correctAnswer": "shows",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "show"
+        },
+        {
+          "id": "en-at-the-pharmacy-verbs-5",
+          "promptBefore": "How much",
+          "promptAfter": "it cost?",
+          "correctAnswer": "does",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "do"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-at-the-pharmacy-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-at-the-pharmacy-order-1",
+          "chunks": [
+            "Do I",
+            "need",
+            "a prescription",
+            "for this"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-pharmacy-order-2",
+          "chunks": [
+            "I",
+            "have",
+            "a headache"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-pharmacy-order-3",
+          "chunks": [
+            "Take",
+            "two tablets",
+            "in the morning"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-pharmacy-order-4",
+          "chunks": [
+            "Can you",
+            "recommend",
+            "something",
+            "for a cough"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-at-the-pharmacy-spelling-1",
+          "correct": "prescription",
+          "wrong": "perscription"
+        },
+        {
+          "id": "en-at-the-pharmacy-spelling-2",
+          "correct": "medicine",
+          "wrong": "medecine"
+        },
+        {
+          "id": "en-at-the-pharmacy-spelling-3",
+          "correct": "pharmacy",
+          "wrong": "farmacy"
+        },
+        {
+          "id": "en-at-the-pharmacy-spelling-4",
+          "correct": "allergy",
+          "wrong": "alergy"
+        },
+        {
+          "id": "en-at-the-pharmacy-spelling-5",
+          "correct": "headache",
+          "wrong": "headake"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

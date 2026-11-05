@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.535Z"
+  },
+  "title": "Договориться о встрече по телефону",
+  "instructions": {
+    "termine-am-telefon-matching": "Соедините каждое слово с подходящим объяснением.",
+    "termine-am-telefon-gap": "Отметьте правильный предлог.",
+    "termine-am-telefon-verbs": "Вставьте правильный глагол в правильной форме.",
+    "termine-am-telefon-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "termine-am-telefon-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "termine-am-telefon-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "автоответчик",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Здесь можно оставить сообщение.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "добавочный номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Прямой номер телефона сотрудника в фирме.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "перезвонить",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Позвонить кому-то позже, потому что он звонил раньше.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "перенести",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Перенести встречу на другой день.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "отменить",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Сказать, что не придёшь на встречу.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "часы приёма",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Время, когда можно с кем-то связаться.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "произнести по буквам",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Назвать слово буква за буквой.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "У вас есть время в понедельник?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "В 10 часов удобно?",
+      "answerText": "В"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "У меня есть время только в декабре.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Врачебный кабинет на выходных закрыт.",
+      "answerText": "на"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Я перезвоню вам через час.",
+      "answerText": "через"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Я жду записи уже две недели.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Пожалуйста, приходите за десять минут до приёма.",
+      "answerText": "до"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Можно поговорить с госпожой Вебер?",
+      "answerText": "поговорить"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "К сожалению, я должен отменить свою встречу.",
+      "answerText": "отменить"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Не могли бы вы мне перезвонить?",
+      "answerText": "перезвонить"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Я даю вам свой номер.",
+      "answerText": "даю"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Как пишется ваша фамилия?",
+      "answerText": "пишется"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "звонок",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "сообщение",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "время",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "мобильный телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Я хотел бы перенести встречу.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Когда у вас есть время?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Я позвоню завтра ещё раз.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Вам удобно в четверг в 9 часов?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "сообщение",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "встреча (запись)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "перезвонить",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "время",
+      "answerText": null
+    }
+  ]
+}

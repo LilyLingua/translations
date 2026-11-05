@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.611Z"
+  },
+  "title": "仕事の初日",
+  "instructions": {
+    "erster-arbeitstag-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "erster-arbeitstag-gap": "正しい形に印をつけなさい。",
+    "erster-arbeitstag-verbs": "正しい動詞を正しい形で入れなさい。",
+    "erster-arbeitstag-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "erster-arbeitstag-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "erster-arbeitstag-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "同僚",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "一緒に働いている男性。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "上司（女性）",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "チームをまとめています。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "休憩",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "仕事中の自由な時間。例えば食事のため。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "休暇",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "働かなくても給料がもらえる休みの日。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "残業時間",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "予定より多く働いた1時間。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "雇用契約",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "給料、勤務時間、休暇が書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "社員食堂",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "社員が会社で食事をするところ。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "こちらは私の新しい同僚です。",
+      "answerText": "私の"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "私の同僚を紹介してもいいですか？",
+      "answerText": "私の"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "チームと一緒に働くのが好きです。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "社員食堂で会いましょう。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "質問が一つあります。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "休憩はいつ始まりますか？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "上司に報告書を渡します。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "簡単に自己紹介してもいいですか？",
+      "answerText": "自己紹介しても"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "8時から16時まで働いています。",
+      "answerText": "働いています"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "トイレはどこにありますか？",
+      "answerText": "ありますか"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "チームではお互いにくだけた言葉で話します。",
+      "answerText": "くだけた言葉で話します"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "それを説明していただけますか？",
+      "answerText": "説明して"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "同僚",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "会社",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "オフィス",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "パソコン",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "会議",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "チーム",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "簡単に自己紹介してもいいですか？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "私はチームの新人です。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "昼休みはいつ始まりますか？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "それを説明していただけますか？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "同僚",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "会議",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "休暇",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "オフィス",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "残業時間",
+      "answerText": null
+    }
+  ]
+}

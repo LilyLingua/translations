@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:00.414Z"
+  },
+  "title": "เมินเชินกลัดบัค",
+  "instructions": {
+    "stadt-moenchengladbach-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-moenchengladbach-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-moenchengladbach-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-moenchengladbach-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-moenchengladbach-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-moenchengladbach-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-moenchengladbach-matching-1",
+      "translation": "โบรุสเซีย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-1:meaning",
+      "translation": "สโมสรฟุตบอลของเมือง สีดำ ขาว และเขียว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-2",
+      "translation": "ลูกม้า (ฟอเลิน)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-2:meaning",
+      "translation": "ชื่อเล่นของนักเตะโบรุสเซีย เพราะเมื่อก่อนทีมยังอายุน้อยมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-3",
+      "translation": "\"กลัดบัค\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-3:meaning",
+      "translation": "หลายคนเรียกเมินเชินกลัดบัคสั้น ๆ แบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-4",
+      "translation": "เมืองสิ่งทอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-4:meaning",
+      "translation": "เมื่อก่อนที่นี่มีคนจำนวนมากทำงานในโรงงานผ้าและเสื้อผ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-5",
+      "translation": "พิพิธภัณฑ์อาไทแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-5:meaning",
+      "translation": "พิพิธภัณฑ์ศิลปะสมัยใหม่ในอาคารที่มีเอกลักษณ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-6",
+      "translation": "ปราสาทไรดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-6:meaning",
+      "translation": "ปราสาทเก่ามีคูน้ำล้อมรอบ ในย่านไรดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-7",
+      "translation": "ฮอกกี้พาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-7:meaning",
+      "translation": "สนามฮอกกี้ขนาดใหญ่ ที่นี่เคยจัดการแข่งขันชิงแชมป์โลกปี 2006",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-1",
+      "translation": "วันเสาร์พวกเราไปสนามโบรุสเซียพาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-2",
+      "translation": "แฟน ๆ ร้องเพลงเชียร์ทีมลูกม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-3",
+      "translation": "ในโรงงาน ผู้คนเย็บเสื้อผ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-4",
+      "translation": "พวกเราไปเยี่ยมชมพิพิธภัณฑ์อาไทแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-5",
+      "translation": "รอบปราสาทมีคูน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-6",
+      "translation": "นักกีฬาวิ่งถือไม้ฮอกกี้ข้ามสนาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-7",
+      "translation": "เมินเชินกลัดบัคอยู่ใกล้ดึสเซลดอร์ฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-1",
+      "translation": "โบรุสเซียเล่นที่สนามโบรุสเซียพาร์ค",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-2",
+      "translation": "ชาวกลัดบัคหลายคนเป็นแฟนของทีมลูกม้า",
+      "answerText": "เป็น"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-3",
+      "translation": "เมื่อก่อนผู้คนจำนวนมากทำงานในโรงงานสิ่งทอ",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-4",
+      "translation": "พิพิธภัณฑ์จัดแสดงศิลปะสมัยใหม่",
+      "answerText": "จัดแสดง"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-5",
+      "translation": "สุดสัปดาห์พวกเราไปเที่ยวปราสาทไรดท์",
+      "answerText": "ไปเที่ยว"
+    },
+    {
+      "id": "stadt-moenchengladbach-table-1",
+      "translation": "ลูกม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-2",
+      "translation": "แฟนคลับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-3",
+      "translation": "โรงงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-4",
+      "translation": "ผ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-5",
+      "translation": "พิพิธภัณฑ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-6",
+      "translation": "ไม้ตี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-1",
+      "translation": "โบรุสเซียเล่นที่สนามโบรุสเซียพาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-2",
+      "translation": "คุณเป็นแฟนทีมลูกม้าด้วยไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-3",
+      "translation": "เมื่อก่อนที่นี่มีโรงงานมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-4",
+      "translation": "รอบปราสาทมีคูน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-1",
+      "translation": "โรงงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-2",
+      "translation": "พิพิธภัณฑ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-3",
+      "translation": "สนามกีฬา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-4",
+      "translation": "ทีม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-5",
+      "translation": "เสื้อผ้า",
+      "answerText": null
+    }
+  ]
+}

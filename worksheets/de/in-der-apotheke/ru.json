@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.640Z"
+  },
+  "title": "В аптеке",
+  "instructions": {
+    "in-der-apotheke-matching": "Соедините каждое слово с подходящим объяснением.",
+    "in-der-apotheke-gap": "Отметьте подходящее слово.",
+    "in-der-apotheke-verbs": "Вставьте правильный глагол в правильной форме.",
+    "in-der-apotheke-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "in-der-apotheke-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "in-der-apotheke-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Бумага от врача на лекарство.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Маленькое лекарство, которое глотают.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "сироп от кашля",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Жидкое лекарство от кашля.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "мазь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Её наносят на кожу.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "побочное действие",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Нежелательное действие лекарства.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "инструкция (вкладыш)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Листок в упаковке лекарства со всей информацией.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "доплата",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Небольшую сумму за рецепт вы платите сами.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "У меня есть рецепт от моего врача.",
+      "answerText": "рецепт"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "У вас есть что-нибудь от боли в горле?",
+      "answerText": "боли в горле"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Принимайте две таблетки в день.",
+      "answerText": "таблетки"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Мазь для кожи.",
+      "answerText": "кожи"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Пожалуйста, прочитайте инструкцию.",
+      "answerText": "инструкцию"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "У лекарства почти нет побочных действий.",
+      "answerText": "побочных действий"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "На выходных одна аптека работает в дежурном режиме.",
+      "answerText": "аптека"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "У меня со вчерашнего дня кашель.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Как часто мне принимать таблетки?",
+      "answerText": "принимать"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Мы закажем лекарство к завтрашнему дню.",
+      "answerText": "закажем"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Наносите мазь два раза в день.",
+      "answerText": "Наносите"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Пожалуйста, пейте много воды.",
+      "answerText": "пейте"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "лекарство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "мазь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "пластырь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "упаковка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "капля",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "У вас есть что-нибудь от кашля?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Как часто мне принимать таблетки?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Мне нужно лекарство от головной боли.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Нужен ли мне для этого рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "лекарство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "пластырь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "побочное действие",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "кашель",
+      "answerText": null
+    }
+  ]
+}

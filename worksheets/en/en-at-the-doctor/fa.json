@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:46.037Z"
+  },
+  "title": "نزد پزشک",
+  "instructions": {
+    "en-at-the-doctor-matching": "هر کلمه را به معنی‌اش وصل کن.",
+    "en-at-the-doctor-gap": "کلمهٔ درست را انتخاب کن.",
+    "en-at-the-doctor-verbs": "فعل درست را بنویس.",
+    "en-at-the-doctor-order": "کلمه‌ها را به ترتیب درست بچین و جمله را بنویس.",
+    "en-at-the-doctor-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزن."
+  },
+  "items": [
+    {
+      "id": "en-at-the-doctor-matching-1",
+      "translation": "نوبت",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-1:meaning",
+      "translation": "زمان مشخصی که پیش پزشک می‌روی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2",
+      "translation": "علامت بیماری",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2:meaning",
+      "translation": "نشانه‌ای که بیماری، مثلاً تب.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3",
+      "translation": "تب",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3:meaning",
+      "translation": "دمای خیلی بالای بدن.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4",
+      "translation": "اتاق انتظار",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4:meaning",
+      "translation": "اتاقی که پیش از دیدن پزشک در آن منتظر می‌مانی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5",
+      "translation": "کارت بیمه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5:meaning",
+      "translation": "کارتی که بیمهٔ درمانی تو را نشان می‌دهد.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6",
+      "translation": "گواهی استعلاجی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6:meaning",
+      "translation": "برگه‌ای از پزشک که می‌گوید نمی‌توانی کار کنی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-gap-1",
+      "translation": "می‌خواهم برای فردا نوبت بگیرم.",
+      "answerText": "نوبت"
+    },
+    {
+      "id": "en-at-the-doctor-gap-2",
+      "translation": "از دیروز تب دارم.",
+      "answerText": "تب"
+    },
+    {
+      "id": "en-at-the-doctor-gap-3",
+      "translation": "لطفاً در اتاق انتظار بنشینید.",
+      "answerText": "اتاق انتظار"
+    },
+    {
+      "id": "en-at-the-doctor-gap-4",
+      "translation": "کارت بیمه‌تان همراهتان است؟",
+      "answerText": "کارت"
+    },
+    {
+      "id": "en-at-the-doctor-gap-5",
+      "translation": "برای کارفرمایم گواهی استعلاجی لازم دارم.",
+      "answerText": "گواهی استعلاجی"
+    },
+    {
+      "id": "en-at-the-doctor-gap-6",
+      "translation": "چه علائمی دارید؟",
+      "answerText": "علائمی"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-1",
+      "translation": "گلویم درد می‌کند.",
+      "answerText": "درد می‌کند"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-2",
+      "translation": "خیلی احساس خستگی می‌کنم.",
+      "answerText": "احساس"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-3",
+      "translation": "پزشک فشار خونم را اندازه می‌گیرد.",
+      "answerText": "اندازه می‌گیرد"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-4",
+      "translation": "باید دو روز در رختخواب بمانید.",
+      "answerText": "بمانید"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-5",
+      "translation": "لطفاً عمیق نفس بکشید.",
+      "answerText": "نفس بکشید"
+    },
+    {
+      "id": "en-at-the-doctor-order-1",
+      "translation": "گلویم درد می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-2",
+      "translation": "کی می‌توانم بیایم؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-3",
+      "translation": "آیا نسخه لازم دارم؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-4",
+      "translation": "لطفاً هفتهٔ بعد دوباره بیایید.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-1",
+      "translation": "نوبت",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-2",
+      "translation": "دما",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-3",
+      "translation": "معده",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-4",
+      "translation": "بیمه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-5",
+      "translation": "پزشک",
+      "answerText": null
+    }
+  ]
+}

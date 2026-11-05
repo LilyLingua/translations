@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.506Z"
+  },
+  "title": "সুপারমার্কেটে",
+  "instructions": {
+    "im-supermarkt-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "im-supermarkt-gap": "উপযুক্ত প্যাকেট বা পরিমাণে চিহ্ন দিন।",
+    "im-supermarkt-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "im-supermarkt-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "im-supermarkt-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "im-supermarkt-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "শপিং ট্রলি",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "কেনাকাটার সময় এতে আপনি জিনিসপত্র রাখেন।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "পনিরের কাউন্টার",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "এখানে ওজন অনুযায়ী তাজা পনির পাওয়া যায়।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "বোতলের জামানত (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "খালি বোতলের জন্য যে টাকা আপনি ফেরত পান।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "বোতল ফেরতের মেশিন",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "এখানে আপনি খালি বোতল জমা দেন।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "অফার",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "কোনো পণ্য অল্প সময়ের জন্য সস্তা।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "ক্যাশ মেমো",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "এই কাগজে সব দাম লেখা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "ব্যাগ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "এতে করে আপনি কেনা জিনিস বাড়ি নিয়ে যান।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "আমি এক কাপ দই কিনি।",
+      "answerText": "কাপ"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "আরেক বোতল পানি, দয়া করে।",
+      "answerText": "বোতল"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "আমাদের এক প্যাকেট পাস্তা লাগবে।",
+      "answerText": "প্যাকেট"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "সসের জন্য আমি এক টিন টমেটো নিই।",
+      "answerText": "টিন"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "আমাকে 200 গ্রাম গাউডা দিন, দয়া করে।",
+      "answerText": "গ্রাম"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "এক টুকরো মাখনের দাম 2,29 ইউরো।",
+      "answerText": "টুকরো"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "আমি এক লিটার দুধ নিই।",
+      "answerText": "লিটার"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "আপনি কি আমার পাঁচ ইউরো ভাঙিয়ে দিতে পারবেন?",
+      "answerText": "ভাঙিয়ে"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "মাফ করবেন, ময়দা কোথায় পাব?",
+      "answerText": "পাব"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "আমি কার্ডে টাকা দিই।",
+      "answerText": "টাকা"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "আমাকে 200 গ্রাম গাউডা দিন।",
+      "answerText": "দিন"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "রবিবার প্রায় সব সুপারমার্কেট বন্ধ থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "বোতল",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "কাপ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "টিন",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "রুটি",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "আপেল",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "কলা",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "মাফ করবেন, ময়দা কোথায় পাব?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "আমার সঙ্গে একটা ব্যাগ আছে।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "আজ কলা অফারে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "বোতল ফেরতের মেশিন কোথায়?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "শপিং ট্রলি",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ক্যাশ মেমো",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "বোতলের জামানত",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "পনির",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "ছোট রুটি",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:38.557Z"
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-kiel-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-kiel-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-kiel-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-kiel-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-kiel-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "\"Förde\" (fyodi)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Mkono mrefu na mwembamba wa Bahari ya Baltiki unaoingia ndani sana ya nchi kavu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Wiki ya Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Sherehe kubwa ya mashua za tanga mwezi Juni yenye muziki na mashua kutoka duniani kote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "kivuko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Meli kubwa ya watu na magari, kwa mfano kwenda Norwe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Mfereji wa Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Njia ya maji ya kutengenezwa kati ya Bahari ya Kaskazini na Bahari ya Baltiki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "dagaa wa moshi wa Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Samaki mdogo wa kuvutwa moshi, wa kawaida Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"Moin moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Salamu ya kaskazini; wengine huona \"Moin\" mara mbili ni nyingi mno.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "kusafiri kwa tanga",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Kusafiri kwa mashua inayosukumwa na upepo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kiel iko kando ya Bahari ya Baltiki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Mwezi Juni tunasherehekea Wiki ya Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Tunaenda Oslo kwa kivuko.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Meli zinapita katika Mfereji wa Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Mwisho wa wiki tunasafiri kwa tanga kwenye fyodi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Ninanunua mfuko wa dagaa wa moshi wa Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Tunamtembeza mbwa ufukweni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Kivuko kinaenda Norwe kila siku.",
+      "answerText": "kinaenda"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Wakati wa Wiki ya Kiel mashua kutoka duniani kote zinasafiri.",
+      "answerText": "zinasafiri"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Meli nyingi zinatumia Mfereji wa Kiel.",
+      "answerText": "zinatumia"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Kaskazini watu husema \"Moin\".",
+      "answerText": "husema"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Ufukweni mara nyingi huvuma upepo mkali.",
+      "answerText": "huvuma"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "mashua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "kivuko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "samaki",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "ufukwe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "tanga",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "mfereji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kiel iko kando ya Bahari ya Baltiki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Mwezi Juni mji unasherehekea Wiki ya Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Unaenda Norwe kwa kivuko?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Mwisho wa wiki tunasafiri kwa tanga kwenye fyodi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "kivuko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "tanga",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "ufukwe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Bahari ya Baltiki",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "mfereji",
+      "answerText": null
+    }
+  ]
+}

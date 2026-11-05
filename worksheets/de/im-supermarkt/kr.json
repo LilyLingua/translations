@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.976Z"
+  },
+  "title": "마트에서",
+  "instructions": {
+    "im-supermarkt-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "im-supermarkt-gap": "알맞은 포장이나 양에 표시하세요.",
+    "im-supermarkt-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "im-supermarkt-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "im-supermarkt-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "im-supermarkt-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "쇼핑 카트",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "장을 볼 때 물건을 넣습니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "치즈 코너",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "신선한 치즈를 무게로 살 수 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "병 보증금(판트)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "빈 병을 돌려주면 돌려받는 돈.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "공병 반환기",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "여기에 빈 병을 반납합니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "할인 상품",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "어떤 상품이 짧은 기간 동안 더 쌉니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "영수증",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "이 종이에 모든 가격이 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "봉지",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "산 물건을 집으로 가져갑니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "요구르트 한 컵을 삽니다.",
+      "answerText": "컵"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "물도 한 병 주세요.",
+      "answerText": "병"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "파스타 한 봉지가 필요해요.",
+      "answerText": "봉지"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "소스용으로 토마토 한 캔을 삽니다.",
+      "answerText": "캔"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "고다 치즈 200그램 주세요.",
+      "answerText": "그램"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "버터 한 덩어리는 2.29유로예요.",
+      "answerText": "덩어리"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "우유 1리터를 살게요.",
+      "answerText": "리터"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "5유로를 바꿔 주실 수 있어요?",
+      "answerText": "바꿔"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "실례지만, 밀가루는 어디에서 찾을 수 있어요?",
+      "answerText": "찾을"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "카드로 계산할게요.",
+      "answerText": "계산할게요"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "고다 치즈 200그램 주세요.",
+      "answerText": "주세요"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "일요일에는 거의 모든 마트가 문을 닫습니다.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "병",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "컵",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "캔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "빵",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "사과",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "바나나",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "실례지만, 밀가루는 어디에서 찾을 수 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "가방을 가져왔어요.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "오늘 바나나가 할인 중이에요.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "공병 반환기는 어디에 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "쇼핑 카트",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "영수증",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "병 보증금",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "치즈",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "작은 빵",
+      "answerText": null
+    }
+  ]
+}

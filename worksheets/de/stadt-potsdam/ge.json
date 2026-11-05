@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:20.862Z"
+  },
+  "title": "პოტსდამი",
+  "instructions": {
+    "stadt-potsdam-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-potsdam-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-potsdam-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-potsdam-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-potsdam-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-potsdam-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "სან-სუსი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "ფრიდრიხ დიდის სასახლე; სახელი ფრანგულად ნიშნავს „უდარდელს“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "„მოხუცი ფრიცი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "პრუსიის მეფე ფრიდრიხ II-ის მეტსახელი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "კარტოფილი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "მოხუცმა ფრიცმა პრუსიაში გაავრცელა; ხალხი მის საფლავზე კარტოფილს დებს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "ჰოლანდიური უბანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "უბანი წითელი აგურის სახლებით ჰოლანდიურ სტილში.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "ბაბელსბერგი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "აქ დიდი კინოსტუდიებია; ბევრ ფილმს აქ იღებენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "გლინიკეს ხიდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "ხიდი ბერლინისკენ; ცივი ომის დროს აქ ჯაშუშებს ცვლიდნენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "ჰაველი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "მდინარე მრავალი ტბით პოტსდამის გარშემო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "სან-სუსის სასახლეს ვსტუმრობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "მოხუცი ფრიცის საფლავზე კარტოფილი დევს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "ჰოლანდიურ უბანში ვსეირნობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "ბაბელსბერგში ახალ ფილმს იღებენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "ჰაველზე ნავით ვსეირნობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "პოტსდამი დედაქალაქ ბერლინის გვერდით მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "გლინიკეს ხიდი ჰაველზეა გადებული.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "ფრიდრიხ დიდს უყვარდა სან-სუსიში ცხოვრება.",
+      "answerText": "უყვარდა"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "სტუმრები მის საფლავზე კარტოფილს დებენ.",
+      "answerText": "დებენ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "ბაბელსბერგში ბევრ ფილმს იღებენ.",
+      "answerText": "იღებენ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "ელექტრომატარებლით ბერლინში სწრაფად ჩახვალ.",
+      "answerText": "ჩახვალ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "1945 წელს ცეცილიენჰოფის სასახლეში პოტსდამის კონფერენცია გაიმართა.",
+      "answerText": "გაიმართა"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "სასახლე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "მეფე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "კარტოფილი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "სტუდია",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "ფილმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "საფლავი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "მოხუცი ფრიცი სან-სუსიში ცხოვრობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "მის საფლავზე ყოველთვის კარტოფილი დევს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "ბაბელსბერგის კინოპარკში უკვე ყოფილხარ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "პოტსდამი ბერლინის გვერდით მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "მეფე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "კარტოფილი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "სასახლე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "ფილმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "ბაღი",
+      "answerText": null
+    }
+  ]
+}

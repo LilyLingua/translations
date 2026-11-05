@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:22.102Z"
+  },
+  "title": "Хановер",
+  "instructions": {
+    "stadt-hannover-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-hannover-gap": "Означи тачну реч.",
+    "stadt-hannover-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-hannover-table": "Упиши члан и облик множине.",
+    "stadt-hannover-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-hannover-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "сајам",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Велика изложба за фирме; Хановер има огроман сајамски простор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "Машзе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Вештачко језеро у граду за једрење, трчање и славља.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "Црвена нит",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Црвена линија на тлу; води до знаменитости.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "стандардни немачки",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "Стандардни језик; у Хановеру се говори посебно јасно.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "„Lüttje Lage“ (Литје Лаге)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Пиво и ракија из две чаше које се пију истовремено.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "стрељачка светковина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Веома велика народна светковина лети са дугом поворком.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "„Nana“ (Нана)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Велика, шарена женска фигура на обали реке Лајне, дело Ники де Сен Фал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Пратимо Црвену нит кроз град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "Лети много људи трчи око Машзеа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Фирма излаже на сајму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Лифтом се пењемо у куполу већнице.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Нане стоје поред Лајне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Посећујемо вртове Херенхаузен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "Он проба Литје Лаге.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "Црвена нит води до многих знаменитости.",
+      "answerText": "води"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "У Новој већници коси лифт иде горе у куполу.",
+      "answerText": "иде"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Многе фирме показују своје производе на сајму.",
+      "answerText": "показују"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "Људи у Хановеру говоре веома јасан стандардни немачки.",
+      "answerText": "говоре"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "Године 2000. у Хановеру је одржана светска изложба Експо.",
+      "answerText": "одржана"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "сајам",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "врт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "нит",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "фигура",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "већница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "лифт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "Црвена нит води кроз центар града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "Лети много људи једри на Машзеу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Да ли идеш лифтом горе у куполу?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "У Хановеру се говори јасан стандардни немачки.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "сајам",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "знаменитост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "лифт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "фигура",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "купола",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.182Z"
+  },
+  "title": "مهدکودک و مدرسه",
+  "instructions": {
+    "kita-und-schule-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "kita-und-schule-gap": "کلمه مناسب را علامت بزنید.",
+    "kita-und-schule-verbs": "فعل درست را به شکل درست بنویسید.",
+    "kita-und-schule-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "kita-und-schule-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "kita-und-schule-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "جلسه اولیا",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "دیدار والدین با معلمان.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "مهدکودک",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "اینجا در طول روز از بچه‌های کوچک نگهداری می‌کنند.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "معلم کلاس (زن)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "او مسئول یک کلاس است.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "کارنامه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "نمره‌های پایان سال تحصیلی در آن نوشته شده است.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "نامه غیبت موجه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "نامه‌ای کوتاه به مدرسه وقتی فرزندتان بیمار بوده است.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "تعطیلات",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "زمانی بدون مدرسه، مثلاً در تابستان.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "اردو (گردش علمی)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "کلاس با هم به جای دیگری می‌رود.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "پسرم بیمار است. امروز نمی‌تواند به مدرسه بیاید.",
+      "answerText": "مدرسه"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "در جلسه اولیا والدین با معلم صحبت می‌کنند.",
+      "answerText": "جلسه اولیا"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "بچه‌ها در تابستان شش هفته تعطیلات دارند.",
+      "answerText": "تعطیلات"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "دخترم در پایان سال تحصیلی یک کارنامه می‌گیرد.",
+      "answerText": "کارنامه"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "برای معلم یک نامه غیبت می‌نویسم، چون فرزندم بیمار بود.",
+      "answerText": "نامه غیبت"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "بچه‌ها باید هر روز تکالیف را انجام دهند.",
+      "answerText": "تکالیف"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "فرزندم سه ساله است و به مهدکودک می‌رود.",
+      "answerText": "مهدکودک"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "فرزندم را ساعت ۱۶ می‌برم خانه.",
+      "answerText": "می‌برم"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "دخترم امروز متأسفانه بیمار است.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "می‌توانیم یک وقت ملاقات بگذاریم؟",
+      "answerText": "بگذاریم"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "کلاس‌ها ساعت ۸ شروع می‌شوند.",
+      "answerText": "شروع می‌شوند"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "لطفاً فرم را تا جمعه امضا کنید.",
+      "answerText": "امضا کنید"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "کودک",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "کلاس",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "معلم",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "دفتر",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "نمره",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "خودکار",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "پسرم امروز بیمار است.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "جلسه اولیا کی شروع می‌شود؟",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "دخترم را ساعت ۱۵ از مدرسه برمی‌دارم.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "فرزندم برای اردو چیزی لازم دارد؟",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "جلسه اولیا",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "کارنامه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "نامه غیبت موجه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "تکالیف",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "معلم کلاس",
+      "answerText": null
+    }
+  ]
+}

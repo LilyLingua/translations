@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.179Z"
+  },
+  "title": "Affittare un appartamento",
+  "instructions": {
+    "wohnung-mieten-matching": "Collega ogni parola alla spiegazione giusta.",
+    "wohnung-mieten-gap": "Segna la forma corretta dell'articolo.",
+    "wohnung-mieten-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "wohnung-mieten-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "wohnung-mieten-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "wohnung-mieten-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "l'affitto",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "I soldi che paghi ogni mese per l'appartamento.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "la cauzione",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Soldi che il padrone di casa riceve all'inizio come garanzia.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "le spese accessorie",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Spese per acqua, riscaldamento e rifiuti.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "il contratto d'affitto",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Il contratto tra inquilino e padrone di casa.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "la visita dell'appartamento",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Guardi l'appartamento prima di affittarlo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "il custode",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Si occupa del palazzo e ripara piccole cose.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "il regolamento condominiale",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Le regole per tutti gli abitanti, per esempio le ore di silenzio.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Cerchiamo un appartamento con balcone.",
+      "answerText": "un"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Parlo con il padrone di casa.",
+      "answerText": "il"
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Do la cauzione alla padrona di casa.",
+      "answerText": "alla"
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Metto la bici nel cortile.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "La chiave è sul tavolo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Il riscaldamento della cucina è guasto.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Abito in questo appartamento da un anno.",
+      "answerText": "questo"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Quando posso vedere l'appartamento?",
+      "answerText": "vedere"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "L'affitto costa 850 euro spese incluse.",
+      "answerText": "costa"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Ci trasferiamo il 1° dicembre.",
+      "answerText": "trasferiamo"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Il riscaldamento è guasto. Può ripararlo, per favore?",
+      "answerText": "ripararlo"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Per favore, faccia la raccolta differenziata.",
+      "answerText": "faccia"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "la stanza",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "la cucina",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "il balcone",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "il bagno",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "la chiave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "il riscaldamento",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "L'appartamento è ancora libero?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "A quanto ammontano le spese accessorie?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Quando posso vedere l'appartamento?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Vorrei affittare l'appartamento.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "cauzione",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "spese accessorie",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balcone",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "chiave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "riscaldamento",
+      "answerText": null
+    }
+  ]
+}

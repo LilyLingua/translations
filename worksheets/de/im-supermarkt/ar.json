@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.392Z"
+  },
+  "title": "في السوبرماركت",
+  "instructions": {
+    "im-supermarkt-matching": "صِل كل كلمة بالشرح المناسب.",
+    "im-supermarkt-gap": "ضع علامة على العبوة أو الكمية المناسبة.",
+    "im-supermarkt-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "im-supermarkt-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "im-supermarkt-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "im-supermarkt-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "عربة التسوق",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "تضع فيها البضائع أثناء التسوق.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "قسم الأجبان",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "هنا تحصل على جبن طازج بالوزن.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "رهن العبوات (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "مال تسترده مقابل الزجاجات الفارغة.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "آلة إرجاع الزجاجات",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "هنا تعيد الزجاجات الفارغة.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "العرض الخاص",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "منتج أرخص لفترة قصيرة.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "إيصال الشراء",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "على هذه الورقة كل الأسعار.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "الكيس",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "تحمل فيه مشترياتك إلى البيت.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "أشتري علبة زبادي.",
+      "answerText": "علبة"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "وزجاجة ماء أيضًا من فضلك.",
+      "answerText": "زجاجة"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "نحتاج إلى كيس معكرونة.",
+      "answerText": "كيس"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "للصلصة آخذ علبة طماطم.",
+      "answerText": "علبة"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "أريد 200 غرام من جبن غودا من فضلك.",
+      "answerText": "غرام"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "قطعة الزبدة بسعر 2,29 يورو.",
+      "answerText": "قطعة"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "آخذ لتر حليب.",
+      "answerText": "لتر"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "هل يمكنك أن تصرف لي خمسة يوروهات؟",
+      "answerText": "تصرف"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "عفوًا، أين أجد الدقيق؟",
+      "answerText": "أجد"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "أدفع بالبطاقة.",
+      "answerText": "أدفع"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "أريد 200 غرام من جبن غودا.",
+      "answerText": "أريد"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "يوم الأحد تكون كل محلات السوبرماركت تقريبًا مغلقة.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "الزجاجة",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "علبة الزبادي",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "العلبة المعدنية",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "الخبز",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "التفاحة",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "الموزة",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "عفوًا، أين أجد الدقيق؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "معي حقيبة.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "الموز اليوم عليه عرض خاص.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "أين آلة إرجاع الزجاجات؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "عربة التسوق",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "إيصال الشراء",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "رهن العبوات",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "جبن",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "خبز صغير",
+      "answerText": null
+    }
+  ]
+}

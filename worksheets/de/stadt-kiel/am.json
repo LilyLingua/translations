@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:04.655Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-kiel-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-kiel-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-kiel-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-kiel-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-kiel-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Förde“ (ጠባብ የባሕር ወሽመጥ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "ወደ የብሱ ርቆ የሚገባ ረጅምና ጠባብ የባልቲክ ባሕር ክንድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Kieler Woche (የKiel ሳምንት)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "በጁን የሚደረግ፣ ሙዚቃና ከዓለም ዙሪያ የመጡ ጀልባዎች ያሉበት ትልቅ የሸራ ጀልባ በዓል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "የመሻገሪያ መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "ሰዎችንና መኪናዎችን የሚያጓጉዝ ትልቅ መርከብ፣ ለምሳሌ ወደ ኖርዌይ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Nord-Ostsee-Kanal (የKiel ቦይ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "በሰሜን ባሕርና በባልቲክ ባሕር መካከል ያለ ሰው ሠራሽ የውሃ መንገድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "Kieler Sprotte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "ለKiel የተለመደ፣ በጭስ የተጠበሰ ትንሽ ዓሣ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Moin moin!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "የሰሜን ጀርመን ሰላምታ፤ አንዳንድ ሰዎች „Moin“ን ሁለት ጊዜ ማለት ይበዛል ብለው ያስባሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "በሸራ መጓዝ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "በነፋስ በሚንቀሳቀስ ጀልባ መጓዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kiel በባልቲክ ባሕር ዳርቻ ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "በጁን Kieler Woche እናከብራለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "በመሻገሪያ መርከብ ወደ ኦስሎ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "መርከቦቹ በNord-Ostsee-Kanal በኩል ያልፋሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "ቅዳሜና እሁድ በFörde ላይ በሸራ ጀልባ እንጓዛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "አንድ ፓኬት Kieler Sprotten እገዛለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "በባሕር ዳርቻው ላይ ውሻውን እናንሸራሽራለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "የመሻገሪያ መርከቡ በየቀኑ ወደ ኖርዌይ ይሄዳል።",
+      "answerText": "ይሄዳል"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "በKieler Woche ወቅት ከዓለም ዙሪያ የመጡ ጀልባዎች በሸራ ይጓዛሉ።",
+      "answerText": "ይጓዛሉ"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "ብዙ መርከቦች Nord-Ostsee-Kanalን ይጠቀማሉ።",
+      "answerText": "ይጠቀማሉ"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "በሰሜን ሰዎች „Moin“ ይላሉ።",
+      "answerText": "ይላሉ"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "በባሕር ዳርቻው ብዙ ጊዜ ኃይለኛ ነፋስ ይነፍሳል።",
+      "answerText": "ይነፍሳል"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "ጀልባ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "የመሻገሪያ መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "ዓሣ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "የባሕር ዳርቻ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "ሸራ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "ቦይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kiel በባልቲክ ባሕር ዳርቻ ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "በጁን ከተማዋ Kieler Woche ታከብራለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "በመሻገሪያ መርከብ ወደ ኖርዌይ ትሄዳለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "ቅዳሜና እሁድ በFörde ላይ በሸራ ጀልባ እንጓዛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "የመሻገሪያ መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "ሸራ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "የባሕር ዳርቻ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "ባልቲክ ባሕር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "ቦይ",
+      "answerText": null
+    }
+  ]
+}

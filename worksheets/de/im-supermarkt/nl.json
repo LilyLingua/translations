@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.514Z"
+  },
+  "title": "In de supermarkt",
+  "instructions": {
+    "im-supermarkt-matching": "Verbind elk woord met de juiste uitleg.",
+    "im-supermarkt-gap": "Kruis de passende verpakking of hoeveelheid aan.",
+    "im-supermarkt-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "im-supermarkt-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "im-supermarkt-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "im-supermarkt-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "het winkelwagentje",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Hierin legt u de boodschappen tijdens het winkelen.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "de kaasafdeling",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Hier krijgt u verse kaas op gewicht.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "het statiegeld",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Geld dat u terugkrijgt voor lege flessen.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "de statiegeldautomaat",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Hier levert u lege flessen in.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "de aanbieding",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Een product is korte tijd goedkoper.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "de kassabon",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Op dit papiertje staan alle prijzen.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "de tas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Hierin draagt u de boodschappen naar huis.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Ik koop een beker yoghurt.",
+      "answerText": "beker"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Nog een fles water, alstublieft.",
+      "answerText": "fles"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "We hebben een pak pasta nodig.",
+      "answerText": "pak"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Voor de saus neem ik een blik tomaten.",
+      "answerText": "blik"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Ik wil graag 200 gram gouda, alstublieft.",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Een pakje boter kost 2,29 euro.",
+      "answerText": "pakje"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Ik neem een liter melk.",
+      "answerText": "liter"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Kunt u vijf euro voor mij wisselen?",
+      "answerText": "wisselen"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Pardon, waar vind ik bloem?",
+      "answerText": "vind"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Ik betaal met de kaart.",
+      "answerText": "betaal"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Ik wil graag 200 gram gouda.",
+      "answerText": "wil"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Op zondag zijn bijna alle supermarkten gesloten.",
+      "answerText": "zijn"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "de fles",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "de beker",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "het blik",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "het brood",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "de appel",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "de banaan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Pardon, waar vind ik bloem?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Ik heb een tas bij me.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "De bananen zijn vandaag in de aanbieding.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Waar is de statiegeldautomaat?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "winkelwagentje",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "kassabon",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "statiegeld",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "kaas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "broodje",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:38.747Z"
+  },
+  "title": "Im Supermarkt",
+  "instructions": {
+    "es-en-el-super-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-en-el-super-gap": "Wähle das richtige Wort.",
+    "es-en-el-super-verbs": "Schreib das richtige Verb.",
+    "es-en-el-super-order": "Ordne die Wörter und schreib den Satz.",
+    "es-en-el-super-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-en-el-super-matching-1",
+      "translation": "der Einkaufswagen",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-1:meaning",
+      "translation": "Ein großer Korb auf Rädern für deinen Einkauf.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-2",
+      "translation": "die Kasse",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-2:meaning",
+      "translation": "Der Ort, an dem du bezahlst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-3",
+      "translation": "der Gang",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-3:meaning",
+      "translation": "Ein langer Weg zwischen den Regalen.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-4",
+      "translation": "der Kassenbon",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-4:meaning",
+      "translation": "Ein Zettel, der zeigt, was du gekauft hast.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-5",
+      "translation": "der Kassierer / die Kassiererin",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-5:meaning",
+      "translation": "Die Person, die an der Kasse kassiert.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-6",
+      "translation": "die Tüte",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-6:meaning",
+      "translation": "Darin trägst du deinen Einkauf nach Hause.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-gap-1",
+      "translation": "Ich brauche einen Liter Milch.",
+      "answerText": "Milch"
+    },
+    {
+      "id": "es-en-el-super-gap-2",
+      "translation": "Das Brot ist in Gang fünf.",
+      "answerText": "Gang"
+    },
+    {
+      "id": "es-en-el-super-gap-3",
+      "translation": "Möchten Sie eine Tüte für Ihren Einkauf?",
+      "answerText": "Tüte"
+    },
+    {
+      "id": "es-en-el-super-gap-4",
+      "translation": "Bitte zahlen Sie an der Kasse.",
+      "answerText": "Kasse"
+    },
+    {
+      "id": "es-en-el-super-gap-5",
+      "translation": "Hier ist Ihr Kassenbon. Schönen Tag!",
+      "answerText": "Kassenbon"
+    },
+    {
+      "id": "es-en-el-super-gap-6",
+      "translation": "Ich lege die Äpfel in den Einkaufswagen.",
+      "answerText": "Einkaufswagen"
+    },
+    {
+      "id": "es-en-el-super-verbs-1",
+      "translation": "Wie viel kosten die Äpfel?",
+      "answerText": "kosten"
+    },
+    {
+      "id": "es-en-el-super-verbs-2",
+      "translation": "Ich zahle mit Karte.",
+      "answerText": "zahle"
+    },
+    {
+      "id": "es-en-el-super-verbs-3",
+      "translation": "Wir brauchen Eier und Brot.",
+      "answerText": "brauchen"
+    },
+    {
+      "id": "es-en-el-super-verbs-4",
+      "translation": "Entschuldigung, wo finde ich den Reis?",
+      "answerText": "finde"
+    },
+    {
+      "id": "es-en-el-super-verbs-5",
+      "translation": "Der Laden schließt um zehn.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "es-en-el-super-order-1",
+      "translation": "Wo ist der Reis?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-2",
+      "translation": "Ich brauche eine Tüte.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-3",
+      "translation": "Kann ich mit Karte zahlen?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-4",
+      "translation": "Die Milch ist in Gang drei.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-1",
+      "translation": "Gemüse",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-2",
+      "translation": "Hähnchen",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-3",
+      "translation": "Käse",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-4",
+      "translation": "Tortillas",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-5",
+      "translation": "Ei",
+      "answerText": null
+    }
+  ]
+}

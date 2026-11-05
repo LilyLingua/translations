@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Ma tahaksin end registreerida."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Ma võtan järjekorranumbri."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – teenindaja 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Ma tahaksin oma uue korteri registreerida."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Siin on minu üürileandja kinnitus."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Siin on minu pass."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Ma veerin: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Ma olen vallaline."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Kuhu ma pean alla kirjutama?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Kas mul on veel midagi vaja?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Ma kolisin! Uus korter, uus linn …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! Ja – kas sa oled end juba registreerinud?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Registreerinud? Kus? Jõusaalis?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Ei, Leo. Ametiasutuses! Täna läbid sa terve vastuvõtu „Bürgeramt“-is – sissepääsust elukoha registreerimise tõendini."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Ja igas olukorras küsime sinult: mida sa ütled?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Ja sul on ainult viis sekundit!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Sa jõuad kodanike teenindusse. Infoletis istub mees."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Tere hommikust. Mis teie asi on?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Tere hommikust. Ma tahaksin end registreerida."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Ma olen asi."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Ma tahan ametit."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ tähendab: miks te siin olete? Mida te vajate?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Ametiasutustes kuuled sa seda sõna väga tihti."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Tere hommikust. Ma tahaksin end registreerida."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Kas teil on aeg broneeritud?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Jah, kell üheksa."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Ma tahaksin end registreerida."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Mul on aeg kell üheksa."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Hästi. Võtke siis palun järjekorranumber ja oodake seal."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Mida sa nüüd teed?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Sa kolid."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Sa tõmbad kedagi juustest."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Sa võtad automaadist numbriga pileti."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Niisiis A! Ma kolin. Ma ju just kolisingi …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Ei, Leo. C! „Eine Nummer ziehen“ tähendab: sa võtad oma järjekorranumbriga pileti. „Umziehen“"
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "on hoopis midagi muud – see tähendab: uude korterisse kolimist."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Ma võtan numbri."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Sa ootad. Äkki kuuled teadaannet. Kuula hoolega!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Number 147, palun teenindajale 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Sinu number on 147. Kuhu sa lähed?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Teenindajale 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Teenindajale 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Ruumi 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Kõigepealt tuleb sinu number, siis teenindaja koht."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Paljudes asutustes näidatakse seda ka ekraanil."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – teenindaja 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Sa lähed teenindaja 12 juurde. Seal istub naine."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Tere hommikust. Palun võtke istet. Kuidas saan teid aidata?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Ma tahaksin teid registreerida."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Ma tahaksin oma uue korteri registreerida."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Ma elan nüüd siin. Head aega!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Sa registreerid oma korteri – või iseenda: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Aga mitte „Sie“ (teid) – proua Krüger on juba registreeritud."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Ma tahaksin oma uue korteri registreerida."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Muidugi. Millal te sisse kolisite?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Esimesel oktoobril."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Ma tahaksin oma uue korteri registreerida."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Ma kolisin sisse esimesel oktoobril."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Kas teil on üürileandja kinnitus kaasas?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, pikk sõna! Mida sa ütled?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Ei, ma ei anna korterit."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Jah, ma annan teile oma korteri."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Jah, siin on minu üürileandja kinnitus."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ on vorm sinu üürileandjalt. See kinnitab, et sa elad tõesti selles korteris."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Ilma selle paberita registreerimine tavaliselt ei õnnestu."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Jah, siin on minu üürileandja kinnitus."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Siin on minu üürileandja kinnitus."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Ja teie isikutunnistus või pass, palun."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Siin on minu pass."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Siin on minu passid."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Ma olen pass."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Üks pass – seega „ist“ (on), mitte „sind“ (on, mitmus). Ametiasutustes on sul peaaegu alati vaja passi või isikutunnistust."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Ja kui sa unustasid selle, ütle ausalt: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Vabandust, ma kahjuks unustasin selle.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Siin on minu pass."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Siin on minu pass."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Vabandust, ma kahjuks unustasin selle."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Kuidas teie perekonnanimi kirjutatakse?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Sinu nimi on Nowak. Mida sa ütled?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Pastakaga."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Ma veerin: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Te kirjutate seda väga ilusti."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ tähendab: millised tähed? Siis sa veerid – täht-tähe haaval."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Harjuta oma nime saksa keeles, seda läheb sul igal pool vaja!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Aitäh."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Ma veerin: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Kas te olete abielus?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Sa ei ole abielus. Mida sa ütled?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Ei, ma olen vallaline."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Ei, ma olen kahjuks."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Ei, ma olen abielluma."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ tähendab: mitte abielus. Ettevaatust: „leider“ kõlab sarnaselt, aga tähendab hoopis muud – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "tähendab: kahjuks."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Ei, ma olen vallaline."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Ma olen vallaline."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Ma olen abielus."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Palun kontrollige andmeid. Kui kõik on õige, kirjutage palun siia alla."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Ma kirjutan selle laua alla."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Mulle ei meeldi allkirja anda."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Kõik on õige. Kuhu täpselt ma pean alla kirjutama?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ tähendab: oma nime käsitsi kirjutamist – sinu allkiri."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Ja hea teada: loe alati kõigepealt läbi, mis vormil kirjas on."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Kõik on õige. Kuhu täpselt ma pean alla kirjutama?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Siia alla, palun."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Kuhu ma pean alla kirjutama?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Nii, ongi kõik. Siin on teie elukoha registreerimise tõend."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Sa oled valmis! Mida sa ütled?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Aitäh, ma annan endast teada."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Suur aitäh! Kas mul on veel midagi vaja?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Mul ei ole midagi viga!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Ja ettevaatust A-ga: „Ich melde mich“ ei tähenda „ma registreerin end“, vaid: ma helistan teile hiljem."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Ja C-d mäletad sa ehk veel – see sobib ainult arsti juures!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Suur aitäh! Kas mul on veel midagi vaja?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Ei, see on kõik. Hoidke tõendit kindlas kohas."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Kas mul on veel midagi vaja?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Kolm nõuannet registreerimise kohta. Esiteks: registreeri end kahe nädala jooksul pärast sissekolimist."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Teiseks: paljudes linnades on vaja broneerida aeg – sageli saad seda teha internetis."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Ja kolmandaks: elukoha registreerimise tõendit läheb sul sageli jälle vaja, näiteks pangakonto jaoks."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Nii et hoia see alles!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Ametiasutustes kõlab saksa keel mõnikord väga keeruliselt. Leo loeb ette – ja mina ütlen selle lihtsalt."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Mis teie asi on?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Mida te vajate?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Palun hoidke oma dokumendid valmis."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Palun hoidke oma paberid käes."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Täitke vorm täielikult."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Kirjutage igale poole midagi."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Menetlus kestab umbes kaks nädalat."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "See võtab umbes kaks nädalat."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Palun esitage dokumendid hiljem."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Palun tooge paberid hiljem."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Täna ma vahetan riideid!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Oh, sa paned teised riided selga? Või mõtled sa: „Ich ziehe um“ – ma kolin uude korterisse?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Ja ametiasutuses: mitte „Ich bin leider“, vaid „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(ma olen vallaline) – kui sa ei ole abielus."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Ja „Ich melde mich“ tähendab: ma helistan hiljem. Ametiasutuses ütled sa: „Ich melde mich an.“ (Ma registreerin end.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Ja nüüd kõik veel kord. Kümme kõige tähtsamat lauset. Korda minu järel!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Ma tahaksin end registreerida."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Mul on aeg kell üheksa."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Ma võtan numbri."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Ma tahaksin oma uue korteri registreerida."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Siin on minu üürileandja kinnitus."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Siin on minu pass."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Ma veerin oma nime."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Ma olen vallaline."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Kuhu ma pean alla kirjutama?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Kas mul on veel midagi vaja?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Milline sõna oli sinu jaoks kõige raskem? Kirjuta see kommentaaridesse!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Head aega ja kohtumiseni LilyLinguas!"
+    }
+  ]
+}

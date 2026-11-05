@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Chciałbym się zameldować."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Pobieram numerek."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – stanowisko 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Chciałbym zameldować nowe mieszkanie."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Oto zaświadczenie od mojego wynajmującego."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Oto mój paszport."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Przeliteruję: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Jestem stanu wolnego."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Gdzie mam podpisać?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Czy potrzebuję jeszcze czegoś?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Przeprowadziłem się! Nowe mieszkanie, nowe miasto…"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! A… zameldowałeś się już?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Zameldowałem? Gdzie? W siłowni?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Nie, Leo. W urzędzie! Dziś przeżyjesz całą wizytę w „Bürgeramt“ – od wejścia do zaświadczenia o zameldowaniu."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "I w każdej sytuacji pytamy cię: Co mówisz?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "A masz tylko pięć sekund!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Wchodzisz do urzędu. Przy punkcie informacyjnym siedzi mężczyzna."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Dzień dobry. W jakiej sprawie?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Dzień dobry. Chciałbym się zameldować."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Jestem sprawą."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Chcę urząd."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ znaczy: Dlaczego pan tu jest? Czego pan potrzebuje?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "W urzędzie usłyszysz to słowo bardzo często."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Dzień dobry. Chciałbym się zameldować."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Ma pan umówioną wizytę?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Tak, na dziewiątą."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Chciałbym się zameldować."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Mam wizytę o dziewiątej."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Dobrze. W takim razie proszę pobrać numerek i poczekać tam."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Co teraz robisz?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Przeprowadzasz się."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Ciągniesz kogoś za włosy."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Bierzesz z automatu karteczkę z numerem."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "No to A! Przeprowadzam się. Przecież dopiero się przeprowadziłem…"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Nie, Leo. C! „Eine Nummer ziehen“ znaczy: bierzesz karteczkę z numerkiem. „Umziehen“"
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "to coś zupełnie innego – to znaczy: przeprowadzić się do nowego mieszkania."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Pobieram numerek."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Czekasz. Nagle słyszysz komunikat. Słuchaj uważnie!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Numer 147 proszony do stanowiska 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Twój numer to 147. Dokąd idziesz?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Do stanowiska 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Do stanowiska 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Do pokoju 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Najpierw jest twój numer, potem stanowisko."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "W wielu urzędach widać to też na ekranie."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – stanowisko 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Idziesz do stanowiska 12. Siedzi tam kobieta."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Dzień dobry. Proszę usiąść. W czym mogę pomóc?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Chciałbym panią zameldować."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Chciałbym zameldować nowe mieszkanie."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Teraz tu mieszkam. Do widzenia!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Meldujesz mieszkanie – albo siebie: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Ale nie „Sie“ (panią) – pani Krüger jest już zameldowana."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Chciałbym zameldować nowe mieszkanie."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Oczywiście. Kiedy się pan wprowadził?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Pierwszego października."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Chciałbym zameldować nowe mieszkanie."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Wprowadziłem się pierwszego października."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Ma pan zaświadczenie od wynajmującego?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Ojej, długie słowo! Co mówisz?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Nie, nie daję żadnego mieszkania."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Tak, daję pani moje mieszkanie."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Tak, oto zaświadczenie od mojego wynajmującego."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ to formularz od wynajmującego. Potwierdza, że naprawdę mieszkasz w tym mieszkaniu."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Bez tego papieru zameldowanie zwykle nie jest możliwe."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Tak, oto zaświadczenie od mojego wynajmującego."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Oto zaświadczenie od mojego wynajmującego."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "I dowód osobisty albo paszport, proszę."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Oto mój paszport."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Oto są mój paszport."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Jestem paszport."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Jeden paszport – więc „ist“, a nie „sind“. W urzędzie prawie zawsze potrzebujesz paszportu albo dowodu."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "A jeśli go zapomniałeś, powiedz szczerze: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Przepraszam, niestety go zapomniałem.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Oto mój paszport."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Oto mój paszport."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Przepraszam, niestety go zapomniałem."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Jak się pisze pana nazwisko?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Nazywasz się Nowak. Co mówisz?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Długopisem."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Przeliteruję: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Pisze się je bardzo ładnie."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ znaczy: Jakie litery? Wtedy literujesz – litera po literze."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Poćwicz swoje nazwisko po niemiecku, przyda się wszędzie!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Dziękuję."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Przeliteruję: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Jest pan żonaty?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Nie jesteś w związku małżeńskim. Co mówisz?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Nie, jestem stanu wolnego."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Nie, jestem niestety."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Nie, jestem żenić."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ znaczy: stanu wolnego, bez ślubu. Uwaga: „leider“ brzmi podobnie, ale znaczy coś zupełnie innego – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "to: niestety."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Nie, jestem stanu wolnego."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Jestem stanu wolnego."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Jestem żonaty / zamężna."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Proszę sprawdzić dane. Jeśli wszystko się zgadza, proszę tu podpisać."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Piszę to pod stołem."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Nie lubię podpisywać."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Wszystko się zgadza. Gdzie dokładnie mam podpisać?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ znaczy: napisać swoje nazwisko ręcznie – twój podpis."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "I dobra rada: zawsze najpierw przeczytaj, co jest w formularzu."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Wszystko się zgadza. Gdzie dokładnie mam podpisać?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Tutaj na dole, proszę."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Gdzie mam podpisać?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "No, to wszystko. Oto pana zaświadczenie o zameldowaniu."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Gotowe! Co mówisz?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Dziękuję, odezwę się."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Dziękuję bardzo! Czy potrzebuję jeszcze czegoś?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Nic mi nie dolega!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! I uwaga na A: „Ich melde mich“ nie znaczy „melduję się“, tylko: zadzwonię później."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "A C może pamiętasz – to pasuje tylko u lekarza!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Dziękuję bardzo! Czy potrzebuję jeszcze czegoś?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Nie, to wszystko. Proszę dobrze przechowywać zaświadczenie."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Czy potrzebuję jeszcze czegoś?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Trzy rady dotyczące zameldowania. Po pierwsze: zamelduj się w ciągu dwóch tygodni od wprowadzenia się."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Po drugie: w wielu miastach potrzebujesz terminu – często możesz go zarezerwować online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "I po trzecie: zaświadczenie o zameldowaniu będzie ci często potrzebne, na przykład do konta w banku."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Więc dobrze je przechowuj!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "W urzędzie niemiecki brzmi czasem bardzo skomplikowanie. Leo czyta – a ja mówię to prosto."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "W jakiej sprawie pan przychodzi?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Czego pan potrzebuje?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Proszę przygotować dokumenty."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Proszę mieć papiery w ręce."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Proszę wypełnić formularz w całości."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Proszę wszędzie coś wpisać."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Rozpatrzenie trwa około dwóch tygodni."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "To trwa mniej więcej dwa tygodnie."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Proszę dostarczyć brakujące dokumenty."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Proszę przynieść papiery później."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Dzisiaj się przebieram!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Aha, zakładasz inne ubranie? Czy masz na myśli: „Ich ziehe um“ – przeprowadzam się do nowego mieszkania?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "A w urzędzie: nie „Ich bin leider“, tylko „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(jestem stanu wolnego) – jeśli nie masz ślubu."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "A „Ich melde mich“ znaczy: zadzwonię później. W urzędzie mówisz: „Ich melde mich an.“ (Melduję się.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "A teraz wszystko jeszcze raz. Dziesięć najważniejszych zdań. Powtórz!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Chciałbym się zameldować."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Mam wizytę o dziewiątej."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Pobieram numerek."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Chciałbym zameldować nowe mieszkanie."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Oto zaświadczenie od mojego wynajmującego."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Oto mój paszport."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Literuję swoje nazwisko."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Jestem stanu wolnego."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Gdzie mam podpisać?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Czy potrzebuję jeszcze czegoś?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Które słowo było dla ciebie najtrudniejsze? Napisz w komentarzach!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Cześć i do zobaczenia w LilyLingua!"
+    }
+  ]
+}

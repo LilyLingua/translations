@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.022Z"
+  },
+  "title": "Asilo e scuola",
+  "instructions": {
+    "kita-und-schule-matching": "Collega ogni parola alla spiegazione giusta.",
+    "kita-und-schule-gap": "Segna la parola adatta.",
+    "kita-und-schule-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "kita-und-schule-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "kita-und-schule-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "kita-und-schule-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "la riunione dei genitori",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Un incontro dei genitori con gli insegnanti.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "l'asilo nido (la scuola dell'infanzia)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Qui i bambini piccoli vengono accuditi durante il giorno.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "l'insegnante di classe",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "È responsabile di una classe.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "la pagella",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Qui ci sono i voti alla fine dell'anno scolastico.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "la giustificazione",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Una breve lettera alla scuola quando tuo figlio era malato.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "le vacanze",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Il periodo senza scuola, per esempio d'estate.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "la gita scolastica",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "La classe va insieme in un altro posto.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mio figlio è malato. Oggi non può venire a scuola.",
+      "answerText": "scuola"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Alla riunione dei genitori i genitori parlano con l'insegnante.",
+      "answerText": "riunione dei genitori"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "D'estate i bambini hanno sei settimane di vacanze.",
+      "answerText": "vacanze"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Alla fine dell'anno scolastico mia figlia riceve la pagella.",
+      "answerText": "pagella"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Scrivo all'insegnante una giustificazione perché mio figlio era malato.",
+      "answerText": "giustificazione"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "I bambini devono fare i compiti ogni giorno.",
+      "answerText": "compiti"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mio figlio ha tre anni e va all'asilo.",
+      "answerText": "asilo"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Vado a prendere mio figlio alle 16.",
+      "answerText": "Vado a prendere"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Mia figlia oggi purtroppo è malata.",
+      "answerText": "è"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Possiamo fissare un appuntamento?",
+      "answerText": "fissare"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Le lezioni cominciano alle 8.",
+      "answerText": "cominciano"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Per favore, firmi il modulo entro venerdì.",
+      "answerText": "firmi"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "il bambino",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "la classe",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "l'insegnante",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "il quaderno",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "il voto",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "la penna",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mio figlio oggi è malato.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Quando comincia la riunione dei genitori?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Vado a prendere mia figlia alle 15.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Mio figlio ha bisogno di qualcosa per la gita?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "riunione dei genitori",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "pagella",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "giustificazione",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "compiti",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "insegnante di classe",
+      "answerText": null
+    }
+  ]
+}

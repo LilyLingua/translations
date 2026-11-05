@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "65c4c8c1-0dab-494a-ab81-e92a851189da",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Wiesbaden",
+  "topic": "Hessen: heiße Quellen, Kurhaus, Nerobergbahn",
+  "tasks": [
+    {
+      "id": "stadt-wiesbaden-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-matching-1",
+          "term": "die Kurstadt",
+          "meaning": "Stadt mit Heilwasser; früher kamen reiche Gäste zur Erholung."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-2",
+          "term": "die Quelle",
+          "meaning": "Hier kommt Wasser aus der Erde; in Wiesbaden ist es oft heiß."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-3",
+          "term": "der Kochbrunnen",
+          "meaning": "Bekannte heiße Quelle in der Innenstadt; das Wasser ist heiß und salzig."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-4",
+          "term": "das Kurhaus",
+          "meaning": "Prächtiges Haus für Feste und Konzerte, mit einer Spielbank."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-5",
+          "term": "die Nerobergbahn",
+          "meaning": "Alte Bergbahn, die nur mit Wasser als Gewicht fährt."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-6",
+          "term": "der Sternschnuppenmarkt",
+          "meaning": "Name des Weihnachtsmarkts in Wiesbaden."
+        },
+        {
+          "id": "stadt-wiesbaden-matching-7",
+          "term": "die Spielbank",
+          "meaning": "Ort, an dem man um Geld spielt, zum Beispiel Roulette."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-wiesbaden-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-gap-1",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Nerobergbahn auf den Berg.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-2",
+          "promptBefore": "Das Wasser aus",
+          "promptAfter": "Kochbrunnen ist heiß.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-3",
+          "promptBefore": "Wir gehen zu",
+          "promptAfter": "Konzert im Kurhaus.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-4",
+          "promptBefore": "Im Dezember besuchen wir",
+          "promptAfter": "Sternschnuppenmarkt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-5",
+          "promptBefore": "Wiesbaden ist",
+          "promptAfter": "Landeshauptstadt von Hessen.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-6",
+          "promptBefore": "Im Statistischen Bundesamt zählt man",
+          "promptAfter": "Einwohner Deutschlands.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wiesbaden-gap-7",
+          "promptBefore": "Wir entspannen in",
+          "promptAfter": "Therme.",
+          "correctAnswer": "einer",
+          "options": [
+            "einer",
+            "eine",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-wiesbaden-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-verbs-1",
+          "promptBefore": "Das heiße Wasser",
+          "promptAfter": "aus der Erde.",
+          "correctAnswer": "kommt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-wiesbaden-verbs-2",
+          "promptBefore": "Die Nerobergbahn",
+          "promptAfter": "nur mit Wasser.",
+          "correctAnswer": "funktioniert",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "funktionieren"
+        },
+        {
+          "id": "stadt-wiesbaden-verbs-3",
+          "promptBefore": "Früher",
+          "promptAfter": "reiche Gäste zur Kur nach Wiesbaden.",
+          "correctAnswer": "reisten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "reisen"
+        },
+        {
+          "id": "stadt-wiesbaden-verbs-4",
+          "promptBefore": "Im Kurhaus",
+          "promptAfter": "man Roulette spielen.",
+          "correctAnswer": "kann",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "können"
+        },
+        {
+          "id": "stadt-wiesbaden-verbs-5",
+          "promptBefore": "Viele Menschen",
+          "promptAfter": "in der Therme.",
+          "correctAnswer": "entspannen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "entspannen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-wiesbaden-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-table-1",
+          "article": "die",
+          "singular": "Quelle",
+          "plural": "Quellen"
+        },
+        {
+          "id": "stadt-wiesbaden-table-2",
+          "article": "der",
+          "singular": "Gast",
+          "plural": "Gäste"
+        },
+        {
+          "id": "stadt-wiesbaden-table-3",
+          "article": "die",
+          "singular": "Bahn",
+          "plural": "Bahnen"
+        },
+        {
+          "id": "stadt-wiesbaden-table-4",
+          "article": "der",
+          "singular": "Brunnen",
+          "plural": "Brunnen"
+        },
+        {
+          "id": "stadt-wiesbaden-table-5",
+          "article": "das",
+          "singular": "Bad",
+          "plural": "Bäder"
+        },
+        {
+          "id": "stadt-wiesbaden-table-6",
+          "article": "der",
+          "singular": "Berg",
+          "plural": "Berge"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-wiesbaden-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-order-1",
+          "chunks": [
+            "In Wiesbaden",
+            "gibt es",
+            "viele heiße Quellen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-wiesbaden-order-2",
+          "chunks": [
+            "Die Nerobergbahn",
+            "fährt",
+            "mit Wasser"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-wiesbaden-order-3",
+          "chunks": [
+            "Kommst du",
+            "mit",
+            "in die Therme"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-wiesbaden-order-4",
+          "chunks": [
+            "Wiesbaden",
+            "ist",
+            "die Landeshauptstadt",
+            "von Hessen"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-wiesbaden-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-wiesbaden-spelling-1",
+          "correct": "Quelle",
+          "wrong": "Kwelle"
+        },
+        {
+          "id": "stadt-wiesbaden-spelling-2",
+          "correct": "Brunnen",
+          "wrong": "Brunen"
+        },
+        {
+          "id": "stadt-wiesbaden-spelling-3",
+          "correct": "Therme",
+          "wrong": "Terme"
+        },
+        {
+          "id": "stadt-wiesbaden-spelling-4",
+          "correct": "Gast",
+          "wrong": "Gasd"
+        },
+        {
+          "id": "stadt-wiesbaden-spelling-5",
+          "correct": "Konzert",
+          "wrong": "Konzärt"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

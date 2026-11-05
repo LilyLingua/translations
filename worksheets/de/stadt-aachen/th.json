@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:53.079Z"
+  },
+  "title": "อาเคิน",
+  "instructions": {
+    "stadt-aachen-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-aachen-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-aachen-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-aachen-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-aachen-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-aachen-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-aachen-matching-1",
+      "translation": "มหาวิหารอาเคิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-1:meaning",
+      "translation": "โบสถ์ของพระเจ้าชาร์เลอมาญ (คาร์ลมหาราช) มรดกโลกแห่งแรกในเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2",
+      "translation": "พรินเทิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2:meaning",
+      "translation": "ขนมเลบคูเคินรสเครื่องเทศจากอาเคิน เป็นที่นิยมมากในฤดูหนาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3",
+      "translation": "\"เออเชอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3:meaning",
+      "translation": "ชาวอาเคินเรียกตัวเองแบบนี้ในภาษาถิ่น (เออเชอร์ พลัทท์)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4",
+      "translation": "จุดบรรจบสามประเทศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4:meaning",
+      "translation": "จุดที่เยอรมนี เบลเยียม และเนเธอร์แลนด์มาบรรจบกัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5",
+      "translation": "บ่อน้ำพุร้อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5:meaning",
+      "translation": "น้ำร้อนจากใต้ดิน อาเคินจึงเป็นเมืองสปาด้วย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6",
+      "translation": "เชียว (CHIO)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6:meaning",
+      "translation": "การแข่งขันขี่ม้าครั้งใหญ่ มีม้าจากทั่วโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7",
+      "translation": "รางวัลคาร์ล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7:meaning",
+      "translation": "รางวัลสำหรับผู้ที่ทำประโยชน์มากมายให้ยุโรป",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-1",
+      "translation": "พระเจ้าชาร์เลอมาญสร้างมหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-2",
+      "translation": "ฤดูหนาวพวกเรากินพรินเทินหนึ่งชิ้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-3",
+      "translation": "พวกเราเดินป่าไปที่จุดบรรจบสามประเทศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-4",
+      "translation": "น้ำจากบ่อน้ำพุร้อนมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-5",
+      "translation": "ที่งานเชียว ม้ากระโดดข้ามเครื่องกีดขวาง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-6",
+      "translation": "เกือบทุกปีจะมีคนได้รับรางวัลคาร์ล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-7",
+      "translation": "นักศึกษาหลายคนเรียนที่มหาวิทยาลัย RWTH",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-verbs-1",
+      "translation": "อาเคินมีพรมแดนติดกับเบลเยียมและเนเธอร์แลนด์",
+      "answerText": "มีพรมแดน"
+    },
+    {
+      "id": "stadt-aachen-verbs-2",
+      "translation": "น้ำร้อนมาจากใต้ดิน",
+      "answerText": "มา"
+    },
+    {
+      "id": "stadt-aachen-verbs-3",
+      "translation": "ม้ากระโดดข้ามเครื่องกีดขวางสูง",
+      "answerText": "กระโดด"
+    },
+    {
+      "id": "stadt-aachen-verbs-4",
+      "translation": "ชาวอาเคินหลายคนพูดภาษาเออเชอร์ พลัทท์",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-aachen-verbs-5",
+      "translation": "พระเจ้าชาร์เลอมาญถูกฝังอยู่ในมหาวิหาร",
+      "answerText": "ถูกฝัง"
+    },
+    {
+      "id": "stadt-aachen-table-1",
+      "translation": "แหล่งน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-2",
+      "translation": "ม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-3",
+      "translation": "ประเทศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-4",
+      "translation": "รางวัล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-5",
+      "translation": "พรมแดน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-6",
+      "translation": "จักรพรรดิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-1",
+      "translation": "มหาวิหารอาเคินมีอายุกว่า 1200 ปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-2",
+      "translation": "คุณเคยลองกินพรินเทินหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-3",
+      "translation": "อาเคินตั้งอยู่ติดพรมแดนเบลเยียม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-4",
+      "translation": "น้ำจากบ่อน้ำพุร้อนมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-1",
+      "translation": "แหล่งน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-2",
+      "translation": "พรมแดน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-3",
+      "translation": "ม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-4",
+      "translation": "จักรพรรดิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-5",
+      "translation": "เบลเยียม",
+      "answerText": null
+    }
+  ]
+}

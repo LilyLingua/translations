@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:52.370Z"
+  },
+  "title": "Майнц",
+  "instructions": {
+    "stadt-mainz-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-mainz-gap": "Отбележете правилната дума.",
+    "stadt-mainz-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-mainz-table": "Попълнете члена и формата за множествено число.",
+    "stadt-mainz-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-mainz-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "„Фастнахт“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Така в Майнц наричат карнавала; викат „Хелау“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "Розовият понеделник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Върхът на карнавала с голямо шествие.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "книгопечатането",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Йоханес Гутенберг го изобретил в Майнц, с подвижни букви.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "Майнцелменхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Малки анимационни човечета от канала ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "„Век, Воршт ун Вой“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "Майнцки диалект за хлебче, наденица и вино.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "„Менцер“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Така жителите на Майнц наричат себе си на диалект.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "пазарната закуска",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Среща в събота на пазара до катедралата, с вино и наденички.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Гутенберг изобрети книгопечатането.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "На Розовия понеделник гледаме голямо шествие.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Пазарната закуска е до катедралата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "ZDF има седалище в град Майнц.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "Той пие чаша вино.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "В музея виждаме стара Библия.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Майнц се намира на Рейн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Йоханес Гутенберг изобрети книгопечатането.",
+      "answerText": "изобрети"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "По време на карнавала менцерите викат „Хелау“.",
+      "answerText": "викат"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Майнцелменхен се появяват по ZDF между рекламите.",
+      "answerText": "се появяват"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "В събота се срещаме на пазарната закуска.",
+      "answerText": "срещаме"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Около Майнц расте много лоза.",
+      "answerText": "расте"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "шествието",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "книгата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "буквата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "Библията",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "хлебчето",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "катедралата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Гутенберг изобрети книгопечатането в Майнц.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "На Розовия понеделник има голямо шествие.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "Ще отидем ли в събота на пазарната закуска?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Майнц се намира на Рейн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "буква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Библия",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "шествие",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "Розов понеделник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "телевизия",
+      "answerText": null
+    }
+  ]
+}

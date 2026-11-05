@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:44.363Z"
+  },
+  "title": "في الصيدلية",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "صِل كل كلمة بمعناها.",
+    "en-at-the-pharmacy-gap": "اختر الكلمة الصحيحة.",
+    "en-at-the-pharmacy-verbs": "اكتب الفعل الصحيح.",
+    "en-at-the-pharmacy-order": "رتّب الكلمات بالترتيب الصحيح واكتب الجملة.",
+    "en-at-the-pharmacy-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "الوصفة الطبية",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "ورقة من الطبيب للدواء الذي تحتاجه.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "الصيدلي / الصيدلانية",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "الشخص الذي يبيع الأدوية ويقدّم النصائح.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "الأثر الجانبي",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "تأثير غير مرغوب فيه للدواء.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "القرص",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "دواء صغير وصلب تبلعه.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "شراب السعال",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "دواء سائل للسعال.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "الجرعة",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "كمية الدواء التي تأخذها في المرة الواحدة.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "عندي زكام وألم في الحلق.",
+      "answerText": "زكام"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "هل أحتاج إلى وصفة لهذا الدواء؟",
+      "answerText": "وصفة"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "خذ قرصًا واحدًا ثلاث مرات في اليوم.",
+      "answerText": "قرصًا"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "هل هناك آثار جانبية؟",
+      "answerText": "آثار جانبية"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "اسأل الصيدلي إذا كانت لديك أسئلة.",
+      "answerText": "الصيدلي"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "هل يمكنني الحصول على إيصال من فضلك؟",
+      "answerText": "إيصال"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "أحتاج إلى شيء للصداع.",
+      "answerText": "أحتاج"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "هل لديك أي حساسية؟",
+      "answerText": "لديك"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "من فضلك خذ هذا الدواء بعد الأكل.",
+      "answerText": "خذ"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "الصيدلي يريني كيف أستخدم البخاخ.",
+      "answerText": "يريني"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "كم يكلّف هذا؟",
+      "answerText": "يكلّف"
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "هل أحتاج إلى وصفة لهذا؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "عندي صداع.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "خذ قرصين في الصباح.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "هل يمكنك أن تنصحني بشيء للسعال؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "وصفة طبية",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "دواء",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "صيدلية",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "حساسية",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "صداع",
+      "answerText": null
+    }
+  ]
+}

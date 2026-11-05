@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:05.745Z"
+  },
+  "title": "Na padaria e no café",
+  "instructions": {
+    "baecker-und-cafe-matching": "Ligue cada palavra à explicação correta.",
+    "baecker-und-cafe-gap": "Marque o artigo correto.",
+    "baecker-und-cafe-verbs": "Complete com o verbo correto na forma correta.",
+    "baecker-und-cafe-table": "Complete o artigo (der/die/das) e a forma do plural.",
+    "baecker-und-cafe-order": "Coloque as palavras na ordem correta e escreva a frase.",
+    "baecker-und-cafe-spelling": "Qual palavra está escrita corretamente? Marque."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "o pãozinho",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Um pão pequeno, muitas vezes para o café da manhã.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "o pretzel (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Um salgado assado com sal, típico do sul da Alemanha.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "o bolo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Algo doce, muitas vezes com café à tarde.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "o cardápio",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Aqui estão todas as comidas e bebidas.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "a conta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Aqui está escrito quanto você tem que pagar.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "a gorjeta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Um pouco de dinheiro a mais para o garçom.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "para viagem",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Você não come nem bebe isso no café.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Eu queria um pãozinho.",
+      "answerText": "um"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Vou querer um café.",
+      "answerText": "um"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Quanto custa o pretzel?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Quero um pedaço de bolo.",
+      "answerText": "um"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "A mesa está livre?",
+      "answerText": "A"
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Eu tomo um chá com leite.",
+      "answerText": "um"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Traga a conta, por favor.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "O que você quer beber?",
+      "answerText": "quer"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Vou querer um cappuccino.",
+      "answerText": "querer"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Dá 6,40 euros no total.",
+      "answerText": "Dá"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Posso pagar com cartão?",
+      "answerText": "pagar"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "O bolo está muito gostoso.",
+      "answerText": "está"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "o pãozinho",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "o bolo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "a xícara",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "o copo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "o prato",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "o pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Eu queria dois pãezinhos.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Quanto custa o bolo?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Posso pagar com cartão?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Você quer comer aqui?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "pãozinho",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "bolo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "conta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "café",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "gorjeta",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Me gustaría pedir una cita."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Sí, aquí está mi tarjeta."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "¿Puede decirlo más despacio, por favor?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Tengo dolor de cabeza y fiebre."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Me duele la barriga."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Desde hace tres días."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "inspirar – espirar"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Soy alérgico a la penicilina."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Necesito una baja médica."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Tres veces al día después de comer."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Estás enfermo. Tienes que ir al médico. Pero … ¿en alemán?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Oh, no. La última vez en el médico dije: „Ich bin Kopfschmerzen.“ (Yo soy dolor de cabeza.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Justo por eso estamos hoy aquí. Vas a vivir una visita completa al médico: desde la primera llamada hasta la receta."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Y en cada situación te preguntamos: ¿Qué dices?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "¡Y solo tienes cinco segundos!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Llamas a la consulta médica. Alguien contesta."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Consulta del Dr. Yilmaz, le habla Schulz. ¿En qué puedo ayudarle?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Quiero doctor. Ya."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Buenos días, me gustaría pedir una cita."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Hola, estoy enfermo. Adiós."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "¡B! „Ich möchte gern …“ (Me gustaría …) es educado y siempre funciona."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Quiero) suena enseguida poco amable por teléfono."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Buenos días, me gustaría pedir una cita."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Claro. ¿Le viene bien hoy a las diez?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Me gustaría pedir una cita."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Llegas a la consulta. En la recepción te preguntan:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "¿Tiene su tarjeta del seguro médico?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: No, yo estoy asegurado no."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Sí, tengo hambre."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Sí, aquí está mi tarjeta."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "¡C! La „Versichertenkarte“: algunos dicen también „Gesundheitskarte“ o „Krankenkassenkarte“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "Siempre es la misma tarjeta. Llévala a cada visita al médico."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Sí, aquí está mi tarjeta."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Muchas gracias."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Sí, aquí está mi tarjeta."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "La mujer habla muy rápido. No lo entiendes todo."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Rellene el formulario, por favor, y luego tome asiento en la sala de espera."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Perdone, ¿puede decirlo más despacio, por favor?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: ¿Qué?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Me llevo el asiento."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "¡A! „Was?“ (¿Qué?) suena maleducado. Esta pregunta te salva en todas partes: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Más corto también vale: „Wie bitte?“ (¿Cómo dice?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Perdone, ¿puede decirlo más despacio, por favor?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Claro. Por favor, rellene este formulario. Luego espere allí, en la sala de espera."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "¿Puede decirlo más despacio, por favor?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Estás en la consulta con el médico. Él pregunta:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Buenos días. ¿Qué le pasa?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: No me pasa nada, gracias."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Tengo dolor de cabeza y fiebre."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Yo soy dolor de cabeza."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "¡B! Atención: „Was fehlt Ihnen?“ no significa „¿Qué le falta?“, sino „¿Cuál es su problema?“."
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Quien dice „Mir fehlt nichts“ está sano… y en realidad no pinta nada en el médico."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Tengo dolor de cabeza y fiebre."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Oh, lo siento."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Tengo dolor de cabeza y fiebre."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "¿Tiene también dolor de barriga? ¿Dónde le duele?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Te duele la barriga. ¿Qué dices?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Yo hago daño en la barriga."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: La barriga está dolor."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Aquí, me duele la barriga."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "¡C! Así se dice: parte del cuerpo + „tut weh“ (duele). En plural: „Meine Füße tun weh.“ (Me duelen los pies.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Aquí, me duele la barriga."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Me duele la barriga."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Me duelen los pies."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "¿Desde cuándo tiene las molestias?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Hace tres días de largo."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Desde hace tres día."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Desde hace tres días."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "¡C! Después de „seit“ (desde) va el dativo: por eso „Tagen“ con n. Igual: „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(desde hace una semana), „seit gestern“ (desde ayer)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Desde hace tres días."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Desde hace tres días."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Desde hace una semana."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Voy a auscultarle. Por favor, descúbrase el torso."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "¿Qué haces ahora?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Te quitas el jersey y la camiseta."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Te quitas los pantalones."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Te vas a casa: al fin y al cabo eres libre."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Entonces … la C, ¿no? Soy libre, ¡me voy a casa!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "No, Leo. ¡La A! El „Oberkörper“ es la parte de arriba del cuerpo. „Frei machen“ aquí significa: quitarse la ropa."
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "Luego oirás a menudo: „Tief einatmen … und ausatmen.“ (Inspire hondo … y espire.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Inspire hondo … y espire. Bien."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "inspirar – espirar"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "¿Es alérgico a algo?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Sí, soy alérgico para la penicilina."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Sí, soy alérgico a la penicilina."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: La penicilina no me gusta mucho."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "¡B! Se es alérgico „gegen“ algo. Y si no tienes alergias: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(No, no tengo alergias.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Sí, soy alérgico a la penicilina."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Menos mal que me lo dice. Entonces le doy otra cosa."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Soy alérgico a la penicilina."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "No tengo alergias."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Mañana no puedes trabajar. El médico pregunta:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "¿Necesita una baja médica?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "¿Qué dices?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: No, yo escribo solo."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Sí, yo escribo enfermo."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Sí, por favor. Para mi empresa."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "¡C! La „Krankschreibung“ (baja médica) demuestra que estás enfermo y no puedes trabajar."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Importante: avisa tú mismo a tu empresa, mejor el primer día, temprano por la mañana."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Sí, por favor. Para mi empresa."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Le doy la baja hasta el viernes."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Necesito una baja médica."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Le hago una receta. Tome las pastillas tres veces al día después de comer."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "¡Escucha bien! ¿Cuándo tomas las pastillas?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Una vez al día, antes de dormir."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Por la mañana, a mediodía y por la noche, después de comer."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Tres veces al día, antes de comer."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "¡B! „Dreimal täglich“ significa tres veces al día."
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "Y „nach dem Essen“: primero comer y luego la pastilla."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Muchas gracias. ¡Adiós!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "¡Que se mejore!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“: eso se dice a las personas enfermas. Significa: ¡que te mejores pronto!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "¡Repite!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Tres veces al día después de comer."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "¡Que se mejore!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "¿Y si la consulta está cerrada? Recuerda dos números."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "El 116 117: el servicio médico de guardia, cuando necesitas un médico de noche o el fin de semana, pero no es una urgencia."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Y el 112: el número de emergencias, para ambulancia y bomberos, por ejemplo después de un accidente o si te cuesta mucho respirar."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "En clase aprendes frases bonitas. Pero, ¿qué dicen de verdad los alemanes?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Tengo dolor de garganta."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Me pica la garganta."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Estoy enfermo."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Me ha pillado."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Me he contagiado."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "He pillado algo."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Estoy muy cansado y débil."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Estoy hecho polvo."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Tengo dolor de espalda."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Tengo la espalda fatal."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "¡Brrr, soy tan frío!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … tú no eres una persona fría. Quieres decir: „Mir ist kalt.“ (Tengo frío.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Y atención: „Mir ist schlecht“ no significa „Estoy mal“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Significa: tengo náuseas, a lo mejor vomito."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "¿Gripe o resfriado? Mocos y tos suelen ser un resfriado („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "La gripe („Grippe“) es mucho peor: fiebre alta, te quedas en la cama."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Y ahora todo otra vez. Las diez frases más importantes. ¡Repite!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Me gustaría pedir una cita."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Aquí está mi tarjeta."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "¿Puede decirlo más despacio, por favor?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Tengo dolor de cabeza y fiebre."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Me duele la barriga."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Desde hace tres días."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Soy alérgico a la penicilina."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Necesito una baja médica."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Tres veces al día después de comer."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "¡Que se mejore!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "¿Qué situación te resultó más difícil? ¡Escríbelo en los comentarios!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "La próxima vez vamos a la oficina de trámites. Ahí sí que necesito ayuda."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "¡Hasta pronto en LilyLingua!"
+    }
+  ]
+}

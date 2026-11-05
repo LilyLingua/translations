@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:49.151Z"
+  },
+  "title": "Майнц",
+  "instructions": {
+    "stadt-mainz-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-mainz-gap": "Позначте правильне слово.",
+    "stadt-mainz-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-mainz-table": "Допишіть артикль і форму множини.",
+    "stadt-mainz-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-mainz-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "«Фаснахт»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Так у Майнці називають карнавал; вигукують «Гелау».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "Трояндовий понеділок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Кульмінація карнавалу з великою ходою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "книгодрукування",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Йоганн Гутенберг винайшов його в Майнці – з рухомими літерами.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "Майнцельменхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Маленькі мультяшні чоловічки з програми телеканалу ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "«Век, Воршт ун Вой»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "Майнцським діалектом: булочка, ковбаса й вино.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "«Майнцер»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Так себе називають жителі Майнца на діалекті.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "ринковий сніданок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Зустріч у суботу на ринку біля собору з вином і ковбасою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Гутенберг винайшов книгодрукування.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "У Трояндовий понеділок ми дивимося велику ходу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Ринковий сніданок відбувається біля собору.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "Телеканал ZDF має штаб-квартиру в місті Майнц.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "Він п'є келих вина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "У музеї ми бачимо стару Біблію.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Майнц лежить на Рейні.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Йоганн Гутенберг винайшов книгодрукування.",
+      "answerText": "винайшов"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "На карнавалі майнцери вигукують «Гелау».",
+      "answerText": "вигукують"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Майнцельменхен з'являються на ZDF між рекламою.",
+      "answerText": "з'являються"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "У суботу ми зустрічаємося на ринковому сніданку.",
+      "answerText": "зустрічаємося"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Навколо Майнца росте багато винограду.",
+      "answerText": "росте"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "хода",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "книжка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "літера",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "Біблія",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Гутенберг винайшов книгодрукування в Майнці.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "У Трояндовий понеділок буває велика хода.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "Підемо в суботу на ринковий сніданок?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Майнц лежить на Рейні.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "літера",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Біблія",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "хода",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "Трояндовий понеділок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "телебачення",
+      "answerText": null
+    }
+  ]
+}

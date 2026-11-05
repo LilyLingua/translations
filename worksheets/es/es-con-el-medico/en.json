@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.369Z"
+  },
+  "title": "At the Doctor",
+  "instructions": {
+    "es-con-el-medico-matching": "Match each word with its meaning.",
+    "es-con-el-medico-gap": "Choose the right word.",
+    "es-con-el-medico-verbs": "Write the correct verb.",
+    "es-con-el-medico-order": "Put the words in order and write the sentence.",
+    "es-con-el-medico-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-con-el-medico-matching-1",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-1:meaning",
+      "translation": "A fixed time to see the doctor.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-2",
+      "translation": "symptom",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-2:meaning",
+      "translation": "A sign of illness, for example a fever.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-3",
+      "translation": "fever",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-3:meaning",
+      "translation": "A body temperature that is too high.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-4",
+      "translation": "waiting room",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-4:meaning",
+      "translation": "The room where you wait before your appointment.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-5",
+      "translation": "health insurance",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-5:meaning",
+      "translation": "It pays part of your health costs.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-6",
+      "translation": "sick note",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-6:meaning",
+      "translation": "A paper from the doctor that says you can't work.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-gap-1",
+      "translation": "I'd like to make an appointment for tomorrow.",
+      "answerText": "appointment"
+    },
+    {
+      "id": "es-con-el-medico-gap-2",
+      "translation": "I've had a fever since yesterday.",
+      "answerText": "fever"
+    },
+    {
+      "id": "es-con-el-medico-gap-3",
+      "translation": "Please wait in the waiting room.",
+      "answerText": "waiting room"
+    },
+    {
+      "id": "es-con-el-medico-gap-4",
+      "translation": "Do you have health insurance?",
+      "answerText": "insurance"
+    },
+    {
+      "id": "es-con-el-medico-gap-5",
+      "translation": "I need a sick note for my job.",
+      "answerText": "sick note"
+    },
+    {
+      "id": "es-con-el-medico-gap-6",
+      "translation": "What symptoms do you have?",
+      "answerText": "symptoms"
+    },
+    {
+      "id": "es-con-el-medico-verbs-1",
+      "translation": "My throat hurts.",
+      "answerText": "hurts"
+    },
+    {
+      "id": "es-con-el-medico-verbs-2",
+      "translation": "I sleep badly at night.",
+      "answerText": "sleep"
+    },
+    {
+      "id": "es-con-el-medico-verbs-3",
+      "translation": "The doctor takes my blood pressure.",
+      "answerText": "takes"
+    },
+    {
+      "id": "es-con-el-medico-verbs-4",
+      "translation": "You should stay in bed for two days.",
+      "answerText": "stay"
+    },
+    {
+      "id": "es-con-el-medico-verbs-5",
+      "translation": "Please breathe deeply.",
+      "answerText": "breathe"
+    },
+    {
+      "id": "es-con-el-medico-order-1",
+      "translation": "My stomach hurts a lot.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-2",
+      "translation": "When can I come in for an appointment?",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-3",
+      "translation": "Do I need a prescription?",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-4",
+      "translation": "Come back next week.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-1",
+      "translation": "stomach",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-2",
+      "translation": "throat",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-3",
+      "translation": "head",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-4",
+      "translation": "health",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-5",
+      "translation": "doctor",
+      "answerText": null
+    }
+  ]
+}

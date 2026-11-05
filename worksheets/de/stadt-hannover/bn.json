@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:41.695Z"
+  },
+  "title": "হ্যানোভার",
+  "instructions": {
+    "stadt-hannover-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-hannover-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-hannover-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-hannover-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-hannover-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-hannover-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "বাণিজ্য মেলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "কোম্পানিগুলোর জন্য বড় প্রদর্শনী; হ্যানোভারে বিশাল মেলা প্রাঙ্গণ আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "মাশজে",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "শহরের কৃত্রিম হ্রদ, নৌকা চালানো, দৌড় আর উৎসবের জন্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "লাল সুতো",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "মাটিতে লাল রেখা; এটি দর্শনীয় স্থানগুলোতে নিয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "প্রমিত জার্মান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "প্রমিত ভাষা; হ্যানোভারে বিশেষ করে স্পষ্টভাবে বলা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "\"ল্যুটিয়ে লাগে\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "দুটি গ্লাসে বিয়ার আর মদ, যা একসঙ্গে পান করা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "বন্দুকবাজদের উৎসব",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "গ্রীষ্মে খুব বড় লোক উৎসব, দীর্ঘ শোভাযাত্রা সহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "\"নানা\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "লাইনে নদীর তীরে বড় রঙিন নারীমূর্তি, নিকি দ্য সাঁ ফালের সৃষ্টি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "আমরা লাল সুতো অনুসরণ করে শহর ঘুরি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "গ্রীষ্মে অনেকে মাশজের চারপাশে দৌড়ায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "কোম্পানিটি মেলায় প্রদর্শনী করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "আমরা লিফটে করে টাউন হলের গম্বুজে উঠি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "নানা মূর্তিগুলো লাইনের তীরে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "আমরা হেরেনহাউজেন বাগান দেখতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "সে একটা ল্যুটিয়ে লাগে চেখে দেখে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "লাল সুতো অনেক দর্শনীয় স্থানে নিয়ে যায়।",
+      "answerText": "নিয়ে"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "নতুন টাউন হলে একটি হেলানো লিফট গম্বুজ পর্যন্ত ওঠে।",
+      "answerText": "ওঠে"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "অনেক কোম্পানি মেলায় তাদের পণ্য দেখায়।",
+      "answerText": "দেখায়"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "হ্যানোভারের মানুষ খুব স্পষ্ট প্রমিত জার্মান বলে।",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "২০০০ সালে হ্যানোভারে বিশ্ব প্রদর্শনী এক্সপো অনুষ্ঠিত হয়।",
+      "answerText": "অনুষ্ঠিত"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "মেলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "বাগান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "সুতো",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "মূর্তি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "টাউন হল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "লিফট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "লাল সুতো শহরের কেন্দ্রের ভেতর দিয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "গ্রীষ্মে অনেকে মাশজেতে পালতোলা নৌকা চালায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "তুমি কি লিফটে করে গম্বুজে উঠবে?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "হ্যানোভারে স্পষ্ট প্রমিত জার্মান বলা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "বাণিজ্য মেলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "দর্শনীয় স্থান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "লিফট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "মূর্তি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "গম্বুজ",
+      "answerText": null
+    }
+  ]
+}

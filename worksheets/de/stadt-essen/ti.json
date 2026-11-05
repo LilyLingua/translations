@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:17.714Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኤሰን",
+  "instructions": {
+    "stadt-essen-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "stadt-essen-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "stadt-essen-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "stadt-essen-table": "ዓንቀጽን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "stadt-essen-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "stadt-essen-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "መዕደኒ Zollverein (Zeche Zollverein)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "ናይ ቀደም መዕደኒ ፈሓም፤ ሎሚ ቤተ መዘክራትን ዲዛይንን ዘለዎ ናይ UNESCO ዓለማዊ ቅርስ እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "ግምቢ መልዓሊ (Förderturm)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "ኣብ ልዕሊ መዕደኒ ዘሎ ነዊሕ ግምቢ፤ ሰባትን ፈሓምን ብእኡ ናብ ላዕሊ ይድይቡ ነበሩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "ሰላምታ ሰራሕተኛታት መዕደኒ – ኩሉ ሰብ ብሰላም ናብ ላዕሊ ክምለስ ትምነ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "ብዙሓት ክፍልታትን መናፈሻን ዘለዎ ዓብዪ ገዛ ስድራ Krupp።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "ቀላይ Baldeney (Baldeneysee)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "ኣብ ፈለግ Ruhr ዘሎ ቀላይ፤ ኣብኡ ብጃልባ ክትጓዓዝ፣ ክትቀዝፍን ክትዛወርን ትኽእል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "ዕምባባታት፣ ቦታታት ጸወታ ቆልዑን እንስሳታትን ዘለዎ ዓብዪ መናፈሻ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "ርእሰ ከተማ ባህሊ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "ኤሰን ኣብ 2010 ንምሉእ ዞባ Ruhr ዝረኸበቶ ማዕርግ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "ብሓጋይ ብዙሓት ሰባት ኣብ ቀላይ Baldeney ብጃልባ ይጓዓዙ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "ስድራ Krupp ኣብ Villa Hügel ይነብሩ ነበሩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "ኣብ መዕደኒ Zollverein ምስ መራሒ ዙረት ንገብር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "እቲ ግምቢ መልዓሊ ምልክት ኤሰን እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "ብሰንበት ናብ Grugapark ንኸይድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "ኣብ 2010 ኤሰን ኤውሮጳዊት ርእሰ ከተማ ባህሊ ነይራ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen ኣብ Hafenstraße ይጻወት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "ሰራሕተኛታት መዕደኒ „Glück auf!“ ይብሉ።",
+      "answerText": "ይብሉ"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "እቲ ግምቢ መልዓሊ ኣብ ልዕሊ እቲ ናይ ቀደም መዕደኒ ደው ኢሉ ኣሎ።",
+      "answerText": "ደው ኢሉ"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "ሎሚ ደጊም ፈሓም ካብ መሬት ኣይወጽእን እዩ።",
+      "answerText": "ኣይወጽእን"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "ብዙሓት በጻሕቲ ንመዕደኒ Zollverein ይበጽሕዎ።",
+      "answerText": "ይበጽሕዎ"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "ፈለግ Ruhr ብቀላይ Baldeney ይውሕዝ።",
+      "answerText": "ይውሕዝ"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "መዕደኒ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "መናፈሻ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "ቪላ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ቀላይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "ቤተ መዘክር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "ኣዳራሽ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "መዕደኒ Zollverein ክፋል ናይ UNESCO ዓለማዊ ቅርስ እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "ኣብ ቀዳመ ሰንበት ናብ ቀላይ Baldeney ብመኪና ንኸይድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "ናብ Grugapark ከይድኩም ትፈልጡዶ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "ቀደም ብዙሓት ሰራሕተኛታት መዕደኒ ኣብ ትሕቲ መሬት ይሰርሑ ነበሩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "ቤተ መዘክር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "መዕደኒ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "ቪላ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "ፈሓም",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "ኣዳራሽ",
+      "answerText": null
+    }
+  ]
+}

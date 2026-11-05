@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.696Z"
+  },
+  "title": "В ведомстве",
+  "instructions": {
+    "auf-dem-amt-matching": "Соедините каждое слово с подходящим объяснением.",
+    "auf-dem-amt-gap": "Отметьте подходящее слово.",
+    "auf-dem-amt-verbs": "Вставьте правильный глагол в правильной форме.",
+    "auf-dem-amt-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "auf-dem-amt-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "auf-dem-amt-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "регистрация по месту жительства",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Вы сообщаете в ведомство свой новый адрес.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "номер очереди",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Этот номер вы берёте в автомате.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "заграничный паспорт",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Документ, с которым вы ездите за границу.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "подтверждение арендодателя",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Эта бумага от арендодателя нужна вам для регистрации.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "справка о регистрации",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Эта бумага показывает: теперь вы живёте по этому адресу.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "семейное положение",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "холост/не замужем, женат/замужем, разведён или вдовец/вдова",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "подпись",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Ваше имя, написанное от руки.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "бланк (форма)",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Бумага с полями для заполнения.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Я хочу зарегистрироваться в новой квартире.",
+      "answerText": "квартире"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Пожалуйста, возьмите номер в автомате.",
+      "answerText": "номер"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Номер 147, пожалуйста, к окну 12.",
+      "answerText": "окну"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Вот подтверждение от моего арендодателя.",
+      "answerText": "арендодателя"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "У вас с собой удостоверение личности?",
+      "answerText": "удостоверение личности"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Пожалуйста, заполните бланк полностью.",
+      "answerText": "бланк"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Справка о регистрации вам часто понадобится снова, например для банковского счёта.",
+      "answerText": "Справка о регистрации"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Сегодня я регистрируюсь.",
+      "answerText": "регистрируюсь"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Где мне расписаться?",
+      "answerText": "расписаться"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Я называю свою фамилию по буквам: Н – О – В – А – К.",
+      "answerText": "называю"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Пожалуйста, садитесь.",
+      "answerText": "садитесь"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Оформление занимает примерно две недели.",
+      "answerText": "занимает"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "ведомство",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "удостоверение личности",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "квартира",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "бланк",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "арендодатель",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "адрес",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Я хочу зарегистрироваться.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Где мне расписаться?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Вот мой загранпаспорт.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Мне нужно что-нибудь ещё?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "справка о регистрации",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "заграничный паспорт",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "холост / не замужем",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "арендодатель",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "адрес",
+      "answerText": null
+    }
+  ]
+}

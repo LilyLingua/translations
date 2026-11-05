@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.608Z"
+  },
+  "title": "У врача",
+  "instructions": {
+    "uk-u-likaria-matching": "Соедините каждое слово с его значением.",
+    "uk-u-likaria-gap": "Выберите правильное слово.",
+    "uk-u-likaria-verbs": "Вставьте правильный глагол.",
+    "uk-u-likaria-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-u-likaria-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-u-likaria-matching-1",
+      "translation": "приём",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-1:meaning",
+      "translation": "Время, когда врач принимает пациента.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2",
+      "translation": "симптом",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2:meaning",
+      "translation": "Признак болезни, например высокая температура.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3:meaning",
+      "translation": "То, что измеряют термометром.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4",
+      "translation": "регистратура",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4:meaning",
+      "translation": "Место в поликлинике, где записывают к врачу.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5",
+      "translation": "направление",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5:meaning",
+      "translation": "Документ от врача к другому врачу или на анализы.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6",
+      "translation": "больничный",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6:meaning",
+      "translation": "Документ о том, что человек болен и не может работать.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-gap-1",
+      "translation": "Я хочу записаться на приём к терапевту.",
+      "answerText": "приём"
+    },
+    {
+      "id": "uk-u-likaria-gap-2",
+      "translation": "У меня высокая температура со вчерашнего дня.",
+      "answerText": "температура"
+    },
+    {
+      "id": "uk-u-likaria-gap-3",
+      "translation": "Запишитесь, пожалуйста, в регистратуре.",
+      "answerText": "регистратуре"
+    },
+    {
+      "id": "uk-u-likaria-gap-4",
+      "translation": "Врач дал мне направление на анализ крови.",
+      "answerText": "направление"
+    },
+    {
+      "id": "uk-u-likaria-gap-5",
+      "translation": "Мне нужен больничный для работы.",
+      "answerText": "больничный"
+    },
+    {
+      "id": "uk-u-likaria-gap-6",
+      "translation": "Какие у вас симптомы?",
+      "answerText": "симптомы"
+    },
+    {
+      "id": "uk-u-likaria-verbs-1",
+      "translation": "У меня болит горло.",
+      "answerText": "болит"
+    },
+    {
+      "id": "uk-u-likaria-verbs-2",
+      "translation": "Я плохо сплю.",
+      "answerText": "сплю"
+    },
+    {
+      "id": "uk-u-likaria-verbs-3",
+      "translation": "Врач измеряет моё давление.",
+      "answerText": "измеряет"
+    },
+    {
+      "id": "uk-u-likaria-verbs-4",
+      "translation": "Вам нужно остаться дома два дня.",
+      "answerText": "остаться"
+    },
+    {
+      "id": "uk-u-likaria-verbs-5",
+      "translation": "Пожалуйста, дышите глубоко.",
+      "answerText": "дышите"
+    },
+    {
+      "id": "uk-u-likaria-order-1",
+      "translation": "У меня болит живот.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-2",
+      "translation": "Когда можно прийти на приём?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-3",
+      "translation": "Мне нужен рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-4",
+      "translation": "Приходите на следующей неделе.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-1",
+      "translation": "врач",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-2",
+      "translation": "поликлиника",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-3",
+      "translation": "термометр",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-4",
+      "translation": "анализ",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-5",
+      "translation": "здоровье",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:52.195Z"
+  },
+  "title": "เครเฟลด์",
+  "instructions": {
+    "stadt-krefeld-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-krefeld-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-krefeld-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-krefeld-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-krefeld-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-krefeld-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "เมืองกำมะหยี่และไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "ชื่อเล่น: เมื่อก่อนที่นี่ผลิตผ้าไหมเนื้อดีจำนวนมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "ปราสาทลินน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "ปราสาทน้ำเก่าในย่านลินน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "ตลาดฟลัคส์มาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "ตลาดงานฝีมือขนาดใหญ่ที่ปราสาทลินน์ในฤดูใบไม้ผลิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "พิงกวีเนอ (เพนกวิน)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "ทีมฮอกกี้น้ำแข็งของเครเฟลด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "สวนสัตว์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "สวนสัตว์ที่มีโรงเรือนผีเสื้อและป่าแห่งใหม่สำหรับลิงไม่มีหาง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "เฮาส์ลังเงอและเฮาส์เอสเทอร์ส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "พิพิธภัณฑ์สองแห่งในบ้านที่ออกแบบโดยสถาปนิกชื่อดัง มีส ฟาน เดอร์ โรห์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "เออร์ดิงเงิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "ย่านริมแม่น้ำไรน์ที่มีท่าเรือใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "เธอสวมชุดเดรสผ้าไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "รอบปราสาทลินน์มีน้ำล้อมรอบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "วันเสาร์พวกเราดูการแข่งขันของทีมเพนกวิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "ในสวนสัตว์ พวกเราเข้าไปในโรงเรือนผีเสื้อ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "ที่ตลาดฟลัคส์มาร์คท์ ช่างตีเหล็กแสดงผลงานของเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "เออร์ดิงเงินตั้งอยู่ริมแม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "พวกเราไปเยี่ยมชมพิพิธภัณฑ์เฮาส์ลังเงอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "ทีมเพนกวินเล่นฮอกกี้น้ำแข็ง",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "เมื่อก่อนที่เครเฟลด์ผลิตผ้าไหมจำนวนมาก",
+      "answerText": "ผลิต"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "ในสวนสัตว์มีผีเสื้อมากมายบินอยู่",
+      "answerText": "บิน"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "ปราสาทตั้งอยู่กลางน้ำ",
+      "answerText": "ตั้ง"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "ที่ตลาดฟลัคส์มาร์คท์ ช่างฝีมือแสดงผลงานของตน",
+      "answerText": "แสดง"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "ผ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "เพนกวิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "ผีเสื้อ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "ชุดเดรส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "เครเฟลด์ได้ชื่อว่าเมืองกำมะหยี่และไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "คุณจะไปดูฮอกกี้น้ำแข็งด้วยกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "ปราสาทลินน์ตั้งอยู่กลางน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "ในสวนสัตว์มีผีเสื้อบินอยู่มากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "ผ้าไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "เพนกวิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "ผีเสื้อ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "ชุดเดรส",
+      "answerText": null
+    }
+  ]
+}

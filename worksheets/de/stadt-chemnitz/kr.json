@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:36.278Z"
+  },
+  "title": "켐니츠",
+  "instructions": {
+    "stadt-chemnitz-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-chemnitz-gap": "알맞은 단어에 표시하세요.",
+    "stadt-chemnitz-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-chemnitz-table": "관사와 복수형을 쓰세요.",
+    "stadt-chemnitz-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-chemnitz-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-chemnitz-matching-1",
+      "translation": "'니셸'(머리)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-1:meaning",
+      "translation": "카를 마르크스의 거대한 머리 조각상으로, '니셸'은 작센 사투리로 '머리'라는 뜻이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2",
+      "translation": "카를마르크스슈타트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2:meaning",
+      "translation": "켐니츠는 1953년부터 1990년까지 이렇게 불렸다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3",
+      "translation": "문화 수도",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3:meaning",
+      "translation": "2025년에 켐니츠는 유럽 문화 수도였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4",
+      "translation": "규화목 숲",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4:meaning",
+      "translation": "거의 3억 년 전에 돌이 된 나무들.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5",
+      "translation": "붉은 탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5:meaning",
+      "translation": "도시 한가운데에 있는 중세의 오래된 탑.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6",
+      "translation": "작센의 맨체스터",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6:meaning",
+      "translation": "옛 별명으로, 옛날에 이곳에 공장이 아주 많았기 때문이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7",
+      "translation": "CFC",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7:meaning",
+      "translation": "켐니처 FC, 하늘색의 축구 클럽.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-1",
+      "translation": "많은 관광객들이 니셸의 사진을 찍는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-2",
+      "translation": "박물관에서 우리는 규화목 숲을 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-3",
+      "translation": "2025년에 켐니츠는 1년 내내 문화를 기념했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-4",
+      "translation": "우리는 붉은 탑으로 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-5",
+      "translation": "옛날에는 많은 사람들이 공장에서 일했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-6",
+      "translation": "머리 조각상은 받침대 위에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-7",
+      "translation": "팬들은 하늘색 모자를 쓰고 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-verbs-1",
+      "translation": "머리 조각상은 높이가 7미터가 넘는다.",
+      "answerText": "넘는다"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-2",
+      "translation": "켐니츠는 1953년부터 1990년까지 카를마르크스슈타트라고 불렸다.",
+      "answerText": "불렸다"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-3",
+      "translation": "박물관에서는 돌이 된 나무들을 볼 수 있다.",
+      "answerText": "볼"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-4",
+      "translation": "2025년에 많은 방문객들이 문화 수도에 왔다.",
+      "answerText": "왔다"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-5",
+      "translation": "CFC는 하늘색 유니폼을 입고 경기한다.",
+      "answerText": "경기한다"
+    },
+    {
+      "id": "stadt-chemnitz-table-1",
+      "translation": "머리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-2",
+      "translation": "나무",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-3",
+      "translation": "돌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-4",
+      "translation": "탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-5",
+      "translation": "공장",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-6",
+      "translation": "모자",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-1",
+      "translation": "니셸은 도심에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-2",
+      "translation": "켐니츠에 가 본 적 있어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-3",
+      "translation": "나무들이 돌이 되었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-4",
+      "translation": "켐니츠는 2025년에 문화 수도였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-1",
+      "translation": "머리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-2",
+      "translation": "돌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-3",
+      "translation": "탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-4",
+      "translation": "문화",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-5",
+      "translation": "숲",
+      "answerText": null
+    }
+  ]
+}

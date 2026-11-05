@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "e94a8e2f-033f-431b-a26f-bd9afefd755a",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Dresden",
+  "topic": "Sachsen: Frauenkirche, Semperoper, Striezelmarkt, Stollen",
+  "tasks": [
+    {
+      "id": "stadt-dresden-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-dresden-matching-1",
+          "term": "die Frauenkirche",
+          "meaning": "Große Kirche mit Kuppel; im Krieg zerstört, 2005 wieder eröffnet."
+        },
+        {
+          "id": "stadt-dresden-matching-2",
+          "term": "Elbflorenz",
+          "meaning": "Spitzname von Dresden – wegen der schönen Bauten an der Elbe."
+        },
+        {
+          "id": "stadt-dresden-matching-3",
+          "term": "der Striezelmarkt",
+          "meaning": "Einer der ältesten Weihnachtsmärkte in Deutschland."
+        },
+        {
+          "id": "stadt-dresden-matching-4",
+          "term": "der Stollen",
+          "meaning": "Schweres Weihnachtsgebäck mit Rosinen und Puderzucker."
+        },
+        {
+          "id": "stadt-dresden-matching-5",
+          "term": "das Blaue Wunder",
+          "meaning": "Alte, blaue Brücke über die Elbe."
+        },
+        {
+          "id": "stadt-dresden-matching-6",
+          "term": "die Semperoper",
+          "meaning": "Berühmtes Opernhaus am Theaterplatz."
+        },
+        {
+          "id": "stadt-dresden-matching-7",
+          "term": "die Eierschecke",
+          "meaning": "Sächsischer Kuchen mit drei Schichten."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-dresden-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-dresden-gap-1",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Frauenkirche.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-2",
+          "promptBefore": "Im Dezember gehen wir auf",
+          "promptAfter": "Striezelmarkt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-3",
+          "promptBefore": "Zu Weihnachten backt meine Oma",
+          "promptAfter": "Stollen.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "einem",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-4",
+          "promptBefore": "Wir spazieren an",
+          "promptAfter": "Elbe entlang.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-5",
+          "promptBefore": "Abends gehen wir in",
+          "promptAfter": "Semperoper.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-6",
+          "promptBefore": "Das Blaue Wunder ist",
+          "promptAfter": "alte Brücke.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dresden-gap-7",
+          "promptBefore": "Zum Kaffee esse ich",
+          "promptAfter": "Stück Eierschecke.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-dresden-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-dresden-verbs-1",
+          "promptBefore": "Im Krieg",
+          "promptAfter": "die Frauenkirche zerstört.",
+          "correctAnswer": "wurde",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "werden"
+        },
+        {
+          "id": "stadt-dresden-verbs-2",
+          "promptBefore": "Viele Menschen",
+          "promptAfter": "Geld für den Wiederaufbau.",
+          "correctAnswer": "spendeten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spenden"
+        },
+        {
+          "id": "stadt-dresden-verbs-3",
+          "promptBefore": "Der Striezelmarkt",
+          "promptAfter": "jedes Jahr im Advent statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        },
+        {
+          "id": "stadt-dresden-verbs-4",
+          "promptBefore": "Die Elbe",
+          "promptAfter": "mitten durch Dresden.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-dresden-verbs-5",
+          "promptBefore": "Auf Sächsisch",
+          "promptAfter": "man oft „nu“ für „ja“.",
+          "correctAnswer": "sagt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-dresden-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-dresden-table-1",
+          "article": "die",
+          "singular": "Kirche",
+          "plural": "Kirchen"
+        },
+        {
+          "id": "stadt-dresden-table-2",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        },
+        {
+          "id": "stadt-dresden-table-3",
+          "article": "der",
+          "singular": "Markt",
+          "plural": "Märkte"
+        },
+        {
+          "id": "stadt-dresden-table-4",
+          "article": "die",
+          "singular": "Kuppel",
+          "plural": "Kuppeln"
+        },
+        {
+          "id": "stadt-dresden-table-5",
+          "article": "der",
+          "singular": "Kuchen",
+          "plural": "Kuchen"
+        },
+        {
+          "id": "stadt-dresden-table-6",
+          "article": "das",
+          "singular": "Schloss",
+          "plural": "Schlösser"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-dresden-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-dresden-order-1",
+          "chunks": [
+            "Die Frauenkirche",
+            "wurde",
+            "2005",
+            "wieder eröffnet"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-dresden-order-2",
+          "chunks": [
+            "Im Advent",
+            "gehen wir",
+            "auf den Striezelmarkt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-dresden-order-3",
+          "chunks": [
+            "Hast du",
+            "schon",
+            "Dresdner Stollen",
+            "probiert"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-dresden-order-4",
+          "chunks": [
+            "Dresden",
+            "liegt",
+            "an der Elbe"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-dresden-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-dresden-spelling-1",
+          "correct": "Kuppel",
+          "wrong": "Kuppl"
+        },
+        {
+          "id": "stadt-dresden-spelling-2",
+          "correct": "Weihnachten",
+          "wrong": "Weinachten"
+        },
+        {
+          "id": "stadt-dresden-spelling-3",
+          "correct": "Stollen",
+          "wrong": "Stolen"
+        },
+        {
+          "id": "stadt-dresden-spelling-4",
+          "correct": "Brücke",
+          "wrong": "Brüke"
+        },
+        {
+          "id": "stadt-dresden-spelling-5",
+          "correct": "Rosine",
+          "wrong": "Rosiene"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

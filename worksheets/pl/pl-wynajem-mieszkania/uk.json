@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:59.345Z"
+  },
+  "title": "Оренда квартири",
+  "instructions": {
+    "pl-wynajem-mieszkania-matching": "З'єднай кожне слово з його значенням.",
+    "pl-wynajem-mieszkania-gap": "Вибери правильне слово.",
+    "pl-wynajem-mieszkania-verbs": "Встав правильне дієслово.",
+    "pl-wynajem-mieszkania-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-wynajem-mieszkania-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-wynajem-mieszkania-matching-1",
+      "translation": "орендна плата",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-1:meaning",
+      "translation": "Гроші, які щомісяця платять за квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2",
+      "translation": "власник",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2:meaning",
+      "translation": "Людина, якій належить квартира і яка її здає.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3",
+      "translation": "застава",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3:meaning",
+      "translation": "Гроші, які платять на початку й отримують назад під час виїзду.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4",
+      "translation": "договір оренди",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4:meaning",
+      "translation": "Документ, який підписують орендар і власник.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5",
+      "translation": "комунальні послуги",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5:meaning",
+      "translation": "Вода, електрика, газ і опалення.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6",
+      "translation": "перегляд",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6:meaning",
+      "translation": "Візит, щоб подивитися квартиру перед орендою.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-1",
+      "translation": "Скільки становить орендна плата за місяць?",
+      "answerText": "орендна плата"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-2",
+      "translation": "Чи входять комунальні послуги в орендну плату?",
+      "answerText": "комунальні послуги"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-3",
+      "translation": "Треба заплатити заставу в розмірі двомісячної плати.",
+      "answerText": "заставу"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-4",
+      "translation": "Коли можна прийти подивитися квартиру?",
+      "answerText": "квартиру"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-5",
+      "translation": "Будь ласка, уважно прочитайте договір перед підписанням.",
+      "answerText": "договір"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-6",
+      "translation": "У квартирі дві кімнати і балкон.",
+      "answerText": "кімнати"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-1",
+      "translation": "Я шукаю квартиру з двома кімнатами.",
+      "answerText": "шукаю"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-2",
+      "translation": "Чи можна тримати тварин?",
+      "answerText": "тримати"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-3",
+      "translation": "Учора ми підписали договір.",
+      "answerText": "підписали"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-4",
+      "translation": "Власник дасть нам ключі в понеділок.",
+      "answerText": "дасть"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-5",
+      "translation": "Скільки коштують комунальні послуги взимку?",
+      "answerText": "коштують"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-1",
+      "translation": "Квартира ще вільна?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-2",
+      "translation": "Я хочу подивитися квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-3",
+      "translation": "Скільки становить застава?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-4",
+      "translation": "Орендну плату треба вносити до десятого числа кожного місяця.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-1",
+      "translation": "квартира",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-2",
+      "translation": "ванна кімната",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-3",
+      "translation": "застава",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-4",
+      "translation": "договір",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-5",
+      "translation": "кухня",
+      "answerText": null
+    }
+  ]
+}

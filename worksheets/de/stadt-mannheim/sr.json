@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:22.313Z"
+  },
+  "title": "Манхајм",
+  "instructions": {
+    "stadt-mannheim-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-mannheim-gap": "Означи тачну реч.",
+    "stadt-mannheim-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-mannheim-table": "Упиши члан и облик множине.",
+    "stadt-mannheim-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-mannheim-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "квадрати",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "Центар града је као шаховска табла; адресе гласе нпр. „Q6“ или „N1“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "водоторањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "Симбол Манхајма са лепим парком и фонтаном испред.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "„Spaghettieis“ (сладолед-шпагети)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "Сладолед који изгледа као шпагети са сосом од парадајза – измишљен у Манхајму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "дворац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "Велики барокни дворац; данас је тамо универзитет.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "„Laufmaschine“ (машина за трчање)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "Карл Драјс ју је изумео 1817. у Манхајму – претеча бицикла.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "„Monnem“ (Монем)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "Тако становници Манхајма на дијалекту зову свој град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "„Adler“ (Орлови)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "Хокејашка екипа из Манхајма.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "Фотографишемо водоторањ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "У кафићу наручујемо сладолед-шпагети.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "Много студената учи у дворцу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "У квадратима се брзо пронађе свака адреса.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "Карл Драјс је изумео машину за трчање.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "Увече гледамо утакмицу Орлова.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "Манхајм лежи на Рајни и на Некару.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "Адресе се састоје од једног слова и једног броја.",
+      "answerText": "састоје"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "Сладолед-шпагети има укус ваниле и јагоде.",
+      "answerText": "има"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "Некар се у Манхајму улива у Рајну.",
+      "answerText": "улива"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "Орлови играју хокеј на леду у САП арени.",
+      "answerText": "играју"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "У дворцу данас учи много студената.",
+      "answerText": "учи"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "торањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "број",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "улица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "дворац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "бицикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "фонтана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "Водоторањ стоји на Фридрихсплацу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "Да ли радо једеш сладолед-шпагети?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "У Манхајму се Некар улива у Рајну.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "Адресе имају слова и бројеве.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "водоторањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "дворац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "бицикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "улица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "фонтана",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.971Z"
+  },
+  "title": "У врача",
+  "instructions": {
+    "en-at-the-doctor-matching": "Соедини каждое слово с его значением.",
+    "en-at-the-doctor-gap": "Выбери правильное слово.",
+    "en-at-the-doctor-verbs": "Вставь правильный глагол.",
+    "en-at-the-doctor-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-at-the-doctor-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-at-the-doctor-matching-1",
+      "translation": "приём",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-1:meaning",
+      "translation": "Назначенное время, когда ты идёшь к врачу.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2",
+      "translation": "симптом",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2:meaning",
+      "translation": "Признак того, что ты болеешь, например температура.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3:meaning",
+      "translation": "Слишком высокая температура тела.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4",
+      "translation": "зал ожидания",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4:meaning",
+      "translation": "Комната, где ждут перед приёмом у врача.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5",
+      "translation": "страховая карточка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5:meaning",
+      "translation": "Карточка, которая показывает твою медицинскую страховку.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6",
+      "translation": "больничный",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6:meaning",
+      "translation": "Документ от врача, что ты не можешь работать.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-gap-1",
+      "translation": "Я хочу записаться на приём на завтра.",
+      "answerText": "приём"
+    },
+    {
+      "id": "en-at-the-doctor-gap-2",
+      "translation": "У меня со вчерашнего дня температура.",
+      "answerText": "температура"
+    },
+    {
+      "id": "en-at-the-doctor-gap-3",
+      "translation": "Пожалуйста, подождите в зале ожидания.",
+      "answerText": "зале ожидания"
+    },
+    {
+      "id": "en-at-the-doctor-gap-4",
+      "translation": "У вас есть с собой страховая карточка?",
+      "answerText": "карточка"
+    },
+    {
+      "id": "en-at-the-doctor-gap-5",
+      "translation": "Мне нужен больничный для работодателя.",
+      "answerText": "больничный"
+    },
+    {
+      "id": "en-at-the-doctor-gap-6",
+      "translation": "Какие у вас симптомы?",
+      "answerText": "симптомы"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-1",
+      "translation": "У меня болит горло.",
+      "answerText": "болит"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-2",
+      "translation": "Я чувствую сильную усталость.",
+      "answerText": "чувствую"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-3",
+      "translation": "Врач измеряет мне давление.",
+      "answerText": "измеряет"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-4",
+      "translation": "Вам нужно остаться в постели два дня.",
+      "answerText": "остаться"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-5",
+      "translation": "Пожалуйста, дышите глубоко.",
+      "answerText": "дышите"
+    },
+    {
+      "id": "en-at-the-doctor-order-1",
+      "translation": "У меня болит горло.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-2",
+      "translation": "Когда я могу прийти?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-3",
+      "translation": "Мне нужен рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-4",
+      "translation": "Пожалуйста, приходите на следующей неделе.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-1",
+      "translation": "приём",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-2",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-3",
+      "translation": "желудок",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-4",
+      "translation": "страховка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-5",
+      "translation": "врач",
+      "answerText": null
+    }
+  ]
+}

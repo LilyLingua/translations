@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.375Z"
+  },
+  "title": "Afspraken aan de telefoon",
+  "instructions": {
+    "termine-am-telefon-matching": "Verbind elk woord met de juiste uitleg.",
+    "termine-am-telefon-gap": "Kruis het juiste voorzetsel aan.",
+    "termine-am-telefon-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "termine-am-telefon-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "termine-am-telefon-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "termine-am-telefon-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "het antwoordapparaat",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Hier kunt u een bericht achterlaten.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "het doorkiesnummer",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Het directe telefoonnummer van iemand in een bedrijf.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "terugbellen",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Iemand later bellen, omdat die eerder heeft gebeld.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "verzetten",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Een afspraak naar een andere dag verplaatsen.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "afzeggen",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Zeggen dat je niet naar een afspraak komt.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "de spreekuren",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "De tijden waarop je iemand kunt bereiken.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "spellen",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Een woord letter voor letter zeggen.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Heeft u op maandag tijd?",
+      "answerText": "op"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Kan het om 10 uur?",
+      "answerText": "om"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Ik heb pas in december tijd.",
+      "answerText": "in"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "De praktijk is in het weekend gesloten.",
+      "answerText": "in"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Ik bel u over een uur terug.",
+      "answerText": "over"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Ik wacht al sinds twee weken op een afspraak.",
+      "answerText": "sinds"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Kom alstublieft tien minuten voor de afspraak.",
+      "answerText": "voor"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Kan ik alstublieft met mevrouw Weber spreken?",
+      "answerText": "spreken"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Helaas moet ik mijn afspraak afzeggen.",
+      "answerText": "afzeggen"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Kunt u mij alstublieft terugbellen?",
+      "answerText": "terugbellen"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Ik geef u mijn nummer.",
+      "answerText": "geef"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Hoe schrijft u uw naam?",
+      "answerText": "schrijft"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "het telefoontje",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "het nummer",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "het bericht",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "de telefoon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "de tijd (het tijdstip)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "de mobiele telefoon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Ik wil een afspraak verzetten.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Wanneer heeft u tijd?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Ik bel morgen nog een keer.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Komt donderdag om 9 uur u uit?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "bericht",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefoon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "afspraak",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "terugbellen",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "tijdstip",
+      "answerText": null
+    }
+  ]
+}

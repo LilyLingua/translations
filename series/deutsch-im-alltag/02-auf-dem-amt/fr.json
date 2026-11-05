@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Je voudrais m'inscrire."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Je prends un numéro."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – place 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Je voudrais inscrire mon nouvel appartement."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Voici l'attestation de mon propriétaire."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Voici mon passeport."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Je vais épeler : N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Je suis célibataire."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Où dois-je signer ?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Est-ce qu'il me faut autre chose ?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "J'ai déménagé ! Nouvel appartement, nouvelle ville…"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super ! Et – tu t'es déjà inscrit ?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Inscrit ? Où ça ? À la salle de sport ?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Non, Leo. À la mairie ! Aujourd'hui, tu vas vivre tout un rendez-vous au Bürgeramt – de l'entrée jusqu'au certificat d'inscription."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Et à chaque situation, on te demande : Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Et tu n'as que cinq secondes !"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Tu arrives au Bürgeramt. Un homme est assis à l'accueil."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Bonjour. Quel est ton motif ?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Bonjour. Je voudrais m'inscrire."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Je suis un motif."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Je veux une mairie."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A ! „Anliegen“ veut dire : Pourquoi es-tu ici ? De quoi as-tu besoin ?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Tu entends ce mot très souvent à l'administration."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Bonjour. Je voudrais m'inscrire."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Tu as un rendez-vous ?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Oui, à 9 heures."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Je voudrais m'inscrire."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "J'ai un rendez-vous à 9 heures."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Bien. Alors prends un numéro et attends là-bas, s'il te plaît."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Que fais-tu maintenant ?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Tu déménages."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Tu tires les cheveux."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Tu prends un ticket avec un numéro à la machine."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Donc A ! Je déménage. Je viens de déménager, après tout…"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Non, Leo. C ! „Eine Nummer ziehen“ veut dire : tu prends un ticket avec ton numéro d'attente."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ c'est tout autre chose – ça veut dire : aller vivre dans un nouvel appartement."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Je prends un numéro."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Tu attends. Soudain, tu entends une annonce. Écoute bien !"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Le numéro 147, place 12 s'il vous plaît."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Ton numéro est le 147. Où vas-tu ?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: À la place 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: À la place 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: À la salle 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B ! D'abord ton numéro, puis la place."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Dans beaucoup d'administrations, c'est aussi affiché sur un écran."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – place 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Tu vas à la place 12. Une femme est assise là."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Bonjour. Prends place. Que puis-je faire pour toi ?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Je voudrais t'inscrire."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Je voudrais inscrire mon nouvel appartement."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: J'habite ici maintenant. Salut !"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B ! Tu déclares ton appartement – ou toi-même : „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Mais pas „Sie“ – Madame Krüger est déjà inscrite."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Je voudrais inscrire mon nouvel appartement."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Avec plaisir. Quand as-tu emménagé ?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Le premier octobre."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Je voudrais inscrire mon nouvel appartement."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "J'ai emménagé le premier octobre."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Tu as l'attestation du propriétaire avec toi ?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, un mot long ! Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Non, je ne donne pas d'appartement."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Oui, je te donne mon appartement."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Oui, voici l'attestation de mon propriétaire."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C ! La „Wohnungsgeberbestätigung“ est un formulaire de ton propriétaire. Il y est écrit : tu habites vraiment dans cet appartement."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Sans ce papier, l'inscription n'est généralement pas possible."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Oui, voici l'attestation de mon propriétaire."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Voici l'attestation de mon propriétaire."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Et ta carte d'identité ou ton passeport, s'il te plaît."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Voici mon passeport."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Voici sont mon passeport."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Je suis passeport."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A ! Un passeport – donc „est“, pas „sont“. Tu as presque toujours besoin de ton passeport ou de ta carte d'identité à l'administration."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Et si tu l'as oublié, dis honnêtement : „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Désolé, je l'ai malheureusement oublié.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Voici mon passeport."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Voici mon passeport."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Désolé, je l'ai malheureusement oublié."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Comment écrit-on ton nom de famille ?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Tu t'appelles Nowak. Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Avec un stylo."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Je vais épeler : N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: On l'écrit très joliment."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B ! „Wie schreibt man …?“ veut dire : Quelles lettres ? Alors tu épelles – lettre par lettre."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Entraîne ton nom en allemand, tu en auras besoin partout !"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Merci."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Je vais épeler : N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Tu es marié ?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Tu n'es pas marié. Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Non, je suis célibataire."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Non, je suis malheureusement."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Non, je suis marié."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A ! „Ledig“ veut dire : pas marié. Attention : „leider“ ressemble, mais veut dire tout autre chose – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "c'est : malheureusement."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Non, je suis célibataire."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Je suis célibataire."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Je suis marié."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Merci de vérifier les informations. Si tout est correct, signe ici s'il te plaît."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Je l'écris sous la table."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Je n'aime pas signer."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Tout est correct. Où exactement dois-je signer ?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C ! „Unterschreiben“ veut dire : écrire ton nom à la main – ta signature."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Et c'est bien : lis toujours d'abord ce qu'il y a sur le formulaire."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Tout est correct. Où exactement dois-je signer ?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Ici en bas, s'il te plaît."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Où dois-je signer ?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Voilà, c'est fini. Voici ton certificat d'inscription."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Tu as terminé ! Qu'est-ce que tu dis ?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Merci, je te recontacte."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Merci beaucoup ! Est-ce qu'il me faut autre chose ?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Il ne me manque rien !"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B ! Et attention avec A : „Ich melde mich“ ne veut pas dire „je m'inscris“, mais : je te rappelle plus tard."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Et tu connais peut-être C – ça ne va que chez le médecin !"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Merci beaucoup ! Est-ce qu'il me faut autre chose ?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Non, c'est tout. Garde bien le certificat."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Est-ce qu'il me faut autre chose ?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Trois conseils pour l'inscription. Premièrement : inscris-toi dans les deux semaines après ton emménagement."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Deuxièmement : dans beaucoup de villes, il faut un rendez-vous – souvent tu peux le prendre en ligne."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Et troisièmement : tu auras souvent besoin du certificat d'inscription, par exemple pour un compte bancaire."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Donc garde-le bien !"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "À l'administration, l'allemand paraît parfois très compliqué. Leo lit – et moi, je le dis simplement."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Quel est ton motif ?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "De quoi as-tu besoin ?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Merci de préparer tes documents."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Aie tes papiers dans la main, s'il te plaît."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Remplis le formulaire complètement."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Écris quelque chose partout."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Le traitement dure environ deux semaines."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Ça prend environ deux semaines."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Merci d'apporter les documents plus tard."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Apporte les papiers plus tard, s'il te plaît."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Aujourd'hui, je me change !"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Ah, tu mets d'autres vêtements ? Ou tu veux dire : „Ich ziehe um“ – donc tu déménages dans un nouvel appartement ?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Et à l'administration : pas „Ich bin leider“, mais „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(je suis célibataire) – si tu n'es pas marié."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Et „Ich melde mich“ veut dire : je rappelle plus tard. À l'administration, tu dis : „Ich melde mich an.“ (je m'inscris)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Et maintenant, tout encore une fois. Les dix phrases les plus importantes. Répète après moi !"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Je voudrais m'inscrire."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "J'ai un rendez-vous à 9 heures."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Je prends un numéro."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Je voudrais inscrire mon nouvel appartement."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Voici l'attestation de mon propriétaire."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Voici mon passeport."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "J'épelle mon nom."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Je suis célibataire."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Où dois-je signer ?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Est-ce qu'il me faut autre chose ?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Quel mot était le plus difficile pour toi ? Écris-le en commentaire !"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Salut et à bientôt chez LilyLingua !"
+    }
+  ]
+}

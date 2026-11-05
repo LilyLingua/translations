@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:05.785Z"
+  },
+  "title": "Alugar um apartamento",
+  "instructions": {
+    "wohnung-mieten-matching": "Ligue cada palavra à explicação correta.",
+    "wohnung-mieten-gap": "Marque a forma correta do artigo.",
+    "wohnung-mieten-verbs": "Complete com o verbo correto na forma correta.",
+    "wohnung-mieten-table": "Complete o artigo (der/die/das) e a forma do plural.",
+    "wohnung-mieten-order": "Coloque as palavras na ordem correta e escreva a frase.",
+    "wohnung-mieten-spelling": "Qual palavra está escrita corretamente? Marque."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "o aluguel",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "O dinheiro que você paga todo mês pelo apartamento.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "o depósito caução",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Dinheiro que o proprietário recebe no início como garantia.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "as despesas extras",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Custos de água, aquecimento e lixo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "o contrato de aluguel",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "O contrato entre inquilino e proprietário.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "a visita ao apartamento",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Você vê o apartamento antes de alugar.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "o zelador",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ele cuida do prédio e conserta coisas pequenas.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "o regulamento do prédio",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "As regras para todos os moradores, por exemplo os horários de silêncio.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Procuramos um apartamento com varanda.",
+      "answerText": "um"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Eu falo com o proprietário.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Dou o depósito à proprietária.",
+      "answerText": "à"
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Coloco a bicicleta no pátio.",
+      "answerText": "no"
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "A chave está na mesa.",
+      "answerText": "na"
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "O aquecimento da cozinha está quebrado.",
+      "answerText": "da"
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Moro neste apartamento há um ano.",
+      "answerText": "neste"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Quando posso visitar o apartamento?",
+      "answerText": "visitar"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "O aluguel custa 850 euros com as despesas incluídas.",
+      "answerText": "custa"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Nós nos mudamos no dia 1º de dezembro.",
+      "answerText": "mudamos"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "O aquecimento está quebrado. Você pode consertar, por favor?",
+      "answerText": "consertar"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Por favor, separe o lixo.",
+      "answerText": "separe"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "o quarto",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "a cozinha",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "a varanda",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "o banheiro",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "a chave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "o aquecimento",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "O apartamento ainda está disponível?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Quanto são as despesas extras?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Quando posso visitar o apartamento?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Eu gostaria de alugar o apartamento.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "depósito caução",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "despesas extras",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "varanda",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "chave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "aquecimento",
+      "answerText": null
+    }
+  ]
+}

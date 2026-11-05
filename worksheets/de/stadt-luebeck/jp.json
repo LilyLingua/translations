@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:11.678Z"
+  },
+  "title": "リューベック",
+  "instructions": {
+    "stadt-luebeck-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-luebeck-gap": "正しい単語に印をつけましょう。",
+    "stadt-luebeck-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-luebeck-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-luebeck-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-luebeck-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "ホルステン門",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "丸い塔が2つある古い市門。リューベックのシンボル。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "マジパン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "アーモンドと砂糖で作るお菓子。リューベックはこれで有名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "ハンザの女王",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "あだ名。中世、リューベックはハンザで最も重要な都市だった。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "旧市街の島",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "旧市街は島の上にあり、世界遺産になっている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "トラフェミュンデ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "バルト海に面した地区で、砂浜と大きなフェリーがある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "トーマス・マン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "リューベック出身の有名な作家。『ブッデンブローク家の人びと』を書いた。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "「ゲンゲ」（路地）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "旧市街の家と家の間にある細い道。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "私たちはホルステン門を通ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "私はマジパンを一つ買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "中世、リューベックはハンザで最も重要な都市でした。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "トラフェミュンデで私たちは浜辺に行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "フェリーがバルト海を渡ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "トーマス・マンはある家族についての小説を書きました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "旧市街は島の上にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "ホルステン門には丸い塔が2つあります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "マジパンはアーモンドと砂糖で作ります。",
+      "answerText": "作り"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "フェリーはスウェーデンとフィンランドへ行きます。",
+      "answerText": "行き"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "旧市街は島の上にあります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "トーマス・マンは小説『ブッデンブローク家の人びと』を書きました。",
+      "answerText": "書き"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "門",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "アーモンド",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "島",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "浜辺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "フェリー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "小説",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "ホルステン門はリューベックのシンボルです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "マジパンは好きですか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "旧市街は島の上にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "夏、私たちはトラフェミュンデに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "マジパン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "島",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "浜辺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "フェリー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "アーモンド",
+      "answerText": null
+    }
+  ]
+}

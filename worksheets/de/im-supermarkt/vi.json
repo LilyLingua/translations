@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.896Z"
+  },
+  "title": "Ở siêu thị",
+  "instructions": {
+    "im-supermarkt-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "im-supermarkt-gap": "Đánh dấu bao bì hoặc số lượng phù hợp.",
+    "im-supermarkt-verbs": "Điền động từ đúng ở dạng đúng.",
+    "im-supermarkt-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "im-supermarkt-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "im-supermarkt-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "xe đẩy mua hàng",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Bạn bỏ hàng vào đó khi đi mua sắm.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "quầy pho mát",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Ở đây bạn mua pho mát tươi theo cân.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "tiền cược vỏ chai (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Tiền bạn nhận lại khi trả chai rỗng.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "máy nhận lại chai",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Ở đây bạn trả lại chai rỗng.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "hàng khuyến mãi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Một sản phẩm rẻ hơn trong thời gian ngắn.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "hóa đơn mua hàng",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Trên tờ giấy này có tất cả giá tiền.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "túi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Bạn đựng đồ mua mang về nhà.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Tôi mua một hộp sữa chua.",
+      "answerText": "hộp"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Thêm một chai nước nữa nhé.",
+      "answerText": "chai"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Chúng ta cần một gói mì ống.",
+      "answerText": "gói"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Để làm nước sốt, tôi lấy một lon cà chua.",
+      "answerText": "lon"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Cho tôi 200 gam pho mát Gouda.",
+      "answerText": "gam"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Một miếng bơ giá 2,29 euro.",
+      "answerText": "miếng"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Tôi lấy một lít sữa.",
+      "answerText": "lít"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Anh/chị có thể đổi giúp tôi năm euro không?",
+      "answerText": "đổi"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Xin lỗi, tôi tìm bột mì ở đâu?",
+      "answerText": "tìm"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Tôi trả bằng thẻ.",
+      "answerText": "trả"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Tôi muốn 200 gam pho mát Gouda.",
+      "answerText": "muốn"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Chủ nhật hầu như tất cả siêu thị đều đóng cửa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "chai",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "hộp (sữa chua)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "lon",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "bánh mì",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "quả táo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "quả chuối",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Xin lỗi, tôi tìm bột mì ở đâu?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Tôi có mang theo túi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Hôm nay chuối đang khuyến mãi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Máy nhận lại chai ở đâu?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "xe đẩy mua hàng",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "hóa đơn mua hàng",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "tiền cược vỏ chai",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "pho mát",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "bánh mì nhỏ",
+      "answerText": null
+    }
+  ]
+}

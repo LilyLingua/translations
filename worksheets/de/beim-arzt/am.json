@@ -1,0 +1,253 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በሐኪም ዘንድ",
+  "instructions": {
+    "beim-arzt-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "beim-arzt-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "beim-arzt-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "beim-arzt-table": "መስተአምሩን (der/die/das) እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "beim-arzt-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "beim-arzt-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "የጤና መድን ካርድ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "ይህንን ካርድ በእንግዳ መቀበያው ላይ ያሳያሉ። የጤና መድንዎን ያሳያል።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "ቀጠሮ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "ወደ ክሊኒኩ የሚመጡበት የተወሰነ ሰዓት።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "የመጠበቂያ ክፍል",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "እስኪጠሩ ድረስ እዚህ ይቀመጣሉ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "የመድኃኒት ማዘዣ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "በእሱ ከፋርማሲ መድኃኒት ያገኛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "የሕመም ፈቃድ ማስረጃ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "ሲታመሙ ቀጣሪዎ ይህንን ወረቀት ይቀበላል።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "ትኩሳት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "የሰውነትዎ ሙቀት በጣም ከፍ ያለ ነው፣ ለምሳሌ 39 ዲግሪ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "አለርጂ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "ሰውነት ለአንድ ነገር ጠንካራ ምላሽ ይሰጣል፣ ለምሳሌ ለፔኒሲሊን።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "የአደጋ ጊዜ ጥሪ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "ቁጥር 112 – ለአደጋ ወይም ለድንገተኛ ሁኔታ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "ጤና ይስጥልኝ፣ ቀጠሮ መያዝ እፈልጋለሁ።",
+      "answerText": "ቀጠሮ"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "የጤና መድን ካርድዎን ይዘዋል?",
+      "answerText": "የጤና መድን ካርድ"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "እባክዎ በመጠበቂያ ክፍል ውስጥ ይቀመጡ።",
+      "answerText": "መጠበቂያ ክፍል"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "ራስ ምታት እና ትኩሳት አለብኝ።",
+      "answerText": "ራስ ምታት"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "ሆዴን ያመኛል።",
+      "answerText": "ሆዴ"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "ለፔኒሲሊን አለርጂ አለብኝ።",
+      "answerText": "ፔኒሲሊን"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "ለቀጣሪዬ የሕመም ፈቃድ ማስረጃ ያስፈልገኛል።",
+      "answerText": "የሕመም ፈቃድ ማስረጃ"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "ክኒኖቹን ከምግብ በኋላ በቀን ሦስት ጊዜ ይውሰዱ።",
+      "answerText": "ምግብ"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "እባክዎ ያንን ቀስ ብለው ሊናገሩ ይችላሉ?",
+      "answerText": "ሊናገሩ"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "ከሦስት ቀን ጀምሮ ትኩሳት አለብኝ።",
+      "answerText": "አለብኝ"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "ራሴን በጣም ያመኛል።",
+      "answerText": "ያመኛል"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "እባክዎ በጥልቀት ወደ ውስጥ ይተንፍሱ – እና እንደገና ወደ ውጭ ይተንፍሱ።",
+      "answerText": "ወደ ውስጥ ይተንፍሱ"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "ሐኪሙ የመድኃኒት ማዘዣ ይሰጠኛል።",
+      "answerText": "ይሰጠኛል"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "በቅርቡ እንጠራዎታለን።",
+      "answerText": "እንጠራዎታለን"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ሐኪም",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ክኒን",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "የመድኃኒት ማዘዣ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "ቀጠሮ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "የሐኪም ቤት (ክሊኒክ)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "መድኃኒት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "ቀጠሮ መያዝ እፈልጋለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "ከሦስት ቀን ጀምሮ ትኩሳት አለብኝ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "እባክዎ ያንን መድገም ይችላሉ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "የት ነው የሚያምዎት?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "ራስ ምታት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "የሕመም ፈቃድ ማስረጃ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "የጤና መድን ካርድ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "አለርጂ ያለበት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ክኒን",
+      "answerText": null
+    }
+  ]
+}

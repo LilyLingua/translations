@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.727Z"
+  },
+  "title": "Eczanede",
+  "instructions": {
+    "in-der-apotheke-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "in-der-apotheke-gap": "Uygun kelimeyi işaretleyin.",
+    "in-der-apotheke-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "in-der-apotheke-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "in-der-apotheke-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "in-der-apotheke-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Doktordan bir ilaç için verilen kâğıt.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Yutulan küçük bir ilaç.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "öksürük şurubu",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Öksürüğe karşı sıvı bir ilaç.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "merhem",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Cilde sürülür.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "yan etki",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Bir ilacın istenmeyen etkisi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "prospektüs",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "İlaç kutusundaki tüm bilgileri içeren kâğıt.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "katkı payı",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Bir reçete için küçük bir miktarı kendiniz ödersiniz.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Doktorumdan bir reçetem var.",
+      "answerText": "reçetem"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Boğaz ağrısına karşı bir şeyiniz var mı?",
+      "answerText": "Boğaz ağrısına"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Günde iki tablet alın.",
+      "answerText": "tablet"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Merhem cilt için.",
+      "answerText": "cilt"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Lütfen prospektüsü okuyun.",
+      "answerText": "prospektüsü"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Bu ilacın neredeyse hiç yan etkisi yok.",
+      "answerText": "yan etkisi"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Hafta sonu bir eczane nöbetçi.",
+      "answerText": "eczane"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Dünden beri öksürüğüm var.",
+      "answerText": "var"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Tabletleri ne sıklıkla almalıyım?",
+      "answerText": "almalıyım"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Bu ilacı yarına kadar sipariş ediyoruz.",
+      "answerText": "sipariş ediyoruz"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Merhemi günde iki kez sürün.",
+      "answerText": "sürün"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Lütfen bol su için.",
+      "answerText": "için"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "eczane",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "ilaç",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "merhem",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "yara bandı",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "kutu",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "damla",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Öksürüğe karşı bir şeyiniz var mı?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Tabletleri ne sıklıkla almalıyım?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Baş ağrısı için bir ilaca ihtiyacım var.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Bunun için reçete gerekiyor mu?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "eczane",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "ilaç",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "yara bandı",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "yan etki",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "öksürük",
+      "answerText": null
+    }
+  ]
+}

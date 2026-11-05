@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Kas te saaksite mulle viis eurot vahetada?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Vabandust, kust ma jahu leian?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Ma sooviksin 200 grammi Goudat, palun."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Jah, sobib küll."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Banaanid on pakkumisel."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Kus on taaraautomaat?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Ei, aitäh."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Mul on kott kaasas."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Kaardiga, palun."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Aitäh, teile ka!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Mul on nii kõht tühi! Aga mu külmkapp on tühi."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Siis kiiresti supermarketisse!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Supermarket? Täiesti saksa keeles?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Muidugi! Täna teed sa terve poeskäigu – ostukärust kassatšekini."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Ja igas olukorras küsime sinult: mida sa ütled?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Ja sul on ainult viis sekundit!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Sa tahad ostukäru. Aga selleks on vaja münti – ja sul on ainult viieeurone rahatäht."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Sinu kõrval seisab vanem härra."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Vabandust, kas te saaksite mulle viis eurot kinkida?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Vabandust, kas te saaksite mulle viis eurot vahetada?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Vabandust, ma tahan teie käru."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ tähendab: sa annad rahatähe ja saad tagasi münte. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "tähendab: sa saad selle tasuta – see oleks väga kena, aga natuke jultunud."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Üks hetk … jah: kaks, neli, viis eurot. Palun!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Suur aitäh!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Kas te saaksite mulle viis eurot vahetada?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Sul on vaja jahu. Aga kus jahu on? Üks töötaja paneb parajasti riiulisse kaupa."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Mida sa küsid?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Vabandust, kust ma jahu leian?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (vale artikkel)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Kas te leidsite jahu?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Peaaegu, Leo. Õige on „das Mehl“. Aga A on veel parem: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Vabandust, kust ma leian …?) – nii küsid sa supermarketis viisakalt kõige kohta."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Jahu on kolmandas vahekäigus, riiuli kõige all."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Aitäh!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Vabandust, kust ma jahu leian?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Kolmas vahekäik, kõige all."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Nüüd lähed sa värske kauba letti. Sa tahad Goudat."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Tere! Mida teile?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Ma olen 200 grammi Goudat."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Jah, võib olla."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Ma sooviksin 200 grammi Goudat, palun."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ tähendab lihtsalt: mida te soovite? Ja väljendiga „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(ma sooviksin …) tellid sa alati viisakalt – letis, pagariäris, kohvikus."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Ma sooviksin 200 grammi Goudat, palun."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Proua Haas lõikab juustu. Kaal näitab: 230 grammi."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Kas natuke rohkem sobib?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Ei, mul ei ole lubatud."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Jah, sobib küll."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Jah, ma olen natuke rohkem."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Seda lauset kuuled sa Saksamaal igas letis. See tähendab: seda on natuke rohkem, kui tellisid – kas see sobib?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Kui ei, ütle lihtsalt: „Nein, bitte genau 200 Gramm.“ (Ei, palun täpselt 200 grammi.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Kas veel midagi?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Ei, aitäh. See on kõik."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Jah, sobib küll."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Ei, aitäh. See on kõik."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Sa kõnnid edasi. Äkki kuuled teadaannet. Kuula hoolega!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Head kliendid! Täna pakkumisel: banaanid, ainult 99 senti kilo."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Kui palju maksab kilo banaane?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 senti"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 senti. „Im Angebot“ tähendab: täna tavalisest odavam."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Banaanid on pakkumisel."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Sul on kaasas ka tühjad pudelid – selle märgiga: pandipakend („Pfand“). Kuhu need lähevad?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Taaraautomaati. Sa saad raha tagasi."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Prügikasti sissepääsu juures."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Kassasse – kingituseks."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, prügikasti!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Ei, Leo – siis viskad sa raha minema! A! Paljude pudelite eest saad sa 25 senti tagasi."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Automaat annab sulle tšeki. Selle annad sa kassas ära."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Kus on taaraautomaat?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Nüüd oled sa kassas. Sa paned kõik lindile."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Tere! Kas te kogute punkte?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Jah, ma kogun postmarke."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Ma kogun teie punkte."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Ei, aitäh."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Ma kogun postmarke. Juba koolist saati."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Tore, Leo – aga seda ta teada ei taha. C! Paljudel supermarketitel on punktidega kaart või äpp."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Kui sul seda ei ole, ütle lihtsalt: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Ei, aitäh."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Jah, siin on minu kaart."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Kas teil on kotti vaja?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Jah, üks kott piima, palun."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Ei, aitäh. Mul on kott kaasas."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Ei, ma ei ole kott."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Hea teada: Saksamaal maksavad kilekotid peaaegu alati raha."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Paljud inimesed toovad oma koti kaasa."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Mul on kott kaasas."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Kokku 23,47 €. Kas maksate sularahas või kaardiga?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Kaardiga, palun."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Ma maksan „Bar“-iga."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Jah, sularahas või kaardiga."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Jah!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo … see ei ole jah-või-ei-küsimus! A! „Bar“ tähendab: rahatähtede ja müntidega. Ja kui sa ei ole kindel, küsi: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Kas ma saan kaardiga maksta?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Kaardiga, palun."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Kas ma saan kaardiga maksta?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Kas soovite kassatšekki?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Ei, mulle ei meeldi kommid („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Ei, aitäh. Mul ei ole seda vaja."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Jah, ma sooviksin kassat."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Mulle ei meeldi kommid. Liiga palju suhkrut."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ ei ole „Bonbon“. „Kassenbon“ on pabeririba – sellel on kirjas, mida sa ostsid."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B on õige. Või: „Ja, bitte.“ (Jah, palun.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Ilusat päeva!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Aitäh, teile ka!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Aitäh, teile ka!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Kolm nõuannet Saksamaa supermarketi jaoks."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Esiteks: pühapäeval on peaaegu kõik supermarketid suletud – nii et käi poes laupäeval!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Teiseks: kassas paned sa kõik ise lindile."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Eraldaja näitab: siit algab järgmise kliendi kaup."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Ja kolmandaks: kassas käib kõik kiiresti."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Paki oma asjad rahulikult pärast kassat – see on täiesti tavaline."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo kirjutab ostunimekirja. Aga midagi on valesti …"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Pudel jogurtit."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Topsik jogurtit!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Purk leiba."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Päts leiba – või pakk röstsaia!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Topsik makarone."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Pakk makarone!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Pakk vett."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Pudel vett!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Kott tomateid."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Purk tomateid!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Kust ma juustu leian?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "Ja tegusõna läheb lõppu: mitte „Ich möchte bezahlen mit Karte“, vaid: „Ich möchte mit Karte bezahlen.“ (Ma tahaksin kaardiga maksta.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "Ja kassas: „Bon“ on kassatšekk. „Bonbon“ on komm."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "Ja nüüd kõik veel kord. Kümme kõige tähtsamat lauset. Korda minu järel!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Kas te saaksite mulle viis eurot vahetada?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Vabandust, kust ma jahu leian?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Ma sooviksin 200 grammi Goudat, palun."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Jah, sobib küll."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Ei, aitäh. See on kõik."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Banaanid on pakkumisel."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Kus on taaraautomaat?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Mul on kott kaasas."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Kas ma saan kaardiga maksta?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Aitäh, teile ka!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Mida sa supermarketist kõige meelsamini ostad? Kirjuta see kommentaaridesse!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Head aega ja kohtumiseni LilyLinguas!"
+    }
+  ]
+}

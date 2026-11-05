@@ -1,0 +1,243 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኣብ ቤት ጽሕፈት ምዝገባ ነበርቲ",
+  "instructions": {
+    "auf-dem-amt-matching": "ነፍሲ ወከፍ ቃል ምስ ቅኑዕ መብርሂኡ ኣራኽቡ።",
+    "auf-dem-amt-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "auf-dem-amt-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጺ ምልኡ።",
+    "auf-dem-amt-table": "ነቲ ዓንቀጽ (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምልኡ።",
+    "auf-dem-amt-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጥዎምሞ ነቲ ሓረግ ጽሓፍዎ።",
+    "auf-dem-amt-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "ምዝገባ ነባሪ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "ሓድሽ ኣድራሻኹም ንሰበ ስልጣን ተፍልጡ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "ቁጽሪ መስርዕ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "ነዚ ቁጽሪ ካብቲ ማሽን ትወስድዎ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "ፓስፖርት",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "ናብ ወጻኢ ንምጉዓዝ እትጥቀሙሉ ናይ መንነት ሰነድ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "ምርግጋጽ ዋና ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "ንምዝገባ ነዚ ወረቐት ካብ ዋና ገዛኹም ተድልይዎ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "ምስክር ወረቐት ምዝገባ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "እዚ ወረቐት ሕጂ ኣብዚ ኣድራሻ ከም እትነብሩ የርኢ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "ኩነታት ሓዳር",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "ዘይተመርዓወ፣ ተመርዓወ፣ ዝተፋትሐ ወይ ብሞት ዝተፈላለየ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "ፊርማ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "ብኢድ ዝተጻሕፈ ስምኩም።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "ቅጥዒ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "ዝምልኡ ቦታታት ዘለዎ ወረቐት።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "ሓድሽ ገዛይ ከመዝግብ እደሊ።",
+      "answerText": "ገዛይ"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "በጃኹም ካብቲ ማሽን ቁጽሪ ውሰዱ።",
+      "answerText": "ቁጽሪ"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "ቁጽሪ 147፣ በጃኹም ናብ መስኮት 12 ኪዱ።",
+      "answerText": "መስኮት"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "እዚ ካብ ዋና ገዛይ ዝመጸ ምርግጋጽ እዩ።",
+      "answerText": "ዋና ገዛይ"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "መንነትኩም ሒዝኩምዶ ኣለኹም?",
+      "answerText": "መንነትኩም"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "በጃኹም ነቲ ቅጥዒ ምሉእ ብምሉእ ምልእዎ።",
+      "answerText": "ቅጥዒ"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "ምስክር ወረቐት ምዝገባ ብዙሕ ግዜ ደጊምኩም ከተድልይዎ ኢኹም፣ ንኣብነት ንሕሳብ ባንኪ።",
+      "answerText": "ምስክር ወረቐት ምዝገባ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "ሎሚ ይምዝገብ ኣለኹ።",
+      "answerText": "ይምዝገብ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "ኣበይ እየ ክፍርም ዘለኒ?",
+      "answerText": "ክፍርም"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "ስመይ ፊደል ብፊደል እብሎ፦ N – O – W – A – K።",
+      "answerText": "እብሎ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "በጃኹም ኮፍ በሉ።",
+      "answerText": "ኮፍ በሉ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "እቲ መስርሕ ኣስታት ክልተ ሰሙን ይወስድ።",
+      "answerText": "ይወስድ"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "በዓል ስልጣን",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "መንነት",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "ቅጥዒ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "ዋና ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "ኣድራሻ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "ክምዝገብ እደሊ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "ኣበይ እየ ክፍርም ዘለኒ?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "እዚ ፓስፖርተይ እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "ካልእ ዘድልየኒ ኣሎዶ?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "ምስክር ወረቐት ምዝገባ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "ፓስፖርት",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "ዘይተመርዓወ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "ዋና ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "ኣድራሻ",
+      "answerText": null
+    }
+  ]
+}

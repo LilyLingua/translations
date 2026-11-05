@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.204Z"
+  },
+  "title": "Öffentliche Verkehrsmittel",
+  "instructions": {
+    "uk-hromadskyi-transport-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-hromadskyi-transport-gap": "Wählen Sie das richtige Wort.",
+    "uk-hromadskyi-transport-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-hromadskyi-transport-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-hromadskyi-transport-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-hromadskyi-transport-matching-1",
+      "translation": "die Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-1:meaning",
+      "translation": "Ein Dokument oder ein Eintrag in einer App, mit dem man fahren darf.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2",
+      "translation": "die Haltestelle",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2:meaning",
+      "translation": "Der Ort, an dem der Bus hält.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3",
+      "translation": "der Bahnsteig",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3:meaning",
+      "translation": "Der Ort am Bahnhof, an dem man in den Zug steigt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4",
+      "translation": "die Verspätung",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4:meaning",
+      "translation": "Wenn ein Bus oder Zug später kommt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5",
+      "translation": "der Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5:meaning",
+      "translation": "Eine Liste mit den Zeiten der Busse und Züge.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6",
+      "translation": "das Umsteigen",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6:meaning",
+      "translation": "Wenn man von einem Bus oder Zug in einen anderen wechselt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-1",
+      "translation": "Ich brauche eine Fahrkarte ins Zentrum.",
+      "answerText": "Fahrkarte"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-2",
+      "translation": "Der Zug fährt von Bahnsteig vier ab.",
+      "answerText": "Bahnsteig"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-3",
+      "translation": "Steigen Sie an der nächsten Haltestelle aus.",
+      "answerText": "Haltestelle"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-4",
+      "translation": "Der Zug hat zwanzig Minuten Verspätung.",
+      "answerText": "Verspätung"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-5",
+      "translation": "Schauen Sie sich den Fahrplan der Busse auf der Website an.",
+      "answerText": "Fahrplan"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-6",
+      "translation": "Am Bahnhof müssen Sie umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-1",
+      "translation": "Der Bus fährt alle zehn Minuten.",
+      "answerText": "fährt"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-2",
+      "translation": "Wo kann man eine Fahrkarte kaufen?",
+      "answerText": "kaufen"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-3",
+      "translation": "Sie müssen in eine andere Linie umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-4",
+      "translation": "Der Zug verspätet sich um fünf Minuten.",
+      "answerText": "verspätet"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-5",
+      "translation": "Bitte zeigen Sie Ihre Fahrkarte.",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-1",
+      "translation": "Welcher Bus fährt zum Flughafen?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-2",
+      "translation": "Der Zug hat zehn Minuten Verspätung.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-3",
+      "translation": "Wo ist die nächste Haltestelle?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-4",
+      "translation": "Wir haben den Bus verpasst.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-1",
+      "translation": "Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-2",
+      "translation": "Bahnhof",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-3",
+      "translation": "Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-4",
+      "translation": "Fahrgast",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-5",
+      "translation": "Bus",
+      "answerText": null
+    }
+  ]
+}

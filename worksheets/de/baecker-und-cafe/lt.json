@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Kepykloje ir kavinėje",
+  "instructions": {
+    "baecker-und-cafe-matching": "Kiekvieną žodį sujunkite su teisingu paaiškinimu.",
+    "baecker-und-cafe-gap": "Pažymėkite teisingą artikelį.",
+    "baecker-und-cafe-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "baecker-und-cafe-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "baecker-und-cafe-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "baecker-und-cafe-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "bandelė",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Nedidelė duonelė, dažnai pusryčiams.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "riestainis (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Kepinys su druska, būdingas Pietų Vokietijai.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "pyragas",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Kažkas saldaus, dažnai popiet prie kavos.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "meniu",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Jame išvardyti visi patiekalai ir gėrimai.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "sąskaita",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Joje parodyta, kiek turite sumokėti.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "arbatpinigiai",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Šiek tiek papildomų pinigų personalui.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "išsinešti",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "To nevalgote ir negeriate kavinėje.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Norėčiau bandelės.",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Man kavos.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Kiek kainuoja riestainis?",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Norėčiau gabalėlio pyrago.",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Ar staliukas laisvas?",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Geriu arbatą su pienu.",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Prašom atnešti man sąskaitą.",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Ko norėtumėte išgerti?",
+      "answerText": "norėtumėte"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Aš imsiu kapučino.",
+      "answerText": "imsiu"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Iš viso bus 6,40 euro.",
+      "answerText": "bus"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Ar galiu sumokėti kortele?",
+      "answerText": "sumokėti"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Pyragas labai skanus.",
+      "answerText": "skanus"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "bandelė",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "pyragas",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "puodelis",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "stiklinė",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "lėkštė",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "riestainis (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Norėčiau dviejų bandelių.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Kiek kainuoja pyragas?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Ar galiu sumokėti kortele?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Ar norėtumėte valgyti čia?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "bandelė",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "pyragas",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "sąskaita",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "kava",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "arbatpinigiai",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:34.819Z"
+  },
+  "title": "쾰른",
+  "instructions": {
+    "stadt-koeln-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-koeln-gap": "알맞은 단어에 표시하세요.",
+    "stadt-koeln-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-koeln-table": "관사와 복수형을 쓰세요.",
+    "stadt-koeln-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-koeln-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "'쾰레 알라프!'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "쾰른 카니발의 구호로, '쾰른 만세!'와 비슷한 뜻이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "대성당",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "중앙역 바로 옆에 있는, 탑이 두 개인 큰 교회.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "'쾰쉬'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "쾰른의 밝은 색 맥주로, 작고 가는 잔으로 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "'쾨베스'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "맥주집 웨이터로, 잔 위에 컵받침을 올려놓을 때까지 새 쾰쉬를 가져다준다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "'할베 한'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "치즈를 넣은 호밀빵 – 닭 반 마리가 아니다!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "'페델'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "쾰른 사투리로 동네를 뜻한다. 쾰른 사람은 누구나 자기 페델을 사랑한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "장미의 월요일",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "카니발의 절정으로, 도시를 지나는 큰 행진이 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "그는 맥주집에서 쾰쉬를 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "쾨베스가 다음 쾰쉬를 가져온다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "장미의 월요일에 우리는 도시를 지나는 행진을 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "많은 관광객들이 쾰른 대성당을 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "나는 할베 한을 주문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "많은 사람들이 호엔촐레른 다리 위를 산책한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "카니발 때는 의상을 입는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "카니발 때 사람들은 '쾰레 알라프!'라고 외친다.",
+      "answerText": "외친다"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "쾨베스는 묻지 않고 새 쾰쉬를 가져온다.",
+      "answerText": "가져온다"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "대성당은 높이가 150미터가 넘는다.",
+      "answerText": "넘는다"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "라인강은 쾰른 한가운데를 흐른다.",
+      "answerText": "흐른다"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "카니발은 11월 11일 11시 11분에 시작된다.",
+      "answerText": "시작된다"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "대성당",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "다리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "잔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "행진",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "의상",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "쾰른 대성당은 기차역 바로 옆에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "장미의 월요일에 쾰른 전체가 카니발을 즐긴다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "쾰쉬 한 잔 더 마실래?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "쾰른에서는 쾰쉬를 작은 잔으로 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "카니발",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "의상",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "기차역",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "잔",
+      "answerText": null
+    }
+  ]
+}

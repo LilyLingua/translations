@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "4058d0ac-89be-4844-bbfc-b0c9142521c1",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Wuppertal",
+  "topic": "NRW: Schwebebahn, Tuffi, Wupper, Treppen",
+  "tasks": [
+    {
+      "id": "stadt-wuppertal-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-wuppertal-matching-1",
+          "term": "die Schwebebahn",
+          "meaning": "Bahn, die an Schienen hängt und über dem Fluss fährt – seit 1901."
+        },
+        {
+          "id": "stadt-wuppertal-matching-2",
+          "term": "Tuffi",
+          "meaning": "Junger Elefant, der 1950 aus der Schwebebahn in die Wupper sprang."
+        },
+        {
+          "id": "stadt-wuppertal-matching-3",
+          "term": "die Wupper",
+          "meaning": "Fluss, der durch die ganze Stadt fließt."
+        },
+        {
+          "id": "stadt-wuppertal-matching-4",
+          "term": "Pina Bausch",
+          "meaning": "Berühmte Tänzerin; ihr Tanztheater aus Wuppertal kennt man weltweit."
+        },
+        {
+          "id": "stadt-wuppertal-matching-5",
+          "term": "die Treppen",
+          "meaning": "Wuppertal hat sehr viele öffentliche Treppen, weil die Stadt an Hängen liegt."
+        },
+        {
+          "id": "stadt-wuppertal-matching-6",
+          "term": "Friedrich Engels",
+          "meaning": "Denker und Freund von Karl Marx; er wurde im Stadtteil Barmen geboren."
+        },
+        {
+          "id": "stadt-wuppertal-matching-7",
+          "term": "die Nordbahntrasse",
+          "meaning": "Radweg auf einer alten Bahnstrecke, mit Tunneln und Brücken."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-wuppertal-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-wuppertal-gap-1",
+          "promptBefore": "Die Schwebebahn fährt über",
+          "promptAfter": "Wupper.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-2",
+          "promptBefore": "1950 sprang",
+          "promptAfter": "Elefant aus der Schwebebahn.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-3",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Fahrrad auf der Nordbahntrasse.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-4",
+          "promptBefore": "Friedrich Engels wurde in",
+          "promptAfter": "Stadtteil Barmen geboren.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-5",
+          "promptBefore": "Wir steigen",
+          "promptAfter": "Treppe hoch.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-6",
+          "promptBefore": "Das Tanztheater ist auf",
+          "promptAfter": "ganzen Welt bekannt.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-wuppertal-gap-7",
+          "promptBefore": "Tuffi fiel in",
+          "promptAfter": "Fluss.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-wuppertal-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-wuppertal-verbs-1",
+          "promptBefore": "Die Schwebebahn",
+          "promptAfter": "an Schienen über dem Fluss.",
+          "correctAnswer": "hängt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "hängen"
+        },
+        {
+          "id": "stadt-wuppertal-verbs-2",
+          "promptBefore": "Tuffi",
+          "promptAfter": "in die Wupper.",
+          "correctAnswer": "fiel",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fallen"
+        },
+        {
+          "id": "stadt-wuppertal-verbs-3",
+          "promptBefore": "In Wuppertal",
+          "promptAfter": "es sehr viele Treppen.",
+          "correctAnswer": "gibt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "geben"
+        },
+        {
+          "id": "stadt-wuppertal-verbs-4",
+          "promptBefore": "Die Schwebebahn",
+          "promptAfter": "seit über 120 Jahren.",
+          "correctAnswer": "fährt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-wuppertal-verbs-5",
+          "promptBefore": "Viele Radfahrer",
+          "promptAfter": "die Nordbahntrasse.",
+          "correctAnswer": "nutzen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "nutzen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-wuppertal-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-wuppertal-table-1",
+          "article": "die",
+          "singular": "Bahn",
+          "plural": "Bahnen"
+        },
+        {
+          "id": "stadt-wuppertal-table-2",
+          "article": "der",
+          "singular": "Elefant",
+          "plural": "Elefanten"
+        },
+        {
+          "id": "stadt-wuppertal-table-3",
+          "article": "die",
+          "singular": "Treppe",
+          "plural": "Treppen"
+        },
+        {
+          "id": "stadt-wuppertal-table-4",
+          "article": "der",
+          "singular": "Fluss",
+          "plural": "Flüsse"
+        },
+        {
+          "id": "stadt-wuppertal-table-5",
+          "article": "das",
+          "singular": "Rad",
+          "plural": "Räder"
+        },
+        {
+          "id": "stadt-wuppertal-table-6",
+          "article": "die",
+          "singular": "Station",
+          "plural": "Stationen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-wuppertal-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-wuppertal-order-1",
+          "chunks": [
+            "Die Schwebebahn",
+            "hängt",
+            "über der Wupper"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-wuppertal-order-2",
+          "chunks": [
+            "Jeden Tag",
+            "fahren",
+            "viele Menschen",
+            "mit der Schwebebahn"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-wuppertal-order-3",
+          "chunks": [
+            "Kennst",
+            "du",
+            "die Geschichte",
+            "von Tuffi"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-wuppertal-order-4",
+          "chunks": [
+            "Wuppertal",
+            "hat",
+            "sehr viele Treppen"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-wuppertal-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-wuppertal-spelling-1",
+          "correct": "Elefant",
+          "wrong": "Elephant"
+        },
+        {
+          "id": "stadt-wuppertal-spelling-2",
+          "correct": "Treppe",
+          "wrong": "Trepe"
+        },
+        {
+          "id": "stadt-wuppertal-spelling-3",
+          "correct": "Fluss",
+          "wrong": "Flus"
+        },
+        {
+          "id": "stadt-wuppertal-spelling-4",
+          "correct": "Schiene",
+          "wrong": "Schine"
+        },
+        {
+          "id": "stadt-wuppertal-spelling-5",
+          "correct": "Station",
+          "wrong": "Stazion"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

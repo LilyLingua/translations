@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Bas iyo tareen",
+  "instructions": {
+    "bus-und-bahn-matching": "Eray kasta ku xidh sharraxaadda saxda ah.",
+    "bus-und-bahn-gap": "Calaamadee erayga saxda ah.",
+    "bus-und-bahn-verbs": "Ku buuxi falka saxda ah qaabkiisa saxda ah.",
+    "bus-und-bahn-table": "Ku buuxi qodobka (der/die/das) iyo qaabka wadarta.",
+    "bus-und-bahn-order": "Erayada u kala hormari si sax ah oo qor jumladda.",
+    "bus-und-bahn-spelling": "Kee eray ayaa si sax ah loo qoray? Calaamadee."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "tigidhka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Isaga ayaad ku raaci kartaa baska ama tareenka.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "mashiinka tigidhada",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Halkan waxaad ka iibsan kartaa tigidh adigoon miis adeeg u baahnayn.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "goobta tareenka (platform)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Halkan ayuu tareenku ku istaagaa saldhigga.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "dib u dhaca",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Tareenku wuxuu yimaadaa waqti ka dambeeya kii loo qorsheeyay.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "beddelid tareen",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Waxaad ka degtaa tareen oo raacdaa mid kale.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "boosteejada",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Halkan ayuu basku ku istaagaa.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Tigidh bille ah oo loogu talagalay basaska iyo tareennada gudaha ee Jarmalka oo dhan.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Tareenka Köln wuxuu ka baxayaa goobta tareenka 5.",
+      "answerText": "goobta tareenka"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Tareenku wuxuu leeyahay dib u dhac toban daqiiqo ah.",
+      "answerText": "dib u dhac"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Xaggee ayay ku taal boosteejada ugu dhow?",
+      "answerText": "boosteejada"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Fadlan, hal tigidh oo Berlin ah.",
+      "answerText": "tigidh"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Fadlan tus tigidhkaaga.",
+      "answerText": "tigidhkaaga"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Tareenka dhulka hoostiisa wuxuu socdaa toban daqiiqo kasta.",
+      "answerText": "Tareenka dhulka hoostiisa"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Tigidhada waxaad ka iibsan kartaa mashiinka.",
+      "answerText": "mashiinka"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Xaggee ayaan ku beddelaa tareenka?",
+      "answerText": "beddelaa"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Basku wuxuu baxaa 8:15.",
+      "answerText": "baxaa"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Waxaan gaarnaa Hamburg saacadda 10.",
+      "answerText": "gaarnaa"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Fadlan halkan ka dega.",
+      "answerText": "dega"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Safarku intee buu qaadanayaa?",
+      "answerText": "qaadanayaa"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "tareenka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "saldhigga",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "tigidhka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "goobta tareenka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "boosteejada",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "baska",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Goorma ayuu baxayaa tareenka xiga ee München?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Waa inaan tareenka ku beddelaa Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Nasiib darro tareenku wuu daahay.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Tigidhku baska ma u shaqeeyaa sidoo kale?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "tigidh",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "dib u dhac",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "boosteejo",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "goobta tareenka",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "saldhig",
+      "answerText": null
+    }
+  ]
+}

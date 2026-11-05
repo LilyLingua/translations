@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:52.872Z"
+  },
+  "title": "เบราน์ชไวค์",
+  "instructions": {
+    "stadt-braunschweig-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-braunschweig-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-braunschweig-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-braunschweig-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-braunschweig-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-braunschweig-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-braunschweig-matching-1",
+      "translation": "สิงโตแห่งปราสาท (บวร์คเลอเวอ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-1:meaning",
+      "translation": "สิงโตสำริดบนจัตุรัสบวร์คพลัทซ์ ตัวจริงปัจจุบันอยู่ในปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2",
+      "translation": "ไฮน์ริชเดอร์เลอเวอ (ไฮน์ริชสิงโต)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2:meaning",
+      "translation": "ดยุกชื่อดังที่อาศัยอยู่ในเบราน์ชไวค์ในยุคกลาง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3",
+      "translation": "ไอน์ทรัคท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3:meaning",
+      "translation": "สโมสรฟุตบอลของเมือง สีเหลืองและน้ำเงิน นักเตะถูกเรียกว่า \"สิงโต\" ด้วย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4",
+      "translation": "แฮปปี้ ริซซี เฮาส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4:meaning",
+      "translation": "บ้านสีสันสดใส มีใบหน้าตลก ๆ และรูปหัวใจบนด้านหน้าอาคาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5",
+      "translation": "\"มุมเมอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5:meaning",
+      "translation": "น้ำมอลต์สีเข้มรสหวาน – ของขึ้นชื่อที่เก่าแก่มากของเบราน์ชไวค์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6:meaning",
+      "translation": "พระราชวังถูกสร้างขึ้นใหม่ ปัจจุบันด้านหลังเป็นศูนย์การค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7",
+      "translation": "ทิลล์ ออยเลนชปีเกิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7:meaning",
+      "translation": "ตัวตลกจอมแกล้งจากนิทานเก่า มีน้ำพุในเมืองที่ระลึกถึงเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-1",
+      "translation": "บนจัตุรัสบวร์คพลัทซ์มีสิงโตตั้งอยู่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-2",
+      "translation": "ไฮน์ริชเดอร์เลอเวอสร้างปราสาทดังควาร์เดอโรเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-3",
+      "translation": "แฟน ๆ ร้องเพลงเชียร์ไอน์ทรัคท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-4",
+      "translation": "พวกเราถ่ายรูปบ้านหลากสี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-5",
+      "translation": "ในพระราชวัง พวกเราซื้อแจ็กเก็ตตัวใหม่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-6",
+      "translation": "เด็ก ๆ เล่นอยู่ที่น้ำพุออยเลนชปีเกิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-7",
+      "translation": "มุมเมอเป็นของขึ้นชื่อเก่าแก่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-verbs-1",
+      "translation": "สิงโตตั้งอยู่บนจัตุรัสบวร์คพลัทซ์",
+      "answerText": "ตั้ง"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-2",
+      "translation": "ไอน์ทรัคท์เล่นในชุดสีเหลืองและน้ำเงิน",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-3",
+      "translation": "บ้านริซซีมีสีสันสดใสและใบหน้าตลก ๆ",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-4",
+      "translation": "ทิลล์ ออยเลนชปีเกิลแกล้งคนแบบตลก ๆ หลายครั้ง",
+      "answerText": "แกล้ง"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-5",
+      "translation": "ไฮน์ริชเดอร์เลอเวออาศัยอยู่ในเบราน์ชไวค์ในยุคกลาง",
+      "answerText": "อาศัย"
+    },
+    {
+      "id": "stadt-braunschweig-table-1",
+      "translation": "สิงโต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-2",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-3",
+      "translation": "ใบหน้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-4",
+      "translation": "ดยุก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-5",
+      "translation": "แจ็กเก็ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-6",
+      "translation": "เรื่องแกล้ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-1",
+      "translation": "สิงโตเป็นสัญลักษณ์ของเบราน์ชไวค์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-2",
+      "translation": "คุณรู้จักบ้านริซซีหลากสีไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-3",
+      "translation": "ด้านหลังพระราชวังมีศูนย์การค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-4",
+      "translation": "ทิลล์ ออยเลนชปีเกิลแกล้งคนบ่อย ๆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-1",
+      "translation": "สิงโต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-2",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-3",
+      "translation": "ดยุก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-4",
+      "translation": "ใบหน้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-5",
+      "translation": "ศูนย์การค้า",
+      "answerText": null
+    }
+  ]
+}

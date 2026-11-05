@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.119Z"
+  },
+  "title": "Kwenye duka kubwa (supermarket)",
+  "instructions": {
+    "im-supermarkt-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "im-supermarkt-gap": "Weka alama kwenye kifungashio au kiasi kinachofaa.",
+    "im-supermarkt-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "im-supermarkt-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "im-supermarkt-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "im-supermarkt-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "toroli la manunuzi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Unaweka bidhaa ndani yake unaponunua.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "kaunta ya jibini",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Hapa unapata jibini mbichi kwa uzito.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "amana ya chupa (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Pesa unazorudishiwa kwa chupa tupu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "mashine ya kurudisha chupa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Hapa unarudisha chupa tupu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "punguzo (ofa)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Bidhaa ni rahisi zaidi kwa muda mfupi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "risiti",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Bei zote ziko kwenye karatasi hii.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "mfuko",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Kwa huu unabeba manunuzi yako nyumbani.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Ninanunua kikombe kimoja cha mtindi.",
+      "answerText": "kikombe"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Na chupa moja ya maji, tafadhali.",
+      "answerText": "chupa"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Tunahitaji pakiti moja ya tambi.",
+      "answerText": "pakiti"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Kwa mchuzi ninachukua kopo moja la nyanya.",
+      "answerText": "kopo"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Ningependa gramu 200 za jibini ya Gouda, tafadhali.",
+      "answerText": "gramu"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Kipande kimoja cha siagi ni euro 2.29.",
+      "answerText": "Kipande"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Ninachukua lita moja ya maziwa.",
+      "answerText": "lita"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Unaweza kunibadilishia euro tano?",
+      "answerText": "kunibadilishia"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Samahani, unga nitaupata wapi?",
+      "answerText": "nitaupata"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Ninalipa kwa kadi.",
+      "answerText": "lipa"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Ningependa gramu 200 za jibini ya Gouda.",
+      "answerText": "Ningependa"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Siku ya Jumapili karibu maduka yote makubwa yamefungwa.",
+      "answerText": "yamefungwa"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "chupa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "kikombe (cha mtindi)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "kopo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "mkate",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "tufaha",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "ndizi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Samahani, unga nitaupata wapi?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Nina mfuko wangu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Ndizi ziko kwenye punguzo leo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Mashine ya kurudisha chupa iko wapi?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "toroli la manunuzi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "risiti",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "amana ya chupa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "jibini",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "mkate mdogo",
+      "answerText": null
+    }
+  ]
+}

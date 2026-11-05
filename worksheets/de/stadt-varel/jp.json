@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:03.101Z"
+  },
+  "title": "ファレル",
+  "instructions": {
+    "stadt-varel-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-varel-gap": "正しい単語に印をつけましょう。",
+    "stadt-varel-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-varel-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-varel-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-varel-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "風車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "1847/48年に建てられた。高さ39メートルで、ドイツで最も高い風車の一つ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "給水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "ファレルのシンボルで、高さ50メートル以上。上からは遠くまで見渡せる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "ヤーデ湾",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "ファレルのすぐ前にある、北海の大きな湾。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "ダンガスト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "ファレルに属する小さな北海の海水浴場。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "ルバーブケーキ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "ダンガストの古い保養館の有名なケーキ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "城の教会",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "街で最も古い建物で、高さ10メートル近い木の祭壇がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "干潟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "引き潮のときに歩いて入れる海の底。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "ファレルはヤーデ湾に面しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "給水塔から街全体が見えます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "ダンガストの保養館で、私たちはルバーブケーキを一切れ食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "引き潮のとき、私たちは干潟を歩きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "城の教会にはとても古い祭壇があります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "私たちは風車を訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "港にはエビ漁船が停まっています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "この風車はドイツで最も高い風車の一つです。",
+      "answerText": "です"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "干潮のときは水が引きます。",
+      "answerText": "引き"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "夏には多くの観光客がダンガストへ行きます。",
+      "answerText": "行き"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "給水塔は今でもファレルに水を供給しています。",
+      "answerText": "供給して"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "保養館ではルバーブケーキを注文します。",
+      "answerText": "注文し"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "粉ひき小屋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "羽根",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "漁船",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "湾",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "岸",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "浜辺",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "ファレルはヤーデ湾に面しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "引き潮のとき、私たちは干潟をハイキングします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "給水塔の上に登ったことがありますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "ダンガストでは多くの人がルバーブケーキを食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "粉ひき小屋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "ルバーブ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "引き潮",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "羽根",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "浜辺",
+      "answerText": null
+    }
+  ]
+}

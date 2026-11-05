@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:22.508Z"
+  },
+  "title": "En el supermercado",
+  "instructions": {
+    "im-supermarkt-matching": "Une cada palabra con la explicación correcta.",
+    "im-supermarkt-gap": "Marca el envase o la cantidad correctos.",
+    "im-supermarkt-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "im-supermarkt-table": "Completa el artículo (der/die/das) y la forma del plural.",
+    "im-supermarkt-order": "Ordena las palabras y escribe la frase.",
+    "im-supermarkt-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "el carro de la compra",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Aquí metes los productos mientras compras.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "el mostrador de quesos",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Aquí te dan queso fresco al peso.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "el depósito (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Dinero que te devuelven por las botellas vacías.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "la máquina de devolución de envases",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Aquí devuelves las botellas vacías.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "la oferta",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Un producto es más barato durante poco tiempo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "el tique de compra",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "En este papel están todos los precios.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "la bolsa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "En ella llevas la compra a casa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Compro un vasito de yogur.",
+      "answerText": "vasito"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Y una botella de agua, por favor.",
+      "answerText": "botella"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Necesitamos un paquete de pasta.",
+      "answerText": "paquete"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Para la salsa cojo una lata de tomates.",
+      "answerText": "lata"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Quería 200 gramos de gouda, por favor.",
+      "answerText": "gramos"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Una pastilla de mantequilla cuesta 2,29 euros.",
+      "answerText": "pastilla"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Me llevo un litro de leche.",
+      "answerText": "litro"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "¿Me puede cambiar cinco euros?",
+      "answerText": "cambiar"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Perdone, ¿dónde encuentro la harina?",
+      "answerText": "encuentro"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Pago con tarjeta.",
+      "answerText": "Pago"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Quería 200 gramos de gouda.",
+      "answerText": "Quería"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Los domingos casi todos los supermercados están cerrados.",
+      "answerText": "están"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "la botella",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "el vasito",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "la lata",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "el pan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "la manzana",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "el plátano",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Perdone, ¿dónde encuentro la harina?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Llevo una bolsa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Los plátanos están hoy de oferta.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "¿Dónde está la máquina de devolución de envases?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "carro de la compra",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "tique de compra",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "depósito",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "queso",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "panecillo",
+      "answerText": null
+    }
+  ]
+}

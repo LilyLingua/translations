@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.404Z"
+  },
+  "title": "বেকারি ও ক্যাফেতে",
+  "instructions": {
+    "baecker-und-cafe-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "baecker-und-cafe-gap": "সঠিক আর্টিকেলে চিহ্ন দিন।",
+    "baecker-und-cafe-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "baecker-und-cafe-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "baecker-und-cafe-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "baecker-und-cafe-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "ছোট রুটি (ব্রোটশেন)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "একটি ছোট রুটি, প্রায়ই নাশতার জন্য।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "প্রেটজেল",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "লবণ দেওয়া একটি বেকারি খাবার, দক্ষিণ জার্মানির বৈশিষ্ট্য।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "কেক",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "মিষ্টি কিছু, প্রায়ই বিকেলের কফির সঙ্গে।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "মেনু",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "এখানে সব খাবার ও পানীয় লেখা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "বিল",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "এখানে লেখা থাকে আপনাকে কত দিতে হবে।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "বকশিশ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "পরিবেশনকারীর জন্য একটু বাড়তি টাকা।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "নিয়ে যাওয়ার জন্য",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "আপনি এটা ক্যাফেতে খান বা পান করেন না।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "আমাকে একটা ছোট রুটি দিন।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "আমি একটা কফি নেব।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "প্রেটজেলের দাম কত?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "আমি এক টুকরো কেক চাই।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "টেবিলটা কি খালি?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "আমি দুধ দিয়ে চা খাই।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "দয়া করে বিলটা নিয়ে আসুন।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "আপনি কী পান করতে চান?",
+      "answerText": "পান"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "আমি একটা ক্যাপুচিনো নিচ্ছি।",
+      "answerText": "নিচ্ছি"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "সব মিলিয়ে 6,40 ইউরো হয়।",
+      "answerText": "হয়"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "আমি কি কার্ডে দিতে পারি?",
+      "answerText": "দিতে"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "কেকটা খুব সুস্বাদু।",
+      "answerText": "সুস্বাদু"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "ছোট রুটি",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "কেক",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "কাপ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "গ্লাস",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "প্লেট",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "প্রেটজেল",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "আমাকে দুটো ছোট রুটি দিন।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "কেকের দাম কত?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "আমি কি কার্ডে দিতে পারি?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "আপনি কি এখানে খাবেন?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "ছোট রুটি",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "কেক",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "বিল",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "কফি",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "বকশিশ",
+      "answerText": null
+    }
+  ]
+}

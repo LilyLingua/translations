@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.794Z"
+  },
+  "title": "ავტობუსით და მატარებლით",
+  "instructions": {
+    "bus-und-bahn-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "bus-und-bahn-gap": "მონიშნეთ შესაფერისი სიტყვა.",
+    "bus-und-bahn-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "bus-und-bahn-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "bus-und-bahn-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "bus-und-bahn-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ბილეთი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "მისით შეგიძლია ავტობუსით ან მატარებლით მგზავრობა.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "ბილეთების აპარატი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "აქ ბილეთს სალაროს გარეშე ყიდულობ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "ბაქანი (ლიანდაგი)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "აქ მატარებელი სადგურზე ჩერდება.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "დაგვიანება",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "მატარებელი დაგეგმილზე გვიან მოდის.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "გადაჯდომა",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "ერთი მატარებლიდან მეორეზე გადადიხარ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "გაჩერება",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "აქ ავტობუსი ჩერდება.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "გერმანიის ბილეთი (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "თვიური ბილეთი ავტობუსებისა და რეგიონული მატარებლებისთვის მთელ გერმანიაში.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "კიოლნის მატარებელი მე-5 ბაქნიდან გადის.",
+      "answerText": "ბაქნიდან"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "მატარებელი ათი წუთით აგვიანებს.",
+      "answerText": "აგვიანებს"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "სად არის უახლოესი გაჩერება?",
+      "answerText": "გაჩერება"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "ერთი ბილეთი ბერლინამდე, თუ შეიძლება.",
+      "answerText": "ბილეთი"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "გთხოვთ, აჩვენეთ ბილეთი.",
+      "answerText": "ბილეთი"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "მეტრო ყოველ ათ წუთში დადის.",
+      "answerText": "მეტრო"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "აპარატში შეგიძლიათ ბილეთების ყიდვა.",
+      "answerText": "აპარატში"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "სად უნდა გადავჯდე?",
+      "answerText": "გადავჯდე"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "ავტობუსი 8:15-ზე გადის.",
+      "answerText": "გადის"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "ჰამბურგში 10 საათზე ჩავდივართ.",
+      "answerText": "ჩავდივართ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "გთხოვთ, აქ ჩამოხვიდეთ.",
+      "answerText": "ჩამოხვიდეთ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "რამდენ ხანს გრძელდება მგზავრობა?",
+      "answerText": "გრძელდება"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "მატარებელი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "სადგური",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ბილეთი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "ბაქანი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "გაჩერება",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "ავტობუსი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "როდის გადის მიუნხენის შემდეგი მატარებელი?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "მანჰაიმში გადაჯდომა მიწევს.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "მატარებელი, სამწუხაროდ, აგვიანებს.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "ბილეთი ავტობუსზეც მოქმედებს?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ბილეთი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "დაგვიანება",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "გაჩერება",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "ბაქანი",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "სადგური",
+      "answerText": null
+    }
+  ]
+}

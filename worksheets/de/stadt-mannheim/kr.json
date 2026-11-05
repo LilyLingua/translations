@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:35.313Z"
+  },
+  "title": "만하임",
+  "instructions": {
+    "stadt-mannheim-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-mannheim-gap": "알맞은 단어에 표시하세요.",
+    "stadt-mannheim-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-mannheim-table": "관사와 복수형을 쓰세요.",
+    "stadt-mannheim-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-mannheim-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "크바드라테(사각 구역)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "도심이 체스판처럼 되어 있어서, 주소가 예를 들어 'Q6'이나 'N1'이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "급수탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "만하임의 상징으로, 앞에 아름다운 공원과 분수가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "스파게티 아이스크림",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "토마토소스를 얹은 스파게티처럼 보이는 아이스크림으로, 만하임에서 발명되었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "궁전",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "큰 바로크 궁전으로, 오늘날 그곳에는 대학교가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "'라우프마시네'(달리는 기계)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "카를 드라이스가 1817년에 만하임에서 발명한, 자전거의 조상.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "'모넴'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "만하임 사람들이 사투리로 자기 도시를 부르는 말.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "아들러(독수리)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "만하임의 아이스하키 팀.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "우리는 급수탑 사진을 찍는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "카페에서 우리는 스파게티 아이스크림을 주문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "많은 대학생들이 궁전에서 공부한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "크바드라테에서는 어느 주소든 빨리 찾을 수 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "카를 드라이스가 라우프마시네를 발명했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "저녁에 우리는 아들러의 경기를 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "만하임은 라인강과 네카어강 가에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "주소는 글자 하나와 숫자 하나로 이루어져 있다.",
+      "answerText": "이루어져"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "스파게티 아이스크림은 바닐라와 딸기 맛이 난다.",
+      "answerText": "맛이 난다"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "만하임에서 네카어강이 라인강으로 흘러든다.",
+      "answerText": "흘러든다"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "아들러는 SAP 아레나에서 아이스하키를 한다.",
+      "answerText": "한다"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "오늘날 궁전에서는 많은 대학생들이 공부한다.",
+      "answerText": "공부한다"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "숫자",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "거리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "궁전",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "자전거",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "분수",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "급수탑은 프리드리히 광장에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "스파게티 아이스크림 좋아해?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "만하임에서 네카어강이 라인강으로 흘러든다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "주소에는 글자와 숫자가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "급수탑",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "궁전",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "자전거",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "거리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "분수",
+      "answerText": null
+    }
+  ]
+}

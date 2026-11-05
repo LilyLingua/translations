@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.209Z"
+  },
+  "title": "In farmacia",
+  "instructions": {
+    "in-der-apotheke-matching": "Collega ogni parola alla spiegazione giusta.",
+    "in-der-apotheke-gap": "Segna la parola adatta.",
+    "in-der-apotheke-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "in-der-apotheke-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "in-der-apotheke-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "in-der-apotheke-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "la ricetta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Il foglio del medico per un farmaco.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "la compressa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Un piccolo farmaco che si inghiotte.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "lo sciroppo per la tosse",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Un farmaco liquido contro la tosse.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "la pomata",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Si spalma sulla pelle.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "l'effetto collaterale",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Un effetto indesiderato di un farmaco.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "il foglietto illustrativo",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Il foglio nella confezione del farmaco con tutte le informazioni.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "il ticket",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Paghi tu una piccola somma per la ricetta.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Ho una ricetta della mia dottoressa.",
+      "answerText": "ricetta"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Ha qualcosa per il mal di gola?",
+      "answerText": "mal di gola"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Prenda due compresse al giorno.",
+      "answerText": "compresse"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "La pomata è per la pelle.",
+      "answerText": "pelle"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Per favore, legga il foglietto illustrativo.",
+      "answerText": "foglietto illustrativo"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Il farmaco non ha quasi effetti collaterali.",
+      "answerText": "effetti collaterali"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Nel fine settimana c'è una farmacia di turno.",
+      "answerText": "farmacia"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Ho la tosse da ieri.",
+      "answerText": "Ho"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Quante volte devo prendere le compresse?",
+      "answerText": "prendere"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Ordiniamo il farmaco per domani.",
+      "answerText": "Ordiniamo"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Applichi la pomata due volte al giorno.",
+      "answerText": "Applichi"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Per favore, beva molta acqua.",
+      "answerText": "beva"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "la farmacia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "il farmaco",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "la pomata",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "il cerotto",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "la confezione",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "la goccia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Ha qualcosa per la tosse?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Quante volte devo prendere le compresse?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Ho bisogno di un farmaco per il mal di testa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Mi serve la ricetta per questo?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "farmaco",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "cerotto",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "effetto collaterale",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "tosse",
+      "answerText": null
+    }
+  ]
+}

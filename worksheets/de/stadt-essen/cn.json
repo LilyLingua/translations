@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:00.823Z"
+  },
+  "title": "埃森",
+  "instructions": {
+    "stadt-essen-matching": "把每个词和正确的解释连起来。",
+    "stadt-essen-gap": "勾出正确的词。",
+    "stadt-essen-verbs": "用正确形式填入正确的动词。",
+    "stadt-essen-table": "填写冠词和复数形式。",
+    "stadt-essen-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-essen-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "关税同盟煤矿（Zeche Zollverein）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "老煤矿；今天是联合国教科文组织世界遗产，有博物馆和设计展。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "提升塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "煤矿上方的高塔；以前人和煤都靠它运到地面上。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "“Glück auf!”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "矿工的问候——祝愿大家都能平安回到地面。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "胡格尔别墅（Villa Hügel）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "克虏伯家族的大房子，有很多房间和一个公园。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "巴尔德奈湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "鲁尔河上的湖；可以在那里驾帆船、划船和散步。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "格鲁加公园",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "有花、游乐场和动物的大公园。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "文化之都",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "埃森在2010年代表整个鲁尔区获得的称号。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "夏天很多人在巴尔德奈湖上驾帆船。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "克虏伯家族住在胡格尔别墅。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "我们参加关税同盟煤矿的导览。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "提升塔是埃森的标志。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "星期天我们去格鲁加公园。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "埃森是2010年的欧洲文化之都。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "红白埃森队在港口街比赛。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "矿工们说“Glück auf!”。",
+      "answerText": "说"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "提升塔立在老煤矿上方。",
+      "answerText": "立"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "今天再也没有煤从地下出来了。",
+      "answerText": "出来"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "很多游客参观关税同盟煤矿。",
+      "answerText": "参观"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "鲁尔河流过巴尔德奈湖。",
+      "answerText": "流"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "矿井",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "公园",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "别墅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "博物馆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "大厅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "关税同盟煤矿属于联合国教科文组织世界遗产。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "周末我们去巴尔德奈湖。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "你去过格鲁加公园吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "以前有很多矿工在井下工作。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "博物馆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "矿井",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "别墅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "煤",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "大厅",
+      "answerText": null
+    }
+  ]
+}

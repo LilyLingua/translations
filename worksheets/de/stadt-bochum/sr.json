@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:16.745Z"
+  },
+  "title": "Бохум",
+  "instructions": {
+    "stadt-bochum-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-bochum-gap": "Означи тачну реч.",
+    "stadt-bochum-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-bochum-table": "Упиши члан и облик множине.",
+    "stadt-bochum-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-bochum-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "Бермудски троугао (Bermuda3eck)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "Кварт са много кафана и барова у центру града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "каривурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "Кобасица са кечапом и кари прахом – веома омиљена у Бохуму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Херберт Гренемајер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "Певач који пева познату песму о свом граду Бохуму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "ВфЛ Бохум",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "Фудбалски клуб града у плавој и белој боји.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "Рударски музеј",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "Велики музеј о раду под земљом – са рудником који може да се разгледа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "Старлајт експрес",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "Мјузикл у којем глумци возе ролшуе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "Рурски универзитет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "Велики универзитет на ободу града са много студената.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "У петак се налазимо у Бермудском троуглу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Једем каривурст са помфритом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "Много студената учи на Рурском универзитету.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "У Рударском музеју улазимо у рудник.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "Глумци возе ролшуе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Херберт Гренемајер пева песму о Бохуму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "ВфЛ игра на стадиону у улици Кастропер штрасе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "У мјузиклу глумци возе ролшуе.",
+      "answerText": "возе"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Херберт Гренемајер пева о свом граду.",
+      "answerText": "пева"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "За викенд много људи иде у Бермудски троугао.",
+      "answerText": "иде"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "Каривурст се једе са помфритом.",
+      "answerText": "једе"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "Мјузикл се изводи у Бохуму од 1988.",
+      "answerText": "изводи"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "кафана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "песма",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "студент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "мјузикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "универзитет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "певач",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "Старлајт експрес се изводи у Бохуму од 1988.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "После факултета идемо у Бермудски троугао.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Да ли једеш каривурст са помфритом?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Гренемајер пева песму о Бохуму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "мјузикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "универзитет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "каривурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "кафана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "певач",
+      "answerText": null
+    }
+  ]
+}

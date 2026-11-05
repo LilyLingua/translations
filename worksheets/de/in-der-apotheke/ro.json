@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.856Z"
+  },
+  "title": "La farmacie",
+  "instructions": {
+    "in-der-apotheke-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "in-der-apotheke-gap": "Bifați cuvântul potrivit.",
+    "in-der-apotheke-verbs": "Completați cu verbul corect la forma corectă.",
+    "in-der-apotheke-table": "Completați articolul (der/die/das) și forma de plural.",
+    "in-der-apotheke-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "in-der-apotheke-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "rețeta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Hârtia de la medic pentru un medicament.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "comprimatul (pastila)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Un medicament mic care se înghite.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "siropul de tuse",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Un medicament lichid împotriva tusei.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "unguentul",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Se întinde pe piele.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "efectul secundar",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Un efect nedorit al unui medicament.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "prospectul",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Hârtia din cutia medicamentului cu toate informațiile.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "coplata",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "O sumă mică pentru rețetă o plătești singur.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Am o rețetă de la doamna doctor.",
+      "answerText": "rețetă"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Aveți ceva pentru durerea în gât?",
+      "answerText": "durerea în gât"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Luați două comprimate pe zi.",
+      "answerText": "comprimate"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Unguentul este pentru piele.",
+      "answerText": "piele"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Vă rog să citiți prospectul.",
+      "answerText": "prospectul"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Medicamentul nu are aproape deloc efecte secundare.",
+      "answerText": "efecte secundare"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "În weekend o farmacie este de gardă.",
+      "answerText": "farmacie"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Am tuse de ieri.",
+      "answerText": "Am"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "De câte ori trebuie să iau comprimatele?",
+      "answerText": "iau"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Comandăm medicamentul până mâine.",
+      "answerText": "Comandăm"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Aplicați unguentul de două ori pe zi.",
+      "answerText": "Aplicați"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Vă rog să beți multă apă.",
+      "answerText": "beți"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "medicamentul",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "unguentul",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plasturele",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "cutia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "picătura",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Aveți ceva pentru tuse?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "De câte ori trebuie să iau comprimatele?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Am nevoie de un medicament pentru durerea de cap.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Am nevoie de rețetă pentru asta?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "farmacie",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "medicament",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plasture",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "efect secundar",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "tuse",
+      "answerText": null
+    }
+  ]
+}

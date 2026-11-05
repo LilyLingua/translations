@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Saya ingin mendaftarkan diri."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Saya mengambil nomor."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – loket 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Saya ingin mendaftarkan apartemen baru saya."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Ini surat konfirmasi dari pemilik rumah saya."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Ini paspor saya."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Saya eja: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Saya lajang."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Di mana saya harus tanda tangan?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Apakah saya perlu yang lain lagi?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Aku sudah pindah! Apartemen baru, kota baru …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Keren! Terus – kamu sudah mendaftar?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Mendaftar? Di mana? Di tempat fitness?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Bukan, Leo. Di kantor pemerintah! Hari ini kamu menjalani satu janji temu lengkap di „Bürgeramt“ (kantor layanan warga) – dari pintu masuk sampai surat keterangan domisili."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Dan di setiap situasi kami bertanya: Apa yang kamu katakan?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Dan kamu cuma punya lima detik!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Kamu datang ke kantor layanan warga. Di meja informasi duduk seorang laki-laki."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Selamat pagi. Ada keperluan apa?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Apa yang kamu katakan?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Selamat pagi. Saya ingin mendaftarkan diri."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Saya adalah keperluan."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Saya mau kantor."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ artinya: Kenapa Anda di sini? Apa yang Anda perlukan?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Di kantor pemerintah kamu sangat sering mendengar kata ini."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Selamat pagi. Saya ingin mendaftarkan diri."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Apakah Anda punya janji?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Ya, pukul sembilan."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Saya ingin mendaftarkan diri."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Saya punya janji pukul sembilan."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Baik. Kalau begitu silakan ambil nomor dan tunggu di sana."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Apa yang kamu lakukan sekarang?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Kamu pindah rumah."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Kamu menarik rambut seseorang."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Kamu mengambil kertas bernomor dari mesin."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Jadi A! Aku pindah. Aku kan memang baru pindah …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Bukan, Leo. C! „Eine Nummer ziehen“ artinya: kamu mengambil kertas dengan nomor antreanmu."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ itu hal yang sama sekali lain – artinya: pindah ke apartemen baru."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Saya mengambil nomor."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Kamu menunggu. Tiba-tiba kamu mendengar pengumuman. Dengarkan baik-baik!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Nomor 147, silakan ke loket 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Nomormu 147. Kamu ke mana?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Ke loket 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Ke loket 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Ke ruang 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Pertama nomormu, lalu loketnya."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Di banyak kantor ini juga muncul di layar."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – loket 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Kamu pergi ke loket 12. Di sana duduk seorang perempuan."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Selamat pagi. Silakan duduk. Ada yang bisa saya bantu?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Apa yang kamu katakan?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Saya ingin mendaftarkan Anda."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Saya ingin mendaftarkan apartemen baru saya."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Sekarang saya tinggal di sini. Dah!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Kamu mendaftarkan apartemenmu – atau dirimu sendiri: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Tapi bukan „Sie“ (Anda) – Ibu Krüger sudah terdaftar."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Saya ingin mendaftarkan apartemen baru saya."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Baik. Kapan Anda pindah masuk?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Tanggal satu Oktober."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Saya ingin mendaftarkan apartemen baru saya."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Saya pindah masuk tanggal satu Oktober."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Apakah Anda membawa surat konfirmasi pemilik rumah?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Wah, katanya panjang! Apa yang kamu katakan?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Tidak, saya tidak memberi apartemen."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Ya, saya berikan apartemen saya kepada Anda."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Ya, ini surat konfirmasi dari pemilik rumah saya."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ adalah formulir dari pemilik rumahmu. Di situ tertulis: kamu benar-benar tinggal di apartemen ini."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Tanpa surat ini pendaftaran biasanya tidak bisa."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Ya, ini surat konfirmasi dari pemilik rumah saya."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Ini surat konfirmasi dari pemilik rumah saya."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Dan kartu identitas atau paspor Anda, silakan."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Apa yang kamu katakan?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Ini paspor saya."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Ini adalah-adalah paspor saya (jamak salah)."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Saya adalah paspor."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Satu paspor – jadi „ist“ (adalah, tunggal), bukan „sind“ (jamak). Paspor atau kartu identitas hampir selalu kamu perlukan di kantor pemerintah."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Kalau lupa, katakan jujur: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Maaf, sayangnya saya lupa membawanya.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Ini paspor saya."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Ini paspor saya."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Maaf, sayangnya saya lupa membawanya."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Bagaimana menulis nama belakang Anda?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Namamu Nowak. Apa yang kamu katakan?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Dengan pulpen."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Saya eja: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Tulisannya sangat indah."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ artinya: Huruf apa saja? Lalu kamu mengeja – huruf demi huruf."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Latih namamu dalam bahasa Jerman, kamu akan memerlukannya di mana-mana!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Terima kasih."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Saya eja: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Apakah Anda sudah menikah?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Kamu belum menikah. Apa yang kamu katakan?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Tidak, saya lajang."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Tidak, saya sayangnya."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Tidak, saya menikah-kan."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ artinya: belum menikah. Hati-hati: „leider“ terdengar mirip, tapi artinya lain sama sekali – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "adalah: sayangnya."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Tidak, saya lajang."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Saya lajang."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Saya sudah menikah."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Silakan periksa datanya. Kalau semua benar, tolong tanda tangan di sini."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Apa yang kamu katakan?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Saya tulis di bawah meja."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Saya tidak suka tanda tangan."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Semuanya benar. Di mana tepatnya saya harus tanda tangan?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ artinya: menulis namamu dengan tangan – tanda tanganmu."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Dan sebaiknya: selalu baca dulu apa yang tertulis di formulir."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Semuanya benar. Di mana tepatnya saya harus tanda tangan?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Di sini di bawah, silakan."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Di mana saya harus tanda tangan?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Nah, sudah selesai. Ini surat keterangan domisili Anda."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Kamu sudah selesai! Apa yang kamu katakan?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Terima kasih, nanti saya kabari."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Terima kasih banyak! Apakah saya perlu yang lain lagi?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Saya tidak kekurangan apa-apa!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Dan hati-hati dengan A: „Ich melde mich“ bukan berarti „saya mendaftar“, tapi: nanti saya telepon Anda."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Dan C mungkin masih kamu ingat – itu hanya cocok di dokter!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Terima kasih banyak! Apakah saya perlu yang lain lagi?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Tidak, itu saja. Simpan surat keterangannya baik-baik."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Ulangi setelah aku!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Apakah saya perlu yang lain lagi?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Tiga tips untuk pendaftaran alamat. Pertama: daftarkan dirimu dalam dua minggu setelah pindah."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Kedua: di banyak kota kamu perlu janji temu – sering bisa dipesan online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Dan ketiga: surat keterangan domisili akan sering kamu perlukan lagi, misalnya untuk rekening bank."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Jadi simpan baik-baik!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Di kantor pemerintah, bahasa Jerman kadang terdengar sangat rumit. Leo membacakan – dan aku katakan dengan sederhana."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Ada keperluan apa?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Anda perlu apa?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Mohon siapkan dokumen Anda."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Tolong pegang kertas-kertas Anda."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Isi formulir dengan lengkap."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Tulis sesuatu di semua kolom."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Prosesnya memakan waktu sekitar dua minggu."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Kira-kira dua minggu."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Mohon serahkan dokumen menyusul."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Tolong bawa kertasnya nanti."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Hari ini aku ganti baju!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Oh, kamu pakai baju lain? Atau maksudmu: „Ich ziehe um“ – pindah ke apartemen baru?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Dan di kantor pemerintah: bukan „Ich bin leider“, tapi „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(saya lajang) – kalau kamu belum menikah."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Dan „Ich melde mich“ artinya: nanti saya telepon. Di kantor pemerintah kamu bilang: „Ich melde mich an.“ (Saya mendaftarkan diri.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Dan sekarang semuanya sekali lagi. Sepuluh kalimat terpenting. Ulangi setelah aku!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Saya ingin mendaftarkan diri."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Saya punya janji pukul sembilan."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Saya mengambil nomor."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Saya ingin mendaftarkan apartemen baru saya."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Ini surat konfirmasi dari pemilik rumah saya."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Ini paspor saya."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Saya mengeja nama saya."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Saya lajang."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Di mana saya harus tanda tangan?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Apakah saya perlu yang lain lagi?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Kata mana yang paling sulit buatmu? Tulis di kolom komentar!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Dah, sampai jumpa lagi di LilyLingua!"
+    }
+  ]
+}

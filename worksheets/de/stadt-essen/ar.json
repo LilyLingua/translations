@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:25.692Z"
+  },
+  "title": "إسن",
+  "instructions": {
+    "stadt-essen-matching": "صِل كل كلمة بالشرح الصحيح.",
+    "stadt-essen-gap": "ضع علامة على الكلمة الصحيحة.",
+    "stadt-essen-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "stadt-essen-table": "أكمل أداة التعريف وصيغة الجمع.",
+    "stadt-essen-order": "رتّب الكلمات واكتب الجملة.",
+    "stadt-essen-spelling": "أيّ كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "منجم تسولفراين",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "منجم قديم؛ اليوم من التراث العالمي لليونسكو، فيه متاحف وتصميم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "برج الرفع",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "برج عالٍ فوق المنجم؛ به كان الناس والفحم يصعدون إلى الأعلى.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "«غلوك آوف!»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "تحية عمال المناجم – يتمنّى المرء أن يعود الجميع سالمين إلى الأعلى.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "فيلا هوغل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "بيت كبير لعائلة كروب فيه غرف كثيرة وحديقة.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "بحيرة بالدناي",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "بحيرة على نهر الرور؛ يمكن الإبحار بالشراع والتجديف والتنزّه هناك.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "حديقة غروغا",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "حديقة كبيرة فيها زهور وملاعب للأطفال وحيوانات.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "عاصمة الثقافة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "لقب حصلت عليه إسن عام 2010 لكل منطقة الرور.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "في الصيف يبحر كثيرون بالشراع في بحيرة بالدناي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "سكنت عائلة كروب في فيلا هوغل.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "نقوم بجولة مع مرشد في منجم تسولفراين.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "برج الرفع هو رمز مدينة إسن.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "يوم الأحد نذهب إلى حديقة غروغا.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "كانت إسن عام 2010 عاصمة الثقافة الأوروبية.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "يلعب نادي روت-فايس إسن في شارع هافن.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "عمال المناجم يقولون «غلوك آوف!».",
+      "answerText": "يقولون"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "برج الرفع يقف فوق المنجم القديم.",
+      "answerText": "يقف"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "اليوم لا يخرج فحم من الأرض بعد الآن.",
+      "answerText": "يخرج"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "كثير من السياح يزورون منجم تسولفراين.",
+      "answerText": "يزورون"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "نهر الرور يجري عبر بحيرة بالدناي.",
+      "answerText": "يجري"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "المنجم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "الحديقة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "الفيلا",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "البحيرة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "المتحف",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "القاعة",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "ينتمي منجم تسولفراين إلى التراث العالمي لليونسكو.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "في عطلة نهاية الأسبوع نذهب إلى بحيرة بالدناي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "هل زرت حديقة غروغا من قبل؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "في الماضي كان كثير من عمال المناجم يعملون تحت الأرض.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "المتحف",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "المنجم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "الفيلا",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "الفحم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "القاعة",
+      "answerText": null
+    }
+  ]
+}

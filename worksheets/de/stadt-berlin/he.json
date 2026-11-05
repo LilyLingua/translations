@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:40.579Z"
+  },
+  "title": "ברלין",
+  "instructions": {
+    "stadt-berlin-matching": "התאימו כל מילה להסבר הנכון.",
+    "stadt-berlin-gap": "סמנו את המילה הנכונה.",
+    "stadt-berlin-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "stadt-berlin-table": "השלימו את הארטיקל (der/die/das) ואת צורת הרבים.",
+    "stadt-berlin-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "stadt-berlin-spelling": "איזו מילה כתובה נכון? סמנו אותה."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "עיר הבירה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "העיר החשובה ביותר במדינה; הממשלה עובדת כאן.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "שער ברנדנבורג",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "אתר מפורסם עם מרכבה וארבעה סוסים למעלה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "החומה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "היא חילקה את ברלין למזרח ולמערב עד 1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "ה\"שפֶּטִי\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "חנות קטנה שפתוחה עד מאוחר בלילה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "ה\"שְׁרִיפֶּה\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "כך קוראים בברלין ללחמנייה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "ה\"פְפַנקוּכֶן\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "בברלין: מאפה מתוק ועגול במילוי ריבה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "ה\"קִיץ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "כך קוראים הברלינאים לשכונה שלהם.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "אנחנו מצלמים את שער ברנדנבורג.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "מגדל הטלוויזיה עומד ליד כיכר אלכסנדר.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "נהר השפרה זורם דרך העיר.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "אני קונה משקה בשפטי.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "עד 1989 החומה עמדה באמצע העיר.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "במאפייה אני מזמין שריפה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "אני גר בשכונה הזאת כבר שלוש שנים.",
+      "answerText": "בשכונה הזאת"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "ב-9 בנובמבר 1989 החומה נפלה.",
+      "answerText": "נפלה"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "הממשלה עובדת בברלין.",
+      "answerText": "עובדת"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "הרבה תיירים מבקרים באיסט סייד גלרי.",
+      "answerText": "מבקרים"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "השפטי פתוח עד מאוחר בלילה.",
+      "answerText": "פתוח"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "ברכבת הטבעת נוסעים במעגל מסביב למרכז העיר.",
+      "answerText": "נוסעים"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "השער",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "החומה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "הרובע",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "הגשר",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "המוזיאון",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "החנות",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "ברלין היא עיר הבירה של גרמניה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "החומה נפלה ב-1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "כבר אכלת קארי־וורסט?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "השפטי פתוח עד מאוחר בלילה.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "עיר בירה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "ממשלה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "לחמנייה",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "אתר",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "מגדל טלוויזיה",
+      "answerText": null
+    }
+  ]
+}

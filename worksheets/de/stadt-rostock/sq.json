@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:04.518Z"
+  },
+  "title": "Rostok",
+  "instructions": {
+    "stadt-rostock-matching": "Lidh çdo fjalë me shpjegimin e saktë.",
+    "stadt-rostock-gap": "Shëno fjalën e saktë.",
+    "stadt-rostock-verbs": "Plotëso foljen e saktë në formën e saktë.",
+    "stadt-rostock-table": "Plotëso nyjën dhe trajtën e shumësit.",
+    "stadt-rostock-order": "Rendit fjalët në rendin e saktë dhe shkruaj fjalinë.",
+    "stadt-rostock-spelling": "Cila fjalë është shkruar saktë? Shënoje."
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "Warnemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "Lagje buzë Detit Baltik me plazh, far dhe anije të mëdha.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "Teepott",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "Ndërtesë me një çati të veçantë, të lakuar, në plazhin e Warnemünde-s.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "Hanse Sail",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "Festë e madhe në gusht me shumë anije të vjetra me vela.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "koga",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "Anije e vjetër e Hanzës; shihet në stemën e Hansa Rostock-ut.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "F.C. Hansa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "Klubi i futbollit i qytetit në blu dhe të bardhë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "ora astronomike",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "Orë mbi 550-vjeçare në Kishën e Shën Marisë; punon edhe sot.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "universiteti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "I themeluar më 1419 – universiteti më i vjetër në rajonin e Detit Baltik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "Ngjitemi në far.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "Në gusht vijnë shumë anije në Hanse Sail.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "Një anije turistike hyn në port.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "Në Kishën e Shën Marisë ndodhet një orë e vjetër.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "Stema tregon një kogë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "Ecim në plazh deri te Teepott-i.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "Shumë studentë mësojnë në universitet.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "Ora e vjetër punon edhe sot.",
+      "answerText": "punon"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "Në Warnemünde ndalojnë anije të mëdha turistike.",
+      "answerText": "ndalojnë"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "Në Hanse Sail lundrojnë shumë anije të vjetra.",
+      "answerText": "lundrojnë"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "Fari qëndron në plazhin e Warnemünde-s.",
+      "answerText": "qëndron"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "Hansa Rostock luan në blu dhe të bardhë.",
+      "answerText": "luan"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "anija",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "fari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "ora",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "porti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "vela",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "kisha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "Warnemünde ndodhet drejt e buzë Detit Baltik.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "A vjen me mua në Hanse Sail?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "Ora e vjetër punon edhe sot.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "Në port qëndrojnë shumë anije.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "far",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "anije",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "port",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "kishë",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "velë",
+      "answerText": null
+    }
+  ]
+}

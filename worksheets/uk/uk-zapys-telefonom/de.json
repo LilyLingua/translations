@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.119Z"
+  },
+  "title": "Termine am Telefon",
+  "instructions": {
+    "uk-zapys-telefonom-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-zapys-telefonom-gap": "Wählen Sie das richtige Wort.",
+    "uk-zapys-telefonom-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-zapys-telefonom-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-zapys-telefonom-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-zapys-telefonom-matching-1",
+      "translation": "anrufen",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-1:meaning",
+      "translation": "Mit jemandem am Telefon sprechen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2:meaning",
+      "translation": "Sagen, dass man nicht kommt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3",
+      "translation": "verschieben",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3:meaning",
+      "translation": "Die Zeit eines Termins ändern.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4",
+      "translation": "die Sprachnachricht",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4:meaning",
+      "translation": "Eine Nachricht, die man hinterlässt, wenn niemand antwortet.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5",
+      "translation": "die Durchwahl",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5:meaning",
+      "translation": "Eine kurze Telefonnummer innerhalb einer Firma.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6",
+      "translation": "frei",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6:meaning",
+      "translation": "Nicht beschäftigt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-1",
+      "translation": "Ich möchte meinen Termin am Freitag absagen.",
+      "answerText": "absagen"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-2",
+      "translation": "Kann man ihn auf nächste Woche verschieben?",
+      "answerText": "verschieben"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-3",
+      "translation": "Ist der Arzt am Montag frei?",
+      "answerText": "frei"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-4",
+      "translation": "Bitte hinterlassen Sie eine Sprachnachricht.",
+      "answerText": "Sprachnachricht"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-5",
+      "translation": "Können Sie mich später zurückrufen?",
+      "answerText": "zurückrufen"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-6",
+      "translation": "Bitte wählen Sie die Durchwahl 245.",
+      "answerText": "Durchwahl"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-1",
+      "translation": "Guten Tag, hier spricht Maria Koval.",
+      "answerText": "spricht"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-2",
+      "translation": "Ich möchte einen Termin vereinbaren.",
+      "answerText": "möchte"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-3",
+      "translation": "Könnten Sie das bitte wiederholen?",
+      "answerText": "wiederholen"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-4",
+      "translation": "Ich rufe Sie in zehn Minuten zurück.",
+      "answerText": "rufe"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-5",
+      "translation": "Das Büro schließt um fünf.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "uk-zapys-telefonom-order-1",
+      "translation": "Kann ich mit Doktor Bondarenko sprechen?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-2",
+      "translation": "Ich möchte meinen Termin absagen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-3",
+      "translation": "Passt Ihnen Dienstag um zehn?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-4",
+      "translation": "Ich rufe morgen zurück.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-1",
+      "translation": "Nachricht",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-2",
+      "translation": "Telefon",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-3",
+      "translation": "Mittwoch",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-4",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-5",
+      "translation": "frei",
+      "answerText": null
+    }
+  ]
+}

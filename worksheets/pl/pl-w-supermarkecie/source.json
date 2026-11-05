@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "439c9bf8-1736-4705-85ba-2a445f5d7955",
+    "level": "A1"
+  },
+  "title": "W supermarkecie",
+  "topic": "Zakupy, szukanie produktów i płacenie przy kasie",
+  "tasks": [
+    {
+      "id": "pl-w-supermarkecie-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-w-supermarkecie-matching-1",
+          "term": "wózek",
+          "meaning": "Duży kosz na kółkach na zakupy."
+        },
+        {
+          "id": "pl-w-supermarkecie-matching-2",
+          "term": "kasa",
+          "meaning": "Miejsce, gdzie się płaci."
+        },
+        {
+          "id": "pl-w-supermarkecie-matching-3",
+          "term": "półka",
+          "meaning": "Leżą na niej produkty w sklepie."
+        },
+        {
+          "id": "pl-w-supermarkecie-matching-4",
+          "term": "paragon",
+          "meaning": "Kartka, na której jest napisane, co kupiłeś i ile zapłaciłeś."
+        },
+        {
+          "id": "pl-w-supermarkecie-matching-5",
+          "term": "kasjer",
+          "meaning": "Osoba, która pracuje przy kasie."
+        },
+        {
+          "id": "pl-w-supermarkecie-matching-6",
+          "term": "reklamówka",
+          "meaning": "W niej niesie się zakupy do domu."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-w-supermarkecie-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-w-supermarkecie-gap-1",
+          "promptBefore": "Potrzebuję butelkę",
+          "promptAfter": ".",
+          "correctAnswer": "mleka",
+          "options": [
+            "mleka",
+            "kasy",
+            "półki"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-supermarkecie-gap-2",
+          "promptBefore": "Chleb leży na górnej",
+          "promptAfter": ".",
+          "correctAnswer": "półce",
+          "options": [
+            "półce",
+            "kasie",
+            "butelce"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-supermarkecie-gap-3",
+          "promptBefore": "Proszę zapłacić przy",
+          "promptAfter": ".",
+          "correctAnswer": "kasie",
+          "options": [
+            "kasie",
+            "półce",
+            "butelce"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-supermarkecie-gap-4",
+          "promptBefore": "Proszę, oto",
+          "promptAfter": ". Miłego dnia!",
+          "correctAnswer": "paragon",
+          "options": [
+            "paragon",
+            "półka",
+            "kasa"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-supermarkecie-gap-5",
+          "promptBefore": "Wkładam jabłka do",
+          "promptAfter": ".",
+          "correctAnswer": "wózka",
+          "options": [
+            "wózka",
+            "kasy",
+            "paragonu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-supermarkecie-gap-6",
+          "promptBefore": "Przy kasie pracuje miły",
+          "promptAfter": ".",
+          "correctAnswer": "kasjer",
+          "options": [
+            "kasjer",
+            "wózek",
+            "paragon"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-w-supermarkecie-verbs-1",
+          "promptBefore": "Ile",
+          "promptAfter": "jabłka?",
+          "correctAnswer": "kosztują",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kosztować"
+        },
+        {
+          "id": "pl-w-supermarkecie-verbs-2",
+          "promptBefore": "",
+          "promptAfter": "kartą.",
+          "correctAnswer": "Płacę",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "płacić"
+        },
+        {
+          "id": "pl-w-supermarkecie-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "jajka i chleb.",
+          "correctAnswer": "Kupujemy",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kupować"
+        },
+        {
+          "id": "pl-w-supermarkecie-verbs-4",
+          "promptBefore": "Przepraszam, gdzie",
+          "promptAfter": "ryż?",
+          "correctAnswer": "leży",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "leżeć"
+        },
+        {
+          "id": "pl-w-supermarkecie-verbs-5",
+          "promptBefore": "Sklep",
+          "promptAfter": "się o dziesiątej.",
+          "correctAnswer": "zamyka",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zamykać się"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-w-supermarkecie-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-w-supermarkecie-order-1",
+          "chunks": [
+            "Gdzie",
+            "jest",
+            "ryż"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-w-supermarkecie-order-2",
+          "chunks": [
+            "Potrzebuję",
+            "reklamówki"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-supermarkecie-order-3",
+          "chunks": [
+            "Czy mogę",
+            "zapłacić",
+            "kartą"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-w-supermarkecie-order-4",
+          "chunks": [
+            "Mleko",
+            "stoi",
+            "w trzeciej alejce"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-w-supermarkecie-spelling-1",
+          "correct": "warzywa",
+          "wrong": "waszywa"
+        },
+        {
+          "id": "pl-w-supermarkecie-spelling-2",
+          "correct": "chleb",
+          "wrong": "hleb"
+        },
+        {
+          "id": "pl-w-supermarkecie-spelling-3",
+          "correct": "jabłko",
+          "wrong": "jabko"
+        },
+        {
+          "id": "pl-w-supermarkecie-spelling-4",
+          "correct": "mleko",
+          "wrong": "mlęko"
+        },
+        {
+          "id": "pl-w-supermarkecie-spelling-5",
+          "correct": "kurczak",
+          "wrong": "kuczak"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

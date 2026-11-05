@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "1c5ec975-ac09-4735-a29d-b2f28d6cd2a5",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Aachen",
+  "topic": "NRW: Dom, Printen, Dreiländereck, „Öcher“",
+  "tasks": [
+    {
+      "id": "stadt-aachen-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-aachen-matching-1",
+          "term": "der Aachener Dom",
+          "meaning": "Kirche von Karl dem Großen; das erste Welterbe in Deutschland."
+        },
+        {
+          "id": "stadt-aachen-matching-2",
+          "term": "die Printen",
+          "meaning": "Würzige Lebkuchen aus Aachen, besonders beliebt im Winter."
+        },
+        {
+          "id": "stadt-aachen-matching-3",
+          "term": "„Öcher“",
+          "meaning": "So nennen sich die Aachener in ihrem Dialekt (Öcher Platt)."
+        },
+        {
+          "id": "stadt-aachen-matching-4",
+          "term": "das Dreiländereck",
+          "meaning": "Ort, an dem Deutschland, Belgien und die Niederlande zusammenkommen."
+        },
+        {
+          "id": "stadt-aachen-matching-5",
+          "term": "die Thermalquellen",
+          "meaning": "Heißes Wasser aus der Erde; deshalb ist Aachen auch ein Kurort."
+        },
+        {
+          "id": "stadt-aachen-matching-6",
+          "term": "der CHIO",
+          "meaning": "Großes Reitturnier mit Pferden aus der ganzen Welt."
+        },
+        {
+          "id": "stadt-aachen-matching-7",
+          "term": "der Karlspreis",
+          "meaning": "Preis für Menschen, die viel für Europa getan haben."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-aachen-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-aachen-gap-1",
+          "promptBefore": "Karl der Große baute",
+          "promptAfter": "Dom.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-2",
+          "promptBefore": "Im Winter essen wir",
+          "promptAfter": "Printe.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-3",
+          "promptBefore": "Wir wandern zu",
+          "promptAfter": "Dreiländereck.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-4",
+          "promptBefore": "Das Wasser aus",
+          "promptAfter": "Quelle ist sehr heiß.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-5",
+          "promptBefore": "Beim CHIO springen die Pferde über",
+          "promptAfter": "Hindernisse.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-6",
+          "promptBefore": "Fast jedes Jahr bekommt jemand",
+          "promptAfter": "Karlspreis.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-aachen-gap-7",
+          "promptBefore": "Viele Studenten lernen an",
+          "promptAfter": "RWTH.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-aachen-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-aachen-verbs-1",
+          "promptBefore": "Aachen",
+          "promptAfter": "an Belgien und die Niederlande.",
+          "correctAnswer": "grenzt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "grenzen"
+        },
+        {
+          "id": "stadt-aachen-verbs-2",
+          "promptBefore": "Das heiße Wasser",
+          "promptAfter": "aus der Erde.",
+          "correctAnswer": "kommt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-aachen-verbs-3",
+          "promptBefore": "Die Pferde",
+          "promptAfter": "über hohe Hindernisse.",
+          "correctAnswer": "springen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "springen"
+        },
+        {
+          "id": "stadt-aachen-verbs-4",
+          "promptBefore": "Viele Aachener",
+          "promptAfter": "Öcher Platt.",
+          "correctAnswer": "sprechen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sprechen"
+        },
+        {
+          "id": "stadt-aachen-verbs-5",
+          "promptBefore": "Karl der Große",
+          "promptAfter": "im Dom begraben.",
+          "correctAnswer": "liegt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "liegen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-aachen-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-aachen-table-1",
+          "article": "die",
+          "singular": "Quelle",
+          "plural": "Quellen"
+        },
+        {
+          "id": "stadt-aachen-table-2",
+          "article": "das",
+          "singular": "Pferd",
+          "plural": "Pferde"
+        },
+        {
+          "id": "stadt-aachen-table-3",
+          "article": "das",
+          "singular": "Land",
+          "plural": "Länder"
+        },
+        {
+          "id": "stadt-aachen-table-4",
+          "article": "der",
+          "singular": "Preis",
+          "plural": "Preise"
+        },
+        {
+          "id": "stadt-aachen-table-5",
+          "article": "die",
+          "singular": "Grenze",
+          "plural": "Grenzen"
+        },
+        {
+          "id": "stadt-aachen-table-6",
+          "article": "der",
+          "singular": "Kaiser",
+          "plural": "Kaiser"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-aachen-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-aachen-order-1",
+          "chunks": [
+            "Der Aachener Dom",
+            "ist",
+            "über 1200 Jahre",
+            "alt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-aachen-order-2",
+          "chunks": [
+            "Hast",
+            "du",
+            "schon",
+            "Printen probiert"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-aachen-order-3",
+          "chunks": [
+            "Aachen",
+            "liegt",
+            "an der Grenze",
+            "zu Belgien"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-aachen-order-4",
+          "chunks": [
+            "Das Wasser",
+            "aus den Quellen",
+            "ist",
+            "sehr heiß"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-aachen-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-aachen-spelling-1",
+          "correct": "Quelle",
+          "wrong": "Kwelle"
+        },
+        {
+          "id": "stadt-aachen-spelling-2",
+          "correct": "Grenze",
+          "wrong": "Grense"
+        },
+        {
+          "id": "stadt-aachen-spelling-3",
+          "correct": "Pferd",
+          "wrong": "Pfert"
+        },
+        {
+          "id": "stadt-aachen-spelling-4",
+          "correct": "Kaiser",
+          "wrong": "Keiser"
+        },
+        {
+          "id": "stadt-aachen-spelling-5",
+          "correct": "Belgien",
+          "wrong": "Belgjen"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

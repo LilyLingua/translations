@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:02.556Z"
+  },
+  "title": "Majnc",
+  "instructions": {
+    "stadt-mainz-matching": "Lidh çdo fjalë me shpjegimin e saktë.",
+    "stadt-mainz-gap": "Shëno fjalën e saktë.",
+    "stadt-mainz-verbs": "Plotëso foljen e saktë në formën e saktë.",
+    "stadt-mainz-table": "Plotëso nyjën dhe trajtën e shumësit.",
+    "stadt-mainz-order": "Rendit fjalët në rendin e saktë dhe shkruaj fjalinë.",
+    "stadt-mainz-spelling": "Cila fjalë është shkruar saktë? Shënoje."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "„Fastnacht“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Kështu quhet karnavali në Majnc; thirret „Helau“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "e Hëna e Trëndafilave",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Kulmi i karnavalit me një paradë të madhe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "shtypshkronja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Johannes Gutenbergu e shpiku në Majnc, me shkronja të lëvizshme.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "Mainzelmännchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Figura të vogla vizatimore të kanalit ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "„Weck, Worscht un Woi“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "Dialekti i Majncit për panin, salsiçe dhe verë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "„Meenzer“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Kështu e quajnë veten banorët e Majncit në dialekt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "mëngjesi i tregut",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Takim të shtunën në tregun pranë katedrales, me verë dhe salsiçe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Gutenbergu shpiku shtypshkronjën.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "Të Hënën e Trëndafilave shohim një paradë të madhe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Mëngjesi i tregut është pranë katedrales.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "ZDF ka selinë në qytetin e Majncit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "Ai pi një gotë verë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "Në muze shohim një Bibël të vjetër.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Majnci ndodhet buzë Rinit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Johannes Gutenbergu shpiku shtypshkronjën.",
+      "answerText": "shpiku"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "Në karnaval Meenzer-ët thërrasin „Helau“.",
+      "answerText": "thërrasin"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Mainzelmännchen dalin në ZDF midis reklamave.",
+      "answerText": "dalin"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "Të shtunën takohemi në mëngjesin e tregut.",
+      "answerText": "takohemi"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Rreth Majncit rritet shumë rrush.",
+      "answerText": "rritet"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "parada",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "libri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "shkronja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "Bibla",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "panini",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "katedralja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Gutenbergu shpiku shtypshkronjën në Majnc.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "Të Hënën e Trëndafilave ka një paradë të madhe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "A shkojmë të shtunën në mëngjesin e tregut?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Majnci ndodhet buzë Rinit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "shkronjë",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Bibël",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "paradë",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "e Hëna e Trëndafilave",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "televizion",
+      "answerText": null
+    }
+  ]
+}

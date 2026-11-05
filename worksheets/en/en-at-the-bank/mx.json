@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.344Z"
+  },
+  "title": "En el banco",
+  "instructions": {
+    "en-at-the-bank-matching": "Relaciona cada palabra con su significado.",
+    "en-at-the-bank-gap": "Elige la palabra correcta.",
+    "en-at-the-bank-verbs": "Escribe el verbo correcto.",
+    "en-at-the-bank-order": "Ordena las palabras y escribe la oración.",
+    "en-at-the-bank-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-at-the-bank-matching-1",
+      "translation": "la cuenta bancaria",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-1:meaning",
+      "translation": "Un lugar en el banco donde se guarda tu dinero.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2",
+      "translation": "la tarjeta de débito",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2:meaning",
+      "translation": "Una tarjeta para pagar con el dinero de tu cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3",
+      "translation": "el NIP",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3:meaning",
+      "translation": "Un número secreto para tu tarjeta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4",
+      "translation": "el cajero automático",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4:meaning",
+      "translation": "Una máquina donde puedes sacar efectivo.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5",
+      "translation": "la transferencia",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5:meaning",
+      "translation": "Cuando mandas dinero de tu cuenta a otra cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6",
+      "translation": "el saldo",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6:meaning",
+      "translation": "Cuánto dinero hay en tu cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-gap-1",
+      "translation": "Quiero abrir una cuenta bancaria.",
+      "answerText": "cuenta"
+    },
+    {
+      "id": "en-at-the-bank-gap-2",
+      "translation": "Por favor, ingrese su NIP.",
+      "answerText": "NIP"
+    },
+    {
+      "id": "en-at-the-bank-gap-3",
+      "translation": "¿Dónde está el cajero más cercano?",
+      "answerText": "cajero"
+    },
+    {
+      "id": "en-at-the-bank-gap-4",
+      "translation": "Quiero hacer una transferencia a mi arrendador.",
+      "answerText": "transferencia"
+    },
+    {
+      "id": "en-at-the-bank-gap-5",
+      "translation": "¿Cómo puedo consultar mi saldo?",
+      "answerText": "saldo"
+    },
+    {
+      "id": "en-at-the-bank-gap-6",
+      "translation": "Mi tarjeta de débito no funciona.",
+      "answerText": "débito"
+    },
+    {
+      "id": "en-at-the-bank-verbs-1",
+      "translation": "Quiero abrir una cuenta.",
+      "answerText": "Quiero"
+    },
+    {
+      "id": "en-at-the-bank-verbs-2",
+      "translation": "¿Puedo sacar efectivo aquí?",
+      "answerText": "sacar"
+    },
+    {
+      "id": "en-at-the-bank-verbs-3",
+      "translation": "Por favor, firme este formulario.",
+      "answerText": "firme"
+    },
+    {
+      "id": "en-at-the-bank-verbs-4",
+      "translation": "La tarjeta llega en cinco días.",
+      "answerText": "llega"
+    },
+    {
+      "id": "en-at-the-bank-verbs-5",
+      "translation": "Se me olvidó mi NIP.",
+      "answerText": "olvidó"
+    },
+    {
+      "id": "en-at-the-bank-order-1",
+      "translation": "Quiero abrir una cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-2",
+      "translation": "¿Dónde puedo sacar dinero?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-3",
+      "translation": "Mi tarjeta está bloqueada.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-4",
+      "translation": "¿Cuánto cuesta la cuenta?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-1",
+      "translation": "cuenta",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-2",
+      "translation": "saldo",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-3",
+      "translation": "retirar",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-4",
+      "translation": "recibo",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-5",
+      "translation": "firma",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:55.448Z"
+  },
+  "title": "Bonn",
+  "instructions": {
+    "stadt-bonn-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-bonn-gap": "Coche le bon mot.",
+    "stadt-bonn-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-bonn-table": "Complète l'article et le pluriel.",
+    "stadt-bonn-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-bonn-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "la ville fédérale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "Titre officiel de Bonn ; jusqu'en 1990, Bonn était la capitale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "Beethoven",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "Compositeur célèbre ; il est né à Bonn en 1770.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "Haribo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "Entreprise de bonbons en forme d'oursons ; le nom vient de Hans Riegel Bonn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "la floraison des cerisiers",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "Au printemps, dans la vieille ville, beaucoup d'arbres fleurissent tout en rose.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "la Maison de l'Histoire",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "Musée sur l'histoire de l'Allemagne après 1945.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "la « Weiberfastnacht » (le carnaval des femmes)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "Jour de carnaval des femmes ; il serait né à Beuel, un quartier de Bonn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "le Drachenfels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "Montagne au bord du Rhin avec les ruines d'un château et une belle vue.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "Bonn a longtemps été la capitale de la République fédérale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "Beethoven est né dans une maison de la Bonngasse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "En avril, les cerisiers fleurissent dans la vieille ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "Nous visitons la Maison de l'Histoire.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "Mon enfant aime manger un sachet d'oursons en gomme.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "À la Weiberfastnacht, les femmes coupent la cravate des hommes.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "Nous montons à pied sur le Drachenfels.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "Beethoven est né à Bonn en 1770.",
+      "answerText": "est né"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "Au printemps, les cerisiers fleurissent en rose.",
+      "answerText": "fleurissent"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "Les oursons en gomme rendent les enfants heureux.",
+      "answerText": "rendent"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "Beaucoup de ministères sont encore à Bonn aujourd'hui.",
+      "answerText": "sont"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "Le Rhin coule le long de la ville.",
+      "answerText": "coule"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "l'arbre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "la fleur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "le ministère",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "le sachet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "le compositeur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "la cravate",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "Beethoven est né à Bonn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "En avril, la vieille ville est toute rose.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "Tu as encore des oursons en gomme ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "Bonn était autrefois la capitale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "le compositeur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "la cravate",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "l'histoire",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "l'arbre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "la fleur",
+      "answerText": null
+    }
+  ]
+}

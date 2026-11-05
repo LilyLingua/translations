@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.073Z"
+  },
+  "title": "Takime në telefon",
+  "instructions": {
+    "termine-am-telefon-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "termine-am-telefon-gap": "Shënoni parafjalën e duhur.",
+    "termine-am-telefon-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "termine-am-telefon-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "termine-am-telefon-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "termine-am-telefon-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "sekretaria telefonike",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Këtu mund të lini një mesazh.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "numri i brendshëm",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Numri i drejtpërdrejtë i telefonit të një personi në një kompani.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "të të marrë përsëri në telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Ta telefonosh dikë më vonë, sepse ai të ka telefonuar më parë.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "të shtysh",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Ta kalosh një takim në një ditë tjetër.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "të anulosh",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Të thuash se nuk vjen në një takim.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "orari i pritjes",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Oraret kur mund ta kapësh dikë.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "të gërmëzosh",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Ta thuash një fjalë shkronjë për shkronjë.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Keni kohë të hënën?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "A shkon në orën 10?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Nuk kam kohë para dhjetorit.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Praktika është e mbyllur në fundjavë.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Ju marr përsëri pas një ore.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Prej dy javësh pres për një takim.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Ju lutem ejani dhjetë minuta para takimit.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "A mund të flas me zonjën Weber, ju lutem?",
+      "answerText": "flas"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Fatkeqësisht duhet ta anuloj takimin tim.",
+      "answerText": "anuloj"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "A mund të më merrni përsëri në telefon, ju lutem?",
+      "answerText": "merrni"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Po ju jap numrin tim.",
+      "answerText": "jap"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Si shkruhet emri juaj?",
+      "answerText": "shkruhet"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "telefonata",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numri",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "mesazhi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefoni",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "ora",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "celulari",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Dua ta shtyj një takim.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Kur keni kohë?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Do të telefonoj përsëri nesër.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Ju përshtatet e enjtja në orën 9?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "mesazhi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefoni",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "takimi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "të të marrë përsëri në telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "ora",
+      "answerText": null
+    }
+  ]
+}

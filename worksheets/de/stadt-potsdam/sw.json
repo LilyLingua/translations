@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:39.002Z"
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-potsdam-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-potsdam-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-potsdam-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-potsdam-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-potsdam-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "Kasri la Frederick Mkuu; jina ni la Kifaransa, maana yake \"bila wasiwasi\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "\"Fritz Mzee\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "Jina la utani la mfalme wa Prussia Frederick II.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "kiazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "Fritz Mzee alikifanya kipendwe Prussia; watu huweka viazi kwenye kaburi lake.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "Mtaa wa Kiholanzi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "Mtaa wenye nyumba za matofali mekundu kwa mtindo wa Uholanzi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "Hapa kuna studio kubwa za filamu; filamu nyingi hutengenezwa hapa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "Daraja la Glienicke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "Daraja kwenda Berlin; wakati wa Vita Baridi wapelelezi walibadilishana hapa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "Mto wenye maziwa mengi kuzunguka Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "Tunatembelea Kasri la Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "Kwenye kaburi la Fritz Mzee kuna viazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "Tunatembea katika Mtaa wa Kiholanzi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "Babelsberg wanarekodi filamu mpya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "Tunasafiri kwa mashua kwenye Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Potsdam iko karibu kabisa na mji mkuu Berlin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "Daraja la Glienicke linavuka Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "Frederick Mkuu alipenda kuishi Sanssouci.",
+      "answerText": "alipenda"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "Wageni huweka viazi kwenye kaburi lake.",
+      "answerText": "huweka"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "Babelsberg filamu nyingi hurekodiwa.",
+      "answerText": "hurekodiwa"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "Kwa S-Bahn unafika Berlin haraka.",
+      "answerText": "unafika"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "Mwaka 1945 Mkutano wa Potsdam ulifanyika katika Kasri la Cecilienhof.",
+      "answerText": "ulifanyika"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "kasri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "mfalme",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "kiazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "studio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "filamu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "kaburi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "Fritz Mzee aliishi Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "Kwenye kaburi lake daima kuna viazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "Umeshawahi kwenda Filmpark Babelsberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Potsdam iko karibu kabisa na Berlin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "mfalme",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "kiazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "kasri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "filamu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "bustani",
+      "answerText": null
+    }
+  ]
+}

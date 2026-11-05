@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:39.952Z"
+  },
+  "title": "फ़ोन पर अपॉइंटमेंट",
+  "instructions": {
+    "termine-am-telefon-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "termine-am-telefon-gap": "सही संबंधसूचक (प्रीपोज़िशन) पर निशान लगाइए।",
+    "termine-am-telefon-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "termine-am-telefon-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "termine-am-telefon-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "termine-am-telefon-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "आंसरिंग मशीन",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "यहाँ आप संदेश छोड़ सकते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "सीधा एक्सटेंशन नंबर",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "किसी कंपनी में किसी व्यक्ति का सीधा फ़ोन नंबर।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "वापस फ़ोन करना",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "किसी को बाद में फ़ोन करना, क्योंकि उसने पहले फ़ोन किया था।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "टालना (आगे बढ़ाना)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "किसी अपॉइंटमेंट को दूसरे दिन पर ले जाना।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "रद्द करना",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "कहना कि आप अपॉइंटमेंट पर नहीं आएँगे।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "मिलने का समय",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "वह समय जब किसी से संपर्क हो सकता है।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "वर्तनी बताना",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "किसी शब्द को अक्षर-अक्षर बोलना।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "क्या आपके पास सोमवार को समय है?",
+      "answerText": "को"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "क्या 10 बजे ठीक रहेगा?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "दिसंबर से पहले मेरे पास समय नहीं है।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "क्लिनिक सप्ताहांत पर बंद रहता है।",
+      "answerText": "पर"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "मैं आपको एक घंटे में वापस फ़ोन करता हूँ।",
+      "answerText": "में"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "मैं दो हफ़्ते से अपॉइंटमेंट का इंतज़ार कर रहा हूँ।",
+      "answerText": "से"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "कृपया अपॉइंटमेंट से दस मिनट पहले आइए।",
+      "answerText": "पहले"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "क्या मैं श्रीमती वेबर से बात कर सकता हूँ?",
+      "answerText": "बात कर"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "दुर्भाग्य से मुझे अपना अपॉइंटमेंट रद्द करना होगा।",
+      "answerText": "रद्द करना"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "क्या आप मुझे वापस फ़ोन कर सकते हैं?",
+      "answerText": "वापस फ़ोन कर"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "मैं आपको अपना नंबर देता हूँ।",
+      "answerText": "देता"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "आपका नाम कैसे लिखा जाता है?",
+      "answerText": "लिखा जाता"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "कॉल",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "नंबर",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "संदेश",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "टेलीफ़ोन",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "समय",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "मोबाइल फ़ोन",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "मैं एक अपॉइंटमेंट आगे बढ़ाना चाहता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "आपके पास कब समय है?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "मैं कल फिर से फ़ोन करूँगा।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "क्या गुरुवार 9 बजे आपके लिए ठीक है?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "संदेश",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "टेलीफ़ोन",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "अपॉइंटमेंट",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "वापस फ़ोन करना",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "समय",
+      "answerText": null
+    }
+  ]
+}

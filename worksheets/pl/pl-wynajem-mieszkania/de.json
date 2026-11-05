@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.714Z"
+  },
+  "title": "Eine Wohnung mieten",
+  "instructions": {
+    "pl-wynajem-mieszkania-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-wynajem-mieszkania-gap": "Wähle das richtige Wort.",
+    "pl-wynajem-mieszkania-verbs": "Setze das richtige Verb ein.",
+    "pl-wynajem-mieszkania-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-wynajem-mieszkania-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-wynajem-mieszkania-matching-1",
+      "translation": "die Miete",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-1:meaning",
+      "translation": "Geld, das man jeden Monat für die Wohnung zahlt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2",
+      "translation": "der Vermieter / die Vermieterin",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2:meaning",
+      "translation": "Die Person, der die Wohnung gehört und die sie vermietet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3",
+      "translation": "die Kaution",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3:meaning",
+      "translation": "Geld, das man am Anfang zahlt und beim Auszug zurückbekommt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4",
+      "translation": "der Mietvertrag",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4:meaning",
+      "translation": "Ein Dokument, das Mieter und Vermieter unterschreiben.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5",
+      "translation": "die Nebenkosten",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5:meaning",
+      "translation": "Wasser, Strom, Gas und Heizung.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6",
+      "translation": "die Besichtigung",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6:meaning",
+      "translation": "Ein Besuch, um die Wohnung vor dem Mieten anzusehen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-1",
+      "translation": "Wie hoch ist die Miete im Monat?",
+      "answerText": "Miete"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-2",
+      "translation": "Sind die Nebenkosten in der Miete enthalten?",
+      "answerText": "Nebenkosten"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-3",
+      "translation": "Man muss eine Kaution in Höhe von zwei Monatsmieten zahlen.",
+      "answerText": "Kaution"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-4",
+      "translation": "Wann kann ich mir die Wohnung ansehen?",
+      "answerText": "Wohnung"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-5",
+      "translation": "Bitte lesen Sie den Vertrag vor dem Unterschreiben genau.",
+      "answerText": "Vertrag"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-6",
+      "translation": "Die Wohnung hat zwei Zimmer und einen Balkon.",
+      "answerText": "Zimmer"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-1",
+      "translation": "Ich suche eine Wohnung mit zwei Zimmern.",
+      "answerText": "suche"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-2",
+      "translation": "Darf man Haustiere halten?",
+      "answerText": "halten"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-3",
+      "translation": "Gestern haben wir den Vertrag unterschrieben.",
+      "answerText": "unterschrieben"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-4",
+      "translation": "Der Vermieter gibt uns am Montag die Schlüssel.",
+      "answerText": "gibt"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-5",
+      "translation": "Wie viel kosten die Nebenkosten im Winter?",
+      "answerText": "kosten"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-1",
+      "translation": "Ist die Wohnung noch frei?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-2",
+      "translation": "Ich möchte die Wohnung ansehen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-3",
+      "translation": "Wie hoch ist die Kaution?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-4",
+      "translation": "Die Miete muss bis zum Zehnten jedes Monats gezahlt werden.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-1",
+      "translation": "Wohnung",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-2",
+      "translation": "Badezimmer",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-3",
+      "translation": "Kaution",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-4",
+      "translation": "Vertrag",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-5",
+      "translation": "Küche",
+      "answerText": null
+    }
+  ]
+}

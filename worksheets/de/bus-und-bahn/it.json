@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.118Z"
+  },
+  "title": "In autobus e in treno",
+  "instructions": {
+    "bus-und-bahn-matching": "Collega ogni parola alla spiegazione giusta.",
+    "bus-und-bahn-gap": "Segna la parola adatta.",
+    "bus-und-bahn-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "bus-und-bahn-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "bus-und-bahn-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "bus-und-bahn-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "il biglietto",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Con il biglietto puoi viaggiare in autobus o in treno.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "la biglietteria automatica",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Qui compri un biglietto senza sportello.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "il binario",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Qui il treno si ferma in stazione.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "il ritardo",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Il treno arriva più tardi del previsto.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "cambiare treno",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Passi da un treno a un altro.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "la fermata",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Qui si ferma l'autobus.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "il Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Un abbonamento mensile per autobus e treni regionali in tutta la Germania.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Il treno per Colonia parte dal binario 5.",
+      "answerText": "binario"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Il treno ha dieci minuti di ritardo.",
+      "answerText": "ritardo"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Dov'è la fermata più vicina?",
+      "answerText": "fermata"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Un biglietto per Berlino, per favore.",
+      "answerText": "biglietto"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Per favore, mostri il suo biglietto.",
+      "answerText": "biglietto"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "La metropolitana passa ogni dieci minuti.",
+      "answerText": "metropolitana"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Alla biglietteria automatica può comprare i biglietti.",
+      "answerText": "biglietteria automatica"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Dove devo cambiare?",
+      "answerText": "cambiare"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "L'autobus parte alle 8:15.",
+      "answerText": "parte"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Arriviamo ad Amburgo alle 10.",
+      "answerText": "Arriviamo"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Per favore, scenda qui.",
+      "answerText": "scenda"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Quanto dura il viaggio?",
+      "answerText": "dura"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "il treno",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "la stazione",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "il biglietto",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "il binario",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "la fermata",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "l'autobus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Quando parte il prossimo treno per Monaco?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Devo cambiare treno a Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Purtroppo il treno è in ritardo.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Il biglietto vale anche per l'autobus?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "biglietto",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "ritardo",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "fermata",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "binario",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "stazione",
+      "answerText": null
+    }
+  ]
+}

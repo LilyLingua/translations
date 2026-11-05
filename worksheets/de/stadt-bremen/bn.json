@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:38.544Z"
+  },
+  "title": "ব্রেমেন",
+  "instructions": {
+    "stadt-bremen-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-bremen-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-bremen-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-bremen-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-bremen-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-bremen-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-bremen-matching-1",
+      "translation": "ব্রেমেনের বাদকদল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-1:meaning",
+      "translation": "রূপকথার গাধা, কুকুর, বিড়াল আর মোরগ; তাদের মূর্তি টাউন হলের পাশে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2",
+      "translation": "রোলান্ড",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2:meaning",
+      "translation": "বাজার চত্বরে বড় পাথরের মূর্তি, মুক্ত শহরের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3",
+      "translation": "শ্নোর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3:meaning",
+      "translation": "খুব পুরোনো পাড়া, ছোট ছোট বাড়ি আর সরু গলি সহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4",
+      "translation": "ফ্রাইমার্কট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4:meaning",
+      "translation": "শরতের লোক উৎসব; ব্রেমেনবাসীরা চিৎকার করে \"ইশা ফ্রাইমাক!\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5",
+      "translation": "\"কোল উন্ড পিঙ্কেল\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5:meaning",
+      "translation": "সসেজসহ কেল শাক, শীতের বিশেষ খাবার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6",
+      "translation": "শ্লাখটে",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6:meaning",
+      "translation": "ভেজার নদীর তীরে হাঁটার পথ, বিয়ার গার্ডেন আর জাহাজ সহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7",
+      "translation": "নগর-রাজ্য",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7:meaning",
+      "translation": "এমন শহর যা একই সঙ্গে একটি রাজ্যও।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-1",
+      "translation": "ব্রেমেনের বাদকদল টাউন হলের পাশে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-2",
+      "translation": "রোলান্ড বাজার চত্বরে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-3",
+      "translation": "আমরা শ্নোরের সরু গলি দিয়ে হাঁটি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-4",
+      "translation": "শরতে আমরা ফ্রাইমার্কটে নাগরদোলায় চড়ি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-5",
+      "translation": "শীতে একটি বিশেষ খাবার আছে: কোল উন্ড পিঙ্কেল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-6",
+      "translation": "আমরা ভেজারের তীরে বসে আছি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-7",
+      "translation": "ভাগ্যের জন্য মানুষ গাধার পা ছোঁয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-1",
+      "translation": "যে গাধার পা ছোঁয়, তার ভাগ্য ভালো হয়।",
+      "answerText": "ছোঁয়"
+    },
+    {
+      "id": "stadt-bremen-verbs-2",
+      "translation": "ফ্রাইমার্কট প্রতি বছর শরতে অনুষ্ঠিত হয়।",
+      "answerText": "অনুষ্ঠিত"
+    },
+    {
+      "id": "stadt-bremen-verbs-3",
+      "translation": "রূপকথায় পশুরা হেঁটে ব্রেমেনে যায়।",
+      "answerText": "যায়"
+    },
+    {
+      "id": "stadt-bremen-verbs-4",
+      "translation": "শ্নোরে বাড়িগুলো খুব ছোট আর পুরোনো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-5",
+      "translation": "২০০৪ থেকে টাউন হল আর রোলান্ড ইউনেস্কো বিশ্ব ঐতিহ্যের অংশ।",
+      "answerText": "অংশ"
+    },
+    {
+      "id": "stadt-bremen-table-1",
+      "translation": "গাধা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-2",
+      "translation": "কুকুর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-3",
+      "translation": "বিড়াল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-4",
+      "translation": "মোরগ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-5",
+      "translation": "গলি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-6",
+      "translation": "রূপকথা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-1",
+      "translation": "বাদকদল টাউন হলের পাশে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-2",
+      "translation": "শরতে ব্রেমেনবাসীরা ফ্রাইমার্কট উদযাপন করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-3",
+      "translation": "তুমি কি গাধার পা ছুঁয়েছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-4",
+      "translation": "ব্রেমেন সবচেয়ে ছোট রাজ্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-1",
+      "translation": "গাধা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-2",
+      "translation": "বিড়াল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-3",
+      "translation": "রূপকথা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-4",
+      "translation": "গলি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-5",
+      "translation": "রাজ্য",
+      "answerText": null
+    }
+  ]
+}

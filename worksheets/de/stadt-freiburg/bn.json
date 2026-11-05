@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:33.185Z"
+  },
+  "title": "ফ্রাইবুর্গ ইম ব্রাইসগাউ",
+  "instructions": {
+    "stadt-freiburg-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-freiburg-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-freiburg-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-freiburg-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-freiburg-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-freiburg-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "\"বেখলে\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "পুরোনো শহরের রাস্তায় পানির ছোট নালা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "\"ম্যুনস্টার\" (ক্যাথেড্রাল)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "লাল বেলেপাথরের বড় গির্জা, উঁচু টাওয়ারসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "\"লাঙে রোটে\" (লম্বা লাল)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "ক্যাথেড্রালের পাশের বাজারের লম্বা, লাল সসেজ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "\"বোবেলে\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "ফ্রাইবুর্গে জন্ম নেওয়া মানুষদের এভাবেই ডাকা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "শাউইনসলান্ড",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "ফ্রাইবুর্গের নিজস্ব পাহাড়; একটি কেবল কার ওপরে ওঠে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "ব্ল্যাক ফরেস্ট (শ্ভার্ৎসভাল্ড)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "শহরের ঠিক পাশে বনে ঢাকা বড় পর্বতমালা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "ভোবাঁ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "শক্তি-সাশ্রয়ী বাড়ি আর কম গাড়িসহ পরিবেশবান্ধব পাড়া।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "যে বেখলেতে পা দেয়, সে একজন ফ্রাইবুর্গবাসীকে বিয়ে করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "ক্যাথেড্রালের পাশের বাজারে আমরা একটি লাঙে রোটে খাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "আমরা কেবল কারে চড়ে শাউইনসলান্ডে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "সপ্তাহান্তে আমরা ব্ল্যাক ফরেস্টে হাইকিং করি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "অনেক পর্যটক ক্যাথেড্রাল দেখতে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "ভোবাঁতে অনেকে সাইকেল চালায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "ফ্রাইবুর্গ খুব রোদেলা শহর।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "বেখলের মধ্য দিয়ে পানি বয়ে যায়।",
+      "answerText": "বয়ে"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "কেবল কার শাউইনসলান্ডে ওঠে।",
+      "answerText": "ওঠে"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "ফ্রাইবুর্গে খুব প্রায়ই সূর্য কিরণ দেয়।",
+      "answerText": "কিরণ"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "যে বেখলেতে পা দেয়, সে একজন ফ্রাইবুর্গবাসীকে বিয়ে করে।",
+      "answerText": "বিয়ে"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "ম্যুনস্টার চত্বরে প্রায় প্রতিদিন বাজার বসে।",
+      "answerText": "বসে"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "নালা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "পাহাড়",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "সসেজ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "পাড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "কেবল কার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "ফ্রাইবুর্গে প্রায়ই রোদ থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "তুমি কি কখনো বেখলেতে পা দিয়েছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "ক্যাথেড্রালের একটি উঁচু টাওয়ার আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "সপ্তাহান্তে আমরা ব্ল্যাক ফরেস্টে হাইকিং করি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "সসেজ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "সূর্য",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "ক্যাথেড্রাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "কেবল কার",
+      "answerText": null
+    }
+  ]
+}

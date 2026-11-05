@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኣብ ሱፐርማርኬት",
+  "instructions": {
+    "im-supermarkt-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "im-supermarkt-gap": "ነቲ ቅኑዕ መዐሸጊ ወይ ብዝሒ ምልክት ግበሩሉ።",
+    "im-supermarkt-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "im-supermarkt-table": "ዓንቀጽ (der/die/das)ን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "im-supermarkt-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "im-supermarkt-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "ዓረብያ ዕዳጋ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "ክትዕድጉ ከለኹም ኣቑሑትኩም ኣብኡ ተእትዉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "መሸጢ ፎርማጆ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "ኣብዚ ብሚዛን ሓድሽ ፎርማጆ ትረኽቡ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "ዋሕስ ጥርሙዝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "ንባዶ ጥርሙዛት ዝምለሰልኩም ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "መምለሲ ጥርሙዛት ማሽን",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "ኣብዚ ባዶ ጥርሙዛት ትመልሱ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "ፍሉይ ቅናሽ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "ሓደ ፍርያት ንሓጺር ግዜ ዝሓሰረ ዋጋ ኣለዎ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "ቅብሊት",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "ኩሎም ዋጋታት ኣብዚ ወረቐት ኣለዉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "ሳንጣ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "ዝዓደግኩምዎ ብእኡ ናብ ገዛ ትወስዱ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "ሓደ ኩባያ ዮጉርት እገዝእ።",
+      "answerText": "ኩባያ"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "ሓደ ጥርሙዝ ማይ እውን በጃኹም።",
+      "answerText": "ጥርሙዝ"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "ሓደ ፓኮ ፓስታ የድልየና።",
+      "answerText": "ፓኮ"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "ንጸብሒ ሓደ ታኒካ ኮሚደረ እወስድ።",
+      "answerText": "ታኒካ"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "በጃኹም 200 ግራም Gouda ደልየ ነይረ።",
+      "answerText": "ግራም"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "ሓደ ብሎክ ቡሮ 2.29 ዩሮ ዋጋኡ እዩ።",
+      "answerText": "ብሎክ"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "ሓደ ሊትሮ ጸባ እወስድ።",
+      "answerText": "ሊትሮ"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "ሓሙሽተ ዩሮ ክትፈርሱለይ ትኽእሉዶ?",
+      "answerText": "ክትፈርሱለይ"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "ይቕሬታ፣ ሓርጭ ኣበይ ክረክብ እኽእል?",
+      "answerText": "ክረክብ"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "ብካርድ እኸፍል።",
+      "answerText": "እኸፍል"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "200 ግራም Gouda ደልየ ነይረ።",
+      "answerText": "ደልየ ነይረ"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "ብሰንበት ዳርጋ ኩሎም ሱፐርማርኬታት ዕጹዋት እዮም።",
+      "answerText": "እዮም"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "ጥርሙዝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "ኩባያ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "ታኒካ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ባኒ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "ቱፋሕ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "ባናና",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "ይቕሬታ፣ ሓርጭ ኣበይ ክረክብ እኽእል?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "ሳንጣ ሒዘ መጺአ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "ሎሚ ባናና ብፍሉይ ቅናሽ እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "መምለሲ ጥርሙዛት ማሽን ኣበይ ኣሎ?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "ዓረብያ ዕዳጋ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ቅብሊት",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "ዋሕስ ጥርሙዝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "ፎርማጆ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "ንእሽቶ ባኒ",
+      "answerText": null
+    }
+  ]
+}

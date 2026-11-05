@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.352Z"
+  },
+  "title": "Di toko roti dan di kafe",
+  "instructions": {
+    "baecker-und-cafe-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "baecker-und-cafe-gap": "Centang artikel yang benar.",
+    "baecker-und-cafe-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "baecker-und-cafe-table": "Lengkapi artikel dan bentuk jamak.",
+    "baecker-und-cafe-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "baecker-und-cafe-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "roti kecil (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Roti kecil, sering untuk sarapan.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Kue dengan garam, khas Jerman bagian selatan.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "kue",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Sesuatu yang manis, sering dengan kopi di sore hari.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "daftar menu",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Di sini ada semua makanan dan minuman.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "tagihan",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Di sini tertulis berapa yang harus Anda bayar.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "tip",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Sedikit uang tambahan untuk pelayan.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "untuk dibawa pulang",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Anda tidak makan atau minum di kafe.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Saya mau satu roti kecil.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Saya pesan satu kopi.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Berapa harga pretzel itu?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Saya mau sepotong kue.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Apakah meja ini kosong?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Saya minum teh dengan susu.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Tolong bawakan tagihannya.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Anda mau minum apa?",
+      "answerText": "mau"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Saya pesan satu cappuccino.",
+      "answerText": "pesan"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Semuanya jadi 6,40 euro.",
+      "answerText": "jadi"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Bisakah saya bayar dengan kartu?",
+      "answerText": "bayar"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Kuenya enak sekali.",
+      "answerText": "enak"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "roti kecil",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "kue",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "cangkir",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "gelas",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "piring",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Saya mau dua roti kecil.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Berapa harga kuenya?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Bisakah saya bayar dengan kartu?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Apakah Anda mau makan di sini?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "roti kecil",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "kue",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "tagihan",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "kopi",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "tip",
+      "answerText": null
+    }
+  ]
+}

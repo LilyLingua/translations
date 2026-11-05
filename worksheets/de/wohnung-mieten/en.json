@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.884Z"
+  },
+  "title": "Renting a Flat",
+  "instructions": {
+    "wohnung-mieten-matching": "Match each word with the correct explanation.",
+    "wohnung-mieten-gap": "Tick the correct form of the article.",
+    "wohnung-mieten-verbs": "Fill in the correct verb in the correct form.",
+    "wohnung-mieten-table": "Fill in the article (der/die/das) and the plural form.",
+    "wohnung-mieten-order": "Put the words in the correct order and write the sentence.",
+    "wohnung-mieten-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "the rent",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "The money you pay for the flat every month.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "the deposit",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Money that the landlord gets at the beginning as security.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "the additional costs",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Costs for water, heating and rubbish.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "the tenancy agreement",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "The contract between tenant and landlord.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "the viewing",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "You look at the flat before you rent it.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "the caretaker",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "He looks after the building and repairs small things.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "the house rules",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "The rules for all residents, for example the quiet hours.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "We are looking for a flat with a balcony.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "I am talking to the landlord.",
+      "answerText": "the"
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "I give the landlady the deposit.",
+      "answerText": "the"
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "I put the bike in the courtyard.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "The key is on the table.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "The heating in the kitchen is broken.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "I have lived in this flat for a year.",
+      "answerText": "this"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "When can I view the flat?",
+      "answerText": "view"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "The rent costs 850 euros including utilities.",
+      "answerText": "costs"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "We move in on 1 December.",
+      "answerText": "move"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "The heating is broken. Could you please repair it?",
+      "answerText": "repair"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Please separate the rubbish.",
+      "answerText": "separate"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "the room",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "the kitchen",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "the balcony",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "the bathroom",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "the key",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "the heating",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Is the flat still available?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "How high are the additional costs?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "When can I view the flat?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "I would like to rent the flat.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "deposit",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "additional costs",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balcony",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "key",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "heating",
+      "answerText": null
+    }
+  ]
+}

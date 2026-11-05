@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:02.421Z"
+  },
+  "title": "ブラウンシュヴァイク",
+  "instructions": {
+    "stadt-braunschweig-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-braunschweig-gap": "正しい単語に印をつけましょう。",
+    "stadt-braunschweig-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-braunschweig-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-braunschweig-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-braunschweig-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-braunschweig-matching-1",
+      "translation": "ブルクレーヴェ（城のライオン）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-1:meaning",
+      "translation": "ブルク広場にあるブロンズのライオン。本物は今、城の中にある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2",
+      "translation": "ハインリヒ獅子公",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2:meaning",
+      "translation": "中世にブラウンシュヴァイクに住んでいた有名な公爵。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3",
+      "translation": "アイントラハト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3:meaning",
+      "translation": "黄色と青の町のサッカークラブ。選手たちは「ライオン」とも呼ばれる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4",
+      "translation": "ハッピー・リッツィ・ハウス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4:meaning",
+      "translation": "壁に楽しい顔やハートが描かれたカラフルな建物。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5",
+      "translation": "「ムメ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5:meaning",
+      "translation": "甘くて黒っぽい麦芽のシロップ。ブラウンシュヴァイクのとても古い名物。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6",
+      "translation": "城",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6:meaning",
+      "translation": "城は再建された。今はその裏にショッピングセンターがある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7",
+      "translation": "ティル・オイレンシュピーゲル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7:meaning",
+      "translation": "昔話に出てくる愉快な道化。町には彼を記念する噴水がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-1",
+      "translation": "ブルク広場にはライオンが立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-2",
+      "translation": "ハインリヒ獅子公はダンクヴァルデローデ城を建てました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-3",
+      "translation": "ファンたちはアイントラハトのために歌います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-4",
+      "translation": "私たちはそのカラフルな家の写真を撮ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-5",
+      "translation": "城で私たちは新しいジャケットを買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-6",
+      "translation": "子どもたちはオイレンシュピーゲルの噴水で遊びます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-7",
+      "translation": "ムメは古い名物です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-verbs-1",
+      "translation": "ライオンはブルク広場に立っています。",
+      "answerText": "立って"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-2",
+      "translation": "アイントラハトは黄色と青のユニフォームでプレーします。",
+      "answerText": "プレーし"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-3",
+      "translation": "リッツィ・ハウスにはカラフルな色と楽しい顔があります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-4",
+      "translation": "ティル・オイレンシュピーゲルはたくさんの愉快ないたずらをします。",
+      "answerText": "し"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-5",
+      "translation": "ハインリヒ獅子公は中世にブラウンシュヴァイクに住んでいました。",
+      "answerText": "住んで"
+    },
+    {
+      "id": "stadt-braunschweig-table-1",
+      "translation": "ライオン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-2",
+      "translation": "城",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-3",
+      "translation": "顔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-4",
+      "translation": "公爵",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-5",
+      "translation": "ジャケット",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-6",
+      "translation": "いたずら",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-1",
+      "translation": "ライオンはブラウンシュヴァイクのシンボルです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-2",
+      "translation": "カラフルなリッツィ・ハウスを知っていますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-3",
+      "translation": "城の裏にはショッピングセンターがあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-4",
+      "translation": "ティル・オイレンシュピーゲルはたくさんいたずらをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-1",
+      "translation": "ライオン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-2",
+      "translation": "城",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-3",
+      "translation": "公爵",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-4",
+      "translation": "顔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-5",
+      "translation": "ショッピングセンター",
+      "answerText": null
+    }
+  ]
+}

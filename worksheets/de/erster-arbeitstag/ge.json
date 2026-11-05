@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.738Z"
+  },
+  "title": "პირველი სამუშაო დღე",
+  "instructions": {
+    "erster-arbeitstag-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "erster-arbeitstag-gap": "მონიშნეთ სწორი ფორმა.",
+    "erster-arbeitstag-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "erster-arbeitstag-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "erster-arbeitstag-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "erster-arbeitstag-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "კოლეგა",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "კაცი, რომელთან ერთადაც მუშაობთ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "უფროსი (ქალი)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "ის გუნდს ხელმძღვანელობს.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "შესვენება",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "თავისუფალი დრო სამუშაოს დროს, მაგალითად ჭამისთვის.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "შვებულება",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "თავისუფალი დღეები, როცა არ მუშაობთ, მაგრამ ფულს მაინც იღებთ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ზეგანაკვეთური საათი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "საათი, რომელსაც დაგეგმილზე მეტს მუშაობთ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "შრომითი ხელშეკრულება",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "აქ წერია ხელფასი, სამუშაო საათები და შვებულება.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "სასადილო",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "აქ თანამშრომლები კომპანიაში ჭამენ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "ეს ჩემი ახალი კოლეგაა.",
+      "answerText": "ჩემი"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "შეიძლება ჩემი კოლეგა გაგაცნოთ?",
+      "answerText": "ჩემი"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "გუნდთან ერთად მუშაობა მომწონს.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "სასადილოში შევხვდებით.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "ერთი შეკითხვა მაქვს.",
+      "answerText": "ერთი"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "როდის იწყება შესვენება?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "ანგარიშს უფროსს ვაძლევ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "შეიძლება მოკლედ წარმოგიდგინოთ თავი?",
+      "answerText": "წარმოგიდგინოთ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "8-დან 16 საათამდე ვმუშაობ.",
+      "answerText": "ვმუშაობ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "სად ვიპოვო ტუალეტი?",
+      "answerText": "ვიპოვო"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "გუნდში ერთმანეთს შენობით მივმართავთ.",
+      "answerText": "შენობით"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "შეგიძლიათ ეს ამიხსნათ?",
+      "answerText": "ამიხსნათ"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "კოლეგა",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "ფირმა",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "ოფისი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "კომპიუტერი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "თათბირი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "გუნდი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "შეიძლება მოკლედ წარმოგიდგინოთ თავი?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "გუნდში ახალი ვარ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "როდის იწყება სადილის შესვენება?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "შეგიძლიათ ეს ამიხსნათ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "კოლეგა",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "თათბირი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "შვებულება",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "ოფისი",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ზეგანაკვეთური საათი",
+      "answerText": null
+    }
+  ]
+}

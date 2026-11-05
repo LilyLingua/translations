@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:14.386Z"
+  },
+  "title": "Berliin",
+  "instructions": {
+    "stadt-berlin-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-berlin-gap": "Märkige õige sõna.",
+    "stadt-berlin-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-berlin-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-berlin-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-berlin-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "pealinn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "Riigi kõige tähtsam linn; siin töötab valitsus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "Brandenburgi värav",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Kuulus vaatamisväärsus, mille peal on neljahobusevanker.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "müür",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "See jagas Berliini kuni 1989. aastani Idaks ja Lääneks.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "„Späti“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Väike pood, mis on avatud hilisööni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "„Schrippe“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "Nii nimetavad berliinlased saiakest (Brötchen).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "„Pfannkuchen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "Berliinis: magus ümmargune moosiga täidetud küpsetis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "„Kiez“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "Nii nimetavad berliinlased oma kodukanti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Me teeme Brandenburgi väravast foto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "Teletorn asub Alexanderplatzi lähedal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "Spree voolab läbi linna.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "Ma ostan „Spätist“ joogi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "Kuni 1989. aastani seisis müür keset linna.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "Pagariäris tellin ma ühe „Schrippe“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "Ma elan selles kodukandis juba kolm aastat.",
+      "answerText": "selles"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "9. novembril 1989 langes müür.",
+      "answerText": "langes"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Valitsus töötab Berliinis.",
+      "answerText": "töötab"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Paljud turistid külastavad East Side Galleryt.",
+      "answerText": "külastavad"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "„Späti“ on avatud hilisööni.",
+      "answerText": "on"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "Ringbahniga sõidate ringiga ümber kesklinna.",
+      "answerText": "sõidate"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "värav",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "müür",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "linnaosa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "sild",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "muuseum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "pood",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Berliin on Saksamaa pealinn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Müür langes 1989. aastal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Kas sa oled juba currywursti söönud?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "„Späti“ on avatud hilisööni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "pealinn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "valitsus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "saiake",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "vaatamisväärsus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "teletorn",
+      "answerText": null
+    }
+  ]
+}

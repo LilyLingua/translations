@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "af1af8ba-cb8a-4e94-b090-c5c81909a93c",
+    "level": "A2"
+  },
+  "title": "Escuela y guardería",
+  "topic": "Juntas de padres, avisar que el niño está enfermo y la vida escolar",
+  "tasks": [
+    {
+      "id": "es-escuela-y-guarderia-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-escuela-y-guarderia-matching-1",
+          "term": "la guardería",
+          "meaning": "Un lugar donde los niños pequeños se quedan mientras sus papás trabajan."
+        },
+        {
+          "id": "es-escuela-y-guarderia-matching-2",
+          "term": "la maestra",
+          "meaning": "La persona que da clases."
+        },
+        {
+          "id": "es-escuela-y-guarderia-matching-3",
+          "term": "la junta de padres",
+          "meaning": "Una reunión de los papás con la maestra."
+        },
+        {
+          "id": "es-escuela-y-guarderia-matching-4",
+          "term": "la tarea",
+          "meaning": "Trabajo que los niños hacen en casa."
+        },
+        {
+          "id": "es-escuela-y-guarderia-matching-5",
+          "term": "la boleta",
+          "meaning": "Un papel con las calificaciones."
+        },
+        {
+          "id": "es-escuela-y-guarderia-matching-6",
+          "term": "la excursión",
+          "meaning": "Un paseo del grupo, por ejemplo a un museo."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-escuela-y-guarderia-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-escuela-y-guarderia-gap-1",
+          "promptBefore": "Mi hijo está enfermo y hoy no va a la",
+          "promptAfter": ".",
+          "correctAnswer": "escuela",
+          "options": [
+            "escuela",
+            "tarea",
+            "boleta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-escuela-y-guarderia-gap-2",
+          "promptBefore": "La",
+          "promptAfter": "de padres es el jueves a las seis.",
+          "correctAnswer": "junta",
+          "options": [
+            "junta",
+            "tarea",
+            "boleta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-escuela-y-guarderia-gap-3",
+          "promptBefore": "¿Ya hiciste la",
+          "promptAfter": "?",
+          "correctAnswer": "tarea",
+          "options": [
+            "tarea",
+            "junta",
+            "guardería"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-escuela-y-guarderia-gap-4",
+          "promptBefore": "Recojo a mi hija de la",
+          "promptAfter": "a las cuatro.",
+          "correctAnswer": "guardería",
+          "options": [
+            "guardería",
+            "tarea",
+            "boleta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-escuela-y-guarderia-gap-5",
+          "promptBefore": "Firme el permiso para la",
+          "promptAfter": ", por favor.",
+          "correctAnswer": "excursión",
+          "options": [
+            "excursión",
+            "maestra",
+            "tarea"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-escuela-y-guarderia-gap-6",
+          "promptBefore": "Tiene muy buenas calificaciones en la",
+          "promptAfter": ".",
+          "correctAnswer": "boleta",
+          "options": [
+            "boleta",
+            "excursión",
+            "guardería"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-escuela-y-guarderia-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-escuela-y-guarderia-verbs-1",
+          "promptBefore": "Mi hija",
+          "promptAfter": "fiebre.",
+          "correctAnswer": "tiene",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "tener"
+        },
+        {
+          "id": "es-escuela-y-guarderia-verbs-2",
+          "promptBefore": "Las clases",
+          "promptAfter": "a las ocho.",
+          "correctAnswer": "empiezan",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "empezar"
+        },
+        {
+          "id": "es-escuela-y-guarderia-verbs-3",
+          "promptBefore": "¿Puedo",
+          "promptAfter": "con la maestra?",
+          "correctAnswer": "hablar",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "hablar"
+        },
+        {
+          "id": "es-escuela-y-guarderia-verbs-4",
+          "promptBefore": "Los niños",
+          "promptAfter": "en la escuela.",
+          "correctAnswer": "comen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "comer"
+        },
+        {
+          "id": "es-escuela-y-guarderia-verbs-5",
+          "promptBefore": "Por favor,",
+          "promptAfter": "a la escuela si su hijo está enfermo.",
+          "correctAnswer": "llame",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "llamar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-escuela-y-guarderia-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-escuela-y-guarderia-order-1",
+          "chunks": [
+            "Mi hijo",
+            "está",
+            "enfermo",
+            "hoy"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-escuela-y-guarderia-order-2",
+          "chunks": [
+            "¿Cuándo",
+            "es",
+            "la junta de padres"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-escuela-y-guarderia-order-3",
+          "chunks": [
+            "¿Puede",
+            "traer",
+            "un refrigerio"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-escuela-y-guarderia-order-4",
+          "chunks": [
+            "Lo recojo",
+            "a las tres"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-escuela-y-guarderia-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-escuela-y-guarderia-spelling-1",
+          "correct": "escuela",
+          "wrong": "escuella"
+        },
+        {
+          "id": "es-escuela-y-guarderia-spelling-2",
+          "correct": "maestra",
+          "wrong": "mastra"
+        },
+        {
+          "id": "es-escuela-y-guarderia-spelling-3",
+          "correct": "niños",
+          "wrong": "ninos"
+        },
+        {
+          "id": "es-escuela-y-guarderia-spelling-4",
+          "correct": "guardería",
+          "wrong": "gardería"
+        },
+        {
+          "id": "es-escuela-y-guarderia-spelling-5",
+          "correct": "amigo",
+          "wrong": "amijo"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

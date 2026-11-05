@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "502824d7-58b6-4049-af78-5968e16f602d",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Potsdam",
+  "topic": "Brandenburg: Sanssouci, Alter Fritz, Babelsberg",
+  "tasks": [
+    {
+      "id": "stadt-potsdam-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-potsdam-matching-1",
+          "term": "Sanssouci",
+          "meaning": "Schloss von Friedrich dem Großen; der Name ist Französisch: „ohne Sorge“."
+        },
+        {
+          "id": "stadt-potsdam-matching-2",
+          "term": "der Alte Fritz",
+          "meaning": "Spitzname des preußischen Königs Friedrich II."
+        },
+        {
+          "id": "stadt-potsdam-matching-3",
+          "term": "die Kartoffel",
+          "meaning": "Der Alte Fritz machte sie in Preußen bekannt; man legt sie auf sein Grab."
+        },
+        {
+          "id": "stadt-potsdam-matching-4",
+          "term": "das Holländische Viertel",
+          "meaning": "Viertel mit roten Backsteinhäusern im Stil der Niederlande."
+        },
+        {
+          "id": "stadt-potsdam-matching-5",
+          "term": "Babelsberg",
+          "meaning": "Hier sind große Filmstudios; viele Filme entstehen hier."
+        },
+        {
+          "id": "stadt-potsdam-matching-6",
+          "term": "die Glienicker Brücke",
+          "meaning": "Brücke nach Berlin; im Kalten Krieg tauschte man hier Agenten aus."
+        },
+        {
+          "id": "stadt-potsdam-matching-7",
+          "term": "die Havel",
+          "meaning": "Fluss mit vielen Seen rund um Potsdam."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-potsdam-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-potsdam-gap-1",
+          "promptBefore": "Wir besichtigen",
+          "promptAfter": "Schloss Sanssouci.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-2",
+          "promptBefore": "Auf",
+          "promptAfter": "Grab vom Alten Fritz liegen Kartoffeln.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-3",
+          "promptBefore": "Wir laufen durch",
+          "promptAfter": "Holländische Viertel.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-4",
+          "promptBefore": "In Babelsberg drehen sie gerade",
+          "promptAfter": "neuen Film.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "einem",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-5",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Boot auf der Havel.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-6",
+          "promptBefore": "Potsdam liegt direkt neben",
+          "promptAfter": "Hauptstadt Berlin.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-potsdam-gap-7",
+          "promptBefore": "Die Glienicker Brücke geht über",
+          "promptAfter": "Havel.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-potsdam-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-potsdam-verbs-1",
+          "promptBefore": "Friedrich der Große",
+          "promptAfter": "gern in Sanssouci.",
+          "correctAnswer": "wohnte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wohnen"
+        },
+        {
+          "id": "stadt-potsdam-verbs-2",
+          "promptBefore": "Besucher",
+          "promptAfter": "Kartoffeln auf sein Grab.",
+          "correctAnswer": "legen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "legen"
+        },
+        {
+          "id": "stadt-potsdam-verbs-3",
+          "promptBefore": "In Babelsberg",
+          "promptAfter": "man viele Filme.",
+          "correctAnswer": "dreht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "drehen"
+        },
+        {
+          "id": "stadt-potsdam-verbs-4",
+          "promptBefore": "Mit der S-Bahn",
+          "promptAfter": "man schnell nach Berlin.",
+          "correctAnswer": "kommt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-potsdam-verbs-5",
+          "promptBefore": "1945",
+          "promptAfter": "die Potsdamer Konferenz im Schloss Cecilienhof statt.",
+          "correctAnswer": "fand",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-potsdam-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-potsdam-table-1",
+          "article": "das",
+          "singular": "Schloss",
+          "plural": "Schlösser"
+        },
+        {
+          "id": "stadt-potsdam-table-2",
+          "article": "der",
+          "singular": "König",
+          "plural": "Könige"
+        },
+        {
+          "id": "stadt-potsdam-table-3",
+          "article": "die",
+          "singular": "Kartoffel",
+          "plural": "Kartoffeln"
+        },
+        {
+          "id": "stadt-potsdam-table-4",
+          "article": "das",
+          "singular": "Studio",
+          "plural": "Studios"
+        },
+        {
+          "id": "stadt-potsdam-table-5",
+          "article": "der",
+          "singular": "Film",
+          "plural": "Filme"
+        },
+        {
+          "id": "stadt-potsdam-table-6",
+          "article": "das",
+          "singular": "Grab",
+          "plural": "Gräber"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-potsdam-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-potsdam-order-1",
+          "chunks": [
+            "Der Alte Fritz",
+            "wohnte",
+            "in Sanssouci"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-potsdam-order-2",
+          "chunks": [
+            "Auf seinem Grab",
+            "liegen",
+            "immer",
+            "Kartoffeln"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-potsdam-order-3",
+          "chunks": [
+            "Warst du",
+            "schon",
+            "im Filmpark Babelsberg"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-potsdam-order-4",
+          "chunks": [
+            "Potsdam",
+            "liegt",
+            "direkt",
+            "neben Berlin"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-potsdam-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-potsdam-spelling-1",
+          "correct": "König",
+          "wrong": "Könich"
+        },
+        {
+          "id": "stadt-potsdam-spelling-2",
+          "correct": "Kartoffel",
+          "wrong": "Kartofel"
+        },
+        {
+          "id": "stadt-potsdam-spelling-3",
+          "correct": "Schloss",
+          "wrong": "Schlos"
+        },
+        {
+          "id": "stadt-potsdam-spelling-4",
+          "correct": "Film",
+          "wrong": "Vilm"
+        },
+        {
+          "id": "stadt-potsdam-spelling-5",
+          "correct": "Garten",
+          "wrong": "Garden"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

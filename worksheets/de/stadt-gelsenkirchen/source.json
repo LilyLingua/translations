@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "66d2a05a-3a49-4fd8-9970-4e0539ec67f9",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Gelsenkirchen",
+  "topic": "NRW: Schalke 04, Königsblau, Arena, „Glück auf!“",
+  "tasks": [
+    {
+      "id": "stadt-gelsenkirchen-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-matching-1",
+          "term": "Schalke 04",
+          "meaning": "Berühmter Fußballverein; Schalke ist eigentlich ein Stadtteil von Gelsenkirchen."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-2",
+          "term": "königsblau",
+          "meaning": "Die Farbe von Schalke 04; viele Fans tragen sie."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-3",
+          "term": "die Knappen",
+          "meaning": "Spitzname der Schalke-Spieler; früher nannte man so junge Bergleute."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-4",
+          "term": "die Veltins-Arena",
+          "meaning": "Stadion von Schalke mit einem Dach, das man schließen kann."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-5",
+          "term": "„Glück auf!“",
+          "meaning": "Alter Gruß der Bergleute im Ruhrgebiet."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-6",
+          "term": "die Stadt der tausend Feuer",
+          "meaning": "Alter Spitzname wegen der vielen Feuer der Zechen und Fabriken."
+        },
+        {
+          "id": "stadt-gelsenkirchen-matching-7",
+          "term": "die ZOOM Erlebniswelt",
+          "meaning": "Großer Zoo mit Tieren aus Afrika, Asien und Alaska."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-gelsenkirchen-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-gap-1",
+          "promptBefore": "Viele Fans fahren zu",
+          "promptAfter": "Arena.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-2",
+          "promptBefore": "Bei Regen schließt man",
+          "promptAfter": "Dach.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-3",
+          "promptBefore": "Mein Opa arbeitete in",
+          "promptAfter": "Zeche.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-4",
+          "promptBefore": "Die Kinder besuchen",
+          "promptAfter": "Zoo.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-5",
+          "promptBefore": "Er trägt",
+          "promptAfter": "blaues Trikot.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-6",
+          "promptBefore": "Wir spazieren durch",
+          "promptAfter": "Nordsternpark.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-gelsenkirchen-gap-7",
+          "promptBefore": "Die Bergleute sagen",
+          "promptAfter": "Gruß „Glück auf!“.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-gelsenkirchen-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-verbs-1",
+          "promptBefore": "Schalke 04",
+          "promptAfter": "in der Veltins-Arena.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-gelsenkirchen-verbs-2",
+          "promptBefore": "Die Bergleute",
+          "promptAfter": "sich mit „Glück auf!“.",
+          "correctAnswer": "grüßen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "grüßen"
+        },
+        {
+          "id": "stadt-gelsenkirchen-verbs-3",
+          "promptBefore": "Das Stadion",
+          "promptAfter": "ein Dach zum Schließen.",
+          "correctAnswer": "hat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "stadt-gelsenkirchen-verbs-4",
+          "promptBefore": "Im Zoo",
+          "promptAfter": "wir Eisbären und Tiger.",
+          "correctAnswer": "sehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sehen"
+        },
+        {
+          "id": "stadt-gelsenkirchen-verbs-5",
+          "promptBefore": "Die Fans",
+          "promptAfter": "ihre Mannschaft laut.",
+          "correctAnswer": "unterstützen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "unterstützen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-gelsenkirchen-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-table-1",
+          "article": "der",
+          "singular": "Bergmann",
+          "plural": "Bergleute"
+        },
+        {
+          "id": "stadt-gelsenkirchen-table-2",
+          "article": "die",
+          "singular": "Zeche",
+          "plural": "Zechen"
+        },
+        {
+          "id": "stadt-gelsenkirchen-table-3",
+          "article": "das",
+          "singular": "Trikot",
+          "plural": "Trikots"
+        },
+        {
+          "id": "stadt-gelsenkirchen-table-4",
+          "article": "der",
+          "singular": "Zoo",
+          "plural": "Zoos"
+        },
+        {
+          "id": "stadt-gelsenkirchen-table-5",
+          "article": "das",
+          "singular": "Tier",
+          "plural": "Tiere"
+        },
+        {
+          "id": "stadt-gelsenkirchen-table-6",
+          "article": "das",
+          "singular": "Dach",
+          "plural": "Dächer"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-gelsenkirchen-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-order-1",
+          "chunks": [
+            "Schalke 04",
+            "spielt",
+            "in Königsblau"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-gelsenkirchen-order-2",
+          "chunks": [
+            "Gehst",
+            "du",
+            "am Samstag",
+            "ins Stadion"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-gelsenkirchen-order-3",
+          "chunks": [
+            "Früher",
+            "arbeiteten",
+            "viele Menschen",
+            "in der Zeche"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-gelsenkirchen-order-4",
+          "chunks": [
+            "Die Bergleute",
+            "sagen",
+            "„Glück auf!“"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-gelsenkirchen-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-gelsenkirchen-spelling-1",
+          "correct": "Stadion",
+          "wrong": "Staadion"
+        },
+        {
+          "id": "stadt-gelsenkirchen-spelling-2",
+          "correct": "Zeche",
+          "wrong": "Zeje"
+        },
+        {
+          "id": "stadt-gelsenkirchen-spelling-3",
+          "correct": "Trikot",
+          "wrong": "Trikoh"
+        },
+        {
+          "id": "stadt-gelsenkirchen-spelling-4",
+          "correct": "Mannschaft",
+          "wrong": "Mannshaft"
+        },
+        {
+          "id": "stadt-gelsenkirchen-spelling-5",
+          "correct": "Bergmann",
+          "wrong": "Bergman"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

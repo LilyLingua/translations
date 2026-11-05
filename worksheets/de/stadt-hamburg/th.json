@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:56.502Z"
+  },
+  "title": "ฮัมบวร์ค",
+  "instructions": {
+    "stadt-hamburg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-hamburg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-hamburg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-hamburg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-hamburg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-hamburg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"โมยน์!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "คำทักทายของเยอรมนีตอนเหนือ – พูดได้ทั้งวัน ไม่ใช่แค่ตอนเช้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "เรือใหญ่บรรทุกตู้คอนเทนเนอร์มาถึงที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "เอลบ์ฟิลฮาร์โมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "หอแสดงดนตรีที่ท่าเรือ คนฮัมบวร์คเรียกว่า \"เอลฟี\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"มิเชิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "คนฮัมบวร์คเรียกโบสถ์ที่มีชื่อเสียงที่สุด คือโบสถ์นักบุญไมเคิล แบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "ฟรันซ์เบรอทเชิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "ขนมปังหวานใส่อบเชย ของขึ้นชื่อของฮัมบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "ตลาดปลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "ตลาดริมแม่น้ำเอลเบอ เปิดเช้ามืดวันอาทิตย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"ชีทเว็ทเทอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "คำของคนเหนือหมายถึงอากาศแย่ที่มีฝนและลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "เรือแล่นอยู่บนแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "วันอาทิตย์พวกเราไปตลาดปลาแต่เช้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "ฉันกินแซนด์วิชปลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "คอนเสิร์ตจัดที่เอลบ์ฟิลฮาร์โมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "พวกเรานั่งเรือเที่ยวรอบท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "ฤดูร้อนคนมากมายนั่งริมทะเลสาบอัลสเตอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "จากข้างบนมองเห็นท่าเรือทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "ที่ฮัมบวร์ค ผู้คนพูด \"โมยน์\" ทั้งวัน",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "เรือคอนเทนเนอร์ลำใหญ่มาถึงท่าเรือ",
+      "answerText": "มาถึง"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "ตลาดปลาเริ่มเช้ามืดวันอาทิตย์",
+      "answerText": "เริ่ม"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "ฝนตกอีกแล้ว – ชีทเว็ทเทอร์ของแท้!",
+      "answerText": "ตก"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "ฮัมบวร์คเป็นรัฐของตัวเอง",
+      "answerText": "เป็น"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "คลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "คอนเสิร์ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "โบสถ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "ฮัมบวร์คตั้งอยู่ริมแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "วันอาทิตย์พวกเราไปตลาดปลาแต่เช้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "คุณเคยไปเอลบ์ฟิลฮาร์โมนีหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "ที่ฮัมบวร์คผู้คนพูด \"โมยน์\" ทั้งวัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "คอนเสิร์ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "ฝน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "สะพาน",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "fc2542b4-9b7e-4f1b-baae-b3e1afe7e297",
+    "level": "A2"
+  },
+  "title": "U lekarza",
+  "topic": "Umawianie wizyty, opisywanie objawów i recepta",
+  "tasks": [
+    {
+      "id": "pl-u-lekarza-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-u-lekarza-matching-1",
+          "term": "wizyta",
+          "meaning": "Spotkanie z lekarzem o ustalonej godzinie."
+        },
+        {
+          "id": "pl-u-lekarza-matching-2",
+          "term": "objaw",
+          "meaning": "Znak choroby, na przykład gorączka."
+        },
+        {
+          "id": "pl-u-lekarza-matching-3",
+          "term": "gorączka",
+          "meaning": "Za wysoka temperatura ciała."
+        },
+        {
+          "id": "pl-u-lekarza-matching-4",
+          "term": "rejestracja",
+          "meaning": "Miejsce w przychodni, gdzie zapisuje się do lekarza."
+        },
+        {
+          "id": "pl-u-lekarza-matching-5",
+          "term": "skierowanie",
+          "meaning": "Dokument od lekarza do innego lekarza albo na badania."
+        },
+        {
+          "id": "pl-u-lekarza-matching-6",
+          "term": "zwolnienie lekarskie",
+          "meaning": "Dokument, że ktoś jest chory i nie może pracować."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-u-lekarza-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-u-lekarza-gap-1",
+          "promptBefore": "Chcę się umówić na",
+          "promptAfter": "na jutro.",
+          "correctAnswer": "wizytę",
+          "options": [
+            "wizytę",
+            "gorączkę",
+            "receptę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-u-lekarza-gap-2",
+          "promptBefore": "Od wczoraj mam",
+          "promptAfter": ".",
+          "correctAnswer": "gorączkę",
+          "options": [
+            "gorączkę",
+            "wizytę",
+            "rejestrację"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-u-lekarza-gap-3",
+          "promptBefore": "Proszę zapisać się w",
+          "promptAfter": ".",
+          "correctAnswer": "rejestracji",
+          "options": [
+            "rejestracji",
+            "gorączce",
+            "wizycie"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-u-lekarza-gap-4",
+          "promptBefore": "Lekarz dał mi",
+          "promptAfter": "na badanie krwi.",
+          "correctAnswer": "skierowanie",
+          "options": [
+            "skierowanie",
+            "objaw",
+            "gorączkę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-u-lekarza-gap-5",
+          "promptBefore": "Potrzebuję zwolnienia",
+          "promptAfter": "dla pracodawcy.",
+          "correctAnswer": "lekarskiego",
+          "options": [
+            "lekarskiego",
+            "krwi",
+            "objawu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-u-lekarza-gap-6",
+          "promptBefore": "Jakie ma Pan/Pani",
+          "promptAfter": "?",
+          "correctAnswer": "objawy",
+          "options": [
+            "objawy",
+            "rejestracje",
+            "skierowania"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-u-lekarza-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-u-lekarza-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "mnie gardło.",
+          "correctAnswer": "Boli",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "boleć"
+        },
+        {
+          "id": "pl-u-lekarza-verbs-2",
+          "promptBefore": "Źle",
+          "promptAfter": "w nocy.",
+          "correctAnswer": "śpię",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spać"
+        },
+        {
+          "id": "pl-u-lekarza-verbs-3",
+          "promptBefore": "Lekarz",
+          "promptAfter": "mi ciśnienie.",
+          "correctAnswer": "mierzy",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "mierzyć"
+        },
+        {
+          "id": "pl-u-lekarza-verbs-4",
+          "promptBefore": "Musi Pan/Pani",
+          "promptAfter": "w łóżku dwa dni.",
+          "correctAnswer": "zostać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zostać"
+        },
+        {
+          "id": "pl-u-lekarza-verbs-5",
+          "promptBefore": "Proszę głęboko",
+          "promptAfter": ".",
+          "correctAnswer": "oddychać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "oddychać"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-u-lekarza-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-u-lekarza-order-1",
+          "chunks": [
+            "Boli",
+            "mnie",
+            "brzuch"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-u-lekarza-order-2",
+          "chunks": [
+            "Kiedy",
+            "mogę",
+            "przyjść",
+            "na wizytę"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-u-lekarza-order-3",
+          "chunks": [
+            "Czy",
+            "potrzebuję",
+            "recepty"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-u-lekarza-order-4",
+          "chunks": [
+            "Proszę",
+            "przyjść",
+            "w przyszłym tygodniu"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-u-lekarza-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-u-lekarza-spelling-1",
+          "correct": "lekarz",
+          "wrong": "lekaż"
+        },
+        {
+          "id": "pl-u-lekarza-spelling-2",
+          "correct": "przychodnia",
+          "wrong": "pszychodnia"
+        },
+        {
+          "id": "pl-u-lekarza-spelling-3",
+          "correct": "ciśnienie",
+          "wrong": "ciśnenie"
+        },
+        {
+          "id": "pl-u-lekarza-spelling-4",
+          "correct": "zdrowie",
+          "wrong": "zdrowje"
+        },
+        {
+          "id": "pl-u-lekarza-spelling-5",
+          "correct": "brzuch",
+          "wrong": "bżuch"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

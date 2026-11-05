@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.828Z"
+  },
+  "title": "У лікаря",
+  "instructions": {
+    "beim-arzt-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "beim-arzt-gap": "Позначте відповідне слово.",
+    "beim-arzt-verbs": "Вставте правильне дієслово в правильній формі.",
+    "beim-arzt-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "beim-arzt-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "beim-arzt-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "картка медичного страхування",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Цю картку ви показуєте в реєстратурі. На ній зазначена ваша лікарняна каса.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "запис (прийом)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Визначений час, коли ви приходите до лікаря.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "приймальня (зала очікування)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Тут ви сидите, поки вас не викличуть.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "За ним ви отримуєте ліки в аптеці.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "лікарняний лист",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Цей папір отримує ваш роботодавець, коли ви хворієте.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "температура (жар)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Температура тіла занадто висока, наприклад 39 градусів.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "алергія",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Організм сильно реагує на щось, наприклад на пеніцилін.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "екстрений виклик",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Номер 112 – у разі нещасного випадку або надзвичайної ситуації.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Добрий день, я хотів би записатися на прийом.",
+      "answerText": "записатися на прийом"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "У вас із собою картка медичного страхування?",
+      "answerText": "картка медичного страхування"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Будь ласка, сідайте в приймальні.",
+      "answerText": "приймальні"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "У мене болить голова і температура.",
+      "answerText": "болить голова"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "У мене болить живіт.",
+      "answerText": "живіт"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "У мене алергія на пеніцилін.",
+      "answerText": "пеніцилін"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Мені потрібен лікарняний лист для роботодавця.",
+      "answerText": "лікарняний лист"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Приймайте таблетки тричі на день після їжі.",
+      "answerText": "їжі"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Чи не могли б ви сказати це повільніше?",
+      "answerText": "сказати"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "У мене вже три дні температура.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "У мене дуже болить голова.",
+      "answerText": "болить"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Будь ласка, глибоко вдихніть – і знову видихніть.",
+      "answerText": "вдихніть"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Лікарка дає мені рецепт.",
+      "answerText": "дає"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Ми вас зараз викличемо.",
+      "answerText": "викличемо"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "лікар",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "запис (прийом)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "лікарський кабінет (практика)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "препарат (ліки)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Я хотів би записатися на прийом.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "У мене вже три дні температура.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Чи не могли б ви повторити?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Де болить?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "головний біль",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "лікарняний лист",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "картка медичного страхування",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "алергічний",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "таблетка",
+      "answerText": null
+    }
+  ]
+}

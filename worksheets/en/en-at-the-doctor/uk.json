@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.526Z"
+  },
+  "title": "У лікаря",
+  "instructions": {
+    "en-at-the-doctor-matching": "З'єднай кожне слово з його значенням.",
+    "en-at-the-doctor-gap": "Вибери правильне слово.",
+    "en-at-the-doctor-verbs": "Встав правильне дієслово.",
+    "en-at-the-doctor-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-at-the-doctor-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-at-the-doctor-matching-1",
+      "translation": "прийом",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-1:meaning",
+      "translation": "Призначений час, коли ти йдеш до лікаря.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2",
+      "translation": "симптом",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2:meaning",
+      "translation": "Ознака того, що ти хворієш, наприклад температура.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3:meaning",
+      "translation": "Занадто висока температура тіла.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4",
+      "translation": "зала очікування",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4:meaning",
+      "translation": "Кімната, де чекають перед прийомом у лікаря.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5",
+      "translation": "страхова картка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5:meaning",
+      "translation": "Картка, яка показує твоє медичне страхування.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6",
+      "translation": "лікарняний",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6:meaning",
+      "translation": "Документ від лікаря, що ти не можеш працювати.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-gap-1",
+      "translation": "Я хочу записатися на прийом на завтра.",
+      "answerText": "прийом"
+    },
+    {
+      "id": "en-at-the-doctor-gap-2",
+      "translation": "У мене з учорашнього дня температура.",
+      "answerText": "температура"
+    },
+    {
+      "id": "en-at-the-doctor-gap-3",
+      "translation": "Будь ласка, зачекайте в залі очікування.",
+      "answerText": "залі очікування"
+    },
+    {
+      "id": "en-at-the-doctor-gap-4",
+      "translation": "У вас із собою страхова картка?",
+      "answerText": "картка"
+    },
+    {
+      "id": "en-at-the-doctor-gap-5",
+      "translation": "Мені потрібен лікарняний для роботодавця.",
+      "answerText": "лікарняний"
+    },
+    {
+      "id": "en-at-the-doctor-gap-6",
+      "translation": "Які у вас симптоми?",
+      "answerText": "симптоми"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-1",
+      "translation": "У мене болить горло.",
+      "answerText": "болить"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-2",
+      "translation": "Я почуваюся дуже втомлено.",
+      "answerText": "почуваюся"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-3",
+      "translation": "Лікар вимірює мені тиск.",
+      "answerText": "вимірює"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-4",
+      "translation": "Вам треба залишитися в ліжку два дні.",
+      "answerText": "залишитися"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-5",
+      "translation": "Будь ласка, дихайте глибоко.",
+      "answerText": "дихайте"
+    },
+    {
+      "id": "en-at-the-doctor-order-1",
+      "translation": "У мене болить горло.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-2",
+      "translation": "Коли я можу прийти?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-3",
+      "translation": "Чи потрібен мені рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-4",
+      "translation": "Будь ласка, приходьте наступного тижня.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-1",
+      "translation": "прийом",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-2",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-3",
+      "translation": "шлунок",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-4",
+      "translation": "страхування",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-5",
+      "translation": "лікар",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.760Z"
+  },
+  "title": "Süpermarkette",
+  "instructions": {
+    "im-supermarkt-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "im-supermarkt-gap": "Uygun ambalajı veya miktarı işaretleyin.",
+    "im-supermarkt-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "im-supermarkt-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "im-supermarkt-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "im-supermarkt-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "alışveriş arabası",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Alışveriş yaparken ürünleri içine koyarsınız.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "peynir reyonu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Burada tartıyla taze peynir alırsınız.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "depozito (şişe depozitosu)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Boş şişeler için geri aldığınız para.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "şişe iade makinesi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Boş şişeleri buraya verirsiniz.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "indirim (kampanya)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Bir ürün kısa bir süre için daha ucuzdur.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "fiş",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Bu kâğıtta tüm fiyatlar yazar.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "poşet",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Alışverişinizi eve bununla taşırsınız.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Bir kase yoğurt alıyorum.",
+      "answerText": "kase"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Bir şişe su da lütfen.",
+      "answerText": "şişe"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Bir paket makarnaya ihtiyacımız var.",
+      "answerText": "paket"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Sos için bir kutu domates alıyorum.",
+      "answerText": "kutu"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "200 gram Gouda peyniri alabilir miyim lütfen?",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Bir paket tereyağı 2,29 euro.",
+      "answerText": "paket"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Bir litre süt alıyorum.",
+      "answerText": "litre"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Beş euroyu bozabilir misiniz?",
+      "answerText": "bozabilir"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Affedersiniz, unu nerede bulabilirim?",
+      "answerText": "bulabilirim"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Kartla ödüyorum.",
+      "answerText": "ödüyorum"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "200 gram Gouda istiyorum.",
+      "answerText": "istiyorum"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Pazar günleri neredeyse tüm süpermarketler kapalı.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "şişe",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "kase",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "konserve kutusu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ekmek",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "elma",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "muz",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Affedersiniz, unu nerede bulabilirim?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Yanımda bir çanta var.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Muzlar bugün indirimde.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Şişe iade makinesi nerede?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "alışveriş arabası",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "fiş",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "depozito",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "peynir",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "küçük ekmek",
+      "answerText": null
+    }
+  ]
+}

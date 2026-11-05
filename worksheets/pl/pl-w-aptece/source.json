@@ -1,0 +1,268 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "41b88cf2-c5f1-48aa-aa40-a2cc7919057b",
+    "level": "A2"
+  },
+  "title": "W aptece",
+  "topic": "Kupowanie leków i zadawanie pytań",
+  "tasks": [
+    {
+      "id": "pl-w-aptece-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-w-aptece-matching-1",
+          "term": "recepta",
+          "meaning": "Kartka od lekarza z nazwą leku, który jest potrzebny."
+        },
+        {
+          "id": "pl-w-aptece-matching-2",
+          "term": "farmaceuta",
+          "meaning": "Osoba, która pracuje w aptece i doradza w sprawie leków."
+        },
+        {
+          "id": "pl-w-aptece-matching-3",
+          "term": "skutek uboczny",
+          "meaning": "Niechciane działanie leku."
+        },
+        {
+          "id": "pl-w-aptece-matching-4",
+          "term": "tabletka",
+          "meaning": "Mały, twardy lek, który się połyka."
+        },
+        {
+          "id": "pl-w-aptece-matching-5",
+          "term": "syrop na kaszel",
+          "meaning": "Lek w płynie, gdy ktoś kaszle."
+        },
+        {
+          "id": "pl-w-aptece-matching-6",
+          "term": "dawka",
+          "meaning": "Ile leku bierze się za jednym razem."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-w-aptece-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-w-aptece-gap-1",
+          "promptBefore": "Boli mnie",
+          "promptAfter": ".",
+          "correctAnswer": "głowa",
+          "options": [
+            "głowa",
+            "recepta",
+            "dawka"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-aptece-gap-2",
+          "promptBefore": "Czy ten lek jest na",
+          "promptAfter": "?",
+          "correctAnswer": "receptę",
+          "options": [
+            "receptę",
+            "tabletkę",
+            "aptekę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-aptece-gap-3",
+          "promptBefore": "Proszę brać jedną",
+          "promptAfter": "trzy razy dziennie.",
+          "correctAnswer": "tabletkę",
+          "options": [
+            "tabletkę",
+            "aptekę",
+            "receptę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-aptece-gap-4",
+          "promptBefore": "Czy ten lek ma skutki",
+          "promptAfter": "?",
+          "correctAnswer": "uboczne",
+          "options": [
+            "uboczne",
+            "recepty",
+            "apteki"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-aptece-gap-5",
+          "promptBefore": "W razie pytań proszę zapytać",
+          "promptAfter": ".",
+          "correctAnswer": "farmaceutę",
+          "options": [
+            "farmaceutę",
+            "tabletkę",
+            "receptę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-aptece-gap-6",
+          "promptBefore": "Poproszę syrop na",
+          "promptAfter": ".",
+          "correctAnswer": "kaszel",
+          "options": [
+            "kaszel",
+            "głowę",
+            "receptę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-w-aptece-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-w-aptece-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "czegoś na ból głowy.",
+          "correctAnswer": "Szukam",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "szukać"
+        },
+        {
+          "id": "pl-w-aptece-verbs-2",
+          "promptBefore": "Czy",
+          "promptAfter": "Pan/Pani alergię?",
+          "correctAnswer": "ma",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "mieć"
+        },
+        {
+          "id": "pl-w-aptece-verbs-3",
+          "promptBefore": "Proszę",
+          "promptAfter": "ten lek po jedzeniu.",
+          "correctAnswer": "brać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "brać"
+        },
+        {
+          "id": "pl-w-aptece-verbs-4",
+          "promptBefore": "Farmaceuta",
+          "promptAfter": "mi, jak używać sprayu.",
+          "correctAnswer": "wyjaśnia",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wyjaśniać"
+        },
+        {
+          "id": "pl-w-aptece-verbs-5",
+          "promptBefore": "Ile",
+          "promptAfter": "ten lek?",
+          "correctAnswer": "kosztuje",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kosztować"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-w-aptece-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-w-aptece-order-1",
+          "chunks": [
+            "Czy",
+            "potrzebuję",
+            "recepty",
+            "na ten lek"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-w-aptece-order-2",
+          "chunks": [
+            "Boli",
+            "mnie",
+            "gardło"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-aptece-order-3",
+          "chunks": [
+            "Proszę",
+            "brać",
+            "dwie tabletki",
+            "rano"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-aptece-order-4",
+          "chunks": [
+            "Co",
+            "Pan/Pani",
+            "poleca",
+            "na kaszel"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-w-aptece-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-w-aptece-spelling-1",
+          "correct": "recepta",
+          "wrong": "recebta"
+        },
+        {
+          "id": "pl-w-aptece-spelling-2",
+          "correct": "gorączka",
+          "wrong": "goronczka"
+        },
+        {
+          "id": "pl-w-aptece-spelling-3",
+          "correct": "lekarstwo",
+          "wrong": "lekarztwo"
+        },
+        {
+          "id": "pl-w-aptece-spelling-4",
+          "correct": "apteka",
+          "wrong": "abteka"
+        },
+        {
+          "id": "pl-w-aptece-spelling-5",
+          "correct": "syrop",
+          "wrong": "sirop"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

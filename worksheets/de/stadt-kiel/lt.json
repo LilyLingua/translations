@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:14.216Z"
+  },
+  "title": "Kylis",
+  "instructions": {
+    "stadt-kiel-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "stadt-kiel-gap": "Pažymėkite tinkamą žodį.",
+    "stadt-kiel-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "stadt-kiel-table": "Įrašykite artikelį ir daugiskaitos formą.",
+    "stadt-kiel-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "stadt-kiel-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Förde“ (fiordas)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Ilga, siaura Baltijos jūros įlanka, toli įsiterpusi į sausumą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Kylio savaitė (Kieler Woche)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Didelė buriavimo šventė birželį su muzika ir laivais iš viso pasaulio.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "keltas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Didelis laivas žmonėms ir automobiliams, pavyzdžiui, į Norvegiją.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Kylio kanalas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Dirbtinis vandens kelias tarp Šiaurės ir Baltijos jūrų.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "Kylio šprotas (Kieler Sprotte)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Maža rūkyta žuvis, būdinga Kyliui.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Moin moin!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Šiaurės Vokietijos pasisveikinimas; kai kurie mano, kad du kartus pasakyti „Moin“ jau per daug.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "buriuoti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Plaukti valtimi, kurią varo vėjas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kylis yra prie Baltijos jūros.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Birželį švenčiame Kylio savaitę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Keltu plaukiame į Oslą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Laivai plaukia Kylio kanalu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Savaitgalį buriuojame fiorde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Perku maišelį Kylio šprotų.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Paplūdimyje vedžiojame šunį.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Keltas kasdien plaukia į Norvegiją.",
+      "answerText": "plaukia"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Per Kylio savaitę buriuoja laivai iš viso pasaulio.",
+      "answerText": "buriuoja"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Daug laivų naudojasi Kylio kanalu.",
+      "answerText": "naudojasi"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Šiaurėje žmonės sako „Moin“.",
+      "answerText": "sako"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Paplūdimyje dažnai pučia stiprus vėjas.",
+      "answerText": "pučia"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "valtis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "keltas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "žuvis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "paplūdimys",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "burė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "kanalas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kylis yra prie Baltijos jūros.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Birželį miestas švenčia Kylio savaitę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Ar plaukiate keltu į Norvegiją?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Savaitgalį buriuojame fiorde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "keltas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "burė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "paplūdimys",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Baltijos jūra",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "kanalas",
+      "answerText": null
+    }
+  ]
+}

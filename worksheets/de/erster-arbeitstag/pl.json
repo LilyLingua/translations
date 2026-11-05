@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.483Z"
+  },
+  "title": "Pierwszy dzień w pracy",
+  "instructions": {
+    "erster-arbeitstag-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "erster-arbeitstag-gap": "Zaznacz poprawną formę.",
+    "erster-arbeitstag-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "erster-arbeitstag-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "erster-arbeitstag-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "erster-arbeitstag-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Mężczyzna, z którym pracujesz.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "szefowa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Kieruje zespołem.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "przerwa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Wolny czas w trakcie pracy, na przykład na jedzenie.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "urlop",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Wolne dni, w które nie pracujesz, a mimo to dostajesz pieniądze.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "nadgodzina",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Godzina, którą pracujesz dłużej, niż planowano.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "umowa o pracę",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Są w niej wynagrodzenie, czas pracy i urlop.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "stołówka",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Tutaj pracownicy jedzą w firmie.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "To jest moja nowa koleżanka.",
+      "answerText": "moja"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Czy mogę przedstawić panu / pani mojego kolegę?",
+      "answerText": "mojego"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Chętnie pracuję razem z zespołem.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Spotykamy się w stołówce.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Mam pytanie.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Kiedy zaczyna się przerwa?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Daję szefowej raport.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Czy mogę się krótko przedstawić?",
+      "answerText": "przedstawić"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Pracuję od 8:00 do 16:00.",
+      "answerText": "Pracuję"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Gdzie znajdę toaletę?",
+      "answerText": "znajdę"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "W zespole mówimy sobie po imieniu.",
+      "answerText": "mówimy"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Czy może mi pan / pani to wyjaśnić?",
+      "answerText": "wyjaśnić"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "firma",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "biuro",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "komputer",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "spotkanie (narada)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "zespół",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Czy mogę się krótko przedstawić?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Jestem nowy w zespole.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Kiedy zaczyna się przerwa obiadowa?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Czy może mi pan / pani to wyjaśnić?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "spotkanie",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "urlop",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "biuro",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "nadgodzina",
+      "answerText": null
+    }
+  ]
+}

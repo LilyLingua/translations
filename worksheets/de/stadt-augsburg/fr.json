@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:02.572Z"
+  },
+  "title": "Augsbourg",
+  "instructions": {
+    "stadt-augsburg-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-augsburg-gap": "Coche le bon mot.",
+    "stadt-augsburg-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-augsburg-table": "Complète l'article et le pluriel.",
+    "stadt-augsburg-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-augsburg-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-augsburg-matching-1",
+      "translation": "la Fuggerei",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-1:meaning",
+      "translation": "Plus ancienne cité sociale du monde ; le loyer ne coûte que 0,88 euro par an.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2",
+      "translation": "l'« Augsburger Puppenkiste »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2:meaning",
+      "translation": "Théâtre de marionnettes célèbre, connu grâce à la télévision.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3",
+      "translation": "la fête de la Paix",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3:meaning",
+      "translation": "Le 8 août, seule Augsbourg a un jour férié.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4",
+      "translation": "la Salle dorée",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4:meaning",
+      "translation": "Salle magnifique dans l'hôtel de ville, avec beaucoup d'or au plafond.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5",
+      "translation": "la tour Perlach",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5:meaning",
+      "translation": "Haute tour à côté de l'hôtel de ville ; on peut monter en haut.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6",
+      "translation": "le Plärrer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6:meaning",
+      "translation": "Grande fête populaire au printemps et en automne.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7",
+      "translation": "Bertolt Brecht",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7:meaning",
+      "translation": "Écrivain célèbre né à Augsbourg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-1",
+      "translation": "Aujourd'hui encore, des gens habitent dans la Fuggerei.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-2",
+      "translation": "Les enfants regardent une pièce à la Puppenkiste.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-3",
+      "translation": "Le 8 août, les habitants d'Augsbourg ont un jour de congé.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-4",
+      "translation": "Nous montons en haut de la tour Perlach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-5",
+      "translation": "Dans l'hôtel de ville, nous visitons la Salle dorée.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-6",
+      "translation": "Au printemps, beaucoup de gens vont au Plärrer.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-7",
+      "translation": "Brecht est né dans la ville au bord du Lech.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-1",
+      "translation": "Le loyer coûte seulement 0,88 euro par an.",
+      "answerText": "coûte"
+    },
+    {
+      "id": "stadt-augsburg-verbs-2",
+      "translation": "Dans la Puppenkiste, des marionnettes jouent des pièces de théâtre.",
+      "answerText": "jouent"
+    },
+    {
+      "id": "stadt-augsburg-verbs-3",
+      "translation": "Le 8 août, Augsbourg célèbre la fête de la Paix.",
+      "answerText": "célèbre"
+    },
+    {
+      "id": "stadt-augsburg-verbs-4",
+      "translation": "Augsbourg existe depuis plus de 2000 ans.",
+      "answerText": "existe"
+    },
+    {
+      "id": "stadt-augsburg-verbs-5",
+      "translation": "Du haut de la tour Perlach, on voit toute la ville.",
+      "answerText": "voit"
+    },
+    {
+      "id": "stadt-augsburg-table-1",
+      "translation": "la marionnette",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-2",
+      "translation": "la salle",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-3",
+      "translation": "la fête",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-4",
+      "translation": "le loyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-5",
+      "translation": "la tour",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-6",
+      "translation": "le théâtre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-1",
+      "translation": "La Fuggerei a plus de 500 ans.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-2",
+      "translation": "Tu connais l'Augsburger Puppenkiste ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-3",
+      "translation": "Le 8 août, c'est jour férié à Augsbourg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-4",
+      "translation": "Dans l'hôtel de ville, il y a une salle dorée.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-1",
+      "translation": "le théâtre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-2",
+      "translation": "la marionnette",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-3",
+      "translation": "le jour férié",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-4",
+      "translation": "le loyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-5",
+      "translation": "la salle",
+      "answerText": null
+    }
+  ]
+}

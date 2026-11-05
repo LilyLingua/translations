@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:41.998Z"
+  },
+  "title": "মানহাইম",
+  "instructions": {
+    "stadt-mannheim-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-mannheim-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-mannheim-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-mannheim-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-mannheim-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-mannheim-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "চৌকো ব্লক (\"কোয়াড্রাটে\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "শহরের কেন্দ্র দাবার ছকের মতো; ঠিকানাগুলো যেমন \"Q6\" বা \"N1\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "জলের টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "মানহাইমের প্রতীক, সামনে সুন্দর পার্ক আর ফোয়ারাসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "স্প্যাগেটি আইসক্রিম",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "টমেটো সসসহ স্প্যাগেটির মতো দেখতে আইসক্রিম – মানহাইমে আবিষ্কৃত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "বড় বারোক প্রাসাদ; আজ সেখানে বিশ্ববিদ্যালয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "দৌড়ানোর যন্ত্র (\"লাউফমাশিনে\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "কার্ল ড্রাইস ১৮১৭ সালে মানহাইমে এটি আবিষ্কার করেন – সাইকেলের পূর্বসূরি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "\"মোনেম\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "মানহাইমবাসীরা উপভাষায় নিজেদের শহরকে এভাবেই বলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "\"আডলার\" (ঈগল)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "মানহাইমের আইস হকি দল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "আমরা জলের টাওয়ারের একটা ছবি তুলি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "ক্যাফেতে আমরা একটি স্প্যাগেটি আইসক্রিম অর্ডার করি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "অনেক ছাত্রছাত্রী প্রাসাদে পড়াশোনা করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "চৌকো ব্লকগুলোতে যেকোনো ঠিকানা দ্রুত পাওয়া যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "কার্ল ড্রাইস দৌড়ানোর যন্ত্র আবিষ্কার করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "সন্ধ্যায় আমরা আডলারের একটা খেলা দেখি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "মানহাইম রাইন আর নেকার নদীর ধারে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "ঠিকানাগুলো একটি অক্ষর আর একটি সংখ্যা দিয়ে গঠিত।",
+      "answerText": "গঠিত"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "স্প্যাগেটি আইসক্রিমের স্বাদ ভ্যানিলা আর স্ট্রবেরির মতো লাগে।",
+      "answerText": "লাগে"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "মানহাইমে নেকার রাইনে এসে মেশে।",
+      "answerText": "মেশে"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "আডলার SAP অ্যারেনায় আইস হকি খেলে।",
+      "answerText": "খেলে"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "আজ প্রাসাদে অনেক ছাত্রছাত্রী পড়াশোনা করে।",
+      "answerText": "পড়াশোনা"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "সংখ্যা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "রাস্তা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "সাইকেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "ফোয়ারা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "জলের টাওয়ারটি ফ্রিডরিখসপ্লাৎসে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "তুমি কি স্প্যাগেটি আইসক্রিম খেতে ভালোবাসো?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "মানহাইমে নেকার রাইনে এসে মেশে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "ঠিকানাগুলোতে অক্ষর আর সংখ্যা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "জলের টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "সাইকেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "রাস্তা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "ফোয়ারা",
+      "answerText": null
+    }
+  ]
+}

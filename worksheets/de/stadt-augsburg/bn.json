@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:42.266Z"
+  },
+  "title": "আউগসবুর্গ",
+  "instructions": {
+    "stadt-augsburg-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-augsburg-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-augsburg-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-augsburg-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-augsburg-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-augsburg-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-augsburg-matching-1",
+      "translation": "ফুগারাই",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-1:meaning",
+      "translation": "বিশ্বের সবচেয়ে পুরোনো সামাজিক আবাসন; বছরে ভাড়া মাত্র ০,৮৮ ইউরো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2",
+      "translation": "আউগসবুর্গের পুতুলবাক্স (\"পুপেনকিস্টে\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2:meaning",
+      "translation": "বিখ্যাত পুতুলনাচের থিয়েটার, টেলিভিশন থেকে পরিচিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3",
+      "translation": "শান্তি উৎসব",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3:meaning",
+      "translation": "৮ আগস্ট শুধু আউগসবুর্গে ছুটির দিন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4",
+      "translation": "সোনালি হল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4:meaning",
+      "translation": "টাউন হলের জাঁকজমকপূর্ণ হল, ছাদে অনেক সোনা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5",
+      "translation": "পেরলাখ টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5:meaning",
+      "translation": "টাউন হলের পাশে উঁচু টাওয়ার; এতে ওপরে ওঠা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6",
+      "translation": "\"প্লেরার\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6:meaning",
+      "translation": "বসন্ত আর শরতে বড় লোকমেলা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7",
+      "translation": "বের্টোল্ট ব্রেশট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7:meaning",
+      "translation": "বিখ্যাত লেখক, যিনি আউগসবুর্গে জন্মগ্রহণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-1",
+      "translation": "ফুগারাইতে আজও মানুষ বাস করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-2",
+      "translation": "শিশুরা পুপেনকিস্টেতে একটি নাটক দেখে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-3",
+      "translation": "৮ আগস্ট আউগসবুর্গবাসীরা একদিন ছুটি পায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-4",
+      "translation": "আমরা পেরলাখ টাওয়ারে উঠি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-5",
+      "translation": "টাউন হলে আমরা সোনালি হল দেখতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-6",
+      "translation": "বসন্তে অনেকে প্লেরারে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-7",
+      "translation": "ব্রেশট লেখ নদীর ধারের শহরে জন্মগ্রহণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-1",
+      "translation": "বছরে ভাড়া মাত্র ০,৮৮ ইউরো লাগে।",
+      "answerText": "লাগে"
+    },
+    {
+      "id": "stadt-augsburg-verbs-2",
+      "translation": "পুপেনকিস্টেতে পুতুলেরা নাটক করে।",
+      "answerText": "করে"
+    },
+    {
+      "id": "stadt-augsburg-verbs-3",
+      "translation": "৮ আগস্ট আউগসবুর্গ শান্তি উৎসব পালন করে।",
+      "answerText": "পালন"
+    },
+    {
+      "id": "stadt-augsburg-verbs-4",
+      "translation": "আউগসবুর্গের বয়স ২০০০ বছরেরও বেশি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-5",
+      "translation": "পেরলাখ টাওয়ার থেকে পুরো শহর দেখা যায়।",
+      "answerText": "দেখা"
+    },
+    {
+      "id": "stadt-augsburg-table-1",
+      "translation": "পুতুল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-2",
+      "translation": "হল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-3",
+      "translation": "উৎসব",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-4",
+      "translation": "ভাড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-5",
+      "translation": "টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-6",
+      "translation": "থিয়েটার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-1",
+      "translation": "ফুগারাই ৫০০ বছরেরও বেশি পুরোনো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-2",
+      "translation": "তুমি কি আউগসবুর্গের পুপেনকিস্টে চেনো?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-3",
+      "translation": "৮ আগস্ট আউগসবুর্গে ছুটির দিন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-4",
+      "translation": "টাউন হলে একটি সোনালি হল আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-1",
+      "translation": "থিয়েটার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-2",
+      "translation": "পুতুল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-3",
+      "translation": "ছুটির দিন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-4",
+      "translation": "ভাড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-5",
+      "translation": "হল",
+      "answerText": null
+    }
+  ]
+}

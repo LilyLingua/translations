@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:48:57.368Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ክሬፌልድ",
+  "instructions": {
+    "stadt-krefeld-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-krefeld-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-krefeld-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-krefeld-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-krefeld-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-krefeld-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "የቬልቬትና የሐር ከተማ („Samt- und Seidenstadt“)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "ቅጽል ስም፦ ቀደም ሲል እዚህ ከሐር ብዙ ጥሩ ጨርቆች ይሠሩ ነበር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "Burg Linn (ቡርግ ሊን)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "በሊን የከተማ ክፍል ውስጥ ያለ በውኃ የተከበበ አሮጌ ምሽግ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "Flachsmarkt (ፍላክስማርክት)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "በፀደይ ወቅት በቡርግ ሊን አጠገብ የሚካሄድ ትልቅ የእጅ ሙያተኞች ገበያ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "„Pinguine“ (ፔንግዊኖቹ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "የክሬፌልድ የበረዶ ሆኪ ቡድን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "የእንስሳት ማቆያው (Zoo)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "የቢራቢሮ ቤትና ለታላላቅ ዝንጀሮዎች አዲስ ጫካ ያለው የእንስሳት ማቆያ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "Haus Lange እና Haus Esters",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "በታዋቂው አርክቴክት ሚስ ቫን ደር ሮኸ (Mies van der Rohe) በተሠሩ ቤቶች ውስጥ ያሉ ሁለት ሙዚየሞች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "Uerdingen (ዩርዲንገን)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "በራይን ወንዝ ዳር ትልቅ ወደብ ያለው የከተማ ክፍል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "እሷ ከሐር የተሠራ ቀሚስ ትለብሳለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "በቡርግ ሊን ዙሪያ ውኃ አለ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "ቅዳሜ የPinguine ጨዋታ እናያለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "በእንስሳት ማቆያው ውስጥ ወደ ቢራቢሮዎች ቤት እንገባለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "በFlachsmarkt ላይ አንጥረኛው ሥራውን ያሳያል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "Uerdingen በራይን ወንዝ ዳር ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "Haus Lange ሙዚየምን እንጎበኛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "Pinguine የበረዶ ሆኪ ይጫወታሉ።",
+      "answerText": "ይጫወታሉ"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "በክሬፌልድ ቀደም ሲል ከሐር ብዙ ጨርቆች ይሠሩ ነበር።",
+      "answerText": "ይሠሩ ነበር"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "በእንስሳት ማቆያው ውስጥ ብዙ ቢራቢሮዎች ይበራሉ።",
+      "answerText": "ይበራሉ"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "ምሽጉ በውኃ ውስጥ ቆሟል።",
+      "answerText": "ቆሟል"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "በFlachsmarkt ላይ የእጅ ሙያተኞች ሥራቸውን ያሳያሉ።",
+      "answerText": "ያሳያሉ"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "ጨርቁ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "ምሽጉ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "ፔንግዊኑ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "ቢራቢሮው",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "ቀሚሱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "ወደቡ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "ክሬፌልድ የቬልቬትና የሐር ከተማ ትባላለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "ከእኛ ጋር ወደ በረዶ ሆኪ ትሄዳለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "ቡርግ ሊን በውኃ ውስጥ ቆሟል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "በእንስሳት ማቆያው ውስጥ ብዙ ቢራቢሮዎች ይበራሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "ሐር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "ፔንግዊን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "ቢራቢሮ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "ቀሚስ",
+      "answerText": null
+    }
+  ]
+}

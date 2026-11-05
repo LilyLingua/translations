@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "d03e0a78-4ef8-4213-aa9e-f957504f7f7d",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Rostock",
+  "topic": "Mecklenburg-Vorpommern: Warnemünde, Hanse Sail, Kogge",
+  "tasks": [
+    {
+      "id": "stadt-rostock-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-rostock-matching-1",
+          "term": "Warnemünde",
+          "meaning": "Stadtteil an der Ostsee mit Strand, Leuchtturm und großen Schiffen."
+        },
+        {
+          "id": "stadt-rostock-matching-2",
+          "term": "der Teepott",
+          "meaning": "Gebäude mit einem besonderen, geschwungenen Dach am Strand von Warnemünde."
+        },
+        {
+          "id": "stadt-rostock-matching-3",
+          "term": "die Hanse Sail",
+          "meaning": "Großes Fest im August mit vielen alten Segelschiffen."
+        },
+        {
+          "id": "stadt-rostock-matching-4",
+          "term": "die Kogge",
+          "meaning": "Altes Schiff der Hanse; man sieht es im Wappen von Hansa Rostock."
+        },
+        {
+          "id": "stadt-rostock-matching-5",
+          "term": "der F.C. Hansa",
+          "meaning": "Fußballverein der Stadt in Blau und Weiß."
+        },
+        {
+          "id": "stadt-rostock-matching-6",
+          "term": "die Astronomische Uhr",
+          "meaning": "Über 550 Jahre alte Uhr in der Marienkirche; sie läuft noch heute."
+        },
+        {
+          "id": "stadt-rostock-matching-7",
+          "term": "die Universität",
+          "meaning": "Gegründet 1419 – die älteste Universität im Ostseeraum."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-rostock-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-rostock-gap-1",
+          "promptBefore": "Wir steigen auf",
+          "promptAfter": "Leuchtturm.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-2",
+          "promptBefore": "Im August kommen viele Schiffe zu",
+          "promptAfter": "Hanse Sail.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-3",
+          "promptBefore": "Ein Kreuzfahrtschiff fährt in",
+          "promptAfter": "Hafen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-4",
+          "promptBefore": "In",
+          "promptAfter": "Marienkirche steht eine alte Uhr.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-5",
+          "promptBefore": "Das Wappen zeigt",
+          "promptAfter": "Kogge.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-6",
+          "promptBefore": "Wir laufen am Strand zu",
+          "promptAfter": "Teepott.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-rostock-gap-7",
+          "promptBefore": "Viele Studenten lernen an",
+          "promptAfter": "Universität.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-rostock-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-rostock-verbs-1",
+          "promptBefore": "Die alte Uhr",
+          "promptAfter": "noch heute.",
+          "correctAnswer": "läuft",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "laufen"
+        },
+        {
+          "id": "stadt-rostock-verbs-2",
+          "promptBefore": "In Warnemünde",
+          "promptAfter": "große Kreuzfahrtschiffe.",
+          "correctAnswer": "halten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "halten"
+        },
+        {
+          "id": "stadt-rostock-verbs-3",
+          "promptBefore": "Bei der Hanse Sail",
+          "promptAfter": "viele alte Schiffe.",
+          "correctAnswer": "segeln",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "segeln"
+        },
+        {
+          "id": "stadt-rostock-verbs-4",
+          "promptBefore": "Der Leuchtturm",
+          "promptAfter": "am Strand von Warnemünde.",
+          "correctAnswer": "steht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stehen"
+        },
+        {
+          "id": "stadt-rostock-verbs-5",
+          "promptBefore": "Hansa Rostock",
+          "promptAfter": "in Blau und Weiß.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-rostock-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-rostock-table-1",
+          "article": "das",
+          "singular": "Schiff",
+          "plural": "Schiffe"
+        },
+        {
+          "id": "stadt-rostock-table-2",
+          "article": "der",
+          "singular": "Leuchtturm",
+          "plural": "Leuchttürme"
+        },
+        {
+          "id": "stadt-rostock-table-3",
+          "article": "die",
+          "singular": "Uhr",
+          "plural": "Uhren"
+        },
+        {
+          "id": "stadt-rostock-table-4",
+          "article": "der",
+          "singular": "Hafen",
+          "plural": "Häfen"
+        },
+        {
+          "id": "stadt-rostock-table-5",
+          "article": "das",
+          "singular": "Segel",
+          "plural": "Segel"
+        },
+        {
+          "id": "stadt-rostock-table-6",
+          "article": "die",
+          "singular": "Kirche",
+          "plural": "Kirchen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-rostock-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-rostock-order-1",
+          "chunks": [
+            "Warnemünde",
+            "liegt",
+            "direkt",
+            "an der Ostsee"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-rostock-order-2",
+          "chunks": [
+            "Kommst",
+            "du",
+            "mit",
+            "zur Hanse Sail"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-rostock-order-3",
+          "chunks": [
+            "Die alte Uhr",
+            "läuft",
+            "noch heute"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-rostock-order-4",
+          "chunks": [
+            "Im Hafen",
+            "liegen",
+            "viele",
+            "Schiffe"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-rostock-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-rostock-spelling-1",
+          "correct": "Leuchtturm",
+          "wrong": "Leuchtturn"
+        },
+        {
+          "id": "stadt-rostock-spelling-2",
+          "correct": "Schiff",
+          "wrong": "Schif"
+        },
+        {
+          "id": "stadt-rostock-spelling-3",
+          "correct": "Hafen",
+          "wrong": "Haafen"
+        },
+        {
+          "id": "stadt-rostock-spelling-4",
+          "correct": "Kirche",
+          "wrong": "Kirhe"
+        },
+        {
+          "id": "stadt-rostock-spelling-5",
+          "correct": "Segel",
+          "wrong": "Seegel"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

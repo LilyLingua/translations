@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:10.597Z"
+  },
+  "title": "Bona",
+  "instructions": {
+    "stadt-bonn-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "stadt-bonn-gap": "Pažymėkite tinkamą žodį.",
+    "stadt-bonn-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "stadt-bonn-table": "Įrašykite artikelį ir daugiskaitos formą.",
+    "stadt-bonn-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "stadt-bonn-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "federalinis miestas (Bundesstadt)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "Oficialus Bonos titulas; iki 1990 m. Bona buvo sostinė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "Bethovenas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "Garsus kompozitorius; jis gimė Bonoje 1770 m.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "Haribo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "Guminukų meškiukų įmonė; pavadinimas kilęs iš Hans Riegel Bonn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "vyšnių žydėjimas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "Pavasarį senamiestyje daug medžių pražysta ryškiai rožine spalva.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "Istorijos namai (Haus der Geschichte)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "Muziejus apie Vokietijos istoriją po 1945 m.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "„Weiberfastnacht“ (Moterų karnavalas)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "Karnavalo diena moterims; sakoma, kad ji prasidėjo Bonos Beuel rajone.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "Drachenfels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "Kalnas prie Reino su pilies griuvėsiais ir gražiu vaizdu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "Ilgą laiką Bona buvo Federacinės Respublikos sostinė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "Bethovenas gimė name Bonngasse gatvėje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "Balandį senamiestyje žydi vyšnios.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "Aplankome Istorijos namus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "Mano vaikas mėgsta suvalgyti maišelį guminukų meškiukų.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "Per Weiberfastnacht moterys nukerpa vyrams kaklaraiščius.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "Kopiame į Drachenfels kalną.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "Bethovenas gimė Bonoje 1770 m.",
+      "answerText": "gimė"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "Pavasarį vyšnios žydi rožine spalva.",
+      "answerText": "žydi"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "Guminukai meškiukai džiugina vaikus.",
+      "answerText": "džiugina"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "Daug ministerijų ir šiandien yra Bonoje.",
+      "answerText": "yra"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "Pro miestą teka Reinas.",
+      "answerText": "teka"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "medis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "žiedas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "ministerija",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "maišelis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "kompozitorius",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "kaklaraištis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "Bethovenas gimė Bonoje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "Balandį senamiestis visas rožinis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "Ar jums dar liko guminukų meškiukų?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "Anksčiau Bona buvo sostinė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "kompozitorius",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "kaklaraištis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "istorija",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "medis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "žiedas",
+      "answerText": null
+    }
+  ]
+}

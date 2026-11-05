@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "5a53fc9b-0f43-41cd-ac84-11205a5ad26c",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Erfurt",
+  "topic": "Thüringen: Krämerbrücke, Bratwurst, Klöße, KiKA, Luther",
+  "tasks": [
+    {
+      "id": "stadt-erfurt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-erfurt-matching-1",
+          "term": "die Krämerbrücke",
+          "meaning": "Brücke mit Häusern darauf; dort wohnen Menschen und es gibt kleine Läden."
+        },
+        {
+          "id": "stadt-erfurt-matching-2",
+          "term": "der Domberg",
+          "meaning": "Hügel mit zwei großen Kirchen: dem Dom und der Severikirche."
+        },
+        {
+          "id": "stadt-erfurt-matching-3",
+          "term": "die Rostbratwurst",
+          "meaning": "Gegrillte Thüringer Wurst; man isst sie im Brötchen mit Senf."
+        },
+        {
+          "id": "stadt-erfurt-matching-4",
+          "term": "der Kloß",
+          "meaning": "Runde Beilage aus Kartoffeln, in Thüringen sehr beliebt."
+        },
+        {
+          "id": "stadt-erfurt-matching-5",
+          "term": "der KiKA",
+          "meaning": "Fernsehsender für Kinder mit Sitz in Erfurt."
+        },
+        {
+          "id": "stadt-erfurt-matching-6",
+          "term": "das Kloster",
+          "meaning": "Hier lebte Martin Luther als junger Mönch."
+        },
+        {
+          "id": "stadt-erfurt-matching-7",
+          "term": "der Krämer",
+          "meaning": "Altes Wort für einen Händler mit einem kleinen Laden."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-erfurt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-erfurt-gap-1",
+          "promptBefore": "Auf",
+          "promptAfter": "Krämerbrücke stehen viele Häuser.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-2",
+          "promptBefore": "Wir steigen auf",
+          "promptAfter": "Domberg.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-3",
+          "promptBefore": "Ich esse",
+          "promptAfter": "Bratwurst mit Senf.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-4",
+          "promptBefore": "Sonntags essen wir",
+          "promptAfter": "Braten mit Klößen.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "einem",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-5",
+          "promptBefore": "In der Stadt stehen Figuren aus",
+          "promptAfter": "Kinderfernsehen.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-6",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Augustinerkloster.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-erfurt-gap-7",
+          "promptBefore": "Erfurt ist",
+          "promptAfter": "Landeshauptstadt von Thüringen.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-erfurt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-erfurt-verbs-1",
+          "promptBefore": "Martin Luther",
+          "promptAfter": "in Erfurt.",
+          "correctAnswer": "studierte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "studieren"
+        },
+        {
+          "id": "stadt-erfurt-verbs-2",
+          "promptBefore": "Auf der Krämerbrücke",
+          "promptAfter": "noch heute Menschen.",
+          "correctAnswer": "wohnen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wohnen"
+        },
+        {
+          "id": "stadt-erfurt-verbs-3",
+          "promptBefore": "Der Grill",
+          "promptAfter": "nach Bratwurst.",
+          "correctAnswer": "riecht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "riechen"
+        },
+        {
+          "id": "stadt-erfurt-verbs-4",
+          "promptBefore": "Die Klöße",
+          "promptAfter": "man aus Kartoffeln.",
+          "correctAnswer": "macht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-erfurt-verbs-5",
+          "promptBefore": "Der KiKA",
+          "promptAfter": "Programm für Kinder.",
+          "correctAnswer": "sendet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "senden"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-erfurt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-erfurt-table-1",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        },
+        {
+          "id": "stadt-erfurt-table-2",
+          "article": "der",
+          "singular": "Kloß",
+          "plural": "Klöße"
+        },
+        {
+          "id": "stadt-erfurt-table-3",
+          "article": "die",
+          "singular": "Wurst",
+          "plural": "Würste"
+        },
+        {
+          "id": "stadt-erfurt-table-4",
+          "article": "das",
+          "singular": "Kloster",
+          "plural": "Klöster"
+        },
+        {
+          "id": "stadt-erfurt-table-5",
+          "article": "der",
+          "singular": "Mönch",
+          "plural": "Mönche"
+        },
+        {
+          "id": "stadt-erfurt-table-6",
+          "article": "der",
+          "singular": "Händler",
+          "plural": "Händler"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-erfurt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-erfurt-order-1",
+          "chunks": [
+            "Auf der Krämerbrücke",
+            "wohnen",
+            "Menschen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-erfurt-order-2",
+          "chunks": [
+            "Zur Bratwurst",
+            "gehört",
+            "Senf"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-erfurt-order-3",
+          "chunks": [
+            "Hast du",
+            "schon",
+            "Thüringer Klöße",
+            "gegessen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-erfurt-order-4",
+          "chunks": [
+            "Martin Luther",
+            "studierte",
+            "in Erfurt"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-erfurt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-erfurt-spelling-1",
+          "correct": "Kloß",
+          "wrong": "Klos"
+        },
+        {
+          "id": "stadt-erfurt-spelling-2",
+          "correct": "Kloster",
+          "wrong": "Klohster"
+        },
+        {
+          "id": "stadt-erfurt-spelling-3",
+          "correct": "Bratwurst",
+          "wrong": "Brattwurst"
+        },
+        {
+          "id": "stadt-erfurt-spelling-4",
+          "correct": "Händler",
+          "wrong": "Hendler"
+        },
+        {
+          "id": "stadt-erfurt-spelling-5",
+          "correct": "Senf",
+          "wrong": "Semf"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

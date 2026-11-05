@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:35.463Z"
+  },
+  "title": "ভুপারটাল",
+  "instructions": {
+    "stadt-wuppertal-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-wuppertal-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-wuppertal-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-wuppertal-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-wuppertal-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-wuppertal-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "শ্ভেবেবান (ঝুলন্ত রেল)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "এমন রেল যা লাইন থেকে ঝুলে নদীর ওপর দিয়ে চলে – ১৯০১ সাল থেকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "টুফি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "একটি বাচ্চা হাতি, যে ১৯৫০ সালে শ্ভেবেবান থেকে ভুপার নদীতে লাফিয়ে পড়ে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "ভুপার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "নদী, যা পুরো শহরের ভেতর দিয়ে বয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "পিনা বাউশ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "বিখ্যাত নৃত্যশিল্পী; ভুপারটালের তাঁর নৃত্যনাট্য সারা বিশ্বে পরিচিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "সিঁড়ি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "ভুপারটালে অনেক সরকারি সিঁড়ি আছে, কারণ শহরটি ঢালের ওপর।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "ফ্রিডরিখ এঙ্গেলস",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "চিন্তাবিদ আর কার্ল মার্ক্সের বন্ধু; তিনি বারমেন এলাকায় জন্মগ্রহণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "নর্ডবানট্রাসে",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "পুরোনো রেলপথের ওপর সাইকেলের রাস্তা, সুড়ঙ্গ আর সেতুসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "শ্ভেবেবান ভুপারের ওপর দিয়ে চলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "১৯৫০ সালে একটি হাতি শ্ভেবেবান থেকে লাফিয়ে পড়ে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "আমরা সাইকেলে নর্ডবানট্রাসে দিয়ে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "ফ্রিডরিখ এঙ্গেলস বারমেন এলাকায় জন্মগ্রহণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "আমরা সিঁড়ি বেয়ে ওপরে উঠি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "নৃত্যনাট্যটি সারা বিশ্বে পরিচিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "টুফি নদীতে পড়ে গিয়েছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "শ্ভেবেবান নদীর ওপরে লাইন থেকে ঝুলে থাকে।",
+      "answerText": "ঝুলে"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "টুফি ভুপার নদীতে পড়ে গিয়েছিল।",
+      "answerText": "পড়ে"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "ভুপারটালে অনেক অনেক সিঁড়ি আছে।",
+      "answerText": "আছে"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "শ্ভেবেবান ১২০ বছরেরও বেশি সময় ধরে চলছে।",
+      "answerText": "চলছে"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "অনেক সাইকেল আরোহী নর্ডবানট্রাসে ব্যবহার করে।",
+      "answerText": "ব্যবহার"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "রেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "হাতি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "সিঁড়ি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "নদী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "সাইকেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "স্টেশন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "শ্ভেবেবান ভুপারের ওপরে ঝুলে থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "প্রতিদিন অনেক মানুষ শ্ভেবেবানে চড়ে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "তুমি কি টুফির গল্প জানো?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "ভুপারটালে অনেক অনেক সিঁড়ি আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "হাতি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "সিঁড়ি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "নদী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "রেললাইন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "স্টেশন",
+      "answerText": null
+    }
+  ]
+}

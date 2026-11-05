@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:01.226Z"
+  },
+  "title": "ลือเบค",
+  "instructions": {
+    "stadt-luebeck-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-luebeck-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-luebeck-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-luebeck-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-luebeck-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-luebeck-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "ประตูโฮลสเตนทอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "ประตูเมืองเก่าที่มีหอคอยกลมสองหอ – สัญลักษณ์ของลือเบค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "มาร์ซิปัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "ขนมหวานทำจากอัลมอนด์และน้ำตาล ลือเบคมีชื่อเสียงเรื่องนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "ราชินีแห่งสันนิบาตฮันซา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "ชื่อเล่น: ในยุคกลางลือเบคเป็นเมืองที่สำคัญที่สุดของสันนิบาตฮันซา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "เกาะเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "เมืองเก่าตั้งอยู่บนเกาะ และเป็นมรดกโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "ทราเวมึนเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "ย่านริมทะเลบอลติก มีชายหาดและเรือเฟอร์รีขนาดใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "โทมัส มันน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "นักเขียนชื่อดังจากลือเบค เขาเขียน \"บุดเดนบรูคส์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "ตรอกแคบ (เกงเงอ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "ทางแคบ ๆ ระหว่างบ้านในเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "พวกเราเดินผ่านประตูโฮลสเตนทอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "ฉันซื้อมาร์ซิปันหนึ่งชิ้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "ในยุคกลางลือเบคเป็นเมืองที่สำคัญที่สุดของสันนิบาตฮันซา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "ที่ทราเวมึนเดอ พวกเราไปชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "เรือเฟอร์รีแล่นข้ามทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "โทมัส มันน์ เขียนนวนิยายเกี่ยวกับครอบครัวหนึ่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "เมืองเก่าตั้งอยู่บนเกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "ประตูโฮลสเตนทอร์มีหอคอยกลมสองหอ",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "มาร์ซิปันทำจากอัลมอนด์และน้ำตาล",
+      "answerText": "ทำ"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "เรือเฟอร์รีแล่นไปสวีเดนและฟินแลนด์",
+      "answerText": "แล่น"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "เมืองเก่าตั้งอยู่บนเกาะ",
+      "answerText": "ตั้ง"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "โทมัส มันน์ เขียนนวนิยายเรื่อง \"บุดเดนบรูคส์\"",
+      "answerText": "เขียน"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "ประตู",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "อัลมอนด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "เกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "ชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "เรือเฟอร์รี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "นวนิยาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "ประตูโฮลสเตนทอร์เป็นสัญลักษณ์ของลือเบค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "คุณชอบกินมาร์ซิปันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "เมืองเก่าตั้งอยู่บนเกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "ฤดูร้อนพวกเราไปทราเวมึนเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "มาร์ซิปัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "เกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "ชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "เรือเฟอร์รี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "อัลมอนด์",
+      "answerText": null
+    }
+  ]
+}

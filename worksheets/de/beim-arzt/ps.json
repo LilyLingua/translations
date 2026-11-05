@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.318Z"
+  },
+  "title": "ډاکټر ته",
+  "instructions": {
+    "beim-arzt-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "beim-arzt-gap": "مناسبه کلمه په نښه کړئ.",
+    "beim-arzt-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "beim-arzt-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "beim-arzt-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "beim-arzt-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "د روغتیا بیمې کارت",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "دا کارت په استقبالیه کې ښیئ. پرې ستاسو د روغتیا بیمه لیکل شوې.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "د لیدو وخت",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "یو ټاکلی وخت چې کلینیک ته راځئ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "د انتظار خونه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "دلته ناست یاست تر څو مو راوبلي.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "پدې سره له درملتون نه درمل اخلئ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "د ناروغۍ تصدیق",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "کله چې ناروغ یاست، دا پاڼه ستاسو کارګمارونکي ته ځي.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "تبه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "د بدن تودوخه ډېره لوړه ده، لکه ۳۹ درجې.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "حساسیت (الرژي)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "بدن یو شي ته سخت غبرګون ښيي، لکه پنسلین ته.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "بیړنی زنګ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "شمېره ۱۱۲ – د پېښې یا بیړني حالت پر مهال.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "سلام، زه غواړم د لیدو وخت واخلم.",
+      "answerText": "وخت"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "ایا خپل د روغتیا بیمې کارت درسره لرئ؟",
+      "answerText": "د روغتیا بیمې کارت"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "مهرباني وکړئ په د انتظار خونه کې کېنئ.",
+      "answerText": "د انتظار خونه"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "زه سر درد او تبه لرم.",
+      "answerText": "سر درد"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "زما ګېډه درد کوي.",
+      "answerText": "ګېډه"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "زه پنسلین ته حساسیت لرم.",
+      "answerText": "پنسلین"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "زه د خپل کارګمارونکي لپاره د ناروغۍ تصدیق ته اړتیا لرم.",
+      "answerText": "د ناروغۍ تصدیق"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "ګولۍ په ورځ کې درې ځله له ډوډۍ وروسته وخورئ.",
+      "answerText": "ډوډۍ"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "کولی شئ دا ورو ووایاست؟",
+      "answerText": "ووایاست"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "زه درې ورځې کېږي تبه لرم.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "زما سر ډېر درد کوي.",
+      "answerText": "درد"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "مهرباني وکړئ ژوره ساه واخلئ – او بیا یې وباسئ.",
+      "answerText": "ساه"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "ډاکټره ما ته نسخه راکوي.",
+      "answerText": "راکوي"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "موږ به تاسو ژر راوبلو.",
+      "answerText": "راوبلو"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ډاکټر",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ګولۍ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "د لیدو وخت",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "کلینیک",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "درمل",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "زه غواړم د لیدو وخت واخلم.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "درې ورځې کېږي چې تبه لرم.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "کولی شئ دا بیا ووایاست؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "چېرته درد کوي؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "سر درد",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "د ناروغۍ تصدیق",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "د روغتیا بیمې کارت",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "حساس (الرژیک)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ګولۍ",
+      "answerText": null
+    }
+  ]
+}

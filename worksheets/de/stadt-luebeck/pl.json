@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:59.686Z"
+  },
+  "title": "Lubeka",
+  "instructions": {
+    "stadt-luebeck-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-luebeck-gap": "Zaznacz właściwe słowo.",
+    "stadt-luebeck-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-luebeck-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-luebeck-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-luebeck-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "Holstentor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "Stara brama miejska z dwiema okrągłymi wieżami – symbol Lubeki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "marcepan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "Słodycz z migdałów i cukru; Lubeka słynie z niego.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "królowa Hanzy",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "Przydomek: w średniowieczu Lubeka była najważniejszym miastem Hanzy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "wyspa staromiejska",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "Stare Miasto leży na wyspie i należy do Światowego Dziedzictwa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Travemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "Dzielnica nad Bałtykiem z plażą i dużymi promami.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Thomas Mann",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "Słynny pisarz z Lubeki; napisał „Buddenbrooków”.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "„Gänge” (przejścia)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "Wąskie przejścia między domami na Starym Mieście.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "Przechodzimy przez Holstentor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "Kupuję kawałek marcepanu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "W średniowieczu Lubeka była najważniejszym miastem Hanzy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "W Travemünde idziemy na plażę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "Prom płynie przez Bałtyk.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "Thomas Mann napisał powieść o pewnej rodzinie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "Stare Miasto leży na wyspie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "Holstentor ma dwie okrągłe wieże.",
+      "answerText": "ma"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "Marcepan robi się z migdałów i cukru.",
+      "answerText": "robi"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "Promy płyną do Szwecji i Finlandii.",
+      "answerText": "płyną"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "Stare Miasto leży na wyspie.",
+      "answerText": "leży"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "Thomas Mann napisał powieść „Buddenbrookowie”.",
+      "answerText": "napisał"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "brama",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "migdał",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "wyspa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "plaża",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "prom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "powieść",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "Holstentor jest symbolem Lubeki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "Lubisz marcepan?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "Stare Miasto leży na wyspie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "Latem jedziemy do Travemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "marcepan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "wyspa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "plaża",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "prom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "migdał",
+      "answerText": null
+    }
+  ]
+}

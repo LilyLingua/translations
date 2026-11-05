@@ -1,0 +1,820 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Wobɛtumi asesa euro enum ama me?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Kafra, ɛhe na mehunu esiam?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Mepa wo kyɛw, mepɛ Gouda kyiisi gram 200."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Aane, ɛyɛ."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Kwadu no bo so atew."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Ɛhe na mfiri a wɔde nkɔmpo san ma no wɔ?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Daabi, meda wo ase."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Mekura kotokuo."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Kaad so, mepa wo kyɛw."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Meda wo ase, wo nso saa ara!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Ɔkɔm de me paa! Nanso me fridge mu da mpan."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Ɛno de, kɔ supermarket!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Supermarket? Gyaaman kasa nko ara?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Yoo! Ɛnnɛ wobɛtɔ nneɛma nyinaa – efi adetɔ kaa so kɔsi rasiid so."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Na tebea biara mu, yɛbisa wo sɛ: Dɛn na wobɛka?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Na wowɔ sɛkɛn enum pɛ!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Wopɛ adetɔ kaa. Nanso wohia sika kɔbere (coin) – na wowɔ euro enum krataa pɛ."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Ɔbarima panin bi gyina wo nkyɛn."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Kafra, wobɛtumi de euro enum akyɛ me?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Kafra, wobɛtumi asesa euro enum ama me?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Kafra, mepɛ wo kaa no."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ kyerɛ: wode sika krataa ma na wonya sika kɔbere. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "kyerɛ: wonya no kwa – ɛbɛyɛ fɛ paa, nanso ɛyɛ animguaseɛ kakra."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Twɛn kakra … aane: mmienu, ɛnan, euro enum. Gye!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Meda wo ase paa!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Wobɛtumi asesa euro enum ama me?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Wohia esiam. Nanso ɛhe na esiam no wɔ? Odwumayɛni bi rehyehyɛ nneɛma wɔ dua so."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Dɛn na wobisa?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Kafra, ɛhe na mehunu esiam?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (artikel no nteɛ)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Woahunu esiam?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Ɛkaa kakra, Leo. Wɔka „das Mehl“. Nanso A ye sen saa: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Kafra, ɛhe na mehunu …?) – saa na wobisa biribiara ho wɔ supermarket mu a obuo wɔ mu."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Esiam wɔ kwan mmiɛnsa so, dua no ase koraa."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Meda wo ase!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Kafra, ɛhe na mehunu esiam?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Kwan mmiɛnsa, ase koraa."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Seesei wokɔ nnuane foforɔ tɔnbea. Wopɛ Gouda kyiisi."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Maakye! Dɛn na wopɛ?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Mene Gouda gram 200."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Aane, ɛbɛtumi ayɛ."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Mepa wo kyɛw, mepɛ Gouda kyiisi gram 200."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ kyerɛ kɛkɛ: Dɛn na wopɛ? Na „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(Mepɛ …) ma wobisa a obuo wɔ mu bere nyinaa – wɔ tɔnbea, paanoo tɔnfoɔ nkyɛn, kafe dan mu."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Mepa wo kyɛw, mepɛ Gouda kyiisi gram 200."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Madam Haas twitwa kyiisi no. Nsenia no kyerɛ: gram 230."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Ɛbɛyɛ sɛ ɛboro so kakra?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Daabi, wɔmma me kwan."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Aane, ɛyɛ."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Aane, meboro so kakra."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Wote saa kasamu yi wɔ tɔnbea biara wɔ Gyaaman. Ɛkyerɛ: ɛboro deɛ wobisaeɛ so kakra – ɛyɛ?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Sɛ ɛnyɛ a, ka kɛkɛ: „Nein, bitte genau 200 Gramm.“ (Daabi, mepa wo kyɛw, gram 200 pɛpɛɛpɛ.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Biribi foforɔ bio?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Daabi, meda wo ase. Ɛno ara ne no."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Aane, ɛyɛ."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Daabi, meda wo ase. Ɛno ara ne no."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Wokɔ so. Mpofirim wote amanneɛbɔ bi. Tie yie!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Adetɔfoɔ adɔfoɔ! Ɛnnɛ deɛ ne bo so atew: kwadu, kilo baako cent 99 pɛ."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Kwadu kilo baako yɛ sɛn?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: cent 99"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! Cent 99. „Im Angebot“ kyerɛ: ne bo so atew ɛnnɛ sen daa."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Kwadu no bo so atew."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Wokura toa hunu nso – a saa nsɛnkyerɛnne yi wɔ so: Pfand (toa ho sika). Ɛhe na wode kɔ?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Toa san gye mfiri no nkyɛn. Wonya sika san."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Nwura kɛntɛn a ɛwɔ ɔpon ano no mu."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Sika tuabea – sɛ akyɛdeɛ."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, kɔ nwura mu!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Daabi, Leo – ɛno de wotow sika gu! A! Toa pii no, wonya cent 25 san."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Mfiri no ma wo krataa ketewa. Wode ma wɔ sika tuabea."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Ɛhe na toa san gye mfiri no wɔ?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Seesei wowɔ sika tuabea. Wode biribiara gu ɔhama a ɛkeka no so."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Hello! Woboaboa points ano?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Aane, meboaboa stamps ano."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Meboaboa wo points ano."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Daabi, meda wo ase."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Meboaboa stamps ano. Efi sukuu bere."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Ɛyɛ fɛ, Leo – nanso ɛnyɛ ɛno na ɔpɛ sɛ ɔte. C! Supermarket pii wɔ kaad anaa app a points wɔ so."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Sɛ wonni bi a, ka kɛkɛ: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Daabi, meda wo ase."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Aane, me kaad ni."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Wohia kotokuo?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Aane, nufosuo kotokuo baako, mepa wo kyɛw."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Daabi, meda wo ase. Mekura kotokuo."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Daabi, menyɛ kotokuo."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Ɛyɛ sɛ wobɛhunu: wɔ Gyaaman, wotua kotokuo ho ka bere nyinaa."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Nnipa pii de wɔn ankasa kotokuo ba."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Mekura kotokuo."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Ɛyɛ 23,47 €. Wobɛtua sika (cash) anaa kaad?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Kaad so, mepa wo kyɛw."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Mede „Bar“ tua."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Aane, cash anaa kaad."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Aane!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo … ɛnyɛ aane-anaa-daabi asɛmmisa! A! „Bar“ kyerɛ: sika krataa ne sika kɔbere. Na sɛ wonhunu yie a, bisa: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Metumi de kaad atua?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Kaad so, mepa wo kyɛw."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Metumi de kaad atua?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Wopɛ rasiid no?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Dɛn na wobɛka?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Daabi, mempɛ ɛswiiti („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Daabi, meda wo ase. Menhia."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Aane, mepɛ sika tuabea no."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Mempɛ ɛswiiti. Asikyire dɔɔso."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ nyɛ „Bonbon“. „Kassenbon“ yɛ krataa ketewa no – ɛkyerɛ deɛ woatɔ."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B na ɛteɛ. Anaa: „Ja, bitte.“ (Aane, mepa wo kyɛw.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Da pa!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Meda wo ase, wo nso saa ara!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Ka di m'akyi!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Meda wo ase, wo nso saa ara!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Afotuo mmiɛnsa ma supermarket wɔ Gyaaman."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Nea edi kan: Kwasiada, supermarket fa pii to mu – enti tɔ nneɛma Memeneda!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Nea ɛtɔ so mmienu: wɔ sika tuabea, wo ara wode biribiara gu ɔhama no so."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Dua a ɛtetew mu no kyerɛ: ɛha na adetɔni a ɔdi hɔ no deɛ fi aseɛ."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Na nea ɛtɔ so mmiɛnsa: sika tuabea hɔ deɛ, ɛkɔ ntɛm."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Wie tua a, gu wo nneɛma wɔ akyi brɛoo – ɛyɛ biribi a ɛtaa si."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo rekyerɛw nneɛma a ɔbɛtɔ. Nanso biribi nteɛ …"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Yogurt toa baako."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Yogurt kɔpo baako!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Paanoo kankyee baako."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Paanoo baako – anaa toast pakete baako!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Macaroni kɔpo baako."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Macaroni pakete baako!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Nsuo pakete baako."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Nsuo toa baako!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Ntoosi kotokuo baako."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Ntoosi kankyee baako!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Ɛhe na mehunu kyiisi no?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "Na adeyɛ asɛmfua no kɔ awieeɛ: ɛnyɛ „Ich möchte bezahlen mit Karte“, na: „Ich möchte mit Karte bezahlen.“ (Mepɛ sɛ mede kaad tua.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "Na wɔ sika tuabea: „Bon“ ne rasiid. „Bonbon“ yɛ ɛswiiti."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "Na seesei, ne nyinaa bio. Kasamu titire du no. Ka di m'akyi!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Wobɛtumi asesa euro enum ama me?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Kafra, ɛhe na mehunu esiam?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Mepa wo kyɛw, mepɛ Gouda kyiisi gram 200."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Aane, ɛyɛ."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Daabi, meda wo ase. Ɛno ara ne no."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Kwadu no bo so atew."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Ɛhe na toa san gye mfiri no wɔ?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Mekura kotokuo."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Metumi de kaad atua?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Meda wo ase, wo nso saa ara!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Dɛn na ɛyɛ wo dɛ sɛ wotɔ wɔ supermarket mu? Kyerɛw wɔ comments mu!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Bye, na yɛbɛhyia bio wɔ LilyLingua!"
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Randevu almak istiyorum."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Evet, işte kartım."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Bunu lütfen daha yavaş söyleyebilir misiniz?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Başım ağrıyor ve ateşim var."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Karnım ağrıyor."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Üç günden beri."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "nefes al – nefes ver"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Penisiline alerjim var."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Rapora ihtiyacım var."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Günde üç kez yemekten sonra."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Hastasın. Doktora gitmen gerekiyor. Ama … Almanca mı?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Ah hayır. Geçen sefer doktorda şöyle dedim: „Ich bin Kopfschmerzen.“ (Ben baş ağrısıyım.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "İşte bu yüzden bugün buradayız. Baştan sona bir doktor ziyareti yaşayacaksın – ilk telefondan reçeteye kadar."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Ve her durumda sana soruyoruz: Ne dersin?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "Ve sadece beş saniyen var!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Muayenehaneyi arıyorsun. Biri telefonu açıyor."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Dr. Yilmaz muayenehanesi, ben Schulz. Size nasıl yardımcı olabilirim?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Doktor istiyorum. Hemen."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: İyi günler, randevu almak istiyorum."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Merhaba, hastayım. Hoşça kalın."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (… istiyorum, rica ederim) kibardır ve her zaman uyar."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (istiyorum) telefonda hemen kaba gelebilir."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "İyi günler, randevu almak istiyorum."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Tabii. Bugün saat onda olur mu?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Randevu almak istiyorum."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Muayenehaneye geliyorsun. Danışmada sana soruyorlar:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Sigorta kartınız yanınızda mı?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Hayır, ben sigortalı değil."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Evet, açım."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Evet, işte kartım."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! „Versichertenkarte“ – bazıları „Gesundheitskarte“ ya da „Krankenkassenkarte“"
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "da der. Hep aynı kart kastedilir. Her doktor ziyaretine yanında götür."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Evet, işte kartım."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Teşekkür ederim."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Evet, işte kartım."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "Kadın çok hızlı konuşuyor. Her şeyi anlamıyorsun."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Lütfen formu doldurun, sonra bekleme salonunda oturun."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Affedersiniz, bunu lütfen daha yavaş söyleyebilir misiniz?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Ne?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Yeri yanımda götürüyorum."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Ne?) kaba geliyor. Bu soru seni her yerde kurtarır: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Daha kısası da olur: „Wie bitte?“ (Efendim?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Affedersiniz, bunu lütfen daha yavaş söyleyebilir misiniz?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Tabii. Lütfen bu formu doldurun. Sonra orada, bekleme salonunda bekleyin."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Bunu lütfen daha yavaş söyleyebilir misiniz?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Doktorun muayene odasındasın. Doktor soruyor:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "İyi günler. Neyiniz var?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Bir şeyim yok, teşekkürler."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Başım ağrıyor ve ateşim var."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Ben baş ağrısıyım."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Dikkat: „Was fehlt Ihnen?“ „Neyiniz eksik?“ demek değil, „Sorununuz ne?“ demek."
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "„Mir fehlt nichts“ diyen sağlıklıdır – ve aslında doktorda işi yoktur."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Başım ağrıyor ve ateşim var."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Ah, geçmiş olsun."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Başım ağrıyor ve ateşim var."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Karnınız da ağrıyor mu? Neresi ağrıyor?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Karnın ağrıyor. Ne dersin?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Ben karında acıtıyorum."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Karın ağrılı durumda."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Burası, karnım ağrıyor."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Kuralı şu: vücut bölümü + „tut weh“ (ağrıyor). Çoğulda: „Meine Füße tun weh.“ (Ayaklarım ağrıyor.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Burası, karnım ağrıyor."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Karnım ağrıyor."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Ayaklarım ağrıyor."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Şikâyetleriniz ne zamandan beri var?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Üç gün önce boyunca."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Üç gün beri."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Üç günden beri."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! „seit“ (-den beri) kelimesinden sonra Dativ gelir – bu yüzden „Tagen“ n ile."
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "Aynı şekilde: „seit einer Woche“ (bir haftadır), „seit gestern“ (dünden beri)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Üç günden beri."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Üç günden beri."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Bir haftadır."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Sizi bir dinleyeyim. Lütfen üstünüzü çıkarın."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Şimdi ne yaparsın?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Kazağını ve tişörtünü çıkarırsın."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Pantolonunu çıkarırsın."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Eve gidersin – ne de olsa serbestsin."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Yani … C, değil mi? Serbestim – eve gidiyorum!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Hayır Leo. A! „Oberkörper“ vücudun üst kısmıdır. „Frei machen“ burada soyunmak demek. Sonra sık sık şunu duyarsın: „Tief einatmen …"
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "und ausatmen.“ (Derin nefes alın … ve verin.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Derin nefes alın … ve verin. Güzel."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "nefes al – nefes ver"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Herhangi bir şeye alerjiniz var mı?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Evet, penisilin için alerjim var."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Evet, penisiline alerjim var."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Penisilini pek sevmem."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Bir şeye „gegen“ ile alerjin olur. Alerjin yoksa: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Hayır, alerjim yok.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Evet, penisiline alerjim var."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "İyi ki söylediniz. O zaman başka bir şey alırsınız."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Penisiline alerjim var."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Alerjim yok."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Yarın çalışamazsın. Doktor soruyor:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Rapora ihtiyacınız var mı?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Ne dersin?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Hayır, kendim yazıyorum."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Evet, hasta yazıyorum."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Evet, lütfen. İşverenim için."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! „Krankschreibung“ (iş göremezlik raporu) hasta olduğunu ve çalışamayacağını gösterir."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Önemli: işverenine yine de kendin haber ver – en iyisi ilk gün, sabah erkenden."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Evet, lütfen. İşverenim için."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Size cumaya kadar rapor yazıyorum."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Rapora ihtiyacım var."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Size bir reçete yazıyorum. Tabletleri günde üç kez yemekten sonra alın."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "İyi dinle! Tabletleri ne zaman alıyorsun?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Günde bir kez, yatmadan önce."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Sabah, öğle ve akşam – yemekten sonra."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Günde üç kez – yemekten önce."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ günde üç kez demek. Ve „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– yani önce yemek, sonra tablet."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Çok teşekkürler. Hoşça kalın!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Geçmiş olsun!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – bunu hasta insanlara söyleriz. Anlamı: Çabuk iyileş!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Tekrar et!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Günde üç kez yemekten sonra."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Geçmiş olsun!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "Ya muayenehane kapalıysa? İki numarayı aklında tut."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: nöbetçi doktor hizmeti – gece ya da hafta sonu doktora ihtiyacın varsa ama acil durum değilse."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Ve 112: acil çağrı numarası – ambulans ve itfaiye için, örneğin bir kazadan sonra ya da ciddi nefes darlığında."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "Kursta güzel cümleler öğrenirsin. Ama Almanlar gerçekte ne der?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Boğazım ağrıyor."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Boğazım gıcık yapıyor."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Hastayım."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Hastalık beni yakaladı."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Bana bulaştı."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Bir şey kaptım."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Çok yorgun ve halsizim."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Tamamen bitkinim."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Sırtım ağrıyor."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Sırtım tuttu."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, ben çok soğuğum!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … sen soğuk bir insan değilsin ki. Demek istediğin: „Mir ist kalt.“ (Üşüyorum.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Ve dikkat: „Mir ist schlecht“ „Kendimi kötü hissediyorum“"
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "demek değil. Anlamı: Midem bulanıyor, belki kusacağım."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Grip mi, soğuk algınlığı mı? Burun akıntısı ve öksürük çoğu zaman soğuk algınlığıdır („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Grip („Grippe“) çok daha kötüdür: yüksek ateş, yatakta yatarsın."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Ve şimdi her şey bir kez daha. En önemli on cümle. Tekrar et!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Randevu almak istiyorum."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "İşte kartım."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Bunu lütfen daha yavaş söyleyebilir misiniz?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Başım ağrıyor ve ateşim var."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Karnım ağrıyor."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Üç günden beri."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Penisiline alerjim var."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Rapora ihtiyacım var."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Günde üç kez yemekten sonra."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Geçmiş olsun!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Senin için en zor durum hangisiydi? Yorumlara yaz!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Gelecek sefer resmi daireye gidiyoruz. Orada gerçekten yardıma ihtiyacım var."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "LilyLingua'da görüşmek üzere!"
+    }
+  ]
+}

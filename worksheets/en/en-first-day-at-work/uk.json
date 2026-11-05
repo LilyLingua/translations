@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.723Z"
+  },
+  "title": "Перший робочий день",
+  "instructions": {
+    "en-first-day-at-work-matching": "З'єднай кожне слово з його значенням.",
+    "en-first-day-at-work-gap": "Вибери правильне слово.",
+    "en-first-day-at-work-verbs": "Встав правильне дієслово.",
+    "en-first-day-at-work-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-first-day-at-work-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-first-day-at-work-matching-1",
+      "translation": "колега",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-1:meaning",
+      "translation": "Людина, яка працює разом з тобою.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-2",
+      "translation": "керівник",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-2:meaning",
+      "translation": "Людина, яка керує командою.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-3",
+      "translation": "перерва",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-3:meaning",
+      "translation": "Короткий час, коли ти не працюєш і відпочиваєш.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-4",
+      "translation": "зміна",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-4:meaning",
+      "translation": "Години роботи, наприклад з 6 до 14.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-5",
+      "translation": "перепустка",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-5:meaning",
+      "translation": "Картка з твоїм ім'ям і фото, яку носять на роботі.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-6",
+      "translation": "шафка",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-6:meaning",
+      "translation": "Маленька шафа, де можна зберігати свої речі.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-gap-1",
+      "translation": "Це твоя шафка. Сюди можна покласти сумку.",
+      "answerText": "шафка"
+    },
+    {
+      "id": "en-first-day-at-work-gap-2",
+      "translation": "Моя зміна починається о восьмій.",
+      "answerText": "зміна"
+    },
+    {
+      "id": "en-first-day-at-work-gap-3",
+      "translation": "Будь ласка, завжди носи свою перепустку.",
+      "answerText": "перепустку"
+    },
+    {
+      "id": "en-first-day-at-work-gap-4",
+      "translation": "У нас обідня перерва о дванадцятій.",
+      "answerText": "перерва"
+    },
+    {
+      "id": "en-first-day-at-work-gap-5",
+      "translation": "Якщо в тебе проблема, поговори зі своїм керівником.",
+      "answerText": "керівником"
+    },
+    {
+      "id": "en-first-day-at-work-gap-6",
+      "translation": "Приємно познайомитися. Я твій новий колега.",
+      "answerText": "колега"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-1",
+      "translation": "Привіт, мене звати Сара.",
+      "answerText": "звати"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-2",
+      "translation": "Де я можу знайти кімнату відпочинку?",
+      "answerText": "можу"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-3",
+      "translation": "Я працюю на складі.",
+      "answerText": "працюю"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-4",
+      "translation": "Можеш показати мені дорогу до офісу?",
+      "answerText": "показати"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-5",
+      "translation": "Нарада починається о десятій.",
+      "answerText": "починається"
+    },
+    {
+      "id": "en-first-day-at-work-order-1",
+      "translation": "Де кімната відпочинку?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-2",
+      "translation": "Я новий колега.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-3",
+      "translation": "Коли закінчується моя зміна?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-4",
+      "translation": "Можеш пояснити це ще раз?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-1",
+      "translation": "колега",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-2",
+      "translation": "нарада",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-3",
+      "translation": "розклад",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-4",
+      "translation": "завтра",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-5",
+      "translation": "ласкаво просимо",
+      "answerText": null
+    }
+  ]
+}

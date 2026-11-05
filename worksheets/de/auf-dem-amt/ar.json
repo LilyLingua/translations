@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.421Z"
+  },
+  "title": "في الدائرة الحكومية",
+  "instructions": {
+    "auf-dem-amt-matching": "صِل كل كلمة بالشرح المناسب.",
+    "auf-dem-amt-gap": "ضع علامة على الكلمة المناسبة.",
+    "auf-dem-amt-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "auf-dem-amt-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "auf-dem-amt-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "auf-dem-amt-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "تسجيل السكن",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "تُبلغ الدائرة بعنوانك الجديد.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "رقم الانتظار",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "تسحب هذا الرقم من الآلة.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "جواز السفر",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "وثيقة تسافر بها إلى الخارج.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "تأكيد المؤجر",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "تحتاج هذه الورقة من المؤجر من أجل تسجيل السكن.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "شهادة تسجيل السكن",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "هذه الورقة تُثبت أنك تسكن الآن في هذا العنوان.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "الحالة الاجتماعية",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "أعزب، متزوج، مطلّق أو أرمل",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "التوقيع",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "اسمك مكتوبًا بخط اليد.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "الاستمارة",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "ورقة فيها خانات لتعبئتها.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "أريد تسجيل شقتي الجديدة.",
+      "answerText": "شقتي"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "من فضلك، اسحب رقمًا من الآلة.",
+      "answerText": "رقمًا"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "الرقم 147 من فضلك إلى الشباك 12.",
+      "answerText": "الشباك"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "هذا هو التأكيد من المؤجر.",
+      "answerText": "المؤجر"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "هل معك بطاقة الهوية؟",
+      "answerText": "بطاقة الهوية"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "من فضلك، املأ الاستمارة كاملة.",
+      "answerText": "الاستمارة"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "ستحتاج شهادة تسجيل السكن كثيرًا، مثلًا لفتح حساب بنكي.",
+      "answerText": "شهادة تسجيل السكن"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "أسجّل سكني اليوم.",
+      "answerText": "أسجّل"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "أين يجب أن أوقّع؟",
+      "answerText": "أوقّع"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "أتهجى اسمي: N – O – W – A – K.",
+      "answerText": "أتهجى"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "من فضلك، تفضل بالجلوس.",
+      "answerText": "تفضل"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "تستغرق المعاملة أسبوعين تقريبًا.",
+      "answerText": "تستغرق"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "الدائرة الحكومية",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "بطاقة الهوية",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "الشقة",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "الاستمارة",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "المؤجر",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "العنوان",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "أريد تسجيل سكني.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "أين يجب أن أوقّع؟",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "هذا جواز سفري.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "هل أحتاج شيئًا آخر؟",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "شهادة تسجيل السكن",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "جواز السفر",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "أعزب",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "المؤجر",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "العنوان",
+      "answerText": null
+    }
+  ]
+}

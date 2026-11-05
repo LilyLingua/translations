@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.031Z"
+  },
+  "title": "फ़्लैट किराए पर लेना",
+  "instructions": {
+    "wohnung-mieten-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "wohnung-mieten-gap": "आर्टिकल के सही रूप पर निशान लगाइए।",
+    "wohnung-mieten-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "wohnung-mieten-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "wohnung-mieten-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "wohnung-mieten-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "किराया",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "वह पैसा जो आप हर महीने फ़्लैट के लिए देते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "सिक्योरिटी डिपॉज़िट",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "मकान मालिक को शुरुआत में ज़मानत के रूप में मिलने वाला पैसा।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "अतिरिक्त ख़र्च",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "पानी, हीटिंग और कचरे का ख़र्च।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "किराया अनुबंध",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "किराएदार और मकान मालिक के बीच का अनुबंध।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "फ़्लैट देखना",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "किराए पर लेने से पहले आप फ़्लैट देखते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "केयरटेकर",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "वह इमारत की देखभाल करता है और छोटी चीज़ें ठीक करता है।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "इमारत के नियम",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "सभी निवासियों के लिए नियम, जैसे शांति का समय।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "हम बालकनी वाला एक फ़्लैट ढूँढ रहे हैं।",
+      "answerText": "एक"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "मैं मकान मालिक से बात करता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "मैं मकान मालकिन को डिपॉज़िट देता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "मैं साइकिल आँगन में रखता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "चाबी मेज़ पर रखी है।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "रसोई की हीटिंग खराब है।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "मैं एक साल से इस फ़्लैट में रह रहा हूँ।",
+      "answerText": "इस"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "मैं फ़्लैट कब देख सकता हूँ?",
+      "answerText": "देख"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "किराया अतिरिक्त ख़र्च सहित 850 यूरो है।",
+      "answerText": "है"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "हम 1 दिसंबर को शिफ़्ट होते हैं।",
+      "answerText": "शिफ़्ट होते"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "हीटिंग खराब है। क्या आप उसे ठीक कर सकते हैं?",
+      "answerText": "ठीक कर"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "कृपया कचरा अलग-अलग कीजिए।",
+      "answerText": "अलग-अलग कीजिए"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "कमरा",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "रसोई",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "बालकनी",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "बाथरूम",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "चाबी",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "हीटिंग",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "क्या फ़्लैट अभी भी खाली है?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "अतिरिक्त ख़र्च कितना है?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "मैं फ़्लैट कब देख सकता हूँ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "मैं यह फ़्लैट किराए पर लेना चाहता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "सिक्योरिटी डिपॉज़िट",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "अतिरिक्त ख़र्च",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "बालकनी",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "चाबी",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "हीटिंग",
+      "answerText": null
+    }
+  ]
+}

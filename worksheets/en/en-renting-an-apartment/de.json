@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:38.034Z"
+  },
+  "title": "Eine Wohnung mieten",
+  "instructions": {
+    "en-renting-an-apartment-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-renting-an-apartment-gap": "Wähle das richtige Wort.",
+    "en-renting-an-apartment-verbs": "Setze das richtige Verb ein.",
+    "en-renting-an-apartment-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-renting-an-apartment-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-renting-an-apartment-matching-1",
+      "translation": "die Miete",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-1:meaning",
+      "translation": "Das Geld, das du jeden Monat zahlst, um in einer Wohnung zu wohnen.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2",
+      "translation": "der Vermieter / die Vermieterin",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2:meaning",
+      "translation": "Die Person, der die Wohnung gehört und die sie vermietet.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3",
+      "translation": "die Kaution",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3:meaning",
+      "translation": "Geld, das du am Anfang zahlst und beim Auszug zurückbekommst.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4",
+      "translation": "der Mietvertrag",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4:meaning",
+      "translation": "Der Vertrag zwischen dir und dem Vermieter.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5",
+      "translation": "die Nebenkosten",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5:meaning",
+      "translation": "Wasser, Strom und Heizung.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6",
+      "translation": "die Besichtigung",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6:meaning",
+      "translation": "Ein Besuch, um die Wohnung vor dem Mieten anzusehen.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-gap-1",
+      "translation": "Wie hoch ist die Miete pro Monat?",
+      "answerText": "Miete"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-2",
+      "translation": "Sind die Nebenkosten in der Miete enthalten?",
+      "answerText": "Nebenkosten"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-3",
+      "translation": "Die Kaution beträgt zwei Monatsmieten.",
+      "answerText": "Kaution"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-4",
+      "translation": "Wann kann ich zur Besichtigung kommen?",
+      "answerText": "Besichtigung"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-5",
+      "translation": "Bitte lies den Mietvertrag, bevor du ihn unterschreibst.",
+      "answerText": "Mietvertrag"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-6",
+      "translation": "Die Wohnung hat zwei Schlafzimmer und einen Balkon.",
+      "answerText": "Schlafzimmer"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-1",
+      "translation": "Ich suche eine Wohnung mit zwei Schlafzimmern.",
+      "answerText": "suche"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-2",
+      "translation": "Wann ist die Wohnung frei?",
+      "answerText": "ist"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-3",
+      "translation": "Darf ich Haustiere halten?",
+      "answerText": "halten"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-4",
+      "translation": "Wir haben den Mietvertrag gestern unterschrieben.",
+      "answerText": "unterschrieben"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-5",
+      "translation": "Der Vermieter gibt uns am Montag die Schlüssel.",
+      "answerText": "gibt"
+    },
+    {
+      "id": "en-renting-an-apartment-order-1",
+      "translation": "Ist die Wohnung noch frei?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-2",
+      "translation": "Ich würde die Wohnung gern ansehen.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-3",
+      "translation": "Wie hoch ist die Kaution?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-4",
+      "translation": "Die Miete ist am Ersten des Monats fällig.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-1",
+      "translation": "Wohnung",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-2",
+      "translation": "Schlafzimmer",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-3",
+      "translation": "Kaution",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-4",
+      "translation": "frei, verfügbar",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-5",
+      "translation": "Strom",
+      "answerText": null
+    }
+  ]
+}

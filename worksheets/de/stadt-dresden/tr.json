@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:03.137Z"
+  },
+  "title": "Dresden",
+  "instructions": {
+    "stadt-dresden-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-dresden-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-dresden-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-dresden-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-dresden-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-dresden-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "Frauenkirche",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "Kubbeli büyük kilise; savaşta yıkıldı, 2005'te yeniden açıldı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "\"Elbe'nin Floransası\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "Dresden'in lakabı – Elbe kıyısındaki güzel yapılar yüzünden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "Striezelmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "Almanya'nın en eski Noel pazarlarından biri.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "Kuru üzümlü ve pudra şekerli ağır Noel keki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "\"Mavi Mucize\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "Elbe üzerinde eski, mavi bir köprü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "Semperoper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "Theaterplatz'taki ünlü opera binası.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "Eierschecke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "Üç katlı Saksonya pastası.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "Frauenkirche'yi geziyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "Aralıkta Striezelmarkt'a gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "Noel'de büyükannem bir Stollen pişirir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "Elbe boyunca yürüyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "Akşam Semperoper'a gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "Mavi Mucize eski bir köprüdür.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "Kahvenin yanında bir dilim Eierschecke yiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "Frauenkirche savaşta yıkıldı.",
+      "answerText": "yıkıldı"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "Birçok insan yeniden inşa için para bağışladı.",
+      "answerText": "bağışladı"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "Striezelmarkt her yıl Advent döneminde kurulur.",
+      "answerText": "kurulur"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "Elbe, Dresden'in içinden akar.",
+      "answerText": "akar"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "Saksonca'da \"evet\" yerine sık sık \"nu\" denir.",
+      "answerText": "denir"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "kilise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "köprü",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "pazar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "kubbe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "pasta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "saray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "Frauenkirche 2005'te yeniden açıldı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "Advent'te Striezelmarkt'a gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "Dresden Stollen'ini denedin mi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "Dresden, Elbe kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "kubbe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "Noel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "köprü",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "kuru üzüm",
+      "answerText": null
+    }
+  ]
+}

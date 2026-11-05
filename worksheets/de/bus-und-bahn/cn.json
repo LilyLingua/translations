@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.277Z"
+  },
+  "title": "乘坐公交和火车",
+  "instructions": {
+    "bus-und-bahn-matching": "把每个单词和合适的解释连起来。",
+    "bus-und-bahn-gap": "勾出合适的单词。",
+    "bus-und-bahn-verbs": "用正确形式填入正确的动词。",
+    "bus-und-bahn-table": "填写冠词（der/die/das）和复数形式。",
+    "bus-und-bahn-order": "把单词按正确顺序排列并写出句子。",
+    "bus-und-bahn-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "车票",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "有了它，你可以坐公交车或火车。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "自动售票机",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "在这里不用去窗口就能买票。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "站台（轨道）",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "火车在车站里停靠的地方。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "晚点",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "火车比计划晚到。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "换乘",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "从一列火车换到另一列火车。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "公交车站",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "公交车停靠的地方。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "德国票（Deutschlandticket）",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "全德国公交和区域火车通用的月票。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "去科隆的火车从5号站台出发。",
+      "answerText": "站台"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "火车晚点十分钟。",
+      "answerText": "晚点"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "最近的车站在哪儿？",
+      "answerText": "车站"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "一张去柏林的票，谢谢。",
+      "answerText": "票"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "请出示您的车票。",
+      "answerText": "车票"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "地铁每十分钟一班。",
+      "answerText": "地铁"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "您可以在售票机上买票。",
+      "answerText": "售票机"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "我要在哪里换乘？",
+      "answerText": "换乘"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "公交车8点15分出发。",
+      "answerText": "出发"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "我们10点到达汉堡。",
+      "answerText": "到达"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "请在这里下车。",
+      "answerText": "下车"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "这趟旅程需要多长时间？",
+      "answerText": "需要"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "火车",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "火车站",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "车票",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "站台",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "车站",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "公交车",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "下一班去慕尼黑的火车什么时候开？",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "我得在曼海姆换乘。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "火车可惜晚点了。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "这张票也可以坐公交车吗？",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "车票",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "晚点",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "车站",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "站台",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "火车站",
+      "answerText": null
+    }
+  ]
+}

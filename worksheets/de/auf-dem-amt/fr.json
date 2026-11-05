@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.630Z"
+  },
+  "title": "À l'administration",
+  "instructions": {
+    "auf-dem-amt-matching": "Reliez chaque mot à l'explication qui convient.",
+    "auf-dem-amt-gap": "Cochez le mot qui convient.",
+    "auf-dem-amt-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "auf-dem-amt-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "auf-dem-amt-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "auf-dem-amt-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "la déclaration de domicile",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Vous déclarez votre nouvelle adresse à l'administration.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "le numéro d'attente (ticket)",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Vous prenez ce numéro à la machine.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "le passeport",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Une pièce d'identité pour voyager à l'étranger.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "l'attestation du bailleur",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Vous avez besoin de ce papier du propriétaire pour la déclaration.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "le certificat de domicile",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Ce papier montre que vous habitez maintenant à cette adresse.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "la situation familiale",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "célibataire, marié, divorcé ou veuf",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "la signature",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Votre nom écrit à la main.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "le formulaire",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Un papier avec des cases à remplir.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Je voudrais déclarer mon nouvel appartement.",
+      "answerText": "appartement"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Veuillez prendre un numéro à la machine.",
+      "answerText": "numéro"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Le numéro 147 est attendu au guichet 12.",
+      "answerText": "guichet"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Voici l'attestation de mon propriétaire.",
+      "answerText": "propriétaire"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Avez-vous votre carte d'identité sur vous ?",
+      "answerText": "carte d'identité"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Veuillez remplir entièrement le formulaire.",
+      "answerText": "formulaire"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Vous aurez souvent besoin du certificat de domicile, par exemple pour un compte bancaire.",
+      "answerText": "certificat de domicile"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Je déclare mon domicile aujourd'hui.",
+      "answerText": "déclare"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Où dois-je signer ?",
+      "answerText": "signer"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "J'épelle mon nom : N – O – W – A – K.",
+      "answerText": "épelle"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Veuillez vous asseoir.",
+      "answerText": "asseoir"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Le traitement prend environ deux semaines.",
+      "answerText": "prend"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "l'administration",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "la carte d'identité",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "l'appartement",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "le formulaire",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "le propriétaire",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "l'adresse",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Je voudrais déclarer mon domicile.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Où dois-je signer ?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Voici mon passeport.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Ai-je besoin d'autre chose ?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "certificat de domicile",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "passeport",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "célibataire",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "propriétaire",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "adresse",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:19.686Z"
+  },
+  "title": "Кил",
+  "instructions": {
+    "stadt-kiel-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-kiel-gap": "Означи тачну реч.",
+    "stadt-kiel-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-kiel-table": "Упиши члан и облик множине.",
+    "stadt-kiel-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-kiel-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Förde“ (фјорд)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Дугачак, узак залив Балтичког мора који улази дубоко у копно.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Килска недеља",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Велики једриличарски фестивал у јуну са музиком и чамцима из целог света.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "трајект",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Велики брод за људе и аутомобиле, на пример за Норвешку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Килски канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Вештачки пловни пут између Северног и Балтичког мора.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "килска папалина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Мала димљена риба, типична за Кил.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Moin moin!“ (Мојн мојн)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Севернонемачки поздрав; неки мисле да је двапут „Мојн“ већ превише.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "једрити",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Пловити чамцем који покреће ветар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Кил лежи на Балтичком мору.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "У јуну славимо Килску недељу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Идемо трајектом у Осло.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Бродови плове кроз Килски канал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "За викенд једримо по фјорду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Купујем кесицу килских папалина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Шетамо пса по плажи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Трајект сваки дан иде у Норвешку.",
+      "answerText": "иде"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Током Килске недеље једре чамци из целог света.",
+      "answerText": "једре"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Многи бродови користе Килски канал.",
+      "answerText": "користе"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "На северу људи кажу „Мојн“.",
+      "answerText": "кажу"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "На плажи често дува јак ветар.",
+      "answerText": "дува"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "чамац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "трајект",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "риба",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "плажа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "једро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Кил лежи на Балтичком мору.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "У јуну град слави Килску недељу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Да ли идеш трајектом у Норвешку?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "За викенд једримо по фјорду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "трајект",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "једро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "плажа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Балтичко море",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "канал",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:28.518Z"
+  },
+  "title": "부퍼탈",
+  "instructions": {
+    "stadt-wuppertal-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-wuppertal-gap": "알맞은 단어에 표시하세요.",
+    "stadt-wuppertal-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-wuppertal-table": "관사와 복수형을 쓰세요.",
+    "stadt-wuppertal-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-wuppertal-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "슈베베반(현수식 모노레일)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "레일에 매달려 강 위를 달리는 열차 – 1901년부터 운행한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "'투피'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "1950년에 슈베베반에서 부퍼강으로 뛰어내린 어린 코끼리.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "부퍼강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "도시 전체를 지나 흐르는 강.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "피나 바우슈",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "유명한 무용가로, 그녀의 부퍼탈 무용단은 전 세계에 알려져 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "계단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "도시가 비탈에 있어서 부퍼탈에는 공공 계단이 아주 많다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "프리드리히 엥겔스",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "사상가이자 카를 마르크스의 친구로, 바르멘 지역에서 태어났다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "노르트반트라세",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "옛 철길 위에 만든 자전거 길로, 터널과 다리가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "슈베베반은 부퍼강 위를 달린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "1950년에 코끼리 한 마리가 슈베베반에서 뛰어내렸다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "우리는 자전거를 타고 노르트반트라세를 달린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "프리드리히 엥겔스는 바르멘 지역에서 태어났다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "우리는 계단을 올라간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "그 무용단은 전 세계에 알려져 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "투피는 강에 떨어졌다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "슈베베반은 강 위 레일에 매달려 있다.",
+      "answerText": "매달려"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "투피는 부퍼강에 떨어졌다.",
+      "answerText": "떨어졌다"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "부퍼탈에는 계단이 아주 많이 있다.",
+      "answerText": "있다"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "슈베베반은 120년 넘게 운행하고 있다.",
+      "answerText": "운행하고"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "많은 사람들이 자전거로 노르트반트라세를 이용한다.",
+      "answerText": "이용한다"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "열차",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "코끼리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "계단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "자전거",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "역",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "슈베베반은 부퍼강 위에 매달려 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "매일 많은 사람들이 슈베베반을 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "투피 이야기 알아?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "부퍼탈에는 계단이 아주 많다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "코끼리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "계단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "레일",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "역",
+      "answerText": null
+    }
+  ]
+}

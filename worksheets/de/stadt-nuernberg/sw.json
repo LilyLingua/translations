@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:36.206Z"
+  },
+  "title": "Nuremberg",
+  "instructions": {
+    "stadt-nuernberg-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-nuernberg-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-nuernberg-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-nuernberg-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-nuernberg-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-nuernberg-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "Rostbratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "Soseji ndogo nyembamba ya kuchoma – ya kawaida Nuremberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "\"Drei im Weggla\" (tatu ndani ya mkate)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "Kifranconia: soseji tatu za kuchoma ndani ya mkate mdogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "Christkindlesmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "Soko maarufu la Krismasi; Christkind ndiye analifungua.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "Lebkuchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "Keki laini yenye asali, karanga na viungo, hasa wakati wa Krismasi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "Kaiserburg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "Ngome kubwa juu ya mwamba juu ya mji wa zamani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "Schöner Brunnen (Chemchemi Nzuri)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "Chemchemi sokoni; anayezungusha pete ya dhahabu hupata bahati.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "\"Schäufele\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "Nyama ya bega la nguruwe iliyookwa ya Kifranconia, pamoja na kibonge cha viazi na mchuzi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "Kaiserburg imesimama juu ya mwamba juu ya mji wa zamani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "Mwezi Desemba tunaenda Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "Ninakula soseji tatu ndani ya mkate mdogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "Watalii wengi wanazungusha pete ya dhahabu kwenye Schöner Brunnen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "Tunanunua Lebkuchen kwenye duka la mikate.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "Jumapili kuna Schäufele pamoja na kibonge cha viazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "Mto Pegnitz unapita katikati ya mji wa zamani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "Christkind anafungua Christkindlesmarkt.",
+      "answerText": "anafungua"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "Soseji huchomwa juu ya moto.",
+      "answerText": "huchomwa"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "Watu wengi wa Nuremberg wanajiona kuwa Wafranconia, si Wabavaria.",
+      "answerText": "wanajiona"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "Pete kwenye chemchemi huleta bahati.",
+      "answerText": "huleta"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "Wakati wa baridi maonyesho ya vinyago hufanyika.",
+      "answerText": "hufanyika"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "ngome",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "chemchemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "soseji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "soko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "mkate mdogo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "ukuta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "Drei im Weggla ni soseji tatu ndani ya mkate mdogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "Wakati wa Majilio watu wengi hutembelea Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "Umeshaonja Lebkuchen ya Nuremberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "Kaiserburg iko juu sana juu ya mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "keki ya tangawizi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "chemchemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "soseji ya kuchoma",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "Krismasi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "ngome",
+      "answerText": null
+    }
+  ]
+}

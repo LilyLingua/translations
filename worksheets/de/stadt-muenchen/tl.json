@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:41.566Z"
+  },
+  "title": "Munich",
+  "instructions": {
+    "stadt-muenchen-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-muenchen-gap": "Markahan ang tamang salita.",
+    "stadt-muenchen-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-muenchen-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-muenchen-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-muenchen-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "ang \"Wiesn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "Ganito tinatawag ng mga taga-Munich ang Oktoberfest sa Theresienwiese.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "\"Servus!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "Bati sa Bavaria para sa \"hello\" at \"paalam\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "ang \"Maß\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "Malaking baso na may isang litrong beer.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "ang Weißwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "Puting sausage na tradisyonal na kinakain bago mag-alas-dose ng tanghali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "ang \"Brezn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "Ganito tinatawag sa Bavaria ang pretzel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "ang beer garden",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "Umuupo sa labas sa ilalim ng mga puno para kumain at uminom.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "ang Föhn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "Mainit na hangin mula sa Alps; malinaw na malinaw na tanaw ang mga bundok.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "Nasa city hall sa Marienplatz ang glockenspiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "Tuwing tag-init, nagsu-surf ang mga kabataan sa Eisbach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "Tuwing weekend pumupunta kami sa beer garden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "Umoorder siya ng isang Maß at isang Brezn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "Dumadaloy ang ilog Isar sa lungsod.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "Pupunta kami sa English Garden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "Kapag umiihip ang Föhn, tanaw ang Alps mula sa lungsod.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "Kinakain ang Weißwurst bago mag-alas-dose.",
+      "answerText": "Kinakain"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "Alas-onse, tumutugtog ang glockenspiel sa city hall.",
+      "answerText": "tumutugtog"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "Nagsisimula ang Wiesn sa katapusan ng Setyembre.",
+      "answerText": "Nagsisimula"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "Sa Eisbach, nagsu-surf ang mga kabataan sa alon.",
+      "answerText": "nagsu-surf"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "Kapag nagpapaalam, \"Servus\" ang sinasabi ng mga taga-Munich.",
+      "answerText": "sinasabi"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "ang pista",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "ang sausage",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "ang hardin",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "ang baso ng beer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "ang pretzel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "ang bundok",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "Nagsisimula ang Wiesn sa katapusan ng Setyembre.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "Kinakain ang Weißwurst bago mag-alas-dose.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "Pupunta ba tayo sa beer garden mamayang gabi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "Kapag umiihip ang Föhn, malinaw na tanaw ang Alps.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "beer garden",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "glockenspiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "city hall",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "Oktubre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "mga bundok",
+      "answerText": null
+    }
+  ]
+}

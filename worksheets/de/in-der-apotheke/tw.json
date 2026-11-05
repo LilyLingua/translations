@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:49.998Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Aduroto baabi (pharmacy)",
+  "instructions": {
+    "in-der-apotheke-matching": "Fa asɛmfua biara ka ne nkyerɛkyerɛmu a ɛfata ho.",
+    "in-der-apotheke-gap": "Hyɛ asɛmfua a ɛfata no nsɛnkyerɛnne.",
+    "in-der-apotheke-verbs": "Fa adeyɛ asɛmfua a ɛteɛ hyɛ mu wɔ ne nsɛsoɔ a ɛteɛ mu.",
+    "in-der-apotheke-table": "Fa artikel (der/die/das) ne dodoɔ nsɛsoɔ no hyɛ mu.",
+    "in-der-apotheke-order": "Hyehyɛ nsɛmfua no yie na kyerɛw kasamu no.",
+    "in-der-apotheke-spelling": "Asɛmfua bɛn na wɔakyerɛw no yie? Hyɛ no nsɛnkyerɛnne."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "aduro krataa (prescription)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Krataa a efi dɔkota hɔ ma aduro bi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "aduro pɛpɛ (tablet)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Aduro ketewa a wɔmene.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "ɛwa aduro nsuo",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Aduro nsuo a ɛko tia ɛwa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "aduro srade (ointment)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Wɔsra no wɔ honam ani.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "aduro no ho haw (side effect)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Nsunsuansoɔ bɔne a aduro bi de ba.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "aduro ho krataa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Krataa a ɛwɔ aduro adaka mu a nsɛm nyinaa wɔ so.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "sika ketewa a wo ara wotua",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Wo ara wotua sika ketewa bi ma aduro krataa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Me dɔkota maa me aduro krataa.",
+      "answerText": "aduro krataa"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Wowɔ biribi a ɛko tia mene mu yea?",
+      "answerText": "mene mu yea"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Fa aduro pɛpɛ mmienu da biara.",
+      "answerText": "aduro pɛpɛ"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Aduro srade no yɛ ma honam ani.",
+      "answerText": "honam ani"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Mepa wo kyɛw, kenkan aduro ho krataa no.",
+      "answerText": "aduro ho krataa"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Aduro no nni haw pii.",
+      "answerText": "haw"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Nnawɔtwe awieeɛ no, aduroto baabi baako bue ma ɔhaw bere.",
+      "answerText": "aduroto baabi"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Efi ɛnnɛra na mewɔ ɛwa.",
+      "answerText": "mewɔ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Mprɛ ahe na ɛsɛ sɛ menom aduro pɛpɛ no?",
+      "answerText": "menom"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Yɛbɛto aduro no ama aba ɔkyena.",
+      "answerText": "Yɛbɛto"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Sra aduro srade no da biara mprɛnu.",
+      "answerText": "Sra"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Mepa wo kyɛw, nom nsuo pii.",
+      "answerText": "nom"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "aduroto baabi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "aduro",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "aduro srade",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "adaka (packet)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "aduro nsuo sɔtɔ (drop)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Wowɔ biribi a ɛko tia ɛwa?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Mprɛ ahe na ɛsɛ sɛ menom aduro pɛpɛ no?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Mehia aduro a ɛko tia ti yea.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Mehia aduro krataa ma ɛno?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "aduroto baabi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "aduro",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "aduro no ho haw",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ɛwa",
+      "answerText": null
+    }
+  ]
+}

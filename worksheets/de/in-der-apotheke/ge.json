@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.874Z"
+  },
+  "title": "აფთიაქში",
+  "instructions": {
+    "in-der-apotheke-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "in-der-apotheke-gap": "მონიშნეთ შესაფერისი სიტყვა.",
+    "in-der-apotheke-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "in-der-apotheke-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "in-der-apotheke-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "in-der-apotheke-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "რეცეპტი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "ექიმის ქაღალდი მედიკამენტისთვის.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ტაბლეტი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "პატარა წამალი, რომელსაც ყლაპავენ.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "ხველის სიროფი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "თხევადი წამალი ხველის საწინააღმდეგოდ.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "მალამო",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "კანზე ისმება.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "გვერდითი მოვლენა",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "მედიკამენტის არასასურველი მოქმედება.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "ინსტრუქცია (ჩანართი)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "ქაღალდი წამლის კოლოფში ყველა ინფორმაციით.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "თანაგადახდა",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "რეცეპტისთვის მცირე თანხას თავად იხდით.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "ჩემი ექიმისგან რეცეპტი მაქვს.",
+      "answerText": "რეცეპტი"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "ყელის ტკივილის საწინააღმდეგო რამე გაქვთ?",
+      "answerText": "ყელის ტკივილის"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "დღეში ორი ტაბლეტი მიიღეთ.",
+      "answerText": "ტაბლეტი"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "მალამო კანისთვისაა.",
+      "answerText": "კანისთვისაა"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "გთხოვთ, წაიკითხეთ ინსტრუქცია.",
+      "answerText": "ინსტრუქცია"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "ამ წამალს თითქმის არ აქვს გვერდითი მოვლენები.",
+      "answerText": "გვერდითი მოვლენები"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "შაბათ-კვირას ერთი აფთიაქი მორიგეობს.",
+      "answerText": "აფთიაქი"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "გუშინდელიდან ხველა მაქვს.",
+      "answerText": "მაქვს"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "ტაბლეტები რამდენჯერ უნდა მივიღო?",
+      "answerText": "მივიღო"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "წამალს ხვალისთვის შევუკვეთავთ.",
+      "answerText": "შევუკვეთავთ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "მალამო დღეში ორჯერ წაისვით.",
+      "answerText": "წაისვით"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "გთხოვთ, ბევრი წყალი დალიეთ.",
+      "answerText": "დალიეთ"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "აფთიაქი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "მედიკამენტი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "მალამო",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "პლასტირი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "კოლოფი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "წვეთი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "ხველის საწინააღმდეგო რამე გაქვთ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "ტაბლეტები რამდენჯერ უნდა მივიღო?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "თავის ტკივილის წამალი მჭირდება.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "ამისთვის რეცეპტი მჭირდება?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "აფთიაქი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "მედიკამენტი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "პლასტირი",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "გვერდითი მოვლენა",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ხველა",
+      "answerText": null
+    }
+  ]
+}

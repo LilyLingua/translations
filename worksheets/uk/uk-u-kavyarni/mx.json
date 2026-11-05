@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:50.865Z"
+  },
+  "title": "En la cafetería",
+  "instructions": {
+    "uk-u-kavyarni-matching": "Relacione cada palabra con su significado.",
+    "uk-u-kavyarni-gap": "Elija la palabra correcta.",
+    "uk-u-kavyarni-verbs": "Escriba el verbo correcto.",
+    "uk-u-kavyarni-order": "Ordene las palabras y escriba la oración.",
+    "uk-u-kavyarni-spelling": "¿Qué palabra está bien escrita? Márquela."
+  },
+  "items": [
+    {
+      "id": "uk-u-kavyarni-matching-1",
+      "translation": "el menú",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-1:meaning",
+      "translation": "Una lista de platillos y bebidas con precios.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2",
+      "translation": "el mesero / la mesera",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2:meaning",
+      "translation": "La persona que trae la comida y las bebidas.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3",
+      "translation": "la cuenta",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3:meaning",
+      "translation": "Un papel donde dice cuánto hay que pagar.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4",
+      "translation": "la propina",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4:meaning",
+      "translation": "Dinero extra por un buen servicio.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5",
+      "translation": "el pastel",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5:meaning",
+      "translation": "Un postre dulce, por ejemplo de chocolate.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6",
+      "translation": "para llevar",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6:meaning",
+      "translation": "Cuando se lleva la comida o la bebida y no se come en la cafetería.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-gap-1",
+      "translation": "¿Me trae el menú, por favor?",
+      "answerText": "menú"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-2",
+      "translation": "Una taza de café, por favor.",
+      "answerText": "café"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-3",
+      "translation": "Ya comimos. ¿Nos trae la cuenta, por favor?",
+      "answerText": "cuenta"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-4",
+      "translation": "¿Para comer aquí o para llevar?",
+      "answerText": "llevar"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-5",
+      "translation": "Nuestro mesero es muy amable.",
+      "answerText": "mesero"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-6",
+      "translation": "Dejamos la propina en la mesa.",
+      "answerText": "propina"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-1",
+      "translation": "Voy a tomar un té con limón.",
+      "answerText": "Voy"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-2",
+      "translation": "¿Qué me recomienda?",
+      "answerText": "recomienda"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-3",
+      "translation": "Queremos pagar.",
+      "answerText": "Queremos"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-4",
+      "translation": "El pastel huele muy rico.",
+      "answerText": "huele"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-5",
+      "translation": "¿Puedo pagar con tarjeta?",
+      "answerText": "pagar"
+    },
+    {
+      "id": "uk-u-kavyarni-order-1",
+      "translation": "¿Me da un vaso de agua?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-2",
+      "translation": "Para mí, una rebanada de pastel.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-3",
+      "translation": "¿Cuánto cuesta un café?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-4",
+      "translation": "Queremos pagar.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-1",
+      "translation": "café",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-2",
+      "translation": "chocolate",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-3",
+      "translation": "sándwich",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-4",
+      "translation": "desayuno",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-5",
+      "translation": "rico",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.021Z"
+  },
+  "title": "وړکتون او ښوونځی",
+  "instructions": {
+    "kita-und-schule-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "kita-und-schule-gap": "مناسبه کلمه په نښه کړئ.",
+    "kita-und-schule-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "kita-und-schule-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "kita-und-schule-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "kita-und-schule-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "د مور او پلار غونډه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "د والدینو او ښوونکو ناسته.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "وړکتون (کیتا)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "دلته د ورځې کوچني ماشومان ساتل کېږي.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "د ټولګي ښوونکې",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "هغه د یو ټولګي مسؤله ده.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "د پایلو کارت",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "دلته د تعلیمي کال په پای کې نمرې لیکل شوې وي.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "د غیرحاضرۍ لیک",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "ښوونځي ته لنډ لیک کله چې ستاسو ماشوم ناروغ و.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "رخصتي",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "بې ښوونځي وخت، لکه په دوبي کې.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "تفریحي سفر",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "ټولګی یوځای بل ځای ته ځي.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "زما زوی ناروغ دی. نن نه شي کولی ښوونځي ته راشي.",
+      "answerText": "ښوونځي"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "په د مور او پلار غونډه کې والدین له ښوونکې سره خبرې کوي.",
+      "answerText": "د مور او پلار غونډه"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "په دوبي کې ماشومان شپږ اونۍ رخصتي لري.",
+      "answerText": "رخصتي"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "د تعلیمي کال په پای کې زما لور د پایلو کارت اخلي.",
+      "answerText": "د پایلو کارت"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "زه ښوونکې ته د غیرحاضرۍ لیک لیکم، ځکه زما ماشوم ناروغ و.",
+      "answerText": "د غیرحاضرۍ لیک"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "ماشومان باید هره ورځ کورنی کار وکړي.",
+      "answerText": "کورنی کار"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "زما ماشوم درې کلن دی او وړکتون ته ځي.",
+      "answerText": "وړکتون"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "زه خپل ماشوم په ۴ بجو اخلم.",
+      "answerText": "اخلم"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "زما لور نن له بده مرغه ناروغه ده.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "کولی شو چې د لیدو وخت وټاکو؟",
+      "answerText": "وټاکو"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "درسونه په ۸ بجو پیلېږي.",
+      "answerText": "پیلېږي"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "مهرباني وکړئ تر جمعې پورې فورمه لاسلیک کړئ.",
+      "answerText": "لاسلیک"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ماشوم",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "ټولګی",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "ښوونکی",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "کتابچه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "نمره",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "قلم",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "زما زوی نن ناروغ دی.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "د مور او پلار غونډه کله پیلېږي؟",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "زه خپله لور په ۳ بجو اخلم.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "زما ماشوم سفر ته کوم شي ته اړتیا لري؟",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "د مور او پلار غونډه",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "د پایلو کارت",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "د غیرحاضرۍ لیک",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "کورنی کار",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "د ټولګي ښوونکې",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:25.944Z"
+  },
+  "title": "دورتموند",
+  "instructions": {
+    "stadt-dortmund-matching": "صِل كل كلمة بالشرح الصحيح.",
+    "stadt-dortmund-gap": "ضع علامة على الكلمة الصحيحة.",
+    "stadt-dortmund-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "stadt-dortmund-table": "أكمل أداة التعريف وصيغة الجمع.",
+    "stadt-dortmund-order": "رتّب الكلمات واكتب الجملة.",
+    "stadt-dortmund-spelling": "أيّ كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "stadt-dortmund-matching-1",
+      "translation": "بي في بي",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-1:meaning",
+      "translation": "بوروسيا دورتموند – نادي كرة القدم الكبير في المدينة، بالأسود والأصفر.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2",
+      "translation": "«الجدار الأصفر»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2:meaning",
+      "translation": "المدرّج الجنوبي الضخم في الملعب؛ هناك يقف المشجعون متلاصقين.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3",
+      "translation": "«دورتموندر أو»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3:meaning",
+      "translation": "مبنى عالٍ قديم لمصنع جعة، على سطحه حرف U كبير مضيء.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4",
+      "translation": "المنجم («تسيشه»)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4:meaning",
+      "translation": "منجم؛ هنا كانوا قديمًا يستخرجون الفحم من الأرض.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5",
+      "translation": "«بوده» (الكشك)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5:meaning",
+      "translation": "كشك صغير على الزاوية فيه مشروبات وحلويات وصحف.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6",
+      "translation": "«بوت»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6:meaning",
+      "translation": "كلمة قصيرة لمنطقة الرور.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7",
+      "translation": "شجرة عيد الميلاد",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7:meaning",
+      "translation": "في سوق عيد الميلاد تقف شجرة ضخمة مصنوعة من أشجار تنّوب كثيرة.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-1",
+      "translation": "يوم السبت نذهب إلى الملعب.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-2",
+      "translation": "يقف المشجعون في المدرّج الجنوبي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-3",
+      "translation": "نشتري شيئًا نشربه من الكشك.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-4",
+      "translation": "عمل جدّي في المنجم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-5",
+      "translation": "في سوق عيد الميلاد تقف شجرة عيد ميلاد ضخمة.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-6",
+      "translation": "فوق مبنى دورتموندر أو يضيء حرف U كبير.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-7",
+      "translation": "نزور متحف كرة القدم الألماني.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-verbs-1",
+      "translation": "المشجعون يغنّون بصوت عالٍ لبي في بي.",
+      "answerText": "يغنّون"
+    },
+    {
+      "id": "stadt-dortmund-verbs-2",
+      "translation": "في الماضي عمل رجال كثيرون تحت الأرض.",
+      "answerText": "عمل"
+    },
+    {
+      "id": "stadt-dortmund-verbs-3",
+      "translation": "شجرة عيد الميلاد يزيد ارتفاعها على 40 مترًا.",
+      "answerText": "يزيد"
+    },
+    {
+      "id": "stadt-dortmund-verbs-4",
+      "translation": "حرف U يضيء في الليل.",
+      "answerText": "يضيء"
+    },
+    {
+      "id": "stadt-dortmund-verbs-5",
+      "translation": "نلتقي عند الكشك.",
+      "answerText": "نلتقي"
+    },
+    {
+      "id": "stadt-dortmund-table-1",
+      "translation": "الملعب",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-2",
+      "translation": "المشجّع",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-3",
+      "translation": "المنجم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-4",
+      "translation": "المرمى",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-5",
+      "translation": "النادي",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-6",
+      "translation": "الكشك",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-1",
+      "translation": "يلعب بي في بي في ملعب فستفالن.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-2",
+      "translation": "يوم السبت نقف في المدرّج الجنوبي.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-3",
+      "translation": "هل تأتي معنا إلى الملعب؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-4",
+      "translation": "تقع دورتموند في منطقة الرور.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-1",
+      "translation": "الملعب",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-2",
+      "translation": "النادي",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-3",
+      "translation": "المدرّج",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-4",
+      "translation": "المنجم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-5",
+      "translation": "كرة القدم",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.933Z"
+  },
+  "title": "სახელმწიფო დაწესებულებაში",
+  "instructions": {
+    "auf-dem-amt-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "auf-dem-amt-gap": "მონიშნეთ შესაფერისი სიტყვა.",
+    "auf-dem-amt-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "auf-dem-amt-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "auf-dem-amt-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "auf-dem-amt-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "საცხოვრებელი ადგილის რეგისტრაცია",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "დაწესებულებას ახალ მისამართს ატყობინებ.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "რიგის ნომერი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "ამ ნომერს აპარატიდან იღებ.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "პასპორტი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "დოკუმენტი, რომლითაც საზღვარგარეთ მოგზაურობ.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "მესაკუთრის დადასტურება",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "რეგისტრაციისთვის მესაკუთრისგან ეს ქაღალდი გჭირდება.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "რეგისტრაციის ცნობა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "ეს ქაღალდი აჩვენებს, რომ ახლა ამ მისამართზე ცხოვრობ.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "ოჯახური მდგომარეობა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "დაუოჯახებელი, დაოჯახებული, განქორწინებული ან ქვრივი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "ხელმოწერა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "შენი სახელი, ხელით დაწერილი.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "ფორმა (ბლანკი)",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "ქაღალდი შესავსები ველებით.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "ჩემი ახალი ბინის რეგისტრაცია მინდა.",
+      "answerText": "ბინის"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "გთხოვთ, აპარატიდან აიღეთ ნომერი.",
+      "answerText": "ნომერი"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "ნომერი 147, გთხოვთ, მე-12 სარკმელთან.",
+      "answerText": "სარკმელთან"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "აი, ჩემი მესაკუთრის დადასტურება.",
+      "answerText": "მესაკუთრის"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "პირადობის მოწმობა თან გაქვთ?",
+      "answerText": "პირადობის მოწმობა"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "გთხოვთ, ფორმა სრულად შეავსოთ.",
+      "answerText": "ფორმა"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "რეგისტრაციის ცნობა ხშირად დაგჭირდებათ, მაგალითად საბანკო ანგარიშისთვის.",
+      "answerText": "რეგისტრაციის ცნობა"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "დღეს ვრეგისტრირდები.",
+      "answerText": "ვრეგისტრირდები"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "სად უნდა მოვაწერო ხელი?",
+      "answerText": "მოვაწერო"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "ჩემს გვარს ასო-ასო ვამბობ: N – O – W – A – K.",
+      "answerText": "ვამბობ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "გთხოვთ, დაბრძანდით.",
+      "answerText": "დაბრძანდით"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "განხილვა დაახლოებით ორ კვირას გრძელდება.",
+      "answerText": "გრძელდება"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "დაწესებულება",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "პირადობის მოწმობა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "ბინა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "ფორმა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "მესაკუთრე",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "მისამართი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "რეგისტრაცია მინდა.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "სად უნდა მოვაწერო ხელი?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "აი, ჩემი პასპორტი.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "კიდევ რამე მჭირდება?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "რეგისტრაციის ცნობა",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "პასპორტი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "დაუოჯახებელი",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "მესაკუთრე",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "მისამართი",
+      "answerText": null
+    }
+  ]
+}

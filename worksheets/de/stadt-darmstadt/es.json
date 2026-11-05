@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:50.237Z"
+  },
+  "title": "Darmstadt",
+  "instructions": {
+    "stadt-darmstadt-matching": "Relaciona cada palabra con la explicación correcta.",
+    "stadt-darmstadt-gap": "Marca la palabra correcta.",
+    "stadt-darmstadt-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "stadt-darmstadt-table": "Completa el artículo y el plural.",
+    "stadt-darmstadt-order": "Ordena las palabras y escribe la frase.",
+    "stadt-darmstadt-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "stadt-darmstadt-matching-1",
+      "translation": "el «Heiner»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-1:meaning",
+      "translation": "Así se llama a las personas nacidas en Darmstadt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2",
+      "translation": "el «Lange Lui» (Luis el Largo)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2:meaning",
+      "translation": "Columna alta con un monumento en la Luisenplatz, en el centro.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3",
+      "translation": "la Torre de la Boda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3:meaning",
+      "translation": "Torre en la Mathildenhöhe, construida para la boda del gran duque.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4",
+      "translation": "el Heinerfest",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4:meaning",
+      "translation": "Gran fiesta de la ciudad en verano, con atracciones y música.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5",
+      "translation": "la ciudad de la ciencia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5:meaning",
+      "translation": "Título oficial de Darmstadt, por sus muchas universidades e institutos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6",
+      "translation": "«Ei Gude!»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6:meaning",
+      "translation": "Saludo de Hesse, parecido a «Hola, ¿qué tal?».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7",
+      "translation": "el Woog",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7:meaning",
+      "translation": "Un lago en medio de la ciudad; en verano se puede nadar allí.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-1",
+      "translation": "Vivo en la ciudad de la ciencia, Darmstadt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-2",
+      "translation": "El Lange Lui está en la Luisenplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-3",
+      "translation": "En verano vamos al Heinerfest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-4",
+      "translation": "La Torre de la Boda está en la Mathildenhöhe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-5",
+      "translation": "En verano nadamos en el Woog.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-6",
+      "translation": "Muchos jóvenes estudian en la Universidad Técnica.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-7",
+      "translation": "En Darmstadt se descubrió el elemento darmstadtio.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-verbs-1",
+      "translation": "Desde 2021 la Mathildenhöhe pertenece al Patrimonio Mundial de la UNESCO.",
+      "answerText": "pertenece"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-2",
+      "translation": "Muchos jóvenes estudian en Darmstadt.",
+      "answerText": "estudian"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-3",
+      "translation": "En verano se celebra el Heinerfest.",
+      "answerText": "celebra"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-4",
+      "translation": "En la mina de Messel los investigadores descubren fósiles antiguos.",
+      "answerText": "descubren"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-5",
+      "translation": "Te veo en el Lange Lui.",
+      "answerText": "veo"
+    },
+    {
+      "id": "stadt-darmstadt-table-1",
+      "translation": "la torre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-2",
+      "translation": "la universidad",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-3",
+      "translation": "la fiesta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-4",
+      "translation": "el lago",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-5",
+      "translation": "la columna",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-6",
+      "translation": "el instituto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-1",
+      "translation": "La Torre de la Boda está en la Mathildenhöhe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-2",
+      "translation": "En verano los Heiner celebran el Heinerfest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-3",
+      "translation": "Darmstadt es una ciudad de la ciencia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-4",
+      "translation": "¿Quedamos en el Lange Lui?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-1",
+      "translation": "ciencia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-2",
+      "translation": "boda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-3",
+      "translation": "universidad",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-4",
+      "translation": "monumento",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-5",
+      "translation": "columna",
+      "answerText": null
+    }
+  ]
+}

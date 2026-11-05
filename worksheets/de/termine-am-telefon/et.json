@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Aja kokkuleppimine telefonis",
+  "instructions": {
+    "termine-am-telefon-matching": "Ühendage iga sõna õige selgitusega.",
+    "termine-am-telefon-gap": "Märkige õige eessõna.",
+    "termine-am-telefon-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "termine-am-telefon-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "termine-am-telefon-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "termine-am-telefon-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "automaatvastaja",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Siia saab jätta sõnumi.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "otsenumber",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Ettevõttes töötava inimese otsene telefoninumber.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "tagasi helistama",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Helistada kellelegi hiljem, sest tema helistas teile enne.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "edasi lükkama",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Viia kokkulepitud aeg teisele päevale.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "tühistama",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Öelda, et te ei tule kokkulepitud ajale.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "vastuvõtuaeg",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Ajad, mil kedagi kätte saab.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "veerima",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Öelda sõna täht-tähe haaval.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Kas teil on esmaspäeval aega?",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Kas kell 10 sobib teile?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Mul on aega alles detsembris.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Nädalavahetusel on praksis suletud.",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Ma helistan teile tunni pärast tagasi.",
+      "answerText": "pärast"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Ma olen juba kaks nädalat vastuvõtuaega oodanud.",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Palun tulge kümme minutit enne kokkulepitud aega.",
+      "answerText": "enne"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Kas ma saaksin palun proua Weberiga rääkida?",
+      "answerText": "rääkida"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Kahjuks pean ma oma aja tühistama.",
+      "answerText": "tühistama"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Kas te saaksite mulle palun tagasi helistada?",
+      "answerText": "tagasi helistada"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Ma annan teile oma numbri.",
+      "answerText": "annan"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Kuidas te oma nime veerite?",
+      "answerText": "veerite"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "kõne",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "number",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "sõnum",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "aeg",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "mobiiltelefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Ma sooviksin kokkulepitud aega edasi lükata.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Millal teil aega on?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Ma helistan homme uuesti.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Kas neljapäev kell 9 sobib teile?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "sõnum",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "kokkulepitud aeg",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "tagasi helistama",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "aeg",
+      "answerText": null
+    }
+  ]
+}

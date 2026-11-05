@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.681Z"
+  },
+  "title": "ไปหาหมอ",
+  "instructions": {
+    "beim-arzt-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "beim-arzt-gap": "ทำเครื่องหมายที่คำที่เหมาะสม",
+    "beim-arzt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "beim-arzt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "beim-arzt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "beim-arzt-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "บัตรประกันสุขภาพ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "แสดงบัตรนี้ที่แผนกต้อนรับ บนบัตรมีชื่อประกันสุขภาพของคุณ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "การนัดหมาย",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "เวลาที่กำหนดไว้ที่คุณไปคลินิก",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "ห้องรอ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "นั่งรอที่นี่จนกว่าจะถูกเรียก",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "ใบสั่งยา",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "ใช้รับยาที่ร้านขายยา",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "ใบรับรองแพทย์ (ลาป่วย)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "นายจ้างได้รับเอกสารนี้เมื่อคุณป่วย",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "ไข้",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "อุณหภูมิร่างกายสูงเกินไป เช่น 39 องศา",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "อาการแพ้",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "ร่างกายตอบสนองรุนแรงต่อบางอย่าง เช่น เพนิซิลลิน",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "การโทรฉุกเฉิน",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "หมายเลข 112 – เมื่อเกิดอุบัติเหตุหรือเหตุฉุกเฉิน",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "สวัสดีค่ะ/ครับ ฉันอยากทำนัด",
+      "answerText": "นัด"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "คุณนำบัตรประกันสุขภาพมาด้วยไหม",
+      "answerText": "บัตรประกันสุขภาพ"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "กรุณานั่งรอในห้องรอ",
+      "answerText": "ห้องรอ"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "ฉันปวดหัวและมีไข้",
+      "answerText": "ปวดหัว"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "ท้องของฉันปวด",
+      "answerText": "ท้อง"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "ฉันแพ้เพนิซิลลิน",
+      "answerText": "เพนิซิลลิน"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "ฉันต้องการใบรับรองแพทย์สำหรับนายจ้าง",
+      "answerText": "ใบรับรองแพทย์"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "กินยาวันละสามครั้งหลังอาหาร",
+      "answerText": "อาหาร"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "คุณช่วยพูดช้าลงหน่อยได้ไหม",
+      "answerText": "พูด"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "ฉันมีไข้มาสามวันแล้ว",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "ฉันปวดหัวมาก",
+      "answerText": "ปวด"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "กรุณาหายใจเข้าลึก ๆ แล้วหายใจออก",
+      "answerText": "หายใจเข้า"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "หมอให้ใบสั่งยากับฉัน",
+      "answerText": "ให้"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "เราจะเรียกคุณในอีกสักครู่",
+      "answerText": "เรียก"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "แพทย์",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ยาเม็ด",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "ใบสั่งยา",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "การนัดหมาย",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "คลินิก",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "ยา",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "ฉันอยากทำนัด",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "ฉันมีไข้มาสามวันแล้ว",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "คุณช่วยพูดอีกครั้งได้ไหม",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "เจ็บตรงไหน",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "ปวดหัว",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "ใบรับรองแพทย์",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "บัตรประกันสุขภาพ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "แพ้",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ยาเม็ด",
+      "answerText": null
+    }
+  ]
+}

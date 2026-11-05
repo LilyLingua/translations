@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Ar galite man išmainyti penkis eurus?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Atsiprašau, kur rasti miltų?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Norėčiau 200 gramų Gouda, prašom."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Taip, tinka."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Bananams taikoma akcija."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Kur yra taros automatas?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Ne, ačiū."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Turiu krepšį su savimi."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Kortele, prašom."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Ačiū, ir jums!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Aš taip alkanas! Bet mano šaldytuvas tuščias."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Tada į prekybos centrą!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Į prekybos centrą? Viskas vokiškai?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Žinoma! Šiandien apsipirksi nuo pradžios iki galo – nuo pirkinių vežimėlio iki kvito."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Ir kiekvienoje situacijoje tavęs klausiame: ką tu sakai?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Ir turi tik penkias sekundes!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Nori paimti pirkinių vežimėlį. Bet tam reikia monetos – o tu turi tik penkių eurų banknotą."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Šalia tavęs stovi vyresnio amžiaus vyras."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Atsiprašau, ar galite man padovanoti penkis eurus?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Atsiprašau, ar galite man išmainyti penkis eurus?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Atsiprašau, noriu jūsų vežimėlio."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ reiškia: duodi banknotą ir gauni atgal monetų. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "reiškia: gauni nemokamai – tai būtų labai malonu, bet šiek tiek įžūlu."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Akimirką … taip: du, keturi, penki eurai. Prašom!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Labai ačiū!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Ar galite man išmainyti penkis eurus?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Tau reikia miltų. Bet kur miltai? Darbuotojas kaip tik dėlioja prekes lentynoje."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Ko klausi?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Atsiprašau, kur rasti miltų?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (neteisingas artikelis)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Ar radote miltų?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Beveik, Leo. Sakoma „das Mehl“. Bet A dar geriau: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Atsiprašau, kur rasti …?) – taip mandagiai paklausi apie bet ką prekybos centre."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Miltai trečioje eilėje, pačioje lentynos apačioje."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Ačiū!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Atsiprašau, kur rasti miltų?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Trečia eilė, pačioje apačioje."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Dabar eini prie šviežių produktų prekystalio. Nori Gouda sūrio."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Laba diena! Ko pageidausite?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Aš esu 200 gramų Gouda."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Taip, gali būti."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Norėčiau 200 gramų Gouda, prašom."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ tiesiog reiškia: ko norėtumėte? O su „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(norėčiau …) visada mandagiai užsisakai – prie prekystalio, kepykloje, kavinėje."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Norėčiau 200 gramų Gouda, prašom."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Ponia Haas pjausto sūrį. Svarstyklės rodo: 230 gramų."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Ar gali būti truputį daugiau?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Ne, man negalima."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Taip, tinka."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Taip, aš esu truputį daugiau."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Šį sakinį išgirsi prie kiekvieno prekystalio Vokietijoje. Jis reiškia: šiek tiek daugiau, nei užsakėte – ar tinka?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Jei ne, tiesiog sakyk: „Nein, bitte genau 200 Gramm.“ (Ne, prašom lygiai 200 gramų.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Dar ko nors?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Ne, ačiū. Tai viskas."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Taip, tinka."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Ne, ačiū. Tai viskas."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Eini toliau. Staiga išgirsti pranešimą. Klausykis atidžiai!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Mielos pirkėjos ir pirkėjai! Šiandien akcija: bananai, kilogramas tik už 99 centus."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Kiek kainuoja kilogramas bananų?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 centai"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 centai. „Im Angebot“ reiškia: šiandien pigiau nei paprastai."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Bananams taikoma akcija."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Su savimi turi ir tuščių butelių – su šiuo ženklu: užstatas („Pfand“). Kur juos dėti?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Į taros automatą. Atgauni pinigų."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Į šiukšliadėžę prie įėjimo."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Prie kasos – kaip dovaną."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, į šiukšles!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Ne, Leo – tada išmeti pinigus! A! Už daugelį butelių atgauni 25 centus."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Automatas išduoda kvitą. Jį atiduodi prie kasos."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Kur yra taros automatas?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Dabar esi prie kasos. Viską dedi ant juostos."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Labas! Ar renkate taškus?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Taip, renku pašto ženklus."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Renku jūsų taškus."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Ne, ačiū."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Renku pašto ženklus. Jau nuo mokyklos laikų."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Gražu, Leo – bet ji to nenori žinoti. C! Daugelis prekybos centrų turi kortelę ar programėlę su taškais."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Jei tokios neturi, tiesiog sakyk: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Ne, ačiū."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Taip, štai mano kortelė."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Ar jums reikia maišelio?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Taip, maišelį pieno, prašom."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Ne, ačiū. Turiu krepšį su savimi."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Ne, aš ne maišelis."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Naudinga žinoti: Vokietijoje maišeliai beveik visada mokami."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Daug žmonių atsineša savo krepšį."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Turiu krepšį su savimi."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Iš viso 23,47 €. Mokėsite grynaisiais ar kortele?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Kortele, prašom."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Moku su „Bar“."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Taip, grynaisiais arba kortele."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Taip!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo … tai ne klausimas, į kurį atsakoma taip arba ne! A! „Bar“ reiškia: banknotais ir monetomis. O jei nesi tikras, paklausk: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Ar galiu mokėti kortele?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Kortele, prašom."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Ar galiu mokėti kortele?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Ar norėsite kvito?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Ne, nemėgstu saldainių („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Ne, ačiū. Man jo nereikia."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Taip, norėčiau kasos."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Nemėgstu saldainių. Per daug cukraus."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ – tai ne „Bonbon“. „Kassenbon“ – tai popieriaus lapelis, kuriame parašyta, ką nusipirkai."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B teisingai. Arba: „Ja, bitte.“ (Taip, prašom.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Geros dienos!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Ačiū, ir jums!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Ačiū, ir jums!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Trys patarimai apie prekybos centrus Vokietijoje."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Pirma: sekmadienį beveik visi prekybos centrai uždaryti – tad apsipirk šeštadienį!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Antra: prie kasos viską ant juostos dedi pats."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Prekių skirtukas rodo: nuo čia prasideda kito pirkėjo prekės."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Ir trečia: prie kasos viskas vyksta greitai."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Ramiai susidėk daiktus už kasos – tai visiškai normalu."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo rašo pirkinių sąrašą. Bet kažkas čia ne taip …"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Butelis jogurto."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Indelis jogurto!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Skardinė duonos."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Kepalas duonos – arba pakelis skrebučių duonos!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Indelis makaronų."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Pakelis makaronų!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Pakelis vandens."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Butelis vandens!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Maišelis pomidorų."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Skardinė pomidorų!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Kur rasti sūrio?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "O veiksmažodis eina į galą: ne „Ich möchte bezahlen mit Karte“, o: „Ich möchte mit Karte bezahlen.“ (Norėčiau mokėti kortele.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "O prie kasos: „Bon“ yra kvitas. „Bonbon“ – saldainis."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "O dabar viskas dar kartą. Dešimt svarbiausių sakinių. Kartok po manęs!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Ar galite man išmainyti penkis eurus?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Atsiprašau, kur rasti miltų?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Norėčiau 200 gramų Gouda, prašom."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Taip, tinka."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Ne, ačiū. Tai viskas."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Bananams taikoma akcija."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Kur yra taros automatas?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Turiu krepšį su savimi."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Ar galiu mokėti kortele?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Ačiū, ir jums!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Ką prekybos centre labiausiai mėgsti pirkti? Parašyk komentaruose!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Iki, ir greitai pasimatysime LilyLingua!"
+    }
+  ]
+}

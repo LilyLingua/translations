@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.964Z"
+  },
+  "title": "ექიმთან",
+  "instructions": {
+    "beim-arzt-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "beim-arzt-gap": "მონიშნეთ შესაფერისი სიტყვა.",
+    "beim-arzt-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "beim-arzt-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "beim-arzt-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "beim-arzt-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "ჯანმრთელობის დაზღვევის ბარათი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "ამ ბარათს მიღებაზე აჩვენებ. მასზე შენი სადაზღვევო კომპანიაა მითითებული.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "ვიზიტი (ჩაწერა)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "განსაზღვრული დრო, როცა კლინიკაში მიდიხარ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "მოსაცდელი ოთახი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "აქ ზიხარ, სანამ დაგიძახებენ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "რეცეპტი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "მისით აფთიაქში წამალს იღებ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "საავადმყოფო ფურცელი (ბიულეტენი)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "როცა ავად ხარ, ამ ქაღალდს დამსაქმებელი იღებს.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "სიცხე",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "სხეულის ტემპერატურა ძალიან მაღალია, მაგალითად 39 გრადუსი.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "ალერგია",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "ორგანიზმი რაღაცაზე ძლიერად რეაგირებს, მაგალითად პენიცილინზე.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "გადაუდებელი ზარი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "ნომერი 112 – უბედური შემთხვევის ან საგანგებო სიტუაციის დროს.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "გამარჯობა, ვიზიტზე ჩაწერა მინდა.",
+      "answerText": "ვიზიტზე"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "დაზღვევის ბარათი თან გაქვთ?",
+      "answerText": "დაზღვევის ბარათი"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "გთხოვთ, მოსაცდელ ოთახში დაჯდეთ.",
+      "answerText": "მოსაცდელ ოთახში"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "თავი მტკივა და სიცხე მაქვს.",
+      "answerText": "თავი"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "მუცელი მტკივა.",
+      "answerText": "მუცელი"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "პენიცილინზე ალერგია მაქვს.",
+      "answerText": "პენიცილინზე"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "დამსაქმებლისთვის ბიულეტენი მჭირდება.",
+      "answerText": "ბიულეტენი"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "ტაბლეტები დღეში სამჯერ ჭამის შემდეგ მიიღეთ.",
+      "answerText": "ჭამის"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "შეგიძლიათ უფრო ნელა თქვათ?",
+      "answerText": "თქვათ"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "სამი დღეა, სიცხე მაქვს.",
+      "answerText": "მაქვს"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "თავი ძალიან მტკივა.",
+      "answerText": "მტკივა"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "გთხოვთ, ღრმად ჩაისუნთქეთ – და ისევ ამოისუნთქეთ.",
+      "answerText": "ჩაისუნთქეთ"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "ექიმი რეცეპტს მაძლევს.",
+      "answerText": "მაძლევს"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "ახლავე დაგიძახებთ.",
+      "answerText": "დაგიძახებთ"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ექიმი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ტაბლეტი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "რეცეპტი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "ვიზიტი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "კლინიკა",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "მედიკამენტი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "ვიზიტზე ჩაწერა მინდა.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "სამი დღეა, სიცხე მაქვს.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "შეგიძლიათ გაიმეოროთ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "სად გტკივათ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "თავის ტკივილი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "ბიულეტენი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "ჯანმრთელობის დაზღვევის ბარათი",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "ალერგიული",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ტაბლეტი",
+      "answerText": null
+    }
+  ]
+}

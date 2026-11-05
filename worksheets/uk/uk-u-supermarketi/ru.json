@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.475Z"
+  },
+  "title": "В супермаркете",
+  "instructions": {
+    "uk-u-supermarketi-matching": "Соедините каждое слово с его значением.",
+    "uk-u-supermarketi-gap": "Выберите правильное слово.",
+    "uk-u-supermarketi-verbs": "Вставьте правильный глагол.",
+    "uk-u-supermarketi-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-u-supermarketi-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-u-supermarketi-matching-1",
+      "translation": "тележка",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-1:meaning",
+      "translation": "Большая корзина на колёсах для покупок.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2",
+      "translation": "касса",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2:meaning",
+      "translation": "Место, где платят.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3",
+      "translation": "полка",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3:meaning",
+      "translation": "На ней лежат товары в магазине.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4:meaning",
+      "translation": "Бумажка, где написано, что вы купили и сколько заплатили.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5",
+      "translation": "кассир",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5:meaning",
+      "translation": "Человек, который работает на кассе.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6",
+      "translation": "пакет",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6:meaning",
+      "translation": "В нём несут покупки домой.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-gap-1",
+      "translation": "Мне нужна бутылка молока.",
+      "answerText": "молока"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-2",
+      "translation": "Хлеб лежит на верхней полке.",
+      "answerText": "полке"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-3",
+      "translation": "Оплатите, пожалуйста, на кассе.",
+      "answerText": "кассе"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-4",
+      "translation": "Вот ваш чек. Хорошего дня!",
+      "answerText": "чек"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-5",
+      "translation": "Я кладу яблоки в тележку.",
+      "answerText": "тележку"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-6",
+      "translation": "На кассе работает приветливый кассир.",
+      "answerText": "кассир"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-1",
+      "translation": "Сколько стоят яблоки?",
+      "answerText": "стоят"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-2",
+      "translation": "Я плачу картой.",
+      "answerText": "плачу"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-3",
+      "translation": "Мы покупаем яйца и хлеб.",
+      "answerText": "покупаем"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-4",
+      "translation": "Извините, где лежит рис?",
+      "answerText": "лежит"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-5",
+      "translation": "Магазин закрывается в десять.",
+      "answerText": "закрывается"
+    },
+    {
+      "id": "uk-u-supermarketi-order-1",
+      "translation": "Где лежит рис?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-2",
+      "translation": "Мне нужен пакет.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-3",
+      "translation": "Можно заплатить картой?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-4",
+      "translation": "Молоко стоит в третьем ряду.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-1",
+      "translation": "овощи",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-2",
+      "translation": "хлеб",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-3",
+      "translation": "сыр",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-4",
+      "translation": "яблоко",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-5",
+      "translation": "банан",
+      "answerText": null
+    }
+  ]
+}

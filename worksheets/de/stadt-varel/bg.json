@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:45.647Z"
+  },
+  "title": "Фарел",
+  "instructions": {
+    "stadt-varel-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-varel-gap": "Отбележете правилната дума.",
+    "stadt-varel-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-varel-table": "Попълнете члена и формата за множествено число.",
+    "stadt-varel-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-varel-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "вятърната мелница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "Построена през 1847/48 г.; с височина 39 метра е една от най-високите вятърни мелници в Германия.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "водната кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "Символ на Фарел, висока над 50 метра; отгоре се открива широка гледка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "Ядебузен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "Голям залив на Северно море точно пред Фарел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "Дангаст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "Малък морски курорт на Северно море, който е част от Фарел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "тортата с ревен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "Прочута торта от стария курортен дом в Дангаст.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "Замъковата църква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "Най-старата сграда в града с дървен олтар, висок почти 10 метра.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "ватът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "Морско дъно, по което при отлив може да се ходи пеша.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "Фарел се намира на Ядебузен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "От водната кула се вижда целият град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "В курортния дом в Дангаст ядем парче торта с ревен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "При отлив вървим през вата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "В Замъковата църква има много стар олтар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "Посещаваме вятърната мелница.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "В пристанището стоят корабите за скариди.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "Вятърната мелница се нарежда сред най-високите в Германия.",
+      "answerText": "се нарежда"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "При отлив водата се оттегля.",
+      "answerText": "оттегля"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "През лятото много летовници пътуват до Дангаст.",
+      "answerText": "пътуват"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "Водната кула и днес снабдява Фарел с вода.",
+      "answerText": "снабдява"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "В курортния дом се поръчва торта с ревен.",
+      "answerText": "поръчва"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "мелницата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "крилото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "рибарският кораб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "заливът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "брегът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "плажът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "Фарел се намира на Ядебузен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "При отлив се разхождаме през вата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "Качвал ли си се вече горе на водната кула?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "В Дангаст много хора ядат торта с ревен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "мелница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "ревен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "отлив",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "крило",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "плаж",
+      "answerText": null
+    }
+  ]
+}

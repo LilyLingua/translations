@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:43.226Z"
+  },
+  "title": "লুবেক",
+  "instructions": {
+    "stadt-luebeck-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-luebeck-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-luebeck-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-luebeck-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-luebeck-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-luebeck-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "হলস্টেনটোর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "দুটি গোল টাওয়ারসহ পুরোনো নগরফটক – লুবেকের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "মারজিপান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "বাদাম আর চিনি দিয়ে তৈরি মিষ্টি; লুবেক এর জন্য বিখ্যাত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "হানসার রানি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "ডাকনাম: মধ্যযুগে লুবেক ছিল হানসা সংঘের সবচেয়ে গুরুত্বপূর্ণ শহর।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "পুরোনো শহরের দ্বীপ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "পুরোনো শহরটি একটি দ্বীপে অবস্থিত এবং বিশ্ব ঐতিহ্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "ট্রাভেম্যুন্ডে",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "বাল্টিক সাগরের ধারে একটি এলাকা, সৈকত আর বড় ফেরিসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "টমাস মান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "লুবেকের বিখ্যাত লেখক; তিনি \"বুডেনব্রুকস\" লেখেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "\"গেঙ্গে\" (গলিপথ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "পুরোনো শহরে বাড়িগুলোর মাঝখানে সরু পথ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "আমরা হলস্টেনটোরের মধ্য দিয়ে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "আমি এক টুকরো মারজিপান কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "মধ্যযুগে লুবেক ছিল হানসার সবচেয়ে গুরুত্বপূর্ণ শহর।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "ট্রাভেম্যুন্ডেতে আমরা সৈকতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "ফেরিটি বাল্টিক সাগর পার হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "টমাস মান একটি পরিবার নিয়ে একটি উপন্যাস লেখেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "পুরোনো শহরটি একটি দ্বীপে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "হলস্টেনটোরের দুটি গোল টাওয়ার আছে।",
+      "answerText": "আছে"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "মারজিপান বাদাম আর চিনি দিয়ে বানানো হয়।",
+      "answerText": "বানানো"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "ফেরিগুলো সুইডেন আর ফিনল্যান্ডে যায়।",
+      "answerText": "যায়"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "পুরোনো শহরটি একটি দ্বীপে অবস্থিত।",
+      "answerText": "অবস্থিত"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "টমাস মান \"বুডেনব্রুকস\" উপন্যাসটি লেখেন।",
+      "answerText": "লেখেন"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "ফটক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "বাদাম",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "দ্বীপ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "সৈকত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "ফেরি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "উপন্যাস",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "হলস্টেনটোর লুবেকের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "তুমি কি মারজিপান খেতে ভালোবাসো?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "পুরোনো শহরটি একটি দ্বীপে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "গ্রীষ্মে আমরা ট্রাভেম্যুন্ডে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "মারজিপান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "দ্বীপ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "সৈকত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "ফেরি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "বাদাম",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.617Z"
+  },
+  "title": "Telefonda Randevu",
+  "instructions": {
+    "termine-am-telefon-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "termine-am-telefon-gap": "Doğru edatı işaretleyin.",
+    "termine-am-telefon-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "termine-am-telefon-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "termine-am-telefon-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "termine-am-telefon-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "telesekreter",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Burada bir mesaj bırakabilirsiniz.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "dahili numara",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Bir şirketteki bir kişinin doğrudan telefon numarası.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "geri aramak",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Daha önce aradığı için birini sonra aramak.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "ertelemek",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Bir randevuyu başka bir güne almak.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "iptal etmek",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Bir randevuya gelmeyeceğini söylemek.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "görüşme saatleri",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Birine ulaşabileceğiniz saatler.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "harf harf söylemek (hecelemek)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Bir kelimeyi harf harf söylemek.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Pazartesi vaktiniz var mı?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Saat 10 olur mu?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Ancak aralık ayında vaktim var.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Muayenehane hafta sonu kapalı.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Sizi bir saat içinde geri arayacağım.",
+      "answerText": "içinde"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Randevu için iki haftadır bekliyorum.",
+      "answerText": "haftadır"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Lütfen randevudan on dakika önce gelin.",
+      "answerText": "önce"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Bayan Weber ile görüşebilir miyim lütfen?",
+      "answerText": "görüşebilir"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Maalesef randevumu iptal etmem gerekiyor.",
+      "answerText": "iptal etmem"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Beni lütfen geri arayabilir misiniz?",
+      "answerText": "geri arayabilir"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Size numaramı veriyorum.",
+      "answerText": "veriyorum"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Adınız nasıl yazılıyor?",
+      "answerText": "yazılıyor"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "arama",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numara",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "mesaj",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "saat",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "cep telefonu",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Bir randevuyu ertelemek istiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Ne zaman vaktiniz var?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Yarın tekrar arayacağım.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Perşembe saat 9 size uyar mı?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "mesaj",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "randevu",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "geri aramak",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "saat",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "040fa788-6d58-4795-8f8d-3ee1f584efbc",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Bremen",
+  "topic": "Stadtstaat: Stadtmusikanten, Roland, Schnoor, Freimarkt",
+  "tasks": [
+    {
+      "id": "stadt-bremen-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-bremen-matching-1",
+          "term": "die Stadtmusikanten",
+          "meaning": "Esel, Hund, Katze und Hahn aus dem Märchen; ihre Figur steht am Rathaus."
+        },
+        {
+          "id": "stadt-bremen-matching-2",
+          "term": "der Roland",
+          "meaning": "Große Steinfigur auf dem Marktplatz, Zeichen für eine freie Stadt."
+        },
+        {
+          "id": "stadt-bremen-matching-3",
+          "term": "der Schnoor",
+          "meaning": "Sehr altes Viertel mit kleinen Häusern und engen Gassen."
+        },
+        {
+          "id": "stadt-bremen-matching-4",
+          "term": "der Freimarkt",
+          "meaning": "Volksfest im Herbst; die Bremer rufen „Ischa Freimaak!“."
+        },
+        {
+          "id": "stadt-bremen-matching-5",
+          "term": "Kohl und Pinkel",
+          "meaning": "Grünkohl mit Wurst, ein typisches Essen im Winter."
+        },
+        {
+          "id": "stadt-bremen-matching-6",
+          "term": "die Schlachte",
+          "meaning": "Promenade an der Weser mit Biergärten und Schiffen."
+        },
+        {
+          "id": "stadt-bremen-matching-7",
+          "term": "der Stadtstaat",
+          "meaning": "Eine Stadt, die gleichzeitig ein Bundesland ist."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-bremen-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-bremen-gap-1",
+          "promptBefore": "Die Bremer Stadtmusikanten stehen neben",
+          "promptAfter": "Rathaus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-2",
+          "promptBefore": "Der Roland steht auf",
+          "promptAfter": "Marktplatz.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-3",
+          "promptBefore": "Wir gehen durch",
+          "promptAfter": "engen Gassen im Schnoor.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-4",
+          "promptBefore": "Im Herbst fahren wir mit",
+          "promptAfter": "Riesenrad auf dem Freimarkt.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-5",
+          "promptBefore": "Im Winter gibt es",
+          "promptAfter": "typisches Essen: Kohl und Pinkel.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-6",
+          "promptBefore": "Wir sitzen an",
+          "promptAfter": "Weser.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bremen-gap-7",
+          "promptBefore": "Für Glück fasst man die Beine",
+          "promptAfter": "Esels an.",
+          "correctAnswer": "des",
+          "options": [
+            "des",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-bremen-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-bremen-verbs-1",
+          "promptBefore": "Wer die Beine des Esels",
+          "promptAfter": ", hat Glück.",
+          "correctAnswer": "anfasst",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "anfassen"
+        },
+        {
+          "id": "stadt-bremen-verbs-2",
+          "promptBefore": "Der Freimarkt",
+          "promptAfter": "jedes Jahr im Herbst statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        },
+        {
+          "id": "stadt-bremen-verbs-3",
+          "promptBefore": "Im Märchen",
+          "promptAfter": "die Tiere nach Bremen.",
+          "correctAnswer": "wandern",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wandern"
+        },
+        {
+          "id": "stadt-bremen-verbs-4",
+          "promptBefore": "Im Schnoor",
+          "promptAfter": "die Häuser sehr klein und alt.",
+          "correctAnswer": "sind",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-bremen-verbs-5",
+          "promptBefore": "Seit 2004",
+          "promptAfter": "das Rathaus und der Roland zum UNESCO-Welterbe.",
+          "correctAnswer": "gehören",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "gehören"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-bremen-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-bremen-table-1",
+          "article": "der",
+          "singular": "Esel",
+          "plural": "Esel"
+        },
+        {
+          "id": "stadt-bremen-table-2",
+          "article": "der",
+          "singular": "Hund",
+          "plural": "Hunde"
+        },
+        {
+          "id": "stadt-bremen-table-3",
+          "article": "die",
+          "singular": "Katze",
+          "plural": "Katzen"
+        },
+        {
+          "id": "stadt-bremen-table-4",
+          "article": "der",
+          "singular": "Hahn",
+          "plural": "Hähne"
+        },
+        {
+          "id": "stadt-bremen-table-5",
+          "article": "die",
+          "singular": "Gasse",
+          "plural": "Gassen"
+        },
+        {
+          "id": "stadt-bremen-table-6",
+          "article": "das",
+          "singular": "Märchen",
+          "plural": "Märchen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-bremen-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-bremen-order-1",
+          "chunks": [
+            "Die Stadtmusikanten",
+            "stehen",
+            "neben dem Rathaus"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bremen-order-2",
+          "chunks": [
+            "Im Herbst",
+            "feiern",
+            "die Bremer",
+            "den Freimarkt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bremen-order-3",
+          "chunks": [
+            "Hast du",
+            "die Beine des Esels",
+            "schon",
+            "angefasst"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-bremen-order-4",
+          "chunks": [
+            "Bremen",
+            "ist",
+            "das kleinste Bundesland"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-bremen-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-bremen-spelling-1",
+          "correct": "Esel",
+          "wrong": "Essel"
+        },
+        {
+          "id": "stadt-bremen-spelling-2",
+          "correct": "Katze",
+          "wrong": "Kaze"
+        },
+        {
+          "id": "stadt-bremen-spelling-3",
+          "correct": "Märchen",
+          "wrong": "Märschen"
+        },
+        {
+          "id": "stadt-bremen-spelling-4",
+          "correct": "Gasse",
+          "wrong": "Gase"
+        },
+        {
+          "id": "stadt-bremen-spelling-5",
+          "correct": "Bundesland",
+          "wrong": "Bundeslant"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

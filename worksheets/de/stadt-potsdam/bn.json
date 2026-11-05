@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:39.515Z"
+  },
+  "title": "পটসডাম",
+  "instructions": {
+    "stadt-potsdam-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-potsdam-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-potsdam-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-potsdam-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-potsdam-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-potsdam-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "সাঁসুসি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "ফ্রেডরিক দ্য গ্রেটের প্রাসাদ; ফরাসি নামের অর্থ \"দুশ্চিন্তাহীন\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "\"বুড়ো ফ্রিৎস\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "প্রুশিয়ার রাজা দ্বিতীয় ফ্রেডরিকের ডাকনাম।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "আলু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "বুড়ো ফ্রিৎস একে প্রুশিয়ায় জনপ্রিয় করেন; মানুষ তাঁর কবরে আলু রাখে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "ডাচ পাড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "ডাচ ধাঁচের লাল ইটের বাড়ির পাড়া।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "বাবেলসবের্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "এখানে বড় চলচ্চিত্র স্টুডিও; অনেক সিনেমা এখানে তৈরি হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "গ্লিনিকে সেতু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "বার্লিনের দিকে সেতু; স্নায়ুযুদ্ধে এখানে গুপ্তচর বিনিময় হতো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "হাফেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "পটসডামের চারপাশে অনেক হ্রদসহ নদী।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "আমরা সাঁসুসি প্রাসাদ দেখতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "বুড়ো ফ্রিৎসের কবরে আলু রাখা আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "আমরা ডাচ পাড়ায় হাঁটি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "বাবেলসবের্গে একটি নতুন সিনেমার শুটিং হচ্ছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "আমরা হাফেলে নৌকাভ্রমণ করি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "পটসডাম রাজধানী বার্লিনের ঠিক পাশে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "গ্লিনিকে সেতু হাফেলের ওপর দিয়ে গেছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "ফ্রেডরিক দ্য গ্রেট সাঁসুসিতে থাকতে পছন্দ করতেন।",
+      "answerText": "পছন্দ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "দর্শনার্থীরা তাঁর কবরে আলু রাখে।",
+      "answerText": "রাখে"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "বাবেলসবের্গে অনেক সিনেমার শুটিং হয়।",
+      "answerText": "শুটিং"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "এস-বানে করে দ্রুত বার্লিন পৌঁছানো যায়।",
+      "answerText": "পৌঁছানো"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "১৯৪৫ সালে সেসিলিয়েনহফ প্রাসাদে পটসডাম সম্মেলন হয়।",
+      "answerText": "হয়"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "রাজা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "আলু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "স্টুডিও",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "চলচ্চিত্র",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "কবর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "বুড়ো ফ্রিৎস সাঁসুসিতে থাকতেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "তাঁর কবরে সবসময় আলু থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "তুমি কি কখনো ফিল্মপার্ক বাবেলসবের্গে গেছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "পটসডাম বার্লিনের ঠিক পাশে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "রাজা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "আলু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "চলচ্চিত্র",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "বাগান",
+      "answerText": null
+    }
+  ]
+}

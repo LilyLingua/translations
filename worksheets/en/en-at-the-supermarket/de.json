@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.774Z"
+  },
+  "title": "Im Supermarkt",
+  "instructions": {
+    "en-at-the-supermarket-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-at-the-supermarket-gap": "Wähle das richtige Wort.",
+    "en-at-the-supermarket-verbs": "Setze das richtige Verb ein.",
+    "en-at-the-supermarket-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-at-the-supermarket-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-at-the-supermarket-matching-1",
+      "translation": "der Einkaufswagen",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-1:meaning",
+      "translation": "Ein großer Korb auf Rädern für deinen Einkauf.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2",
+      "translation": "die Kasse",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2:meaning",
+      "translation": "Der Ort, an dem du bezahlst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3",
+      "translation": "der Gang",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3:meaning",
+      "translation": "Ein langer Weg zwischen den Regalen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4",
+      "translation": "der Kassenbon",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4:meaning",
+      "translation": "Ein Zettel, der zeigt, was du gekauft und bezahlt hast.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5",
+      "translation": "der Kassierer / die Kassiererin",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5:meaning",
+      "translation": "Die Person, die an der Kasse arbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6",
+      "translation": "die Tüte",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6:meaning",
+      "translation": "Darin trägst du deinen Einkauf nach Hause.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-gap-1",
+      "translation": "Ich brauche eine Flasche Milch.",
+      "answerText": "Milch"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-2",
+      "translation": "Das Brot ist in Gang fünf.",
+      "answerText": "Gang"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-3",
+      "translation": "Brauchen Sie eine Tüte für Ihren Einkauf?",
+      "answerText": "Tüte"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-4",
+      "translation": "Bitte zahlen Sie an der Kasse.",
+      "answerText": "Kasse"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-5",
+      "translation": "Hier ist Ihr Kassenbon. Schönen Tag noch!",
+      "answerText": "Kassenbon"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-6",
+      "translation": "Ich lege die Äpfel in den Einkaufswagen.",
+      "answerText": "Einkaufswagen"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-1",
+      "translation": "Wie viel kosten die Äpfel?",
+      "answerText": "kosten"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-2",
+      "translation": "Ich zahle mit Karte.",
+      "answerText": "zahle"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-3",
+      "translation": "Wir brauchen Eier und Brot.",
+      "answerText": "brauchen"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-4",
+      "translation": "Entschuldigung, wo finde ich Reis?",
+      "answerText": "finde"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-5",
+      "translation": "Der Laden schließt um zehn Uhr.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "en-at-the-supermarket-order-1",
+      "translation": "Wo ist der Reis?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-2",
+      "translation": "Ich brauche eine Tüte.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-3",
+      "translation": "Kann ich mit Karte zahlen?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-4",
+      "translation": "Die Milch ist in Gang drei.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-1",
+      "translation": "Gemüse",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-2",
+      "translation": "Brot",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-3",
+      "translation": "Käse",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-4",
+      "translation": "Hähnchen",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-5",
+      "translation": "Banane",
+      "answerText": null
+    }
+  ]
+}

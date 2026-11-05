@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:11.385Z"
+  },
+  "title": "Leipzig",
+  "instructions": {
+    "stadt-leipzig-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-leipzig-gap": "Označi tačnu riječ.",
+    "stadt-leipzig-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-leipzig-table": "Upiši član i oblik množine.",
+    "stadt-leipzig-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-leipzig-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "„Leipziger Lerche“ (lajpciška ševa)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "Mali kolač s marcipanom; nekada su se jele prave ptice.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "„Leipziger Allerlei“ (lajpciška mješavina povrća)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "Jelo od raznog povrća, na primjer graška i mrkve.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "ponedjeljne demonstracije",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "U jesen 1989. hiljade ljudi izlazile su svakog ponedjeljka na ulice za slobodu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "sajam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "Velika izložba; Leipzig je jedan od najstarijih sajamskih gradova na svijetu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "Thomanerchor (hor Svetog Tome)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "Čuveni dječački hor; Johann Sebastian Bach je ovdje bio kantor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "Auerbachs Keller",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "Stari restoran ispod grada; Goethe ga je opisao u „Faustu“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "„Hypezig“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "Nadimak, jer se toliko mladih ljudi seli u Leipzig.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "Bach je bio kantor u crkvi Svetog Tome.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "Godine 1989. mnogo ljudi je demonstriralo na Ringu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "Posjećujemo Spomenik bici naroda.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "Uz kafu jedem Leipziger Lerche.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "Ljeti se mnogi kupaju u jezeru Cospudener See.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "Sajam knjiga je u proljeće.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "Zoološki vrt je blizu glavne željezničke stanice.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "Thomanerchor pjeva u crkvi Svetog Tome.",
+      "answerText": "pjeva"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "U jesen 1989. ljudi su svakog ponedjeljka izlazili na ulice.",
+      "answerText": "izlazili"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "Mnogo mladih ljudi se seli u Leipzig.",
+      "answerText": "seli"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "Sajam knjiga se održava svake godine u martu.",
+      "answerText": "održava"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "Glavna željeznička stanica spada među najveće u Evropi.",
+      "answerText": "spada"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "hor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "sajam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "spomenik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "željeznička stanica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "crkva",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "knjiga",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "Bach je mnogo godina radio u Leipzigu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "U martu mnogo posjetilaca dolazi na Sajam knjiga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "Znaš li Spomenik bici naroda?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "Leipziger Lerche je pecivo s marcipanom.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "spomenik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "sajam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "hor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "željeznička stanica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "marcipan",
+      "answerText": null
+    }
+  ]
+}

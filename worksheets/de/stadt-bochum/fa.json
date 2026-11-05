@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:33.978Z"
+  },
+  "title": "بوخوم",
+  "instructions": {
+    "stadt-bochum-matching": "هر کلمه را به توضیح درستش وصل کنید.",
+    "stadt-bochum-gap": "کلمه‌ی درست را علامت بزنید.",
+    "stadt-bochum-verbs": "فعل درست را با شکل درست بنویسید.",
+    "stadt-bochum-table": "حرف تعریف و شکل جمع را کامل کنید.",
+    "stadt-bochum-order": "کلمات را به ترتیب درست بچینید و جمله را بنویسید.",
+    "stadt-bochum-spelling": "کدام کلمه درست نوشته شده؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "«مثلث برمودا»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "محله‌ای با میخانه‌ها و بارهای زیاد در مرکز شهر.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "کاری‌وورست",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "سوسیس کبابی با سس کچاپ و پودر کاری – در بوخوم خیلی محبوب است.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "هربرت گرونه‌مایر",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "خواننده‌ای که آهنگ معروفی درباره‌ی شهرش بوخوم می‌خواند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "باشگاه وی‌اف‌ال بوخوم",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "باشگاه فوتبال شهر با رنگ‌های آبی و سفید.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "موزه‌ی معدن",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "موزه‌ای بزرگ درباره‌ی کار زیر زمین – با یک معدن برای تماشا.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "استارلایت اکسپرس",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "موزیکالی که بازیگرانش با اسکیت حرکت می‌کنند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "دانشگاه رور",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "دانشگاهی بزرگ در حاشیه‌ی شهر با دانشجویان زیاد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "جمعه در مثلث برمودا همدیگر را می‌بینیم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "یک کاری‌وورست با سیب‌زمینی سرخ‌کرده می‌خورم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "دانشجویان زیادی در دانشگاه رور درس می‌خوانند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "در موزه‌ی معدن به داخل معدن می‌رویم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "بازیگران با اسکیت‌ها حرکت می‌کنند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "هربرت گرونه‌مایر آهنگی درباره‌ی بوخوم می‌خواند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "وی‌اف‌ال در ورزشگاه خیابان کاستروپر بازی می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "در موزیکال بازیگران با اسکیت حرکت می‌کنند.",
+      "answerText": "حرکت می‌کنند"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "هربرت گرونه‌مایر درباره‌ی شهرش می‌خواند.",
+      "answerText": "می‌خواند"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "آخر هفته خیلی‌ها به مثلث برمودا می‌روند.",
+      "answerText": "می‌روند"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "کاری‌وورست را با سیب‌زمینی سرخ‌کرده می‌خورند.",
+      "answerText": "می‌خورند"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "این موزیکال از سال ۱۹۸۸ در بوخوم اجرا می‌شود.",
+      "answerText": "اجرا می‌شود"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "میخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "آهنگ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "دانشجو",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "موزیکال",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "دانشگاه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "خواننده",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "استارلایت اکسپرس از سال ۱۹۸۸ در بوخوم اجرا می‌شود.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "بعد از دانشگاه به مثلث برمودا می‌رویم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "کاری‌وورست را با سیب‌زمینی سرخ‌کرده می‌خوری؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "گرونه‌مایر آهنگی درباره‌ی بوخوم می‌خواند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "موزیکال",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "دانشگاه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "کاری‌وورست",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "میخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "خواننده",
+      "answerText": null
+    }
+  ]
+}

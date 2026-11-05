@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:03.503Z"
+  },
+  "title": "Lübeck",
+  "instructions": {
+    "stadt-luebeck-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-luebeck-gap": "Coche le bon mot.",
+    "stadt-luebeck-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-luebeck-table": "Complète l'article et le pluriel.",
+    "stadt-luebeck-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-luebeck-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "la Holstentor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "Ancienne porte de la ville avec deux tours rondes – l'emblème de Lübeck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "le massepain",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "Confiserie à base d'amandes et de sucre ; Lübeck est célèbre pour cela.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "la reine de la Hanse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "Surnom : au Moyen Âge, Lübeck était la ville la plus importante de la Hanse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "l'île de la vieille ville",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "La vieille ville se trouve sur une île et fait partie du patrimoine mondial.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Travemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "Quartier au bord de la mer Baltique avec une plage et de grands ferries.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Thomas Mann",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "Écrivain célèbre de Lübeck ; il a écrit « Les Buddenbrook ».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "les « Gänge » (passages)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "Petits chemins étroits entre les maisons de la vieille ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "Nous passons par la Holstentor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "J'achète un morceau de massepain.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "Au Moyen Âge, Lübeck était la ville la plus importante de la Hanse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "À Travemünde, nous allons à la plage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "Le ferry traverse la mer Baltique.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "Thomas Mann a écrit un roman sur une famille.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "La vieille ville se trouve sur une île.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "La Holstentor possède deux tours rondes.",
+      "answerText": "possède"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "On fait le massepain avec des amandes et du sucre.",
+      "answerText": "fait"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "Les ferries vont en Suède et en Finlande.",
+      "answerText": "vont"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "La vieille ville se trouve sur une île.",
+      "answerText": "se trouve"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "Thomas Mann a écrit le roman « Les Buddenbrook ».",
+      "answerText": "a écrit"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "la porte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "l'amande",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "l'île",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "la plage",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "le ferry",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "le roman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "La Holstentor est l'emblème de Lübeck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "Tu aimes le massepain ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "La vieille ville se trouve sur une île.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "En été, nous allons à Travemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "le massepain",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "l'île",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "la plage",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "le ferry",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "l'amande",
+      "answerText": null
+    }
+  ]
+}

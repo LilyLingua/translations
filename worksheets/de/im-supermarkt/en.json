@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.936Z"
+  },
+  "title": "At the Supermarket",
+  "instructions": {
+    "im-supermarkt-matching": "Match each word with the correct explanation.",
+    "im-supermarkt-gap": "Tick the correct packaging or quantity.",
+    "im-supermarkt-verbs": "Fill in the correct verb in the correct form.",
+    "im-supermarkt-table": "Fill in the article (der/die/das) and the plural form.",
+    "im-supermarkt-order": "Put the words in the correct order and write the sentence.",
+    "im-supermarkt-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "the shopping trolley",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "You put your goods in it while shopping.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "the cheese counter",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Here you get fresh cheese by weight.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "the deposit",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Money that you get back for empty bottles.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "the bottle return machine",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Here you return empty bottles.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "the special offer",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "A product is cheaper for a short time.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "the receipt",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "All the prices are on this piece of paper.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "the bag",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "You carry your shopping home in it.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "I buy a pot of yoghurt.",
+      "answerText": "pot"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "And a bottle of water, please.",
+      "answerText": "bottle"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "We need a packet of pasta.",
+      "answerText": "packet"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "For the sauce I take a tin of tomatoes.",
+      "answerText": "tin"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "I would like 200 grams of Gouda, please.",
+      "answerText": "grams"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "A block of butter costs 2.29 euros.",
+      "answerText": "block"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "I'll take a litre of milk.",
+      "answerText": "litre"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Can you change five euros for me?",
+      "answerText": "change"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Excuse me, where can I find flour?",
+      "answerText": "find"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "I pay by card.",
+      "answerText": "pay"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "I would like 200 grams of Gouda.",
+      "answerText": "would like"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "On Sundays almost all supermarkets are closed.",
+      "answerText": "are"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "the bottle",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "the pot",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "the tin",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "the bread",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "the apple",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "the banana",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Excuse me, where can I find flour?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "I have brought a bag.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "The bananas are on special offer today.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Where is the bottle return machine?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "shopping trolley",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "receipt",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "deposit",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "cheese",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "bread roll",
+      "answerText": null
+    }
+  ]
+}

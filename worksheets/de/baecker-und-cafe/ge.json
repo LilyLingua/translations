@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.819Z"
+  },
+  "title": "საცხობში და კაფეში",
+  "instructions": {
+    "baecker-und-cafe-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "baecker-und-cafe-gap": "მონიშნეთ სწორი არტიკლი.",
+    "baecker-und-cafe-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "baecker-und-cafe-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "baecker-und-cafe-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "baecker-und-cafe-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "ფუნთუშა",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "პატარა პური, ხშირად საუზმისთვის.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "პრეცელი (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "მარილიანი ცომეული, სამხრეთ გერმანიისთვის დამახასიათებელი.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "ნამცხვარი",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "რაღაც ტკბილი, ხშირად ნაშუადღევს ყავასთან ერთად.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "მენიუ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "აქ ყველა კერძი და სასმელია.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "ანგარიში",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "აქ წერია, რამდენი უნდა გადაიხადო.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "ჩაის ფული (თიფი)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "ცოტა დამატებითი ფული მიმტანისთვის.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "წასაღებად",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "კაფეში არ ჭამ და არ სვამ.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "ერთი ფუნთუშა მინდა.",
+      "answerText": "ერთი"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "ერთ ყავას ავიღებ.",
+      "answerText": "ერთ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "რა ღირს პრეცელი?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "ნამცხვრის ერთი ნაჭერი მინდა.",
+      "answerText": "ერთი"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "მაგიდა თავისუფალია?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "რძიან ჩაის ვსვამ.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "ანგარიში მომიტანეთ, თუ შეიძლება.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "რისი დალევა გნებავთ?",
+      "answerText": "გნებავთ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "კაპუჩინოს ავიღებ.",
+      "answerText": "ავიღებ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "სულ 6,40 ევრო იქნება.",
+      "answerText": "იქნება"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "ბარათით გადახდა შეიძლება?",
+      "answerText": "გადახდა"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "ნამცხვარი ძალიან გემრიელია.",
+      "answerText": "გემრიელია"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "ფუნთუშა",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "ნამცხვარი",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "ფინჯანი",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "ჭიქა",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "თეფში",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "პრეცელი",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "ორი ფუნთუშა მინდა.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "რა ღირს ნამცხვარი?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "ბარათით გადახდა შეიძლება?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "აქ მიირთმევთ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "ფუნთუშა",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "ნამცხვარი",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "ანგარიში",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "ყავა",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "ჩაის ფული",
+      "answerText": null
+    }
+  ]
+}

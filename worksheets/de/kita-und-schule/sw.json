@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:48.929Z"
+  },
+  "title": "Shule ya chekechea na shule",
+  "instructions": {
+    "kita-und-schule-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "kita-und-schule-gap": "Weka alama kwenye neno linalofaa.",
+    "kita-und-schule-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "kita-und-schule-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "kita-und-schule-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "kita-und-schule-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "mkutano wa wazazi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Mkutano wa wazazi na walimu.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "shule ya chekechea (kituo cha kulelea watoto)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Hapa watoto wadogo hutunzwa wakati wa mchana.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "mwalimu wa darasa (mwanamke)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Yeye anasimamia darasa moja.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "ripoti ya shule",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Hapa kuna alama za mwisho wa mwaka wa shule.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "barua ya udhuru",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Barua fupi kwa shule wakati mtoto wako alikuwa mgonjwa.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "likizo",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Wakati bila shule, kwa mfano wakati wa kiangazi.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "safari ya shule",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Darasa linaenda pamoja mahali pengine.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mwanangu ni mgonjwa. Leo hawezi kuja shuleni.",
+      "answerText": "shuleni"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Kwenye mkutano wa wazazi wazazi wanazungumza na mwalimu.",
+      "answerText": "mkutano wa wazazi"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Wakati wa kiangazi watoto wana wiki sita za likizo.",
+      "answerText": "likizo"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Mwishoni mwa mwaka wa shule binti yangu anapata ripoti ya shule.",
+      "answerText": "ripoti ya shule"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Ninamwandikia mwalimu barua ya udhuru kwa sababu mtoto wangu alikuwa mgonjwa.",
+      "answerText": "barua ya udhuru"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Watoto lazima wafanye kazi ya nyumbani kila siku.",
+      "answerText": "kazi ya nyumbani"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mtoto wangu ana miaka mitatu na anaenda chekechea.",
+      "answerText": "chekechea"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Ninamchukua mtoto wangu saa 10 jioni.",
+      "answerText": "mchukua"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Binti yangu leo, kwa bahati mbaya, ni mgonjwa.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Tunaweza kupanga muda wa kukutana?",
+      "answerText": "kupanga"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Masomo yanaanza saa 2 asubuhi.",
+      "answerText": "yanaanza"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Tafadhali tia sahihi fomu kabla ya Ijumaa.",
+      "answerText": "tia sahihi"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "mtoto",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "darasa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "mwalimu",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "daftari",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "alama",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "kalamu",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mwanangu ni mgonjwa leo.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Mkutano wa wazazi unaanza saa ngapi?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Ninamchukua binti yangu saa 9 alasiri.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Mtoto wangu anahitaji kitu chochote kwa safari ya shule?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "mkutano wa wazazi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "ripoti ya shule",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "barua ya udhuru",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "kazi ya nyumbani",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "mwalimu wa darasa",
+      "answerText": null
+    }
+  ]
+}

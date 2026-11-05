@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:14.536Z"
+  },
+  "title": "Бохум",
+  "instructions": {
+    "stadt-bochum-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-bochum-gap": "Отметьте правильное слово.",
+    "stadt-bochum-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-bochum-table": "Допишите артикль и форму множественного числа.",
+    "stadt-bochum-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-bochum-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "«Бермудский треугольник» (Bermuda3eck)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "Квартал с множеством пивных и баров в центре города.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "карривурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "Жареная колбаса с кетчупом и порошком карри – в Бохуме очень популярна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Херберт Грёнемайер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "Певец, который поёт известную песню о своём городе Бохуме.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "«ВфЛ Бохум»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "Футбольный клуб города в синем и белом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "Горный музей",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "Большой музей о работе под землёй – с шахтой, которую можно осмотреть.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "«Старлайт Экспресс»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "Мюзикл, в котором артисты ездят на роликовых коньках.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "Рурский университет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "Большой университет на окраине города с множеством студентов.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "В пятницу мы встречаемся в «Бермудском треугольнике».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Я ем карривурст с картошкой фри.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "Многие студенты учатся в Рурском университете.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "В Горном музее мы спускаемся в шахту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "Артисты ездят на роликовых коньках.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Херберт Грёнемайер поёт песню о Бохуме.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "ВфЛ играет на стадионе на Кастропер-штрассе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "В мюзикле артисты катаются на роликовых коньках.",
+      "answerText": "катаются"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Херберт Грёнемайер поёт о своём городе.",
+      "answerText": "поёт"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "На выходных многие ходят в «Бермудский треугольник».",
+      "answerText": "ходят"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "Карривурст едят с картошкой фри.",
+      "answerText": "едят"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "Мюзикл идёт в Бохуме с 1988 года.",
+      "answerText": "идёт"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "пивная",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "песня",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "студент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "мюзикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "университет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "певец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "«Старлайт Экспресс» идёт в Бохуме с 1988 года.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "После университета мы идём в «Бермудский треугольник».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Ты ешь карривурст с картошкой фри?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Грёнемайер поёт песню о Бохуме.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "мюзикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "университет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "карривурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "пивная",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "певец",
+      "answerText": null
+    }
+  ]
+}

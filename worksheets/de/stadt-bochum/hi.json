@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:00.961Z"
+  },
+  "title": "बोखुम",
+  "instructions": {
+    "stadt-bochum-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "stadt-bochum-gap": "सही शब्द पर निशान लगाइए।",
+    "stadt-bochum-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "stadt-bochum-table": "आर्टिकल और बहुवचन रूप भरिए।",
+    "stadt-bochum-order": "शब्दों को सही क्रम में लगाकर वाक्य लिखिए।",
+    "stadt-bochum-spelling": "कौन सा शब्द सही लिखा है? उस पर निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "\"बरमूडा3एक\" (बरमूडा त्रिकोण)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "शहर के बीच में बहुत से पब और बार वाला इलाका।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "करीवुर्स्ट",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "केचप और करी पाउडर वाला भुना सॉसेज – बोखुम में बहुत लोकप्रिय।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "हर्बर्ट ग्र्योनेमायर",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "गायक, जो अपने शहर बोखुम के बारे में एक मशहूर गाना गाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "वीएफ़एल बोखुम",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "शहर का फ़ुटबॉल क्लब, नीले और सफ़ेद रंग में।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "खनन संग्रहालय",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "ज़मीन के नीचे काम के बारे में बड़ा संग्रहालय – देखने के लिए एक खदान के साथ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "स्टारलाइट एक्सप्रेस",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "म्यूज़िकल, जिसमें कलाकार रोलर स्केट्स पर चलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "रूर यूनिवर्सिटी",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "शहर के किनारे बड़ी यूनिवर्सिटी, बहुत से छात्रों के साथ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "शुक्रवार को हम बरमूडा3एक में मिलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "मैं फ़्राइज़ के साथ एक करीवुर्स्ट खाता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "बहुत से छात्र रूर यूनिवर्सिटी में पढ़ते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "खनन संग्रहालय में हम खदान के अंदर जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "कलाकार रोलर स्केट्स पर चलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "हर्बर्ट ग्र्योनेमायर बोखुम के बारे में एक गाना गाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "वीएफ़एल कास्ट्रोपर श्ट्रासे के स्टेडियम में खेलता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "म्यूज़िकल में कलाकार रोलर स्केट्स पर चलते हैं।",
+      "answerText": "चलते"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "हर्बर्ट ग्र्योनेमायर अपने शहर के बारे में गाते हैं।",
+      "answerText": "गाते"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "सप्ताहांत में बहुत से लोग बरमूडा3एक जाते हैं।",
+      "answerText": "जाते"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "करीवुर्स्ट फ़्राइज़ के साथ खाते हैं।",
+      "answerText": "खाते"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "यह म्यूज़िकल 1988 से बोखुम में चल रहा है।",
+      "answerText": "चल"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "पब",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "गाना",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "छात्र",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "म्यूज़िकल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "यूनिवर्सिटी",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "गायक",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "स्टारलाइट एक्सप्रेस 1988 से बोखुम में चल रहा है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "यूनिवर्सिटी के बाद हम बरमूडा3एक जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "क्या तुम करीवुर्स्ट फ़्राइज़ के साथ खाते हो?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "ग्र्योनेमायर बोखुम के बारे में एक गाना गाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "म्यूज़िकल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "यूनिवर्सिटी",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "करीवुर्स्ट",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "पब",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "गायक",
+      "answerText": null
+    }
+  ]
+}

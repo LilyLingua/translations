@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "bb5c0008-8cd3-4a96-a02d-b202e8e2759f",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Mannheim",
+  "topic": "Baden-Württemberg: Quadrate, Wasserturm, Spaghettieis",
+  "tasks": [
+    {
+      "id": "stadt-mannheim-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-mannheim-matching-1",
+          "term": "die Quadrate",
+          "meaning": "Die Innenstadt ist wie ein Schachbrett; Adressen heißen z. B. „Q6“ oder „N1“."
+        },
+        {
+          "id": "stadt-mannheim-matching-2",
+          "term": "der Wasserturm",
+          "meaning": "Wahrzeichen von Mannheim mit einem schönen Park und Brunnen davor."
+        },
+        {
+          "id": "stadt-mannheim-matching-3",
+          "term": "das Spaghettieis",
+          "meaning": "Eis, das wie Spaghetti mit Tomatensoße aussieht – in Mannheim erfunden."
+        },
+        {
+          "id": "stadt-mannheim-matching-4",
+          "term": "das Schloss",
+          "meaning": "Großes Barockschloss; heute ist dort die Universität."
+        },
+        {
+          "id": "stadt-mannheim-matching-5",
+          "term": "die Laufmaschine",
+          "meaning": "Karl Drais erfand sie 1817 in Mannheim – der Vorfahre vom Fahrrad."
+        },
+        {
+          "id": "stadt-mannheim-matching-6",
+          "term": "„Monnem“",
+          "meaning": "So sagen die Mannheimer im Dialekt zu ihrer Stadt."
+        },
+        {
+          "id": "stadt-mannheim-matching-7",
+          "term": "die Adler",
+          "meaning": "Eishockey-Mannschaft von Mannheim."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-mannheim-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-mannheim-gap-1",
+          "promptBefore": "Wir machen ein Foto von",
+          "promptAfter": "Wasserturm.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-2",
+          "promptBefore": "Im Café bestellen wir",
+          "promptAfter": "Spaghettieis.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-3",
+          "promptBefore": "Viele Studenten lernen in",
+          "promptAfter": "Schloss.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-4",
+          "promptBefore": "In",
+          "promptAfter": "Quadraten findet man schnell jede Adresse.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-5",
+          "promptBefore": "Karl Drais erfand",
+          "promptAfter": "Laufmaschine.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-6",
+          "promptBefore": "Am Abend sehen wir",
+          "promptAfter": "Spiel der Adler.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mannheim-gap-7",
+          "promptBefore": "Mannheim liegt an",
+          "promptAfter": "Rhein und am Neckar.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-mannheim-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-mannheim-verbs-1",
+          "promptBefore": "Die Adressen",
+          "promptAfter": "aus einem Buchstaben und einer Zahl.",
+          "correctAnswer": "bestehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bestehen"
+        },
+        {
+          "id": "stadt-mannheim-verbs-2",
+          "promptBefore": "Das Spaghettieis",
+          "promptAfter": "nach Vanille und Erdbeere.",
+          "correctAnswer": "schmeckt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schmecken"
+        },
+        {
+          "id": "stadt-mannheim-verbs-3",
+          "promptBefore": "Der Neckar",
+          "promptAfter": "in Mannheim in den Rhein.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-mannheim-verbs-4",
+          "promptBefore": "Die Adler",
+          "promptAfter": "Eishockey in der SAP Arena.",
+          "correctAnswer": "spielen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-mannheim-verbs-5",
+          "promptBefore": "Im Schloss",
+          "promptAfter": "heute viele Studenten.",
+          "correctAnswer": "lernen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "lernen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-mannheim-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-mannheim-table-1",
+          "article": "der",
+          "singular": "Turm",
+          "plural": "Türme"
+        },
+        {
+          "id": "stadt-mannheim-table-2",
+          "article": "die",
+          "singular": "Zahl",
+          "plural": "Zahlen"
+        },
+        {
+          "id": "stadt-mannheim-table-3",
+          "article": "die",
+          "singular": "Straße",
+          "plural": "Straßen"
+        },
+        {
+          "id": "stadt-mannheim-table-4",
+          "article": "das",
+          "singular": "Schloss",
+          "plural": "Schlösser"
+        },
+        {
+          "id": "stadt-mannheim-table-5",
+          "article": "das",
+          "singular": "Fahrrad",
+          "plural": "Fahrräder"
+        },
+        {
+          "id": "stadt-mannheim-table-6",
+          "article": "der",
+          "singular": "Brunnen",
+          "plural": "Brunnen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-mannheim-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-mannheim-order-1",
+          "chunks": [
+            "Der Wasserturm",
+            "steht",
+            "am Friedrichsplatz"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-mannheim-order-2",
+          "chunks": [
+            "Isst",
+            "du",
+            "gern",
+            "Spaghettieis"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-mannheim-order-3",
+          "chunks": [
+            "In Mannheim",
+            "fließt",
+            "der Neckar",
+            "in den Rhein"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-mannheim-order-4",
+          "chunks": [
+            "Die Adressen",
+            "haben",
+            "Buchstaben",
+            "und Zahlen"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-mannheim-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-mannheim-spelling-1",
+          "correct": "Wasserturm",
+          "wrong": "Wassertuhrm"
+        },
+        {
+          "id": "stadt-mannheim-spelling-2",
+          "correct": "Schloss",
+          "wrong": "Schlos"
+        },
+        {
+          "id": "stadt-mannheim-spelling-3",
+          "correct": "Fahrrad",
+          "wrong": "Farrad"
+        },
+        {
+          "id": "stadt-mannheim-spelling-4",
+          "correct": "Straße",
+          "wrong": "Strase"
+        },
+        {
+          "id": "stadt-mannheim-spelling-5",
+          "correct": "Brunnen",
+          "wrong": "Brunen"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

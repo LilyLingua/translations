@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:49.169Z"
+  },
+  "title": "Хамбург",
+  "instructions": {
+    "stadt-hamburg-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-hamburg-gap": "Отбележете правилната дума.",
+    "stadt-hamburg-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-hamburg-table": "Попълнете члена и формата за множествено число.",
+    "stadt-hamburg-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-hamburg-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "„Мойн!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Северногермански поздрав – казва се цял ден, не само сутрин.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "пристанището",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Тук пристигат големи кораби с контейнери.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Елбфилхармонията",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Концертна зала на пристанището; хамбургчани я наричат „Елфи“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "„Михел“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Така хамбургчани наричат най-известната си църква – „Св. Михаил“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Францбрьотхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Сладка кифла с канела, типична за Хамбург.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "рибният пазар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Пазар на брега на Елба, много рано в неделя сутрин.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "„Шитветер“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "Северногерманска дума за лошо време с дъжд и вятър.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Корабите плават по Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "В неделя ходим рано на рибния пазар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Ям сандвич с риба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "Концертът е в Елбфилхармонията.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Правим обиколка на пристанището с кораб.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "През лятото много хора седят край Алстер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Отгоре се вижда цялото пристанище.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "В Хамбург хората казват „Мойн“ цял ден.",
+      "answerText": "казват"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Големи контейнеровози пристигат на пристанището.",
+      "answerText": "пристигат"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "Рибният пазар започва много рано в неделя сутрин.",
+      "answerText": "започва"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "Пак вали – типично Шитветер!",
+      "answerText": "вали"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Хамбург е отделна федерална провинция.",
+      "answerText": "е"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "пристанището",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "корабът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "мостът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "каналът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "концертът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "църквата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Хамбург се намира на Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "В неделя ходим рано на рибния пазар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Бил ли си вече в Елбфилхармонията?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "В Хамбург казват „Мойн“ цял ден.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "пристанище",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "кораб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "концерт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "дъжд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "мост",
+      "answerText": null
+    }
+  ]
+}

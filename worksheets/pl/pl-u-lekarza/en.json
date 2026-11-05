@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.979Z"
+  },
+  "title": "At the Doctor",
+  "instructions": {
+    "pl-u-lekarza-matching": "Match each word with its meaning.",
+    "pl-u-lekarza-gap": "Choose the right word.",
+    "pl-u-lekarza-verbs": "Fill in the correct verb.",
+    "pl-u-lekarza-order": "Put the words in the right order and write the sentence.",
+    "pl-u-lekarza-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-u-lekarza-matching-1",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-1:meaning",
+      "translation": "A meeting with the doctor at a fixed time.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2",
+      "translation": "symptom",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2:meaning",
+      "translation": "A sign of illness, for example a fever.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3",
+      "translation": "fever",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3:meaning",
+      "translation": "A body temperature that is too high.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4",
+      "translation": "reception",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4:meaning",
+      "translation": "The place at the clinic where you sign up to see a doctor.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5",
+      "translation": "referral",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5:meaning",
+      "translation": "A document from a doctor to another doctor or for tests.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6",
+      "translation": "sick note",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6:meaning",
+      "translation": "A document that says someone is sick and cannot work.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-gap-1",
+      "translation": "I want to make an appointment for tomorrow.",
+      "answerText": "appointment"
+    },
+    {
+      "id": "pl-u-lekarza-gap-2",
+      "translation": "I have had a fever since yesterday.",
+      "answerText": "fever"
+    },
+    {
+      "id": "pl-u-lekarza-gap-3",
+      "translation": "Please sign up at reception.",
+      "answerText": "reception"
+    },
+    {
+      "id": "pl-u-lekarza-gap-4",
+      "translation": "The doctor gave me a referral for a blood test.",
+      "answerText": "referral"
+    },
+    {
+      "id": "pl-u-lekarza-gap-5",
+      "translation": "I need a sick note for my employer.",
+      "answerText": "sick"
+    },
+    {
+      "id": "pl-u-lekarza-gap-6",
+      "translation": "What symptoms do you have?",
+      "answerText": "symptoms"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-1",
+      "translation": "My throat hurts.",
+      "answerText": "hurts"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-2",
+      "translation": "I sleep badly at night.",
+      "answerText": "sleep"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-3",
+      "translation": "The doctor measures my blood pressure.",
+      "answerText": "measures"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-4",
+      "translation": "You have to stay in bed for two days.",
+      "answerText": "stay"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-5",
+      "translation": "Please breathe deeply.",
+      "answerText": "breathe"
+    },
+    {
+      "id": "pl-u-lekarza-order-1",
+      "translation": "I have a stomachache.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-2",
+      "translation": "When can I come for an appointment?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-3",
+      "translation": "Do I need a prescription?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-4",
+      "translation": "Please come next week.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-1",
+      "translation": "doctor",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-2",
+      "translation": "clinic",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-3",
+      "translation": "blood pressure",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-4",
+      "translation": "health",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-5",
+      "translation": "stomach",
+      "answerText": null
+    }
+  ]
+}

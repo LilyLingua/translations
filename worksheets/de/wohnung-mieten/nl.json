@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.458Z"
+  },
+  "title": "Een woning huren",
+  "instructions": {
+    "wohnung-mieten-matching": "Verbind elk woord met de juiste uitleg.",
+    "wohnung-mieten-gap": "Kruis de juiste vorm van het lidwoord aan.",
+    "wohnung-mieten-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "wohnung-mieten-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "wohnung-mieten-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "wohnung-mieten-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "de huur",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Het geld dat u elke maand voor de woning betaalt.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "de borg",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Geld dat de verhuurder aan het begin als zekerheid krijgt.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "de bijkomende kosten (servicekosten)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Kosten voor water, verwarming en afval.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "het huurcontract",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Het contract tussen huurder en verhuurder.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "de bezichtiging",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "U bekijkt de woning voordat u die huurt.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "de huismeester (conciërge)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Hij zorgt voor het gebouw en repareert kleine dingen.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "het huishoudelijk reglement",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "De regels voor alle bewoners, bijvoorbeeld de rusttijden.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "We zoeken een woning met balkon.",
+      "answerText": "een"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Ik praat met de verhuurder.",
+      "answerText": "de"
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Ik geef de verhuurster de borg.",
+      "answerText": "de"
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "De fiets zet ik op de binnenplaats.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "De sleutel ligt op de tafel.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "De verwarming in de keuken is kapot.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Ik woon al een jaar in deze woning.",
+      "answerText": "deze"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Wanneer kan ik de woning bezichtigen?",
+      "answerText": "bezichtigen"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "De huur kost 850 euro inclusief servicekosten.",
+      "answerText": "kost"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "We trekken op 1 december in.",
+      "answerText": "trekken"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "De verwarming is kapot. Kunt u die alstublieft repareren?",
+      "answerText": "repareren"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Scheid alstublieft het afval.",
+      "answerText": "Scheid"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "de kamer",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "de keuken",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "het balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "de badkamer",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "de sleutel",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "de verwarming",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Is de woning nog vrij?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Hoe hoog zijn de bijkomende kosten?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Wanneer kan ik de woning bezichtigen?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Ik wil de woning graag huren.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "borg",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "bijkomende kosten",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "sleutel",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "verwarming",
+      "answerText": null
+    }
+  ]
+}

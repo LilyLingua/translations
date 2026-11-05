@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "31dcc3a3-7348-4f66-811f-554910fd74c6",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Bonn",
+  "topic": "NRW: Beethoven, Haribo, Kirschblüte, Bundesstadt",
+  "tasks": [
+    {
+      "id": "stadt-bonn-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-bonn-matching-1",
+          "term": "die Bundesstadt",
+          "meaning": "Offizieller Titel von Bonn; bis 1990 war Bonn die Hauptstadt."
+        },
+        {
+          "id": "stadt-bonn-matching-2",
+          "term": "Beethoven",
+          "meaning": "Berühmter Komponist; er wurde 1770 in Bonn geboren."
+        },
+        {
+          "id": "stadt-bonn-matching-3",
+          "term": "Haribo",
+          "meaning": "Firma für Gummibärchen; der Name kommt von Hans Riegel Bonn."
+        },
+        {
+          "id": "stadt-bonn-matching-4",
+          "term": "die Kirschblüte",
+          "meaning": "Im Frühling blühen in der Altstadt viele Bäume ganz rosa."
+        },
+        {
+          "id": "stadt-bonn-matching-5",
+          "term": "das Haus der Geschichte",
+          "meaning": "Museum über die Geschichte Deutschlands nach 1945."
+        },
+        {
+          "id": "stadt-bonn-matching-6",
+          "term": "die Weiberfastnacht",
+          "meaning": "Karnevalstag der Frauen; er soll im Bonner Stadtteil Beuel entstanden sein."
+        },
+        {
+          "id": "stadt-bonn-matching-7",
+          "term": "der Drachenfels",
+          "meaning": "Berg am Rhein mit einer Burgruine und schöner Aussicht."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-bonn-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-bonn-gap-1",
+          "promptBefore": "Bonn war lange",
+          "promptAfter": "Hauptstadt der Bundesrepublik.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-2",
+          "promptBefore": "Beethoven wurde in",
+          "promptAfter": "Haus in der Bonngasse geboren.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-3",
+          "promptBefore": "Im April blühen",
+          "promptAfter": "Kirschbäume in der Altstadt.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-4",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Haus der Geschichte.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-5",
+          "promptBefore": "Mein Kind isst gern",
+          "promptAfter": "Tüte Gummibärchen.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-6",
+          "promptBefore": "An Weiberfastnacht schneiden Frauen",
+          "promptAfter": "Männern die Krawatte ab.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "die",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bonn-gap-7",
+          "promptBefore": "Wir wandern auf",
+          "promptAfter": "Drachenfels.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-bonn-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-bonn-verbs-1",
+          "promptBefore": "Beethoven",
+          "promptAfter": "1770 in Bonn zur Welt.",
+          "correctAnswer": "kam",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-bonn-verbs-2",
+          "promptBefore": "Im Frühling",
+          "promptAfter": "die Kirschbäume rosa.",
+          "correctAnswer": "blühen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "blühen"
+        },
+        {
+          "id": "stadt-bonn-verbs-3",
+          "promptBefore": "Gummibärchen",
+          "promptAfter": "Kinder froh.",
+          "correctAnswer": "machen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-bonn-verbs-4",
+          "promptBefore": "Viele Ministerien",
+          "promptAfter": "noch heute in Bonn.",
+          "correctAnswer": "sind",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-bonn-verbs-5",
+          "promptBefore": "Der Rhein",
+          "promptAfter": "an der Stadt vorbei.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-bonn-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-bonn-table-1",
+          "article": "der",
+          "singular": "Baum",
+          "plural": "Bäume"
+        },
+        {
+          "id": "stadt-bonn-table-2",
+          "article": "die",
+          "singular": "Blüte",
+          "plural": "Blüten"
+        },
+        {
+          "id": "stadt-bonn-table-3",
+          "article": "das",
+          "singular": "Ministerium",
+          "plural": "Ministerien"
+        },
+        {
+          "id": "stadt-bonn-table-4",
+          "article": "die",
+          "singular": "Tüte",
+          "plural": "Tüten"
+        },
+        {
+          "id": "stadt-bonn-table-5",
+          "article": "der",
+          "singular": "Komponist",
+          "plural": "Komponisten"
+        },
+        {
+          "id": "stadt-bonn-table-6",
+          "article": "die",
+          "singular": "Krawatte",
+          "plural": "Krawatten"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-bonn-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-bonn-order-1",
+          "chunks": [
+            "Beethoven",
+            "wurde",
+            "in Bonn",
+            "geboren"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bonn-order-2",
+          "chunks": [
+            "Im April",
+            "ist",
+            "die Altstadt",
+            "ganz rosa"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bonn-order-3",
+          "chunks": [
+            "Hast",
+            "du",
+            "noch",
+            "Gummibärchen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-bonn-order-4",
+          "chunks": [
+            "Bonn",
+            "war",
+            "früher",
+            "die Hauptstadt"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-bonn-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-bonn-spelling-1",
+          "correct": "Komponist",
+          "wrong": "Komponisst"
+        },
+        {
+          "id": "stadt-bonn-spelling-2",
+          "correct": "Krawatte",
+          "wrong": "Kravatte"
+        },
+        {
+          "id": "stadt-bonn-spelling-3",
+          "correct": "Geschichte",
+          "wrong": "Geschichde"
+        },
+        {
+          "id": "stadt-bonn-spelling-4",
+          "correct": "Baum",
+          "wrong": "Baumm"
+        },
+        {
+          "id": "stadt-bonn-spelling-5",
+          "correct": "Blüte",
+          "wrong": "Blühte"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

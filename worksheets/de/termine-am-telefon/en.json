@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.810Z"
+  },
+  "title": "Appointments on the Phone",
+  "instructions": {
+    "termine-am-telefon-matching": "Match each word with the correct explanation.",
+    "termine-am-telefon-gap": "Tick the correct preposition.",
+    "termine-am-telefon-verbs": "Fill in the correct verb in the correct form.",
+    "termine-am-telefon-table": "Fill in the article (der/die/das) and the plural form.",
+    "termine-am-telefon-order": "Put the words in the correct order and write the sentence.",
+    "termine-am-telefon-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "the answering machine",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "You can leave a message here.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "the direct extension",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "The direct phone number of a person in a company.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "to call back",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "To call someone later because they called you before.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "to postpone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "To move an appointment to another day.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "to cancel",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "To say that you will not come to an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "the office hours",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "The times when you can reach someone.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "to spell",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "To say a word letter by letter.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Are you free on Monday?",
+      "answerText": "on"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Is 10 o'clock OK for you?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "I am not free until December.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "The practice is closed at the weekend.",
+      "answerText": "at"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "I will call you back in an hour.",
+      "answerText": "in"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "I have been waiting for two weeks for an appointment.",
+      "answerText": "for"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Please come ten minutes before the appointment.",
+      "answerText": "before"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Can I speak to Ms Weber, please?",
+      "answerText": "speak"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Unfortunately I have to cancel my appointment.",
+      "answerText": "cancel"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Could you please call me back?",
+      "answerText": "call me back"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "I give you my number.",
+      "answerText": "give"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "How do you spell your name?",
+      "answerText": "spell"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "the call",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "the number",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "the message",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "the telephone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "the time",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "the mobile phone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "I would like to postpone an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "When are you free?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "I will call again tomorrow.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Does Thursday at 9 o'clock suit you?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "message",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telephone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "to call back",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "time",
+      "answerText": null
+    }
+  ]
+}

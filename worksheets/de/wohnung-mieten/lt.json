@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Buto nuoma",
+  "instructions": {
+    "wohnung-mieten-matching": "Kiekvieną žodį sujunkite su tinkamu paaiškinimu.",
+    "wohnung-mieten-gap": "Pažymėkite tinkamą artikelio formą.",
+    "wohnung-mieten-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "wohnung-mieten-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "wohnung-mieten-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "wohnung-mieten-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "nuomos mokestis",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Pinigai, kuriuos kas mėnesį mokate už butą.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "užstatas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Pinigai, kuriuos nuomotojas pradžioje gauna kaip garantiją.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "papildomos išlaidos",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Išlaidos už vandenį, šildymą ir šiukšles.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "nuomos sutartis",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Sutartis tarp nuomininko ir nuomotojo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "buto apžiūra",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Apžiūrite butą prieš jį išsinuomodami.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "namo prižiūrėtojas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Jis prižiūri pastatą ir taiso smulkius gedimus.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "namo taisyklės",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Taisyklės visiems gyventojams, pavyzdžiui, tylos valandos.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Ieškome buto su balkonu.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Kalbu su nuomotoju.",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Nuomotojai atiduodu užstatą.",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Dviratį pastatau kieme.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Raktas yra ant stalo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Virtuvėje sugedo šildymas.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Šiame bute gyvenu jau metus.",
+      "answerText": "Šiame"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kada galėčiau apžiūrėti butą?",
+      "answerText": "apžiūrėti"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Nuomos mokestis su komunaliniais mokesčiais kainuoja 850 eurų.",
+      "answerText": "kainuoja"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Įsikraustome gruodžio 1 d.",
+      "answerText": "Įsikraustome"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Sugedo šildymas. Ar galėtumėte jį pataisyti?",
+      "answerText": "pataisyti"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Prašome rūšiuoti šiukšles.",
+      "answerText": "rūšiuoti"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "kambarys",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "virtuvė",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkonas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "vonios kambarys",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "raktas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "šildymas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Ar butas dar laisvas?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Kokio dydžio yra papildomos išlaidos?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kada galėčiau apžiūrėti butą?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Norėčiau išsinuomoti butą.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "užstatas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "papildomos išlaidos",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkonas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "raktas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "šildymas",
+      "answerText": null
+    }
+  ]
+}

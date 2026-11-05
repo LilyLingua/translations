@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:14.353Z"
+  },
+  "title": "Крефелд",
+  "instructions": {
+    "stadt-krefeld-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-krefeld-gap": "Означи тачну реч.",
+    "stadt-krefeld-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-krefeld-table": "Упиши члан и облик множине.",
+    "stadt-krefeld-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-krefeld-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "град сомота и свиле",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "Надимак: раније се овде правило много финих тканина од свиле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "замак Лин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "Стари замак на води у кварту Лин.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "„Flachsmarkt“ (сајам лана)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "Велики занатски сајам код замка Лин у пролеће.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "„Pinguine“ (Пингвини)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "Хокејашка екипа Крефелда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "зоолошки врт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "Зоолошки врт са кућом лептира и новом шумом за човеколике мајмуне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "Хаус Ланге и Хаус Естерс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "Два музеја у кућама познатог архитекте Миса ван дер Роеа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "Ирдинген",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "Кварт на Рајни са великом луком.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "Она носи хаљину од свиле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "Око замка Лин има воде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "У суботу гледамо утакмицу Пингвина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "У зоолошком врту идемо у кућу лептира.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "На Флаксмаркту ковач показује свој рад.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "Ирдинген лежи на Рајни.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "Посећујемо музеј Хаус Ланге.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "Пингвини играју хокеј на леду.",
+      "answerText": "играју"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "У Крефелду се раније правило много тканина од свиле.",
+      "answerText": "правило"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "У зоолошком врту лети много лептира.",
+      "answerText": "лети"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "Замак стоји у води.",
+      "answerText": "стоји"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "На Флаксмаркту занатлије показују свој рад.",
+      "answerText": "показују"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "тканина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "замак",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "пингвин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "лептир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "хаљина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "лука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "Крефелд се зове град сомота и свиле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "Да ли идеш са мном на хокеј?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "Замак Лин стоји у води.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "У зоолошком врту лети много лептира.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "свила",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "пингвин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "лептир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "лука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "хаљина",
+      "answerText": null
+    }
+  ]
+}

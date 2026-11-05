@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Ik wil me aanmelden."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Ik pak een nummer."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – balie 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Ik wil mijn nieuwe woning aanmelden."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Hier is de verklaring van mijn verhuurder."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Hier is mijn paspoort."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Ik spel: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Ik ben vrijgezel."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Waar moet ik tekenen?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Heb ik verder nog iets nodig?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Ik ben verhuisd! Nieuw appartement, nieuwe stad …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! En – heb je je al aangemeld?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Aangemeld? Waar dan? Bij de sportschool?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Nee, Leo. Bij het gemeentehuis! Vandaag maak je een hele afspraak mee bij het Bürgeramt – van binnenkomst tot het bewijs van inschrijving."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "En in elke situatie vragen we je: Wat zeg je?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "En je hebt maar vijf seconden!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Je komt bij het Bürgeramt. Aan de infobalie zit een man."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Goedemorgen. Wat is je vraag?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Goedemorgen. Ik wil me aanmelden."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Ik ben een vraag."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Ik wil een kantoor."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ betekent: Waarom ben je hier? Wat heb je nodig?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Je hoort dit woord heel vaak op het gemeentehuis."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Goedemorgen. Ik wil me aanmelden."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Heb je een afspraak?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Ja, om negen uur."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Ik wil me aanmelden."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Ik heb een afspraak om negen uur."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Goed. Trek dan alsjeblieft een nummer en wacht daar."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Wat doe je nu?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Je verhuist."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Je trekt aan haren."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Je pakt een briefje met een nummer uit de automaat."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Dus A! Ik verhuis. Ik ben net verhuisd …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Nee, Leo. C! „Eine Nummer ziehen“ betekent: je pakt een briefje met je wachtnummer."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ is iets heel anders – dat betekent: naar een nieuw huis gaan."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Ik pak een nummer."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Je wacht. Plots hoor je een omroep. Luister goed!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Nummer 147 graag naar balie 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Jouw nummer is 147. Waar ga je heen?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Naar balie 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Naar balie 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Naar kamer 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Eerst komt jouw nummer, dan de balie."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "In veel kantoren staat het ook op een scherm."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – balie 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Je gaat naar balie 12. Daar zit een vrouw."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Goedemorgen. Neem plaats. Wat kan ik voor je doen?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Ik wil u aanmelden."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Ik wil mijn nieuwe woning aanmelden."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Ik woon nu hier. Doei!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Je meldt je woning aan – of jezelf: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Maar niet „Sie“ – mevrouw Krüger is al aangemeld."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Ik wil mijn nieuwe woning aanmelden."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Graag. Wanneer ben je ingetrokken?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Op één oktober."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Ik wil mijn nieuwe woning aanmelden."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Ik ben op één oktober ingetrokken."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Heb je de verhuurdersverklaring bij je?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oei, een lang woord! Wat zeg je?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Nee, ik geef geen woning."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Ja, ik geef u mijn woning."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Ja, hier is de verklaring van mijn verhuurder."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! De „Wohnungsgeberbestätigung“ is een formulier van je verhuurder. Daarop staat: jij woont echt in deze woning."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Zonder dit papier kun je je meestal niet inschrijven."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Ja, hier is de verklaring van mijn verhuurder."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Hier is de verklaring van mijn verhuurder."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "En je ID-kaart of paspoort, alsjeblieft."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Hier is mijn paspoort."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Hier zijn mijn paspoort."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Ik ben paspoort."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Eén paspoort – dus „is“, niet „zijn“. Je hebt bijna altijd je paspoort of ID-kaart nodig op het gemeentehuis."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "En als je hem vergeten bent, zeg eerlijk: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Sorry, ik ben hem helaas vergeten.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Hier is mijn paspoort."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Hier is mijn paspoort."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Sorry, ik ben hem helaas vergeten."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Hoe spel je je achternaam?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Je heet Nowak. Wat zeg je?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Met een balpen."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Ik spel: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Men schrijft hem heel mooi."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ betekent: Welke letters? Dan spel je – letter voor letter."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Oefen je naam in het Duits, dat heb je overal nodig!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Dank je."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Ik spel: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Ben je getrouwd?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Je bent niet getrouwd. Wat zeg je?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Nee, ik ben vrijgezel."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Nee, ik ben helaas."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Nee, ik ben getrouwd."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ betekent: niet getrouwd. Let op: „leider“ klinkt bijna hetzelfde, maar betekent iets heel anders – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "is: jammer genoeg."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Nee, ik ben vrijgezel."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Ik ben vrijgezel."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Ik ben getrouwd."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Controleer alsjeblieft de gegevens. Als alles klopt, teken dan hier."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Ik schrijf het onder de tafel."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Ik teken niet graag."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Alles klopt. Waar precies moet ik tekenen?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ betekent: je naam met de hand schrijven – je handtekening."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "En goed: lees altijd eerst wat er op het formulier staat."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Alles klopt. Waar precies moet ik tekenen?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Hier onderaan, alsjeblieft."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Waar moet ik tekenen?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Zo, dat was het. Hier is je inschrijfbewijs."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Je bent klaar! Wat zeg je?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Dank je, ik meld me."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Heel erg bedankt! Heb ik verder nog iets nodig?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Er mankeert niks aan mij!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! En let op bij A: „Ich melde mich“ betekent niet „ik meld me aan“, maar: ik neem later contact op."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "En C ken je misschien nog – dat past alleen bij de dokter!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Heel erg bedankt! Heb ik verder nog iets nodig?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Nee, dat was alles. Bewaar het bewijs goed."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Heb ik verder nog iets nodig?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Drie tips voor inschrijven. Ten eerste: schrijf je binnen twee weken na je verhuizing in."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Ten tweede: in veel steden heb je een afspraak nodig – vaak kun je die online boeken."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "En ten derde: je hebt het inschrijfbewijs vaak weer nodig, bijvoorbeeld voor een bankrekening."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Dus goed bewaren!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Op het gemeentehuis klinkt Duits soms heel ingewikkeld. Leo leest voor – en ik zeg het simpel."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Wat is je vraag?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Wat heb je nodig?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Houd je papieren bij de hand."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Heb je papieren in je hand."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Vul het formulier helemaal in."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Schrijf overal iets op."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "De verwerking duurt ongeveer twee weken."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Het duurt ongeveer twee weken."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Lever de papieren later in."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Breng de papieren later."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Vandaag trek ik andere kleren aan!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Oh, je doet andere kleren aan? Of bedoel je: „Ich ziehe um“ – ik verhuis naar een nieuw huis?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "En op het gemeentehuis: niet „Ich bin leider“, maar „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(ik ben vrijgezel) – als je niet getrouwd bent."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "En „Ich melde mich“ betekent: ik bel later. Op het gemeentehuis zeg je: „Ich melde mich an.“ (ik schrijf me in)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "En nu alles nog een keer. De tien belangrijkste zinnen. Spreek me na!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Ik wil me aanmelden."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Ik heb een afspraak om negen uur."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Ik pak een nummer."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Ik wil mijn nieuwe woning aanmelden."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Hier is de verklaring van mijn verhuurder."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Hier is mijn paspoort."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Ik spel mijn naam."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Ik ben vrijgezel."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Waar moet ik tekenen?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Heb ik verder nog iets nodig?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Welk woord vond jij het moeilijkst? Zet het in de reacties!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Doei en tot snel bij LilyLingua!"
+    }
+  ]
+}

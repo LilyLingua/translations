@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Farmashiyaha",
+  "instructions": {
+    "in-der-apotheke-table": "Ku buuxi qodobka (der/die/das) iyo qaabka jamaca.",
+    "in-der-apotheke-matching": "Isku xir eray kasta iyo sharraxaadda saxda ah.",
+    "in-der-apotheke-gap": "Calaamadee erayga saxda ah.",
+    "in-der-apotheke-verbs": "Ku buuxi falka saxda ah qaabkiisa saxda ah.",
+    "in-der-apotheke-order": "Erayada si sax ah u habee oo qor jumladda.",
+    "in-der-apotheke-spelling": "Kee eray ayaa si sax ah loo qoray? Calaamadee."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "warqadda daawada (Rezept)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Warqadda dhakhtarka ee daawo loogu qoray.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "kiniinka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Daawo yar oo aad liqdo.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "daawada qufaca ee dareeraha ah",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Daawo dareere ah oo qufaca loo qaato.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "kareemka daawada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Waxaad mariysaa maqaarka.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "waxyeellada daawada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Saameyn aan la rabin oo daawo leedahay.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "warqadda tilmaamaha daawada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Warqadda ku jirta sanduuqa daawada oo leh dhammaan macluumaadka.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "lacagta wax-ku-biirinta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Lacag yar ayaad adigu iska bixisaa warqadda daawada.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Waxaan haystaa warqad daawo oo dhakhtarkayga ka timid.",
+      "answerText": "warqad daawo"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Ma haysaa wax loogu talagalay cunaha xanuunaya?",
+      "answerText": "cunaha xanuunaya"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Maalintii qaado laba kiniin.",
+      "answerText": "kiniin"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Kareemku waa loogu talagalay maqaarka.",
+      "answerText": "maqaarka"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Fadlan akhri warqadda tilmaamaha daawada.",
+      "answerText": "warqadda tilmaamaha daawada"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Daawadu waxyeello ku dhawaad ma leh.",
+      "answerText": "waxyeello"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Dhammaadka toddobaadka hal farmashiye ayaa shaqada degdegga ah haya.",
+      "answerText": "farmashiye"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Shalay ilaa hadda qufac ayaan qabaa.",
+      "answerText": "qabaa"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Immisa jeer ayaan qaataa kiniinnada?",
+      "answerText": "qaataa"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Daawada waxaan dalbanaynaa ilaa berri.",
+      "answerText": "dalbanaynaa"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Kareemka mari laba jeer maalintii.",
+      "answerText": "mari"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Fadlan cab biyo badan.",
+      "answerText": "cab"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "farmashiyaha",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "daawada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "kareemka daawada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "balaastarka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "baakadda",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "dhibicda",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Ma haysaa wax loogu talagalay qufaca?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Immisa jeer ayaan qaataa kiniinnada?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Waxaan u baahanahay daawo loogu talagalay madax xanuunka.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Ma u baahanahay warqad daawo?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "farmashiye",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "daawo",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "balaastar",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "waxyeello",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "qufac",
+      "answerText": null
+    }
+  ]
+}

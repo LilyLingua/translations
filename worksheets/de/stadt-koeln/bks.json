@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:17.203Z"
+  },
+  "title": "Köln",
+  "instructions": {
+    "stadt-koeln-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-koeln-gap": "Označi tačnu riječ.",
+    "stadt-koeln-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-koeln-table": "Upiši član i oblik množine.",
+    "stadt-koeln-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-koeln-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "„Kölle Alaaf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Poklič na kelnskom karnevalu – otprilike „Živio Köln!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "katedrala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Velika crkva s dva tornja odmah pored glavne željezničke stanice.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "„Kölsch“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Svijetlo pivo iz Kölna; pije se iz malih, uskih čaša.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "„Köbes“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Konobar u pivnici; donosi novi Kölsch sve dok se podmetač ne stavi na čašu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "„Halve Hahn“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Raženo pecivo sa sirom – a ne pola pileta!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "„Veedel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Kelnski za gradski kvart; svaki stanovnik Kölna voli svoj Veedel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Ružin ponedjeljak",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Vrhunac karnevala s velikom povorkom kroz grad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "On pije Kölsch u pivnici.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Köbes donosi sljedeći Kölsch.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Na Ružin ponedjeljak gledamo povorku kroz grad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Mnogo turista posjećuje Kelnsku katedralu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Naručujem Halve Hahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Mnogo ljudi šeta preko mosta Hohenzollern.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Za karneval se nosi kostim.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Za karneval ljudi viču „Kölle Alaaf!“.",
+      "answerText": "viču"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Köbes bez pitanja donosi novi Kölsch.",
+      "answerText": "donosi"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "Katedrala je visoka preko 150 metara.",
+      "answerText": "je"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Rajna teče kroz sam centar Kölna.",
+      "answerText": "teče"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "Karneval počinje 11.11. u 11:11 sati.",
+      "answerText": "počinje"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "katedrala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "most",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "čaša",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "povorka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "kostim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "kafana",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "Kelnska katedrala stoji odmah pored stanice.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Na Ružin ponedjeljak cijeli Köln slavi karneval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Hoćeš li još jedan Kölsch?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "U Kölnu se Kölsch pije iz malih čaša.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "karneval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "kostim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "stanica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "kafana",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "čaša",
+      "answerText": null
+    }
+  ]
+}

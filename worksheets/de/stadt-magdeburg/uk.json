@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:47.751Z"
+  },
+  "title": "Магдебург",
+  "instructions": {
+    "stadt-magdeburg-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-magdeburg-gap": "Позначте правильне слово.",
+    "stadt-magdeburg-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-magdeburg-table": "Допишіть артикль і форму множини.",
+    "stadt-magdeburg-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-magdeburg-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "«Місто Оттона»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Прізвисько Магдебурга – через імператора Оттона Великого й Отто фон Ґеріке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Великий готичний храм; тут похований імператор Оттон Великий.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "Зелена цитадель",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Барвистий будинок з деревами на даху, останній проєкт Гундертвассера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "півкуля",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "Двома півкулями Ґеріке показав, яка сильна дія вакууму.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "водний перетин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Тут кораблі пливуть каналом по мосту над Ельбою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "вакуум",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Простір зовсім без повітря.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "імператор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Правитель, ще могутніший за короля.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Ми оглядаємо собор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "Зелена цитадель має дерева на даху.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Корабель пливе мостом над Ельбою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Багато коней не змогли роз'єднати півкулі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Магдебург лежить на Ельбі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Ґеріке провів дослід з вакуумом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Ми фотографуємо барвистий будинок.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Гундертвассер спроєктував Зелену цитадель.",
+      "answerText": "спроєктував"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Отто фон Ґеріке проводив досліди з повітрям.",
+      "answerText": "проводив"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Коні тягнули півкулі.",
+      "answerText": "тягнули"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "Мостом-каналом кораблі пливуть над Ельбою.",
+      "answerText": "пливуть"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "Імператор Оттон лежить похований у соборі.",
+      "answerText": "лежить"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "імператор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "кінь",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "дах",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "куля",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "дослід",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Магдебург лежить на Ельбі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "На даху ростуть дерева.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Ти знаєш дослід з півкулями?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Кораблі пливуть мостом над Ельбою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "імператор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "кінь",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "експеримент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "куля",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "бургомістр",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.474Z"
+  },
+  "title": "ফার্মেসিতে",
+  "instructions": {
+    "in-der-apotheke-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "in-der-apotheke-gap": "উপযুক্ত শব্দে চিহ্ন দিন।",
+    "in-der-apotheke-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "in-der-apotheke-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "in-der-apotheke-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "in-der-apotheke-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "প্রেসক্রিপশন",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "ওষুধের জন্য ডাক্তারের দেওয়া কাগজ।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ট্যাবলেট",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "একটি ছোট ওষুধ যা গিলে খেতে হয়।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "কাশির সিরাপ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "কাশির জন্য তরল ওষুধ।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "মলম",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "এটা ত্বকে লাগানো হয়।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "পার্শ্বপ্রতিক্রিয়া",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "ওষুধের একটি অনাকাঙ্ক্ষিত প্রভাব।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "ওষুধের নির্দেশিকা পত্র",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "ওষুধের বাক্সের ভেতরের কাগজ, যাতে সব তথ্য থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "সহ-অর্থপ্রদান",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "প্রেসক্রিপশনের একটা ছোট অঙ্ক আপনি নিজে দেন।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "আমার ডাক্তারের দেওয়া একটা প্রেসক্রিপশন আছে।",
+      "answerText": "প্রেসক্রিপশন"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "আপনার কাছে কি গলাব্যথার জন্য কিছু আছে?",
+      "answerText": "গলাব্যথার"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "দিনে দুটো ট্যাবলেট খান।",
+      "answerText": "ট্যাবলেট"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "মলমটা ত্বকের জন্য।",
+      "answerText": "ত্বকের"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "দয়া করে নির্দেশিকা পত্রটি পড়ুন।",
+      "answerText": "নির্দেশিকা পত্রটি"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "ওষুধটির প্রায় কোনো পার্শ্বপ্রতিক্রিয়া নেই।",
+      "answerText": "পার্শ্বপ্রতিক্রিয়া"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "সপ্তাহান্তে একটি ফার্মেসি জরুরি ডিউটিতে থাকে।",
+      "answerText": "ফার্মেসি"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "গতকাল থেকে আমার কাশি।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "আমাকে কতবার ট্যাবলেট খেতে হবে?",
+      "answerText": "খেতে"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "আমরা আগামীকালের মধ্যে ওষুধটা আনিয়ে দেব।",
+      "answerText": "আনিয়ে"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "মলমটা দিনে দুবার লাগান।",
+      "answerText": "লাগান"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "দয়া করে প্রচুর পানি পান করুন।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "ফার্মেসি",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "ওষুধ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "মলম",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "প্লাস্টার",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "প্যাকেট",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "ফোঁটা",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "আপনার কাছে কি কাশির জন্য কিছু আছে?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "আমাকে কতবার ট্যাবলেট খেতে হবে?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "আমার মাথাব্যথার একটা ওষুধ দরকার।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "এর জন্য কি আমার প্রেসক্রিপশন লাগবে?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "ফার্মেসি",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "ওষুধ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "প্লাস্টার",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "পার্শ্বপ্রতিক্রিয়া",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "কাশি",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:22.910Z"
+  },
+  "title": "კიოლნი",
+  "instructions": {
+    "stadt-koeln-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-koeln-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-koeln-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-koeln-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-koeln-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-koeln-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "„კიოლე ალააფ!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "კიოლნის კარნავალის შეძახილი – დაახლოებით „გაუმარჯოს კიოლნს!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "დომი (ტაძარი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "დიდი ეკლესია ორი კოშკით, უშუალოდ მთავარ სადგურთან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "„კელში“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "ღია ლუდი კიოლნიდან; მას პატარა, ვიწრო ჭიქებიდან სვამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "„კიობესი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "ოფიციანტი ლუდხანაში; ის ახალ კელშს მოაქვს, სანამ ჭიქას ხუფს არ დაადებ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "„ჰალვე ჰანი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "ჭვავის ფუნთუშა ყველით – არა ნახევარი ქათამი!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "„ფეედელი“ (უბანი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "კიოლნურად ქალაქის უბანი; ყველა კიოლნელს თავისი ფეედელი უყვარს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "ვარდების ორშაბათი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "კარნავალის კულმინაცია დიდი მსვლელობით ქალაქში.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "ის ლუდხანაში კელშს სვამს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "კიობესს შემდეგი კელში მოაქვს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "ვარდების ორშაბათს ქალაქში მსვლელობას ვუყურებთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "ბევრი ტურისტი კიოლნის დომს სტუმრობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "ჰალვე ჰანს ვუკვეთავ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "ბევრი ადამიანი ჰოენცოლერნის ხიდზე სეირნობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "კარნავალზე კოსტიუმს იცვამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "კარნავალზე ხალხი გაჰყვირის „კიოლე ალააფ!“.",
+      "answerText": "გაჰყვირის"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "კიობესს უკითხავად ახალი კელში მოაქვს.",
+      "answerText": "მოაქვს"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "დომი 150 მეტრზე მაღალი არის.",
+      "answerText": "არის"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "რაინი კიოლნის შუაგულში მიედინება.",
+      "answerText": "მიედინება"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "11.11-ს 11:11 საათზე კარნავალი იწყება.",
+      "answerText": "იწყება"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "ტაძარი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "ხიდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "ჭიქა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "მსვლელობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "კოსტიუმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "ლუდხანა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "კიოლნის დომი უშუალოდ სადგურთან დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "ვარდების ორშაბათს მთელი კიოლნი კარნავალს ზეიმობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "კიდევ ერთი კელში გინდა?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "კიოლნში კელშს პატარა ჭიქებიდან სვამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "კარნავალი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "კოსტიუმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "სადგური",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "ლუდხანა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "ჭიქა",
+      "answerText": null
+    }
+  ]
+}

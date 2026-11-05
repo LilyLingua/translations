@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.778Z"
+  },
+  "title": "Cu autobuzul și cu trenul",
+  "instructions": {
+    "bus-und-bahn-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "bus-und-bahn-gap": "Bifați cuvântul potrivit.",
+    "bus-und-bahn-verbs": "Completați cu verbul corect la forma corectă.",
+    "bus-und-bahn-table": "Completați articolul (der/die/das) și forma de plural.",
+    "bus-und-bahn-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "bus-und-bahn-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "biletul",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Cu el ai voie să călătorești cu autobuzul sau cu trenul.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "automatul de bilete",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Aici cumperi un bilet fără ghișeu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "linia (peronul)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Aici oprește trenul în gară.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "întârzierea",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Trenul vine mai târziu decât era planificat.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "a schimba trenul",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Treci dintr-un tren în altul.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "stația",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Aici oprește autobuzul.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Un abonament lunar pentru autobuze și trenuri regionale în toată Germania.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Trenul spre Köln pleacă de la linia 5.",
+      "answerText": "linia"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Trenul are zece minute întârziere.",
+      "answerText": "întârziere"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Unde este cea mai apropiată stație?",
+      "answerText": "stație"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Un bilet până la Berlin, vă rog.",
+      "answerText": "bilet"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Vă rog să arătați biletul.",
+      "answerText": "biletul"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metroul circulă la fiecare zece minute.",
+      "answerText": "Metroul"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "De la automat puteți cumpăra bilete.",
+      "answerText": "automat"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Unde trebuie să schimb trenul?",
+      "answerText": "schimb"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Autobuzul pleacă la 8:15.",
+      "answerText": "pleacă"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Ajungem la Hamburg la ora 10.",
+      "answerText": "Ajungem"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Vă rog să coborâți aici.",
+      "answerText": "coborâți"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Cât durează călătoria?",
+      "answerText": "durează"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "trenul",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "gara",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "biletul",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "linia",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "stația",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "autobuzul",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Când pleacă următorul tren spre München?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Trebuie să schimb trenul la Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Din păcate trenul are întârziere.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Biletul este valabil și pentru autobuz?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "întârziere",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "stație",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "linie",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "gară",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.301Z"
+  },
+  "title": "Öffentliche Verkehrsmittel",
+  "instructions": {
+    "pl-komunikacja-miejska-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-komunikacja-miejska-gap": "Wähle das richtige Wort.",
+    "pl-komunikacja-miejska-verbs": "Setze das richtige Verb ein.",
+    "pl-komunikacja-miejska-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-komunikacja-miejska-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-komunikacja-miejska-matching-1",
+      "translation": "die Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-1:meaning",
+      "translation": "Ein Zettel oder eine App, mit der man fahren darf.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2",
+      "translation": "die Haltestelle",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2:meaning",
+      "translation": "Der Ort, an dem der Bus hält.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3",
+      "translation": "der Bahnsteig",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3:meaning",
+      "translation": "Der Ort am Bahnhof, an dem man in den Zug steigt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4",
+      "translation": "die Verspätung",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4:meaning",
+      "translation": "Wenn ein Bus oder Zug später kommt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5",
+      "translation": "der Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5:meaning",
+      "translation": "Eine Liste mit den Abfahrtszeiten der Busse und Züge.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6",
+      "translation": "das Umsteigen",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6:meaning",
+      "translation": "Wenn man von einem Bus oder Zug in einen anderen wechselt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-1",
+      "translation": "Ich brauche eine Fahrkarte ins Zentrum.",
+      "answerText": "Fahrkarte"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-2",
+      "translation": "Der Zug fährt von Bahnsteig vier ab.",
+      "answerText": "Bahnsteig"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-3",
+      "translation": "Bitte steigen Sie an der nächsten Haltestelle aus.",
+      "answerText": "Haltestelle"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-4",
+      "translation": "Der Zug hat zwanzig Minuten Verspätung.",
+      "answerText": "Verspätung"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-5",
+      "translation": "Bitte schauen Sie im Internet in den Fahrplan.",
+      "answerText": "Fahrplan"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-6",
+      "translation": "Am Bahnhof müssen Sie umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-1",
+      "translation": "Der Bus fährt alle zehn Minuten.",
+      "answerText": "fährt"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-2",
+      "translation": "Wo kann ich eine Fahrkarte kaufen?",
+      "answerText": "kaufen"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-3",
+      "translation": "Hier muss man umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-4",
+      "translation": "Der Zug verspätet sich heute.",
+      "answerText": "verspätet"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-5",
+      "translation": "Bitte zeigen Sie Ihre Fahrkarte.",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-1",
+      "translation": "Welcher Bus fährt zum Flughafen?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-2",
+      "translation": "Der Zug hat zehn Minuten Verspätung.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-3",
+      "translation": "Wo ist die nächste Haltestelle?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-4",
+      "translation": "Mir ist der Bus weggefahren.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-1",
+      "translation": "Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-2",
+      "translation": "Bahnhof",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-3",
+      "translation": "Haltestelle",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-4",
+      "translation": "Zug",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-5",
+      "translation": "Fahrgast",
+      "answerText": null
+    }
+  ]
+}

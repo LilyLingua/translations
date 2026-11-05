@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.514Z"
+  },
+  "title": "看医生",
+  "instructions": {
+    "beim-arzt-matching": "把每个单词和合适的解释连起来。",
+    "beim-arzt-gap": "勾出合适的单词。",
+    "beim-arzt-verbs": "用正确形式填入正确的动词。",
+    "beim-arzt-table": "填写冠词（der/die/das）和复数形式。",
+    "beim-arzt-order": "把单词按正确顺序排列并写出句子。",
+    "beim-arzt-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "医保卡",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "在前台出示这张卡。上面有你的医疗保险公司。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "预约",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "你去诊所的固定时间。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "候诊室",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "你在这里坐着，直到叫到你。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "处方",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "凭它在药店拿药。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "病假条",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "你生病时，雇主会收到这张纸。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "发烧",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "体温太高，例如39度。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "过敏",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "身体对某种东西反应强烈，例如青霉素。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "急救电话",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "号码112——发生事故或紧急情况时拨打。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "您好，我想预约一下。",
+      "answerText": "预约"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "您带医保卡了吗？",
+      "answerText": "医保卡"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "请在候诊室坐一下。",
+      "answerText": "候诊室"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "我头痛，还发烧。",
+      "answerText": "头痛"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "我肚子疼。",
+      "answerText": "肚子"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "我对青霉素过敏。",
+      "answerText": "青霉素"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "我需要给雇主开一张病假条。",
+      "answerText": "病假条"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "这些药片每天三次，饭后服用。",
+      "answerText": "饭"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "您能说慢一点吗？",
+      "answerText": "说"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "我发烧三天了。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "我的头很疼。",
+      "answerText": "疼"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "请深吸气——然后再呼气。",
+      "answerText": "吸气"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "医生给我开了处方。",
+      "answerText": "给"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "我们马上叫您。",
+      "answerText": "叫"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "医生",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "药片",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "处方",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "预约",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "诊所",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "药物",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "我想预约一下。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "我发烧三天了。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "您能再说一遍吗？",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "哪里疼？",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "头痛",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "病假条",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "医保卡",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "过敏的",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "药片",
+      "answerText": null
+    }
+  ]
+}

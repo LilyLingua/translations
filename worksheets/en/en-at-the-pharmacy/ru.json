@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:41.044Z"
+  },
+  "title": "В аптеке",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "Соедини каждое слово с его значением.",
+    "en-at-the-pharmacy-gap": "Выбери правильное слово.",
+    "en-at-the-pharmacy-verbs": "Вставь правильный глагол.",
+    "en-at-the-pharmacy-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-at-the-pharmacy-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "Записка от врача с лекарством, которое тебе нужно.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "фармацевт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "Человек, который продаёт лекарства и даёт советы.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "побочное действие",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "Нежелательный эффект лекарства.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "Маленькое твёрдое лекарство, которое глотают.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "сироп от кашля",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "Жидкое лекарство от кашля.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "доза",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "Сколько лекарства принимают за один раз.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "У меня простуда и болит горло.",
+      "answerText": "простуда"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "Нужен ли рецепт на это лекарство?",
+      "answerText": "рецепт"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "Принимайте по одной таблетке три раза в день.",
+      "answerText": "таблетке"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "Есть ли побочные действия?",
+      "answerText": "побочные действия"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "Если у вас есть вопросы, спросите фармацевта.",
+      "answerText": "фармацевта"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "Можно мне чек, пожалуйста?",
+      "answerText": "чек"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "Мне нужно что-нибудь от головной боли.",
+      "answerText": "нужно"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "У вас есть аллергия?",
+      "answerText": "есть"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "Пожалуйста, принимайте это лекарство после еды.",
+      "answerText": "принимайте"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "Фармацевт показывает мне, как пользоваться спреем.",
+      "answerText": "показывает"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "Сколько это стоит?",
+      "answerText": "стоит"
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "Нужен ли рецепт для этого?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "У меня болит голова.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "Принимайте две таблетки утром.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "Можете посоветовать что-нибудь от кашля?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "лекарство",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "аллергия",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "головная боль",
+      "answerText": null
+    }
+  ]
+}

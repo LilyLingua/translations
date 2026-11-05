@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.335Z"
+  },
+  "title": "استئجار شقة",
+  "instructions": {
+    "wohnung-mieten-matching": "صِل كل كلمة بالشرح المناسب.",
+    "wohnung-mieten-gap": "ضع علامة على الصيغة الصحيحة لأداة التعريف.",
+    "wohnung-mieten-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "wohnung-mieten-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "wohnung-mieten-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "wohnung-mieten-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "الإيجار",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "المال الذي تدفعه كل شهر مقابل الشقة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "التأمين (الكفالة)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "مال يحصل عليه المؤجر في البداية كضمان.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "التكاليف الإضافية",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "تكاليف الماء والتدفئة والقمامة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "عقد الإيجار",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "العقد بين المستأجر والمؤجر.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "معاينة الشقة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "تشاهد الشقة قبل استئجارها.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "حارس العمارة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "يهتم بالمبنى ويصلح الأشياء الصغيرة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "نظام العمارة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "القواعد لجميع السكان، مثل أوقات الهدوء.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "نبحث عن شقة فيها شرفة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "أتحدث مع المؤجر.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "أعطي المؤجرة التأمين.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "أضع الدراجة في الفناء.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "المفتاح على الطاولة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "التدفئة في المطبخ معطلة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "أسكن في هذه الشقة منذ سنة.",
+      "answerText": "هذه"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "متى يمكنني معاينة الشقة؟",
+      "answerText": "معاينة"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "يبلغ الإيجار 850 يورو شاملًا التكاليف.",
+      "answerText": "يبلغ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "ننتقل إلى الشقة في 1 ديسمبر.",
+      "answerText": "ننتقل"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "التدفئة معطلة. هل يمكنك إصلاحها من فضلك؟",
+      "answerText": "إصلاحها"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "من فضلك، افرز القمامة.",
+      "answerText": "افرز"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "الغرفة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "المطبخ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "الشرفة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "الحمّام",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "المفتاح",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "التدفئة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "هل الشقة ما زالت متاحة؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "كم تبلغ التكاليف الإضافية؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "متى يمكنني معاينة الشقة؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "أود استئجار الشقة.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "التأمين",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "التكاليف الإضافية",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "شرفة",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "مفتاح",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "تدفئة",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:03.795Z"
+  },
+  "title": "ビーレフェルト",
+  "instructions": {
+    "stadt-bielefeld-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-bielefeld-gap": "正しい単語に印をつけましょう。",
+    "stadt-bielefeld-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-bielefeld-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-bielefeld-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-bielefeld-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-bielefeld-matching-1",
+      "translation": "ビーレフェルトの陰謀",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-1:meaning",
+      "translation": "古いネットのジョーク：ビーレフェルトなんて本当は存在しない。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2",
+      "translation": "シュパーレンブルク",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2:meaning",
+      "translation": "山の上の古い城。上から街全体が見える。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3",
+      "translation": "ドクター・エトカー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3:meaning",
+      "translation": "プリン、ベーキングパウダー、ピザで有名な会社。ビーレフェルト生まれ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4",
+      "translation": "トイトブルクの森",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4:meaning",
+      "translation": "街のすぐそばにある、丘の続く長い森。ハイキングにぴったり。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5",
+      "translation": "アルミニア",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5:meaning",
+      "translation": "街のサッカークラブ。ファンはスタジアムを「アルム」と呼ぶ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6",
+      "translation": "東ヴェストファーレン人",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6:meaning",
+      "translation": "ここに住む人の呼び名。あまりしゃべらないと言われている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7",
+      "translation": "「ピッケルト」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7:meaning",
+      "translation": "じゃがいもで作る東ヴェストファーレンのパンケーキ。よくレーズンが入っている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-1",
+      "translation": "シュパーレンブルクは街の上の山に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-2",
+      "translation": "多くの人がトイトブルクの森でハイキングをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-3",
+      "translation": "私はドクター・エトカーのプリンを買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-4",
+      "translation": "ピッケルトはフライパンで焼きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-5",
+      "translation": "アルミニアはアルムで試合をします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-6",
+      "translation": "多くの人がビーレフェルトの陰謀を笑います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-7",
+      "translation": "ビーレフェルトはオストヴェストファーレン＝リッペ地方にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-verbs-1",
+      "translation": "冗談で「ビーレフェルトなんてない」と言う人がいます。",
+      "answerText": "言う"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-2",
+      "translation": "東ヴェストファーレン人はあまり話しません。",
+      "answerText": "話し"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-3",
+      "translation": "ドクター・エトカーは100年以上前からビーレフェルトに本社を置いています。",
+      "answerText": "置いて"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-4",
+      "translation": "ファンはアルムでアルミニアを応援します。",
+      "answerText": "応援し"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-5",
+      "translation": "シュパーレンブルクからは街全体を見渡せます。",
+      "answerText": "見渡せ"
+    },
+    {
+      "id": "stadt-bielefeld-table-1",
+      "translation": "森",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-2",
+      "translation": "フライパン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-3",
+      "translation": "山",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-4",
+      "translation": "会社",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-5",
+      "translation": "うわさ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-6",
+      "translation": "冗談",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-1",
+      "translation": "ビーレフェルトは本当にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-2",
+      "translation": "日曜日、私たちはトイトブルクの森でハイキングをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-3",
+      "translation": "シュパーレンブルクに行ったことがありますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-4",
+      "translation": "ドクター・エトカーはビーレフェルト生まれです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-1",
+      "translation": "冗談",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-2",
+      "translation": "フライパン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-3",
+      "translation": "森",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-4",
+      "translation": "会社",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-5",
+      "translation": "プリン",
+      "answerText": null
+    }
+  ]
+}

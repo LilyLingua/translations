@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.253Z"
+  },
+  "title": "المواعيد عبر الهاتف",
+  "instructions": {
+    "termine-am-telefon-matching": "صِل كل كلمة بالشرح المناسب.",
+    "termine-am-telefon-gap": "ضع علامة على حرف الجر الصحيح.",
+    "termine-am-telefon-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "termine-am-telefon-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "termine-am-telefon-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "termine-am-telefon-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "المجيب الآلي",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "هنا يمكنك ترك رسالة.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "الرقم الداخلي المباشر",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "رقم الهاتف المباشر لشخص في شركة.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "معاودة الاتصال",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "الاتصال بشخص لاحقًا لأنه اتصل بك من قبل.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "تأجيل",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "نقل موعد إلى يوم آخر.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "إلغاء",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "أن تقول إنك لن تأتي إلى موعد.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "أوقات الاستقبال",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "الأوقات التي يمكنك فيها الوصول إلى شخص ما.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "التهجئة",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "قول كلمة حرفًا حرفًا.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "هل لديك وقت يوم الاثنين؟",
+      "answerText": "يوم"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "هل يناسبك في الساعة العاشرة؟",
+      "answerText": "في"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "ليس لدي وقت قبل ديسمبر.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "العيادة مغلقة في عطلة نهاية الأسبوع.",
+      "answerText": "في"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "سأعاود الاتصال بك بعد ساعة.",
+      "answerText": "بعد"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "أنتظر موعدًا منذ أسبوعين.",
+      "answerText": "منذ"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "من فضلك، تعال قبل الموعد بعشر دقائق.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "هل يمكنني التحدث مع السيدة فيبر من فضلك؟",
+      "answerText": "التحدث"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "للأسف يجب أن ألغي موعدي.",
+      "answerText": "ألغي"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "هل يمكنك أن تعاود الاتصال بي من فضلك؟",
+      "answerText": "تعاود الاتصال"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "أعطيك رقمي.",
+      "answerText": "أعطيك"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "كيف يُكتب اسمك؟",
+      "answerText": "يُكتب"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "المكالمة",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "الرقم",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "الرسالة",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "الهاتف",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "الوقت (الساعة)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "الهاتف المحمول",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "أريد تأجيل موعد.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "متى يكون لديك وقت؟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "سأتصل غدًا مرة أخرى.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "هل يناسبك يوم الخميس الساعة التاسعة؟",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "رسالة",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "هاتف",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "موعد",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "معاودة الاتصال",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "الوقت",
+      "answerText": null
+    }
+  ]
+}

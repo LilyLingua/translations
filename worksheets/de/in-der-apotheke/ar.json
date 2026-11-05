@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.364Z"
+  },
+  "title": "في الصيدلية",
+  "instructions": {
+    "in-der-apotheke-matching": "صِل كل كلمة بالشرح المناسب.",
+    "in-der-apotheke-gap": "ضع علامة على الكلمة المناسبة.",
+    "in-der-apotheke-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "in-der-apotheke-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "in-der-apotheke-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "in-der-apotheke-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "الوصفة الطبية",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "ورقة من الطبيب لدواء ما.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "القرص (الحبة)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "دواء صغير يُبلع.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "شراب السعال",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "دواء سائل ضد السعال.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "المرهم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "يُدهن على الجلد.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "الأثر الجانبي",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "تأثير غير مرغوب فيه لدواء.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "النشرة الدوائية",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "الورقة داخل علبة الدواء مع كل المعلومات.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "المساهمة المالية",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "مبلغ صغير تدفعه بنفسك مقابل الوصفة.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "معي وصفة طبية من طبيبتي.",
+      "answerText": "وصفة طبية"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "هل عندك شيء ضد التهاب الحلق؟",
+      "answerText": "التهاب الحلق"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "تناول قرصين في اليوم.",
+      "answerText": "قرصين"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "المرهم للجلد.",
+      "answerText": "للجلد"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "من فضلك، اقرأ النشرة الدوائية.",
+      "answerText": "النشرة الدوائية"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "الدواء ليس له تقريبًا آثار جانبية.",
+      "answerText": "آثار جانبية"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "في عطلة نهاية الأسبوع تكون صيدلية مناوبة.",
+      "answerText": "صيدلية"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "عندي سعال منذ أمس.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "كم مرة يجب أن أتناول الأقراص؟",
+      "answerText": "أتناول"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "سنطلب الدواء حتى الغد.",
+      "answerText": "سنطلب"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "ادهن المرهم مرتين يوميًا.",
+      "answerText": "ادهن"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "من فضلك، اشرب الكثير من الماء.",
+      "answerText": "اشرب"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "الصيدلية",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "الدواء",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "المرهم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "اللاصق الطبي",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "العلبة",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "القطرة",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "هل عندك شيء ضد السعال؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "كم مرة يجب أن أتناول الأقراص؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "أحتاج دواءً ضد الصداع.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "هل أحتاج وصفة طبية لذلك؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "صيدلية",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "دواء",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "لاصق طبي",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "أثر جانبي",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "سعال",
+      "answerText": null
+    }
+  ]
+}

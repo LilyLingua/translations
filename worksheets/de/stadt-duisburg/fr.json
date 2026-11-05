@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:56.391Z"
+  },
+  "title": "Duisbourg",
+  "instructions": {
+    "stadt-duisburg-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-duisburg-gap": "Coche le bon mot.",
+    "stadt-duisburg-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-duisburg-table": "Complète l'article et le pluriel.",
+    "stadt-duisburg-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-duisburg-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-duisburg-matching-1",
+      "translation": "le port fluvial",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-1:meaning",
+      "translation": "Port sur un fleuve, pas sur la mer ; celui de Duisbourg est le plus grand d'Europe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2",
+      "translation": "l'aciérie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2:meaning",
+      "translation": "Usine où l'on fabrique de l'acier à partir du fer.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3",
+      "translation": "le haut fourneau",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3:meaning",
+      "translation": "Four très haut ; on y fait fondre le fer à partir du minerai.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4",
+      "translation": "le Landschaftspark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4:meaning",
+      "translation": "Ancienne usine sidérurgique ; aujourd'hui un parc qui s'illumine en couleurs le soir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5",
+      "translation": "Tiger & Turtle",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5:meaning",
+      "translation": "Œuvre d'art sur une colline qui ressemble à des montagnes russes ; on peut marcher dessus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6",
+      "translation": "les « Zebras » (les zèbres)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6:meaning",
+      "translation": "Surnom des joueurs du MSV Duisbourg – à cause des rayures bleues et blanches.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7",
+      "translation": "Schimanski",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7:meaning",
+      "translation": "Commissaire de télévision connu de la série « Tatort », qui enquêtait à Duisbourg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-1",
+      "translation": "Beaucoup de bateaux entrent dans le port.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-2",
+      "translation": "Le soir, le Landschaftspark Nord s'illumine de nombreuses couleurs.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-3",
+      "translation": "Mon père travaille dans une aciérie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-4",
+      "translation": "Nous montons à pied sur la sculpture Tiger & Turtle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-5",
+      "translation": "Samedi, les Zebras jouent au stade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-6",
+      "translation": "À Duisbourg, la Ruhr se jette dans le Rhin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-7",
+      "translation": "Au Landschaftspark, des gens grimpent sur les vieux murs.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-verbs-1",
+      "translation": "Le port est le plus grand port fluvial d'Europe.",
+      "answerText": "est"
+    },
+    {
+      "id": "stadt-duisburg-verbs-2",
+      "translation": "À l'aciérie, on fabrique de l'acier à partir du fer.",
+      "answerText": "fabrique"
+    },
+    {
+      "id": "stadt-duisburg-verbs-3",
+      "translation": "La Ruhr se jette dans le Rhin à Duisbourg.",
+      "answerText": "jette"
+    },
+    {
+      "id": "stadt-duisburg-verbs-4",
+      "translation": "Schimanski enquêtait à Duisbourg à la télévision.",
+      "answerText": "enquêtait"
+    },
+    {
+      "id": "stadt-duisburg-verbs-5",
+      "translation": "On marche à pied sur Tiger & Turtle.",
+      "answerText": "marche"
+    },
+    {
+      "id": "stadt-duisburg-table-1",
+      "translation": "le bateau",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-2",
+      "translation": "le port",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-3",
+      "translation": "le four",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-4",
+      "translation": "l'usine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-5",
+      "translation": "le conteneur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-6",
+      "translation": "le pont",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-1",
+      "translation": "Duisbourg se trouve au bord du Rhin et de la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-2",
+      "translation": "Le soir, le Landschaftspark s'illumine de toutes les couleurs.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-3",
+      "translation": "On fait un tour en bateau dans le port ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-4",
+      "translation": "Chaque jour, beaucoup de conteneurs arrivent au port.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-1",
+      "translation": "le conteneur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-2",
+      "translation": "le four",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-3",
+      "translation": "l'acier",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-4",
+      "translation": "le Rhin",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-5",
+      "translation": "le pont",
+      "answerText": null
+    }
+  ]
+}

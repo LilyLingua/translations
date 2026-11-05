@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:47.968Z"
+  },
+  "title": "Дортмунд",
+  "instructions": {
+    "stadt-dortmund-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-dortmund-gap": "Отбележете правилната дума.",
+    "stadt-dortmund-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-dortmund-table": "Попълнете члена и формата за множествено число.",
+    "stadt-dortmund-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-dortmund-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-dortmund-matching-1",
+      "translation": "BVB",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-1:meaning",
+      "translation": "Борусия Дортмунд – големият футболен клуб на града, в черно и жълто.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2",
+      "translation": "„Жълтата стена“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2:meaning",
+      "translation": "Огромната южна трибуна на стадиона; там феновете стоят плътно един до друг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3",
+      "translation": "„Дортмундското U“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3:meaning",
+      "translation": "Стара висока сграда на пивоварна с голямо светещо U на покрива.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4",
+      "translation": "мината",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4:meaning",
+      "translation": "Рудник; тук в миналото са вадили въглища от земята.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5",
+      "translation": "„Будата“ (будката)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5:meaning",
+      "translation": "Малък павилион на ъгъла с напитки, сладкиши и вестници.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6",
+      "translation": "„Пот“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6:meaning",
+      "translation": "Кратка дума за Рурската област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7",
+      "translation": "коледната елха",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7:meaning",
+      "translation": "На коледния базар стои огромно дърво от много елхи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-1",
+      "translation": "В събота отиваме на стадиона.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-2",
+      "translation": "Феновете стоят на южната трибуна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-3",
+      "translation": "Купуваме си нещо за пиене от будката.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-4",
+      "translation": "Дядо ми е работил в мината.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-5",
+      "translation": "На коледния базар стои огромна коледна елха.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-6",
+      "translation": "Горе на Дортмундското U свети голямо U.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-7",
+      "translation": "Посещаваме Германския футболен музей.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-verbs-1",
+      "translation": "Феновете пеят силно за BVB.",
+      "answerText": "пеят"
+    },
+    {
+      "id": "stadt-dortmund-verbs-2",
+      "translation": "В миналото много мъже работеха под земята.",
+      "answerText": "работеха"
+    },
+    {
+      "id": "stadt-dortmund-verbs-3",
+      "translation": "Коледната елха достига над 40 метра височина.",
+      "answerText": "достига"
+    },
+    {
+      "id": "stadt-dortmund-verbs-4",
+      "translation": "U-то свети през нощта.",
+      "answerText": "свети"
+    },
+    {
+      "id": "stadt-dortmund-verbs-5",
+      "translation": "Срещаме се при будката.",
+      "answerText": "Срещаме"
+    },
+    {
+      "id": "stadt-dortmund-table-1",
+      "translation": "стадионът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-2",
+      "translation": "фенът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-3",
+      "translation": "мината",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-4",
+      "translation": "вратата (голът)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-5",
+      "translation": "клубът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-6",
+      "translation": "будката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-1",
+      "translation": "BVB играе на стадион „Вестфаленщадион“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-2",
+      "translation": "В събота стоим на южната трибуна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-3",
+      "translation": "Идваш ли с нас на стадиона?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-4",
+      "translation": "Дортмунд се намира в Рурската област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-1",
+      "translation": "стадион",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-2",
+      "translation": "клуб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-3",
+      "translation": "трибуна",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-4",
+      "translation": "мина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-5",
+      "translation": "футбол",
+      "answerText": null
+    }
+  ]
+}

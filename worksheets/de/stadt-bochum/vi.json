@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:23.317Z"
+  },
+  "title": "Bochum",
+  "instructions": {
+    "stadt-bochum-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-bochum-gap": "Đánh dấu từ đúng.",
+    "stadt-bochum-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-bochum-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-bochum-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-bochum-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "\"Bermuda3eck\" (Tam giác Bermuda)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "Khu phố có nhiều quán rượu và quán bar ở trung tâm.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "\"Currywurst\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "Xúc xích nướng với tương cà và bột cà ri – rất được ưa chuộng ở Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Herbert Grönemeyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "Ca sĩ hát một bài hát nổi tiếng về thành phố Bochum của mình.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "VfL Bochum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "Câu lạc bộ bóng đá của thành phố, màu xanh và trắng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "Bảo tàng Khai mỏ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "Bảo tàng lớn về công việc dưới lòng đất – có cả một hầm mỏ để tham quan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "Starlight Express",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "Vở nhạc kịch mà các diễn viên đi giày trượt patin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "Đại học Ruhr",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "Trường đại học lớn ở ven thành phố, có rất nhiều sinh viên.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "Thứ Sáu chúng tôi gặp nhau ở Bermuda3eck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Tôi ăn một phần currywurst với khoai tây chiên.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "Nhiều sinh viên học ở Đại học Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "Trong Bảo tàng Khai mỏ chúng tôi đi vào hầm mỏ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "Các diễn viên trượt trên giày patin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Herbert Grönemeyer hát một bài về Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfL thi đấu ở sân vận động trên đường Castroper Straße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "Trong vở nhạc kịch, các diễn viên trượt trên giày patin.",
+      "answerText": "trượt"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Herbert Grönemeyer hát về thành phố của mình.",
+      "answerText": "hát"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "Cuối tuần nhiều người đi đến Bermuda3eck.",
+      "answerText": "đi"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "Người ta ăn currywurst với khoai tây chiên.",
+      "answerText": "ăn"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "Vở nhạc kịch được diễn ở Bochum từ năm 1988.",
+      "answerText": "được diễn"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "quán rượu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "bài hát",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "sinh viên",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "vở nhạc kịch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "trường đại học",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "ca sĩ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "Starlight Express được diễn ở Bochum từ năm 1988.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "Sau giờ học chúng tôi đi Bermuda3eck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Bạn ăn currywurst với khoai tây chiên à?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Grönemeyer hát một bài về Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "vở nhạc kịch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "trường đại học",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "quán rượu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "ca sĩ",
+      "answerText": null
+    }
+  ]
+}

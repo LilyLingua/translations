@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:35.986Z"
+  },
+  "title": "Duisburg",
+  "instructions": {
+    "stadt-duisburg-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-duisburg-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-duisburg-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-duisburg-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-duisburg-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-duisburg-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-duisburg-matching-1",
+      "translation": "bandari ya mtoni",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-1:meaning",
+      "translation": "Bandari kando ya mto, si baharini; ya Duisburg ndiyo kubwa zaidi Ulaya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2",
+      "translation": "kiwanda cha feleji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2:meaning",
+      "translation": "Kiwanda ambapo chuma hugeuzwa kuwa feleji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3",
+      "translation": "tanuru kubwa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3:meaning",
+      "translation": "Tanuru refu sana; ndani yake chuma huyeyushwa kutoka kwenye mawe ya madini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4",
+      "translation": "Landschaftspark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4:meaning",
+      "translation": "Kiwanda cha zamani cha chuma; leo ni bustani inayong'aa kwa rangi nyingi jioni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5",
+      "translation": "\"Tiger & Turtle\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5:meaning",
+      "translation": "Kazi ya sanaa juu ya kilima inayofanana na roller coaster; unaweza kutembea juu yake.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6",
+      "translation": "\"Zebras\" (Punda milia)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6:meaning",
+      "translation": "Jina la utani la wachezaji wa MSV Duisburg – kwa sababu ya mistari ya buluu na nyeupe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7",
+      "translation": "Schimanski",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7:meaning",
+      "translation": "Mpelelezi maarufu wa televisheni katika \"Tatort\" aliyechunguza kesi Duisburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-1",
+      "translation": "Meli nyingi zinaingia bandarini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-2",
+      "translation": "Jioni Landschaftspark Nord inang'aa kwa rangi nyingi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-3",
+      "translation": "Baba yangu anafanya kazi katika kiwanda cha feleji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-4",
+      "translation": "Tunapanda juu ya sanamu ya Tiger & Turtle kwa miguu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-5",
+      "translation": "Jumamosi Zebras wanacheza uwanjani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-6",
+      "translation": "Duisburg mto Ruhr unaingia katika Rhine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-7",
+      "translation": "Katika Landschaftspark watu hupanda kuta za zamani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-verbs-1",
+      "translation": "Bandari hii ni bandari kubwa zaidi ya mtoni Ulaya.",
+      "answerText": "ni"
+    },
+    {
+      "id": "stadt-duisburg-verbs-2",
+      "translation": "Katika kiwanda cha feleji watu hutengeneza feleji kwa chuma.",
+      "answerText": "hutengeneza"
+    },
+    {
+      "id": "stadt-duisburg-verbs-3",
+      "translation": "Duisburg mto Ruhr unaingia katika Rhine.",
+      "answerText": "unaingia"
+    },
+    {
+      "id": "stadt-duisburg-verbs-4",
+      "translation": "Schimanski alichunguza kesi Duisburg katika televisheni.",
+      "answerText": "alichunguza"
+    },
+    {
+      "id": "stadt-duisburg-verbs-5",
+      "translation": "Unatembea juu ya Tiger & Turtle kwa miguu.",
+      "answerText": "Unatembea"
+    },
+    {
+      "id": "stadt-duisburg-table-1",
+      "translation": "meli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-2",
+      "translation": "bandari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-3",
+      "translation": "tanuru",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-4",
+      "translation": "kiwanda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-5",
+      "translation": "kontena",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-6",
+      "translation": "daraja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-1",
+      "translation": "Duisburg iko kando ya Rhine na Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-2",
+      "translation": "Jioni Landschaftspark inang'aa kwa rangi nyingi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-3",
+      "translation": "Tutasafiri kwa meli kupitia bandari?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-4",
+      "translation": "Kila siku makontena mengi hufika bandarini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-1",
+      "translation": "kontena",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-2",
+      "translation": "tanuru",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-3",
+      "translation": "feleji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-4",
+      "translation": "Rhine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-5",
+      "translation": "daraja",
+      "answerText": null
+    }
+  ]
+}

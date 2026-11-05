@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.645Z"
+  },
+  "title": "In der Apotheke",
+  "instructions": {
+    "pl-w-aptece-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-w-aptece-gap": "Wähle das richtige Wort.",
+    "pl-w-aptece-verbs": "Setze das richtige Verb ein.",
+    "pl-w-aptece-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-w-aptece-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-w-aptece-matching-1",
+      "translation": "das Rezept",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-1:meaning",
+      "translation": "Ein Zettel vom Arzt mit dem Namen des Medikaments, das man braucht.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-2",
+      "translation": "der Apotheker / die Apothekerin",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-2:meaning",
+      "translation": "Eine Person, die in der Apotheke arbeitet und zu Medikamenten berät.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-3",
+      "translation": "die Nebenwirkung",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-3:meaning",
+      "translation": "Eine unerwünschte Wirkung eines Medikaments.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-4",
+      "translation": "die Tablette",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-4:meaning",
+      "translation": "Ein kleines, festes Medikament, das man schluckt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-5",
+      "translation": "der Hustensaft",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-5:meaning",
+      "translation": "Ein flüssiges Medikament, wenn jemand hustet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-6",
+      "translation": "die Dosis",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-6:meaning",
+      "translation": "Wie viel Medikament man auf einmal nimmt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-gap-1",
+      "translation": "Mir tut der Kopf weh.",
+      "answerText": "Kopf"
+    },
+    {
+      "id": "pl-w-aptece-gap-2",
+      "translation": "Ist dieses Medikament rezeptpflichtig?",
+      "answerText": "rezeptpflichtig"
+    },
+    {
+      "id": "pl-w-aptece-gap-3",
+      "translation": "Nehmen Sie bitte dreimal täglich eine Tablette.",
+      "answerText": "Tablette"
+    },
+    {
+      "id": "pl-w-aptece-gap-4",
+      "translation": "Hat dieses Medikament Nebenwirkungen?",
+      "answerText": "Nebenwirkungen"
+    },
+    {
+      "id": "pl-w-aptece-gap-5",
+      "translation": "Bei Fragen wenden Sie sich bitte an den Apotheker.",
+      "answerText": "Apotheker"
+    },
+    {
+      "id": "pl-w-aptece-gap-6",
+      "translation": "Ich hätte gern einen Saft gegen Husten.",
+      "answerText": "Husten"
+    },
+    {
+      "id": "pl-w-aptece-verbs-1",
+      "translation": "Ich suche etwas gegen Kopfschmerzen.",
+      "answerText": "suche"
+    },
+    {
+      "id": "pl-w-aptece-verbs-2",
+      "translation": "Haben Sie eine Allergie?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-verbs-3",
+      "translation": "Bitte nehmen Sie dieses Medikament nach dem Essen.",
+      "answerText": "nehmen"
+    },
+    {
+      "id": "pl-w-aptece-verbs-4",
+      "translation": "Der Apotheker erklärt mir, wie man das Spray benutzt.",
+      "answerText": "erklärt"
+    },
+    {
+      "id": "pl-w-aptece-verbs-5",
+      "translation": "Wie viel kostet dieses Medikament?",
+      "answerText": "kostet"
+    },
+    {
+      "id": "pl-w-aptece-order-1",
+      "translation": "Brauche ich für dieses Medikament ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-2",
+      "translation": "Mir tut der Hals weh.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-3",
+      "translation": "Nehmen Sie bitte morgens zwei Tabletten.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-4",
+      "translation": "Was empfehlen Sie gegen Husten?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-1",
+      "translation": "Rezept",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-2",
+      "translation": "Fieber",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-3",
+      "translation": "Medikament",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-4",
+      "translation": "Apotheke",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-5",
+      "translation": "Sirup, Saft",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.350Z"
+  },
+  "title": "Im Supermarkt",
+  "instructions": {
+    "uk-u-supermarketi-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-u-supermarketi-gap": "Wählen Sie das richtige Wort.",
+    "uk-u-supermarketi-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-u-supermarketi-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-u-supermarketi-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-u-supermarketi-matching-1",
+      "translation": "der Einkaufswagen",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-1:meaning",
+      "translation": "Ein großer Korb auf Rädern für den Einkauf.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2",
+      "translation": "die Kasse",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2:meaning",
+      "translation": "Der Ort, an dem man bezahlt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3",
+      "translation": "das Regal",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3:meaning",
+      "translation": "Darauf liegen die Waren im Geschäft.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4",
+      "translation": "der Kassenbon",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4:meaning",
+      "translation": "Ein Zettel, auf dem steht, was Sie gekauft und wie viel Sie bezahlt haben.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5",
+      "translation": "der Kassierer / die Kassiererin",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5:meaning",
+      "translation": "Die Person, die an der Kasse arbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6",
+      "translation": "die Tüte",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6:meaning",
+      "translation": "Darin trägt man den Einkauf nach Hause.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-gap-1",
+      "translation": "Ich brauche eine Flasche Milch.",
+      "answerText": "Milch"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-2",
+      "translation": "Das Brot liegt im obersten Regal.",
+      "answerText": "Regal"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-3",
+      "translation": "Bitte bezahlen Sie an der Kasse.",
+      "answerText": "Kasse"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-4",
+      "translation": "Hier ist Ihr Kassenbon. Schönen Tag!",
+      "answerText": "Kassenbon"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-5",
+      "translation": "Ich lege die Äpfel in den Einkaufswagen.",
+      "answerText": "Einkaufswagen"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-6",
+      "translation": "An der Kasse arbeitet ein freundlicher Kassierer.",
+      "answerText": "Kassierer"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-1",
+      "translation": "Wie viel kosten die Äpfel?",
+      "answerText": "kosten"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-2",
+      "translation": "Ich zahle mit Karte.",
+      "answerText": "zahle"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-3",
+      "translation": "Wir kaufen Eier und Brot.",
+      "answerText": "kaufen"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-4",
+      "translation": "Entschuldigung, wo liegt der Reis?",
+      "answerText": "liegt"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-5",
+      "translation": "Das Geschäft schließt um zehn.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "uk-u-supermarketi-order-1",
+      "translation": "Wo liegt der Reis?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-2",
+      "translation": "Ich brauche eine Tüte.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-3",
+      "translation": "Kann man mit Karte zahlen?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-4",
+      "translation": "Die Milch steht in der dritten Reihe.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-1",
+      "translation": "Gemüse",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-2",
+      "translation": "Brot",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-3",
+      "translation": "Käse",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-4",
+      "translation": "Apfel",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-5",
+      "translation": "Banane",
+      "answerText": null
+    }
+  ]
+}

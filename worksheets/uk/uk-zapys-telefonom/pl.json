@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:53.880Z"
+  },
+  "title": "Wizyty przez telefon",
+  "instructions": {
+    "uk-zapys-telefonom-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-zapys-telefonom-gap": "Wybierz właściwe słowo.",
+    "uk-zapys-telefonom-verbs": "Wstaw właściwy czasownik.",
+    "uk-zapys-telefonom-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-zapys-telefonom-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-zapys-telefonom-matching-1",
+      "translation": "dzwonić",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-1:meaning",
+      "translation": "Rozmawiać z kimś przez telefon.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2",
+      "translation": "odwołać",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2:meaning",
+      "translation": "Powiedzieć, że się nie przyjdzie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3",
+      "translation": "przełożyć",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3:meaning",
+      "translation": "Zmienić termin wizyty.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4",
+      "translation": "wiadomość głosowa",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4:meaning",
+      "translation": "Wiadomość, którą zostawia się, gdy nikt nie odbiera.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5",
+      "translation": "numer wewnętrzny",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5:meaning",
+      "translation": "Krótki numer telefonu w firmie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6",
+      "translation": "wolny",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6:meaning",
+      "translation": "Niezajęty.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-1",
+      "translation": "Chcę odwołać wizytę w piątek.",
+      "answerText": "odwołać"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-2",
+      "translation": "Czy można ją przełożyć na przyszły tydzień?",
+      "answerText": "przełożyć"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-3",
+      "translation": "Czy lekarz jest wolny w poniedziałek?",
+      "answerText": "wolny"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-4",
+      "translation": "Proszę zostawić wiadomość głosową.",
+      "answerText": "wiadomość"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-5",
+      "translation": "Czy może Pan/Pani do mnie oddzwonić później?",
+      "answerText": "oddzwonić"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-6",
+      "translation": "Proszę wybrać numer wewnętrzny 245.",
+      "answerText": "wewnętrzny"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-1",
+      "translation": "Dzień dobry, dzwoni Maria Kowal.",
+      "answerText": "dzwoni"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-2",
+      "translation": "Chcę umówić się na wizytę.",
+      "answerText": "Chcę"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-3",
+      "translation": "Czy może Pan/Pani to powtórzyć?",
+      "answerText": "powtórzyć"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-4",
+      "translation": "Oddzwonię za dziesięć minut.",
+      "answerText": "Oddzwonię"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-5",
+      "translation": "Biuro zamyka się o siedemnastej.",
+      "answerText": "zamyka"
+    },
+    {
+      "id": "uk-zapys-telefonom-order-1",
+      "translation": "Czy mogę rozmawiać z doktorem Bondarenką?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-2",
+      "translation": "Chcę odwołać wizytę.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-3",
+      "translation": "Czy wtorek o dziesiątej Panu/Pani pasuje?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-4",
+      "translation": "Oddzwonię jutro.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-1",
+      "translation": "wiadomość",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-2",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-3",
+      "translation": "środa",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-4",
+      "translation": "odwołać",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-5",
+      "translation": "wolny",
+      "answerText": null
+    }
+  ]
+}

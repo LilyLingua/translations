@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "4ca9e32f-9efd-454d-920b-53f5f527ccf6",
+    "level": "A2"
+  },
+  "title": "Public Transportation",
+  "topic": "Tickets, stops, transfers and delays",
+  "tasks": [
+    {
+      "id": "en-public-transportation-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-public-transportation-matching-1",
+          "term": "the ticket",
+          "meaning": "A paper or an app that lets you travel."
+        },
+        {
+          "id": "en-public-transportation-matching-2",
+          "term": "the stop",
+          "meaning": "The place where the bus stops."
+        },
+        {
+          "id": "en-public-transportation-matching-3",
+          "term": "the platform",
+          "meaning": "The place in the station where you get on the train."
+        },
+        {
+          "id": "en-public-transportation-matching-4",
+          "term": "the delay",
+          "meaning": "When a bus or train comes later than planned."
+        },
+        {
+          "id": "en-public-transportation-matching-5",
+          "term": "the schedule",
+          "meaning": "A list with the times of buses and trains."
+        },
+        {
+          "id": "en-public-transportation-matching-6",
+          "term": "the transfer",
+          "meaning": "When you change from one bus or train to another."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-public-transportation-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-public-transportation-gap-1",
+          "promptBefore": "I need a",
+          "promptAfter": "to downtown.",
+          "correctAnswer": "ticket",
+          "options": [
+            "ticket",
+            "delay",
+            "platform"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-public-transportation-gap-2",
+          "promptBefore": "The train leaves from",
+          "promptAfter": "four.",
+          "correctAnswer": "platform",
+          "options": [
+            "platform",
+            "ticket",
+            "delay"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-public-transportation-gap-3",
+          "promptBefore": "Get off at the next",
+          "promptAfter": ".",
+          "correctAnswer": "stop",
+          "options": [
+            "stop",
+            "schedule",
+            "delay"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-public-transportation-gap-4",
+          "promptBefore": "There is a",
+          "promptAfter": "of twenty minutes.",
+          "correctAnswer": "delay",
+          "options": [
+            "delay",
+            "platform",
+            "ticket"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-public-transportation-gap-5",
+          "promptBefore": "You can find the bus",
+          "promptAfter": "online.",
+          "correctAnswer": "schedule",
+          "options": [
+            "schedule",
+            "delay",
+            "platform"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-public-transportation-gap-6",
+          "promptBefore": "You have to make a",
+          "promptAfter": "at Central Station.",
+          "correctAnswer": "transfer",
+          "options": [
+            "transfer",
+            "ticket",
+            "platform"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-public-transportation-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-public-transportation-verbs-1",
+          "promptBefore": "The bus",
+          "promptAfter": "every ten minutes.",
+          "correctAnswer": "comes",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "come"
+        },
+        {
+          "id": "en-public-transportation-verbs-2",
+          "promptBefore": "Where do I",
+          "promptAfter": "a ticket?",
+          "correctAnswer": "buy",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "buy"
+        },
+        {
+          "id": "en-public-transportation-verbs-3",
+          "promptBefore": "You",
+          "promptAfter": "to change trains here.",
+          "correctAnswer": "have",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "have"
+        },
+        {
+          "id": "en-public-transportation-verbs-4",
+          "promptBefore": "The train",
+          "promptAfter": "late today.",
+          "correctAnswer": "is",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "be"
+        },
+        {
+          "id": "en-public-transportation-verbs-5",
+          "promptBefore": "Please",
+          "promptAfter": "your ticket.",
+          "correctAnswer": "show",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "show"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-public-transportation-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-public-transportation-order-1",
+          "chunks": [
+            "Which bus",
+            "goes",
+            "to the airport"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-public-transportation-order-2",
+          "chunks": [
+            "The train",
+            "is",
+            "ten minutes",
+            "late"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-public-transportation-order-3",
+          "chunks": [
+            "Where",
+            "is",
+            "the next stop"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-public-transportation-order-4",
+          "chunks": [
+            "I",
+            "missed",
+            "my bus"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-public-transportation-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-public-transportation-spelling-1",
+          "correct": "ticket",
+          "wrong": "tiket"
+        },
+        {
+          "id": "en-public-transportation-spelling-2",
+          "correct": "station",
+          "wrong": "stasion"
+        },
+        {
+          "id": "en-public-transportation-spelling-3",
+          "correct": "schedule",
+          "wrong": "scedule"
+        },
+        {
+          "id": "en-public-transportation-spelling-4",
+          "correct": "downtown",
+          "wrong": "dowtown"
+        },
+        {
+          "id": "en-public-transportation-spelling-5",
+          "correct": "passenger",
+          "wrong": "pasenger"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:18.390Z"
+  },
+  "title": "Mönchengladbach",
+  "instructions": {
+    "stadt-moenchengladbach-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-moenchengladbach-gap": "Označi tačnu riječ.",
+    "stadt-moenchengladbach-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-moenchengladbach-table": "Upiši član i oblik množine.",
+    "stadt-moenchengladbach-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-moenchengladbach-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-moenchengladbach-matching-1",
+      "translation": "Borussia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-1:meaning",
+      "translation": "Fudbalski klub grada u crnoj, bijeloj i zelenoj boji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-2",
+      "translation": "„Fohlen“ (Ždrebad)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-2:meaning",
+      "translation": "Nadimak igrača Borussije, jer je ekipa ranije bila vrlo mlada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-3",
+      "translation": "„Gladbach“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-3:meaning",
+      "translation": "Tako mnogi skraćeno zovu Mönchengladbach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-4",
+      "translation": "grad tekstila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-4:meaning",
+      "translation": "Ranije je ovdje mnogo ljudi radilo u fabrikama tkanina i odjeće.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-5",
+      "translation": "Muzej Abteiberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-5:meaning",
+      "translation": "Muzej moderne umjetnosti u posebnoj zgradi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-6",
+      "translation": "dvorac Rheydt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-6:meaning",
+      "translation": "Stari dvorac s vodenim jarkom u četvrti Rheydt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-7",
+      "translation": "Hockeypark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-matching-7:meaning",
+      "translation": "Veliki stadion za hokej; ovdje je 2006. održano Svjetsko prvenstvo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-1",
+      "translation": "U subotu idemo u Borussia-Park.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-2",
+      "translation": "Navijači pjevaju za Ždrebad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-3",
+      "translation": "U fabrici su ljudi šili odjeću.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-4",
+      "translation": "Posjećujemo Muzej Abteiberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-5",
+      "translation": "Oko dvorca postoji vodeni jarak.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-6",
+      "translation": "Igrači trče s palicom po terenu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-gap-7",
+      "translation": "Mönchengladbach se nalazi blizu Düsseldorfa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-1",
+      "translation": "Borussia igra u Borussia-Parku.",
+      "answerText": "igra"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-2",
+      "translation": "Mnogi stanovnici Gladbacha su navijači Ždrebadi.",
+      "answerText": "su"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-3",
+      "translation": "Ranije je mnogo ljudi radilo u tekstilnim fabrikama.",
+      "answerText": "radilo"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-4",
+      "translation": "Muzej prikazuje modernu umjetnost.",
+      "answerText": "prikazuje"
+    },
+    {
+      "id": "stadt-moenchengladbach-verbs-5",
+      "translation": "Za vikend posjećujemo dvorac Rheydt.",
+      "answerText": "posjećujemo"
+    },
+    {
+      "id": "stadt-moenchengladbach-table-1",
+      "translation": "ždrijebe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-2",
+      "translation": "navijač",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-3",
+      "translation": "fabrika",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-4",
+      "translation": "tkanina",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-5",
+      "translation": "muzej",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-table-6",
+      "translation": "palica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-1",
+      "translation": "Borussia igra u Borussia-Parku.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-2",
+      "translation": "Jesi li i ti navijač Ždrebadi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-3",
+      "translation": "Ranije je ovdje bilo mnogo fabrika.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-order-4",
+      "translation": "Oko dvorca postoji vodeni jarak.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-1",
+      "translation": "fabrika",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-2",
+      "translation": "muzej",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-3",
+      "translation": "stadion",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-4",
+      "translation": "ekipa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-moenchengladbach-spelling-5",
+      "translation": "odjeća",
+      "answerText": null
+    }
+  ]
+}

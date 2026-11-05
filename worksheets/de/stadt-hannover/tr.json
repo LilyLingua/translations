@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:06.625Z"
+  },
+  "title": "Hannover",
+  "instructions": {
+    "stadt-hannover-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-hannover-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-hannover-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-hannover-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-hannover-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-hannover-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "fuar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Şirketler için büyük sergi; Hannover'in devasa bir fuar alanı var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Şehirde yelken, koşu ve kutlama için yapay göl.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "Kırmızı İp",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Yerde kırmızı bir çizgi; görülecek yerlere götürür.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "standart Almanca",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "Standart dil; Hannover'de özellikle düzgün konuşulur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "\"Lüttje Lage\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Aynı anda içilen iki bardakta bira ve sert içki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "atıcılar festivali",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Yazın uzun bir geçit töreniyle çok büyük halk festivali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "\"Nana\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Leine kıyısında Niki de Saint Phalle'ın büyük, renkli kadın heykeli.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Şehirde Kırmızı İp'i takip ediyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "Yazın birçok kişi Maschsee'nin etrafında koşar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Şirket fuarda sergi açıyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Asansörle belediye binasının kubbesine çıkıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Nana'lar Leine kıyısında duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Herrenhausen Bahçeleri'ni geziyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "O, bir Lüttje Lage deniyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "Roter Faden birçok görülecek yere götürür.",
+      "answerText": "götürür"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "Yeni Belediye Binası'nda eğik bir asansör kubbeye çıkar.",
+      "answerText": "çıkar"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Birçok şirket ürünlerini fuarda gösterir.",
+      "answerText": "gösterir"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "Hannover'deki insanlar çok düzgün bir standart Almanca konuşur.",
+      "answerText": "konuşur"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "2000 yılında Hannover'de Dünya Fuarı Expo yapıldı.",
+      "answerText": "yapıldı"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "fuar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "bahçe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "ip",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "heykel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "belediye binası",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "asansör",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "Kırmızı İp şehir merkezinden geçer.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "Yazın birçok kişi Maschsee'de yelken yapar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Asansörle kubbeye çıkıyor musun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "Hannover'de düzgün standart Almanca konuşulur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "fuar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "görülecek yer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "asansör",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "heykel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "kubbe",
+      "answerText": null
+    }
+  ]
+}

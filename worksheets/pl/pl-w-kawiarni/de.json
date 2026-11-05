@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.383Z"
+  },
+  "title": "Im Café",
+  "instructions": {
+    "pl-w-kawiarni-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-w-kawiarni-gap": "Wähle das richtige Wort.",
+    "pl-w-kawiarni-verbs": "Setze das richtige Verb ein.",
+    "pl-w-kawiarni-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-w-kawiarni-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-w-kawiarni-matching-1",
+      "translation": "die Speisekarte",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-1:meaning",
+      "translation": "Eine Liste mit Speisen und Getränken und Preisen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2",
+      "translation": "der Kellner / die Kellnerin",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2:meaning",
+      "translation": "Eine Person, die Essen und Getränke bringt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3",
+      "translation": "die Rechnung",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3:meaning",
+      "translation": "Ein Zettel, auf dem steht, wie viel man zahlen muss.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4",
+      "translation": "das Trinkgeld",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4:meaning",
+      "translation": "Zusätzliches Geld für guten Service.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5",
+      "translation": "der Kuchen",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5:meaning",
+      "translation": "Etwas Süßes zum Essen, zum Beispiel Käsekuchen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6",
+      "translation": "zum Mitnehmen",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6:meaning",
+      "translation": "Wenn man Essen oder ein Getränk mitnimmt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-gap-1",
+      "translation": "Kann ich die Speisekarte sehen?",
+      "answerText": "Speisekarte"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-2",
+      "translation": "Eine Tasse Kaffee, bitte.",
+      "answerText": "Kaffee"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-3",
+      "translation": "Wir haben schon gegessen. Die Rechnung, bitte.",
+      "answerText": "Rechnung"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-4",
+      "translation": "Zum Hieressen oder zum Mitnehmen?",
+      "answerText": "Mitnehmen"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-5",
+      "translation": "Unser Kellner ist sehr nett.",
+      "answerText": "Kellner"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-6",
+      "translation": "Wir haben ein Trinkgeld für den Kellner dagelassen.",
+      "answerText": "Trinkgeld"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-1",
+      "translation": "Ich hätte gern einen Tee mit Zitrone.",
+      "answerText": "hätte"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-2",
+      "translation": "Was empfehlen Sie?",
+      "answerText": "empfehlen"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-3",
+      "translation": "Wir möchten zahlen.",
+      "answerText": "möchten"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-4",
+      "translation": "Der Kuchen riecht wunderbar.",
+      "answerText": "riecht"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-5",
+      "translation": "Kann ich mit Karte zahlen?",
+      "answerText": "zahlen"
+    },
+    {
+      "id": "pl-w-kawiarni-order-1",
+      "translation": "Ein Glas Wasser, bitte.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-2",
+      "translation": "Ein Stück Kuchen, bitte.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-3",
+      "translation": "Was kostet ein Kaffee?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-4",
+      "translation": "Wir würden gern zahlen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-1",
+      "translation": "Kaffee",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-2",
+      "translation": "Schokolade",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-3",
+      "translation": "belegtes Brot",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-4",
+      "translation": "Frühstück",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-5",
+      "translation": "Tee",
+      "answerText": null
+    }
+  ]
+}

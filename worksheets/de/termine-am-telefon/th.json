@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.488Z"
+  },
+  "title": "นัดหมายทางโทรศัพท์",
+  "instructions": {
+    "termine-am-telefon-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "termine-am-telefon-gap": "ทำเครื่องหมายที่คำบุพบทที่ถูกต้อง",
+    "termine-am-telefon-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "termine-am-telefon-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "termine-am-telefon-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "termine-am-telefon-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "เครื่องตอบรับอัตโนมัติ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "ที่นี่คุณฝากข้อความได้",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "เบอร์ต่อตรง",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "เบอร์โทรตรงของคนในบริษัท",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "โทรกลับ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "โทรหาใครบางคนทีหลัง เพราะเขาโทรมาก่อน",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "เลื่อนนัด",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "ย้ายนัดไปวันอื่น",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "ยกเลิก",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "บอกว่าจะไม่ไปตามนัด",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "เวลาทำการ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "เวลาที่ติดต่อใครบางคนได้",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "สะกดคำ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "พูดคำทีละตัวอักษร",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "คุณว่างวันจันทร์ไหม",
+      "answerText": "วัน"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "ตอน 10 โมงได้ไหม",
+      "answerText": "ตอน"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "ฉันไม่ว่างจนกว่าจะถึงเดือนธันวาคม",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "คลินิกปิดช่วงสุดสัปดาห์",
+      "answerText": "ช่วง"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "ฉันจะโทรกลับภายในหนึ่งชั่วโมง",
+      "answerText": "ภายใน"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "ฉันรอนัดมาตั้งแต่สองสัปดาห์ก่อน",
+      "answerText": "ตั้งแต่"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "กรุณามาก่อนเวลานัดสิบนาที",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "ขอคุยกับคุณเวเบอร์ได้ไหม",
+      "answerText": "คุย"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "น่าเสียดายที่ฉันต้องยกเลิกนัด",
+      "answerText": "ยกเลิก"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "คุณช่วยโทรกลับหาฉันได้ไหม",
+      "answerText": "โทรกลับ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "ฉันให้เบอร์ของฉันกับคุณ",
+      "answerText": "ให้"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "ชื่อของคุณเขียนอย่างไร",
+      "answerText": "เขียน"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "การโทร",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "หมายเลข",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "ข้อความ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "โทรศัพท์",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "เวลา",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "โทรศัพท์มือถือ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "ฉันอยากเลื่อนนัด",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "คุณว่างเมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "พรุ่งนี้ฉันจะโทรมาอีกครั้ง",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "วันพฤหัสบดีเก้าโมงสะดวกไหม",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "ข้อความ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "โทรศัพท์",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "นัดหมาย",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "โทรกลับ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "เวลา",
+      "answerText": null
+    }
+  ]
+}

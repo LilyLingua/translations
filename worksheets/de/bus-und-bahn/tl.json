@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.337Z"
+  },
+  "title": "Sa bus at tren",
+  "instructions": {
+    "bus-und-bahn-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "bus-und-bahn-gap": "Markahan ang angkop na salita.",
+    "bus-und-bahn-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "bus-und-bahn-table": "Kumpletuhin ang artikulo at ang plural.",
+    "bus-und-bahn-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "bus-und-bahn-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Dahil dito, puwede kayong sumakay ng bus o tren.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "ticket machine",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Dito kayo bumibili ng tiket nang walang counter.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "riles (platform)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Dito humihinto ang tren sa istasyon.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "pagkaantala",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Mas huli dumating ang tren kaysa sa plano.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "lumipat ng sasakyan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Lilipat kayo mula sa isang tren papunta sa iba.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "hintuan ng bus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Dito humihinto ang bus.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Isang buwanang tiket para sa bus at tren sa lokal na transportasyon sa buong Germany.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Umaalis ang tren papuntang Köln sa platform 5.",
+      "answerText": "platform"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Sampung minuto ang delay ng tren.",
+      "answerText": "delay"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Nasaan ang pinakamalapit na hintuan?",
+      "answerText": "hintuan"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Isang tiket papuntang Berlin, please.",
+      "answerText": "tiket"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Pakipakita po ang inyong tiket.",
+      "answerText": "tiket"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Dumadaan ang subway tuwing sampung minuto.",
+      "answerText": "subway"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Sa makina kayo puwedeng bumili ng tiket.",
+      "answerText": "makina"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Saan ako kailangang lumipat?",
+      "answerText": "lumipat"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Aalis ang bus nang 8:15.",
+      "answerText": "Aalis"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Darating kami sa Hamburg nang alas-10.",
+      "answerText": "Darating"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Bumaba po kayo rito.",
+      "answerText": "Bumaba"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Gaano katagal ang biyahe?",
+      "answerText": "Gaano katagal"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "tren",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "istasyon ng tren",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "hintuan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "bus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Kailan aalis ang susunod na tren papuntang Munich?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Kailangan kong lumipat ng tren sa Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Sa kasamaang palad, delayed ang tren.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Puwede rin ba ang tiket na ito sa bus?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "pagkaantala",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "hintuan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "istasyon ng tren",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.091Z"
+  },
+  "title": "Kwenye duka la dawa",
+  "instructions": {
+    "in-der-apotheke-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "in-der-apotheke-gap": "Weka alama kwenye neno linalofaa.",
+    "in-der-apotheke-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "in-der-apotheke-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "in-der-apotheke-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "in-der-apotheke-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "cheti cha dawa (agizo la daktari)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Karatasi kutoka kwa daktari kwa ajili ya dawa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "kidonge",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Dawa ndogo inayomezwa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "dawa ya kikohozi (shira)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Dawa ya maji dhidi ya kikohozi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "marashi (mafuta ya kupaka)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Unapaka kwenye ngozi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "madhara ya pembeni",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Athari isiyotakiwa ya dawa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "karatasi ya maelekezo ya dawa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Karatasi ndani ya boksi la dawa yenye taarifa zote.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "malipo ya sehemu (mchango)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Kiasi kidogo kwa cheti cha dawa unakilipa mwenyewe.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Nina cheti cha dawa kutoka kwa daktari wangu.",
+      "answerText": "cheti cha dawa"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Una kitu chochote kwa maumivu ya koo?",
+      "answerText": "maumivu ya koo"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Meza vidonge viwili kwa siku.",
+      "answerText": "vidonge"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Marashi haya ni kwa ajili ya ngozi.",
+      "answerText": "ngozi"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Tafadhali soma karatasi ya maelekezo.",
+      "answerText": "karatasi ya maelekezo"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Dawa hii karibu haina madhara ya pembeni.",
+      "answerText": "madhara ya pembeni"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Wikendi duka la dawa moja liko zamu.",
+      "answerText": "duka la dawa"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Nina kikohozi tangu jana.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Nimeze vidonge mara ngapi?",
+      "answerText": "Nimeze"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Tutaagiza dawa kufikia kesho.",
+      "answerText": "agiza"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Paka marashi mara mbili kwa siku.",
+      "answerText": "Paka"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Tafadhali kunywa maji mengi.",
+      "answerText": "kunywa"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "duka la dawa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "dawa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "marashi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plasta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "boksi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "tone",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Una kitu chochote kwa kikohozi?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Nimeze vidonge mara ngapi?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Ninahitaji dawa ya maumivu ya kichwa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Ninahitaji cheti cha dawa kwa hii?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "duka la dawa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "dawa",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plasta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "madhara ya pembeni",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kikohozi",
+      "answerText": null
+    }
+  ]
+}

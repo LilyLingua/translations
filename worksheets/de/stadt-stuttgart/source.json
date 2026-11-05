@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "1a276dd0-560b-42fe-a440-7f33ddc8771d",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Stuttgart",
+  "topic": "Baden-Württemberg: Kessel, Kehrwoche, Spätzle, Autos",
+  "tasks": [
+    {
+      "id": "stadt-stuttgart-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-stuttgart-matching-1",
+          "term": "der Kessel",
+          "meaning": "Stuttgart liegt in einem Tal, rundherum sind Hügel."
+        },
+        {
+          "id": "stadt-stuttgart-matching-2",
+          "term": "die Kehrwoche",
+          "meaning": "In dieser Woche putzt man im Haus die Treppe und vor dem Haus den Gehweg."
+        },
+        {
+          "id": "stadt-stuttgart-matching-3",
+          "term": "die Spätzle",
+          "meaning": "Schwäbische Nudeln, oft mit Käse als Käsespätzle."
+        },
+        {
+          "id": "stadt-stuttgart-matching-4",
+          "term": "die Maultasche",
+          "meaning": "Große Teigtasche mit einer Füllung aus Fleisch und Spinat."
+        },
+        {
+          "id": "stadt-stuttgart-matching-5",
+          "term": "die Stäffele",
+          "meaning": "So nennt man in Stuttgart die vielen Treppen am Hang."
+        },
+        {
+          "id": "stadt-stuttgart-matching-6",
+          "term": "der Wasen",
+          "meaning": "Großer Platz in Bad Cannstatt; dort ist im Herbst das Volksfest."
+        },
+        {
+          "id": "stadt-stuttgart-matching-7",
+          "term": "Ade!",
+          "meaning": "Schwäbisch für „Tschüss“."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-stuttgart-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-stuttgart-gap-1",
+          "promptBefore": "Stuttgart liegt in",
+          "promptAfter": "Tal.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-2",
+          "promptBefore": "Diese Woche habe ich",
+          "promptAfter": "Kehrwoche.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-3",
+          "promptBefore": "Ich esse gern Käsespätzle mit",
+          "promptAfter": "Salat.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-4",
+          "promptBefore": "Der Fernsehturm steht auf",
+          "promptAfter": "Hügel.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-5",
+          "promptBefore": "Im Herbst gehen wir auf",
+          "promptAfter": "Wasen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-6",
+          "promptBefore": "Viele Menschen arbeiten in",
+          "promptAfter": "Autoindustrie.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-stuttgart-gap-7",
+          "promptBefore": "Im Museum sehe ich",
+          "promptAfter": "alten Mercedes.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "einem",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-stuttgart-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-stuttgart-verbs-1",
+          "promptBefore": "In Stuttgart",
+          "promptAfter": "man Autos von Mercedes-Benz und Porsche.",
+          "correctAnswer": "baut",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bauen"
+        },
+        {
+          "id": "stadt-stuttgart-verbs-2",
+          "promptBefore": "Bei der Kehrwoche",
+          "promptAfter": "ich die Treppe.",
+          "correctAnswer": "putze",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "putzen"
+        },
+        {
+          "id": "stadt-stuttgart-verbs-3",
+          "promptBefore": "Mitten in der Stadt",
+          "promptAfter": "Wein an den Hängen.",
+          "correctAnswer": "wächst",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wachsen"
+        },
+        {
+          "id": "stadt-stuttgart-verbs-4",
+          "promptBefore": "Seit 1956",
+          "promptAfter": "der Fernsehturm über der Stadt.",
+          "correctAnswer": "steht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stehen"
+        },
+        {
+          "id": "stadt-stuttgart-verbs-5",
+          "promptBefore": "Die Schwaben",
+          "promptAfter": "zum Abschied „Ade“.",
+          "correctAnswer": "sagen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-stuttgart-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-stuttgart-table-1",
+          "article": "das",
+          "singular": "Tal",
+          "plural": "Täler"
+        },
+        {
+          "id": "stadt-stuttgart-table-2",
+          "article": "der",
+          "singular": "Hügel",
+          "plural": "Hügel"
+        },
+        {
+          "id": "stadt-stuttgart-table-3",
+          "article": "die",
+          "singular": "Treppe",
+          "plural": "Treppen"
+        },
+        {
+          "id": "stadt-stuttgart-table-4",
+          "article": "die",
+          "singular": "Nudel",
+          "plural": "Nudeln"
+        },
+        {
+          "id": "stadt-stuttgart-table-5",
+          "article": "das",
+          "singular": "Auto",
+          "plural": "Autos"
+        },
+        {
+          "id": "stadt-stuttgart-table-6",
+          "article": "der",
+          "singular": "Weinberg",
+          "plural": "Weinberge"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-stuttgart-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-stuttgart-order-1",
+          "chunks": [
+            "Stuttgart",
+            "liegt",
+            "in einem Kessel"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-stuttgart-order-2",
+          "chunks": [
+            "Diese Woche",
+            "habe",
+            "ich",
+            "Kehrwoche"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-stuttgart-order-3",
+          "chunks": [
+            "Isst",
+            "du",
+            "gern",
+            "Maultaschen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-stuttgart-order-4",
+          "chunks": [
+            "Seit 1956",
+            "steht",
+            "der Fernsehturm",
+            "über der Stadt"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-stuttgart-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-stuttgart-spelling-1",
+          "correct": "Treppe",
+          "wrong": "Trepe"
+        },
+        {
+          "id": "stadt-stuttgart-spelling-2",
+          "correct": "Nudel",
+          "wrong": "Nudl"
+        },
+        {
+          "id": "stadt-stuttgart-spelling-3",
+          "correct": "Volksfest",
+          "wrong": "Folksfest"
+        },
+        {
+          "id": "stadt-stuttgart-spelling-4",
+          "correct": "Wein",
+          "wrong": "Wain"
+        },
+        {
+          "id": "stadt-stuttgart-spelling-5",
+          "correct": "Hügel",
+          "wrong": "Hügl"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

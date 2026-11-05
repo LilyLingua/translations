@@ -1,0 +1,253 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኣብ ሓኪም",
+  "instructions": {
+    "beim-arzt-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "beim-arzt-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "beim-arzt-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "beim-arzt-table": "ዓንቀጽ (der/die/das)ን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "beim-arzt-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "beim-arzt-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "ካርድ መድሕን ጥዕና",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "ነዚ ካርድ ኣብ መቐበሊ ተርእይዎ። ናይ ጥዕና መድሕንኹም የርኢ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "ቆጸራ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "ናብ ክሊኒክ እትመጽሉሉ ዝተወሰነ ሰዓት።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "ክፍሊ ምጽባይ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "ክሳዕ ዝጽውዑኹም ኣብዚ ትቕመጡ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "ረቸታ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "ብእኡ ካብ ፋርማሲ መድሃኒት ትረኽቡ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "ናይ ሕማም ወረቐት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "ምስ ትሓሙ ኣስራሒኹም እዚ ወረቐት ይረክብ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "ረስኒ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "ሙቐት ኣካላትኩም ኣዝዩ ልዑል እዩ፣ ንኣብነት 39 ዲግሪ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "ኣለርጂ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "ኣካላት ንሓደ ነገር ብብርቱዕ ይምልሰሉ፣ ንኣብነት ንፐኒሲሊን።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "ናይ ህጹጽ ረድኤት ጻውዒት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "ቁጽሪ 112 – ንሓደጋ ወይ ንህጹጽ ኩነታት።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "ሰላም፣ ቆጸራ ክሕዝ ደልየ ነይረ።",
+      "answerText": "ቆጸራ"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "ካርድ መድሕን ጥዕና ሒዝኩምዶ ኣለኹም?",
+      "answerText": "ካርድ መድሕን ጥዕና"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "በጃኹም ኣብ ክፍሊ ምጽባይ ተቐመጡ።",
+      "answerText": "ክፍሊ ምጽባይ"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "ሕማም ርእሲ ኣለኒ፣ ረስኒ እውን ኣለኒ።",
+      "answerText": "ሕማም ርእሲ"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "ከብደይ የሕመኒ ኣሎ።",
+      "answerText": "ከብደይ"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "ንፐኒሲሊን ኣለርጂ ኣለኒ።",
+      "answerText": "ፐኒሲሊን"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "ንኣስራሒየይ ናይ ሕማም ወረቐት የድልየኒ።",
+      "answerText": "ናይ ሕማም ወረቐት"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "ነቲ ከኒና ድሕሪ መግቢ ኣብ መዓልቲ ሰለስተ ግዜ ውሰድዎ።",
+      "answerText": "መግቢ"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "በጃኹም ብቐስታ ክትብልዎ ትኽእሉዶ?",
+      "answerText": "ክትብልዎ"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "ካብ ሰለስተ መዓልቲ ጀሚረ ረስኒ ኣለኒ።",
+      "answerText": "ኣለኒ"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "ርእሰይ ኣዝዩ የሕመኒ።",
+      "answerText": "የሕመኒ"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "በጃኹም ዓሚቝ ትንፋስ ስሓቡ – ደጊምኩም ድማ ኣውጽኡ።",
+      "answerText": "ስሓቡ"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "እቲ ሓኪም ረቸታ ይህበኒ።",
+      "answerText": "ይህበኒ"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "ቀልጢፍና ክንጽውዓኩም ኢና።",
+      "answerText": "ክንጽውዓኩም ኢና"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ሓኪም",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ከኒና",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "ረቸታ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "ቆጸራ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "ክሊኒክ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "መድሃኒት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "ቆጸራ ክሕዝ ደልየ ነይረ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "ካብ ሰለስተ መዓልቲ ጀሚረ ረስኒ ኣለኒ።",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "በጃኹም ክትደግምዎ ትኽእሉዶ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "ኣበይ እዩ ዘሕመኩም?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "ሕማም ርእሲ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "ናይ ሕማም ወረቐት",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "ካርድ መድሕን ጥዕና",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "ኣለርጂ ዘለዎ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ከኒና",
+      "answerText": null
+    }
+  ]
+}

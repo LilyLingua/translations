@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Ez dixwazim randevûyekê bigirim."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Erê, va ye karta min."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Hûn dikarin vê hêdîtir bibêjin, ji kerema xwe?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Serê min diêşe û taya min heye."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Zikê min diêşe."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Ji sê rojan ve."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "bêhn kişandin – bêhn berdan"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Alerjiya min li hember penîsîlînê heye."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Rapora nexweşiyê ji min re lazim e."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Rojê sê caran piştî xwarinê."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Tu nexweş î. Divê tu biçî cem bijîşk. Lê … bi almanî?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Ax na. Cara dawî li cem bijîşk min got: „Ich bin Kopfschmerzen.“ (Ez serêşî me.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Ji ber vê yekê em îro li vir in. Tu dê serdanek temam a bijîşk biceribînî – ji têlefona yekem heta reçeteyê."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Û di her rewşê de em ji te dipirsin: Tu çi dibêjî?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "Û tenê pênc çirkeyên te hene!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Tu li muayenexaneyê digerî. Yek telefonê vedike."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Muayenexaneya Dr. Yilmaz, ez Schulz im. Ez çawa dikarim alîkariya we bikim?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Ez doktor dixwazim. Niha."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Rojbaş, ez dixwazim randevûyekê bigirim."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Silav, ez nexweş im. Bi xatirê te."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (Ez dixwazim …, bi rêz) bi edeb e û her tim li cih e."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Ez dixwazim) li ser telefonê zû bêedeb xuya dike."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Rojbaş, ez dixwazim randevûyekê bigirim."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Bê guman. Îro saet di dehan de baş e?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Ez dixwazim randevûyekê bigirim."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Tu tê muayenexaneyê. Li resepsiyonê ji te dipirsin:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Karta sîgortaya we bi we re ye?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Na, ez sîgortekirî ne."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Erê, ez birçî me."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Erê, va ye karta min."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! „Versichertenkarte“ – hin kes „Gesundheitskarte“ an „Krankenkassenkarte“"
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "jî dibêjin. Her tim heman kart e. Wê bi xwe re bibe her serdana bijîşk."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Erê, va ye karta min."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Gelek spas."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Erê, va ye karta min."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "Jin pir zû diaxive. Tu her tiştî fam nakî."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Ji kerema xwe formê tije bikin û paşê li odeya bendemayînê rûnin."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Bibore, hûn dikarin vê hêdîtir bibêjin, ji kerema xwe?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Çi?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Ez cihê rûniştinê bi xwe re dibim."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Çi?) bêedeb xuya dike. Ev pirs te li her derê xilas dike: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Kurttir jî dibe: „Wie bitte?“ (Bibore, çi?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Bibore, hûn dikarin vê hêdîtir bibêjin, ji kerema xwe?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Bê guman. Ji kerema xwe vê formê tije bikin. Paşê li wir, li odeya bendemayînê bisekinin."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Hûn dikarin vê hêdîtir bibêjin, ji kerema xwe?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Tu li cem bijîşk di odeya muayeneyê de yî. Ew dipirse:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Rojbaş. Çi li we qewimiye?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Tiştek li min nîne, spas."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Serê min diêşe û taya min heye."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Ez serêşî me."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Baldar be: „Was fehlt Ihnen?“ nayê wateya „Çi kêmasiya we heye?“, lê „Pirsgirêka we çi ye?“."
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Yê ku dibêje „Mir fehlt nichts“, saxlem e – û bi rastî karê wî li cem bijîşk tune."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Serê min diêşe û taya min heye."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Ax, derbas be."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Serê min diêşe û taya min heye."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Zikê we jî diêşe? Li ku diêşe?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Zikê te diêşe. Tu çi dibêjî?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Ez di zik de diêşînim."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Zik êş e."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Li vir, zikê min diêşe."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Bi vî awayî ye: endamê laş + „tut weh“ (diêşe). Ji bo pirjimarê: „Meine Füße tun weh.“ (Lingên min diêşin.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Li vir, zikê min diêşe."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Zikê min diêşe."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Lingên min diêşin."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Ev gilî ji kengî ve li we hene?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Berî sê rojan dirêj."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Ji sê roj ve."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Ji sê rojan ve."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! Piştî „seit“ (ji … ve) Dativ tê – ji ber vê „Tagen“ bi n e. Wisa jî: „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(ji hefteyekê ve), „seit gestern“ (ji duh ve)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Ji sê rojan ve."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Ji sê rojan ve."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Ji hefteyekê ve."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Ez ê we guhdarî bikim. Ji kerema xwe beşa jorîn a laşê xwe vekin."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Tu niha çi dikî?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Tu qazax û tîşortê xwe derdixî."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Tu pantolê xwe derdixî."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Tu diçî malê – ji ber ku tu azad î."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Yanî … C, ne wisa? Ez azad im – ez diçim malê!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Na, Leo. A! „Oberkörper“ beşa jorîn a laş e. „Frei machen“ li vir tê wateya: cilên xwe derxe. Paşê tu gelek caran dibihîzî: „Tief einatmen …"
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "und ausatmen.“ (Kûr bêhn bikişînin … û berdin.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Kûr bêhn bikişînin … û berdin. Baş e."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "bêhn kişandin – bêhn berdan"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Alerjiya we li hember tiştekî heye?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Erê, alerjiya min ji bo penîsîlînê heye."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Erê, alerjiya min li hember penîsîlînê heye."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Ez ji penîsîlînê pir hez nakim."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Mirov li hember („gegen“) tiştekî alerjîk e. Û heke alerjiya te tune: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Na, alerjiya min tune.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Erê, alerjiya min li hember penîsîlînê heye."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Baş e ku we got. Wê demê hûn ê tiştekî din bistînin."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Alerjiya min li hember penîsîlînê heye."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Alerjiya min tune."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Tu sibê nikarî bixebitî. Bijîşk dipirse:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Rapora nexweşiyê ji we re lazim e?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Na, ez bi xwe dinivîsim."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Erê, ez nexweş dinivîsim."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Erê, ji kerema xwe. Ji bo kardêrê min."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! „Krankschreibung“ (rapora nexweşiyê) nîşan dide ku tu nexweş î û nikarî bixebitî."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Girîng: dîsa jî tu bi xwe agahî bide kardêrê xwe – çêtir roja yekem, sibê zû."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Erê, ji kerema xwe. Ji bo kardêrê min."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Ez heta îniyê rapora nexweşiyê ji we re dinivîsim."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Rapora nexweşiyê ji min re lazim e."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Ez ji we re reçeteyekê dinivîsim. Hebên dermanan rojê sê caran piştî xwarinê bixwin."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Baş guhdarî bike! Tu hebên dermanan kengî dixwî?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Rojê carekê, berî razanê."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Sibê, nîvro û êvarê – piştî xwarinê."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Rojê sê caran – berî xwarinê."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ tê wateya rojê sê caran. Û „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– yanî pêşî xwarin, paşê heb."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Gelek spas. Bi xatirê we!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Şifa be, zû baş bibin!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – vê yekê ji mirovên nexweş re dibêjin. Wateya wê: zû baş bibe!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Rojê sê caran piştî xwarinê."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Şifa be, zû baş bibin!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "Û heke muayenexane girtî be? Du hejmaran di bîra xwe de bigire."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: xizmeta bijîşkê nobedar – dema ku bi şev an di dawiya hefteyê de bijîşk ji te re lazim e, lê ne rewşa awarte ye."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Û 112: hejmara awarte – ji bo ambulans û agirkujiyê, wek mînak piştî qezayekê an dema ku bêhnçikîna giran heye."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "Di kursê de tu hevokên xweş fêr dibî. Lê Alman bi rastî çi dibêjin?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Qirika min diêşe."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Qirika min dixure."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Ez nexweş im."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Nexweşî li min girt."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Nexweşî bi min ket."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Min tiştek girt."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Ez pir westiyayî û lawaz im."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Ez bi tevahî bêhal im."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Pişta min diêşe."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Pişta min girtiye."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, ez pir sar im!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … tu ne mirovekî sar î. Mebesta te ev e: „Mir ist kalt.“ (Min sar dibe.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Û baldar be: „Mir ist schlecht“ nayê wateya „Rewşa min xirab e“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Wateya wê: dilê min tê hev, dibe ku vereşim."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Grîp an serma? Pozê herikî û kuxik bi gelemperî serma ye („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Grîp („Grippe“) gelek xirabtir e: taya bilind, tu di nav nivînan de dimînî."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Û niha her tişt careke din. Deh hevokên herî girîng. Dubare bike!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Ez dixwazim randevûyekê bigirim."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Va ye karta min."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Hûn dikarin vê hêdîtir bibêjin, ji kerema xwe?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Serê min diêşe û taya min heye."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Zikê min diêşe."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Ji sê rojan ve."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Alerjiya min li hember penîsîlînê heye."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Rapora nexweşiyê ji min re lazim e."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Rojê sê caran piştî xwarinê."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Şifa be, zû baş bibin!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Kîjan rewş ji bo te herî zehmet bû? Di şîroveyan de binivîse!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Cara bê em diçin dezgeha fermî. Li wir bi rastî alîkarî ji min re lazim e."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "Heta demeke nêz li LilyLingua!"
+    }
+  ]
+}

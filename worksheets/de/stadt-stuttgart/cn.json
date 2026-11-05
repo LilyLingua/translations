@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:02.475Z"
+  },
+  "title": "斯图加特",
+  "instructions": {
+    "stadt-stuttgart-matching": "把每个词和正确的解释连起来。",
+    "stadt-stuttgart-gap": "勾出正确的词。",
+    "stadt-stuttgart-verbs": "用正确形式填入正确的动词。",
+    "stadt-stuttgart-table": "填写冠词和复数形式。",
+    "stadt-stuttgart-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-stuttgart-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-stuttgart-matching-1",
+      "translation": "“Kessel”（盆地）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-1:meaning",
+      "translation": "斯图加特位于山谷中，四周是小山。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2",
+      "translation": "“Kehrwoche”（扫除周）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2:meaning",
+      "translation": "这一周你要打扫楼里的楼梯和门前的人行道。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3",
+      "translation": "施瓦本面疙瘩（Spätzle）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3:meaning",
+      "translation": "施瓦本地区的面食，常常加奶酪做成奶酪面疙瘩。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4",
+      "translation": "施瓦本大饺子（Maultasche）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4:meaning",
+      "translation": "包着肉和菠菜的大面饺。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5",
+      "translation": "“Stäffele”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5:meaning",
+      "translation": "斯图加特人对山坡上许多台阶的叫法。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6",
+      "translation": "“Wasen”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6:meaning",
+      "translation": "巴特坎施塔特的大广场，秋天在那里举办民间节日。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7",
+      "translation": "“Ade!”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7:meaning",
+      "translation": "施瓦本话的“再见！”。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-1",
+      "translation": "斯图加特位于一个山谷中。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-2",
+      "translation": "这周轮到我做Kehrwoche。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-3",
+      "translation": "我喜欢吃奶酪面疙瘩配沙拉。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-4",
+      "translation": "电视塔在一座小山上。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-5",
+      "translation": "秋天我们去Wasen。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-6",
+      "translation": "很多人在汽车工业工作。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-7",
+      "translation": "在博物馆里我看到一辆老奔驰。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-verbs-1",
+      "translation": "斯图加特生产梅赛德斯-奔驰和保时捷汽车。",
+      "answerText": "生产"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-2",
+      "translation": "扫除周的时候我打扫楼梯。",
+      "answerText": "打扫"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-3",
+      "translation": "在市中心的山坡上种着葡萄。",
+      "answerText": "种"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-4",
+      "translation": "从1956年起，电视塔就立在城市上方。",
+      "answerText": "立"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-5",
+      "translation": "施瓦本人告别时说“Ade”。",
+      "answerText": "说"
+    },
+    {
+      "id": "stadt-stuttgart-table-1",
+      "translation": "山谷",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-2",
+      "translation": "小山",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-3",
+      "translation": "楼梯",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-4",
+      "translation": "面条",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-5",
+      "translation": "汽车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-6",
+      "translation": "葡萄园",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-1",
+      "translation": "斯图加特位于一个盆地中。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-2",
+      "translation": "这周轮到我做Kehrwoche。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-3",
+      "translation": "你喜欢吃施瓦本大饺子吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-4",
+      "translation": "从1956年起，电视塔就立在城市上方。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-1",
+      "translation": "台阶",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-2",
+      "translation": "面条",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-3",
+      "translation": "民间节日",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-4",
+      "translation": "葡萄酒",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-5",
+      "translation": "小山",
+      "answerText": null
+    }
+  ]
+}

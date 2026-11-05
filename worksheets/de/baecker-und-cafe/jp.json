@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.689Z"
+  },
+  "title": "パン屋とカフェで",
+  "instructions": {
+    "baecker-und-cafe-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "baecker-und-cafe-gap": "正しい冠詞に印をつけなさい。",
+    "baecker-und-cafe-verbs": "正しい動詞を正しい形で入れなさい。",
+    "baecker-und-cafe-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "baecker-und-cafe-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "baecker-und-cafe-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "小さなパン（ブレートヒェン）",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "小さなパンで、よく朝食に食べます。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "プレッツェル",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "塩がついた焼き菓子で、南ドイツの名物です。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "ケーキ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "甘いもので、午後にコーヒーと一緒によく食べます。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "メニュー",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "すべての料理と飲み物が書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "お会計（伝票）",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "いくら払うかが書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "チップ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "店員への少しの追加のお金。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "持ち帰り",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "カフェの中では食べたり飲んだりしません。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "小さなパンを一つください。",
+      "answerText": "一つ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "コーヒーを一つお願いします。",
+      "answerText": "一つ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "プレッツェルはいくらですか？",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "ケーキを一切れください。",
+      "answerText": "一切れ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "この席は空いていますか？",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "ミルクティーを一杯飲みます。",
+      "answerText": "一杯"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "お会計をお願いします。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "何を飲みますか？",
+      "answerText": "飲みますか"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "カプチーノにします。",
+      "answerText": "します"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "全部で6.40ユーロです。",
+      "answerText": "です"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "カードで払えますか？",
+      "answerText": "払えますか"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "ケーキはとてもおいしいです。",
+      "answerText": "おいしいです"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "小さなパン",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "ケーキ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "カップ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "グラス",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "皿",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "プレッツェル",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "小さなパンを二つください。",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "ケーキはいくらですか？",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "カードで払えますか？",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "店内で召し上がりますか？",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "小さなパン",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "ケーキ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "お会計",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "コーヒー",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "チップ",
+      "answerText": null
+    }
+  ]
+}

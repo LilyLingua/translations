@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "7a1ee2c4-08f2-4360-9df1-fbe0ab518514",
+    "level": "A2"
+  },
+  "title": "У лікаря",
+  "topic": "Записатися на прийом, описати симптоми, отримати рецепт",
+  "tasks": [
+    {
+      "id": "uk-u-likaria-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-u-likaria-matching-1",
+          "term": "прийом",
+          "meaning": "Час, коли лікар приймає пацієнта."
+        },
+        {
+          "id": "uk-u-likaria-matching-2",
+          "term": "симптом",
+          "meaning": "Ознака хвороби, наприклад висока температура."
+        },
+        {
+          "id": "uk-u-likaria-matching-3",
+          "term": "температура",
+          "meaning": "Те, що вимірюють термометром."
+        },
+        {
+          "id": "uk-u-likaria-matching-4",
+          "term": "реєстратура",
+          "meaning": "Місце в поліклініці, де записують до лікаря."
+        },
+        {
+          "id": "uk-u-likaria-matching-5",
+          "term": "направлення",
+          "meaning": "Документ від лікаря до іншого лікаря або на аналізи."
+        },
+        {
+          "id": "uk-u-likaria-matching-6",
+          "term": "лікарняний",
+          "meaning": "Документ про те, що людина хвора й не може працювати."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-u-likaria-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-u-likaria-gap-1",
+          "promptBefore": "Я хочу записатися на",
+          "promptAfter": "до терапевта.",
+          "correctAnswer": "прийом",
+          "options": [
+            "прийом",
+            "симптом",
+            "рецепт"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-likaria-gap-2",
+          "promptBefore": "У мене висока",
+          "promptAfter": "з учорашнього дня.",
+          "correctAnswer": "температура",
+          "options": [
+            "температура",
+            "реєстратура",
+            "направлення"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-likaria-gap-3",
+          "promptBefore": "Запишіться, будь ласка, в",
+          "promptAfter": ".",
+          "correctAnswer": "реєстратурі",
+          "options": [
+            "реєстратурі",
+            "температурі",
+            "аптеці"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-likaria-gap-4",
+          "promptBefore": "Лікар дав мені",
+          "promptAfter": "на аналіз крові.",
+          "correctAnswer": "направлення",
+          "options": [
+            "направлення",
+            "прийом",
+            "симптом"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-likaria-gap-5",
+          "promptBefore": "Мені потрібен",
+          "promptAfter": "для роботи.",
+          "correctAnswer": "лікарняний",
+          "options": [
+            "лікарняний",
+            "симптом",
+            "прийом"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-likaria-gap-6",
+          "promptBefore": "Які у вас",
+          "promptAfter": "?",
+          "correctAnswer": "симптоми",
+          "options": [
+            "симптоми",
+            "прийоми",
+            "рецепти"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-u-likaria-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-u-likaria-verbs-1",
+          "promptBefore": "У мене",
+          "promptAfter": "горло.",
+          "correctAnswer": "болить",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "боліти"
+        },
+        {
+          "id": "uk-u-likaria-verbs-2",
+          "promptBefore": "Я погано",
+          "promptAfter": ".",
+          "correctAnswer": "сплю",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "спати"
+        },
+        {
+          "id": "uk-u-likaria-verbs-3",
+          "promptBefore": "Лікар",
+          "promptAfter": "мій тиск.",
+          "correctAnswer": "вимірює",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "вимірювати"
+        },
+        {
+          "id": "uk-u-likaria-verbs-4",
+          "promptBefore": "Вам треба",
+          "promptAfter": "вдома два дні.",
+          "correctAnswer": "залишитися",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "залишитися"
+        },
+        {
+          "id": "uk-u-likaria-verbs-5",
+          "promptBefore": "Будь ласка,",
+          "promptAfter": "глибоко.",
+          "correctAnswer": "дихайте",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "дихати"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-u-likaria-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-u-likaria-order-1",
+          "chunks": [
+            "У мене",
+            "болить",
+            "живіт"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-u-likaria-order-2",
+          "chunks": [
+            "Коли",
+            "можна",
+            "прийти",
+            "на прийом"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-likaria-order-3",
+          "chunks": [
+            "Чи потрібен",
+            "мені",
+            "рецепт"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-likaria-order-4",
+          "chunks": [
+            "Приходьте",
+            "наступного тижня"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-u-likaria-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-u-likaria-spelling-1",
+          "correct": "лікар",
+          "wrong": "лікарь"
+        },
+        {
+          "id": "uk-u-likaria-spelling-2",
+          "correct": "поліклініка",
+          "wrong": "полікліника"
+        },
+        {
+          "id": "uk-u-likaria-spelling-3",
+          "correct": "термометр",
+          "wrong": "термометер"
+        },
+        {
+          "id": "uk-u-likaria-spelling-4",
+          "correct": "аналіз",
+          "wrong": "аналіс"
+        },
+        {
+          "id": "uk-u-likaria-spelling-5",
+          "correct": "здоров'я",
+          "wrong": "здоровя"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

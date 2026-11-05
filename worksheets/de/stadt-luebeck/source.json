@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "2527408d-9bd4-4b0f-8600-fdf99071aaf1",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Lübeck",
+  "topic": "Schleswig-Holstein: Holstentor, Marzipan, Hanse, Travemünde",
+  "tasks": [
+    {
+      "id": "stadt-luebeck-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-luebeck-matching-1",
+          "term": "das Holstentor",
+          "meaning": "Altes Stadttor mit zwei runden Türmen – das Wahrzeichen von Lübeck."
+        },
+        {
+          "id": "stadt-luebeck-matching-2",
+          "term": "das Marzipan",
+          "meaning": "Süßigkeit aus Mandeln und Zucker; Lübeck ist dafür berühmt."
+        },
+        {
+          "id": "stadt-luebeck-matching-3",
+          "term": "die Königin der Hanse",
+          "meaning": "Spitzname: Im Mittelalter war Lübeck die wichtigste Stadt der Hanse."
+        },
+        {
+          "id": "stadt-luebeck-matching-4",
+          "term": "die Altstadtinsel",
+          "meaning": "Die Altstadt liegt auf einer Insel und ist Welterbe."
+        },
+        {
+          "id": "stadt-luebeck-matching-5",
+          "term": "Travemünde",
+          "meaning": "Stadtteil an der Ostsee mit Strand und großen Fähren."
+        },
+        {
+          "id": "stadt-luebeck-matching-6",
+          "term": "Thomas Mann",
+          "meaning": "Berühmter Schriftsteller aus Lübeck; er schrieb „Buddenbrooks“."
+        },
+        {
+          "id": "stadt-luebeck-matching-7",
+          "term": "die Gänge",
+          "meaning": "Schmale Wege zwischen den Häusern in der Altstadt."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-luebeck-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-luebeck-gap-1",
+          "promptBefore": "Wir gehen durch",
+          "promptAfter": "Holstentor.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-2",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Stück Marzipan.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-3",
+          "promptBefore": "Im Mittelalter war Lübeck",
+          "promptAfter": "wichtigste Stadt der Hanse.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-4",
+          "promptBefore": "In Travemünde gehen wir an",
+          "promptAfter": "Strand.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-5",
+          "promptBefore": "Die Fähre fährt über",
+          "promptAfter": "Ostsee.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-6",
+          "promptBefore": "Thomas Mann schrieb",
+          "promptAfter": "Roman über eine Familie.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-luebeck-gap-7",
+          "promptBefore": "Die Altstadt liegt auf",
+          "promptAfter": "Insel.",
+          "correctAnswer": "einer",
+          "options": [
+            "einer",
+            "eine",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-luebeck-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-luebeck-verbs-1",
+          "promptBefore": "Das Holstentor",
+          "promptAfter": "zwei runde Türme.",
+          "correctAnswer": "hat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "stadt-luebeck-verbs-2",
+          "promptBefore": "Marzipan",
+          "promptAfter": "man aus Mandeln und Zucker.",
+          "correctAnswer": "macht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-luebeck-verbs-3",
+          "promptBefore": "Die Fähren",
+          "promptAfter": "nach Schweden und Finnland.",
+          "correctAnswer": "fahren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-luebeck-verbs-4",
+          "promptBefore": "Die Altstadt",
+          "promptAfter": "auf einer Insel.",
+          "correctAnswer": "liegt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "liegen"
+        },
+        {
+          "id": "stadt-luebeck-verbs-5",
+          "promptBefore": "Thomas Mann",
+          "promptAfter": "den Roman „Buddenbrooks“.",
+          "correctAnswer": "schrieb",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schreiben"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-luebeck-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-luebeck-table-1",
+          "article": "das",
+          "singular": "Tor",
+          "plural": "Tore"
+        },
+        {
+          "id": "stadt-luebeck-table-2",
+          "article": "die",
+          "singular": "Mandel",
+          "plural": "Mandeln"
+        },
+        {
+          "id": "stadt-luebeck-table-3",
+          "article": "die",
+          "singular": "Insel",
+          "plural": "Inseln"
+        },
+        {
+          "id": "stadt-luebeck-table-4",
+          "article": "der",
+          "singular": "Strand",
+          "plural": "Strände"
+        },
+        {
+          "id": "stadt-luebeck-table-5",
+          "article": "die",
+          "singular": "Fähre",
+          "plural": "Fähren"
+        },
+        {
+          "id": "stadt-luebeck-table-6",
+          "article": "der",
+          "singular": "Roman",
+          "plural": "Romane"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-luebeck-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-luebeck-order-1",
+          "chunks": [
+            "Das Holstentor",
+            "ist",
+            "das Wahrzeichen",
+            "von Lübeck"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-luebeck-order-2",
+          "chunks": [
+            "Isst",
+            "du",
+            "gern",
+            "Marzipan"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-luebeck-order-3",
+          "chunks": [
+            "Die Altstadt",
+            "liegt",
+            "auf einer Insel"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-luebeck-order-4",
+          "chunks": [
+            "Im Sommer",
+            "fahren",
+            "wir",
+            "nach Travemünde"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-luebeck-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-luebeck-spelling-1",
+          "correct": "Marzipan",
+          "wrong": "Marzipahn"
+        },
+        {
+          "id": "stadt-luebeck-spelling-2",
+          "correct": "Insel",
+          "wrong": "Insell"
+        },
+        {
+          "id": "stadt-luebeck-spelling-3",
+          "correct": "Strand",
+          "wrong": "Strant"
+        },
+        {
+          "id": "stadt-luebeck-spelling-4",
+          "correct": "Fähre",
+          "wrong": "Färe"
+        },
+        {
+          "id": "stadt-luebeck-spelling-5",
+          "correct": "Mandel",
+          "wrong": "Mandell"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.648Z"
+  },
+  "title": "Bus und Bahn",
+  "instructions": {
+    "en-public-transportation-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-public-transportation-gap": "Wähle das richtige Wort.",
+    "en-public-transportation-verbs": "Setze das richtige Verb ein.",
+    "en-public-transportation-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-public-transportation-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-public-transportation-matching-1",
+      "translation": "die Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-1:meaning",
+      "translation": "Ein Papier oder eine App, mit der du fahren darfst.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2",
+      "translation": "die Haltestelle",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2:meaning",
+      "translation": "Der Ort, an dem der Bus hält.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3",
+      "translation": "der Bahnsteig",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3:meaning",
+      "translation": "Der Ort im Bahnhof, an dem du in den Zug steigst.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4",
+      "translation": "die Verspätung",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4:meaning",
+      "translation": "Wenn ein Bus oder Zug später kommt als geplant.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5",
+      "translation": "der Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5:meaning",
+      "translation": "Eine Liste mit den Zeiten der Busse und Züge.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6",
+      "translation": "das Umsteigen",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6:meaning",
+      "translation": "Wenn du von einem Bus oder Zug in einen anderen wechselst.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-gap-1",
+      "translation": "Ich brauche eine Fahrkarte in die Innenstadt.",
+      "answerText": "Fahrkarte"
+    },
+    {
+      "id": "en-public-transportation-gap-2",
+      "translation": "Der Zug fährt von Gleis vier ab.",
+      "answerText": "Gleis"
+    },
+    {
+      "id": "en-public-transportation-gap-3",
+      "translation": "Steigen Sie an der nächsten Haltestelle aus.",
+      "answerText": "Haltestelle"
+    },
+    {
+      "id": "en-public-transportation-gap-4",
+      "translation": "Es gibt eine Verspätung von zwanzig Minuten.",
+      "answerText": "Verspätung"
+    },
+    {
+      "id": "en-public-transportation-gap-5",
+      "translation": "Den Fahrplan für den Bus finden Sie online.",
+      "answerText": "Fahrplan"
+    },
+    {
+      "id": "en-public-transportation-gap-6",
+      "translation": "Sie müssen am Hauptbahnhof umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "en-public-transportation-verbs-1",
+      "translation": "Der Bus kommt alle zehn Minuten.",
+      "answerText": "kommt"
+    },
+    {
+      "id": "en-public-transportation-verbs-2",
+      "translation": "Wo kaufe ich eine Fahrkarte?",
+      "answerText": "kaufe"
+    },
+    {
+      "id": "en-public-transportation-verbs-3",
+      "translation": "Sie müssen hier in einen anderen Zug wechseln.",
+      "answerText": "müssen"
+    },
+    {
+      "id": "en-public-transportation-verbs-4",
+      "translation": "Der Zug hat heute Verspätung.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-verbs-5",
+      "translation": "Bitte zeigen Sie Ihre Fahrkarte.",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "en-public-transportation-order-1",
+      "translation": "Welcher Bus fährt zum Flughafen?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-2",
+      "translation": "Der Zug hat zehn Minuten Verspätung.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-3",
+      "translation": "Wo ist die nächste Haltestelle?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-4",
+      "translation": "Ich habe meinen Bus verpasst.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-1",
+      "translation": "Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-2",
+      "translation": "Bahnhof",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-3",
+      "translation": "Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-4",
+      "translation": "Innenstadt",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-5",
+      "translation": "Fahrgast",
+      "answerText": null
+    }
+  ]
+}

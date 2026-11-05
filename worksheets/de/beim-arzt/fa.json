@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.455Z"
+  },
+  "title": "نزد پزشک",
+  "instructions": {
+    "beim-arzt-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "beim-arzt-gap": "کلمه مناسب را علامت بزنید.",
+    "beim-arzt-verbs": "فعل درست را به شکل درست بنویسید.",
+    "beim-arzt-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "beim-arzt-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "beim-arzt-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "کارت بیمه درمانی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "این کارت را در پذیرش نشان می‌دهید. نام بیمه درمانی شما روی آن است.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "وقت ملاقات",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "ساعت مشخصی که به مطب می‌آیید.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "اتاق انتظار",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "اینجا می‌نشینید تا شما را صدا کنند.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "با آن از داروخانه دارو می‌گیرید.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "گواهی استعلاجی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "وقتی بیمار هستید، کارفرمایتان این برگه را می‌گیرد.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "تب",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "دمای بدن خیلی بالاست، مثلاً ۳۹ درجه.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "حساسیت (آلرژی)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "بدن به چیزی واکنش شدید نشان می‌دهد، مثلاً به پنی‌سیلین.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "تماس اضطراری",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "شماره ۱۱۲ – هنگام حادثه یا در موقعیت اضطراری.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "سلام، می‌خواهم یک وقت بگیرم.",
+      "answerText": "وقت"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "کارت بیمه درمانی خود را همراه دارید؟",
+      "answerText": "کارت بیمه درمانی"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "لطفاً در اتاق انتظار بنشینید.",
+      "answerText": "اتاق انتظار"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "سردرد و تب دارم.",
+      "answerText": "سردرد"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "شکمم درد می‌کند.",
+      "answerText": "شکمم"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "به پنی‌سیلین حساسیت دارم.",
+      "answerText": "پنی‌سیلین"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "برای کارفرمایم یک گواهی استعلاجی لازم دارم.",
+      "answerText": "گواهی استعلاجی"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "قرص‌ها را روزی سه بار بعد از غذا بخورید.",
+      "answerText": "غذا"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "می‌توانید لطفاً آهسته‌تر بگویید؟",
+      "answerText": "بگویید"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "سه روز است که تب دارم.",
+      "answerText": "دارم"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "سرم خیلی درد می‌کند.",
+      "answerText": "درد می‌کند"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "لطفاً عمیق نفس بکشید – و دوباره بیرون بدهید.",
+      "answerText": "نفس بکشید"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "پزشک به من یک نسخه می‌دهد.",
+      "answerText": "می‌دهد"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "به‌زودی شما را صدا می‌کنیم.",
+      "answerText": "صدا می‌کنیم"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "پزشک",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "قرص",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "وقت ملاقات",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "مطب",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "دارو",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "می‌خواهم یک وقت بگیرم.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "سه روز است که تب دارم.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "می‌توانید لطفاً تکرار کنید؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "کجایتان درد می‌کند؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "سردرد",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "گواهی استعلاجی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "کارت بیمه درمانی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "حساسیت‌دار",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "قرص",
+      "answerText": null
+    }
+  ]
+}

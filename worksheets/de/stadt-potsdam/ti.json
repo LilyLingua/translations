@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:20.888Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "stadt-potsdam-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "stadt-potsdam-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "stadt-potsdam-table": "ዓንቀጽን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "stadt-potsdam-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "stadt-potsdam-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "ቤተ መንግስቲ Friedrich ዓቢይ፤ እቲ ስም ብፈረንሳይኛ \"ብዘይ ጭንቀት\" ማለት እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "\"Alter Fritz\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "ሳጓ ናይቲ ፕሩስያዊ ንጉስ Friedrich II።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "ድንሽ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "\"Alter Fritz\" ኣብ Preußen ፍሉጥ ገይርዎ፤ ሰባት ኣብ መቓብሩ ድንሽ የቐምጡ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "Holländisches Viertel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "ብቅዲ ሆላንድ ዝተሰርሑ ቀይሕ ሕጡብ ገዛውቲ ዘለዉዎ ከባቢ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "ኣብዚ ዓበይቲ ስቱድዮታት ፊልም ኣለዉ፤ ብዙሓት ፊልምታት ኣብዚ ይስርሑ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "Glienicker Brücke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "ናብ Berlin ዝወስድ ድልድል፤ ኣብ እዋን ዝሑል ውግእ ኣብዚ ሰለይቲ ይለዋወጡ ነይሮም።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "ኣብ ከባቢ Potsdam ብዙሓት ቀላያት ዘለዉዎ ሩባ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "ነቲ ቤተ መንግስቲ Sanssouci ንበጽሖ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "ኣብ መቓብር \"Alter Fritz\" ድንሽ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "ብHolländisches Viertel ንዛወር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "ኣብ Babelsberg ሓድሽ ፊልም ይስእሉ ኣለዉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "ብጃልባ ኣብ Havel ንጓዓዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Potsdam ኣብ ጥቓ እታ ርእሰ ከተማ Berlin እያ ትርከብ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "Glienicker Brücke ንHavel ይሰግር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "Friedrich ዓቢይ ኣብ Sanssouci ምንባር ይፈቱ ነይሩ።",
+      "answerText": "ምንባር"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "በጻሕቲ ኣብ መቓብሩ ድንሽ የቐምጡ።",
+      "answerText": "የቐምጡ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "ኣብ Babelsberg ብዙሓት ፊልምታት ይስኣሉ እዮም።",
+      "answerText": "ይስኣሉ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "ብS-Bahn ቀልጢፍካ ናብ Berlin ትበጽሕ።",
+      "answerText": "ትበጽሕ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "ብ1945 ጉባኤ Potsdam ኣብ ቤተ መንግስቲ Cecilienhof ተኻይዱ።",
+      "answerText": "ተኻይዱ"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "ቤተ መንግስቲ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "ንጉስ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "ድንሽ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "ስቱድዮ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "ፊልም",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "መቓብር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "\"Alter Fritz\" ኣብ Sanssouci ይነብር ነይሩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "ኣብ መቓብሩ ኩሉ ግዜ ድንሽ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "ናብ Filmpark Babelsberg ከይድኩም ትፈልጡ ዶ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Potsdam ኣብ ጥቓ Berlin እያ ትርከብ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "ንጉስ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "ድንሽ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "ቤተ መንግስቲ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "ፊልም",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "ጀርዲን",
+      "answerText": null
+    }
+  ]
+}

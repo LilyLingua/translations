@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "58a1d387-7290-4c9c-8082-8f594a220325",
+    "level": "A2"
+  },
+  "title": "В аптеці",
+  "topic": "Купувати ліки та ставити запитання",
+  "tasks": [
+    {
+      "id": "uk-v-aptetsi-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-v-aptetsi-matching-1",
+          "term": "рецепт",
+          "meaning": "Папір від лікаря, на якому написано, які ліки потрібні."
+        },
+        {
+          "id": "uk-v-aptetsi-matching-2",
+          "term": "фармацевт",
+          "meaning": "Людина, яка працює в аптеці й радить ліки."
+        },
+        {
+          "id": "uk-v-aptetsi-matching-3",
+          "term": "побічна дія",
+          "meaning": "Небажаний наслідок від ліків."
+        },
+        {
+          "id": "uk-v-aptetsi-matching-4",
+          "term": "таблетка",
+          "meaning": "Маленькі тверді ліки, які ковтають."
+        },
+        {
+          "id": "uk-v-aptetsi-matching-5",
+          "term": "сироп від кашлю",
+          "meaning": "Рідкі ліки, коли людина кашляє."
+        },
+        {
+          "id": "uk-v-aptetsi-matching-6",
+          "term": "доза",
+          "meaning": "Скільки ліків треба прийняти за один раз."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-v-aptetsi-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-v-aptetsi-gap-1",
+          "promptBefore": "У мене болить",
+          "promptAfter": ".",
+          "correctAnswer": "голова",
+          "options": [
+            "голова",
+            "рецепт",
+            "доза"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-v-aptetsi-gap-2",
+          "promptBefore": "Ці ліки продаються тільки за",
+          "promptAfter": "?",
+          "correctAnswer": "рецептом",
+          "options": [
+            "рецептом",
+            "таблеткою",
+            "аптекою"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-v-aptetsi-gap-3",
+          "promptBefore": "Приймайте одну",
+          "promptAfter": "тричі на день.",
+          "correctAnswer": "таблетку",
+          "options": [
+            "таблетку",
+            "аптеку",
+            "кашель"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-v-aptetsi-gap-4",
+          "promptBefore": "Чи є в цих ліків побічні",
+          "promptAfter": "?",
+          "correctAnswer": "дії",
+          "options": [
+            "дії",
+            "рецепти",
+            "аптеки"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-v-aptetsi-gap-5",
+          "promptBefore": "Якщо маєте запитання, зверніться до",
+          "promptAfter": ".",
+          "correctAnswer": "фармацевта",
+          "options": [
+            "фармацевта",
+            "таблетки",
+            "сиропу"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-v-aptetsi-gap-6",
+          "promptBefore": "Дайте, будь ласка, сироп від",
+          "promptAfter": ".",
+          "correctAnswer": "кашлю",
+          "options": [
+            "кашлю",
+            "голови",
+            "аптеки"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-v-aptetsi-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-v-aptetsi-verbs-1",
+          "promptBefore": "Я",
+          "promptAfter": "щось від головного болю.",
+          "correctAnswer": "шукаю",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "шукати"
+        },
+        {
+          "id": "uk-v-aptetsi-verbs-2",
+          "promptBefore": "Чи",
+          "promptAfter": "у вас алергія?",
+          "correctAnswer": "є",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "бути"
+        },
+        {
+          "id": "uk-v-aptetsi-verbs-3",
+          "promptBefore": "Будь ласка,",
+          "promptAfter": "ці ліки після їди.",
+          "correctAnswer": "приймайте",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "приймати"
+        },
+        {
+          "id": "uk-v-aptetsi-verbs-4",
+          "promptBefore": "Фармацевт",
+          "promptAfter": "мені, як користуватися спреєм.",
+          "correctAnswer": "пояснює",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "пояснювати"
+        },
+        {
+          "id": "uk-v-aptetsi-verbs-5",
+          "promptBefore": "Скільки",
+          "promptAfter": "ці ліки?",
+          "correctAnswer": "коштують",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "коштувати"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-v-aptetsi-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-v-aptetsi-order-1",
+          "chunks": [
+            "Чи потрібен",
+            "рецепт",
+            "для цих ліків"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-v-aptetsi-order-2",
+          "chunks": [
+            "У мене",
+            "болить",
+            "горло"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-v-aptetsi-order-3",
+          "chunks": [
+            "Приймайте",
+            "дві таблетки",
+            "вранці"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-v-aptetsi-order-4",
+          "chunks": [
+            "Що ви",
+            "порадите",
+            "від кашлю"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-v-aptetsi-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-v-aptetsi-spelling-1",
+          "correct": "рецепт",
+          "wrong": "рицепт"
+        },
+        {
+          "id": "uk-v-aptetsi-spelling-2",
+          "correct": "аптека",
+          "wrong": "аптєка"
+        },
+        {
+          "id": "uk-v-aptetsi-spelling-3",
+          "correct": "таблетка",
+          "wrong": "таблєтка"
+        },
+        {
+          "id": "uk-v-aptetsi-spelling-4",
+          "correct": "температура",
+          "wrong": "тимпература"
+        },
+        {
+          "id": "uk-v-aptetsi-spelling-5",
+          "correct": "кашель",
+          "wrong": "кашиль"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

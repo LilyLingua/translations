@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:22.778Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኮሎኝ (Köln)",
+  "instructions": {
+    "stadt-koeln-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "stadt-koeln-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "stadt-koeln-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "stadt-koeln-table": "ዓንቀጽን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "stadt-koeln-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "stadt-koeln-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "„Kölle Alaaf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "ኣብ ካርኒቫል ኮሎኝ ዝእወጅ ጭድረት – ብግምት „ንዘልኣለም ትንበር ኮሎኝ!“ ማለት እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "ካቴድራል (Dom)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "ኣብ ጥቓ ማእከላይ መደበር ባቡር ዘላ ክልተ ግምቢታት ዘለዋ ዓባይ ቤተ ክርስትያን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "„Kölsch“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "ካብ ኮሎኝ ዝመጽእ ፈኲስ ቢራ፤ ብንኣሽቱን ጸባባትን ብርጭቆታት ይስተ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "„Köbes“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "ኣብ ባር ፋብሪካ ቢራ ዘሎ ኣሳላፊ፤ ኣብ ልዕሊ ብርጭቆ ናይ ቢራ መንበሪ ክሳብ ዘይተቐመጠ ሓድሽ Kölsch የምጽእ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "„Halve Hahn“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "ናይ ጀሶ (Roggen) ባኒ ምስ ፎርማጆ – ፍርቂ ደርሆ ኣይኮነን!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "„Veedel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "ብKölsch ቋንቋ ንጎረቤት ከባቢ (ሰፈር) ዝብል ቃል፤ ነፍሲ ወከፍ ሰብ ኮሎኝ ንVeedel ኡ የፍቅሮ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Rosenmontag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "ጫፍ ካርኒቫል፣ ብማእከል ከተማ ዝሓልፍ ዓቢ ሰልፊ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "ንሱ ኣብ ባር ፋብሪካ ቢራ ሓደ Kölsch ይሰቲ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "እቲ Köbes ነቲ ዝቕጽል Kölsch የምጽኦ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "ብRosenmontag ነቲ ብከተማ ዝሓልፍ ሰልፊ ንርኢ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "ብዙሓት በጻሕቲ ንካቴድራል ኮሎኝ ይበጽሑ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "ሓደ Halve Hahn እእዝዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "ብዙሓት ሰባት ብልዕሊ Hohenzollernbrücke ብእግሮም ይሓልፉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "ኣብ ካርኒቫል ሰባት ናይ ምስሓቕ ክዳን ይኽደኑ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "ኣብ ካርኒቫል ሰባት „Kölle Alaaf!“ ኢሎም ይጭድሩ።",
+      "answerText": "ይጭድሩ"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "እቲ Köbes ከይተሓተተ ሓድሽ Kölsch የምጽእ።",
+      "answerText": "የምጽእ"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "እቲ ካቴድራል ልዕሊ 150 ሜትሮ ቁመት ኣለዎ።",
+      "answerText": "ኣለዎ"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "ሩባ Rhein ብማእከል ኮሎኝ ይውሕዝ።",
+      "answerText": "ይውሕዝ"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "ብ11 ሕዳር ሰዓት 11:11 ካርኒቫል ይጅምር።",
+      "answerText": "ይጅምር"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "ካቴድራል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "ድልድል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "ሰልፊ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "ናይ ምስሓቕ ክዳን (Kostüm)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "ባር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "ካቴድራል ኮሎኝ ኣብ ጥቓ መደበር ባቡር ደው ኢሉ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "ብRosenmontag ብምሉኣ ኮሎኝ ካርኒቫል ተብዕል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "ካልእ Kölsch ትደሊ ዶ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "ኣብ ኮሎኝ ሰባት Kölsch ብንኣሽቱ ብርጭቆታት ይሰትዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "ካርኒቫል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "ናይ ምስሓቕ ክዳን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "መደበር ባቡር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "ባር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    }
+  ]
+}

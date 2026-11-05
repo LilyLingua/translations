@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.923Z"
+  },
+  "title": "Ở cơ quan hành chính",
+  "instructions": {
+    "auf-dem-amt-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "auf-dem-amt-gap": "Đánh dấu từ phù hợp.",
+    "auf-dem-amt-verbs": "Điền động từ đúng ở dạng đúng.",
+    "auf-dem-amt-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "auf-dem-amt-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "auf-dem-amt-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "đăng ký cư trú",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Bạn báo địa chỉ mới cho cơ quan hành chính.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "số thứ tự",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Bạn lấy số này ở máy.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "hộ chiếu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Giấy tờ tùy thân dùng để đi nước ngoài.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "giấy xác nhận của chủ nhà",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Bạn cần giấy này của chủ nhà để đăng ký cư trú.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "giấy xác nhận cư trú",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Giấy này cho thấy bạn hiện sống ở địa chỉ này.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "tình trạng hôn nhân",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "độc thân, đã kết hôn, đã ly hôn hoặc góa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "chữ ký",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Tên của bạn viết bằng tay.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "mẫu đơn",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Một tờ giấy có các ô để điền.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Tôi muốn đăng ký căn hộ mới của tôi.",
+      "answerText": "căn hộ"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Vui lòng lấy một số ở máy.",
+      "answerText": "số"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Số 147, mời đến quầy số 12.",
+      "answerText": "quầy"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Đây là giấy xác nhận của chủ nhà tôi.",
+      "answerText": "chủ nhà"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Anh/chị có mang theo chứng minh thư không?",
+      "answerText": "chứng minh thư"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Vui lòng điền đầy đủ mẫu đơn.",
+      "answerText": "mẫu đơn"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Bạn sẽ thường xuyên cần lại giấy xác nhận cư trú, ví dụ để mở tài khoản ngân hàng.",
+      "answerText": "giấy xác nhận cư trú"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Hôm nay tôi đăng ký cư trú.",
+      "answerText": "đăng ký"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Tôi phải ký ở đâu?",
+      "answerText": "ký"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Tôi đánh vần tên mình: N – O – W – A – K.",
+      "answerText": "đánh vần"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Mời anh/chị ngồi.",
+      "answerText": "ngồi"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Việc xử lý mất khoảng hai tuần.",
+      "answerText": "mất"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "cơ quan",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "chứng minh thư",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "căn hộ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "mẫu đơn",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "chủ nhà",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "địa chỉ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Tôi muốn đăng ký cư trú.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Tôi phải ký ở đâu?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Đây là hộ chiếu của tôi.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Tôi có cần gì thêm không?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "giấy xác nhận cư trú",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "hộ chiếu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "độc thân",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "chủ nhà",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "địa chỉ",
+      "answerText": null
+    }
+  ]
+}

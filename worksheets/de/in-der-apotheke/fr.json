@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.572Z"
+  },
+  "title": "À la pharmacie",
+  "instructions": {
+    "in-der-apotheke-matching": "Reliez chaque mot à l'explication qui convient.",
+    "in-der-apotheke-gap": "Cochez le mot qui convient.",
+    "in-der-apotheke-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "in-der-apotheke-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "in-der-apotheke-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "in-der-apotheke-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "l'ordonnance",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Le papier du médecin pour un médicament.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "le comprimé",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Un petit médicament qu'on avale.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "le sirop contre la toux",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Un médicament liquide contre la toux.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "la pommade",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "On l'applique sur la peau.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "l'effet secondaire",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Un effet indésirable d'un médicament.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "la notice",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Le papier dans la boîte du médicament avec toutes les informations.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "la participation (le reste à charge)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Vous payez vous-même une petite somme pour une ordonnance.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "J'ai une ordonnance de mon médecin.",
+      "answerText": "ordonnance"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Avez-vous quelque chose contre le mal de gorge ?",
+      "answerText": "mal de gorge"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Prenez deux comprimés par jour.",
+      "answerText": "comprimés"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "La pommade est pour la peau.",
+      "answerText": "peau"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Veuillez lire la notice.",
+      "answerText": "notice"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Le médicament n'a presque pas d'effets secondaires.",
+      "answerText": "effets secondaires"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Le week-end, une pharmacie est de garde.",
+      "answerText": "pharmacie"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "J'ai de la toux depuis hier.",
+      "answerText": "ai"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Combien de fois dois-je prendre les comprimés ?",
+      "answerText": "prendre"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Nous commandons le médicament pour demain.",
+      "answerText": "commandons"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Appliquez la pommade deux fois par jour.",
+      "answerText": "Appliquez"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Veuillez boire beaucoup d'eau.",
+      "answerText": "boire"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "la pharmacie",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "le médicament",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "la pommade",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "le pansement",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "la boîte",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "la goutte",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Avez-vous quelque chose contre la toux ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Combien de fois dois-je prendre les comprimés ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "J'ai besoin d'un médicament contre le mal de tête.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Ai-je besoin d'une ordonnance pour cela ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "pharmacie",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "médicament",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "pansement",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "effet secondaire",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "toux",
+      "answerText": null
+    }
+  ]
+}

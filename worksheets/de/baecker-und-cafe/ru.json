@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.587Z"
+  },
+  "title": "В пекарне и в кафе",
+  "instructions": {
+    "baecker-und-cafe-matching": "Соедините каждое слово с подходящим объяснением.",
+    "baecker-und-cafe-gap": "Отметьте правильный артикль.",
+    "baecker-und-cafe-verbs": "Вставьте правильный глагол в правильной форме.",
+    "baecker-und-cafe-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "baecker-und-cafe-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "baecker-und-cafe-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Маленький хлеб, часто на завтрак.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "крендель (брецель)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Выпечка с солью, типичная для Южной Германии.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "пирог",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Что-то сладкое, часто к кофе днём.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Здесь указаны все блюда и напитки.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Здесь написано, сколько вам нужно заплатить.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "чаевые",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Немного дополнительных денег для официанта.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "с собой",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Вы едите или пьёте это не в кафе.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Мне, пожалуйста, одну булочку.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Я возьму кофе.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Сколько стоит крендель?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Я хотел бы кусок пирога.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Этот столик свободен?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Я пью чай с молоком.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Принесите мне, пожалуйста, счёт.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Что вы хотите выпить?",
+      "answerText": "хотите"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Я возьму капучино.",
+      "answerText": "возьму"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Всего получается 6,40 евро.",
+      "answerText": "получается"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Можно заплатить картой?",
+      "answerText": "заплатить"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Пирог очень вкусный.",
+      "answerText": "вкусный"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "пирог",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "чашка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "стакан",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "тарелка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "крендель",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Мне, пожалуйста, две булочки.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Сколько стоит пирог?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Можно заплатить картой?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Вы будете есть здесь?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "пирог",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "кофе",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "чаевые",
+      "answerText": null
+    }
+  ]
+}

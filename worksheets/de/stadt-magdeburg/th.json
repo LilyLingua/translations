@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:58.031Z"
+  },
+  "title": "มัคเดบวร์ค",
+  "instructions": {
+    "stadt-magdeburg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-magdeburg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-magdeburg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-magdeburg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-magdeburg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-magdeburg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "\"เมืองของอ็อทโท\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "ชื่อเล่นของมัคเดบวร์ค – ตามจักรพรรดิอ็อทโทมหาราชและอ็อทโท ฟอน เกริเคอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "มหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "โบสถ์แบบโกธิกขนาดใหญ่ จักรพรรดิอ็อทโทมหาราชถูกฝังที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "ป้อมสีเขียว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "อาคารหลากสีที่มีต้นไม้บนหลังคา ผลงานชิ้นสุดท้ายของฮุนแดร์ทวัสเซอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "ครึ่งทรงกลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "เกริเคอใช้ครึ่งทรงกลมสองอันแสดงว่าสุญญากาศแรงแค่ไหน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "จุดตัดทางน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "ที่นี่เรือข้ามแม่น้ำเอลเบอบนสะพานคลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "สุญญากาศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "พื้นที่ที่ไม่มีอากาศเลย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "จักรพรรดิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "ผู้ปกครองที่มีอำนาจมากกว่ากษัตริย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "พวกเราเยี่ยมชมมหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "ป้อมสีเขียวมีต้นไม้บนหลังคา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "เรือลำหนึ่งแล่นบนสะพานเหนือแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "ม้าหลายตัวก็ดึงครึ่งทรงกลมให้แยกกันไม่ได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "มัคเดบวร์คตั้งอยู่ริมแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "เกริเคอทำการทดลองกับสุญญากาศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "พวกเราถ่ายรูปอาคารหลากสี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "ฮุนแดร์ทวัสเซอร์ออกแบบป้อมสีเขียว",
+      "answerText": "ออกแบบ"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "อ็อทโท ฟอน เกริเคอทำการทดลองกับอากาศ",
+      "answerText": "ทำ"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "ม้าดึงครึ่งทรงกลม",
+      "answerText": "ดึง"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "บนสะพานคลอง เรือแล่นข้ามแม่น้ำเอลเบอ",
+      "answerText": "แล่น"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "จักรพรรดิอ็อทโทถูกฝังอยู่ในมหาวิหาร",
+      "answerText": "ถูกฝัง"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "จักรพรรดิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "ม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "หลังคา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "ทรงกลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "คลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "การทดลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "มัคเดบวร์คตั้งอยู่ริมแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "ต้นไม้งอกบนหลังคา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "คุณรู้จักการทดลองครึ่งทรงกลมไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "เรือแล่นบนสะพานเหนือแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "จักรพรรดิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "ม้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "การทดลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "ทรงกลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "นายกเทศมนตรี",
+      "answerText": null
+    }
+  ]
+}

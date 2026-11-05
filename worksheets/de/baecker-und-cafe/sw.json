@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.037Z"
+  },
+  "title": "Kwenye duka la mikate na mgahawa",
+  "instructions": {
+    "baecker-und-cafe-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "baecker-und-cafe-gap": "Weka alama kwenye kibainishi sahihi.",
+    "baecker-und-cafe-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "baecker-und-cafe-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "baecker-und-cafe-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "baecker-und-cafe-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "mkate mdogo (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Mkate mdogo, mara nyingi kwa kifungua kinywa.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "pretzel (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Mkate wenye chumvi, maarufu kusini mwa Ujerumani.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "keki",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Kitu kitamu, mara nyingi pamoja na kahawa mchana.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "menyu",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Hapa kuna vyakula na vinywaji vyote.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "bili",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Hapa imeandikwa unapaswa kulipa kiasi gani.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "bakshishi",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Pesa kidogo za ziada kwa mhudumu.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "kuchukua (take away)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Huli wala hunywi ndani ya mgahawa.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Ningependa mkate mdogo mmoja.",
+      "answerText": "mmoja"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Nitachukua kahawa moja.",
+      "answerText": "moja"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Pretzel ni bei gani?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Ningependa kipande kimoja cha keki.",
+      "answerText": "kimoja"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Meza hii iko wazi?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Ninakunywa chai moja yenye maziwa.",
+      "answerText": "moja"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Niletee bili, tafadhali.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Ungependa kunywa nini?",
+      "answerText": "kunywa"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Nitachukua cappuccino.",
+      "answerText": "chukua"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Jumla ni euro 6.40.",
+      "answerText": "ni"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Naweza kulipa kwa kadi?",
+      "answerText": "kulipa"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Keki ni tamu sana.",
+      "answerText": "ni tamu"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "mkate mdogo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "keki",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "kikombe",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "glasi",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "sahani",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Ningependa mikate midogo miwili.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Keki ni bei gani?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Naweza kulipa kwa kadi?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Ungependa kula hapa?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "mkate mdogo",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "keki",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "bili",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "kahawa",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "bakshishi",
+      "answerText": null
+    }
+  ]
+}

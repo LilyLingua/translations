@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:09.365Z"
+  },
+  "title": "ミュンヘン",
+  "instructions": {
+    "stadt-muenchen-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-muenchen-gap": "正しい単語に印をつけましょう。",
+    "stadt-muenchen-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-muenchen-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-muenchen-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-muenchen-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "「ヴィーズン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "テレージエンヴィーゼで開かれるオクトーバーフェストのミュンヘンでの呼び名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "「セルヴス！」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "「こんにちは」にも「さようなら」にも使うバイエルンのあいさつ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "「マース」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "ビールが1リットル入る大きなジョッキ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "白ソーセージ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "伝統的に正午前に食べる白いソーセージ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "「ブレーツン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "バイエルンでのプレッツェルの呼び名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "ビアガーデン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "木の下で外に座って、食べたり飲んだりする所。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "フェーン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "アルプスから吹く暖かい風。そのときは山がとてもはっきり見える。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "仕掛け時計はマリエン広場の市庁舎にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "夏には若者がアイスバッハでサーフィンをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "週末、私たちはビアガーデンに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "彼はマースとブレーツンを注文します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "イーザル川が街を流れています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "私たちはイギリス庭園に行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "フェーンが吹くと、街からアルプスが見えます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "白ソーセージは12時前に食べます。",
+      "answerText": "食べ"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "11時に市庁舎の仕掛け時計が鳴ります。",
+      "answerText": "鳴り"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "ヴィーズンは9月の終わりに始まります。",
+      "answerText": "始まり"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "アイスバッハでは若者が波の上でサーフィンをします。",
+      "answerText": "サーフィンをし"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "別れるとき、ミュンヘンの人は「セルヴス」と言います。",
+      "answerText": "言い"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "祭り",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "ソーセージ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "庭",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "ジョッキ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "プレッツェル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "山",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "ヴィーズンは9月の終わりに始まります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "白ソーセージは12時前に食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "今晩ビアガーデンに行きませんか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "フェーンが吹くと、アルプスがとてもはっきり見えます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "ビアガーデン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "仕掛け時計",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "市庁舎",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "10月",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "山々",
+      "answerText": null
+    }
+  ]
+}

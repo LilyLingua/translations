@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.466Z"
+  },
+  "title": "En la farmacia",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "Relaciona cada palabra con su significado.",
+    "en-at-the-pharmacy-gap": "Elige la palabra correcta.",
+    "en-at-the-pharmacy-verbs": "Escribe el verbo correcto.",
+    "en-at-the-pharmacy-order": "Ordena las palabras y escribe la oración.",
+    "en-at-the-pharmacy-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "la receta",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "Una nota del médico para la medicina que necesitas.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "el farmacéutico / la farmacéutica",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "La persona que vende medicinas y da consejos.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "el efecto secundario",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "Un efecto no deseado de una medicina.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "la pastilla",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "Una medicina pequeña y dura que te tragas.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "el jarabe para la tos",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "Medicina líquida para la tos.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "la dosis",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "Cuánta medicina tomas de una vez.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "Tengo gripa y me duele la garganta.",
+      "answerText": "gripa"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "¿Necesito receta para esta medicina?",
+      "answerText": "receta"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "Tome una pastilla tres veces al día.",
+      "answerText": "pastilla"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "¿Tiene efectos secundarios?",
+      "answerText": "efectos secundarios"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "Si tiene preguntas, pregúntele al farmacéutico.",
+      "answerText": "farmacéutico"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "¿Me da un ticket, por favor?",
+      "answerText": "ticket"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "Necesito algo para el dolor de cabeza.",
+      "answerText": "Necesito"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "¿Tiene alguna alergia?",
+      "answerText": "Tiene"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "Por favor, tome esta medicina después de comer.",
+      "answerText": "tome"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "El farmacéutico me enseña cómo usar el spray.",
+      "answerText": "enseña"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "¿Cuánto cuesta?",
+      "answerText": "cuesta"
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "¿Necesito receta para esto?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "Me duele la cabeza.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "Tome dos pastillas en la mañana.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "¿Me puede recomendar algo para la tos?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "receta",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "medicina",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "alergia",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "dolor de cabeza",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.129Z"
+  },
+  "title": "幼儿园和学校",
+  "instructions": {
+    "kita-und-schule-matching": "把每个单词和合适的解释连起来。",
+    "kita-und-schule-gap": "勾出合适的单词。",
+    "kita-und-schule-verbs": "用正确形式填入正确的动词。",
+    "kita-und-schule-table": "填写冠词（der/die/das）和复数形式。",
+    "kita-und-schule-order": "把单词按正确顺序排列并写出句子。",
+    "kita-und-schule-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "家长会",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "家长和老师的会面。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "幼儿园（托儿所）",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "白天在这里照顾小孩子。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "班主任（女）",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "她负责一个班级。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "成绩单",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "上面有学年结束时的成绩。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "请假条",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "孩子生病时写给学校的短信。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "假期",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "不上学的时间，例如夏天。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "郊游",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "全班一起去另一个地方。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "我儿子病了。他今天不能来学校。",
+      "answerText": "学校"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "在家长会上，家长和老师谈话。",
+      "answerText": "家长会"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "夏天孩子们有六周的假期。",
+      "answerText": "假期"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "学年结束时，我女儿拿到成绩单。",
+      "answerText": "成绩单"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "因为孩子生病了，我给老师写一张请假条。",
+      "answerText": "请假条"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "孩子们每天都得做作业。",
+      "answerText": "作业"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "我的孩子三岁，上幼儿园。",
+      "answerText": "幼儿园"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "我下午4点接孩子。",
+      "answerText": "接"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "我女儿今天可惜生病了。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "我们可以约个时间见面吗？",
+      "answerText": "约"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "上课8点开始。",
+      "answerText": "开始"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "请在星期五之前签这张表。",
+      "answerText": "签"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "孩子",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "班级",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "老师",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "本子",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "分数",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "笔",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "我儿子今天生病了。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "家长会什么时候开始？",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "我下午3点接女儿。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "我的孩子郊游需要带什么吗？",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "家长会",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "成绩单",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "请假条",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "作业",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "班主任",
+      "answerText": null
+    }
+  ]
+}

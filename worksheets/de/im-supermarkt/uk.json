@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.758Z"
+  },
+  "title": "У супермаркеті",
+  "instructions": {
+    "im-supermarkt-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "im-supermarkt-gap": "Позначте відповідну упаковку або кількість.",
+    "im-supermarkt-verbs": "Вставте правильне дієслово в правильній формі.",
+    "im-supermarkt-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "im-supermarkt-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "im-supermarkt-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "візок для покупок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Сюди ви кладете товари під час покупок.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "сирний прилавок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Тут продають свіжий сир на вагу.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "застава за тару",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Гроші, які ви отримуєте назад за порожні пляшки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "автомат для прийому пляшок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Сюди здають порожні пляшки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "акція (спеціальна пропозиція)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Товар деякий час коштує дешевше.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "На цьому папірці вказані всі ціни.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "пакет",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "У ньому ви несете покупки додому.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Я купую стаканчик йогурту.",
+      "answerText": "стаканчик"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "І ще пляшку води, будь ласка.",
+      "answerText": "пляшку"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Нам потрібна пачка макаронів.",
+      "answerText": "пачка"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Для соусу я беру банку помідорів.",
+      "answerText": "банку"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Мені, будь ласка, 200 грамів гауди.",
+      "answerText": "грамів"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Пачка масла коштує 2,29 євро.",
+      "answerText": "Пачка"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Я візьму літр молока.",
+      "answerText": "літр"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Ви можете розміняти мені п'ять євро?",
+      "answerText": "розміняти"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Вибачте, де знайти борошно?",
+      "answerText": "знайти"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Я плачу карткою.",
+      "answerText": "плачу"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Мені хотілося б 200 грамів гауди.",
+      "answerText": "хотілося б"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "У неділю майже всі супермаркети зачинені.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "пляшка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "стаканчик",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "банка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "хліб",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "яблуко",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "банан",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Вибачте, де знайти борошно?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "У мене з собою сумка.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Банани сьогодні за акцією.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Де автомат для прийому пляшок?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "візок для покупок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "застава за тару",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "сир",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "булочка",
+      "answerText": null
+    }
+  ]
+}

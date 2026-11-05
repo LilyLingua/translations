@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "e97cf4c6-6932-4b60-9959-bfaa65dde411",
+    "level": "A2"
+  },
+  "title": "Przedszkole i szkoła",
+  "topic": "Wywiadówka, choroba dziecka i życie szkolne",
+  "tasks": [
+    {
+      "id": "pl-przedszkole-i-szkola-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-przedszkole-i-szkola-matching-1",
+          "term": "przedszkole",
+          "meaning": "Miejsce, gdzie małe dzieci zostają, kiedy rodzice pracują."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-matching-2",
+          "term": "nauczyciel",
+          "meaning": "Osoba, która uczy klasę."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-matching-3",
+          "term": "wywiadówka",
+          "meaning": "Spotkanie, na którym rodzice rozmawiają z nauczycielem."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-matching-4",
+          "term": "praca domowa",
+          "meaning": "Zadanie, które dzieci robią w domu do szkoły."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-matching-5",
+          "term": "świadectwo",
+          "meaning": "Dokument z ocenami dziecka na koniec roku."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-matching-6",
+          "term": "wycieczka szkolna",
+          "meaning": "Kiedy klasa razem gdzieś jedzie, na przykład do muzeum."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-przedszkole-i-szkola-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-przedszkole-i-szkola-gap-1",
+          "promptBefore": "Mój syn jest chory i nie pójdzie dziś do",
+          "promptAfter": ".",
+          "correctAnswer": "szkoły",
+          "options": [
+            "szkoły",
+            "świadectwa",
+            "wycieczki"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-gap-2",
+          "promptBefore": "Spotkanie z rodzicami, czyli",
+          "promptAfter": ", jest w czwartek.",
+          "correctAnswer": "wywiadówka",
+          "options": [
+            "wywiadówka",
+            "wycieczka",
+            "praca domowa"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-gap-3",
+          "promptBefore": "Zrobiłeś już pracę",
+          "promptAfter": "?",
+          "correctAnswer": "domową",
+          "options": [
+            "domową",
+            "szkolną",
+            "nauczyciela"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-gap-4",
+          "promptBefore": "Odbieram córkę z",
+          "promptAfter": "o szesnastej.",
+          "correctAnswer": "przedszkola",
+          "options": [
+            "przedszkola",
+            "świadectwa",
+            "wycieczki"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-gap-5",
+          "promptBefore": "Proszę podpisać zgodę na",
+          "promptAfter": ".",
+          "correctAnswer": "wycieczkę",
+          "options": [
+            "wycieczkę",
+            "ocenę",
+            "świadectwo"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-gap-6",
+          "promptBefore": "Ma bardzo dobre oceny na",
+          "promptAfter": ".",
+          "correctAnswer": "świadectwie",
+          "options": [
+            "świadectwie",
+            "wycieczce",
+            "przedszkolu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-przedszkole-i-szkola-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-przedszkole-i-szkola-verbs-1",
+          "promptBefore": "Moja córka",
+          "promptAfter": ".",
+          "correctAnswer": "choruje",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "chorować"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-verbs-2",
+          "promptBefore": "Lekcje",
+          "promptAfter": "się o ósmej.",
+          "correctAnswer": "zaczynają",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zaczynać się"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-verbs-3",
+          "promptBefore": "Czy mogę",
+          "promptAfter": "z nauczycielem?",
+          "correctAnswer": "porozmawiać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "porozmawiać"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-verbs-4",
+          "promptBefore": "Dzieci",
+          "promptAfter": "obiad w szkole.",
+          "correctAnswer": "jedzą",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "jeść"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-verbs-5",
+          "promptBefore": "Proszę",
+          "promptAfter": "do szkoły, jeśli dziecko jest chore.",
+          "correctAnswer": "zadzwonić",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zadzwonić"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-przedszkole-i-szkola-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-przedszkole-i-szkola-order-1",
+          "chunks": [
+            "Mój syn",
+            "jest",
+            "dziś",
+            "chory"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-order-2",
+          "chunks": [
+            "Kiedy",
+            "jest",
+            "wywiadówka"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-order-3",
+          "chunks": [
+            "Czy może",
+            "przynieść",
+            "drugie śniadanie"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-order-4",
+          "chunks": [
+            "Odbiorę go",
+            "o piętnastej"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-przedszkole-i-szkola-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-przedszkole-i-szkola-spelling-1",
+          "correct": "nauczyciel",
+          "wrong": "nauczycel"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-spelling-2",
+          "correct": "szkoła",
+          "wrong": "szkoua"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-spelling-3",
+          "correct": "dzieci",
+          "wrong": "dzeci"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-spelling-4",
+          "correct": "córka",
+          "wrong": "curka"
+        },
+        {
+          "id": "pl-przedszkole-i-szkola-spelling-5",
+          "correct": "koleżanka",
+          "wrong": "kolerzanka"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

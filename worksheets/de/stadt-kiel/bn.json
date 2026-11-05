@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:39.038Z"
+  },
+  "title": "কিল",
+  "instructions": {
+    "stadt-kiel-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-kiel-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-kiel-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-kiel-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-kiel-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-kiel-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "\"ফ্যোর্ডে\" (ফিয়র্ড)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "বাল্টিক সাগরের লম্বা, সরু খাঁড়ি যা স্থলভাগের অনেক ভেতরে ঢুকেছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "কিল সপ্তাহ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "জুনে পালতোলা নৌকার বড় উৎসব, গানবাজনা আর সারা বিশ্বের নৌকা সহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "ফেরি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "মানুষ আর গাড়ির জন্য বড় জাহাজ, যেমন নরওয়ে যাওয়ার জন্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "কিল খাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "উত্তর সাগর আর বাল্টিক সাগরের মধ্যে তৈরি জলপথ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "কিলের ধোঁয়ায় সেঁকা মাছ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "ছোট ধোঁয়ায় সেঁকা মাছ, কিলের বিশেষত্ব।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"মোইন মোইন!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "উত্তরের সম্ভাষণ; কেউ কেউ মনে করে দুবার \"মোইন\" বলা বেশি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "পালতোলা নৌকা চালানো",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "বাতাসে চলা নৌকায় যাতায়াত করা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "কিল বাল্টিক সাগরের তীরে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "জুনে আমরা কিল সপ্তাহ উদযাপন করি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "আমরা ফেরিতে করে অসলো যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "জাহাজগুলো কিল খাল দিয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "সপ্তাহান্তে আমরা ফিয়র্ডে পালতোলা নৌকা চালাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "আমি এক ব্যাগ কিলের ধোঁয়ায় সেঁকা মাছ কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "আমরা সৈকতে কুকুরকে হাঁটাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "ফেরি প্রতিদিন নরওয়ে যায়।",
+      "answerText": "যায়"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "কিল সপ্তাহে সারা বিশ্বের নৌকা পাল তুলে চলে।",
+      "answerText": "পাল"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "অনেক জাহাজ কিল খাল ব্যবহার করে।",
+      "answerText": "ব্যবহার"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "উত্তরে মানুষ \"মোইন\" বলে।",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "সৈকতে প্রায়ই জোরে বাতাস বয়।",
+      "answerText": "বয়"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "নৌকা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "ফেরি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "মাছ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "সৈকত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "পাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "খাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "কিল বাল্টিক সাগরের তীরে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "জুনে শহর কিল সপ্তাহ উদযাপন করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "তুমি কি ফেরিতে করে নরওয়ে যাচ্ছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "সপ্তাহান্তে আমরা ফিয়র্ডে পালতোলা নৌকা চালাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "ফেরি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "পাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "সৈকত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "বাল্টিক সাগর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "খাল",
+      "answerText": null
+    }
+  ]
+}

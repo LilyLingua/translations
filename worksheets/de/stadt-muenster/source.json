@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "8e0aeb6c-ace7-488f-94f9-5b25db7f172a",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Münster",
+  "topic": "NRW: Leeze, Prinzipalmarkt, Send, Fahrradstadt",
+  "tasks": [
+    {
+      "id": "stadt-muenster-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-muenster-matching-1",
+          "term": "die Leeze",
+          "meaning": "Münsteraner Wort für Fahrrad."
+        },
+        {
+          "id": "stadt-muenster-matching-2",
+          "term": "der Prinzipalmarkt",
+          "meaning": "Schöne Einkaufsstraße mit alten Giebelhäusern und Bogengängen."
+        },
+        {
+          "id": "stadt-muenster-matching-3",
+          "term": "der Westfälische Frieden",
+          "meaning": "1648 endete hier und in Osnabrück der Dreißigjährige Krieg."
+        },
+        {
+          "id": "stadt-muenster-matching-4",
+          "term": "die Täuferkäfige",
+          "meaning": "Drei eiserne Käfige hängen seit fast 500 Jahren am Turm der Lambertikirche."
+        },
+        {
+          "id": "stadt-muenster-matching-5",
+          "term": "der Aasee",
+          "meaning": "See mitten in der Stadt; im Sommer sitzen dort viele Studenten."
+        },
+        {
+          "id": "stadt-muenster-matching-6",
+          "term": "der Send",
+          "meaning": "Großes Volksfest mit Karussells, dreimal im Jahr."
+        },
+        {
+          "id": "stadt-muenster-matching-7",
+          "term": "die Promenade",
+          "meaning": "Weg rund um die Altstadt nur für Fahrräder und Fußgänger."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-muenster-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-muenster-gap-1",
+          "promptBefore": "Ich fahre mit",
+          "promptAfter": "Leeze zur Uni.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-2",
+          "promptBefore": "Wir gehen über",
+          "promptAfter": "Prinzipalmarkt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-3",
+          "promptBefore": "1648 schloss man in Münster",
+          "promptAfter": "Westfälischen Frieden.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-4",
+          "promptBefore": "Wir joggen um",
+          "promptAfter": "Aasee.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-5",
+          "promptBefore": "Auf",
+          "promptAfter": "Send fahren wir Karussell.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-6",
+          "promptBefore": "Die Promenade ist",
+          "promptAfter": "Ring um die Altstadt.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenster-gap-7",
+          "promptBefore": "Man sagt: In Münster regnet es oder",
+          "promptAfter": "Glocken läuten.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-muenster-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-muenster-verbs-1",
+          "promptBefore": "In Münster",
+          "promptAfter": "fast alle Fahrrad.",
+          "correctAnswer": "fahren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-muenster-verbs-2",
+          "promptBefore": "Am Turm von St. Lamberti",
+          "promptAfter": "drei eiserne Käfige.",
+          "correctAnswer": "hängen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "hängen"
+        },
+        {
+          "id": "stadt-muenster-verbs-3",
+          "promptBefore": "Die Studenten",
+          "promptAfter": "ihre Leezen vor der Uni ab.",
+          "correctAnswer": "stellen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "abstellen"
+        },
+        {
+          "id": "stadt-muenster-verbs-4",
+          "promptBefore": "Es",
+          "promptAfter": "schon wieder!",
+          "correctAnswer": "regnet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "regnen"
+        },
+        {
+          "id": "stadt-muenster-verbs-5",
+          "promptBefore": "Der Send",
+          "promptAfter": "dreimal im Jahr statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-muenster-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-muenster-table-1",
+          "article": "das",
+          "singular": "Fahrrad",
+          "plural": "Fahrräder"
+        },
+        {
+          "id": "stadt-muenster-table-2",
+          "article": "der",
+          "singular": "Käfig",
+          "plural": "Käfige"
+        },
+        {
+          "id": "stadt-muenster-table-3",
+          "article": "die",
+          "singular": "Glocke",
+          "plural": "Glocken"
+        },
+        {
+          "id": "stadt-muenster-table-4",
+          "article": "der",
+          "singular": "Giebel",
+          "plural": "Giebel"
+        },
+        {
+          "id": "stadt-muenster-table-5",
+          "article": "das",
+          "singular": "Karussell",
+          "plural": "Karussells"
+        },
+        {
+          "id": "stadt-muenster-table-6",
+          "article": "die",
+          "singular": "Gasse",
+          "plural": "Gassen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-muenster-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-muenster-order-1",
+          "chunks": [
+            "In Münster",
+            "gibt",
+            "es",
+            "mehr Fahrräder",
+            "als Einwohner"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-muenster-order-2",
+          "chunks": [
+            "Am Prinzipalmarkt",
+            "stehen",
+            "alte Giebelhäuser"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-muenster-order-3",
+          "chunks": [
+            "Fährst",
+            "du",
+            "mit der Leeze",
+            "zur Uni"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-muenster-order-4",
+          "chunks": [
+            "Der Westfälische Frieden",
+            "beendete",
+            "1648",
+            "einen langen Krieg"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-muenster-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-muenster-spelling-1",
+          "correct": "Fahrrad",
+          "wrong": "Farrad"
+        },
+        {
+          "id": "stadt-muenster-spelling-2",
+          "correct": "Käfig",
+          "wrong": "Kefig"
+        },
+        {
+          "id": "stadt-muenster-spelling-3",
+          "correct": "Glocke",
+          "wrong": "Glokke"
+        },
+        {
+          "id": "stadt-muenster-spelling-4",
+          "correct": "Karussell",
+          "wrong": "Karusel"
+        },
+        {
+          "id": "stadt-muenster-spelling-5",
+          "correct": "Giebel",
+          "wrong": "Gibel"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

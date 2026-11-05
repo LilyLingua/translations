@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:40.751Z"
+  },
+  "title": "ডুসেলডর্ফ",
+  "instructions": {
+    "stadt-duesseldorf-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-duesseldorf-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-duesseldorf-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-duesseldorf-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-duesseldorf-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-duesseldorf-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "\"আল্ট\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "ডুসেলডর্ফের গাঢ় রঙের বিয়ার; ছোট গ্লাসে পান করা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "\"ক্যো\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "ক্যোনিগসআলের সংক্ষিপ্ত নাম, একটি অভিজাত কেনাকাটার রাস্তা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "রাইন টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "রাইন নদীর ধারে টিভি টাওয়ার, আলো দিয়ে তৈরি ঘড়িসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "\"হেলাউ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "ডুসেলডর্ফে কার্নিভালের ধ্বনি – কোলোনের মতো \"আলাফ\" নয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "ডিগবাজি খাওয়া ছেলে",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "চাকার মতো ডিগবাজি খাওয়া শিশু; শহরের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "পুরোনো শহর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "শহরের পুরোনো অংশ, অনেক পানশালা সহ – \"বিশ্বের দীর্ঘতম বার\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "\"ক্যোবেস\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "বিয়ার হাউসের ওয়েটার; জিজ্ঞেস না করেই নতুন আল্ট নিয়ে আসে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "সে পুরোনো শহরে আল্ট পান করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "ক্যো একটি দামি কেনাকাটার রাস্তা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "রাইন টাওয়ারের ওপর থেকে পুরো শহর দেখা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "রোজ মানডেতে আমরা প্যারেড দেখি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "আমরা রাইনের তীর ধরে হাঁটি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "আমি ডুসেলডর্ফের এক বয়াম সরিষা কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "ক্যোবেস নতুন আল্ট নিয়ে আসে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "কার্নিভালে ডুসেলডর্ফবাসীরা \"হেলাউ\" চিৎকার করে।",
+      "answerText": "চিৎকার"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "ক্যোবেস জিজ্ঞেস না করেই পরের আল্ট নিয়ে আসে।",
+      "answerText": "নিয়ে"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "রাইন ঠিক শহরের মাঝখান দিয়ে বয়ে যায়।",
+      "answerText": "বয়ে"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "অনেক মানুষ ক্যোতে কেনাকাটা করে।",
+      "answerText": "কেনাকাটা"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "শিশুরা শহরের প্রতীকের মতো ডিগবাজি খায়।",
+      "answerText": "ডিগবাজি"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "গ্লাস",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "পানশালা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "তীর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "প্যারেড",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "বিয়ার কারখানা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "রাস্তা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "সে পুরোনো শহরে আল্ট পান করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "ক্যো একটি অভিজাত কেনাকাটার রাস্তা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "রোজ মানডেতে কি তুমি আমার সঙ্গে প্যারেড দেখতে যাবে?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "ক্যোবেস সঙ্গে সঙ্গে নতুন গ্লাস নিয়ে আসে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "কার্নিভাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "বিয়ার কারখানা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "পানশালা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "বার কাউন্টার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "গ্লাস",
+      "answerText": null
+    }
+  ]
+}

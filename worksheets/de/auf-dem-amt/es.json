@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:22.543Z"
+  },
+  "title": "En la oficina pública",
+  "instructions": {
+    "auf-dem-amt-matching": "Une cada palabra con la explicación correcta.",
+    "auf-dem-amt-gap": "Marca la palabra correcta.",
+    "auf-dem-amt-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "auf-dem-amt-table": "Completa el artículo (der/die/das) y la forma del plural.",
+    "auf-dem-amt-order": "Ordena las palabras y escribe la frase.",
+    "auf-dem-amt-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "el empadronamiento",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Comunicas tu nueva dirección a la administración.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "el número de turno",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Este número lo sacas de la máquina.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "el pasaporte",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Un documento con el que viajas al extranjero.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "el certificado del casero",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Necesitas este papel del casero para empadronarte.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "el certificado de empadronamiento",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Este papel muestra que ahora vives en esta dirección.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "el estado civil",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "soltero, casado, divorciado o viudo",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "la firma",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Tu nombre escrito a mano.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "el formulario",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Un papel con campos para rellenar.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Quiero empadronarme en mi nuevo piso.",
+      "answerText": "piso"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Por favor, saque un número en la máquina.",
+      "answerText": "número"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "El número 147, por favor, al puesto 12.",
+      "answerText": "puesto"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Aquí está el certificado de mi casero.",
+      "answerText": "casero"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "¿Lleva su documento de identidad?",
+      "answerText": "documento de identidad"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Por favor, rellene el formulario por completo.",
+      "answerText": "formulario"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Necesitará a menudo el certificado de empadronamiento, por ejemplo para una cuenta bancaria.",
+      "answerText": "certificado de empadronamiento"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Hoy me empadrono.",
+      "answerText": "empadrono"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "¿Dónde tengo que firmar?",
+      "answerText": "firmar"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Deletreo mi apellido: N – O – W – A – K.",
+      "answerText": "Deletreo"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Por favor, tome asiento.",
+      "answerText": "tome"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "La tramitación tarda unas dos semanas.",
+      "answerText": "tarda"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "la oficina pública",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "el documento de identidad",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "el piso",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "el formulario",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "el casero",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "la dirección",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Quiero empadronarme.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "¿Dónde tengo que firmar?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Aquí tiene mi pasaporte.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "¿Necesito algo más?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "certificado de empadronamiento",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "pasaporte",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "soltero",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "casero",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "dirección",
+      "answerText": null
+    }
+  ]
+}

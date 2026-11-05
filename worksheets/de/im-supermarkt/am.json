@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በሱፐርማርኬት",
+  "instructions": {
+    "im-supermarkt-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "im-supermarkt-gap": "ትክክለኛውን ማሸጊያ ወይም መጠን ምልክት ያድርጉ።",
+    "im-supermarkt-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "im-supermarkt-table": "መስተአምሩን (der/die/das) እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "im-supermarkt-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "im-supermarkt-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "የዕቃ መግፊያ ጋሪ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "ሲገበያዩ ዕቃዎችዎን በውስጡ ያስቀምጣሉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "የአይብ መሸጫ ቆጣሪ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "እዚህ ትኩስ አይብ በክብደት ያገኛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "የጠርሙስ ተቀማጭ ገንዘብ (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "ለባዶ ጠርሙሶች መልሰው የሚያገኙት ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "የጠርሙስ መመለሻ ማሽን",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "እዚህ ባዶ ጠርሙሶችን ይመልሳሉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "ልዩ ቅናሽ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "አንድ ምርት ለአጭር ጊዜ በርካሽ ይሸጣል።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "ደረሰኝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "ሁሉም ዋጋዎች በዚህ ወረቀት ላይ ተጽፈዋል።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "ቦርሳ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "የገዙትን ዕቃ በእሱ ወደ ቤት ይወስዳሉ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "አንድ ኩባያ እርጎ እገዛለሁ።",
+      "answerText": "ኩባያ"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "እና እባክዎ አንድ ጠርሙስ ውኃ።",
+      "answerText": "ጠርሙስ"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "አንድ ፓኬት ፓስታ ያስፈልገናል።",
+      "answerText": "ፓኬት"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "ለመረቁ አንድ ቆርቆሮ ቲማቲም እወስዳለሁ።",
+      "answerText": "ቆርቆሮ"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "እባክዎ 200 ግራም Gouda እፈልጋለሁ።",
+      "answerText": "ግራም"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "አንድ ጥቅል ቅቤ 2.29 ዩሮ ያወጣል።",
+      "answerText": "ጥቅል"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "አንድ ሊትር ወተት እወስዳለሁ።",
+      "answerText": "ሊትር"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "አምስት ዩሮ ሊዘረዝሩልኝ ይችላሉ?",
+      "answerText": "ሊዘረዝሩልኝ"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "ይቅርታ፣ ዱቄት የት ላገኝ እችላለሁ?",
+      "answerText": "ላገኝ"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "በካርድ እከፍላለሁ።",
+      "answerText": "እከፍላለሁ"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "200 ግራም Gouda እፈልጋለሁ።",
+      "answerText": "እፈልጋለሁ"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "እሑድ ሁሉም ማለት ይቻላል ሱፐርማርኬቶች ዝግ ናቸው።",
+      "answerText": "ናቸው"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "ጠርሙስ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "ኩባያ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "ቆርቆሮ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ዳቦ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "ፖም",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "ሙዝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "ይቅርታ፣ ዱቄት የት ላገኝ እችላለሁ?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "ቦርሳ ይዤ መጥቻለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "ሙዞቹ ዛሬ በልዩ ቅናሽ ላይ ናቸው።",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "የጠርሙስ መመለሻ ማሽኑ የት ነው?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "የዕቃ መግፊያ ጋሪ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ደረሰኝ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "የጠርሙስ ተቀማጭ ገንዘብ (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "አይብ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "ትንሽ ዳቦ (Brötchen)",
+      "answerText": null
+    }
+  ]
+}

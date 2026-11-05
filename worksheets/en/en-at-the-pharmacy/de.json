@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.973Z"
+  },
+  "title": "In der Apotheke",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-at-the-pharmacy-gap": "Wähle das richtige Wort.",
+    "en-at-the-pharmacy-verbs": "Setze das richtige Verb ein.",
+    "en-at-the-pharmacy-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-at-the-pharmacy-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "das Rezept",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "Ein Zettel vom Arzt für ein Medikament, das du brauchst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "der Apotheker / die Apothekerin",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "Die Person, die Medikamente verkauft und berät.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "die Nebenwirkung",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "Eine unerwünschte Wirkung eines Medikaments.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "die Tablette",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "Ein kleines, festes Medikament, das man schluckt.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "der Hustensaft",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "Flüssiges Medikament gegen Husten.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "die Dosis",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "Wie viel Medikament man auf einmal nimmt.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "Ich habe eine Erkältung und Halsschmerzen.",
+      "answerText": "Erkältung"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "Brauche ich ein Rezept für dieses Medikament?",
+      "answerText": "Rezept"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "Nehmen Sie dreimal täglich eine Tablette.",
+      "answerText": "Tablette"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "Gibt es Nebenwirkungen?",
+      "answerText": "Nebenwirkungen"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "Bitte fragen Sie den Apotheker, wenn Sie Fragen haben.",
+      "answerText": "Apotheker"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "Kann ich bitte eine Quittung bekommen?",
+      "answerText": "Quittung"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "Ich brauche etwas gegen Kopfschmerzen.",
+      "answerText": "brauche"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "Haben Sie Allergien?",
+      "answerText": "Haben"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "Bitte nehmen Sie dieses Medikament nach dem Essen.",
+      "answerText": "nehmen"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "Der Apotheker zeigt mir, wie man das Spray benutzt.",
+      "answerText": "zeigt"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "Wie viel kostet das?",
+      "answerText": "kostet"
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "Brauche ich dafür ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "Ich habe Kopfschmerzen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "Nehmen Sie morgens zwei Tabletten.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "Können Sie etwas gegen Husten empfehlen?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "Rezept",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "Medikament",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "Apotheke",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "Allergie",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "Kopfschmerzen",
+      "answerText": null
+    }
+  ]
+}

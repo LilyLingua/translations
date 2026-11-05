@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Dua të regjistrohem."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Marr një numër."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – vendi 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Dua të regjistroj banesën time të re."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Ja vërtetimi nga pronari im."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Ja pasaporta ime."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "E gërmëzoj: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Jam beqar."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Ku duhet të nënshkruaj?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "A më duhet ndonjë gjë tjetër?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "U shpërngula! Banesë e re, qytet i ri …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! Dhe – je regjistruar tashmë?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Regjistruar? Ku? Në palestër?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Jo, Leo. Në zyrën e shtetit! Sot kalon një takim të plotë në „Bürgeramt“ (zyra e shërbimit për qytetarët) – nga hyrja deri te vërtetimi i regjistrimit."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Dhe në çdo situatë të pyesim: Çfarë thua?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Dhe ke vetëm pesë sekonda!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Vjen në zyrën e qytetarëve. Te sporteli i informacionit ulet një burrë."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Mirëmëngjes. Cila është kërkesa juaj?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Çfarë thua?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Mirëmëngjes. Dua të regjistrohem."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Unë jam një kërkesë."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Unë dua një zyrë."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ do të thotë: Pse jeni këtu? Çfarë ju duhet?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Në zyrat e shtetit e dëgjon shumë shpesh këtë fjalë."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Mirëmëngjes. Dua të regjistrohem."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Keni takim?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Po, në orën nëntë."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Dua të regjistrohem."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Kam takim në orën nëntë."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Mirë. Atëherë ju lutem merrni një numër dhe prisni atje."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Çfarë bën tani?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Shpërngulesh."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Tërheq dikë nga flokët."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Merr nga automati një letër me numër."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Pra A! Po shpërngulem. Sapo jam shpërngulur …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Jo, Leo. C! „Eine Nummer ziehen“ do të thotë: merr një letër me numrin tënd të radhës."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ është krejt tjetër gjë – do të thotë: të kalosh në një banesë të re."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Marr një numër."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Pret. Papritur dëgjon një njoftim. Dëgjo me vëmendje!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Numri 147, ju lutem te vendi 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Numri yt është 147. Ku shkon?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Te vendi 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Te vendi 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Te dhoma 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Fillimisht vjen numri yt, pastaj vendi."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Në shumë zyra shfaqet edhe në një ekran."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – vendi 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Shkon te vendi 12. Atje ulet një grua."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Mirëmëngjes. Uluni. Si mund t'ju ndihmoj?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Çfarë thua?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Dua t'ju regjistroj ju."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Dua të regjistroj banesën time të re."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Tani banoj këtu. Mirupafshim!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Regjistron banesën – ose veten: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Por jo „Sie“ (ju) – zonja Krüger është tashmë e regjistruar."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Dua të regjistroj banesën time të re."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Me kënaqësi. Kur keni hyrë në banesë?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Më një tetor."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Dua të regjistroj banesën time të re."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Hyra në banesë më një tetor."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "E keni me vete vërtetimin e pronarit të banesës?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, një fjalë e gjatë! Çfarë thua?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Jo, unë nuk jap banesë."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Po, ju jap banesën time."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Po, ja vërtetimi nga pronari im."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ është një formular nga pronari yt. Aty shkruhet: ti banon vërtet në këtë banesë."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Pa këtë letër regjistrimi zakonisht nuk bëhet."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Po, ja vërtetimi nga pronari im."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Ja vërtetimi nga pronari im."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Dhe letërnjoftimin ose pasaportën, ju lutem."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Çfarë thua?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Ja pasaporta ime."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Ja janë pasaporta ime."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Unë jam pasaportë."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Një pasaportë – pra „ist“ (është), jo „sind“ (janë). Pasaportën ose letërnjoftimin të duhen pothuajse gjithmonë në zyrë."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Dhe nëse e ke harruar, thuaj sinqerisht: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Më falni, fatkeqësisht e kam harruar.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Ja pasaporta ime."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Ja pasaporta ime."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Më falni, fatkeqësisht e kam harruar."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Si shkruhet mbiemri juaj?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Emri yt është Nowak. Çfarë thua?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Me stilolaps."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: E gërmëzoj: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Shkruhet shumë bukur."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ do të thotë: Cilat shkronja? Pastaj e thua shkronjë për shkronjë."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Ushtro emrin tënd në gjermanisht, të duhet kudo!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Faleminderit."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "E gërmëzoj: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Jeni i martuar?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Nuk je i martuar. Çfarë thua?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Jo, jam beqar."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Jo, jam fatkeqësisht."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Jo, jam martohet."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ do të thotë: i pamartuar. Kujdes: „leider“ tingëllon ngjashëm, por do të thotë krejt tjetër gjë – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "është: fatkeqësisht."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Jo, jam beqar."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Jam beqar."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Jam i martuar."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Ju lutem kontrolloni të dhënat. Nëse gjithçka është në rregull, nënshkruani këtu."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Çfarë thua?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: E shkruaj nën tavolinë."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Nuk më pëlqen të nënshkruaj."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Gjithçka është në rregull. Ku saktësisht duhet të nënshkruaj?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ do të thotë: të shkruash emrin me dorë – nënshkrimi yt."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Dhe mirë është: lexo gjithmonë fillimisht çfarë shkruhet në formular."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Gjithçka është në rregull. Ku saktësisht duhet të nënshkruaj?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Këtu poshtë, ju lutem."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Ku duhet të nënshkruaj?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Kaq ishte. Ja vërtetimi juaj i regjistrimit."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Mbarove! Çfarë thua?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Faleminderit, do t'ju lajmëroj."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Faleminderit shumë! A më duhet ndonjë gjë tjetër?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Nuk më mungon asgjë!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Dhe kujdes me A: „Ich melde mich“ nuk do të thotë „regjistrohem“, por: do t'ju telefonoj më vonë."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Dhe C ndoshta e mban mend – shkon vetëm te mjeku!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Faleminderit shumë! A më duhet ndonjë gjë tjetër?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Jo, kaq ishte. Ruajeni mirë vërtetimin."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Përsërit pas meje!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "A më duhet ndonjë gjë tjetër?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Tri këshilla për regjistrimin. E para: regjistrohu brenda dy javëve pasi hyn në banesë."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "E dyta: në shumë qytete të duhet një takim – shpesh mund ta rezervosh online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Dhe e treta: vërtetimi i regjistrimit të duhet shpesh përsëri, për shembull për një llogari bankare."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Pra ruaje mirë!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Në zyrat e shtetit gjermanishtja ndonjëherë tingëllon shumë e ndërlikuar. Leo lexon – dhe unë e them thjesht."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Cila është kërkesa juaj?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Çfarë ju duhet?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Ju lutem mbani gati dokumentet tuaja."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Ju lutem mbani letrat në dorë."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Plotësojeni formularin plotësisht."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Shkruani diçka kudo."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Përpunimi zgjat rreth dy javë."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Zgjat afërsisht dy javë."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Ju lutem dorëzoni dokumentet më vonë."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Ju lutem sillini letrat më vonë."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Sot po ndërrohem!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Ah, po vesh rroba të tjera? Apo do të thuash: „Ich ziehe um“ – pra kaloj në një banesë të re?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Dhe në zyrën e shtetit: jo „Ich bin leider“, por „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(jam i pamartuar) – kur nuk je i martuar."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Dhe „Ich melde mich“ do të thotë: do të telefonoj më vonë. Në zyrë thua: „Ich melde mich an.“ (Po regjistrohem.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Dhe tani gjithçka edhe një herë. Dhjetë fjalitë më të rëndësishme. Përsërit pas meje!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Dua të regjistrohem."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Kam takim në orën nëntë."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Marr një numër."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Dua të regjistroj banesën time të re."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Ja vërtetimi nga pronari im."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Ja pasaporta ime."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "E gërmëzoj emrin tim."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Jam beqar."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Ku duhet të nënshkruaj?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "A më duhet ndonjë gjë tjetër?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Cila fjalë ishte më e vështira për ty? Shkruaje në komente!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Mirupafshim dhe shihemi së shpejti te LilyLingua!"
+    }
+  ]
+}

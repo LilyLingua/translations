@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:20.798Z"
+  },
+  "title": "Визбаден",
+  "instructions": {
+    "stadt-wiesbaden-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-wiesbaden-gap": "Означи тачну реч.",
+    "stadt-wiesbaden-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-wiesbaden-table": "Упиши члан и облик множине.",
+    "stadt-wiesbaden-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-wiesbaden-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "бањски град",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "Град са лековитом водом; некада су овамо долазили богати гости да се одморе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "извор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "Овде вода излази из земље; у Визбадену је често врућа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "Кохбрунен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "Познати врући извор у центру града; вода је врућа и слана.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "Курхаус",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "Раскошна зграда за прославе и концерте, са коцкарницом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "Неробергбан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "Стара успињача која вози само уз воду као тег.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "Штерншнупенмаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "Назив божићног сајма у Визбадену.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "коцкарница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "Место где се игра за новац, на пример рулет.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "Неробергбаном се пењемо на брдо.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "Вода из Кохбрунена је врућа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "Идемо на концерт у Курхаус.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "У децембру посећујемо Штерншнупенмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "Визбаден је главни град Хесена.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "У Савезном заводу за статистику броје становнике Немачке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "Опуштамо се у термама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "Врућа вода излази из земље.",
+      "answerText": "излази"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "Неробергбан ради само са водом.",
+      "answerText": "ради"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "Некада су богати гости путовали у Визбаден на лечење.",
+      "answerText": "путовали"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "У Курхаусу се може играти рулет.",
+      "answerText": "може"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "Многи људи се опуштају у термама.",
+      "answerText": "опуштају"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "извор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "гост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "железница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "фонтана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "купатило",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "планина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "У Визбадену има много врућих извора.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "Неробергбан вози на воду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "Да ли идеш са мном у терме?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "Визбаден је главни град Хесена.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "извор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "фонтана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "терме",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "гост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "концерт",
+      "answerText": null
+    }
+  ]
+}

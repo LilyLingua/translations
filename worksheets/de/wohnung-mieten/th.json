@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.567Z"
+  },
+  "title": "เช่าห้องพัก",
+  "instructions": {
+    "wohnung-mieten-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "wohnung-mieten-gap": "ทำเครื่องหมายที่รูปที่ถูกต้องของคำนำหน้านาม",
+    "wohnung-mieten-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "wohnung-mieten-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "wohnung-mieten-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "wohnung-mieten-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "ค่าเช่า",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "เงินที่คุณจ่ายทุกเดือนสำหรับห้องพัก",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "เงินประกัน",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "เงินที่เจ้าของห้องได้รับตอนแรกเป็นหลักประกัน",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "ค่าใช้จ่ายเพิ่มเติม",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "ค่าน้ำ ค่าเครื่องทำความร้อน และค่าขยะ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "สัญญาเช่า",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "สัญญาระหว่างผู้เช่ากับเจ้าของห้อง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "การดูห้อง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "ไปดูห้องก่อนเช่า",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "ผู้ดูแลอาคาร",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "เขาดูแลอาคารและซ่อมของเล็ก ๆ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "ระเบียบของอาคาร",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "กฎสำหรับผู้อยู่อาศัยทุกคน เช่น ช่วงเวลาที่ต้องเงียบ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "เรากำลังหาห้องพักที่มีระเบียง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "ฉันคุยกับเจ้าของห้อง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "ฉันให้เงินประกันกับเจ้าของห้อง (หญิง)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "ฉันวางจักรยานไว้ในลานบ้าน",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "กุญแจวางอยู่บนโต๊ะ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "เครื่องทำความร้อนในครัวเสีย",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "ฉันอยู่ห้องนี้มาหนึ่งปีแล้ว",
+      "answerText": "นี้"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "ฉันจะดูห้องได้เมื่อไร",
+      "answerText": "ดู"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "ค่าเช่าอยู่ที่ 850 ยูโร รวมค่าใช้จ่ายเพิ่มเติม",
+      "answerText": "อยู่ที่"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "เราย้ายเข้าวันที่ 1 ธันวาคม",
+      "answerText": "ย้ายเข้า"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "เครื่องทำความร้อนเสีย คุณช่วยซ่อมได้ไหม",
+      "answerText": "ซ่อม"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "กรุณาแยกขยะ",
+      "answerText": "แยก"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ห้อง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "ครัว",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "ระเบียง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "ห้องน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "กุญแจ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "เครื่องทำความร้อน",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "ห้องนี้ยังว่างอยู่ไหม",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "ค่าใช้จ่ายเพิ่มเติมเท่าไร",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "ฉันจะดูห้องได้เมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "ฉันอยากเช่าห้องนี้",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "เงินประกัน",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "ค่าใช้จ่ายเพิ่มเติม",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "ระเบียง",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "กุญแจ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "เครื่องทำความร้อน",
+      "answerText": null
+    }
+  ]
+}

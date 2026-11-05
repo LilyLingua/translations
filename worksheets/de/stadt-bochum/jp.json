@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:04.266Z"
+  },
+  "title": "ボーフム",
+  "instructions": {
+    "stadt-bochum-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-bochum-gap": "正しい単語に印をつけましょう。",
+    "stadt-bochum-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-bochum-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-bochum-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-bochum-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "「バミューダ三角地帯」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "中心部にある、酒場やバーがたくさんある地区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "カリーヴルスト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "ケチャップとカレー粉をかけた焼きソーセージ。ボーフムでとても人気がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "ヘルベルト・グレーネマイヤー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "自分の街ボーフムについての有名な歌を歌う歌手。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "VfLボーフム",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "青と白の、街のサッカークラブ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "鉱山博物館",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "地下の仕事についての大きな博物館。見学できる坑道がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "スターライト・エクスプレス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "出演者がローラースケートで走るミュージカル。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "ルール大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "街のはずれにある、学生がたくさんいる大きな大学。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "金曜日、私たちはバミューダ三角地帯で会います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "私はカリーヴルストをフライドポテトと一緒に食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "多くの学生がルール大学で勉強しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "鉱山博物館で、私たちは坑道に入ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "出演者はローラースケートで走ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "ヘルベルト・グレーネマイヤーはボーフムについての歌を歌います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfLはカストロップ通りのスタジアムで試合をします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "ミュージカルでは、出演者がローラースケートで走ります。",
+      "answerText": "走り"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "ヘルベルト・グレーネマイヤーは自分の街について歌います。",
+      "answerText": "歌い"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "週末には多くの人がバミューダ三角地帯へ行きます。",
+      "answerText": "行き"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "カリーヴルストはフライドポテトと一緒に食べます。",
+      "answerText": "食べ"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "このミュージカルは1988年からボーフムで上演されています。",
+      "answerText": "上演されて"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "酒場",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "歌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "学生",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "ミュージカル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "歌手",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "スターライト・エクスプレスは1988年からボーフムで上演されています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "大学のあと、私たちはバミューダ三角地帯へ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "カリーヴルストをフライドポテトと一緒に食べる？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "グレーネマイヤーはボーフムについての歌を歌います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "ミュージカル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "カリーヴルスト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "酒場",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "歌手",
+      "answerText": null
+    }
+  ]
+}

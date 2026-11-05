@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:16.417Z"
+  },
+  "title": "ბონი",
+  "instructions": {
+    "stadt-bonn-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-bonn-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-bonn-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-bonn-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-bonn-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-bonn-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "ფედერალური ქალაქი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "ბონის ოფიციალური წოდება; 1990 წლამდე ბონი დედაქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "ბეთჰოვენი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "ცნობილი კომპოზიტორი; ის 1770 წელს ბონში დაიბადა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "ჰარიბო",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "ჟელეს დათუნიების ფირმა; სახელი მომდინარეობს ჰანს რიგელ ბონიდან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "ალუბლის ყვავილობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "გაზაფხულზე ძველ ქალაქში ბევრი ხე სულ ვარდისფრად ყვავის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "ისტორიის სახლი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "მუზეუმი გერმანიის ისტორიის შესახებ 1945 წლის შემდეგ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "„ვაიბერფასტნახტი“ (ქალების კარნავალი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "ქალების კარნავალის დღე; ამბობენ, რომ ბონის უბან ბოიელში წარმოიშვა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "დრახენფელსი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "მთა რაინზე ციხე-სიმაგრის ნანგრევებითა და ლამაზი ხედით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "ბონი დიდხანს ფედერაციული რესპუბლიკის დედაქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "ბეთჰოვენი ბონგასეზე, ერთ სახლში დაიბადა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "აპრილში ძველ ქალაქში ალუბლის ხეები ყვავის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "ისტორიის სახლს ვსტუმრობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "ჩემი შვილი სიამოვნებით ჭამს ჟელეს დათუნიების ერთ პაკეტს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "ვაიბერფასტნახტზე ქალები კაცებს ჰალსტუხებს აჭრიან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "დრახენფელსზე ფეხით ავდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "ბეთჰოვენი 1770 წელს ბონში დაიბადა.",
+      "answerText": "დაიბადა"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "გაზაფხულზე ალუბლის ხეები ვარდისფრად ყვავის.",
+      "answerText": "ყვავის"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "ჟელეს დათუნიები ბავშვებს ახარებს.",
+      "answerText": "ახარებს"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "ბევრი სამინისტრო დღესაც ბონში არის.",
+      "answerText": "არის"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "რაინი ქალაქის გვერდით მიედინება.",
+      "answerText": "მიედინება"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "ხე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "ყვავილი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "სამინისტრო",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "პაკეტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "კომპოზიტორი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "ჰალსტუხი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "ბეთჰოვენი ბონში დაიბადა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "აპრილში ძველი ქალაქი სულ ვარდისფერია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "ჟელეს დათუნიები კიდევ გაქვს?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "ბონი ადრე დედაქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "კომპოზიტორი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "ჰალსტუხი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "ისტორია",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "ხე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "ყვავილი",
+      "answerText": null
+    }
+  ]
+}

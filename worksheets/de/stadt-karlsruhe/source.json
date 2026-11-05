@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "d27024e7-fba7-48ce-a698-864b73c5330d",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Karlsruhe",
+  "topic": "Baden-Württemberg: Fächerstadt, Schloss, Pyramide, KSC",
+  "tasks": [
+    {
+      "id": "stadt-karlsruhe-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-matching-1",
+          "term": "die Fächerstadt",
+          "meaning": "Spitzname: Die Straßen gehen vom Schloss aus wie ein Fächer in alle Richtungen."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-2",
+          "term": "das Schloss",
+          "meaning": "Mittelpunkt der Stadt; von hier aus wurde Karlsruhe 1715 gebaut."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-3",
+          "term": "die Pyramide",
+          "meaning": "Steht auf dem Marktplatz; darunter liegt der Gründer der Stadt."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-4",
+          "term": "das Bundesverfassungsgericht",
+          "meaning": "Gericht, das das Grundgesetz schützt; es hat seinen Sitz in Karlsruhe."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-5",
+          "term": "der KSC",
+          "meaning": "Karlsruher SC, der Fußballverein der Stadt in Blau und Weiß."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-6",
+          "term": "das KIT",
+          "meaning": "Große Technische Universität; viele Studenten kommen deshalb nach Karlsruhe."
+        },
+        {
+          "id": "stadt-karlsruhe-matching-7",
+          "term": "die Turmbergbahn",
+          "meaning": "Alte Bergbahn in Durlach (ab 1888); gerade baut man eine neue Bahn."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-karlsruhe-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-gap-1",
+          "promptBefore": "Die Straßen gehen von",
+          "promptAfter": "Schloss aus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-2",
+          "promptBefore": "Auf dem Marktplatz steht",
+          "promptAfter": "Pyramide.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-3",
+          "promptBefore": "Das Gericht schützt",
+          "promptAfter": "Grundgesetz.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-4",
+          "promptBefore": "Am Samstag spielt",
+          "promptAfter": "KSC im Wildpark.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-5",
+          "promptBefore": "Viele junge Leute studieren an",
+          "promptAfter": "KIT.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-6",
+          "promptBefore": "Wir wandern mit",
+          "promptAfter": "Gruppe auf den Turmberg.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-karlsruhe-gap-7",
+          "promptBefore": "Im Sommer liegen wir in",
+          "promptAfter": "Schlossgarten.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-karlsruhe-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-verbs-1",
+          "promptBefore": "Die Straßen",
+          "promptAfter": "vom Schloss in alle Richtungen.",
+          "correctAnswer": "führen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "führen"
+        },
+        {
+          "id": "stadt-karlsruhe-verbs-2",
+          "promptBefore": "Die alte Turmbergbahn",
+          "promptAfter": "über 130 Jahre auf den Berg.",
+          "correctAnswer": "fuhr",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-karlsruhe-verbs-3",
+          "promptBefore": "Unter der Pyramide",
+          "promptAfter": "der Gründer der Stadt.",
+          "correctAnswer": "liegt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "liegen"
+        },
+        {
+          "id": "stadt-karlsruhe-verbs-4",
+          "promptBefore": "Das Gericht",
+          "promptAfter": "seinen Sitz in Karlsruhe.",
+          "correctAnswer": "hat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "stadt-karlsruhe-verbs-5",
+          "promptBefore": "Viele Studenten",
+          "promptAfter": "am KIT Informatik.",
+          "correctAnswer": "studieren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "studieren"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-karlsruhe-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-table-1",
+          "article": "der",
+          "singular": "Fächer",
+          "plural": "Fächer"
+        },
+        {
+          "id": "stadt-karlsruhe-table-2",
+          "article": "das",
+          "singular": "Gericht",
+          "plural": "Gerichte"
+        },
+        {
+          "id": "stadt-karlsruhe-table-3",
+          "article": "die",
+          "singular": "Pyramide",
+          "plural": "Pyramiden"
+        },
+        {
+          "id": "stadt-karlsruhe-table-4",
+          "article": "der",
+          "singular": "Garten",
+          "plural": "Gärten"
+        },
+        {
+          "id": "stadt-karlsruhe-table-5",
+          "article": "der",
+          "singular": "Berg",
+          "plural": "Berge"
+        },
+        {
+          "id": "stadt-karlsruhe-table-6",
+          "article": "die",
+          "singular": "Bahn",
+          "plural": "Bahnen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-karlsruhe-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-order-1",
+          "chunks": [
+            "Das Schloss",
+            "steht",
+            "in der Mitte",
+            "der Stadt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-karlsruhe-order-2",
+          "chunks": [
+            "Auf dem Marktplatz",
+            "steht",
+            "eine Pyramide"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-karlsruhe-order-3",
+          "chunks": [
+            "Gehst",
+            "du",
+            "zu Fuß",
+            "auf den Turmberg"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-karlsruhe-order-4",
+          "chunks": [
+            "Karlsruhe",
+            "wurde",
+            "1715",
+            "gegründet"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-karlsruhe-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-karlsruhe-spelling-1",
+          "correct": "Pyramide",
+          "wrong": "Püramide"
+        },
+        {
+          "id": "stadt-karlsruhe-spelling-2",
+          "correct": "Gericht",
+          "wrong": "Gerischt"
+        },
+        {
+          "id": "stadt-karlsruhe-spelling-3",
+          "correct": "Schloss",
+          "wrong": "Schlohs"
+        },
+        {
+          "id": "stadt-karlsruhe-spelling-4",
+          "correct": "Garten",
+          "wrong": "Gartten"
+        },
+        {
+          "id": "stadt-karlsruhe-spelling-5",
+          "correct": "Universität",
+          "wrong": "Uniwersität"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

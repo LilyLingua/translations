@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:51.122Z"
+  },
+  "title": "En la farmacia",
+  "instructions": {
+    "uk-v-aptetsi-matching": "Relacione cada palabra con su significado.",
+    "uk-v-aptetsi-gap": "Elija la palabra correcta.",
+    "uk-v-aptetsi-verbs": "Escriba el verbo correcto.",
+    "uk-v-aptetsi-order": "Ordene las palabras y escriba la oración.",
+    "uk-v-aptetsi-spelling": "¿Qué palabra está bien escrita? Márquela."
+  },
+  "items": [
+    {
+      "id": "uk-v-aptetsi-matching-1",
+      "translation": "la receta",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-1:meaning",
+      "translation": "Un papel del médico donde dice qué medicinas se necesitan.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2",
+      "translation": "el farmacéutico / la farmacéutica",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2:meaning",
+      "translation": "Una persona que trabaja en la farmacia y recomienda medicinas.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3",
+      "translation": "el efecto secundario",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3:meaning",
+      "translation": "Una consecuencia no deseada de una medicina.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4",
+      "translation": "la pastilla",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4:meaning",
+      "translation": "Una medicina pequeña y dura que se traga.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5",
+      "translation": "el jarabe para la tos",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5:meaning",
+      "translation": "Medicina líquida para cuando alguien tose.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6",
+      "translation": "la dosis",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6:meaning",
+      "translation": "Cuánta medicina hay que tomar de una vez.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-gap-1",
+      "translation": "Me duele la cabeza.",
+      "answerText": "cabeza"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-2",
+      "translation": "¿Esta medicina solo se vende con receta?",
+      "answerText": "receta"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-3",
+      "translation": "Tome una pastilla tres veces al día.",
+      "answerText": "pastilla"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-4",
+      "translation": "¿Esta medicina tiene efectos secundarios?",
+      "answerText": "secundarios"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-5",
+      "translation": "Si tiene preguntas, consulte al farmacéutico.",
+      "answerText": "farmacéutico"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-6",
+      "translation": "Un jarabe para la tos, por favor.",
+      "answerText": "tos"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-1",
+      "translation": "Busco algo para el dolor de cabeza.",
+      "answerText": "Busco"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-2",
+      "translation": "¿Tiene alguna alergia?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-3",
+      "translation": "Por favor, tome esta medicina después de comer.",
+      "answerText": "tome"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-4",
+      "translation": "El farmacéutico me explica cómo usar el spray.",
+      "answerText": "explica"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-5",
+      "translation": "¿Cuánto cuesta esta medicina?",
+      "answerText": "cuesta"
+    },
+    {
+      "id": "uk-v-aptetsi-order-1",
+      "translation": "¿Se necesita receta para esta medicina?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-2",
+      "translation": "Me duele la garganta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-3",
+      "translation": "Tome dos pastillas en la mañana.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-4",
+      "translation": "¿Qué me recomienda para la tos?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-1",
+      "translation": "receta",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-2",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-3",
+      "translation": "pastilla",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-4",
+      "translation": "temperatura",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-5",
+      "translation": "tos",
+      "answerText": null
+    }
+  ]
+}

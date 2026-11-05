@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.906Z"
+  },
+  "title": "სუპერმარკეტში",
+  "instructions": {
+    "im-supermarkt-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "im-supermarkt-gap": "მონიშნეთ შესაფერისი შეფუთვა ან რაოდენობა.",
+    "im-supermarkt-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "im-supermarkt-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "im-supermarkt-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "im-supermarkt-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "საყიდლების ურიკა",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "ყიდვისას საქონელს მასში დებ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "ყველის დახლი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "აქ ახალ ყველს წონით ყიდულობ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "ბოთლის დეპოზიტი (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "ფული, რომელსაც ცარიელი ბოთლების ჩაბარებისას იბრუნებ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "ბოთლების მიმღები აპარატი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "აქ ცარიელ ბოთლებს აბარებ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "აქცია",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "პროდუქტი მოკლე დროით უფრო იაფია.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "ჩეკი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "ამ ქაღალდზე ყველა ფასია.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "პარკი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "მასში ნაყიდს სახლში მიიტან.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "იოგურტის ერთ ჭიქას ვყიდულობ.",
+      "answerText": "ჭიქას"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "და წყლის ერთი ბოთლიც, თუ შეიძლება.",
+      "answerText": "ბოთლიც"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "მაკარონის ერთი შეკვრა გვჭირდება.",
+      "answerText": "შეკვრა"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "სოუსისთვის პომიდვრის ერთ ქილას ვიღებ.",
+      "answerText": "ქილას"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "გაუდას ყველი 200 გრამი მომეცით, თუ შეიძლება.",
+      "answerText": "გრამი"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "კარაქის ერთი შეკვრა 2,29 ევრო ღირს.",
+      "answerText": "შეკვრა"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "ერთ ლიტრ რძეს ავიღებ.",
+      "answerText": "ლიტრ"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "ხუთ ევროს ხომ ვერ დამიხურდავებთ?",
+      "answerText": "დამიხურდავებთ"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "უკაცრავად, ფქვილს სად ვიპოვი?",
+      "answerText": "ვიპოვი"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "ბარათით ვიხდი.",
+      "answerText": "ვიხდი"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "გაუდას ყველი 200 გრამი მინდა.",
+      "answerText": "მინდა"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "კვირაობით თითქმის ყველა სუპერმარკეტი დაკეტილია.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "ბოთლი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "ჭიქა (იოგურტის)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "ქილა",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "პური",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "ვაშლი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "ბანანი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "უკაცრავად, ფქვილს სად ვიპოვი?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "ჩანთა თან მაქვს.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "ბანანი დღეს აქციაშია.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "სად არის ბოთლების მიმღები აპარატი?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "საყიდლების ურიკა",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ჩეკი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "ბოთლის დეპოზიტი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "ყველი",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "ფუნთუშა",
+      "answerText": null
+    }
+  ]
+}

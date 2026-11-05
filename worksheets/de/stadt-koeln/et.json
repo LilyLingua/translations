@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:18.173Z"
+  },
+  "title": "Köln",
+  "instructions": {
+    "stadt-koeln-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-koeln-gap": "Märkige õige sõna.",
+    "stadt-koeln-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-koeln-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-koeln-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-koeln-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "„Kölle Alaaf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Hüüd Kölni karnevalil – umbes „Elagu Köln!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "toomkirik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Suur kahe torniga kirik otse peajaama kõrval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "„Kölsch“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Hele õlu Kölnist; seda juuakse väikestest kitsastest klaasidest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "„Köbes“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Kelner õllekõrtsis; ta toob uue Kölschi, kuni klaasile pannakse õllealus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "„Halve Hahn“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Rukkisai juustuga – mitte pool kana!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "„Veedel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Kölni murdes linnaosa; iga kölnlane armastab oma Veedelit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "roosiesmaspäev (Rosenmontag)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Karnevali tipphetk suure rongkäiguga läbi linna.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Ta joob õllekõrtsis ühe Kölschi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Köbes toob järgmise Kölschi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Roosiesmaspäeval vaatame rongkäiku läbi linna.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Paljud turistid külastavad Kölni toomkirikut.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Ma tellin ühe Halve Hahni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Paljud inimesed kõnnivad üle Hohenzollerni silla.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Karnevalil kannavad inimesed kostüümi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Karnevalil hüüavad inimesed „Kölle Alaaf!“.",
+      "answerText": "hüüavad"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Köbes toob küsimata uue Kölschi.",
+      "answerText": "toob"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "Toomkirik on üle 150 meetri kõrge.",
+      "answerText": "on"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Rein voolab otse läbi Kölni keskosa.",
+      "answerText": "voolab"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "11. novembril kell 11.11 algab karneval.",
+      "answerText": "algab"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "toomkirik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "sild",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "klaas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "rongkäik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "kostüüm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "kõrts",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "Kölni toomkirik seisab otse jaama kõrval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Roosiesmaspäeval peab kogu Köln karnevali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Kas soovite veel ühte Kölschi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "Kölnis juuakse Kölschi väikestest klaasidest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "karneval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "kostüüm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "jaam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "kõrts",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "klaas",
+      "answerText": null
+    }
+  ]
+}

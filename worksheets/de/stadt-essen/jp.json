@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:04.976Z"
+  },
+  "title": "エッセン",
+  "instructions": {
+    "stadt-essen-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-essen-gap": "正しい単語に印をつけましょう。",
+    "stadt-essen-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-essen-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-essen-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-essen-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "ツォルフェライン炭鉱",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "古い炭鉱。今はユネスコ世界遺産で、博物館やデザインの施設がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "巻き上げやぐら",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "炭鉱の上にある高い塔。これで人と石炭を地上へ運んだ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "「グリュック・アウフ！」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "炭鉱夫のあいさつ。みんなが無事に地上へ戻れるようにと願う言葉。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "ヴィラ・ヒューゲル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "たくさんの部屋と公園があるクルップ家の大きな屋敷。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "バルデナイ湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "ルール川の湖。ヨット、ボート、散歩ができる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "グルガパーク",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "花や遊び場や動物がいる大きな公園。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "文化首都",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "2010年にエッセンがルール地方全体のために受けた称号。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "夏には多くの人がバルデナイ湖でヨットに乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "クルップ家はヴィラ・ヒューゲルに住んでいました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "私たちはツォルフェライン炭鉱のガイドツアーに参加します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "巻き上げやぐらはエッセンのシンボルです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "日曜日、私たちはグルガパークに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "エッセンは2010年の欧州文化首都でした。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "ロート・ヴァイス・エッセンはハーフェン通りで試合をします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "炭鉱夫たちは「グリュック・アウフ！」と言います。",
+      "answerText": "言い"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "巻き上げやぐらは古い炭鉱の上に立っています。",
+      "answerText": "立って"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "今はもう地下から石炭が出てきません。",
+      "answerText": "出て"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "多くの観光客がツォルフェライン炭鉱を訪れます。",
+      "answerText": "訪れ"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "ルール川はバルデナイ湖を通って流れています。",
+      "answerText": "流れて"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "鉱山",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "公園",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "屋敷",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "博物館",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "ホール",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "ツォルフェライン炭鉱はユネスコ世界遺産に属しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "週末、私たちはバルデナイ湖へ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "グルガパークに行ったことがありますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "昔は多くの炭鉱夫が地下で働いていました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "博物館",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "鉱山",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "屋敷",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "石炭",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "ホール",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:18.924Z"
+  },
+  "title": "Augsburg",
+  "instructions": {
+    "stadt-augsburg-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-augsburg-gap": "Märkige õige sõna.",
+    "stadt-augsburg-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-augsburg-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-augsburg-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-augsburg-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-augsburg-matching-1",
+      "translation": "Fuggerei",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-1:meaning",
+      "translation": "Maailma vanim sotsiaalasum; üür maksab ainult 0,88 eurot aastas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2",
+      "translation": "Augsburgi nukuteater (Augsburger Puppenkiste)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2:meaning",
+      "translation": "Kuulus marionetiteater, tuntud telest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3",
+      "translation": "rahupüha (Friedensfest)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3:meaning",
+      "translation": "8. augustil on puhkepäev ainult Augsburgis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4",
+      "translation": "Kuldne saal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4:meaning",
+      "translation": "Toretsev saal raekojas, laes palju kulda.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5",
+      "translation": "Perlachi torn (Perlachturm)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5:meaning",
+      "translation": "Kõrge torn raekoja kõrval; sinna saab üles ronida.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6",
+      "translation": "Plärrer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6:meaning",
+      "translation": "Suur rahvapidu kevadel ja sügisel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7",
+      "translation": "Bertolt Brecht",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7:meaning",
+      "translation": "Kuulus kirjanik, kes sündis Augsburgis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-1",
+      "translation": "Fuggereis elavad inimesed tänini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-2",
+      "translation": "Lapsed vaatavad nukuteatris etendust.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-3",
+      "translation": "8. augustil on augsburglastel vaba päev.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-4",
+      "translation": "Me ronime Perlachi torni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-5",
+      "translation": "Raekojas külastame Kuldset saali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-6",
+      "translation": "Kevadel lähevad paljud Plärrerile.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-7",
+      "translation": "Brecht sündis Lechi-äärses linnas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-1",
+      "translation": "Üür maksab ainult 0,88 eurot aastas.",
+      "answerText": "maksab"
+    },
+    {
+      "id": "stadt-augsburg-verbs-2",
+      "translation": "Nukuteatris mängivad marionetid teatrit.",
+      "answerText": "mängivad"
+    },
+    {
+      "id": "stadt-augsburg-verbs-3",
+      "translation": "8. augustil tähistab Augsburg rahupüha.",
+      "answerText": "tähistab"
+    },
+    {
+      "id": "stadt-augsburg-verbs-4",
+      "translation": "Augsburg on üle 2000 aasta vana.",
+      "answerText": "on"
+    },
+    {
+      "id": "stadt-augsburg-verbs-5",
+      "translation": "Perlachi tornist näeb kogu linna.",
+      "answerText": "näeb"
+    },
+    {
+      "id": "stadt-augsburg-table-1",
+      "translation": "nukk",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-2",
+      "translation": "saal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-3",
+      "translation": "pidu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-4",
+      "translation": "üür",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-5",
+      "translation": "torn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-6",
+      "translation": "teater",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-1",
+      "translation": "Fuggerei on üle 500 aasta vana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-2",
+      "translation": "Kas sa tead Augsburgi nukuteatrit?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-3",
+      "translation": "8. augustil on Augsburgis puhkepäev.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-4",
+      "translation": "Raekojas on kuldne saal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-1",
+      "translation": "teater",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-2",
+      "translation": "nukk",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-3",
+      "translation": "puhkepäev",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-4",
+      "translation": "üür",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-5",
+      "translation": "saal",
+      "answerText": null
+    }
+  ]
+}

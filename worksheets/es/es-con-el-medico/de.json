@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:38.875Z"
+  },
+  "title": "Beim Arzt",
+  "instructions": {
+    "es-con-el-medico-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-con-el-medico-gap": "Wähle das richtige Wort.",
+    "es-con-el-medico-verbs": "Schreib das richtige Verb.",
+    "es-con-el-medico-order": "Ordne die Wörter und schreib den Satz.",
+    "es-con-el-medico-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-con-el-medico-matching-1",
+      "translation": "der Termin",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-1:meaning",
+      "translation": "Eine feste Zeit, um zum Arzt zu gehen.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-2",
+      "translation": "das Symptom",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-2:meaning",
+      "translation": "Ein Zeichen einer Krankheit, zum Beispiel Fieber.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-3",
+      "translation": "das Fieber",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-3:meaning",
+      "translation": "Eine zu hohe Körpertemperatur.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-4",
+      "translation": "das Wartezimmer",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-4:meaning",
+      "translation": "Der Raum, in dem du vor der Sprechstunde wartest.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-5",
+      "translation": "die Krankenversicherung",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-5:meaning",
+      "translation": "Sie bezahlt einen Teil deiner Kosten für die Gesundheit.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-6",
+      "translation": "die Krankschreibung",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-matching-6:meaning",
+      "translation": "Ein Papier vom Arzt, dass du nicht arbeiten kannst.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-gap-1",
+      "translation": "Ich möchte einen Termin für morgen.",
+      "answerText": "Termin"
+    },
+    {
+      "id": "es-con-el-medico-gap-2",
+      "translation": "Ich habe seit gestern Fieber.",
+      "answerText": "Fieber"
+    },
+    {
+      "id": "es-con-el-medico-gap-3",
+      "translation": "Bitte warten Sie im Wartezimmer.",
+      "answerText": "Wartezimmer"
+    },
+    {
+      "id": "es-con-el-medico-gap-4",
+      "translation": "Haben Sie eine Krankenversicherung?",
+      "answerText": "Krankenversicherung"
+    },
+    {
+      "id": "es-con-el-medico-gap-5",
+      "translation": "Ich brauche eine Krankschreibung für meine Arbeit.",
+      "answerText": "Krankschreibung"
+    },
+    {
+      "id": "es-con-el-medico-gap-6",
+      "translation": "Welche Symptome haben Sie?",
+      "answerText": "Symptome"
+    },
+    {
+      "id": "es-con-el-medico-verbs-1",
+      "translation": "Mir tut der Hals weh.",
+      "answerText": "tut"
+    },
+    {
+      "id": "es-con-el-medico-verbs-2",
+      "translation": "Ich schlafe nachts schlecht.",
+      "answerText": "schlafe"
+    },
+    {
+      "id": "es-con-el-medico-verbs-3",
+      "translation": "Der Arzt misst meinen Blutdruck.",
+      "answerText": "misst"
+    },
+    {
+      "id": "es-con-el-medico-verbs-4",
+      "translation": "Sie müssen zwei Tage im Bett bleiben.",
+      "answerText": "bleiben"
+    },
+    {
+      "id": "es-con-el-medico-verbs-5",
+      "translation": "Bitte atmen Sie tief.",
+      "answerText": "atmen"
+    },
+    {
+      "id": "es-con-el-medico-order-1",
+      "translation": "Mir tut der Bauch sehr weh.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-2",
+      "translation": "Wann kann ich in die Sprechstunde kommen?",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-3",
+      "translation": "Brauche ich ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-order-4",
+      "translation": "Kommen Sie nächste Woche wieder.",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-1",
+      "translation": "Bauch, Magen",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-2",
+      "translation": "Hals",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-3",
+      "translation": "Kopf",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-4",
+      "translation": "Gesundheit",
+      "answerText": null
+    },
+    {
+      "id": "es-con-el-medico-spelling-5",
+      "translation": "Arzt",
+      "answerText": null
+    }
+  ]
+}

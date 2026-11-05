@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:44.028Z"
+  },
+  "title": "병원에서",
+  "instructions": {
+    "beim-arzt-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "beim-arzt-gap": "알맞은 단어에 표시하세요.",
+    "beim-arzt-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "beim-arzt-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "beim-arzt-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "beim-arzt-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "건강보험 카드",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "접수처에서 보여 주는 카드. 가입한 건강보험이 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "진료 예약",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "병원에 가는 정해진 시간.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "대기실",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "이름을 부를 때까지 여기에 앉아 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "처방전",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "이것으로 약국에서 약을 받습니다.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "병가 확인서",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "아플 때 회사가 이 서류를 받습니다.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "열",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "체온이 너무 높습니다. 예를 들어 39도.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "알레르기",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "몸이 어떤 것에 강하게 반응합니다. 예를 들어 페니실린.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "긴급 전화",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "112번 – 사고나 응급 상황일 때.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "안녕하세요, 진료 예약을 하고 싶어요.",
+      "answerText": "예약"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "건강보험 카드를 가지고 오셨어요?",
+      "answerText": "건강보험 카드"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "대기실에 앉아 계세요.",
+      "answerText": "대기실"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "머리가 아프고 열이 있어요.",
+      "answerText": "머리가 아프고"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "배가 아파요.",
+      "answerText": "배"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "저는 페니실린 알레르기가 있어요.",
+      "answerText": "페니실린"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "회사에 낼 병가 확인서가 필요해요.",
+      "answerText": "병가 확인서"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "알약은 하루 세 번 식사 후에 드세요.",
+      "answerText": "식사"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "좀 더 천천히 말씀해 주실 수 있어요?",
+      "answerText": "말씀해"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "3일째 열이 나요.",
+      "answerText": "나요"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "머리가 많이 아파요.",
+      "answerText": "아파요"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "숨을 깊이 들이마시고 – 다시 내쉬세요.",
+      "answerText": "들이마시고"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "의사 선생님이 처방전을 줍니다.",
+      "answerText": "줍니다"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "곧 불러 드릴게요.",
+      "answerText": "불러"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "의사",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "알약",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "처방전",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "진료 예약",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "병원(진료소)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "약",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "진료 예약을 하고 싶어요.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "3일째 열이 나요.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "다시 한번 말씀해 주실 수 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "어디가 아파요?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "두통",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "병가 확인서",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "건강보험 카드",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "알레르기가 있는",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "알약",
+      "answerText": null
+    }
+  ]
+}

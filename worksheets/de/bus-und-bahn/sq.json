@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.102Z"
+  },
+  "title": "Me autobus dhe tren",
+  "instructions": {
+    "bus-und-bahn-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "bus-und-bahn-gap": "Shënoni fjalën e duhur.",
+    "bus-und-bahn-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "bus-und-bahn-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "bus-und-bahn-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "bus-und-bahn-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "bileta",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Me të lejohet të udhëtoni me autobus ose tren.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "automati i biletave",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Këtu blini një biletë pa sportel.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "binari",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Këtu ndalon treni në stacion.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "vonesa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Treni vjen më vonë se sa ishte planifikuar.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "të ndërrosh mjetin",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Kaloni nga një tren në një tjetër.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "stacioni (i autobusit)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Këtu ndalon autobusi.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Një biletë mujore për autobus dhe tren në transportin lokal në gjithë Gjermaninë.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Treni për Këln niset nga binari 5.",
+      "answerText": "binari"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Treni ka dhjetë minuta vonesë.",
+      "answerText": "vonesë"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Ku është stacioni më i afërt?",
+      "answerText": "stacioni"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Një biletë për Berlin, ju lutem.",
+      "answerText": "biletë"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Ju lutem tregoni biletën tuaj.",
+      "answerText": "biletën"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metroja kalon çdo dhjetë minuta.",
+      "answerText": "Metroja"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Në automat mund të blini bileta.",
+      "answerText": "automat"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Ku duhet të ndërroj mjetin?",
+      "answerText": "ndërroj"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Autobusi niset në orën 8:15.",
+      "answerText": "niset"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Ne arrijmë në Hamburg në orën 10.",
+      "answerText": "arrijmë"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Ju lutem zbritni këtu.",
+      "answerText": "zbritni"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Sa zgjat udhëtimi?",
+      "answerText": "zgjat"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "treni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "stacioni hekurudhor",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "bileta",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "binari",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "stacioni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "autobusi",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Kur niset treni i radhës për Mynih?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Duhet të ndërroj trenin në Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Treni fatkeqësisht ka vonesë.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "A vlen bileta edhe për autobusin?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bileta",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "vonesa",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "stacioni",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "binari",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "stacioni hekurudhor",
+      "answerText": null
+    }
+  ]
+}

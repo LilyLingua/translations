@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.451Z"
+  },
+  "title": "Przedszkole i szkoła",
+  "instructions": {
+    "kita-und-schule-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "kita-und-schule-gap": "Zaznacz pasujące słowo.",
+    "kita-und-schule-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "kita-und-schule-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "kita-und-schule-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "kita-und-schule-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "zebranie rodziców (wywiadówka)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Spotkanie rodziców z nauczycielami.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "przedszkole (żłobek)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Tutaj w ciągu dnia opiekuje się małymi dziećmi.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "wychowawczyni",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Odpowiada za klasę szkolną.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "świadectwo",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Tu są oceny na koniec roku szkolnego.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "usprawiedliwienie",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Krótki list do szkoły, gdy dziecko było chore.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "ferie (wakacje)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Czas bez szkoły, na przykład latem.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "wycieczka",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Klasa jedzie razem w inne miejsce.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mój syn jest chory. Dziś nie może przyjść do szkoły.",
+      "answerText": "szkoły"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Na zebraniu rodziców rodzice rozmawiają z nauczycielką.",
+      "answerText": "zebraniu rodziców"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Latem dzieci mają sześć tygodni wakacji.",
+      "answerText": "wakacji"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Na koniec roku szkolnego moja córka dostaje świadectwo.",
+      "answerText": "świadectwo"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Piszę nauczycielce usprawiedliwienie, bo moje dziecko było chore.",
+      "answerText": "usprawiedliwienie"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Dzieci muszą codziennie odrabiać zadania domowe.",
+      "answerText": "zadania domowe"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Moje dziecko ma trzy lata i chodzi do przedszkola.",
+      "answerText": "przedszkola"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Odbieram dziecko o 16:00.",
+      "answerText": "Odbieram"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Moja córka jest dziś niestety chora.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Czy możemy umówić się na spotkanie?",
+      "answerText": "umówić się"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Lekcje zaczynają się o 8:00.",
+      "answerText": "zaczynają się"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Proszę podpisać formularz do piątku.",
+      "answerText": "podpisać"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "dziecko",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "klasa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "nauczyciel",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "zeszyt",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "ocena",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "długopis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mój syn jest dziś chory.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Kiedy zaczyna się zebranie rodziców?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Odbieram córkę o 15:00.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Czy moje dziecko potrzebuje czegoś na wycieczkę?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "zebranie rodziców",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "świadectwo",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "usprawiedliwienie",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "zadania domowe",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "wychowawczyni",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.514Z"
+  },
+  "title": "À la boulangerie et au café",
+  "instructions": {
+    "baecker-und-cafe-matching": "Reliez chaque mot à l'explication qui convient.",
+    "baecker-und-cafe-gap": "Cochez le bon article.",
+    "baecker-und-cafe-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "baecker-und-cafe-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "baecker-und-cafe-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "baecker-und-cafe-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "le petit pain",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Un petit pain, souvent pour le petit-déjeuner.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "le bretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Une viennoiserie salée, typique du sud de l'Allemagne.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "le gâteau",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Quelque chose de sucré, souvent avec le café l'après-midi.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "la carte",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "On y trouve tous les plats et boissons.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "l'addition",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Elle indique combien vous devez payer.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "le pourboire",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Un peu d'argent en plus pour le serveur.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "à emporter",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Vous ne le mangez pas ou ne le buvez pas au café.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Je voudrais un petit pain.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Je prends un café.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Combien coûte le bretzel ?",
+      "answerText": "le"
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Je voudrais une part de gâteau.",
+      "answerText": "une"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "La table est-elle libre ?",
+      "answerText": "La"
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Je bois un thé au lait.",
+      "answerText": "un"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Apportez-moi l'addition, s'il vous plaît.",
+      "answerText": "l'"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Qu'est-ce que vous voulez boire ?",
+      "answerText": "voulez"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Je prends un cappuccino.",
+      "answerText": "prends"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Ça fait 6,40 euros en tout.",
+      "answerText": "fait"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Puis-je payer par carte ?",
+      "answerText": "payer"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Le gâteau est très bon.",
+      "answerText": "est"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "le petit pain",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "le gâteau",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "la tasse",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "le verre",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "l'assiette",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "le bretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Je voudrais deux petits pains.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Combien coûte le gâteau ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Puis-je payer par carte ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Vous mangez sur place ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "petit pain",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "gâteau",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "addition",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "café",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "pourboire",
+      "answerText": null
+    }
+  ]
+}

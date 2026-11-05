@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:55.664Z"
+  },
+  "title": "ไลพ์ซิช",
+  "instructions": {
+    "stadt-leipzig-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-leipzig-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-leipzig-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-leipzig-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-leipzig-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-leipzig-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "\"ไลพ์ซิเกอร์ แลร์เชอ\" (นกลาร์กไลพ์ซิช)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "ขนมเค้กชิ้นเล็กไส้มาร์ซิปัน สมัยก่อนผู้คนกินนกจริง ๆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "\"ไลพ์ซิเกอร์ อัลเลอร์ไล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "อาหารที่ทำจากผักหลายชนิด เช่น ถั่วลันเตาและแครอท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "การชุมนุมวันจันทร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "ฤดูใบไม้ร่วงปี 1989 ทุกวันจันทร์ผู้คนหลายพันคนออกมาเดินบนถนนเพื่อเสรีภาพ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "นิทรรศการขนาดใหญ่ ไลพ์ซิชเป็นหนึ่งในเมืองงานแสดงสินค้าที่เก่าแก่ที่สุดในโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "คณะนักร้องประสานเสียงโทมาเนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "คณะนักร้องประสานเสียงเด็กชายที่มีชื่อเสียง โยฮันน์ เซบาสเตียน บาค เคยเป็นผู้อำนวยเพลงที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "\"เอาเออร์บาคส์ เคลเลอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "ร้านอาหารเก่าแก่ใต้ดินกลางเมือง เกอเธ่เขียนถึงร้านนี้ในเรื่อง \"เฟาสท์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "\"ไฮพ์ซิช\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "ฉายา เพราะมีคนหนุ่มสาวย้ายมาอยู่ไลพ์ซิชมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "บาคเป็นผู้อำนวยเพลงที่โบสถ์โทมัส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "ปี 1989 ผู้คนมากมายชุมนุมบนถนนวงแหวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "พวกเราไปเยี่ยมชมอนุสาวรีย์ยุทธการแห่งประชาชาติ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "ตอนดื่มกาแฟ ฉันกินไลพ์ซิเกอร์ แลร์เชอหนึ่งชิ้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "ฤดูร้อนหลายคนว่ายน้ำในทะเลสาบคอสพูเดเนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "งานแสดงหนังสือจัดในฤดูใบไม้ผลิ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "สวนสัตว์อยู่ใกล้สถานีรถไฟหลัก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "คณะนักร้องประสานเสียงโทมาเนอร์ร้องเพลงในโบสถ์โทมัส",
+      "answerText": "ร้องเพลง"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "ฤดูใบไม้ร่วงปี 1989 ทุกวันจันทร์ผู้คนออกมาเดินบนถนน",
+      "answerText": "ออกมา"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "คนหนุ่มสาวหลายคนย้ายมาอยู่ไลพ์ซิช",
+      "answerText": "ย้าย"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "งานแสดงหนังสือจัดขึ้นทุกปีในเดือนมีนาคม",
+      "answerText": "จัด"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "สถานีรถไฟหลักเป็นหนึ่งในสถานีที่ใหญ่ที่สุดในยุโรป",
+      "answerText": "เป็น"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "คณะนักร้องประสานเสียง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "อนุสาวรีย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "สถานีรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "โบสถ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "หนังสือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "บาคทำงานที่ไลพ์ซิชหลายปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "เดือนมีนาคมมีผู้เข้าชมงานแสดงหนังสือมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "คุณรู้จักอนุสาวรีย์ยุทธการแห่งประชาชาติไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "ไลพ์ซิเกอร์ แลร์เชอเป็นขนมอบที่มีมาร์ซิปัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "อนุสาวรีย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "คณะนักร้องประสานเสียง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "สถานีรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "มาร์ซิปัน",
+      "answerText": null
+    }
+  ]
+}

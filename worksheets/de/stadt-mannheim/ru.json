@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:20.252Z"
+  },
+  "title": "Мангейм",
+  "instructions": {
+    "stadt-mannheim-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-mannheim-gap": "Отметьте правильное слово.",
+    "stadt-mannheim-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-mannheim-table": "Допишите артикль и форму множественного числа.",
+    "stadt-mannheim-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-mannheim-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "Квадраты",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "Центр города похож на шахматную доску; адреса звучат, например, «Q6» или «N1».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "Водонапорная башня",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "Символ Мангейма с красивым парком и фонтаном перед ней.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "мороженое-спагетти",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "Мороженое, которое выглядит как спагетти с томатным соусом, – его изобрели в Мангейме.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "дворец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "Большой барочный дворец; сегодня там находится университет.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "беговая машина (дрезина)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "Карл Дрез изобрёл её в 1817 году в Мангейме – это предок велосипеда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "«Моннем»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "Так мангеймцы на диалекте называют свой город.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "«Адлер» (Орлы)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "Хоккейная команда Мангейма.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "Мы фотографируем Водонапорную башню.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "В кафе мы заказываем мороженое-спагетти.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "Многие студенты учатся во дворце.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "В Квадратах быстро находишь любой адрес.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "Карл Дрез изобрёл беговую машину.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "Вечером мы смотрим игру «Адлер».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "Мангейм находится на Рейне и на Неккаре.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "Адреса состоят из буквы и числа.",
+      "answerText": "состоят"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "Мороженое-спагетти имеет вкус ванили и клубники.",
+      "answerText": "имеет"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "В Мангейме Неккар впадает в Рейн.",
+      "answerText": "впадает"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "«Адлер» играют в хоккей на SAP Arena.",
+      "answerText": "играют"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "Во дворце сегодня учится много студентов.",
+      "answerText": "учится"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "башня",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "число",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "улица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "дворец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "велосипед",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "фонтан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "Водонапорная башня стоит на Фридрихсплац.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "Ты любишь мороженое-спагетти?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "В Мангейме Неккар впадает в Рейн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "В адресах есть буквы и числа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "водонапорная башня",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "дворец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "велосипед",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "улица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "фонтан",
+      "answerText": null
+    }
+  ]
+}

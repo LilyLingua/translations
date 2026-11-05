@@ -1,0 +1,835 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Waxaan rabaa inaan is diiwaangeliyo."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Lambar ayaan qaadanayaa."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – miiska 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Waxaan rabaa inaan diiwaangeliyo gurigayga cusub."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Waa tan xaqiijinta mulkiilaha gurigayga."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Waa kan baasaboorkayga."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Waan higgaadinayaa: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Ma guursanin."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Xaggee ayaan ku saxiixaa?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Ma jiraan wax kale oo aan u baahanahay?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Waan guuray! Guri cusub, magaalo cusub …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Aad u fiican! Oo – ma is diiwaangelisay weli?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Is diiwaangeli? Xaggee? Goobta jimicsiga?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Maya, Leo. Xafiiska dowladda! Maanta waxaad soo mari doontaa ballan dhan oo ka dhaca „Bürgeramt“-ka – laga bilaabo albaabka ilaa shahaadada diiwaangelinta."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Xaalad kasta waxaan ku weydiinaynaa: Maxaad dhahaysaa?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Oo waxaad haysataa shan ilbiriqsi oo keliya!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Waxaad timid xafiiska dowladda. Nin ayaa fadhiya miiska macluumaadka."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Subax wanaagsan. Maxay tahay arrintaadu?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Subax wanaagsan. Waxaan rabaa inaan is diiwaangeliyo."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Anigu waxaan ahay arrin."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Waxaan rabaa xafiis."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ macnaheedu waa: Maxaad halkan u joogtaa? Maxaad u baahan tahay?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Eraygan aad baad ugu maqli doontaa xafiisyada dowladda."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Subax wanaagsan. Waxaan rabaa inaan is diiwaangeliyo."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Ballan ma leedahay?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Haa, saacadda sagaalka."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Waxaan rabaa inaan is diiwaangeliyo."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Ballan ayaan leeyahay saacadda sagaalka."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Wanaagsan. Markaa fadlan qaado lambar oo halkaas ku sug."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Hadda maxaad samaynaysaa?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Waad guuraysaa."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Qof timaha ayaad ka jiidaysaa."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Mashiinka ayaad ka qaadanaysaa warqad lambar leh."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Haddaba, A! Waan guurayaa. Anigu dhawaan ayaan guuray …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Maya, Leo. C! „Eine Nummer ziehen“ macnaheedu waa: waxaad qaadanaysaa warqad leh lambarkaaga sugitaanka. „Umziehen“"
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "waa wax gebi ahaanba ka duwan – macnaheedu waa: u guurid guri cusub."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Lambar ayaan qaadanayaa."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Waad sugaysaa. Si lama filaan ah ayaad u maqashaa ogeysiis. Si fiican u dhegeyso!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Lambarka 147, fadlan u gudub miiska 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Lambarkaagu waa 147. Xaggee u socotaa?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Miiska 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Miiska 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Qolka 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Marka hore waxaa yimaada lambarkaaga, kadibna miiska."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Xafiisyo badan waxaa sidoo kale lagu muujiyaa shaashad."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – miiska 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Waxaad u tagtaa miiska 12. Halkaas haweeney ayaa fadhida."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Subax wanaagsan. Fadlan fadhiiso. Sideen kuu caawin karaa?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Waxaan rabaa inaan adiga ku diiwaangeliyo."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Waxaan rabaa inaan diiwaangeliyo gurigayga cusub."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Hadda halkan ayaan ku noolahay. Nabadeey!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Waxaad diiwaangelinaysaa gurigaaga – ama naftaada: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Laakiin ma aha „Sie“ (adiga) – Marwo Krüger horay ayay u diiwaangashan tahay."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Waxaan rabaa inaan diiwaangeliyo gurigayga cusub."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Dabcan. Goormaad soo degtay?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Kowda Oktoobar."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Waxaan rabaa inaan diiwaangeliyo gurigayga cusub."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Waxaan soo degay kowda Oktoobar."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Ma wadataa xaqiijinta mulkiilaha guriga?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, eray dheer! Maxaad dhahaysaa?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Maya, guri ma bixiyo."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Haa, gurigayga ayaan ku siinayaa."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Haa, waa tan xaqiijinta mulkiilaha gurigayga."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ waa foom ka yimaada mulkiilaha gurigaaga. Wuxuu xaqiijinayaa inaad runtii ku nooshahay gurigan."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Warqaddan la'aanteed, diiwaangelintu badanaa suurtagal ma aha."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Haa, waa tan xaqiijinta mulkiilaha gurigayga."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Waa tan xaqiijinta mulkiilaha gurigayga."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Iyo kaarkaaga aqoonsiga ama baasaboorkaaga, fadlan."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Waa kan baasaboorkayga."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Waa kuwan baasaboorkayga."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Anigu waxaan ahay baasaboor."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Hal baasaboor – sidaa darteed „ist“ (waa), ma aha „sind“ (waa, jamac). Baasaboorka ama kaarka aqoonsiga ku dhawaad had iyo jeer ayaad ugu baahan tahay xafiisyada dowladda."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Haddii aad ilowday, si daacad ah u dheh: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Raali ahow, nasiib darro waan ilaaway.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Waa kan baasaboorkayga."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Waa kan baasaboorkayga."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Raali ahow, nasiib darro waan ilaaway."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Sidee loo qoraa magacaaga qoyska?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Magacaagu waa Nowak. Maxaad dhahaysaa?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Qalin biiro ah ayaa lagu qoraa."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Waan higgaadinayaa: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Si aad u qurux badan ayaa loo qoraa."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ macnaheedu waa: Xarfahee? Markaa waad higgaadinaysaa – xaraf xaraf."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Ku celceli magacaaga af Jarmal, meel kasta ayaad u baahan doontaa!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Mahadsanid."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Waan higgaadinayaa: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Ma guursatay?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Ma guursanin. Maxaad dhahaysaa?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Maya, ma guursanin."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Maya, anigu nasiib darro."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Maya, anigu guursi."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ macnaheedu waa: aan guursan. Digtoonow: „leider“ way u dhawaaqid eg tahay, laakiin macne gebi ahaanba ka duwan ayay leedahay – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "macnaheedu waa: nasiib darro."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Maya, ma guursanin."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Ma guursanin."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Waan guursaday."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Fadlan hubi xogta. Haddii wax walba sax yihiin, fadlan halkan saxiix."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Miiska hoostiisa ayaan ku qorayaa."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Ma jecli inaan saxiixo."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Wax walba waa sax. Meeshee saxda ah ayaan ku saxiixaa?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ macnaheedu waa: inaad magacaaga gacanta ku qorto – saxiixaaga."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Waxaa kale oo wanaagsan in la ogaado: marka hore had iyo jeer akhri waxa foomka ku qoran."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Wax walba waa sax. Meeshee saxda ah ayaan ku saxiixaa?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Halkan hoose, fadlan."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Xaggee ayaan ku saxiixaa?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Haddaba, waa intaas. Waa tan shahaadadaada diiwaangelinta."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Waad dhammaysay! Maxaad dhahaysaa?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Mahadsanid, dib ayaan kuula soo xiriiri doonaa."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Aad baad u mahadsan tahay! Ma jiraan wax kale oo aan u baahanahay?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Waxba ima hayaan!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Oo ka digtoonow A: „Ich melde mich“ macnaheedu ma aha „waan is diiwaangelinayaa“, balse: goor dambe ayaan ku soo wici doonaa."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "C-na waxaa laga yaabaa inaad xasuusato – taasi waxay ku habboon tahay oo keliya dhakhtarka!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Aad baad u mahadsan tahay! Ma jiraan wax kale oo aan u baahanahay?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Maya, waa intaas oo dhan. Shahaadada meel ammaan ah ku hay."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Ma jiraan wax kale oo aan u baahanahay?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Saddex talo oo ku saabsan diiwaangelinta. Kowaad: is diiwaangeli laba toddobaad gudahood kadib markaad soo degto."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Labaad: magaalooyin badan waxaad u baahan tahay ballan – badanaa waxaad ka qabsan kartaa internetka."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Saddexaad: shahaadada diiwaangelinta marar badan ayaad mar kale u baahan doontaa, tusaale ahaan akoon bangi."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Markaa si fiican u kaydi!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Xafiisyada dowladda, af Jarmalku mararka qaarkood aad buu u adag yahay. Leo ayaa akhrinaya – aniguna si fudud ayaan u sheegayaa."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Maxay tahay arrintaadu?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Maxaad u baahan tahay?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Fadlan diyaarso dukumentiyadaada."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Fadlan waraaqahaaga gacanta ku hay."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Foomka si buuxda u buuxi."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Meel kasta wax ku qor."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Habaynta waxay qaadanaysaa qiyaastii laba toddobaad."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Waxay qaadanaysaa ku dhawaad laba toddobaad."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Fadlan dukumentiyada goor dambe soo gudbi."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Fadlan waraaqaha goor dambe keen."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Maanta dharka ayaan beddelanayaa!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Oh, dhar kale ayaad xiranaysaa? Mise waxaad ula jeeddaa: „Ich ziehe um“ – waxaan u guurayaa guri cusub?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Xafiisyada dowladdana: ma aha „Ich bin leider“, balse „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(ma guursanin) – haddii aadan guursan."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "„Ich melde mich“ macnaheedu waa: goor dambe ayaan soo wici doonaa. Xafiisyada dowladda waxaad dhahdaa: „Ich melde mich an.“ (Waan is diiwaangelinayaa.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Hadda dhammaan mar kale. Tobanka jumladood ee ugu muhiimsan. Iga daba dheh!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Waxaan rabaa inaan is diiwaangeliyo."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Ballan ayaan leeyahay saacadda sagaalka."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Lambar ayaan qaadanayaa."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Waxaan rabaa inaan diiwaangeliyo gurigayga cusub."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Waa tan xaqiijinta mulkiilaha gurigayga."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Waa kan baasaboorkayga."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Magacayga ayaan higgaadinayaa."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Ma guursanin."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Xaggee ayaan ku saxiixaa?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Ma jiraan wax kale oo aan u baahanahay?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Erayga kee ayaa kuugu adkaa? Ku qor faallooyinka!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Nabadeey, waxaan isku aragnaa dhawaan LilyLingua!"
+    }
+  ]
+}

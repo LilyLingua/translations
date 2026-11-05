@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.457Z"
+  },
+  "title": "วันแรกของการทำงาน",
+  "instructions": {
+    "erster-arbeitstag-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "erster-arbeitstag-gap": "ทำเครื่องหมายที่รูปที่ถูกต้อง",
+    "erster-arbeitstag-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "erster-arbeitstag-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "erster-arbeitstag-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "erster-arbeitstag-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "เพื่อนร่วมงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "ผู้ชายที่คุณทำงานด้วย",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "หัวหน้า (หญิง)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "เธอเป็นผู้นำทีม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "เวลาพัก",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "เวลาว่างระหว่างทำงาน เช่น สำหรับกินข้าว",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "วันหยุดพักร้อน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "วันหยุดที่ไม่ต้องทำงานแต่ยังได้เงิน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ชั่วโมงทำงานล่วงเวลา",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "ชั่วโมงที่คุณทำงานมากกว่าที่วางแผนไว้",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "สัญญาจ้างงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "ในนี้มีเงินเดือน เวลาทำงาน และวันลาพักร้อน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "โรงอาหารพนักงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "พนักงานกินข้าวที่นี่ในบริษัท",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "นี่คือเพื่อนร่วมงานคนใหม่ของฉัน",
+      "answerText": "ของฉัน"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "ฉันขอแนะนำเพื่อนร่วมงานของฉันให้คุณรู้จักได้ไหม",
+      "answerText": "ของฉัน"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "ฉันชอบทำงานร่วมกับทีม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "เราเจอกันที่โรงอาหาร",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "ฉันมีคำถามหนึ่งข้อ",
+      "answerText": "หนึ่ง"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "เวลาพักเริ่มเมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "ฉันส่งรายงานให้หัวหน้า",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "ฉันขอแนะนำตัวสั้น ๆ ได้ไหม",
+      "answerText": "แนะนำ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "ฉันทำงานตั้งแต่ 8.00 ถึง 16.00 น.",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "ฉันจะหาห้องน้ำได้ที่ไหน",
+      "answerText": "หา"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "ในทีมเราเรียกกันแบบเป็นกันเอง",
+      "answerText": "เรียก"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "คุณช่วยอธิบายเรื่องนี้ให้ฉันได้ไหม",
+      "answerText": "อธิบาย"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "เพื่อนร่วมงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "บริษัท",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "สำนักงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "คอมพิวเตอร์",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "การประชุม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "ทีม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "ฉันขอแนะนำตัวสั้น ๆ ได้ไหม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "ฉันเป็นคนใหม่ในทีม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "พักกลางวันเริ่มเมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "คุณช่วยอธิบายเรื่องนี้ให้ฉันได้ไหม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "เพื่อนร่วมงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "การประชุม",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "วันหยุดพักร้อน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "สำนักงาน",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ชั่วโมงทำงานล่วงเวลา",
+      "answerText": null
+    }
+  ]
+}

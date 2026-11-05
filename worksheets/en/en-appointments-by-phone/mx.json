@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.069Z"
+  },
+  "title": "Citas por teléfono",
+  "instructions": {
+    "en-appointments-by-phone-matching": "Relaciona cada palabra con su significado.",
+    "en-appointments-by-phone-gap": "Elige la palabra correcta.",
+    "en-appointments-by-phone-verbs": "Escribe el verbo correcto.",
+    "en-appointments-by-phone-order": "Ordena las palabras y escribe la oración.",
+    "en-appointments-by-phone-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-appointments-by-phone-matching-1",
+      "translation": "llamar",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-1:meaning",
+      "translation": "Hablar con alguien por teléfono.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2",
+      "translation": "cancelar",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2:meaning",
+      "translation": "Decir que no vas a ir.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3",
+      "translation": "reprogramar",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3:meaning",
+      "translation": "Cambiar la hora de una cita.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4",
+      "translation": "el buzón de voz",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4:meaning",
+      "translation": "Un mensaje que dejas cuando nadie contesta.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5",
+      "translation": "la extensión",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5:meaning",
+      "translation": "Un número corto de teléfono dentro de una empresa.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6",
+      "translation": "disponible",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6:meaning",
+      "translation": "Libre, sin compromisos.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-gap-1",
+      "translation": "Quisiera cancelar mi cita del viernes.",
+      "answerText": "cancelar"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-2",
+      "translation": "¿Podemos cambiarla para la próxima semana?",
+      "answerText": "cambiarla"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-3",
+      "translation": "¿El doctor está disponible el lunes?",
+      "answerText": "disponible"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-4",
+      "translation": "Por favor, deje un mensaje en mi buzón de voz.",
+      "answerText": "buzón"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-5",
+      "translation": "¿Me puede regresar la llamada más tarde?",
+      "answerText": "regresar"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-6",
+      "translation": "Por favor, marque la extensión dos cuatro cinco.",
+      "answerText": "extensión"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-1",
+      "translation": "Hola, habla Maria Lopez.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-2",
+      "translation": "Necesito una cita.",
+      "answerText": "Necesito"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-3",
+      "translation": "¿Podría repetir eso, por favor?",
+      "answerText": "repetir"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-4",
+      "translation": "Le marco en diez minutos.",
+      "answerText": "marco"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-5",
+      "translation": "La oficina cierra a las cinco.",
+      "answerText": "cierra"
+    },
+    {
+      "id": "en-appointments-by-phone-order-1",
+      "translation": "¿Puedo hablar con el doctor Brown?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-2",
+      "translation": "Quisiera cancelar mi cita.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-3",
+      "translation": "¿Le queda bien el martes a las diez?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-4",
+      "translation": "Por favor, regréseme la llamada.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-1",
+      "translation": "disponible",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-2",
+      "translation": "mensaje",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-3",
+      "translation": "miércoles",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-4",
+      "translation": "cancelar",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-5",
+      "translation": "teléfono",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.664Z"
+  },
+  "title": "バスと電車で",
+  "instructions": {
+    "bus-und-bahn-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "bus-und-bahn-gap": "合う単語に印をつけなさい。",
+    "bus-und-bahn-verbs": "正しい動詞を正しい形で入れなさい。",
+    "bus-und-bahn-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "bus-und-bahn-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "bus-und-bahn-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "切符",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "これがあればバスや電車に乗れます。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "券売機",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "窓口なしで切符を買えるところ。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "番線（ホーム）",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "電車が駅で止まるところ。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "遅延",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "電車が予定より遅れて来ること。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "乗り換える",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "ある電車から別の電車に移ること。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "バス停",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "バスが止まるところ。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "ドイチュラントチケット",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "ドイツ全国のバスと近距離電車で使える定期券（1か月）。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "ケルン行きの電車は5番線から出ます。",
+      "answerText": "番線"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "電車は10分遅れています。",
+      "answerText": "遅れています"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "一番近いバス停はどこですか？",
+      "answerText": "バス停"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "ベルリンまでの切符を1枚ください。",
+      "answerText": "切符"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "切符を見せてください。",
+      "answerText": "切符"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "地下鉄は10分ごとに来ます。",
+      "answerText": "地下鉄"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "券売機で切符を買えます。",
+      "answerText": "券売機"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "どこで乗り換えなければなりませんか？",
+      "answerText": "乗り換え"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "バスは8時15分に出発します。",
+      "answerText": "出発します"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "10時にハンブルクに着きます。",
+      "answerText": "着きます"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "ここで降りてください。",
+      "answerText": "降りて"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "移動にどのくらいかかりますか？",
+      "answerText": "かかります"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "電車",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "駅",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "切符",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "番線",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "停留所",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "バス",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "ミュンヘン行きの次の電車はいつ出ますか？",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "マンハイムで乗り換えなければなりません。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "電車は残念ながら遅れています。",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "この切符はバスでも使えますか？",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "切符",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "遅延",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "停留所",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "番線",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "駅",
+      "answerText": null
+    }
+  ]
+}

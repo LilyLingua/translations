@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.911Z"
+  },
+  "title": "At the Pharmacy",
+  "instructions": {
+    "in-der-apotheke-matching": "Match each word with the correct explanation.",
+    "in-der-apotheke-gap": "Tick the correct word.",
+    "in-der-apotheke-verbs": "Fill in the correct verb in the correct form.",
+    "in-der-apotheke-table": "Fill in the article (der/die/das) and the plural form.",
+    "in-der-apotheke-order": "Put the words in the correct order and write the sentence.",
+    "in-der-apotheke-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "the prescription",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "The paper from the doctor for a medicine.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "the tablet",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "A small medicine that you swallow.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "the cough syrup",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "A liquid medicine against coughs.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "the ointment",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "You spread it on the skin.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "the side effect",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "An unwanted effect of a medicine.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "the package leaflet",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "The piece of paper in the medicine box with all the information.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "the co-payment",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "You pay a small amount for a prescription yourself.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "I have a prescription from my doctor.",
+      "answerText": "prescription"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Do you have anything for a sore throat?",
+      "answerText": "sore throat"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Take two tablets a day.",
+      "answerText": "tablets"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "The ointment is for the skin.",
+      "answerText": "skin"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Please read the package leaflet.",
+      "answerText": "package leaflet"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "The medicine has hardly any side effects.",
+      "answerText": "side effects"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "At the weekend one pharmacy is on emergency duty.",
+      "answerText": "pharmacy"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "I have had a cough since yesterday.",
+      "answerText": "have had"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "How often should I take the tablets?",
+      "answerText": "take"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "We will order the medicine by tomorrow.",
+      "answerText": "will order"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Apply the ointment twice a day.",
+      "answerText": "Apply"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Please drink a lot of water.",
+      "answerText": "drink"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "the pharmacy",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "the medicine",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "the ointment",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "the plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "the pack",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "the drop",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Do you have anything for a cough?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "How often should I take the tablets?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "I need a medicine for a headache.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Do I need a prescription for it?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "pharmacy",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "medicine",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "side effect",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "cough",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:20.357Z"
+  },
+  "title": "Магдебург",
+  "instructions": {
+    "stadt-magdeburg-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-magdeburg-gap": "Означи тачну реч.",
+    "stadt-magdeburg-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-magdeburg-table": "Упиши члан и облик множине.",
+    "stadt-magdeburg-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-magdeburg-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "„Отонов град“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Надимак Магдебурга – по цару Отону Великом и Оту фон Герикеу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "катедрала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Велика готска црква; овде је сахрањен цар Отон Велики.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "Зелена цитадела",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Шарена зграда са дрвећем на крову, последњи пројекат Хундертвасера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "полулопта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "Са две полулопте Герике је показао колико је јак вакуум.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "водена раскрсница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Овде бродови прелазе Лабу преко мост-канала.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "вакуум",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Простор потпуно без ваздуха.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "цар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Владар још моћнији од краља.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Посећујемо катедралу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "Зелена цитадела има дрвеће на крову.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Брод плови преко моста изнад Лабе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Много коња није могло да раздвоји полулопте.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Магдебург лежи на Лаби.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Герике је извео експеримент са вакуумом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Фотографишемо шарену зграду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Хундертвасер је пројектовао Зелену цитаделу.",
+      "answerText": "пројектовао"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Ото фон Герике је изводио експерименте са ваздухом.",
+      "answerText": "изводио"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Коњи су вукли полулопте.",
+      "answerText": "вукли"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "На мост-каналу бродови плове преко Лабе.",
+      "answerText": "плове"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "Цар Отон лежи сахрањен у катедрали.",
+      "answerText": "лежи"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "цар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "коњ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "кров",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "лопта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "експеримент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Магдебург лежи на Лаби.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "На крову расте дрвеће.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Да ли знаш експеримент са полулоптама?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Бродови плове преко моста изнад Лабе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "цар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "коњ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "експеримент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "лопта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "градоначелник",
+      "answerText": null
+    }
+  ]
+}

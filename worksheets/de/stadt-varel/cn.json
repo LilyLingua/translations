@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:58.646Z"
+  },
+  "title": "法雷尔",
+  "instructions": {
+    "stadt-varel-matching": "把每个词和正确的解释连起来。",
+    "stadt-varel-gap": "勾出正确的词。",
+    "stadt-varel-verbs": "用正确形式填入正确的动词。",
+    "stadt-varel-table": "填写冠词和复数形式。",
+    "stadt-varel-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-varel-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "风车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "建于1847/48年；高39米，是德国最高的风车之一。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "法雷尔的标志，高50多米；从上面可以看得很远。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "雅德湾",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "北海的大海湾，就在法雷尔前面。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "当加斯特（Dangast）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "属于法雷尔的北海小浴场。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "大黄蛋糕",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "当加斯特老疗养馆的有名蛋糕。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "宫廷教堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "城里最古老的建筑，有一个将近10米高的木祭坛。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "滩涂（Watt）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "退潮时可以步行走上去的海底。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "法雷尔位于雅德湾边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "从水塔上可以看到整个城市。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "在当加斯特疗养馆，我们吃一块大黄蛋糕。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "退潮时我们走过滩涂。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "宫廷教堂里有一座很老的祭坛。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "我们参观风车。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "港口里停着捕虾船。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "这座风车是德国最高的风车之一。",
+      "answerText": "是"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "低潮时海水退去。",
+      "answerText": "退"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "夏天很多度假的人去当加斯特。",
+      "answerText": "去"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "水塔至今仍为法雷尔供应用水。",
+      "answerText": "供应"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "在疗养馆，人们点大黄蛋糕。",
+      "answerText": "点"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "磨坊",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "风车翼",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "渔船",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "海湾",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "岸",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "海滩",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "法雷尔位于雅德湾边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "退潮时我们在滩涂上徒步。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "你上过水塔顶上吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "在当加斯特，很多人吃大黄蛋糕。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "磨坊",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "大黄",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "退潮",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "风车翼",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "海滩",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:43.977Z"
+  },
+  "title": "المواصلات العامة",
+  "instructions": {
+    "en-public-transportation-matching": "صِل كل كلمة بمعناها.",
+    "en-public-transportation-gap": "اختر الكلمة الصحيحة.",
+    "en-public-transportation-verbs": "اكتب الفعل الصحيح.",
+    "en-public-transportation-order": "رتّب الكلمات بالترتيب الصحيح واكتب الجملة.",
+    "en-public-transportation-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "en-public-transportation-matching-1",
+      "translation": "التذكرة",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-1:meaning",
+      "translation": "ورقة أو تطبيق يسمح لك بالسفر.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2",
+      "translation": "المحطة",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2:meaning",
+      "translation": "المكان الذي تتوقف فيه الحافلة.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3",
+      "translation": "الرصيف",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3:meaning",
+      "translation": "المكان في المحطة الذي تركب منه القطار.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4",
+      "translation": "التأخير",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4:meaning",
+      "translation": "عندما تأتي الحافلة أو القطار متأخرًا عن الموعد.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5",
+      "translation": "جدول المواعيد",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5:meaning",
+      "translation": "قائمة بمواعيد الحافلات والقطارات.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6",
+      "translation": "تغيير الخط",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6:meaning",
+      "translation": "عندما تنتقل من حافلة أو قطار إلى آخر.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-gap-1",
+      "translation": "أحتاج إلى تذكرة إلى وسط المدينة.",
+      "answerText": "تذكرة"
+    },
+    {
+      "id": "en-public-transportation-gap-2",
+      "translation": "يغادر القطار من الرصيف رقم أربعة.",
+      "answerText": "الرصيف"
+    },
+    {
+      "id": "en-public-transportation-gap-3",
+      "translation": "انزل في المحطة القادمة.",
+      "answerText": "المحطة"
+    },
+    {
+      "id": "en-public-transportation-gap-4",
+      "translation": "هناك تأخير لمدة عشرين دقيقة.",
+      "answerText": "تأخير"
+    },
+    {
+      "id": "en-public-transportation-gap-5",
+      "translation": "تجد جدول مواعيد الحافلات على الإنترنت.",
+      "answerText": "جدول"
+    },
+    {
+      "id": "en-public-transportation-gap-6",
+      "translation": "عليك أن تغيّر الخط في المحطة المركزية.",
+      "answerText": "تغيّر"
+    },
+    {
+      "id": "en-public-transportation-verbs-1",
+      "translation": "تأتي الحافلة كل عشر دقائق.",
+      "answerText": "تأتي"
+    },
+    {
+      "id": "en-public-transportation-verbs-2",
+      "translation": "أين أشتري تذكرة؟",
+      "answerText": "أشتري"
+    },
+    {
+      "id": "en-public-transportation-verbs-3",
+      "translation": "يجب عليك أن تغيّر القطار هنا.",
+      "answerText": "يجب"
+    },
+    {
+      "id": "en-public-transportation-verbs-4",
+      "translation": "القطار متأخر اليوم.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-verbs-5",
+      "translation": "من فضلك أرِني تذكرتك.",
+      "answerText": "أرِني"
+    },
+    {
+      "id": "en-public-transportation-order-1",
+      "translation": "أي حافلة تذهب إلى المطار؟",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-2",
+      "translation": "القطار متأخر عشر دقائق.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-3",
+      "translation": "أين المحطة القادمة؟",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-4",
+      "translation": "فاتتني الحافلة.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-1",
+      "translation": "تذكرة",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-2",
+      "translation": "محطة",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-3",
+      "translation": "جدول المواعيد",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-4",
+      "translation": "وسط المدينة",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-5",
+      "translation": "راكب",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:39.774Z"
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-kiel-gap": "Markahan ang tamang salita.",
+    "stadt-kiel-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-kiel-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-kiel-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-kiel-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "ang \"Förde\" (fjord)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Mahaba at makitid na braso ng Baltic Sea na pumapasok nang malalim sa lupa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "ang Kiel Week",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Malaking pista ng paglalayag tuwing Hunyo, may musika at mga bangka mula sa buong mundo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "ang ferry",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Malaking barko para sa tao at kotse, halimbawa papuntang Norway.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "ang Kiel Canal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Gawang-taong daanang-tubig sa pagitan ng North Sea at Baltic Sea.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "ang Kieler Sprotte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Maliit na pinausukang isda, tipikal sa Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"Moin moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Bati sa hilaga; may mga nag-iisip na sobra na ang dalawang beses na \"Moin\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "maglayag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Bumiyahe sa bangkang pinagagalaw ng hangin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Nasa tabi ng Baltic Sea ang Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Tuwing Hunyo, ipinagdiriwang namin ang Kiel Week.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Sumasakay kami ng ferry papuntang Oslo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Dumadaan ang mga barko sa Kiel Canal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Tuwing weekend, naglalayag kami sa fjord.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Bumibili ako ng isang supot ng Kieler Sprotten.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Ipinapasyal namin ang aso sa dalampasigan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Araw-araw bumibiyahe ang ferry papuntang Norway.",
+      "answerText": "bumibiyahe"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Sa Kiel Week, naglalayag ang mga bangka mula sa buong mundo.",
+      "answerText": "naglalayag"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Maraming barko ang gumagamit ng Kiel Canal.",
+      "answerText": "gumagamit"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Sa hilaga, \"Moin\" ang sinasabi ng mga tao.",
+      "answerText": "sinasabi"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Sa dalampasigan, madalas umiihip ang malakas na hangin.",
+      "answerText": "umiihip"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "ang bangka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "ang ferry",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "ang isda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "ang dalampasigan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "ang layag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "ang kanal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Nasa tabi ng Baltic Sea ang Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Tuwing Hunyo, ipinagdiriwang ng lungsod ang Kiel Week.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Sasakay ka ba ng ferry papuntang Norway?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Tuwing weekend, naglalayag kami sa fjord.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "ferry",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "layag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "dalampasigan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Baltic Sea",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "kanal",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "003873cd-53b1-4b8d-8f87-5cce555e8258",
+    "level": "A1"
+  },
+  "title": "Beim Bäcker und im Café",
+  "topic": "Bestellen, bezahlen und höflich fragen",
+  "tasks": [
+    {
+      "id": "baecker-und-cafe-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "baecker-und-cafe-matching-1",
+          "term": "das Brötchen",
+          "meaning": "Ein kleines Brot, oft zum Frühstück."
+        },
+        {
+          "id": "baecker-und-cafe-matching-2",
+          "term": "die Brezel",
+          "meaning": "Ein Gebäck mit Salz, typisch für Süddeutschland."
+        },
+        {
+          "id": "baecker-und-cafe-matching-3",
+          "term": "der Kuchen",
+          "meaning": "Etwas Süßes, oft zum Kaffee am Nachmittag."
+        },
+        {
+          "id": "baecker-und-cafe-matching-4",
+          "term": "die Speisekarte",
+          "meaning": "Hier stehen alle Speisen und Getränke."
+        },
+        {
+          "id": "baecker-und-cafe-matching-5",
+          "term": "die Rechnung",
+          "meaning": "Hier steht, wie viel Sie bezahlen müssen."
+        },
+        {
+          "id": "baecker-und-cafe-matching-6",
+          "term": "das Trinkgeld",
+          "meaning": "Etwas extra Geld für die Bedienung."
+        },
+        {
+          "id": "baecker-und-cafe-matching-7",
+          "term": "zum Mitnehmen",
+          "meaning": "Sie essen oder trinken es nicht im Café."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "baecker-und-cafe-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "article",
+      "items": [
+        {
+          "id": "baecker-und-cafe-gap-1",
+          "promptBefore": "Ich hätte gern",
+          "promptAfter": "Brötchen.",
+          "correctAnswer": "ein",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-2",
+          "promptBefore": "Ich nehme",
+          "promptAfter": "Kaffee.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "eine",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-3",
+          "promptBefore": "Was kostet",
+          "promptAfter": "Brezel?",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-4",
+          "promptBefore": "Ich möchte",
+          "promptAfter": "Stück Kuchen.",
+          "correctAnswer": "ein",
+          "options": [
+            "eine",
+            "ein",
+            "einen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-5",
+          "promptBefore": "Ist",
+          "promptAfter": "Tisch frei?",
+          "correctAnswer": "der",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-6",
+          "promptBefore": "Ich trinke",
+          "promptAfter": "Tee mit Milch.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "baecker-und-cafe-gap-7",
+          "promptBefore": "Bringen Sie mir bitte",
+          "promptAfter": "Rechnung.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie den richtigen Artikel an."
+    },
+    {
+      "id": "baecker-und-cafe-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "baecker-und-cafe-verbs-1",
+          "promptBefore": "Was",
+          "promptAfter": "Sie trinken?",
+          "correctAnswer": "möchten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "möchten"
+        },
+        {
+          "id": "baecker-und-cafe-verbs-2",
+          "promptBefore": "Ich",
+          "promptAfter": "einen Cappuccino.",
+          "correctAnswer": "nehme",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "nehmen"
+        },
+        {
+          "id": "baecker-und-cafe-verbs-3",
+          "promptBefore": "Das",
+          "promptAfter": "zusammen 6,40 Euro.",
+          "correctAnswer": "macht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "baecker-und-cafe-verbs-4",
+          "promptBefore": "Kann ich mit Karte",
+          "promptAfter": "?",
+          "correctAnswer": "zahlen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zahlen"
+        },
+        {
+          "id": "baecker-und-cafe-verbs-5",
+          "promptBefore": "Der Kuchen",
+          "promptAfter": "sehr gut.",
+          "correctAnswer": "schmeckt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schmecken"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "baecker-und-cafe-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "baecker-und-cafe-table-1",
+          "article": "das",
+          "singular": "Brötchen",
+          "plural": "Brötchen"
+        },
+        {
+          "id": "baecker-und-cafe-table-2",
+          "article": "der",
+          "singular": "Kuchen",
+          "plural": "Kuchen"
+        },
+        {
+          "id": "baecker-und-cafe-table-3",
+          "article": "die",
+          "singular": "Tasse",
+          "plural": "Tassen"
+        },
+        {
+          "id": "baecker-und-cafe-table-4",
+          "article": "das",
+          "singular": "Glas",
+          "plural": "Gläser"
+        },
+        {
+          "id": "baecker-und-cafe-table-5",
+          "article": "der",
+          "singular": "Teller",
+          "plural": "Teller"
+        },
+        {
+          "id": "baecker-und-cafe-table-6",
+          "article": "die",
+          "singular": "Brezel",
+          "plural": "Brezeln"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "baecker-und-cafe-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "baecker-und-cafe-order-1",
+          "chunks": [
+            "Ich",
+            "hätte",
+            "gern",
+            "zwei",
+            "Brötchen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "baecker-und-cafe-order-2",
+          "chunks": [
+            "Was",
+            "kostet",
+            "der Kuchen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "baecker-und-cafe-order-3",
+          "chunks": [
+            "Kann",
+            "ich",
+            "mit Karte",
+            "zahlen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "baecker-und-cafe-order-4",
+          "chunks": [
+            "Möchten",
+            "Sie",
+            "hier",
+            "essen"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "baecker-und-cafe-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "baecker-und-cafe-spelling-1",
+          "correct": "Brötchen",
+          "wrong": "Brödchen"
+        },
+        {
+          "id": "baecker-und-cafe-spelling-2",
+          "correct": "Kuchen",
+          "wrong": "Kuchn"
+        },
+        {
+          "id": "baecker-und-cafe-spelling-3",
+          "correct": "Rechnung",
+          "wrong": "Rechnunk"
+        },
+        {
+          "id": "baecker-und-cafe-spelling-4",
+          "correct": "Kaffee",
+          "wrong": "Kafee"
+        },
+        {
+          "id": "baecker-und-cafe-spelling-5",
+          "correct": "Trinkgeld",
+          "wrong": "Trinkgelt"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.816Z"
+  },
+  "title": "Doktorda",
+  "instructions": {
+    "beim-arzt-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "beim-arzt-gap": "Uygun kelimeyi işaretleyin.",
+    "beim-arzt-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "beim-arzt-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "beim-arzt-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "beim-arzt-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "sağlık sigortası kartı",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Bu kartı resepsiyonda gösterirsiniz. Üzerinde sağlık sigortanız yazar.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "randevu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Muayenehaneye geldiğiniz belirli bir saat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "bekleme odası",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Çağrılana kadar burada oturursunuz.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Bununla eczaneden ilaç alırsınız.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "hastalık raporu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Hasta olduğunuzda işvereniniz bu belgeyi alır.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "ateş",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Vücut sıcaklığı çok yüksek, örneğin 39 derece.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alerji",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Vücut bir şeye, örneğin penisiline, güçlü tepki verir.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "acil çağrı",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "112 numarası – bir kazada veya acil durumda.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Merhaba, bir randevu almak istiyorum.",
+      "answerText": "randevu"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Sağlık sigortası kartınız yanınızda mı?",
+      "answerText": "Sağlık sigortası kartınız"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Lütfen bekleme odasında oturun.",
+      "answerText": "bekleme odasında"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Baş ağrım ve ateşim var.",
+      "answerText": "Baş ağrım"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Karnım ağrıyor.",
+      "answerText": "Karnım"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Penisiline alerjim var.",
+      "answerText": "Penisiline"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Patronum için bir hastalık raporuna ihtiyacım var.",
+      "answerText": "hastalık raporuna"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Tabletleri günde üç kez yemekten sonra alın.",
+      "answerText": "yemekten"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Bunu lütfen daha yavaş söyleyebilir misiniz?",
+      "answerText": "söyleyebilir"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Üç gündür ateşim var.",
+      "answerText": "var"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Başım çok ağrıyor.",
+      "answerText": "ağrıyor"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Lütfen derin nefes alın – ve tekrar verin.",
+      "answerText": "nefes alın"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Doktor bana bir reçete veriyor.",
+      "answerText": "veriyor"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Sizi birazdan çağıracağız.",
+      "answerText": "çağıracağız"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "doktor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "randevu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "muayenehane",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "ilaç",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Bir randevu almak istiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Üç gündür ateşim var.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Bunu lütfen tekrar edebilir misiniz?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Neresi ağrıyor?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "baş ağrısı",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "hastalık raporu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "sağlık sigortası kartı",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alerjik",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tablet",
+      "answerText": null
+    }
+  ]
+}

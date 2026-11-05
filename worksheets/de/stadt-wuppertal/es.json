@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:47.937Z"
+  },
+  "title": "Wuppertal",
+  "instructions": {
+    "stadt-wuppertal-matching": "Relaciona cada palabra con la explicación correcta.",
+    "stadt-wuppertal-gap": "Marca la palabra correcta.",
+    "stadt-wuppertal-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "stadt-wuppertal-table": "Completa el artículo y el plural.",
+    "stadt-wuppertal-order": "Ordena las palabras y escribe la frase.",
+    "stadt-wuppertal-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "el tren colgante",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Tren que cuelga de unos raíles y circula sobre el río, desde 1901.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "Tuffi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "Elefante joven que en 1950 saltó del tren colgante al Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "el Wupper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Río que atraviesa toda la ciudad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Pina Bausch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Famosa bailarina; su teatro de danza de Wuppertal es conocido en todo el mundo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "las escaleras",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "Wuppertal tiene muchísimas escaleras públicas porque la ciudad está en laderas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Friedrich Engels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Pensador y amigo de Karl Marx; nació en el barrio de Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "la Nordbahntrasse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Carril bici sobre una antigua línea de tren, con túneles y puentes.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "El tren colgante circula sobre el Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "En 1950 un elefante saltó del tren colgante.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Vamos en bici por la Nordbahntrasse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Friedrich Engels nació en el barrio de Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Subimos la escalera.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "El teatro de danza es conocido en todo el mundo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi cayó al río.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "El tren colgante cuelga de raíles sobre el río.",
+      "answerText": "cuelga"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi cayó al Wupper.",
+      "answerText": "cayó"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "En Wuppertal hay muchísimas escaleras.",
+      "answerText": "hay"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "El tren colgante funciona desde hace más de 120 años.",
+      "answerText": "funciona"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Muchos ciclistas usan la Nordbahntrasse.",
+      "answerText": "usan"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "el tren",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "el elefante",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "la escalera",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "el río",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "la bici",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "la estación",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "El tren colgante cuelga sobre el Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "Cada día mucha gente viaja en el tren colgante.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "¿Conoces la historia de Tuffi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "Wuppertal tiene muchísimas escaleras.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "elefante",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "escalera",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "río",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "raíl",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "estación",
+      "answerText": null
+    }
+  ]
+}

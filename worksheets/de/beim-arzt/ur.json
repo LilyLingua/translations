@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ur",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:37.383Z"
+  },
+  "title": "ڈاکٹر کے پاس",
+  "instructions": {
+    "beim-arzt-matching": "ہر لفظ کو اس کی صحیح وضاحت سے ملائیں۔",
+    "beim-arzt-gap": "مناسب لفظ پر نشان لگائیں۔",
+    "beim-arzt-verbs": "درست فعل درست شکل میں لکھیں۔",
+    "beim-arzt-table": "آرٹیکل اور جمع کی شکل مکمل کریں۔",
+    "beim-arzt-order": "الفاظ کو صحیح ترتیب میں لگائیں اور جملہ لکھیں۔",
+    "beim-arzt-spelling": "کون سا لفظ صحیح لکھا ہے؟ نشان لگائیں۔"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "ہیلتھ انشورنس کارڈ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "یہ کارڈ آپ استقبالیہ پر دکھاتے ہیں۔ اس پر آپ کی ہیلتھ انشورنس لکھی ہوتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "اپوائنٹمنٹ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "ایک مقررہ وقت جب آپ کلینک آتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "انتظار گاہ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "یہاں آپ بیٹھتے ہیں جب تک آپ کو بلایا نہ جائے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "نسخہ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "اس کے ذریعے آپ کو فارمیسی سے دوا ملتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "بیماری کا سرٹیفکیٹ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "جب آپ بیمار ہوں تو یہ کاغذ آپ کے آجر کو ملتا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "بخار",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "جسم کا درجہ حرارت بہت زیادہ ہے، مثلاً 39 ڈگری۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "الرجی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "جسم کسی چیز پر سخت ردعمل دیتا ہے، مثلاً پینسلین پر۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "ایمرجنسی کال",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "نمبر 112 – کسی حادثے یا ایمرجنسی میں۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "السلام علیکم، میں ایک اپوائنٹمنٹ لینا چاہتا ہوں۔",
+      "answerText": "اپوائنٹمنٹ"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "کیا آپ کے پاس ہیلتھ انشورنس کارڈ ہے؟",
+      "answerText": "ہیلتھ انشورنس کارڈ"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "براہ کرم انتظار گاہ میں بیٹھ جائیں۔",
+      "answerText": "انتظار گاہ"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "مجھے سر درد اور بخار ہے۔",
+      "answerText": "سر درد"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "میرے پیٹ میں درد ہے۔",
+      "answerText": "پیٹ"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "مجھے پینسلین سے الرجی ہے۔",
+      "answerText": "پینسلین"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "مجھے اپنے آجر کے لیے بیماری کا سرٹیفکیٹ چاہیے۔",
+      "answerText": "بیماری کا سرٹیفکیٹ"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "گولیاں دن میں تین بار کھانے کے بعد لیں۔",
+      "answerText": "کھانے"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "کیا آپ یہ ذرا آہستہ کہہ سکتے ہیں؟",
+      "answerText": "کہہ"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "مجھے تین دن سے بخار ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "میرے سر میں بہت درد ہے۔",
+      "answerText": "درد"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "براہ کرم گہرا سانس لیں – اور پھر چھوڑیں۔",
+      "answerText": "سانس"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "ڈاکٹر صاحبہ مجھے نسخہ دیتی ہیں۔",
+      "answerText": "دیتی"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "ہم آپ کو ابھی بلاتے ہیں۔",
+      "answerText": "بلاتے"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ڈاکٹر",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "گولی",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "نسخہ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "اپوائنٹمنٹ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "کلینک",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "دوا",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "میں ایک اپوائنٹمنٹ لینا چاہتا ہوں۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "تین دن سے مجھے بخار ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "کیا آپ یہ دوبارہ کہہ سکتے ہیں؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "کہاں درد ہو رہا ہے؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "سر درد",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "بیماری کا سرٹیفکیٹ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "ہیلتھ انشورنس کارڈ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "الرجی والا",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "گولی",
+      "answerText": null
+    }
+  ]
+}

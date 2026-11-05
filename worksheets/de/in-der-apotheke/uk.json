@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.725Z"
+  },
+  "title": "В аптеці",
+  "instructions": {
+    "in-der-apotheke-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "in-der-apotheke-gap": "Позначте відповідне слово.",
+    "in-der-apotheke-verbs": "Вставте правильне дієслово в правильній формі.",
+    "in-der-apotheke-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "in-der-apotheke-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "in-der-apotheke-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Папір від лікаря на ліки.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Маленькі ліки, які ковтають.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "сироп від кашлю",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Рідкі ліки від кашлю.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "мазь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Її наносять на шкіру.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "побічна дія",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Небажана дія ліків.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "інструкція (вкладиш)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Аркуш в упаковці ліків з усією інформацією.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "доплата",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Невелику суму за рецепт ви платите самі.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "У мене є рецепт від моєї лікарки.",
+      "answerText": "рецепт"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "У вас є щось від болю в горлі?",
+      "answerText": "болю в горлі"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Приймайте дві таблетки на день.",
+      "answerText": "таблетки"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Мазь для шкіри.",
+      "answerText": "шкіри"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Будь ласка, прочитайте інструкцію.",
+      "answerText": "інструкцію"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Ці ліки майже не мають побічних дій.",
+      "answerText": "побічних дій"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "На вихідних одна аптека чергує.",
+      "answerText": "аптека"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "У мене з учора кашель.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Як часто мені приймати таблетки?",
+      "answerText": "приймати"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Ми замовимо ліки до завтра.",
+      "answerText": "замовимо"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Наносьте мазь двічі на день.",
+      "answerText": "Наносьте"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Будь ласка, пийте багато води.",
+      "answerText": "пийте"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "препарат (ліки)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "мазь",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "пластир",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "упаковка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "крапля",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "У вас є щось від кашлю?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Як часто мені приймати таблетки?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Мені потрібні ліки від головного болю.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Чи потрібен мені для цього рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "препарат",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "пластир",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "побічна дія",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "кашель",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:36.469Z"
+  },
+  "title": "এসেন",
+  "instructions": {
+    "stadt-essen-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-essen-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-essen-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-essen-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-essen-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-essen-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "ৎসোলফেরাইন খনি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "পুরোনো কয়লাখনি; আজ ইউনেস্কো বিশ্ব ঐতিহ্য, জাদুঘর আর ডিজাইনসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "খনির উত্তোলন টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "খনির ওপরে উঁচু টাওয়ার; এটি দিয়ে মানুষ আর কয়লা ওপরে উঠত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "\"গ্লুক আউফ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "খনিশ্রমিকদের সম্ভাষণ – সবাই যেন সুস্থভাবে ওপরে ফিরে আসে, এই কামনা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "ভিলা হ্যুগেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "ক্রুপ পরিবারের বড় বাড়ি, অনেক ঘর আর একটি বাগানসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "বাল্ডেনাই হ্রদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "রুর নদীর ওপর হ্রদ; সেখানে পালতোলা নৌকা চালানো, দাঁড় বাওয়া আর হাঁটা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "গ্রুগা পার্ক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "ফুল, খেলার মাঠ আর প্রাণীসহ বড় পার্ক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "সাংস্কৃতিক রাজধানী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "উপাধি, যা এসেন ২০১০ সালে পুরো রুর অঞ্চলের হয়ে পায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "গ্রীষ্মে অনেকে বাল্ডেনাই হ্রদে পালতোলা নৌকা চালায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "ক্রুপ পরিবার ভিলা হ্যুগেলে থাকত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "আমরা ৎসোলফেরাইন খনিতে গাইডসহ ঘুরি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "উত্তোলন টাওয়ার এসেনের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "রবিবার আমরা গ্রুগা পার্কে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "এসেন ২০১০ সালে ইউরোপের সাংস্কৃতিক রাজধানী ছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "রোট-ভাইস এসেন হাফেনস্ট্রাসেতে খেলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "খনিশ্রমিকরা \"গ্লুক আউফ!\" বলে।",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "উত্তোলন টাওয়ারটি পুরোনো খনির ওপরে দাঁড়িয়ে আছে।",
+      "answerText": "দাঁড়িয়ে"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "আজ আর মাটি থেকে কয়লা ওঠে না।",
+      "answerText": "ওঠে"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "অনেক পর্যটক ৎসোলফেরাইন খনি দেখতে আসে।",
+      "answerText": "দেখতে"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "রুর বাল্ডেনাই হ্রদের ভেতর দিয়ে বয়ে যায়।",
+      "answerText": "বয়ে"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "খনি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "পার্ক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "ভিলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "হ্রদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "জাদুঘর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "হল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "ৎসোলফেরাইন খনি ইউনেস্কো বিশ্ব ঐতিহ্যের অংশ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "সপ্তাহান্তে আমরা বাল্ডেনাই হ্রদে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "তুমি কি কখনো গ্রুগা পার্কে গেছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "আগে অনেক খনিশ্রমিক মাটির নিচে কাজ করত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "জাদুঘর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "খনি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "ভিলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "কয়লা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "হল",
+      "answerText": null
+    }
+  ]
+}

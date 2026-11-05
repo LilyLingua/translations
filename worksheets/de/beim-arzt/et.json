@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Arsti juures",
+  "instructions": {
+    "beim-arzt-matching": "Ühendage iga sõna õige selgitusega.",
+    "beim-arzt-gap": "Märkige õige sõna.",
+    "beim-arzt-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "beim-arzt-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "beim-arzt-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "beim-arzt-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "ravikindlustuskaart",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Seda kaarti näitate registratuuris. Sellelt on näha teie ravikindlustus.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "vastuvõtuaeg",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Kindel aeg, millal te arsti vastuvõtule tulete.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "ooteruum",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Siin istute, kuni teid sisse kutsutakse.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "retsept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Sellega saate apteegist ravimit.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "haigusleht",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Selle paberi saab teie tööandja, kui te olete haige.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "palavik",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Teie kehatemperatuur on liiga kõrge, näiteks 39 kraadi.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "allergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Keha reageerib millelegi tugevalt, näiteks penitsilliinile.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "hädaabikõne",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Number 112 – õnnetuse või hädaolukorra korral.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Tere, ma sooviksin kokku leppida vastuvõtuaja.",
+      "answerText": "vastuvõtuaja"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Kas teil on ravikindlustuskaart kaasas?",
+      "answerText": "ravikindlustuskaart"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Palun võtke ooteruumis istet.",
+      "answerText": "ooteruumis"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Mul on peavalu ja palavik.",
+      "answerText": "peavalu"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Mul valutab kõht.",
+      "answerText": "kõht"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Ma olen penitsilliini suhtes allergiline.",
+      "answerText": "penitsilliini"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Mul on vaja tööandja jaoks haiguslehte.",
+      "answerText": "haiguslehte"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Võtke tablette kolm korda päevas pärast sööki.",
+      "answerText": "sööki"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Kas te saaksite seda palun aeglasemalt öelda?",
+      "answerText": "öelda"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Mul on olnud kolm päeva palavik.",
+      "answerText": "on olnud"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Mu pea valutab väga.",
+      "answerText": "valutab"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Palun hingake sügavalt sisse – ja jälle välja.",
+      "answerText": "hingake"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Arst annab mulle retsepti.",
+      "answerText": "annab"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Me kutsume teid kohe sisse.",
+      "answerText": "kutsume"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "arst",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tablett",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "retsept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "vastuvõtuaeg",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "arstipraksis",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "ravim",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Ma sooviksin kokku leppida vastuvõtuaja.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Mul on olnud kolm päeva palavik.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Kas te saaksite seda palun korrata?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Kus valutab?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "peavalu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "haigusleht",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "ravikindlustuskaart",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergiline",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tablett",
+      "answerText": null
+    }
+  ]
+}

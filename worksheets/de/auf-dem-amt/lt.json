@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Gyventojų registracijos įstaigoje",
+  "instructions": {
+    "auf-dem-amt-matching": "Kiekvieną žodį sujunkite su teisingu paaiškinimu.",
+    "auf-dem-amt-gap": "Pažymėkite teisingą žodį.",
+    "auf-dem-amt-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "auf-dem-amt-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "auf-dem-amt-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "auf-dem-amt-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "registracija",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Pranešate valdžios įstaigai savo naują adresą.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "eilės numeris",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Šį numerį paimate iš automato.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "pasas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Asmens dokumentas, su kuriuo keliaujate į užsienį.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "nuomotojo patvirtinimas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Šio popieriaus iš savo nuomotojo jums reikia registracijai.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "registracijos pažymėjimas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Šis popierius rodo, kad dabar gyvenate šiuo adresu.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "šeiminė padėtis",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "nevedęs / netekėjusi, vedęs / ištekėjusi, išsiskyręs (-usi) arba našlys (-ė)",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "parašas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Jūsų vardas ir pavardė, parašyti ranka.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "forma",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Popierius su laukeliais, kuriuos reikia užpildyti.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Norėčiau užregistruoti savo naują butą.",
+      "answerText": "butą"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Prašome paimti numerį iš automato.",
+      "answerText": "numerį"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Numeris 147, prašome eiti prie 12 langelio.",
+      "answerText": "langelio"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Štai mano nuomotojo patvirtinimas.",
+      "answerText": "nuomotojo"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Ar turite su savimi asmens tapatybės kortelę?",
+      "answerText": "asmens tapatybės kortelę"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Prašome užpildyti visą formą.",
+      "answerText": "formą"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Registracijos pažymėjimo dažnai prireiks dar kartą, pavyzdžiui, atidarant banko sąskaitą.",
+      "answerText": "Registracijos pažymėjimo"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Šiandien registruojuosi.",
+      "answerText": "registruojuosi"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Kur turiu pasirašyti?",
+      "answerText": "pasirašyti"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Savo pavardę sakau paraidžiui: N – O – W – A – K.",
+      "answerText": "sakau paraidžiui"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Prašome atsisėsti.",
+      "answerText": "atsisėsti"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Tvarkymas trunka maždaug dvi savaites.",
+      "answerText": "trunka"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "valdžios įstaiga",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "asmens tapatybės kortelė",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "butas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "forma",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "nuomotojas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "adresas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Norėčiau užsiregistruoti.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Kur turiu pasirašyti?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Štai mano pasas.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Ar man dar ko nors reikia?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "registracijos pažymėjimas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "pasas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "nevedęs / netekėjusi",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "nuomotojas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "adresas",
+      "answerText": null
+    }
+  ]
+}

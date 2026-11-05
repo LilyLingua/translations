@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.871Z"
+  },
+  "title": "Ở nhà thuốc",
+  "instructions": {
+    "in-der-apotheke-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "in-der-apotheke-gap": "Đánh dấu từ phù hợp.",
+    "in-der-apotheke-verbs": "Điền động từ đúng ở dạng đúng.",
+    "in-der-apotheke-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "in-der-apotheke-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "in-der-apotheke-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "đơn thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Giấy của bác sĩ để mua thuốc.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "viên thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Một loại thuốc nhỏ để nuốt.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "siro ho",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Thuốc dạng lỏng trị ho.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "thuốc mỡ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Bôi lên da.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "tác dụng phụ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Tác dụng không mong muốn của thuốc.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "tờ hướng dẫn sử dụng",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Tờ giấy trong hộp thuốc với mọi thông tin.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "khoản đồng chi trả",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Bạn tự trả một khoản nhỏ cho đơn thuốc.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Tôi có đơn thuốc của bác sĩ.",
+      "answerText": "đơn thuốc"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Anh/chị có thuốc gì trị đau họng không?",
+      "answerText": "đau họng"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Uống hai viên mỗi ngày.",
+      "answerText": "viên"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Thuốc mỡ này dùng cho da.",
+      "answerText": "da"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Vui lòng đọc tờ hướng dẫn sử dụng.",
+      "answerText": "tờ hướng dẫn sử dụng"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Thuốc này hầu như không có tác dụng phụ.",
+      "answerText": "tác dụng phụ"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Cuối tuần có một nhà thuốc trực.",
+      "answerText": "nhà thuốc"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Tôi bị ho từ hôm qua.",
+      "answerText": "bị"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Tôi nên uống thuốc mấy lần?",
+      "answerText": "uống"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Chúng tôi sẽ đặt thuốc trước ngày mai.",
+      "answerText": "đặt"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Bôi thuốc mỡ hai lần mỗi ngày.",
+      "answerText": "Bôi"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Vui lòng uống nhiều nước.",
+      "answerText": "uống"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "nhà thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "thuốc mỡ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "băng dán cá nhân",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "hộp",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "giọt",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Anh/chị có thuốc gì trị ho không?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Tôi nên uống thuốc mấy lần?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Tôi cần thuốc trị đau đầu.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Tôi có cần đơn thuốc cho cái này không?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "nhà thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "thuốc",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "băng dán cá nhân",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "tác dụng phụ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ho",
+      "answerText": null
+    }
+  ]
+}

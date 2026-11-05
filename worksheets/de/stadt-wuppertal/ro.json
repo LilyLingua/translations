@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:54.471Z"
+  },
+  "title": "Wuppertal",
+  "instructions": {
+    "stadt-wuppertal-matching": "Potriviți fiecare cuvânt cu explicația corectă.",
+    "stadt-wuppertal-gap": "Bifați cuvântul corect.",
+    "stadt-wuppertal-verbs": "Completați verbul corect în forma corectă.",
+    "stadt-wuppertal-table": "Completați articolul și forma de plural.",
+    "stadt-wuppertal-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "stadt-wuppertal-spelling": "Care cuvânt este scris corect? Bifați-l."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "„Schwebebahn” (trenul suspendat)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Tren care atârnă de șine și circulă deasupra râului – din 1901.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "Tuffi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "Pui de elefant care în 1950 a sărit din trenul suspendat în Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "Wupper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Râul care curge prin tot orașul.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Pina Bausch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Dansatoare celebră; teatrul ei de dans din Wuppertal este cunoscut în toată lumea.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "scările",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "Wuppertal are foarte multe scări publice, pentru că orașul se întinde pe pante.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Friedrich Engels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Gânditor și prieten al lui Karl Marx; s-a născut în cartierul Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "Nordbahntrasse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Pistă de biciclete pe o veche linie de cale ferată, cu tuneluri și poduri.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "Trenul suspendat circulă deasupra râului Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "În 1950 un elefant a sărit din trenul suspendat.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Mergem cu bicicleta pe Nordbahntrasse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Friedrich Engels s-a născut în cartierul Barmen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Urcăm scara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "Teatrul de dans este cunoscut în toată lumea.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi a căzut în râu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "Trenul suspendat atârnă de șine deasupra râului.",
+      "answerText": "atârnă"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi a căzut în Wupper.",
+      "answerText": "a căzut"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "În Wuppertal există foarte multe scări.",
+      "answerText": "există"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "Trenul suspendat circulă de peste 120 de ani.",
+      "answerText": "circulă"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Mulți bicicliști folosesc Nordbahntrasse.",
+      "answerText": "folosesc"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "trenul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "elefantul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "scara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "râul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "bicicleta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "stația",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "Trenul suspendat atârnă deasupra râului Wupper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "În fiecare zi mulți oameni merg cu trenul suspendat.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "Știi povestea lui Tuffi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "Wuppertal are foarte multe scări.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "elefant",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "scară",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "râu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "șină",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "stație",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:54.366Z"
+  },
+  "title": "วุพเพอร์ทาล",
+  "instructions": {
+    "stadt-wuppertal-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-wuppertal-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-wuppertal-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-wuppertal-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-wuppertal-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-wuppertal-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "รถไฟแขวน (ชเวเบอบาน)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "รถไฟที่ห้อยอยู่ใต้รางและวิ่งเหนือแม่น้ำ – ตั้งแต่ปี 1901",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "\"ทุฟฟี\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "ลูกช้างที่ในปี 1950 กระโดดจากรถไฟแขวนลงแม่น้ำวุพเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "แม่น้ำวุพเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "แม่น้ำที่ไหลผ่านทั้งเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "พีนา เบาช์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "นักเต้นชื่อดัง คณะละครเต้นรำของเธอจากวุพเพอร์ทาลเป็นที่รู้จักทั่วโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "บันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "วุพเพอร์ทาลมีบันไดสาธารณะมากมาย เพราะเมืองตั้งอยู่บนเนินเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "ฟรีดริช เองเงิลส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "นักคิดและเพื่อนของคาร์ล มาร์กซ์ เขาเกิดที่ย่านบาร์เมิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "นอร์ดบานทราสเซอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "ทางจักรยานบนทางรถไฟสายเก่า มีอุโมงค์และสะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "รถไฟแขวนวิ่งอยู่เหนือแม่น้ำวุพเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "ปี 1950 ช้างตัวหนึ่งกระโดดออกจากรถไฟแขวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "พวกเราปั่นจักรยานบนนอร์ดบานทราสเซอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "ฟรีดริช เองเงิลส์เกิดที่ย่านบาร์เมิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "พวกเราเดินขึ้นบันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "คณะละครเต้นรำเป็นที่รู้จักทั่วโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "ทุฟฟีตกลงไปในแม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "รถไฟแขวนห้อยอยู่บนรางเหนือแม่น้ำ",
+      "answerText": "ห้อย"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "ทุฟฟีตกลงไปในแม่น้ำวุพเพอร์",
+      "answerText": "ตก"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "ที่วุพเพอร์ทาลมีบันไดมากมาย",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "รถไฟแขวนวิ่งมากว่า 120 ปีแล้ว",
+      "answerText": "วิ่ง"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "นักปั่นจักรยานหลายคนใช้นอร์ดบานทราสเซอ",
+      "answerText": "ใช้"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "รถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "ช้าง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "บันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "จักรยาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "สถานี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "รถไฟแขวนห้อยอยู่เหนือแม่น้ำวุพเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "ทุกวันมีผู้คนมากมายนั่งรถไฟแขวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "คุณรู้จักเรื่องของทุฟฟีไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "วุพเพอร์ทาลมีบันไดมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "ช้าง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "บันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "ราง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "สถานี",
+      "answerText": null
+    }
+  ]
+}

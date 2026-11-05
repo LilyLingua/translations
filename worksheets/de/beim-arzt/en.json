@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.987Z"
+  },
+  "title": "At the Doctor's",
+  "instructions": {
+    "beim-arzt-matching": "Match each word with the correct explanation.",
+    "beim-arzt-gap": "Tick the correct word.",
+    "beim-arzt-verbs": "Fill in the correct verb in the correct form.",
+    "beim-arzt-table": "Fill in the article (der/die/das) and the plural form.",
+    "beim-arzt-order": "Put the words in the correct order and write the sentence.",
+    "beim-arzt-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "the health insurance card",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "You show this card at reception. It shows your health insurance.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "the appointment",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "A fixed time when you come to the practice.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "the waiting room",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "You sit here until you are called.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "the prescription",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "With it you get a medicine at the pharmacy.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "the sick note",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Your employer gets this paper when you are ill.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "the fever",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Your body temperature is too high, for example 39 degrees.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "the allergy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "The body reacts strongly to something, for example to penicillin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "the emergency call",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "The number 112 – for an accident or an emergency.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Hello, I would like to make an appointment.",
+      "answerText": "appointment"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Do you have your health insurance card with you?",
+      "answerText": "health insurance card"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Please take a seat in the waiting room.",
+      "answerText": "waiting room"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "I have a headache and a fever.",
+      "answerText": "headache"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "My stomach hurts.",
+      "answerText": "stomach"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "I am allergic to penicillin.",
+      "answerText": "penicillin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "I need a sick note for my employer.",
+      "answerText": "sick note"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Take the tablets three times a day after meals.",
+      "answerText": "meals"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Could you please say that more slowly?",
+      "answerText": "say"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "I have had a fever for three days.",
+      "answerText": "have had"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "My head hurts a lot.",
+      "answerText": "hurts"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Please breathe in deeply – and breathe out again.",
+      "answerText": "breathe in"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "The doctor gives me a prescription.",
+      "answerText": "gives"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "We will call you in shortly.",
+      "answerText": "will call"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "the doctor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "the tablet",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "the prescription",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "the appointment",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "the practice",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "the medicine",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "I would like to make an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "I have had a fever for three days.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Could you please repeat that?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Where does it hurt?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "headache",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "sick note",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "health insurance card",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergic",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tablet",
+      "answerText": null
+    }
+  ]
+}

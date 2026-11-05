@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:36.637Z"
+  },
+  "title": "Dortmund",
+  "instructions": {
+    "stadt-dortmund-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-dortmund-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-dortmund-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-dortmund-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-dortmund-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-dortmund-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-dortmund-matching-1",
+      "translation": "BVB",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-1:meaning",
+      "translation": "Borussia Dortmund – klabu kubwa ya mpira wa miguu ya mji, rangi nyeusi na njano.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2",
+      "translation": "\"Gelbe Wand\" (Ukuta wa Njano)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2:meaning",
+      "translation": "Jukwaa kubwa sana la kusini uwanjani; mashabiki husimama hapo wamebanana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3",
+      "translation": "Dortmunder U",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3:meaning",
+      "translation": "Jengo refu la zamani la kiwanda cha bia lenye U kubwa inayowaka juu ya paa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4",
+      "translation": "mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4:meaning",
+      "translation": "Mgodi; zamani hapa watu walichimba makaa ya mawe ardhini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5",
+      "translation": "\"Bude\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5:meaning",
+      "translation": "Kibanda kidogo pembeni ya barabara chenye vinywaji, peremende na magazeti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6",
+      "translation": "\"Pott\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6:meaning",
+      "translation": "Neno fupi kwa eneo la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7",
+      "translation": "mti wa Krismasi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7:meaning",
+      "translation": "Kwenye soko la Krismasi kuna mti mkubwa sana uliotengenezwa kwa misonobari mingi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-1",
+      "translation": "Jumamosi tunaenda uwanjani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-2",
+      "translation": "Mashabiki wanasimama kwenye jukwaa la kusini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-3",
+      "translation": "Tunanunua kitu cha kunywa kwenye Bude.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-4",
+      "translation": "Babu yangu alifanya kazi mgodini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-5",
+      "translation": "Kwenye soko la Krismasi kuna mti mkubwa sana wa Krismasi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-6",
+      "translation": "Juu ya Dortmunder U kuna U kubwa inayowaka.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-7",
+      "translation": "Tunatembelea Makumbusho ya Mpira wa Miguu ya Ujerumani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-verbs-1",
+      "translation": "Mashabiki wanaimba kwa sauti kubwa kwa ajili ya BVB.",
+      "answerText": "wanaimba"
+    },
+    {
+      "id": "stadt-dortmund-verbs-2",
+      "translation": "Zamani wanaume wengi walifanya kazi chini ya ardhi.",
+      "answerText": "walifanya"
+    },
+    {
+      "id": "stadt-dortmund-verbs-3",
+      "translation": "Mti wa Krismasi una urefu wa zaidi ya mita 40.",
+      "answerText": "una"
+    },
+    {
+      "id": "stadt-dortmund-verbs-4",
+      "translation": "U inawaka usiku.",
+      "answerText": "inawaka"
+    },
+    {
+      "id": "stadt-dortmund-verbs-5",
+      "translation": "Tunakutana kwenye Bude.",
+      "answerText": "Tunakutana"
+    },
+    {
+      "id": "stadt-dortmund-table-1",
+      "translation": "uwanja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-2",
+      "translation": "shabiki",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-3",
+      "translation": "mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-4",
+      "translation": "goli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-5",
+      "translation": "klabu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-6",
+      "translation": "kibanda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-1",
+      "translation": "BVB inacheza katika Westfalenstadion.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-2",
+      "translation": "Jumamosi tunasimama kwenye jukwaa la kusini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-3",
+      "translation": "Utakuja nami uwanjani?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-4",
+      "translation": "Dortmund iko katika eneo la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-1",
+      "translation": "uwanja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-2",
+      "translation": "klabu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-3",
+      "translation": "jukwaa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-4",
+      "translation": "mgodi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-5",
+      "translation": "mpira wa miguu",
+      "answerText": null
+    }
+  ]
+}

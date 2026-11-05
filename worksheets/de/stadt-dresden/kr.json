@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:32.226Z"
+  },
+  "title": "드레스덴",
+  "instructions": {
+    "stadt-dresden-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-dresden-gap": "알맞은 단어에 표시하세요.",
+    "stadt-dresden-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-dresden-table": "관사와 복수형을 쓰세요.",
+    "stadt-dresden-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-dresden-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "프라우엔 교회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "돔이 있는 큰 교회로, 전쟁 때 파괴되었다가 2005년에 다시 열렸다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "'엘베강의 피렌체'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "아름다운 건물이 많아서 붙은 드레스덴의 별명.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "슈트리첼마르크트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "독일에서 가장 오래된 크리스마스 시장 중 하나.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "슈톨렌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "건포도가 들어가고 슈거파우더를 뿌린 무거운 크리스마스 케이크.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "'푸른 기적'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "엘베강 위의 오래된 파란 다리.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "젬퍼 오페라",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "극장 광장에 있는 유명한 오페라 극장.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "아이어셰케",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "세 층으로 된 작센 지방의 케이크.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "우리는 프라우엔 교회를 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "12월에 우리는 슈트리첼마르크트에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "크리스마스에 할머니가 슈톨렌을 굽는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "우리는 엘베강을 따라 산책한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "저녁에 우리는 젬퍼 오페라에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "푸른 기적은 오래된 다리이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "커피와 함께 나는 아이어셰케 한 조각을 먹는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "전쟁 때 프라우엔 교회가 파괴되었다.",
+      "answerText": "파괴되었다"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "많은 사람들이 재건을 위해 돈을 기부했다.",
+      "answerText": "기부했다"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "슈트리첼마르크트는 매년 대림절에 열린다.",
+      "answerText": "열린다"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "엘베강은 드레스덴 한가운데를 흐른다.",
+      "answerText": "흐른다"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "작센 사투리에서는 '네' 대신 자주 '누'라고 말한다.",
+      "answerText": "말한다"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "교회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "다리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "시장",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "돔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "케이크",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "궁전",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "프라우엔 교회는 2005년에 다시 열렸다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "대림절에 우리는 슈트리첼마르크트에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "드레스덴 슈톨렌 먹어 봤어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "드레스덴은 엘베강 가에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "돔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "크리스마스",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "슈톨렌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "다리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "건포도",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "87aa130f-ccaa-4ee2-80fc-f4e812b403e5",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Berlin",
+  "topic": "Hauptstadt: Brandenburger Tor, Späti, Schrippe, Mauer",
+  "tasks": [
+    {
+      "id": "stadt-berlin-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-berlin-matching-1",
+          "term": "die Hauptstadt",
+          "meaning": "Die wichtigste Stadt eines Landes; hier arbeitet die Regierung."
+        },
+        {
+          "id": "stadt-berlin-matching-2",
+          "term": "das Brandenburger Tor",
+          "meaning": "Bekanntes Wahrzeichen mit einem Wagen und vier Pferden oben drauf."
+        },
+        {
+          "id": "stadt-berlin-matching-3",
+          "term": "die Mauer",
+          "meaning": "Sie hat Berlin bis 1989 in Ost und West geteilt."
+        },
+        {
+          "id": "stadt-berlin-matching-4",
+          "term": "der Späti",
+          "meaning": "Kleiner Laden, der bis spät in die Nacht offen hat."
+        },
+        {
+          "id": "stadt-berlin-matching-5",
+          "term": "die Schrippe",
+          "meaning": "So sagt man in Berlin zu einem Brötchen."
+        },
+        {
+          "id": "stadt-berlin-matching-6",
+          "term": "der Pfannkuchen",
+          "meaning": "In Berlin ein süßes, rundes Gebäck mit Marmelade."
+        },
+        {
+          "id": "stadt-berlin-matching-7",
+          "term": "der Kiez",
+          "meaning": "So nennen Berliner ihr Wohnviertel."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-berlin-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-berlin-gap-1",
+          "promptBefore": "Wir fotografieren",
+          "promptAfter": "Brandenburger Tor.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-2",
+          "promptBefore": "Der Fernsehturm steht in",
+          "promptAfter": "Nähe vom Alexanderplatz.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-3",
+          "promptBefore": "Die Spree fließt durch",
+          "promptAfter": "Stadt.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-4",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Getränk im Späti.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-5",
+          "promptBefore": "Bis 1989 stand",
+          "promptAfter": "Mauer mitten in der Stadt.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-6",
+          "promptBefore": "Beim Bäcker bestelle ich",
+          "promptAfter": "Schrippe.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-berlin-gap-7",
+          "promptBefore": "Ich wohne seit drei Jahren in",
+          "promptAfter": "Kiez.",
+          "correctAnswer": "diesem",
+          "options": [
+            "diesem",
+            "diesen",
+            "dieser"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-berlin-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-berlin-verbs-1",
+          "promptBefore": "Am 9. November 1989",
+          "promptAfter": "die Mauer.",
+          "correctAnswer": "fiel",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fallen"
+        },
+        {
+          "id": "stadt-berlin-verbs-2",
+          "promptBefore": "Die Regierung",
+          "promptAfter": "in Berlin.",
+          "correctAnswer": "arbeitet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arbeiten"
+        },
+        {
+          "id": "stadt-berlin-verbs-3",
+          "promptBefore": "Viele Touristen",
+          "promptAfter": "die East Side Gallery.",
+          "correctAnswer": "besuchen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "besuchen"
+        },
+        {
+          "id": "stadt-berlin-verbs-4",
+          "promptBefore": "Der Späti",
+          "promptAfter": "bis spät in die Nacht offen.",
+          "correctAnswer": "hat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "stadt-berlin-verbs-5",
+          "promptBefore": "Mit der Ringbahn",
+          "promptAfter": "man im Kreis um die Innenstadt.",
+          "correctAnswer": "fährt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-berlin-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-berlin-table-1",
+          "article": "das",
+          "singular": "Tor",
+          "plural": "Tore"
+        },
+        {
+          "id": "stadt-berlin-table-2",
+          "article": "die",
+          "singular": "Mauer",
+          "plural": "Mauern"
+        },
+        {
+          "id": "stadt-berlin-table-3",
+          "article": "der",
+          "singular": "Bezirk",
+          "plural": "Bezirke"
+        },
+        {
+          "id": "stadt-berlin-table-4",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        },
+        {
+          "id": "stadt-berlin-table-5",
+          "article": "das",
+          "singular": "Museum",
+          "plural": "Museen"
+        },
+        {
+          "id": "stadt-berlin-table-6",
+          "article": "der",
+          "singular": "Laden",
+          "plural": "Läden"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-berlin-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-berlin-order-1",
+          "chunks": [
+            "Berlin",
+            "ist",
+            "die Hauptstadt",
+            "von Deutschland"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-berlin-order-2",
+          "chunks": [
+            "Die Mauer",
+            "ist",
+            "1989",
+            "gefallen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-berlin-order-3",
+          "chunks": [
+            "Hast du",
+            "schon",
+            "eine Currywurst",
+            "gegessen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-berlin-order-4",
+          "chunks": [
+            "Der Späti",
+            "hat",
+            "bis spät in die Nacht",
+            "offen"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-berlin-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-berlin-spelling-1",
+          "correct": "Hauptstadt",
+          "wrong": "Haubtstadt"
+        },
+        {
+          "id": "stadt-berlin-spelling-2",
+          "correct": "Regierung",
+          "wrong": "Regirung"
+        },
+        {
+          "id": "stadt-berlin-spelling-3",
+          "correct": "Brötchen",
+          "wrong": "Brödchen"
+        },
+        {
+          "id": "stadt-berlin-spelling-4",
+          "correct": "Wahrzeichen",
+          "wrong": "Warzeichen"
+        },
+        {
+          "id": "stadt-berlin-spelling-5",
+          "correct": "Fernsehturm",
+          "wrong": "Fernseturm"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

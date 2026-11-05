@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Supermarketis",
+  "instructions": {
+    "im-supermarkt-matching": "Ühendage iga sõna õige selgitusega.",
+    "im-supermarkt-gap": "Märkige õige pakend või kogus.",
+    "im-supermarkt-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "im-supermarkt-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "im-supermarkt-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "im-supermarkt-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "ostukäru",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Sinna panete poes käies oma kaubad.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "juustulett",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Siit saate värsket juustu kaalu järgi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "pandiraha",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Raha, mille saate tühjade pudelite eest tagasi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "taaraautomaat",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Siia viite tühjad pudelid tagasi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "eripakkumine",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Toode on lühikest aega odavam.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "kassatšekk",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Sellel paberil on kõik hinnad.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "kott",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Selles kannate oma ostud koju.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Ma ostan topsi jogurtit.",
+      "answerText": "topsi"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Ja palun üks pudel vett.",
+      "answerText": "pudel"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Meil on vaja pakki pastat.",
+      "answerText": "pakki"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Kastme jaoks võtan purgi tomateid.",
+      "answerText": "purgi"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Palun 200 grammi Goudat.",
+      "answerText": "grammi"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Üks pakk võid maksab 2,29 eurot.",
+      "answerText": "pakk"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Ma võtan liitri piima.",
+      "answerText": "liitri"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Kas te saaksite mulle viis eurot vahetada?",
+      "answerText": "vahetada"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Vabandage, kust ma leian jahu?",
+      "answerText": "leian"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Ma maksan kaardiga.",
+      "answerText": "maksan"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Ma sooviksin 200 grammi Goudat.",
+      "answerText": "sooviksin"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Pühapäeviti on peaaegu kõik supermarketid suletud.",
+      "answerText": "on"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "pudel",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "tops",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "konservikarp",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "leib",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "õun",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "banaan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Vabandage, kust ma leian jahu?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Ma võtsin koti kaasa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Banaanid on täna eripakkumisel.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Kus on taaraautomaat?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "ostukäru",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "kassatšekk",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "pandiraha",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "juust",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "saiake",
+      "answerText": null
+    }
+  ]
+}

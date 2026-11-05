@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:26.925Z"
+  },
+  "title": "Dresden",
+  "instructions": {
+    "stadt-dresden-matching": "Match each word with the correct explanation.",
+    "stadt-dresden-gap": "Tick the correct word.",
+    "stadt-dresden-verbs": "Fill in the correct verb in the correct form.",
+    "stadt-dresden-table": "Fill in the article and the plural form.",
+    "stadt-dresden-order": "Put the words in the correct order and write the sentence.",
+    "stadt-dresden-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "the Frauenkirche",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "Large church with a dome; destroyed in the war, reopened in 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "\"Elbflorenz\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "Nickname of Dresden (\"Florence on the Elbe\") – because of its beautiful buildings.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "the Striezelmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "One of the oldest Christmas markets in Germany.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "the Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "Heavy Christmas cake with raisins and icing sugar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "the \"Blue Wonder\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "Old blue bridge over the Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "the Semperoper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "Famous opera house on Theaterplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "the Eierschecke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "Saxon cake with three layers.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "We visit the Frauenkirche.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "In December we go to the Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "For Christmas my grandma bakes a Stollen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "We walk along the Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "In the evening we go to the Semperoper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "The Blue Wonder is an old bridge.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "With my coffee I eat a piece of Eierschecke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "In the war the Frauenkirche was destroyed.",
+      "answerText": "was"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "Many people donated money for the reconstruction.",
+      "answerText": "donated"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "The Striezelmarkt takes place every year in Advent.",
+      "answerText": "takes"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "The Elbe flows right through Dresden.",
+      "answerText": "flows"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "In Saxon dialect people often say \"nu\" for \"yes\".",
+      "answerText": "say"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "the church",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "the bridge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "the market",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "the dome",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "the cake",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "the palace",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "The Frauenkirche was reopened in 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "In Advent we go to the Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "Have you tried Dresden Stollen yet?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "Dresden lies on the Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "dome",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "Christmas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "bridge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "raisin",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:51.012Z"
+  },
+  "title": "Lubecca",
+  "instructions": {
+    "stadt-luebeck-matching": "Collega ogni parola alla spiegazione giusta.",
+    "stadt-luebeck-gap": "Segna la parola giusta.",
+    "stadt-luebeck-verbs": "Inserisci il verbo giusto nella forma giusta.",
+    "stadt-luebeck-table": "Completa l'articolo e il plurale.",
+    "stadt-luebeck-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "stadt-luebeck-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "la Holstentor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "Antica porta della città con due torri rotonde – il simbolo di Lubecca.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "il marzapane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "Dolce fatto di mandorle e zucchero; Lubecca è famosa per questo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "la Regina dell'Hansa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "Soprannome: nel Medioevo Lubecca era la città più importante della Lega anseatica.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "l'isola del centro storico",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "Il centro storico si trova su un'isola ed è patrimonio dell'umanità.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Travemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "Quartiere sul Mar Baltico con spiaggia e grandi traghetti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Thomas Mann",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "Famoso scrittore di Lubecca; scrisse «I Buddenbrook».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "i «Gänge» (passaggi)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "Stretti passaggi tra le case del centro storico.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "Passiamo attraverso la Holstentor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "Compro un pezzo di marzapane.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "Nel Medioevo Lubecca era la città più importante della Lega anseatica.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "A Travemünde andiamo in spiaggia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "Il traghetto attraversa il Mar Baltico.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "Thomas Mann scrisse un romanzo su una famiglia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "Il centro storico si trova su un'isola.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "La Holstentor ha due torri rotonde.",
+      "answerText": "ha"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "Il marzapane si fa con mandorle e zucchero.",
+      "answerText": "fa"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "I traghetti vanno in Svezia e Finlandia.",
+      "answerText": "vanno"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "Il centro storico si trova su un'isola.",
+      "answerText": "si trova"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "Thomas Mann scrisse il romanzo «I Buddenbrook».",
+      "answerText": "scrisse"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "la porta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "la mandorla",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "l'isola",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "la spiaggia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "il traghetto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "il romanzo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "La Holstentor è il simbolo di Lubecca.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "Ti piace il marzapane?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "Il centro storico si trova su un'isola.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "D'estate andiamo a Travemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "marzapane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "isola",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "spiaggia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "traghetto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "mandorla",
+      "answerText": null
+    }
+  ]
+}

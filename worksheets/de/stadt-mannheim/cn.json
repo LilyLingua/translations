@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:06.341Z"
+  },
+  "title": "曼海姆",
+  "instructions": {
+    "stadt-mannheim-matching": "把每个词和正确的解释连起来。",
+    "stadt-mannheim-gap": "勾出正确的词。",
+    "stadt-mannheim-verbs": "用正确形式填入正确的动词。",
+    "stadt-mannheim-table": "填写冠词和复数形式。",
+    "stadt-mannheim-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-mannheim-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "方格城（Quadrate）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "市中心像一个棋盘；地址叫例如“Q6”或“N1”。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "曼海姆的标志，前面有一个漂亮的公园和喷泉。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "意面冰淇淋（Spaghettieis）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "看起来像浇了番茄酱的意大利面的冰淇淋——在曼海姆发明。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "宫殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "大型巴洛克宫殿；如今那里是大学。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "“Laufmaschine”（滑步车）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "卡尔·德莱斯1817年在曼海姆发明了它——自行车的前身。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "“Monnem”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "曼海姆人用方言对自己城市的叫法。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "雄鹰队（Adler）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "曼海姆的冰球队。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "我们给水塔拍一张照片。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "在咖啡馆里我们点一份意面冰淇淋。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "很多大学生在宫殿里上课。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "在方格城里很快就能找到每个地址。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "卡尔·德莱斯发明了滑步车。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "晚上我们看一场雄鹰队的比赛。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "曼海姆位于莱茵河和内卡河畔。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "地址由一个字母和一个数字组成。",
+      "answerText": "由"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "意面冰淇淋吃起来有香草和草莓的味道。",
+      "answerText": "吃起来"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "在曼海姆，内卡河流入莱茵河。",
+      "answerText": "流"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "雄鹰队在SAP竞技场打冰球。",
+      "answerText": "打"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "如今很多大学生在宫殿里学习。",
+      "answerText": "学习"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "数字",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "街道",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "宫殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "自行车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "喷泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "水塔位于弗里德里希广场。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "你喜欢吃意面冰淇淋吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "在曼海姆，内卡河流入莱茵河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "地址由字母和数字组成。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "宫殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "自行车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "街道",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "喷泉",
+      "answerText": null
+    }
+  ]
+}

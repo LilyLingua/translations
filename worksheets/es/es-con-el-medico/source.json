@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "a79cdcb8-af26-4830-99e9-5436bee50ba4",
+    "level": "A2"
+  },
+  "title": "Con el médico",
+  "topic": "Hacer una cita, describir síntomas y recibir una receta",
+  "tasks": [
+    {
+      "id": "es-con-el-medico-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-con-el-medico-matching-1",
+          "term": "la cita",
+          "meaning": "Una hora fija para ver al médico."
+        },
+        {
+          "id": "es-con-el-medico-matching-2",
+          "term": "el síntoma",
+          "meaning": "Una señal de enfermedad, por ejemplo la fiebre."
+        },
+        {
+          "id": "es-con-el-medico-matching-3",
+          "term": "la fiebre",
+          "meaning": "Una temperatura del cuerpo demasiado alta."
+        },
+        {
+          "id": "es-con-el-medico-matching-4",
+          "term": "la sala de espera",
+          "meaning": "El cuarto donde esperas antes de la consulta."
+        },
+        {
+          "id": "es-con-el-medico-matching-5",
+          "term": "el seguro médico",
+          "meaning": "Paga una parte de tus gastos de salud."
+        },
+        {
+          "id": "es-con-el-medico-matching-6",
+          "term": "la incapacidad",
+          "meaning": "Un papel del médico que dice que no puedes trabajar."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-con-el-medico-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-con-el-medico-gap-1",
+          "promptBefore": "Quiero hacer una",
+          "promptAfter": "para mañana.",
+          "correctAnswer": "cita",
+          "options": [
+            "cita",
+            "fiebre",
+            "receta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-con-el-medico-gap-2",
+          "promptBefore": "Tengo",
+          "promptAfter": "desde ayer.",
+          "correctAnswer": "fiebre",
+          "options": [
+            "fiebre",
+            "cita",
+            "sala"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-con-el-medico-gap-3",
+          "promptBefore": "Por favor, espere en la sala de",
+          "promptAfter": ".",
+          "correctAnswer": "espera",
+          "options": [
+            "espera",
+            "fiebre",
+            "cita"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-con-el-medico-gap-4",
+          "promptBefore": "¿Tiene",
+          "promptAfter": "médico?",
+          "correctAnswer": "seguro",
+          "options": [
+            "seguro",
+            "síntoma",
+            "sala"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-con-el-medico-gap-5",
+          "promptBefore": "Necesito una",
+          "promptAfter": "para mi trabajo.",
+          "correctAnswer": "incapacidad",
+          "options": [
+            "incapacidad",
+            "fiebre",
+            "sala"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-con-el-medico-gap-6",
+          "promptBefore": "¿Qué",
+          "promptAfter": "tiene?",
+          "correctAnswer": "síntomas",
+          "options": [
+            "síntomas",
+            "citas",
+            "salas"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-con-el-medico-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-con-el-medico-verbs-1",
+          "promptBefore": "Me",
+          "promptAfter": "la garganta.",
+          "correctAnswer": "duele",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "doler"
+        },
+        {
+          "id": "es-con-el-medico-verbs-2",
+          "promptBefore": "",
+          "promptAfter": "mal por las noches.",
+          "correctAnswer": "Duermo",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "dormir"
+        },
+        {
+          "id": "es-con-el-medico-verbs-3",
+          "promptBefore": "El médico me",
+          "promptAfter": "la presión.",
+          "correctAnswer": "toma",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "tomar"
+        },
+        {
+          "id": "es-con-el-medico-verbs-4",
+          "promptBefore": "Debe",
+          "promptAfter": "en cama dos días.",
+          "correctAnswer": "quedarse",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "quedarse"
+        },
+        {
+          "id": "es-con-el-medico-verbs-5",
+          "promptBefore": "Por favor,",
+          "promptAfter": "profundo.",
+          "correctAnswer": "respire",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "respirar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-con-el-medico-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-con-el-medico-order-1",
+          "chunks": [
+            "Me duele",
+            "mucho",
+            "el estómago"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-con-el-medico-order-2",
+          "chunks": [
+            "¿Cuándo",
+            "puedo",
+            "venir",
+            "a consulta"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-con-el-medico-order-3",
+          "chunks": [
+            "¿Necesito",
+            "una",
+            "receta"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-con-el-medico-order-4",
+          "chunks": [
+            "Regrese",
+            "la próxima",
+            "semana"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-con-el-medico-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-con-el-medico-spelling-1",
+          "correct": "estómago",
+          "wrong": "estomago"
+        },
+        {
+          "id": "es-con-el-medico-spelling-2",
+          "correct": "garganta",
+          "wrong": "garjanta"
+        },
+        {
+          "id": "es-con-el-medico-spelling-3",
+          "correct": "cabeza",
+          "wrong": "cabesa"
+        },
+        {
+          "id": "es-con-el-medico-spelling-4",
+          "correct": "salud",
+          "wrong": "salut"
+        },
+        {
+          "id": "es-con-el-medico-spelling-5",
+          "correct": "médico",
+          "wrong": "medico"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

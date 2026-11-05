@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:53.738Z"
+  },
+  "title": "มึนสเตอร์",
+  "instructions": {
+    "stadt-muenster-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-muenster-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-muenster-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-muenster-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-muenster-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-muenster-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-muenster-matching-1",
+      "translation": "\"เลเซอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-1:meaning",
+      "translation": "คำของชาวมึนสเตอร์ที่แปลว่าจักรยาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2",
+      "translation": "ถนนพรินซิพาลมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2:meaning",
+      "translation": "ถนนช้อปปิ้งสวยงาม มีบ้านหน้าจั่วเก่าและทางเดินซุ้มโค้ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3",
+      "translation": "สนธิสัญญาสันติภาพเวสต์ฟาเลีย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3:meaning",
+      "translation": "ปี 1648 สงครามสามสิบปีสิ้นสุดลงที่นี่และที่ออสนาบรึค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4",
+      "translation": "กรงของพวกแอนาแบปทิสต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4:meaning",
+      "translation": "กรงเหล็กสามใบแขวนอยู่บนหอคอยของโบสถ์ลัมแบร์ทีมาเกือบ 500 ปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5",
+      "translation": "ทะเลสาบอาเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5:meaning",
+      "translation": "ทะเลสาบกลางเมือง ฤดูร้อนมีนักศึกษามากมายมานั่งที่นั่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6",
+      "translation": "\"เซนด์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6:meaning",
+      "translation": "งานเทศกาลใหญ่มีม้าหมุน จัดปีละสามครั้ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7",
+      "translation": "โพรเมอนาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7:meaning",
+      "translation": "ทางรอบเมืองเก่าสำหรับจักรยานและคนเดินเท้าเท่านั้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-1",
+      "translation": "ฉันปั่นเลเซอไปมหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-2",
+      "translation": "พวกเราเดินผ่านถนนพรินซิพาลมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-3",
+      "translation": "ปี 1648 มีการทำสนธิสัญญาสันติภาพเวสต์ฟาเลียที่มึนสเตอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-4",
+      "translation": "พวกเราวิ่งจ็อกกิ้งรอบทะเลสาบอาเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-5",
+      "translation": "ที่งานเซนด์ พวกเราเล่นม้าหมุน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-6",
+      "translation": "โพรเมอนาดเป็นวงแหวนรอบเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-7",
+      "translation": "มีคนพูดว่า ที่มึนสเตอร์ ถ้าฝนไม่ตก ระฆังก็ดัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-verbs-1",
+      "translation": "ที่มึนสเตอร์ เกือบทุกคนปั่นจักรยาน",
+      "answerText": "ปั่น"
+    },
+    {
+      "id": "stadt-muenster-verbs-2",
+      "translation": "บนหอคอยของโบสถ์เซนต์ลัมแบร์ทีแขวนกรงเหล็กสามใบ",
+      "answerText": "แขวน"
+    },
+    {
+      "id": "stadt-muenster-verbs-3",
+      "translation": "นักศึกษาจอดเลเซอไว้หน้ามหาวิทยาลัย",
+      "answerText": "จอด"
+    },
+    {
+      "id": "stadt-muenster-verbs-4",
+      "translation": "ฝนตกอีกแล้ว!",
+      "answerText": "ตก"
+    },
+    {
+      "id": "stadt-muenster-verbs-5",
+      "translation": "งานเซนด์จัดขึ้นปีละสามครั้ง",
+      "answerText": "จัด"
+    },
+    {
+      "id": "stadt-muenster-table-1",
+      "translation": "จักรยาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-2",
+      "translation": "กรง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-3",
+      "translation": "ระฆัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-4",
+      "translation": "หน้าจั่ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-5",
+      "translation": "ม้าหมุน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-6",
+      "translation": "ตรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-1",
+      "translation": "ที่มึนสเตอร์มีจักรยานมากกว่าประชากร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-2",
+      "translation": "ที่ถนนพรินซิพาลมาร์คท์มีบ้านหน้าจั่วเก่า ๆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-3",
+      "translation": "คุณปั่นเลเซอไปมหาวิทยาลัยไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-4",
+      "translation": "สนธิสัญญาสันติภาพเวสต์ฟาเลียยุติสงครามอันยาวนานในปี 1648",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-1",
+      "translation": "จักรยาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-2",
+      "translation": "กรง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-3",
+      "translation": "ระฆัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-4",
+      "translation": "ม้าหมุน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-5",
+      "translation": "หน้าจั่ว",
+      "answerText": null
+    }
+  ]
+}

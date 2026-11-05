@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.004Z"
+  },
+  "title": "बेकरी और कैफ़े में",
+  "instructions": {
+    "baecker-und-cafe-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "baecker-und-cafe-gap": "सही आर्टिकल पर निशान लगाइए।",
+    "baecker-und-cafe-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "baecker-und-cafe-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "baecker-und-cafe-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "baecker-und-cafe-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "छोटी ब्रेड (ब्रॉटशन)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "छोटी ब्रेड, अक्सर नाश्ते में।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "प्रेट्ज़ेल",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "नमक वाला बेक किया हुआ नाश्ता, दक्षिणी जर्मनी में मशहूर।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "केक",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "कुछ मीठा, अक्सर दोपहर में कॉफ़ी के साथ।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "मेन्यू",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "इसमें सारे खाने और पेय होते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "बिल",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "इसमें लिखा होता है कि आपको कितना देना है।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "टिप",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "वेटर के लिए थोड़े अतिरिक्त पैसे।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "पैक करके ले जाने के लिए",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "आप इसे कैफ़े में नहीं खाते-पीते।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "मुझे एक छोटी ब्रेड चाहिए।",
+      "answerText": "एक"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "मैं एक कॉफ़ी लूँगा।",
+      "answerText": "एक"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "प्रेट्ज़ेल कितने का है?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "मुझे केक का एक टुकड़ा चाहिए।",
+      "answerText": "एक"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "क्या यह मेज़ खाली है?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "मैं दूध वाली एक चाय पीता हूँ।",
+      "answerText": "एक"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "कृपया मुझे बिल लाइए।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "आप क्या पीना चाहेंगे?",
+      "answerText": "चाहेंगे"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "मैं एक कैपुचीनो लूँगा।",
+      "answerText": "लूँगा"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "कुल मिलाकर 6.40 यूरो हुए।",
+      "answerText": "हुए"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "क्या मैं कार्ड से भुगतान कर सकता हूँ?",
+      "answerText": "भुगतान कर"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "केक बहुत स्वादिष्ट है।",
+      "answerText": "स्वादिष्ट"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "छोटी ब्रेड",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "केक",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "कप",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "गिलास",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "प्लेट",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "प्रेट्ज़ेल",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "मुझे दो छोटी ब्रेड चाहिए।",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "केक कितने का है?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "क्या मैं कार्ड से भुगतान कर सकता हूँ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "क्या आप यहीं खाएँगे?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "छोटी ब्रेड",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "केक",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "बिल",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "कॉफ़ी",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "टिप",
+      "answerText": null
+    }
+  ]
+}

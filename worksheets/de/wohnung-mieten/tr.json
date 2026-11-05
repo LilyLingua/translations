@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.701Z"
+  },
+  "title": "Ev Kiralamak",
+  "instructions": {
+    "wohnung-mieten-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "wohnung-mieten-gap": "Artikelin doğru biçimini işaretleyin.",
+    "wohnung-mieten-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "wohnung-mieten-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "wohnung-mieten-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "wohnung-mieten-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "kira",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Ev için her ay ödediğiniz para.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "depozito",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Ev sahibinin başta güvence olarak aldığı para.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "yan giderler (aidat)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Su, ısınma ve çöp masrafları.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "kira sözleşmesi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Kiracı ile ev sahibi arasındaki sözleşme.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "evi görme",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Kiralamadan önce evi gezersiniz.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "kapıcı (bina görevlisi)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Binayla ilgilenir ve küçük şeyleri tamir eder.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "bina kuralları",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Tüm sakinler için kurallar, örneğin sessizlik saatleri.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Balkonlu bir ev arıyoruz.",
+      "answerText": "bir"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Ev sahibiyle konuşuyorum.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Depozitoyu ev sahibine veriyorum.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Bisikleti avluya koyuyorum.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Anahtar masanın üzerinde.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Mutfaktaki kalorifer bozuk.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Bir yıldır bu evde oturuyorum.",
+      "answerText": "bu"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Evi ne zaman görebilirim?",
+      "answerText": "görebilirim"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Kira, yan giderler dahil 850 euro tutuyor.",
+      "answerText": "tutuyor"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "1 Aralık'ta taşınıyoruz.",
+      "answerText": "taşınıyoruz"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Kalorifer bozuk. Lütfen tamir edebilir misiniz?",
+      "answerText": "tamir edebilir"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Lütfen çöpleri ayırın.",
+      "answerText": "ayırın"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "oda",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "mutfak",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "banyo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "anahtar",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "kalorifer",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Ev hâlâ boş mu?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Yan giderler ne kadar?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Evi ne zaman görebilirim?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Evi kiralamak istiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "depozito",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "yan giderler",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "anahtar",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "kalorifer",
+      "answerText": null
+    }
+  ]
+}

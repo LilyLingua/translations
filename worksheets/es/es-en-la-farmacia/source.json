@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "4c75c0cb-276c-4cb7-bf5e-9037aac0e817",
+    "level": "A2"
+  },
+  "title": "En la farmacia",
+  "topic": "Comprar medicinas y hacer preguntas",
+  "tasks": [
+    {
+      "id": "es-en-la-farmacia-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-en-la-farmacia-matching-1",
+          "term": "la receta",
+          "meaning": "Un papel del médico con la medicina que necesitas."
+        },
+        {
+          "id": "es-en-la-farmacia-matching-2",
+          "term": "el farmacéutico",
+          "meaning": "La persona que vende medicinas y da consejos."
+        },
+        {
+          "id": "es-en-la-farmacia-matching-3",
+          "term": "el efecto secundario",
+          "meaning": "Un efecto no deseado de una medicina."
+        },
+        {
+          "id": "es-en-la-farmacia-matching-4",
+          "term": "la pastilla",
+          "meaning": "Una medicina pequeña y dura que se traga."
+        },
+        {
+          "id": "es-en-la-farmacia-matching-5",
+          "term": "el jarabe",
+          "meaning": "Una medicina líquida, por ejemplo para la tos."
+        },
+        {
+          "id": "es-en-la-farmacia-matching-6",
+          "term": "la dosis",
+          "meaning": "Cuánta medicina tomas de una vez."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-en-la-farmacia-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-en-la-farmacia-gap-1",
+          "promptBefore": "Tengo",
+          "promptAfter": "y me duele la garganta.",
+          "correctAnswer": "gripa",
+          "options": [
+            "gripa",
+            "receta",
+            "dosis"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-farmacia-gap-2",
+          "promptBefore": "¿Necesito",
+          "promptAfter": "para esta medicina?",
+          "correctAnswer": "receta",
+          "options": [
+            "receta",
+            "pastilla",
+            "dosis"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-farmacia-gap-3",
+          "promptBefore": "Tome una",
+          "promptAfter": "tres veces al día.",
+          "correctAnswer": "pastilla",
+          "options": [
+            "pastilla",
+            "farmacia",
+            "gripa"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-farmacia-gap-4",
+          "promptBefore": "¿Esta medicina tiene efectos",
+          "promptAfter": "?",
+          "correctAnswer": "secundarios",
+          "options": [
+            "secundarios",
+            "recetas",
+            "farmacias"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-farmacia-gap-5",
+          "promptBefore": "Si tiene dudas, pregúntele al",
+          "promptAfter": ".",
+          "correctAnswer": "farmacéutico",
+          "options": [
+            "farmacéutico",
+            "jarabe",
+            "efecto"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-farmacia-gap-6",
+          "promptBefore": "Quiero un",
+          "promptAfter": "para la tos, por favor.",
+          "correctAnswer": "jarabe",
+          "options": [
+            "jarabe",
+            "efecto",
+            "farmacéutico"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-en-la-farmacia-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-en-la-farmacia-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "algo para el dolor de cabeza.",
+          "correctAnswer": "Necesito",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "necesitar"
+        },
+        {
+          "id": "es-en-la-farmacia-verbs-2",
+          "promptBefore": "¿Usted",
+          "promptAfter": "alguna alergia?",
+          "correctAnswer": "tiene",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "tener"
+        },
+        {
+          "id": "es-en-la-farmacia-verbs-3",
+          "promptBefore": "Por favor,",
+          "promptAfter": "esta medicina después de comer.",
+          "correctAnswer": "tome",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "tomar"
+        },
+        {
+          "id": "es-en-la-farmacia-verbs-4",
+          "promptBefore": "El farmacéutico me",
+          "promptAfter": "cómo usar el spray.",
+          "correctAnswer": "explica",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "explicar"
+        },
+        {
+          "id": "es-en-la-farmacia-verbs-5",
+          "promptBefore": "¿Cuánto",
+          "promptAfter": "esta medicina?",
+          "correctAnswer": "cuesta",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "costar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-en-la-farmacia-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-en-la-farmacia-order-1",
+          "chunks": [
+            "¿Necesito",
+            "receta",
+            "para",
+            "esta medicina"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-la-farmacia-order-2",
+          "chunks": [
+            "Me duele",
+            "mucho",
+            "la cabeza"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-la-farmacia-order-3",
+          "chunks": [
+            "Tome",
+            "dos pastillas",
+            "en la mañana"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-la-farmacia-order-4",
+          "chunks": [
+            "¿Qué",
+            "me recomienda",
+            "para la tos"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-en-la-farmacia-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-en-la-farmacia-spelling-1",
+          "correct": "medicina",
+          "wrong": "medisina"
+        },
+        {
+          "id": "es-en-la-farmacia-spelling-2",
+          "correct": "farmacia",
+          "wrong": "farmasia"
+        },
+        {
+          "id": "es-en-la-farmacia-spelling-3",
+          "correct": "jarabe",
+          "wrong": "jarave"
+        },
+        {
+          "id": "es-en-la-farmacia-spelling-4",
+          "correct": "alergia",
+          "wrong": "alerjia"
+        },
+        {
+          "id": "es-en-la-farmacia-spelling-5",
+          "correct": "receta",
+          "wrong": "reseta"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

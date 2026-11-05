@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:28.760Z"
+  },
+  "title": "보훔",
+  "instructions": {
+    "stadt-bochum-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-bochum-gap": "알맞은 단어에 표시하세요.",
+    "stadt-bochum-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-bochum-table": "관사와 복수형을 쓰세요.",
+    "stadt-bochum-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-bochum-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "'버뮤다 삼각지대'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "시내에 술집과 바가 많은 구역.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "커리부르스트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "케첩과 카레 가루를 뿌린 구운 소시지 – 보훔에서 아주 인기 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "헤르베르트 그뢰네마이어",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "자기 도시 보훔에 대한 유명한 노래를 부르는 가수.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "VfL 보훔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "파란색과 흰색의 도시 축구 클럽.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "광산 박물관",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "땅속 일에 대한 큰 박물관 – 구경할 수 있는 갱도가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "스타라이트 익스프레스",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "배우들이 롤러스케이트를 타고 달리는 뮤지컬.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "루르 대학교",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "도시 가장자리에 있는, 학생이 많은 큰 대학교.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "금요일에 우리는 버뮤다 삼각지대에서 만난다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "나는 커리부르스트와 감자튀김을 먹는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "많은 학생들이 루르 대학교에서 공부한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "광산 박물관에서 우리는 갱도로 들어간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "배우들은 롤러스케이트를 타고 달린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "헤르베르트 그뢰네마이어는 보훔에 대한 노래를 부른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfL은 카스트로퍼 거리의 경기장에서 경기한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "뮤지컬에서 배우들은 롤러스케이트를 타고 달린다.",
+      "answerText": "달린다"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "헤르베르트 그뢰네마이어는 자기 도시에 대해 노래한다.",
+      "answerText": "노래한다"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "주말에 많은 사람들이 버뮤다 삼각지대에 간다.",
+      "answerText": "간다"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "커리부르스트는 감자튀김과 함께 먹는다.",
+      "answerText": "먹는다"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "그 뮤지컬은 1988년부터 보훔에서 공연되고 있다.",
+      "answerText": "공연되고"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "노래",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "학생",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "뮤지컬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "대학교",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "가수",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "스타라이트 익스프레스는 1988년부터 보훔에서 공연되고 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "수업이 끝나면 우리는 버뮤다 삼각지대에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "커리부르스트를 감자튀김이랑 먹어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "그뢰네마이어는 보훔에 대한 노래를 부른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "뮤지컬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "대학교",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "커리부르스트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "가수",
+      "answerText": null
+    }
+  ]
+}

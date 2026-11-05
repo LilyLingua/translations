@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.818Z"
+  },
+  "title": "Ở tiệm bánh và quán cà phê",
+  "instructions": {
+    "baecker-und-cafe-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "baecker-und-cafe-gap": "Đánh dấu mạo từ đúng.",
+    "baecker-und-cafe-verbs": "Điền động từ đúng ở dạng đúng.",
+    "baecker-und-cafe-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "baecker-und-cafe-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "baecker-und-cafe-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "bánh mì nhỏ (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Một ổ bánh mì nhỏ, thường ăn sáng.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "bánh quy xoắn (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Một loại bánh có muối, đặc trưng của miền Nam nước Đức.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "bánh ngọt",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Món ngọt, thường ăn với cà phê vào buổi chiều.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "thực đơn",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Ở đây có tất cả món ăn và đồ uống.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "hóa đơn",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Ở đây ghi bạn phải trả bao nhiêu.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "tiền boa",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Một chút tiền thêm cho người phục vụ.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "mang đi",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Bạn không ăn hay uống nó ở quán.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Cho tôi một cái bánh mì nhỏ.",
+      "answerText": "một"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Tôi lấy một ly cà phê.",
+      "answerText": "một"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Bánh quy xoắn giá bao nhiêu?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Tôi muốn một miếng bánh ngọt.",
+      "answerText": "một"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Bàn này còn trống không?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Tôi uống một tách trà sữa.",
+      "answerText": "một"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Vui lòng mang hóa đơn cho tôi.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Anh/chị muốn uống gì?",
+      "answerText": "muốn"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Tôi lấy một ly cappuccino.",
+      "answerText": "lấy"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Tổng cộng là 6,40 euro.",
+      "answerText": "là"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Tôi có thể trả bằng thẻ không?",
+      "answerText": "trả"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Bánh ngọt ngon lắm.",
+      "answerText": "ngon"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "bánh mì nhỏ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "bánh ngọt",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "tách",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "ly",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "đĩa",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "bánh quy xoắn",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Cho tôi hai cái bánh mì nhỏ.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Bánh ngọt giá bao nhiêu?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Tôi có thể trả bằng thẻ không?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Anh/chị ăn ở đây phải không?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "bánh mì nhỏ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "bánh ngọt",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "hóa đơn",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "cà phê",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "tiền boa",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.157Z"
+  },
+  "title": "W banku",
+  "instructions": {
+    "uk-u-banku-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-u-banku-gap": "Wybierz właściwe słowo.",
+    "uk-u-banku-verbs": "Wstaw właściwy czasownik.",
+    "uk-u-banku-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-u-banku-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-u-banku-matching-1",
+      "translation": "konto",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-1:meaning",
+      "translation": "Miejsce w banku, gdzie są przechowywane twoje pieniądze.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2",
+      "translation": "karta bankowa",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2:meaning",
+      "translation": "Karta, którą płaci się pieniędzmi z konta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3",
+      "translation": "PIN",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3:meaning",
+      "translation": "Tajny numer do karty.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4",
+      "translation": "bankomat",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4:meaning",
+      "translation": "Automat, z którego można wypłacić gotówkę.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5",
+      "translation": "przelew",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5:meaning",
+      "translation": "Kiedy pieniądze wysyła się z jednego konta na drugie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6",
+      "translation": "saldo",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6:meaning",
+      "translation": "Ile pieniędzy jest na koncie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-gap-1",
+      "translation": "Chcę założyć konto.",
+      "answerText": "konto"
+    },
+    {
+      "id": "uk-u-banku-gap-2",
+      "translation": "Proszę wpisać PIN.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "uk-u-banku-gap-3",
+      "translation": "Gdzie jest najbliższy bankomat?",
+      "answerText": "bankomat"
+    },
+    {
+      "id": "uk-u-banku-gap-4",
+      "translation": "Chcę zrobić przelew do właściciela mieszkania.",
+      "answerText": "przelew"
+    },
+    {
+      "id": "uk-u-banku-gap-5",
+      "translation": "Jak sprawdzić saldo karty?",
+      "answerText": "saldo"
+    },
+    {
+      "id": "uk-u-banku-gap-6",
+      "translation": "Moja karta bankowa nie działa.",
+      "answerText": "karta"
+    },
+    {
+      "id": "uk-u-banku-verbs-1",
+      "translation": "Chcę założyć konto.",
+      "answerText": "Chcę"
+    },
+    {
+      "id": "uk-u-banku-verbs-2",
+      "translation": "Czy można tu wypłacić gotówkę?",
+      "answerText": "wypłacić"
+    },
+    {
+      "id": "uk-u-banku-verbs-3",
+      "translation": "Proszę podpisać ten dokument.",
+      "answerText": "podpisać"
+    },
+    {
+      "id": "uk-u-banku-verbs-4",
+      "translation": "Karta przyjdzie za pięć dni.",
+      "answerText": "przyjdzie"
+    },
+    {
+      "id": "uk-u-banku-verbs-5",
+      "translation": "Zapomnieliśmy PIN-u.",
+      "answerText": "Zapomnieliśmy"
+    },
+    {
+      "id": "uk-u-banku-order-1",
+      "translation": "Chcę założyć konto.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-2",
+      "translation": "Gdzie można wypłacić pieniądze?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-3",
+      "translation": "Moją kartę zablokowano.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-4",
+      "translation": "Ile kosztuje prowadzenie konta?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-1",
+      "translation": "konto",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-2",
+      "translation": "bankomat",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-3",
+      "translation": "pieniądze",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-4",
+      "translation": "przelew",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-5",
+      "translation": "podpis",
+      "answerText": null
+    }
+  ]
+}

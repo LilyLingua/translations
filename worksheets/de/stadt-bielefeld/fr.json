@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:55.672Z"
+  },
+  "title": "Bielefeld",
+  "instructions": {
+    "stadt-bielefeld-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-bielefeld-gap": "Coche le bon mot.",
+    "stadt-bielefeld-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-bielefeld-table": "Complète l'article et le pluriel.",
+    "stadt-bielefeld-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-bielefeld-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-bielefeld-matching-1",
+      "translation": "la conspiration de Bielefeld",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-1:meaning",
+      "translation": "Vieille blague d'Internet : Bielefeld n'existe pas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2",
+      "translation": "la Sparrenburg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2:meaning",
+      "translation": "Vieux château sur une colline ; d'en haut, on voit toute la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3",
+      "translation": "Dr. Oetker",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3:meaning",
+      "translation": "Entreprise connue pour ses puddings, sa levure chimique et ses pizzas – elle vient de Bielefeld.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4",
+      "translation": "la forêt de Teutoburg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4:meaning",
+      "translation": "Longue forêt avec des collines juste à côté de la ville ; idéale pour la randonnée.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5",
+      "translation": "l'Arminia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5:meaning",
+      "translation": "Club de football de la ville ; les supporters appellent son stade « Alm ».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6",
+      "translation": "l'habitant de Westphalie orientale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6:meaning",
+      "translation": "C'est ainsi qu'on appelle les gens d'ici ; on dit qu'ils ne parlent pas beaucoup.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7",
+      "translation": "le « Pickert »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7:meaning",
+      "translation": "Galette de pommes de terre de Westphalie orientale, souvent avec des raisins secs.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-1",
+      "translation": "La Sparrenburg se trouve sur une colline au-dessus de la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-2",
+      "translation": "Beaucoup de gens font de la randonnée dans la forêt de Teutoburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-3",
+      "translation": "J'achète un pudding Dr. Oetker.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-4",
+      "translation": "On fait cuire le Pickert à la poêle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-5",
+      "translation": "L'Arminia joue sur l'Alm.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-6",
+      "translation": "Beaucoup de gens rient de la conspiration de Bielefeld.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-7",
+      "translation": "Bielefeld se trouve dans la région Ostwestfalen-Lippe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-verbs-1",
+      "translation": "Certains disent pour rire : « Bielefeld n'existe pas. »",
+      "answerText": "disent"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-2",
+      "translation": "Les gens de Westphalie orientale ne parlent pas beaucoup.",
+      "answerText": "parlent"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-3",
+      "translation": "Dr. Oetker est installé à Bielefeld depuis plus de 100 ans.",
+      "answerText": "est installé"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-4",
+      "translation": "Les supporters encouragent l'Arminia sur l'Alm.",
+      "answerText": "encouragent"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-5",
+      "translation": "Depuis la Sparrenburg, on voit toute la ville.",
+      "answerText": "voit"
+    },
+    {
+      "id": "stadt-bielefeld-table-1",
+      "translation": "la forêt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-2",
+      "translation": "la poêle",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-3",
+      "translation": "la montagne",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-4",
+      "translation": "l'entreprise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-5",
+      "translation": "la rumeur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-6",
+      "translation": "la blague",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-1",
+      "translation": "Bielefeld existe vraiment.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-2",
+      "translation": "Dimanche, nous faisons une randonnée dans la forêt de Teutoburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-3",
+      "translation": "Tu es déjà allé à la Sparrenburg ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-4",
+      "translation": "Dr. Oetker vient de Bielefeld.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-1",
+      "translation": "la blague",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-2",
+      "translation": "la poêle",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-3",
+      "translation": "la forêt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-4",
+      "translation": "l'entreprise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-5",
+      "translation": "le pudding",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:36.519Z"
+  },
+  "title": "뤼베크",
+  "instructions": {
+    "stadt-luebeck-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-luebeck-gap": "알맞은 단어에 표시하세요.",
+    "stadt-luebeck-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-luebeck-table": "관사와 복수형을 쓰세요.",
+    "stadt-luebeck-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-luebeck-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "홀스텐 문",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "둥근 탑이 두 개 있는 옛 성문으로, 뤼베크의 상징이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "마지팬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "아몬드와 설탕으로 만든 과자로, 뤼베크는 이것으로 유명하다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "한자의 여왕",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "별명: 중세에 뤼베크는 한자 동맹에서 가장 중요한 도시였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "구시가지 섬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "구시가지는 섬 위에 있고 세계유산이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "트라베뮌데",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "발트해에 있는 지구로, 해변과 큰 여객선이 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "토마스 만",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "뤼베크 출신의 유명한 작가로, 《부덴브로크가의 사람들》을 썼다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "'겡에'(골목)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "구시가지의 집들 사이에 있는 좁은 길.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "우리는 홀스텐 문을 지나간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "나는 마지팬 한 조각을 산다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "중세에 뤼베크는 한자 동맹에서 가장 중요한 도시였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "트라베뮌데에서 우리는 해변에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "여객선이 발트해를 건너간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "토마스 만은 한 가족에 관한 소설을 썼다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "구시가지는 섬 위에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "홀스텐 문에는 둥근 탑이 두 개 있다.",
+      "answerText": "있다"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "마지팬은 아몬드와 설탕으로 만든다.",
+      "answerText": "만든다"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "여객선들은 스웨덴과 핀란드로 간다.",
+      "answerText": "간다"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "구시가지는 섬 위에 있다.",
+      "answerText": "있다"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "토마스 만은 소설 《부덴브로크가의 사람들》을 썼다.",
+      "answerText": "썼다"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "문",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "아몬드",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "섬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "해변",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "여객선",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "소설",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "홀스텐 문은 뤼베크의 상징이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "마지팬 좋아해?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "구시가지는 섬 위에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "여름에 우리는 트라베뮌데에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "마지팬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "섬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "해변",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "여객선",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "아몬드",
+      "answerText": null
+    }
+  ]
+}

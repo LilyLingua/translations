@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:37.824Z"
+  },
+  "title": "বার্লিন",
+  "instructions": {
+    "stadt-berlin-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-berlin-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-berlin-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-berlin-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-berlin-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-berlin-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "রাজধানী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "একটি দেশের সবচেয়ে গুরুত্বপূর্ণ শহর; সরকার এখানে কাজ করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "ব্রান্ডেনবুর্গ গেট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "বিখ্যাত দর্শনীয় স্থান, যার ওপরে একটি রথ আর চারটি ঘোড়া।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "প্রাচীর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "এটি ১৯৮৯ পর্যন্ত বার্লিনকে পূর্ব আর পশ্চিমে ভাগ করেছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "\"শ্পেটি\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "ছোট দোকান যা গভীর রাত পর্যন্ত খোলা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "\"শ্রিপে\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "বার্লিনে ছোট পাউরুটিকে এই নামে ডাকা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "\"ফানকুখেন\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "বার্লিনে: জ্যাম ভরা মিষ্টি গোল পিঠা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "\"কিৎস\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "বার্লিনবাসীরা নিজেদের পাড়াকে এই নামে ডাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "আমরা ব্রান্ডেনবুর্গ গেটের ছবি তুলি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "টিভি টাওয়ার আলেকজান্ডারপ্লাৎসের কাছে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "শ্প্রে নদী শহরের ভেতর দিয়ে বয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "আমি শ্পেটি থেকে একটা পানীয় কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "১৯৮৯ পর্যন্ত প্রাচীর শহরের মাঝখানে দাঁড়িয়ে ছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "বেকারিতে আমি একটা শ্রিপে চাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "আমি তিন বছর ধরে এই পাড়ায় থাকি।",
+      "answerText": "এই"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "১৯৮৯ সালের ৯ নভেম্বর প্রাচীর ভেঙে পড়ে।",
+      "answerText": "ভেঙে"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "সরকার বার্লিনে কাজ করে।",
+      "answerText": "কাজ"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "অনেক পর্যটক ইস্ট সাইড গ্যালারি দেখতে যায়।",
+      "answerText": "দেখতে"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "শ্পেটি গভীর রাত পর্যন্ত খোলা থাকে।",
+      "answerText": "খোলা"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "রিংবানে চড়ে আপনি শহরের কেন্দ্রের চারপাশে ঘোরেন।",
+      "answerText": "ঘোরেন"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "ফটক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "প্রাচীর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "এলাকা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "সেতু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "জাদুঘর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "দোকান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "বার্লিন জার্মানির রাজধানী।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "প্রাচীর ১৯৮৯ সালে ভেঙে পড়ে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "তুমি কি কখনো কারিভুর্স্ট খেয়েছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "শ্পেটি গভীর রাত পর্যন্ত খোলা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "রাজধানী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "সরকার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "ছোট পাউরুটি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "দর্শনীয় স্থান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "টিভি টাওয়ার",
+      "answerText": null
+    }
+  ]
+}

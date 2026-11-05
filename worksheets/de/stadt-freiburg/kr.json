@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:25.535Z"
+  },
+  "title": "프라이부르크",
+  "instructions": {
+    "stadt-freiburg-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-freiburg-gap": "알맞은 단어에 표시하세요.",
+    "stadt-freiburg-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-freiburg-table": "관사와 복수형을 쓰세요.",
+    "stadt-freiburg-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-freiburg-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "'베흘레'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "구시가지 거리에 있는 작은 물길.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "대성당(뮌스터)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "붉은 사암으로 지은, 높은 탑이 있는 큰 교회.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "'랑에 로테'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "대성당 옆 시장에서 파는 길고 빨간 구운 소시지.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "'보벨레'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "프라이부르크에서 태어난 사람을 이렇게 부른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "샤우인스란트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "프라이부르크의 동네 산으로, 케이블카가 올라간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "슈바르츠발트(검은 숲)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "도시 바로 앞에 있는 큰 숲 산지.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "보방",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "에너지 절약 주택이 있고 자동차가 적은 친환경 동네.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "베흘레에 발을 들이는 사람은 프라이부르크 사람과 결혼한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "대성당 옆 시장에서 우리는 랑에 로테를 먹는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "우리는 케이블카를 타고 샤우인스란트에 올라간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "주말에 우리는 슈바르츠발트를 가로질러 하이킹한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "많은 관광객들이 대성당을 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "보방에서는 많은 사람들이 자전거를 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "프라이부르크는 아주 햇빛이 많은 도시이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "물이 베흘레를 따라 흐른다.",
+      "answerText": "흐른다"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "케이블카가 샤우인스란트로 올라간다.",
+      "answerText": "올라간다"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "프라이부르크에는 아주 자주 해가 비친다.",
+      "answerText": "비친다"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "베흘레에 발을 들이는 사람은 프라이부르크 사람과 결혼한다.",
+      "answerText": "결혼한다"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "뮌스터 광장에는 거의 매일 시장이 선다.",
+      "answerText": "선다"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "개울",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "숲",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "산",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "소시지",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "동네",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "케이블카",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "프라이부르크에는 자주 해가 비친다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "너 벌써 베흘레에 발을 들여 봤어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "대성당에는 높은 탑이 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "주말에 우리는 슈바르츠발트에서 하이킹을 한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "소시지",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "숲",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "해",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "대성당",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "케이블카",
+      "answerText": null
+    }
+  ]
+}

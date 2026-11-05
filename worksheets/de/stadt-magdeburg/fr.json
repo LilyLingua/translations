@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:00.153Z"
+  },
+  "title": "Magdebourg",
+  "instructions": {
+    "stadt-magdeburg-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-magdeburg-gap": "Coche le bon mot.",
+    "stadt-magdeburg-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-magdeburg-table": "Complète l'article et le pluriel.",
+    "stadt-magdeburg-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-magdeburg-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "la « ville d'Otto »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Surnom de Magdebourg – d'après l'empereur Otton le Grand et Otto von Guericke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "la cathédrale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Grande église gothique ; l'empereur Otton le Grand y est enterré.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "la Citadelle verte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Bâtiment coloré avec des arbres sur le toit, le dernier projet de Hundertwasser.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "l'hémisphère",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "Avec deux hémisphères, Guericke a montré la force du vide.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "le nœud fluvial",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Ici, les bateaux passent au-dessus de l'Elbe sur un pont-canal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "le vide",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Un espace sans aucun air.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "l'empereur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Souverain encore plus puissant qu'un roi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Nous visitons la cathédrale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "La Citadelle verte a des arbres sur le toit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Un bateau passe sur un pont au-dessus de l'Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Beaucoup de chevaux n'ont pas réussi à séparer les hémisphères.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Magdebourg se trouve sur l'Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Guericke a fait une expérience avec le vide.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Nous prenons une photo du bâtiment coloré.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Hundertwasser a conçu la Citadelle verte.",
+      "answerText": "a conçu"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Otto von Guericke faisait des expériences avec l'air.",
+      "answerText": "faisait"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Les chevaux tiraient sur les hémisphères.",
+      "answerText": "tiraient"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "Sur le pont-canal, les bateaux passent au-dessus de l'Elbe.",
+      "answerText": "passent"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "L'empereur Otton est enterré dans la cathédrale.",
+      "answerText": "est"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "l'empereur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "le cheval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "le toit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "la sphère",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "le canal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "l'expérience",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Magdebourg se trouve sur l'Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "Des arbres poussent sur le toit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Tu connais l'expérience des hémisphères ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Les bateaux passent sur un pont au-dessus de l'Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "l'empereur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "le cheval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "l'expérience",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "la sphère",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "le maire",
+      "answerText": null
+    }
+  ]
+}

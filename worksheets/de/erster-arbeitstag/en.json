@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.784Z"
+  },
+  "title": "The First Day at Work",
+  "instructions": {
+    "erster-arbeitstag-matching": "Match each word with the correct explanation.",
+    "erster-arbeitstag-gap": "Tick the correct form.",
+    "erster-arbeitstag-verbs": "Fill in the correct verb in the correct form.",
+    "erster-arbeitstag-table": "Fill in the article (der/die/das) and the plural form.",
+    "erster-arbeitstag-order": "Put the words in the correct order and write the sentence.",
+    "erster-arbeitstag-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "the colleague",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "A man you work with.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "the boss (woman)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "She leads the team.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "the break",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "The free time during work, for example for eating.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "the holiday",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Days off when you do not work but still get paid.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "the overtime hour",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "An hour that you work more than planned.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "the employment contract",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "It states your pay, working hours and holidays.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "the canteen",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "The employees eat here in the company.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "This is my new colleague.",
+      "answerText": "my"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "May I introduce my colleague to you?",
+      "answerText": "my"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "I like working together with the team.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "We meet in the canteen.",
+      "answerText": "the"
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "I have a question.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "When does the break start?",
+      "answerText": "the"
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "I give the boss the report.",
+      "answerText": "the"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "May I briefly introduce myself?",
+      "answerText": "introduce"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "I work from 8 a.m. to 4 p.m.",
+      "answerText": "work"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Where can I find the toilet?",
+      "answerText": "find"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "We use first names in the team.",
+      "answerText": "use first names"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Could you please explain that to me?",
+      "answerText": "explain"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "the colleague",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "the company",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "the office",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "the computer",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "the meeting",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "the team",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "May I briefly introduce myself?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "I am new in the team.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "When does the lunch break start?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Can you explain that to me?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "colleague",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "meeting",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "holiday",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "office",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "overtime hour",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.291Z"
+  },
+  "title": "W aptece",
+  "instructions": {
+    "uk-v-aptetsi-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-v-aptetsi-gap": "Wybierz właściwe słowo.",
+    "uk-v-aptetsi-verbs": "Wstaw właściwy czasownik.",
+    "uk-v-aptetsi-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-v-aptetsi-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-v-aptetsi-matching-1",
+      "translation": "recepta",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-1:meaning",
+      "translation": "Kartka od lekarza, na której jest napisane, jakie leki są potrzebne.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2",
+      "translation": "farmaceuta / farmaceutka",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2:meaning",
+      "translation": "Osoba, która pracuje w aptece i doradza leki.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3",
+      "translation": "skutek uboczny",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3:meaning",
+      "translation": "Niechciany skutek leku.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4",
+      "translation": "tabletka",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4:meaning",
+      "translation": "Mały, twardy lek, który się połyka.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5",
+      "translation": "syrop na kaszel",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5:meaning",
+      "translation": "Lek w płynie, gdy ktoś kaszle.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6",
+      "translation": "dawka",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6:meaning",
+      "translation": "Ile leku trzeba przyjąć za jednym razem.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-gap-1",
+      "translation": "Boli mnie głowa.",
+      "answerText": "głowa"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-2",
+      "translation": "Czy ten lek jest tylko na receptę?",
+      "answerText": "receptę"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-3",
+      "translation": "Proszę przyjmować jedną tabletkę trzy razy dziennie.",
+      "answerText": "tabletkę"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-4",
+      "translation": "Czy ten lek ma skutki uboczne?",
+      "answerText": "uboczne"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-5",
+      "translation": "Jeśli ma Pan/Pani pytania, proszę zwrócić się do farmaceuty.",
+      "answerText": "farmaceuty"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-6",
+      "translation": "Poproszę syrop na kaszel.",
+      "answerText": "kaszel"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-1",
+      "translation": "Szukam czegoś na ból głowy.",
+      "answerText": "Szukam"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-2",
+      "translation": "Czy ma Pan/Pani alergię?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-3",
+      "translation": "Proszę przyjmować ten lek po jedzeniu.",
+      "answerText": "przyjmować"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-4",
+      "translation": "Farmaceuta wyjaśnia mi, jak używać sprayu.",
+      "answerText": "wyjaśnia"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-5",
+      "translation": "Ile kosztuje ten lek?",
+      "answerText": "kosztuje"
+    },
+    {
+      "id": "uk-v-aptetsi-order-1",
+      "translation": "Czy na ten lek potrzebna jest recepta?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-2",
+      "translation": "Boli mnie gardło.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-3",
+      "translation": "Proszę przyjmować dwie tabletki rano.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-4",
+      "translation": "Co Pan/Pani poleca na kaszel?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-1",
+      "translation": "recepta",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-2",
+      "translation": "apteka",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-3",
+      "translation": "tabletka",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-4",
+      "translation": "temperatura",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-5",
+      "translation": "kaszel",
+      "answerText": null
+    }
+  ]
+}

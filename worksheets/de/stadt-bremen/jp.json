@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:06.851Z"
+  },
+  "title": "ブレーメン",
+  "instructions": {
+    "stadt-bremen-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-bremen-gap": "正しい単語に印をつけましょう。",
+    "stadt-bremen-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-bremen-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-bremen-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-bremen-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-bremen-matching-1",
+      "translation": "ブレーメンの音楽隊",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-1:meaning",
+      "translation": "童話に出てくるロバ、イヌ、ネコ、ニワトリ。像が市庁舎の横に立っている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2",
+      "translation": "ローラント像",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2:meaning",
+      "translation": "マルクト広場にある大きな石像で、自由都市のしるし。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3",
+      "translation": "シュノーア地区",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3:meaning",
+      "translation": "小さな家とせまい路地がある、とても古い地区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4",
+      "translation": "フライマルクト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4:meaning",
+      "translation": "秋の民衆祭り。ブレーメンの人は「イシャ・フライマーク！」と叫ぶ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5",
+      "translation": "「コール・ウント・ピンケル」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5:meaning",
+      "translation": "ケールとソーセージの料理で、典型的な冬の料理。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6",
+      "translation": "シュラハテ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6:meaning",
+      "translation": "ヴェーザー川沿いの遊歩道で、ビアガーデンや船がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7",
+      "translation": "都市州",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7:meaning",
+      "translation": "一つの都市が同時に州でもあるもの。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-1",
+      "translation": "ブレーメンの音楽隊は市庁舎の横に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-2",
+      "translation": "ローラント像はマルクト広場に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-3",
+      "translation": "私たちはシュノーアのせまい路地を歩きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-4",
+      "translation": "秋、私たちはフライマルクトで観覧車に乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-5",
+      "translation": "冬には典型的な料理があります。コール・ウント・ピンケルです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-6",
+      "translation": "私たちはヴェーザー川のほとりに座ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-7",
+      "translation": "幸運のためにロバの足を触ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-1",
+      "translation": "ロバの足を触ると、幸運が訪れます。",
+      "answerText": "触る"
+    },
+    {
+      "id": "stadt-bremen-verbs-2",
+      "translation": "フライマルクトは毎年秋に開かれます。",
+      "answerText": "開かれ"
+    },
+    {
+      "id": "stadt-bremen-verbs-3",
+      "translation": "童話の中で動物たちはブレーメンへ歩いていきます。",
+      "answerText": "歩いて"
+    },
+    {
+      "id": "stadt-bremen-verbs-4",
+      "translation": "シュノーアの家はとても小さくて古いです。",
+      "answerText": "です"
+    },
+    {
+      "id": "stadt-bremen-verbs-5",
+      "translation": "2004年から市庁舎とローラント像はユネスコ世界遺産に属しています。",
+      "answerText": "属して"
+    },
+    {
+      "id": "stadt-bremen-table-1",
+      "translation": "ロバ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-2",
+      "translation": "イヌ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-3",
+      "translation": "ネコ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-4",
+      "translation": "ニワトリ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-5",
+      "translation": "路地",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-6",
+      "translation": "童話",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-1",
+      "translation": "音楽隊は市庁舎の横に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-2",
+      "translation": "秋、ブレーメンの人はフライマルクトを祝います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-3",
+      "translation": "ロバの足をもう触りましたか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-4",
+      "translation": "ブレーメンはいちばん小さい州です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-1",
+      "translation": "ロバ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-2",
+      "translation": "ネコ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-3",
+      "translation": "童話",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-4",
+      "translation": "路地",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-5",
+      "translation": "州",
+      "answerText": null
+    }
+  ]
+}

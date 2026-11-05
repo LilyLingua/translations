@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.584Z"
+  },
+  "title": "Wynajem mieszkania",
+  "instructions": {
+    "wohnung-mieten-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "wohnung-mieten-gap": "Zaznacz poprawną formę rodzajnika.",
+    "wohnung-mieten-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "wohnung-mieten-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "wohnung-mieten-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "wohnung-mieten-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "czynsz",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Pieniądze, które co miesiąc płacisz za mieszkanie.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "kaucja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Pieniądze, które wynajmujący dostaje na początku jako zabezpieczenie.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "koszty dodatkowe (opłaty)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Koszty wody, ogrzewania i śmieci.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "umowa najmu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Umowa między najemcą a wynajmującym.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "oglądanie mieszkania",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Oglądasz mieszkanie, zanim je wynajmiesz.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "dozorca",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Dba o budynek i naprawia drobne rzeczy.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "regulamin domu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Zasady dla wszystkich mieszkańców, na przykład cisza nocna.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Szukamy mieszkania z balkonem.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Rozmawiam z wynajmującym.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Daję wynajmującej kaucję.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Rower stawiam na podwórku.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Klucz leży na stole.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Ogrzewanie w kuchni jest zepsute.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Od roku mieszkam w tym mieszkaniu.",
+      "answerText": "tym"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kiedy mogę obejrzeć mieszkanie?",
+      "answerText": "obejrzeć"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Czynsz wynosi 850 euro z opłatami.",
+      "answerText": "wynosi"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Wprowadzamy się 1 grudnia.",
+      "answerText": "Wprowadzamy się"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Ogrzewanie jest zepsute. Czy może pan / pani je naprawić?",
+      "answerText": "naprawić"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Proszę segregować śmieci.",
+      "answerText": "segregować"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "pokój",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "kuchnia",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "łazienka",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "klucz",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "ogrzewanie",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Czy mieszkanie jest jeszcze wolne?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Ile wynoszą koszty dodatkowe?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kiedy mogę obejrzeć mieszkanie?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Chciałbym wynająć to mieszkanie.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "kaucja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "koszty dodatkowe",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "klucz",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "ogrzewanie",
+      "answerText": null
+    }
+  ]
+}

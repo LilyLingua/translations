@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:21:07.491Z"
+  },
+  "title": "Li dermanxaneyê",
+  "instructions": {
+    "in-der-apotheke-matching": "Her peyvê bi ravekirina guncav ve girê bidin.",
+    "in-der-apotheke-gap": "Peyva guncav nîşan bikin.",
+    "in-der-apotheke-verbs": "Lêkera rast bi forma rast binivîsin.",
+    "in-der-apotheke-table": "Artîkelê (der/die/das) û forma pirjimar temam bikin.",
+    "in-der-apotheke-order": "Peyvan bi rêza rast rêz bikin û hevokê binivîsin.",
+    "in-der-apotheke-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bikin."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Kaxeza ji bijîşk ji bo dermanekî.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "heb",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Dermanekî biçûk ku tê daqurtandin.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "şerbeta kuxikê",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Dermanekî şil li dijî kuxikê.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "melhem",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Meriv wê li çerm dide.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "bandora alî",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Bandoreke nexwestî ya dermanekî.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "belgeya agahiyan (prospektus)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Kaxeza di qutiya dermên de bi hemû agahiyan.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "beşdariya pereyî",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Hûn bi xwe ji bo reçeteyê pereyekî hindik didin.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Reçeteya min ji bijîşka min heye.",
+      "answerText": "Reçeteya"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Tiştekî we li dijî êşa qirikê heye?",
+      "answerText": "êşa qirikê"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Rojê du heban bixwin.",
+      "answerText": "heban"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Melhem ji bo çerm e.",
+      "answerText": "çerm"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Ji kerema xwe prospektusê bixwînin.",
+      "answerText": "prospektusê"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Dermanê hema bêje tu bandorên alî nînin.",
+      "answerText": "bandorên alî"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Dawiya hefteyê dermanxaneyek nobetdar e.",
+      "answerText": "dermanxaneyek"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Ji duh ve kuxika min heye.",
+      "answerText": "heye"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Divê ez heban çend caran bixwim?",
+      "answerText": "bixwim"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Em ê dermanê heta sibê sîparîş bikin.",
+      "answerText": "sîparîş bikin"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Melhemê rojê du caran lê bidin.",
+      "answerText": "lê bidin"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Ji kerema xwe pir av vexwin.",
+      "answerText": "vexwin"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "dermanxane",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "derman",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "melhem",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "pînek (plaster)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "qutî",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "dilop",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Tiştekî we li dijî kuxikê heye?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Divê ez heban çend caran bixwim?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Pêdiviya min bi dermanekî li dijî serêşê heye.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Ji bo vê reçete lazim e?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "dermanxane",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "derman",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "pînek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "bandora alî",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kuxik",
+      "answerText": null
+    }
+  ]
+}

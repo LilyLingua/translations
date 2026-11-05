@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:33.897Z"
+  },
+  "title": "আখেন",
+  "instructions": {
+    "stadt-aachen-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-aachen-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-aachen-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-aachen-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-aachen-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-aachen-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-aachen-matching-1",
+      "translation": "আখেন ক্যাথেড্রাল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-1:meaning",
+      "translation": "শার্লেমেন (কার্ল দ্য গ্রেট)-এর গির্জা; জার্মানির প্রথম বিশ্ব ঐতিহ্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2",
+      "translation": "\"প্রিন্টেন\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2:meaning",
+      "translation": "আখেনের মশলাদার জিঞ্জারব্রেড বিস্কুট, শীতে বিশেষ জনপ্রিয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3",
+      "translation": "\"ওএশার\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3:meaning",
+      "translation": "আখেনবাসীরা নিজেদের উপভাষায় (ওএশার প্লাট) নিজেদের এভাবেই ডাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4",
+      "translation": "তিন দেশের কোণ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4:meaning",
+      "translation": "যে জায়গায় জার্মানি, বেলজিয়াম আর নেদারল্যান্ডস মিলিত হয়েছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5",
+      "translation": "উষ্ণ প্রস্রবণ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5:meaning",
+      "translation": "মাটির নিচ থেকে আসা গরম পানি; এ কারণেই আখেন একটি স্পা-শহরও।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6",
+      "translation": "CHIO",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6:meaning",
+      "translation": "সারা বিশ্বের ঘোড়া নিয়ে বড় অশ্বারোহণ প্রতিযোগিতা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7",
+      "translation": "কার্ল পুরস্কার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7:meaning",
+      "translation": "ইউরোপের জন্য অনেক কিছু করেছেন এমন মানুষদের পুরস্কার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-1",
+      "translation": "শার্লেমেন ক্যাথেড্রালটি নির্মাণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-2",
+      "translation": "শীতে আমরা একটি প্রিন্টেন বিস্কুট খাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-3",
+      "translation": "আমরা হেঁটে তিন দেশের কোণে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-4",
+      "translation": "প্রস্রবণের পানি খুব গরম।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-5",
+      "translation": "CHIO-তে ঘোড়াগুলো বাধার ওপর দিয়ে লাফ দেয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-6",
+      "translation": "প্রায় প্রতি বছর কেউ না কেউ কার্ল পুরস্কার পান।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-7",
+      "translation": "অনেক ছাত্রছাত্রী RWTH-এ পড়াশোনা করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-verbs-1",
+      "translation": "আখেনের সীমান্ত বেলজিয়াম আর নেদারল্যান্ডসের সঙ্গে লাগোয়া।",
+      "answerText": "লাগোয়া"
+    },
+    {
+      "id": "stadt-aachen-verbs-2",
+      "translation": "গরম পানি মাটির নিচ থেকে আসে।",
+      "answerText": "আসে"
+    },
+    {
+      "id": "stadt-aachen-verbs-3",
+      "translation": "ঘোড়াগুলো উঁচু বাধার ওপর দিয়ে লাফায়।",
+      "answerText": "লাফায়"
+    },
+    {
+      "id": "stadt-aachen-verbs-4",
+      "translation": "অনেক আখেনবাসী ওএশার প্লাট বলে।",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-aachen-verbs-5",
+      "translation": "শার্লেমেন ক্যাথেড্রালে সমাহিত আছেন।",
+      "answerText": "সমাহিত"
+    },
+    {
+      "id": "stadt-aachen-table-1",
+      "translation": "প্রস্রবণ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-2",
+      "translation": "ঘোড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-3",
+      "translation": "দেশ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-4",
+      "translation": "পুরস্কার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-5",
+      "translation": "সীমান্ত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-6",
+      "translation": "সম্রাট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-1",
+      "translation": "আখেন ক্যাথেড্রাল ১২০০ বছরেরও বেশি পুরোনো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-2",
+      "translation": "তুমি কি কখনো প্রিন্টেন খেয়ে দেখেছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-3",
+      "translation": "আখেন বেলজিয়ামের সীমান্তে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-4",
+      "translation": "প্রস্রবণগুলোর পানি খুব গরম।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-1",
+      "translation": "প্রস্রবণ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-2",
+      "translation": "সীমান্ত",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-3",
+      "translation": "ঘোড়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-4",
+      "translation": "সম্রাট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-5",
+      "translation": "বেলজিয়াম",
+      "answerText": null
+    }
+  ]
+}

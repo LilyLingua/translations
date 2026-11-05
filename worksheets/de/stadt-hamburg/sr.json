@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:18.696Z"
+  },
+  "title": "Хамбург",
+  "instructions": {
+    "stadt-hamburg-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-hamburg-gap": "Означи тачну реч.",
+    "stadt-hamburg-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-hamburg-table": "Упиши члан и облик множине.",
+    "stadt-hamburg-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-hamburg-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "„Moin!“ (Мојн)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Севернонемачки поздрав – каже се цео дан, не само ујутру.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "лука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Овде стижу велики бродови са контејнерима.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Елбфилхармонија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Концертна дворана у луци; Хамбуржани је зову „Елфи“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "„Michel“ (Михел)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Тако Хамбуржани зову своју најпознатију цркву, цркву Светог Михаила.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Францбретхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Слатко пециво са циметом, типично за Хамбург.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "рибља пијаца",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Пијаца на обали Лабе, веома рано у недељу ујутру.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "„Schietwetter“ (Шитветер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "Севернонемачки израз за лоше време са кишом и ветром.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Бродови плове Лабом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "У недељу идемо рано на рибљу пијацу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Једем сендвич са рибом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "Концерт је у Елбфилхармонији.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Идемо на обилазак луке бродом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "Лети много људи седи поред Алстера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Одозго се види цела лука.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "У Хамбургу људи цео дан кажу „Мојн“.",
+      "answerText": "кажу"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Велики контејнерски бродови стижу у луку.",
+      "answerText": "стижу"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "Рибља пијаца почиње веома рано у недељу ујутру.",
+      "answerText": "почиње"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "Опет пада киша – типичан Шитветер!",
+      "answerText": "пада"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Хамбург је посебна савезна покрајина.",
+      "answerText": "је"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "лука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "брод",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "концерт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "црква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Хамбург лежи на Лаби.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "У недељу идемо рано на рибљу пијацу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Да ли си већ био у Елбфилхармонији?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "У Хамбургу се цео дан каже „Мојн“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "лука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "брод",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "концерт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "киша",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "мост",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "ece34cdf-c1f0-40e4-ab6d-0420d5d12a05",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Schwerin",
+  "topic": "Mecklenburg-Vorpommern: Schloss, Petermännchen, Seen",
+  "tasks": [
+    {
+      "id": "stadt-schwerin-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-schwerin-matching-1",
+          "term": "das Schweriner Schloss",
+          "meaning": "Märchenhaftes Schloss auf einer Insel; heute arbeitet dort der Landtag."
+        },
+        {
+          "id": "stadt-schwerin-matching-2",
+          "term": "das Petermännchen",
+          "meaning": "Kleiner Schlossgeist aus einer alten Sage."
+        },
+        {
+          "id": "stadt-schwerin-matching-3",
+          "term": "der Landtag",
+          "meaning": "Das Parlament eines Bundeslandes."
+        },
+        {
+          "id": "stadt-schwerin-matching-4",
+          "term": "die Insel",
+          "meaning": "Land, um das herum überall Wasser ist."
+        },
+        {
+          "id": "stadt-schwerin-matching-5",
+          "term": "die Landeshauptstadt",
+          "meaning": "Hauptstadt eines Bundeslandes."
+        },
+        {
+          "id": "stadt-schwerin-matching-6",
+          "term": "der Dom",
+          "meaning": "Große, alte Kirche; in Schwerin hat sie einen sehr hohen Turm."
+        },
+        {
+          "id": "stadt-schwerin-matching-7",
+          "term": "die Sage",
+          "meaning": "Alte Geschichte, die sich die Menschen seit langer Zeit erzählen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-schwerin-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-schwerin-gap-1",
+          "promptBefore": "Das Schloss steht auf",
+          "promptAfter": "Insel.",
+          "correctAnswer": "einer",
+          "options": [
+            "einer",
+            "eine",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-2",
+          "promptBefore": "Schwerin liegt an",
+          "promptAfter": "großen See.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-3",
+          "promptBefore": "Der Landtag arbeitet in",
+          "promptAfter": "Schloss.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-4",
+          "promptBefore": "Nachts geht",
+          "promptAfter": "Petermännchen durch das Schloss.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "der",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-5",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Schiff über den See.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-6",
+          "promptBefore": "Vom Turm",
+          "promptAfter": "Doms sieht man viele Seen.",
+          "correctAnswer": "des",
+          "options": [
+            "des",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-schwerin-gap-7",
+          "promptBefore": "Schwerin ist",
+          "promptAfter": "kleinste Landeshauptstadt in Deutschland.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-schwerin-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-schwerin-verbs-1",
+          "promptBefore": "Das Petermännchen",
+          "promptAfter": "das Schloss in der Nacht.",
+          "correctAnswer": "bewacht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bewachen"
+        },
+        {
+          "id": "stadt-schwerin-verbs-2",
+          "promptBefore": "Rund um Schwerin",
+          "promptAfter": "es viele Seen.",
+          "correctAnswer": "gibt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "geben"
+        },
+        {
+          "id": "stadt-schwerin-verbs-3",
+          "promptBefore": "Im Schlossgarten",
+          "promptAfter": "wir spazieren.",
+          "correctAnswer": "gehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "gehen"
+        },
+        {
+          "id": "stadt-schwerin-verbs-4",
+          "promptBefore": "Im Schloss",
+          "promptAfter": "die Politiker über neue Gesetze.",
+          "correctAnswer": "diskutieren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "diskutieren"
+        },
+        {
+          "id": "stadt-schwerin-verbs-5",
+          "promptBefore": "Die Sage",
+          "promptAfter": "von einem kleinen Geist.",
+          "correctAnswer": "erzählt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "erzählen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-schwerin-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-schwerin-table-1",
+          "article": "das",
+          "singular": "Schloss",
+          "plural": "Schlösser"
+        },
+        {
+          "id": "stadt-schwerin-table-2",
+          "article": "die",
+          "singular": "Insel",
+          "plural": "Inseln"
+        },
+        {
+          "id": "stadt-schwerin-table-3",
+          "article": "der",
+          "singular": "See",
+          "plural": "Seen"
+        },
+        {
+          "id": "stadt-schwerin-table-4",
+          "article": "der",
+          "singular": "Geist",
+          "plural": "Geister"
+        },
+        {
+          "id": "stadt-schwerin-table-5",
+          "article": "der",
+          "singular": "Garten",
+          "plural": "Gärten"
+        },
+        {
+          "id": "stadt-schwerin-table-6",
+          "article": "die",
+          "singular": "Geschichte",
+          "plural": "Geschichten"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-schwerin-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-schwerin-order-1",
+          "chunks": [
+            "Das Schloss",
+            "steht",
+            "auf einer Insel"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-schwerin-order-2",
+          "chunks": [
+            "Im Schloss",
+            "arbeitet",
+            "heute",
+            "der Landtag"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-schwerin-order-3",
+          "chunks": [
+            "Kennst du",
+            "die Sage",
+            "vom Petermännchen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-schwerin-order-4",
+          "chunks": [
+            "Schwerin",
+            "ist",
+            "eine Stadt",
+            "mit vielen Seen"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-schwerin-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-schwerin-spelling-1",
+          "correct": "Schloss",
+          "wrong": "Schlos"
+        },
+        {
+          "id": "stadt-schwerin-spelling-2",
+          "correct": "Insel",
+          "wrong": "Insl"
+        },
+        {
+          "id": "stadt-schwerin-spelling-3",
+          "correct": "Geist",
+          "wrong": "Gaist"
+        },
+        {
+          "id": "stadt-schwerin-spelling-4",
+          "correct": "Geschichte",
+          "wrong": "Geschichde"
+        },
+        {
+          "id": "stadt-schwerin-spelling-5",
+          "correct": "Parlament",
+          "wrong": "Parlamend"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:47.441Z"
+  },
+  "title": "Public Transportation",
+  "instructions": {
+    "uk-hromadskyi-transport-matching": "Match each word with its meaning.",
+    "uk-hromadskyi-transport-gap": "Choose the right word.",
+    "uk-hromadskyi-transport-verbs": "Fill in the correct verb.",
+    "uk-hromadskyi-transport-order": "Put the words in the right order and write the sentence.",
+    "uk-hromadskyi-transport-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-hromadskyi-transport-matching-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-1:meaning",
+      "translation": "A document or an entry in an app that lets you travel.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2",
+      "translation": "stop",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2:meaning",
+      "translation": "The place where the bus stops.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3:meaning",
+      "translation": "The place at the station where you get on the train.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4",
+      "translation": "delay",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4:meaning",
+      "translation": "When a bus or train comes later.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5",
+      "translation": "schedule",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5:meaning",
+      "translation": "A list with the times of buses and trains.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6:meaning",
+      "translation": "When you change from one bus or train to another.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-1",
+      "translation": "I need a ticket to the city center.",
+      "answerText": "ticket"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-2",
+      "translation": "The train leaves from platform four.",
+      "answerText": "platform"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-3",
+      "translation": "Get off at the next stop.",
+      "answerText": "stop"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-4",
+      "translation": "The train has a twenty-minute delay.",
+      "answerText": "delay"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-5",
+      "translation": "Check the bus schedule on the website.",
+      "answerText": "schedule"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-6",
+      "translation": "You need to make a transfer at the station.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-1",
+      "translation": "The bus runs every ten minutes.",
+      "answerText": "runs"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-2",
+      "translation": "Where can I buy a ticket?",
+      "answerText": "buy"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-3",
+      "translation": "You need to change to another line.",
+      "answerText": "change"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-4",
+      "translation": "The train is five minutes late.",
+      "answerText": "is"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-5",
+      "translation": "Please show your ticket.",
+      "answerText": "show"
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-1",
+      "translation": "Which bus goes to the airport?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-2",
+      "translation": "The train is ten minutes late.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-3",
+      "translation": "Where is the next stop?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-4",
+      "translation": "We missed the bus.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-2",
+      "translation": "station",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-3",
+      "translation": "schedule",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-4",
+      "translation": "passenger",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-5",
+      "translation": "bus",
+      "answerText": null
+    }
+  ]
+}

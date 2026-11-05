@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Bussi ja rongiga",
+  "instructions": {
+    "bus-und-bahn-matching": "Ühendage iga sõna õige selgitusega.",
+    "bus-und-bahn-gap": "Märkige õige sõna.",
+    "bus-und-bahn-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "bus-und-bahn-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "bus-und-bahn-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "bus-und-bahn-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "pilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Sellega võite sõita bussi või rongiga.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "piletiautomaat",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Siin ostate pileti ilma kassata.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "perroon",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Siin peatub rong jaamas.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "hilinemine",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Rong saabub plaanitust hiljem.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "ümber istuma",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Te lähete ühelt rongilt teisele.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "peatus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Siin peatub buss.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Kuupilet busside ja kohalike rongide jaoks kogu Saksamaal.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Rong Kölni väljub 5. perroonilt.",
+      "answerText": "perroonilt"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Rongil on kümme minutit hilinemist.",
+      "answerText": "hilinemist"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Kus on lähim peatus?",
+      "answerText": "peatus"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Üks pilet Berliini, palun.",
+      "answerText": "pilet"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Palun näidake oma piletit.",
+      "answerText": "piletit"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metroo sõidab iga kümne minuti järel.",
+      "answerText": "Metroo"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Pileteid saab osta automaadist.",
+      "answerText": "automaadist"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Kus ma pean ümber istuma?",
+      "answerText": "ümber istuma"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Buss väljub kell 8.15.",
+      "answerText": "väljub"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Me jõuame Hamburgi kell 10.",
+      "answerText": "jõuame"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Palun väljuge siin.",
+      "answerText": "väljuge"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Kui kaua sõit kestab?",
+      "answerText": "kestab"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "rong",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "jaam",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "pilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "perroon",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "peatus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "buss",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Millal väljub järgmine rong Münchenisse?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Ma pean Mannheimis ümber istuma.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Kahjuks rong hilineb.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Kas pilet kehtib ka bussis?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "pilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "hilinemine",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "peatus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "perroon",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "jaam",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:40.908Z"
+  },
+  "title": "Hanover",
+  "instructions": {
+    "stadt-hannover-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-hannover-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-hannover-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-hannover-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-hannover-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-hannover-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "maonyesho ya biashara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Maonyesho makubwa kwa makampuni; Hanover ina uwanja mkubwa sana wa maonyesho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Ziwa la kutengenezwa mjini kwa kusafiri kwa tanga, kukimbia na sherehe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "Uzi Mwekundu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Mstari mwekundu ardhini; unakuongoza kwenye vivutio.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "Kijerumani sanifu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "Lugha sanifu; Hanover huzungumzwa kwa uwazi hasa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "\"Lüttje Lage\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Bia na pombe kali kutoka glasi mbili zinazonywewa kwa wakati mmoja.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "sherehe ya walengaji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Sherehe kubwa sana ya watu wakati wa kiangazi yenye gwaride refu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "\"Nana\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Sanamu kubwa ya mwanamke yenye rangi nyingi kando ya mto Leine, ya Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Tunafuata Uzi Mwekundu mjini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "Wakati wa kiangazi watu wengi hukimbia kuzunguka Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Kampuni inaonyesha bidhaa kwenye maonyesho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Tunapanda kwa lifti hadi kuba ya ukumbi wa mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Sanamu za Nana zimesimama kando ya Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Tunatembelea Bustani za Herrenhausen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "Anajaribu Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "Uzi Mwekundu unaongoza kwenye vivutio vingi.",
+      "answerText": "unaongoza"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "Katika Ukumbi Mpya wa Mji lifti iliyoinama inapanda hadi kuba.",
+      "answerText": "inapanda"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Makampuni mengi yanaonyesha bidhaa zao kwenye maonyesho.",
+      "answerText": "yanaonyesha"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "Watu wa Hanover wanazungumza Kijerumani sanifu kilicho wazi sana.",
+      "answerText": "wanazungumza"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "Mwaka 2000 maonyesho ya dunia Expo yalifanyika Hanover.",
+      "answerText": "yalifanyika"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "maonyesho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "bustani",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "uzi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "sanamu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "ukumbi wa mji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "lifti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "Uzi Mwekundu unapita katikati ya mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "Wakati wa kiangazi watu wengi husafiri kwa tanga kwenye Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Utapanda kwa lifti hadi kuba?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "Hanover watu huzungumza Kijerumani sanifu kilicho wazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "maonyesho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "kivutio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "lifti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "sanamu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "kuba",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በዳቦ ቤትና በካፌ",
+  "instructions": {
+    "baecker-und-cafe-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "baecker-und-cafe-gap": "ትክክለኛውን መስተአምር ምልክት ያድርጉ።",
+    "baecker-und-cafe-verbs": "ትክክለኛውን ግሥ በትክክለኛው ቅጽ ይሙሉ።",
+    "baecker-und-cafe-table": "መስተአምሩን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "baecker-und-cafe-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "baecker-und-cafe-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "ትንሽ ዳቦ (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "ትንሽ ዳቦ፣ ብዙ ጊዜ ለቁርስ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "ብሬትስል (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "ጨው ያለበት የተጋገረ መክሰስ፣ በደቡብ ጀርመን የተለመደ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "ጣፋጭ ነገር፣ ብዙ ጊዜ ከሰዓት በኋላ ከቡና ጋር።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "የምግብ ዝርዝር",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "ሁሉንም ምግቦችና መጠጦች ይዘረዝራል።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "ሂሳብ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "ምን ያህል መክፈል እንዳለብዎ ያሳያል።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "ጉርሻ (ቲፕ)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "ለሠራተኞቹ የሚሰጥ ትንሽ ተጨማሪ ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "ይዞ ለመሄድ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "በካፌው ውስጥ አይበሉትም ወይም አይጠጡትም።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "አንድ ትንሽ ዳቦ እፈልጋለሁ።",
+      "answerText": "አንድ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "ቡና እወስዳለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "ብሬትስሉ ስንት ነው?",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "አንድ ቁራጭ ኬክ እፈልጋለሁ።",
+      "answerText": "አንድ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "ጠረጴዛው ነፃ ነው?",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "ወተት ያለበት አንድ ሻይ እጠጣለሁ።",
+      "answerText": "አንድ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "እባክዎ ሂሳቡን ያምጡልኝ።",
+      "answerText": ""
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "ምን መጠጣት ይፈልጋሉ?",
+      "answerText": "ይፈልጋሉ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "ካፑቺኖ እወስዳለሁ።",
+      "answerText": "እወስዳለሁ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "በአጠቃላይ 6.40 ዩሮ ይሆናል።",
+      "answerText": "ይሆናል"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "በካርድ መክፈል እችላለሁ?",
+      "answerText": "መክፈል"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "ኬኩ በጣም ይጣፍጣል።",
+      "answerText": "ይጣፍጣል"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "ትንሽ ዳቦ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "ስኒ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "ሳህን",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "ብሬትስል",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "ሁለት ትናንሽ ዳቦዎች እፈልጋለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "ኬኩ ስንት ነው?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "በካርድ መክፈል እችላለሁ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "እዚህ መብላት ይፈልጋሉ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "ትንሽ ዳቦ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "ሂሳብ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "ቡና",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "ጉርሻ",
+      "answerText": null
+    }
+  ]
+}

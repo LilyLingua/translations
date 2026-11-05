@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.637Z"
+  },
+  "title": "W supermarkecie",
+  "instructions": {
+    "im-supermarkt-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "im-supermarkt-gap": "Zaznacz pasujące opakowanie lub ilość.",
+    "im-supermarkt-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "im-supermarkt-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "im-supermarkt-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "im-supermarkt-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "wózek na zakupy",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Wkładasz do niego towary podczas zakupów.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "stoisko z serami",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Tu kupujesz świeży ser na wagę.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "kaucja za butelki",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Pieniądze, które dostajesz z powrotem za puste butelki.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "automat do zwrotu butelek",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Tu oddajesz puste butelki.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "promocja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Produkt jest przez krótki czas tańszy.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "paragon",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Na tej kartce są wszystkie ceny.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "torba (reklamówka)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Niesiesz w niej zakupy do domu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Kupuję kubek jogurtu.",
+      "answerText": "kubek"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "I jeszcze butelkę wody, proszę.",
+      "answerText": "butelkę"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Potrzebujemy paczkę makaronu.",
+      "answerText": "paczkę"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Do sosu biorę puszkę pomidorów.",
+      "answerText": "puszkę"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Poproszę 200 gramów goudy.",
+      "answerText": "gramów"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Kostka masła kosztuje 2,29 euro.",
+      "answerText": "Kostka"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Wezmę litr mleka.",
+      "answerText": "litr"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Czy może mi pan / pani rozmienić pięć euro?",
+      "answerText": "rozmienić"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Przepraszam, gdzie znajdę mąkę?",
+      "answerText": "znajdę"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Płacę kartą.",
+      "answerText": "Płacę"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Poproszę 200 gramów goudy.",
+      "answerText": "Poproszę"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "W niedzielę prawie wszystkie supermarkety są zamknięte.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "butelka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "kubek",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "puszka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "chleb",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "jabłko",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "banan",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Przepraszam, gdzie znajdę mąkę?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Mam ze sobą torbę.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Banany są dziś w promocji.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Gdzie jest automat do zwrotu butelek?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "wózek na zakupy",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "paragon",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "kaucja za butelki",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "ser",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "bułka",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Lasteaed ja kool",
+  "instructions": {
+    "kita-und-schule-matching": "Leidke igale sõnale õige selgitus.",
+    "kita-und-schule-gap": "Märkige õige sõna.",
+    "kita-und-schule-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "kita-und-schule-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "kita-und-schule-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "kita-und-schule-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "lastevanemate koosolek",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Kohtumine lapsevanemate ja õpetajate vahel.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "lasteaed",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Siin hoitakse päeval väikesi lapsi.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "klassijuhataja (naine)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Ta vastutab ühe kooliklassi eest.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "klassitunnistus",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Sellel on õppeaasta lõpu hinded.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "puudumistõend",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Lühike kiri koolile, kui teie laps oli haige.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "koolivaheaeg",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Aeg, kui kooli ei ole, näiteks suvel.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "klassiekskursioon",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Klass sõidab koos teise kohta.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mu poeg on haige. Ta ei saa täna kooli tulla.",
+      "answerText": "kooli"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Lastevanemate koosolekul räägivad vanemad õpetajaga.",
+      "answerText": "Lastevanemate koosolekul"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Suvel on lastel kuus nädalat vaheaega.",
+      "answerText": "vaheaega"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Õppeaasta lõpus saab mu tütar klassitunnistuse.",
+      "answerText": "klassitunnistuse"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Ma kirjutan õpetajale puudumistõendi, sest mu laps oli haige.",
+      "answerText": "puudumistõendi"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Lapsed peavad iga päev kodutöid tegema.",
+      "answerText": "kodutöid"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mu laps on kolmeaastane ja käib lasteaias.",
+      "answerText": "lasteaias"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Ma tulen oma lapsele järele kell 16.",
+      "answerText": "tulen"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Kahjuks on mu tütar täna haige.",
+      "answerText": "on"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Kas me saame aja kokku leppida?",
+      "answerText": "kokku leppida"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Tunnid algavad kell 8.",
+      "answerText": "algavad"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Palun allkirjastage vorm reedeks.",
+      "answerText": "allkirjastage"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "laps",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "klass",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "õpetaja",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "vihik",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "hinne",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "pastakas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mu poeg on täna haige.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Millal algab lastevanemate koosolek?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Ma tulen oma tütrele järele kell 15.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Kas mu laps vajab klassiekskursiooniks midagi?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "lastevanemate koosolek",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "klassitunnistus",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "puudumistõend",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "kodutöö",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "klassijuhataja",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Ik wil graag een afspraak maken."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Ja, hier is mijn pas."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Kun je dat alsjeblieft langzamer zeggen?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Ik heb hoofdpijn en koorts."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Mijn buik doet pijn."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Sinds drie dagen."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "inademen – uitademen"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Ik ben allergisch tegen penicilline."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Ik heb een doktersbriefje nodig."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Drie keer per dag na het eten."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Je bent ziek. Je moet naar de dokter. Maar … in het Duits?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Oh nee. Vorige keer bij de dokter zei ik: „Ich bin Kopfschmerzen.“ (Ik ben hoofdpijn.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Precies daarom zijn we hier vandaag. Je maakt een heel doktersbezoek mee – van het eerste telefoontje tot het recept."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "En in elke situatie vragen we je: Wat zeg je?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "En je hebt maar vijf seconden!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Je belt de huisartsenpraktijk. Iemand neemt op."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Praktijk Dr. Yilmaz, Schulz aan de lijn. Waarmee kan ik je helpen?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Ik wil dokter. Nu."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Goedendag, ik wil graag een afspraak maken."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Hallo, ik ben ziek. Doei."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (Ik wil graag …) is beleefd en kan altijd."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Ik wil) klinkt aan de telefoon snel onvriendelijk."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Goedendag, ik wil graag een afspraak maken."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Graag. Kan het vandaag om 10 uur?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Ik wil graag een afspraak maken."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Je komt binnen bij de praktijk. Bij de balie vragen ze:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Heb je je verzekeringspas bij je?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Nee, ik ben verzekerd niet."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Ja, ik heb honger."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Ja, hier is mijn pas."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! De „Versichertenkarte“ – sommigen zeggen ook „Gesundheitskarte“ of „Krankenkassenkarte“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "Het is altijd dezelfde kaart. Neem hem altijd mee naar de dokter."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Ja, hier is mijn pas."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Dank je wel."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Ja, hier is mijn pas."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "De vrouw praat heel snel. Je begrijpt niet alles."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Vul alsjeblieft het formulier in en neem daarna plaats in de wachtkamer."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Sorry, kun je dat alsjeblieft langzamer zeggen?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Wat?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Ik neem de stoel mee."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Wat?) klinkt onbeleefd. Deze vraag redt je overal: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "(Kun je dat alsjeblieft langzamer zeggen?) Korter kan ook: „Wie bitte?“ (Pardon?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Sorry, kun je dat alsjeblieft langzamer zeggen?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Natuurlijk. Vul alsjeblieft dit formulier in. Daarna wacht je daar in de wachtkamer."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Kun je dat alsjeblieft langzamer zeggen?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Je bent bij de dokter in de spreekkamer. Hij vraagt:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Goedendag. Wat is er met je aan de hand?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Met mij is niks, dank je."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Ik heb hoofdpijn en koorts."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Ik ben hoofdpijn."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Let op: „Was fehlt Ihnen?“ betekent niet „Wat mis je?“, maar: „Wat is je probleem?“"
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Wie „Mir fehlt nichts“ zegt, is gezond – en eigenlijk verkeerd bij de dokter."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Ik heb hoofdpijn en koorts."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Oh, dat is vervelend voor je."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Ik heb hoofdpijn en koorts."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Heb je ook buikpijn? Waar doet het pijn?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Je buik doet pijn. Wat zeg je?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Ik doe pijn in de buik."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: De buik is pijn."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Hier, mijn buik doet pijn."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Zo werkt het: lichaamsdeel plus „tut weh“ (doet pijn). Bij meer: „Meine Füße tun weh.“ (Mijn voeten doen pijn.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Hier, mijn buik doet pijn."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Mijn buik doet pijn."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Mijn voeten doen pijn."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Sinds wanneer heb je deze klachten?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Voor drie dagen lang."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Sinds drie dag."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Sinds drie dagen."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! Na „seit“ (sinds) komt de datief – daarom „Tagen“ met n. Net als: „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(sinds een week), „seit gestern“ (sinds gisteren)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Sinds drie dagen."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Sinds drie dagen."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Sinds een week."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Ik luister even naar je longen. Maak je bovenlichaam vrij."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Wat doe je nu?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Je doet je trui en T-shirt uit."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Je doet je broek uit."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Je gaat naar huis – je bent nu vrij."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Dus … C, toch? Ik ben vrij – ik ga naar huis!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Nee, Leo. A! Het bovenlichaam is het bovenste deel van je lichaam. „Frei machen“ betekent hier: uitkleden."
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "Dan hoor je vaak: „Tief einatmen … und ausatmen.“ (Diep inademen … en uitademen.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Diep inademen … en uitademen. Goed zo."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "inademen – uitademen"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Ben je ergens allergisch voor?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Ja, ik ben allergisch voor penicilline."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Ja, ik ben allergisch tegen penicilline."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Ik vind penicilline niet zo lekker."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Je bent allergisch „gegen“ iets. En als je geen allergie hebt: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Nee, ik heb geen allergieën.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Ja, ik ben allergisch tegen penicilline."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Goed dat je dat zegt. Dan krijg je iets anders."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Ik ben allergisch tegen penicilline."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Ik heb geen allergieën."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Je kunt morgen niet werken. De dokter vraagt:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Heb je een doktersbriefje nodig?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Nee, ik schrijf zelf."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Ja, ik schrijf ziek."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Ja, graag. Voor mijn werkgever."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! Het „Krankschreibung“ (doktersbriefje) laat zien: je bent ziek en kunt niet werken."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Belangrijk: zeg het zelf ook tegen je werkgever – het liefst op de eerste dag, vroeg in de ochtend."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Ja, graag. Voor mijn werkgever."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Ik schrijf je ziek tot vrijdag."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Ik heb een doktersbriefje nodig."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Ik schrijf een recept voor je uit. Neem de tabletten drie keer per dag na het eten."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Luister goed! Wanneer neem je de tabletten?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Eén keer per dag, voor het slapen."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: ’s Ochtends, ’s middags en ’s avonds – na het eten."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Drie keer per dag – voor het eten."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ betekent drie keer per dag. En „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– dus eerst eten, dan de tablet."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Heel erg bedankt. Tot ziens!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Beterschap!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – dat zeg je tegen zieke mensen. Het betekent: word snel weer beter!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Spreek me na!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Drie keer per dag na het eten."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Beterschap!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "En als de praktijk dicht is? Onthoud twee nummers."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: de medische dienst – als je ’s nachts of in het weekend een arts nodig hebt, maar het is geen spoedgeval."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "En 112: het alarmnummer – voor ambulance en brandweer, bijvoorbeeld na een ongeluk of bij ernstige benauwdheid."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "In de les leer je mooie zinnen. Maar wat zeggen Duitsers echt?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Ik heb keelpijn."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Mijn keel kriebelt."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Ik ben ziek."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Het heeft me te pakken."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Ik heb een besmetting opgelopen."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Ik heb iets opgelopen."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Ik ben heel moe en zwak."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Ik ben helemaal op."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Ik heb rugpijn."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Het zit in mijn rug."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, ik heb het zo koud!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … je bent toch geen koud persoon. Je bedoelt: „Mir ist kalt.“ (Ik heb het koud.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "En let op: „Mir ist schlecht“ betekent niet „Het gaat slecht met mij“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Het betekent: Ik ben misselijk, ik moet misschien overgeven."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Griep of verkoudheid? Loopneus en hoesten is meestal een verkoudheid."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Griep is veel erger: hoge koorts, je ligt in bed."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "En nu alles nog een keer. De tien belangrijkste zinnen. Spreek me na!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Ik wil graag een afspraak maken."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Hier is mijn pas."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Kun je dat alsjeblieft langzamer zeggen?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Ik heb hoofdpijn en koorts."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Mijn buik doet pijn."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Sinds drie dagen."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Ik ben allergisch tegen penicilline."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Ik heb een doktersbriefje nodig."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Drie keer per dag na het eten."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Beterschap!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Welke situatie vond jij het moeilijkst? Schrijf het in de reacties!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Volgende keer gaan we naar het gemeentehuis. Daar heb ik echt hulp nodig."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "Tot snel bij LilyLingua!"
+    }
+  ]
+}

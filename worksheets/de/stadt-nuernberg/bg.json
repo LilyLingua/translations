@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:47.499Z"
+  },
+  "title": "Нюрнберг",
+  "instructions": {
+    "stadt-nuernberg-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-nuernberg-gap": "Отбележете правилната дума.",
+    "stadt-nuernberg-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-nuernberg-table": "Попълнете члена и формата за множествено число.",
+    "stadt-nuernberg-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-nuernberg-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "печената наденичка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "Малка тънка наденичка на скара – типична за Нюрнберг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "„Драй им Вегла“ (три в хлебче)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "На франконски: три наденички в едно хлебче.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "„Кристкиндлесмаркт“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "Прочут коледен базар; открива го Кристкинд (Младенецът Христос).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "медената питка („лебкухен“)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "Меко тесто с мед, ядки и подправки, особено за Коледа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "Кайзербург",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "Голям замък върху скала над Стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "Шьоне Брунен (Красивият фонтан)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "Фонтан на пазара; който завърти златния пръстен, има късмет.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "„Шойфеле“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "Франконско печено от свинска плешка, с кнедла и сос.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "Кайзербург стои върху скала над Стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "През декември отиваме на Кристкиндлесмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "Ям три наденички в едно хлебче.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "Много туристи въртят златния пръстен на Красивия фонтан.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "Купуваме медени питки в пекарната.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "В неделя има шойфеле с кнедла.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "Река Пегниц тече през Стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "Кристкинд открива Кристкиндлесмаркт.",
+      "answerText": "открива"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "Наденичките се пекат над огъня.",
+      "answerText": "пекат"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "Много нюрнбергчани се чувстват франконци, а не баварци.",
+      "answerText": "чувстват"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "Пръстенът на фонтана носи късмет.",
+      "answerText": "носи"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "През зимата се провежда изложението за играчки.",
+      "answerText": "провежда"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "замъкът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "фонтанът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "наденицата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "пазарът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "хлебчето",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "стената",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "„Драй им Вегла“ са три наденички в хлебче.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "По време на Адвента много хора посещават Кристкиндлесмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "Опитвал ли си вече нюрнбергски медени питки?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "Кайзербург се издига високо над града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "медена питка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "фонтан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "наденичка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "Коледа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "замък",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:00.181Z"
+  },
+  "title": "เอาก์สบวร์ค",
+  "instructions": {
+    "stadt-augsburg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-augsburg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-augsburg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-augsburg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-augsburg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-augsburg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-augsburg-matching-1",
+      "translation": "ฟุกเกอไร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-1:meaning",
+      "translation": "ชุมชนที่อยู่อาศัยเพื่อสังคมที่เก่าแก่ที่สุดในโลก ค่าเช่าเพียง 0.88 ยูโรต่อปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2",
+      "translation": "เอาก์สบวร์เกอร์ ปุปเปินคิสเทอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2:meaning",
+      "translation": "โรงละครหุ่นสายที่มีชื่อเสียง รู้จักกันจากโทรทัศน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3",
+      "translation": "เทศกาลสันติภาพ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3:meaning",
+      "translation": "วันที่ 8 สิงหาคม มีแค่เอาก์สบวร์คที่เป็นวันหยุด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4",
+      "translation": "ห้องโถงทองคำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4:meaning",
+      "translation": "ห้องโถงหรูหราในศาลาว่าการ เพดานมีทองมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5",
+      "translation": "หอคอยแพร์ลัค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5:meaning",
+      "translation": "หอคอยสูงข้างศาลาว่าการ ปีนขึ้นไปข้างบนได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6",
+      "translation": "\"แพลร์เรอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6:meaning",
+      "translation": "งานเทศกาลใหญ่ในฤดูใบไม้ผลิและฤดูใบไม้ร่วง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7",
+      "translation": "แบร์ทอลท์ เบรชท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7:meaning",
+      "translation": "นักเขียนชื่อดังที่เกิดในเอาก์สบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-1",
+      "translation": "จนถึงทุกวันนี้ยังมีคนอาศัยอยู่ในฟุกเกอไร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-2",
+      "translation": "เด็ก ๆ ดูการแสดงเรื่องหนึ่งที่ปุปเปินคิสเทอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-3",
+      "translation": "วันที่ 8 สิงหาคม ชาวเอาก์สบวร์คได้หยุดหนึ่งวัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-4",
+      "translation": "พวกเราขึ้นหอคอยแพร์ลัค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-5",
+      "translation": "ที่ศาลาว่าการ พวกเราเข้าชมห้องโถงทองคำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-6",
+      "translation": "ฤดูใบไม้ผลิหลายคนไปงานแพลร์เรอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-7",
+      "translation": "เบรชท์เกิดในเมืองริมแม่น้ำเลช",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-1",
+      "translation": "ค่าเช่าอยู่ที่เพียง 0.88 ยูโรต่อปี",
+      "answerText": "อยู่ที่"
+    },
+    {
+      "id": "stadt-augsburg-verbs-2",
+      "translation": "ที่ปุปเปินคิสเทอ หุ่นสายเล่นละคร",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-augsburg-verbs-3",
+      "translation": "วันที่ 8 สิงหาคม เอาก์สบวร์คฉลองเทศกาลสันติภาพ",
+      "answerText": "ฉลอง"
+    },
+    {
+      "id": "stadt-augsburg-verbs-4",
+      "translation": "เอาก์สบวร์คมีอายุกว่า 2000 ปี",
+      "answerText": "มีอายุ"
+    },
+    {
+      "id": "stadt-augsburg-verbs-5",
+      "translation": "จากหอคอยแพร์ลัคมองเห็นได้ทั้งเมือง",
+      "answerText": "มอง"
+    },
+    {
+      "id": "stadt-augsburg-table-1",
+      "translation": "ตุ๊กตา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-2",
+      "translation": "ห้องโถง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-3",
+      "translation": "เทศกาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-4",
+      "translation": "ค่าเช่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-5",
+      "translation": "หอคอย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-6",
+      "translation": "โรงละคร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-1",
+      "translation": "ฟุกเกอไรมีอายุกว่า 500 ปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-2",
+      "translation": "คุณรู้จักเอาก์สบวร์เกอร์ ปุปเปินคิสเทอไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-3",
+      "translation": "วันที่ 8 สิงหาคม ที่เอาก์สบวร์คเป็นวันหยุด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-4",
+      "translation": "ในศาลาว่าการมีห้องโถงทองคำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-1",
+      "translation": "โรงละคร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-2",
+      "translation": "ตุ๊กตา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-3",
+      "translation": "วันหยุด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-4",
+      "translation": "ค่าเช่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-5",
+      "translation": "ห้องโถง",
+      "answerText": null
+    }
+  ]
+}

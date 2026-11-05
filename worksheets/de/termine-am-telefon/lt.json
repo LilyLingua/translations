@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Susitarimas dėl vizito telefonu",
+  "instructions": {
+    "termine-am-telefon-matching": "Kiekvieną žodį sujunkite su tinkamu paaiškinimu.",
+    "termine-am-telefon-gap": "Pažymėkite tinkamą prielinksnį.",
+    "termine-am-telefon-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "termine-am-telefon-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "termine-am-telefon-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "termine-am-telefon-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "autoatsakiklis",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Čia galite palikti žinutę.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "tiesioginis vidaus numeris",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Tiesioginis žmogaus telefono numeris įmonėje.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "perskambinti",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Paskambinti žmogui vėliau, nes jis anksčiau skambino jums.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "perkelti",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Perkelti vizitą į kitą dieną.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "atšaukti",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Pasakyti, kad neatvyksite į sutartą vizitą.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "darbo valandos",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Laikas, kai galima su kuo nors susisiekti.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "sakyti paraidžiui",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Pasakyti žodį raidė po raidės.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Ar pirmadienį turite laiko?",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Ar jums tinka 10 valandą?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Laisvas būsiu tik gruodį.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Savaitgalį praktika uždaryta.",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Perskambinsiu jums po valandos.",
+      "answerText": "po"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Jau dvi savaites laukiu vizito.",
+      "answerText": ""
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Prašome atvykti dešimt minučių prieš vizitą.",
+      "answerText": "prieš"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Ar galėčiau pakalbėti su ponia Weber?",
+      "answerText": "pakalbėti"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Deja, turiu atšaukti savo vizitą.",
+      "answerText": "atšaukti"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Ar galėtumėte man perskambinti?",
+      "answerText": "perskambinti"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Duodu jums savo numerį.",
+      "answerText": "Duodu"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Kaip paraidžiui rašomas jūsų vardas?",
+      "answerText": "paraidžiui"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "skambutis",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numeris",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "žinutė",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefonas",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "laikas",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "mobilusis telefonas",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Norėčiau perkelti vizitą.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Kada jūs turite laiko?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Rytoj paskambinsiu dar kartą.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Ar jums tinka ketvirtadienį 9 valandą?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "žinutė",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefonas",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "sutartas vizitas",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "perskambinti",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "laikas",
+      "answerText": null
+    }
+  ]
+}

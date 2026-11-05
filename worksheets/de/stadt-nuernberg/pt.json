@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:34.120Z"
+  },
+  "title": "Nuremberg",
+  "instructions": {
+    "stadt-nuernberg-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-nuernberg-gap": "Marque a palavra certa.",
+    "stadt-nuernberg-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-nuernberg-table": "Complete o artigo e o plural.",
+    "stadt-nuernberg-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-nuernberg-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "a \"Rostbratwurst\" (linguiça grelhada)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "Linguiça pequena e fina, feita na grelha – típica de Nuremberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "\"Drei im Weggla\" (três no pãozinho)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "Em franconiano: três linguiças num pãozinho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "o \"Christkindlesmarkt\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "Famosa feira de Natal; o Menino Jesus (Christkind) a inaugura.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "o \"Lebkuchen\" (pão de mel)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "Doce macio com mel, nozes e especiarias, principalmente no Natal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "o Castelo Imperial",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "Castelo grande sobre uma rocha acima do centro histórico.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "a Fonte Bonita (Schöner Brunnen)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "Fonte na praça do mercado; quem gira o anel dourado tem sorte.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "o \"Schäufele\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "Assado franconiano de paleta de porco, com bolinho de batata e molho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "O Castelo Imperial fica sobre uma rocha acima do centro histórico.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "Em dezembro vamos ao Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "Como três linguiças num pãozinho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "Muitos turistas giram o anel dourado na Fonte Bonita.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "Compramos Lebkuchen na padaria.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "No domingo tem Schäufele com bolinho de batata.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "O rio Pegnitz passa pelo centro histórico.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "O Menino Jesus inaugura o Christkindlesmarkt.",
+      "answerText": "inaugura"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "A gente grelha as linguiças no fogo.",
+      "answerText": "grelha"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "Muitos moradores de Nuremberg se sentem francônios, não bávaros.",
+      "answerText": "sentem"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "O anel da fonte traz sorte.",
+      "answerText": "traz"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "No inverno acontece a Feira de Brinquedos.",
+      "answerText": "acontece"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "o castelo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "a fonte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "a linguiça",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "o mercado",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "o pãozinho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "o muro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "Drei im Weggla são três linguiças no pãozinho.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "No Advento muitas pessoas visitam o Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "Você já provou o Lebkuchen de Nuremberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "O Castelo Imperial fica bem acima da cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "o pão de mel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "a fonte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "a linguiça",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "o Natal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "o castelo",
+      "answerText": null
+    }
+  ]
+}

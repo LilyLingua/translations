@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.448Z"
+  },
+  "title": "Im Supermarkt",
+  "instructions": {
+    "pl-w-supermarkecie-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-w-supermarkecie-gap": "Wähle das richtige Wort.",
+    "pl-w-supermarkecie-verbs": "Setze das richtige Verb ein.",
+    "pl-w-supermarkecie-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-w-supermarkecie-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-w-supermarkecie-matching-1",
+      "translation": "der Einkaufswagen",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-1:meaning",
+      "translation": "Ein großer Korb auf Rädern für den Einkauf.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2",
+      "translation": "die Kasse",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2:meaning",
+      "translation": "Der Ort, an dem man bezahlt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3",
+      "translation": "das Regal",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3:meaning",
+      "translation": "Darauf liegen die Produkte im Geschäft.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4",
+      "translation": "der Kassenbon",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4:meaning",
+      "translation": "Ein Zettel, auf dem steht, was du gekauft und wie viel du bezahlt hast.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5",
+      "translation": "der Kassierer / die Kassiererin",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5:meaning",
+      "translation": "Eine Person, die an der Kasse arbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6",
+      "translation": "die Plastiktüte",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6:meaning",
+      "translation": "Darin trägt man den Einkauf nach Hause.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-1",
+      "translation": "Ich brauche eine Flasche Milch.",
+      "answerText": "Milch"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-2",
+      "translation": "Das Brot liegt im obersten Regal.",
+      "answerText": "Regal"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-3",
+      "translation": "Bitte zahlen Sie an der Kasse.",
+      "answerText": "Kasse"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-4",
+      "translation": "Bitte schön, hier ist der Kassenbon. Schönen Tag!",
+      "answerText": "Kassenbon"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-5",
+      "translation": "Ich lege die Äpfel in den Einkaufswagen.",
+      "answerText": "Einkaufswagen"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-6",
+      "translation": "An der Kasse arbeitet ein netter Kassierer.",
+      "answerText": "Kassierer"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-1",
+      "translation": "Wie viel kosten die Äpfel?",
+      "answerText": "kosten"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-2",
+      "translation": "Ich zahle mit Karte.",
+      "answerText": "zahle"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-3",
+      "translation": "Wir kaufen Eier und Brot.",
+      "answerText": "kaufen"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-4",
+      "translation": "Entschuldigung, wo liegt der Reis?",
+      "answerText": "liegt"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-5",
+      "translation": "Das Geschäft schließt um zehn.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "pl-w-supermarkecie-order-1",
+      "translation": "Wo ist der Reis?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-2",
+      "translation": "Ich brauche eine Tüte.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-3",
+      "translation": "Kann ich mit Karte zahlen?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-4",
+      "translation": "Die Milch steht im dritten Gang.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-1",
+      "translation": "Gemüse",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-2",
+      "translation": "Brot",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-3",
+      "translation": "Apfel",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-4",
+      "translation": "Milch",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-5",
+      "translation": "Hähnchen",
+      "answerText": null
+    }
+  ]
+}

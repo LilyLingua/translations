@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:55.818Z"
+  },
+  "title": "Kilonia",
+  "instructions": {
+    "stadt-kiel-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-kiel-gap": "Zaznacz właściwe słowo.",
+    "stadt-kiel-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-kiel-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-kiel-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-kiel-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Förde” (fiord)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Długa, wąska zatoka Bałtyku, wcinająca się głęboko w ląd.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Tydzień Kiloński",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Wielkie święto żeglarstwa w czerwcu z muzyką i łodziami z całego świata.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "prom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Duży statek dla ludzi i samochodów, na przykład do Norwegii.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Kanał Kiloński",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Sztuczna droga wodna między Morzem Północnym a Bałtykiem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "szprot kiloński",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Mała wędzona rybka, typowa dla Kilonii.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Moin moin!”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Pozdrowienie z północy; niektórzy uważają, że dwa razy „Moin” to już za dużo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "żeglować",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Płynąć łodzią, którą porusza wiatr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kilonia leży nad Bałtykiem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "W czerwcu świętujemy Tydzień Kiloński.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Płyniemy promem do Oslo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Statki płyną przez Kanał Kiloński.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "W weekend żeglujemy po fiordzie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Kupuję torebkę szprotów kilońskich.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Spacerujemy z psem po plaży.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Prom płynie codziennie do Norwegii.",
+      "answerText": "płynie"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Podczas Tygodnia Kilońskiego żeglują łodzie z całego świata.",
+      "answerText": "żeglują"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Wiele statków korzysta z Kanału Kilońskiego.",
+      "answerText": "korzysta"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Na północy mówi się „Moin”.",
+      "answerText": "mówi"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Na plaży często wieje silny wiatr.",
+      "answerText": "wieje"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "łódź",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "prom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "ryba",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "plaża",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "żagiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "kanał",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kilonia leży nad Bałtykiem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "W czerwcu miasto świętuje Tydzień Kiloński.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Płyniesz promem do Norwegii?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "W weekend żeglujemy po fiordzie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "prom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "żagiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "plaża",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Bałtyk",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "kanał",
+      "answerText": null
+    }
+  ]
+}

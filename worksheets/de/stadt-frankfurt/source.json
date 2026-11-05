@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "fdce3d42-107f-49c6-84e5-6ca8212e49dc",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Frankfurt am Main",
+  "topic": "Hessen: Ebbelwoi, Grie Soß, Römer, „Mainhattan“",
+  "tasks": [
+    {
+      "id": "stadt-frankfurt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-frankfurt-matching-1",
+          "term": "der Ebbelwoi",
+          "meaning": "Hessisch für Apfelwein – das typische Getränk in Frankfurt."
+        },
+        {
+          "id": "stadt-frankfurt-matching-2",
+          "term": "der Bembel",
+          "meaning": "Grauer Krug mit blauem Muster; daraus gießt man den Apfelwein."
+        },
+        {
+          "id": "stadt-frankfurt-matching-3",
+          "term": "die Grie Soß",
+          "meaning": "Grüne Soße aus sieben Kräutern, mit Kartoffeln und Eiern."
+        },
+        {
+          "id": "stadt-frankfurt-matching-4",
+          "term": "Mainhattan",
+          "meaning": "Spitzname für Frankfurt – wegen der vielen Hochhäuser am Main."
+        },
+        {
+          "id": "stadt-frankfurt-matching-5",
+          "term": "der Handkäs mit Musik",
+          "meaning": "Kleiner Käse mit Zwiebeln, Essig und Öl."
+        },
+        {
+          "id": "stadt-frankfurt-matching-6",
+          "term": "der Römer",
+          "meaning": "Altes Rathaus von Frankfurt mit schönen Giebeln."
+        },
+        {
+          "id": "stadt-frankfurt-matching-7",
+          "term": "die Börse",
+          "meaning": "Hier kauft und verkauft man Aktien; vor dem Haus stehen Bulle und Bär."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-frankfurt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-frankfurt-gap-1",
+          "promptBefore": "Der Apfelwein steht in",
+          "promptAfter": "Bembel auf dem Tisch.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-2",
+          "promptBefore": "Die großen Banken stehen in",
+          "promptAfter": "Innenstadt.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-3",
+          "promptBefore": "Am Wochenende gehen wir an",
+          "promptAfter": "Main.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-4",
+          "promptBefore": "Vom Main Tower sieht man",
+          "promptAfter": "ganze Skyline.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-5",
+          "promptBefore": "Viele Flugzeuge landen auf",
+          "promptAfter": "Flughafen Frankfurt.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-6",
+          "promptBefore": "Ich bestelle",
+          "promptAfter": "Handkäs mit Musik.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-frankfurt-gap-7",
+          "promptBefore": "Das alte Rathaus steht auf",
+          "promptAfter": "Römerberg.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-frankfurt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-frankfurt-verbs-1",
+          "promptBefore": "In Sachsenhausen",
+          "promptAfter": "man Ebbelwoi.",
+          "correctAnswer": "trinkt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "trinken"
+        },
+        {
+          "id": "stadt-frankfurt-verbs-2",
+          "promptBefore": "Der Main",
+          "promptAfter": "durch die Stadt.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-frankfurt-verbs-3",
+          "promptBefore": "Viele Menschen",
+          "promptAfter": "in den Banken.",
+          "correctAnswer": "arbeiten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arbeiten"
+        },
+        {
+          "id": "stadt-frankfurt-verbs-4",
+          "promptBefore": "Goethe",
+          "promptAfter": "1749 in Frankfurt zur Welt.",
+          "correctAnswer": "kam",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-frankfurt-verbs-5",
+          "promptBefore": "Für die Grüne Soße",
+          "promptAfter": "man sieben Kräuter.",
+          "correctAnswer": "braucht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "brauchen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-frankfurt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-frankfurt-table-1",
+          "article": "das",
+          "singular": "Hochhaus",
+          "plural": "Hochhäuser"
+        },
+        {
+          "id": "stadt-frankfurt-table-2",
+          "article": "die",
+          "singular": "Bank",
+          "plural": "Banken"
+        },
+        {
+          "id": "stadt-frankfurt-table-3",
+          "article": "der",
+          "singular": "Krug",
+          "plural": "Krüge"
+        },
+        {
+          "id": "stadt-frankfurt-table-4",
+          "article": "der",
+          "singular": "Flughafen",
+          "plural": "Flughäfen"
+        },
+        {
+          "id": "stadt-frankfurt-table-5",
+          "article": "das",
+          "singular": "Kraut",
+          "plural": "Kräuter"
+        },
+        {
+          "id": "stadt-frankfurt-table-6",
+          "article": "die",
+          "singular": "Zwiebel",
+          "plural": "Zwiebeln"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-frankfurt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-frankfurt-order-1",
+          "chunks": [
+            "Frankfurt",
+            "hat",
+            "die meisten Hochhäuser",
+            "in Deutschland"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-frankfurt-order-2",
+          "chunks": [
+            "Im Bembel",
+            "ist",
+            "Apfelwein"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-frankfurt-order-3",
+          "chunks": [
+            "Fliegst",
+            "du",
+            "morgen",
+            "von Frankfurt"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-frankfurt-order-4",
+          "chunks": [
+            "Die Grüne Soße",
+            "macht man",
+            "aus sieben Kräutern"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-frankfurt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-frankfurt-spelling-1",
+          "correct": "Hochhaus",
+          "wrong": "Hochaus"
+        },
+        {
+          "id": "stadt-frankfurt-spelling-2",
+          "correct": "Flughafen",
+          "wrong": "Flugharfen"
+        },
+        {
+          "id": "stadt-frankfurt-spelling-3",
+          "correct": "Zwiebel",
+          "wrong": "Zwibel"
+        },
+        {
+          "id": "stadt-frankfurt-spelling-4",
+          "correct": "Apfelwein",
+          "wrong": "Apfelwain"
+        },
+        {
+          "id": "stadt-frankfurt-spelling-5",
+          "correct": "Kräuter",
+          "wrong": "Kreuter"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:15.894Z"
+  },
+  "title": "Минстер",
+  "instructions": {
+    "stadt-muenster-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-muenster-gap": "Означи тачну реч.",
+    "stadt-muenster-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-muenster-table": "Упиши члан и облик множине.",
+    "stadt-muenster-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-muenster-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-muenster-matching-1",
+      "translation": "„Leeze“ (Леце)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-1:meaning",
+      "translation": "Минстерска реч за бицикл.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2",
+      "translation": "Принципалмаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2:meaning",
+      "translation": "Лепа трговачка улица са старим кућама са забатима и аркадама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3",
+      "translation": "Вестфалски мир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3:meaning",
+      "translation": "Године 1648. овде и у Оснабрику завршен је Тридесетогодишњи рат.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4",
+      "translation": "кавези анабаптиста",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4:meaning",
+      "translation": "Три гвоздена кавеза већ скоро 500 година висе на торњу цркве Светог Ламберта.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5",
+      "translation": "Азе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5:meaning",
+      "translation": "Језеро усред града; лети тамо седи много студената.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6",
+      "translation": "„Send“ (Зенд)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6:meaning",
+      "translation": "Велики народни вашар са рингишпилима, три пута годишње.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7",
+      "translation": "променада",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7:meaning",
+      "translation": "Пут око старог града само за бицикле и пешаке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-1",
+      "translation": "Лецом идем на факултет.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-2",
+      "translation": "Идемо преко Принципалмаркта.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-3",
+      "translation": "Године 1648. у Минстеру је склопљен Вестфалски мир.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-4",
+      "translation": "Џогирамо око Азеа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-5",
+      "translation": "На Зенду се возимо на рингишпилу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-6",
+      "translation": "Променада је прстен око старог града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-7",
+      "translation": "Каже се: у Минстеру или пада киша или звоне звона.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-verbs-1",
+      "translation": "У Минстеру скоро сви возе бицикл.",
+      "answerText": "возе"
+    },
+    {
+      "id": "stadt-muenster-verbs-2",
+      "translation": "На торњу Светог Ламберта висе три гвоздена кавеза.",
+      "answerText": "висе"
+    },
+    {
+      "id": "stadt-muenster-verbs-3",
+      "translation": "Студенти остављају своје Леце испред факултета.",
+      "answerText": "остављају"
+    },
+    {
+      "id": "stadt-muenster-verbs-4",
+      "translation": "Опет пада киша!",
+      "answerText": "пада"
+    },
+    {
+      "id": "stadt-muenster-verbs-5",
+      "translation": "Зенд се одржава три пута годишње.",
+      "answerText": "одржава"
+    },
+    {
+      "id": "stadt-muenster-table-1",
+      "translation": "бицикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-2",
+      "translation": "кавез",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-3",
+      "translation": "звоно",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-4",
+      "translation": "забат",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-5",
+      "translation": "рингишпил",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-6",
+      "translation": "уличица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-1",
+      "translation": "У Минстеру има више бицикала него становника.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-2",
+      "translation": "На Принципалмаркту стоје старе куће са забатима.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-3",
+      "translation": "Да ли идеш Лецом на факултет?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-4",
+      "translation": "Вестфалски мир је 1648. окончао дуг рат.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-1",
+      "translation": "бицикл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-2",
+      "translation": "кавез",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-3",
+      "translation": "звоно",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-4",
+      "translation": "рингишпил",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-5",
+      "translation": "забат",
+      "answerText": null
+    }
+  ]
+}

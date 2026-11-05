@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.626Z"
+  },
+  "title": "ที่ซูเปอร์มาร์เก็ต",
+  "instructions": {
+    "im-supermarkt-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "im-supermarkt-gap": "ทำเครื่องหมายที่บรรจุภัณฑ์หรือปริมาณที่เหมาะสม",
+    "im-supermarkt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "im-supermarkt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "im-supermarkt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "im-supermarkt-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "รถเข็นซื้อของ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "ใส่ของลงไปตอนซื้อของ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "เคาน์เตอร์ชีส",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "ที่นี่ซื้อชีสสดแบบชั่งน้ำหนักได้",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "เงินมัดจำขวด (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "เงินที่ได้คืนเมื่อคืนขวดเปล่า",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "เครื่องรับคืนขวด",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "ที่นี่คืนขวดเปล่า",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "สินค้าลดราคา",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "สินค้าถูกลงในช่วงเวลาสั้น ๆ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "ใบเสร็จ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "กระดาษแผ่นนี้มีราคาทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "ถุง",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "ใช้ใส่ของที่ซื้อกลับบ้าน",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "ฉันซื้อโยเกิร์ตหนึ่งถ้วย",
+      "answerText": "ถ้วย"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "ขอน้ำอีกหนึ่งขวด",
+      "answerText": "ขวด"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "เราต้องการพาสต้าหนึ่งห่อ",
+      "answerText": "ห่อ"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "สำหรับซอส ฉันเอามะเขือเทศหนึ่งกระป๋อง",
+      "answerText": "กระป๋อง"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "ขอชีสเกาดา 200 กรัม",
+      "answerText": "กรัม"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "เนยหนึ่งก้อนราคา 2.29 ยูโร",
+      "answerText": "ก้อน"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "ฉันเอานมหนึ่งลิตร",
+      "answerText": "ลิตร"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "คุณช่วยแลกเงินห้ายูโรให้ฉันได้ไหม",
+      "answerText": "แลก"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "ขอโทษค่ะ/ครับ ฉันจะหาแป้งได้ที่ไหน",
+      "answerText": "หา"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "ฉันจ่ายด้วยบัตร",
+      "answerText": "จ่าย"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "ฉันขอชีสเกาดา 200 กรัม",
+      "answerText": "ขอ"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "วันอาทิตย์ซูเปอร์มาร์เก็ตเกือบทั้งหมดปิด",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "ขวด",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "ถ้วย",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "กระป๋อง",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ขนมปัง",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "แอปเปิล",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "กล้วย",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "ขอโทษค่ะ/ครับ ฉันจะหาแป้งได้ที่ไหน",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "ฉันเอากระเป๋ามาด้วย",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "วันนี้กล้วยลดราคา",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "เครื่องรับคืนขวดอยู่ที่ไหน",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "รถเข็นซื้อของ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ใบเสร็จ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "เงินมัดจำขวด",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "ชีส",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    }
+  ]
+}

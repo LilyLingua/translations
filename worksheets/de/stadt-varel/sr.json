@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:15.667Z"
+  },
+  "title": "Фарел",
+  "instructions": {
+    "stadt-varel-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-varel-gap": "Означи тачну реч.",
+    "stadt-varel-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-varel-table": "Упиши члан и облик множине.",
+    "stadt-varel-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-varel-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "ветрењача",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "Изграђена 1847/48; са 39 метара једна је од највиших ветрењача у Немачкој.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "водоторањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "Симбол Фарела, висок преко 50 метара; одозго се пружа широк поглед.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "Јадебузен (Јадски залив)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "Велики залив Северног мора одмах испред Фарела.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "Дангаст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "Мало морско купалиште на Северном мору које припада Фарелу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "колач од рабарбаре",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "Чувени колач из старог бањског дома у Дангасту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "дворска црква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "Најстарија зграда у граду, са дрвеним олтаром високим скоро 10 метара.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "ват (муљевити плићак)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "Морско дно по којем се за време осеке може ходати.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "Фарел лежи на Јадском заливу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "Са водоторња се види цео град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "У бањском дому у Дангасту једемо парче колача од рабарбаре.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "За време осеке ходамо преко вата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "У дворској цркви стоји веома стар олтар.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "Посећујемо ветрењачу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "У луци су привезани рибарски бродови за лов на козице.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "Ветрењача је једна од највиших у Немачкој.",
+      "answerText": "је"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "За време осеке вода се повлачи.",
+      "answerText": "повлачи"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "Лети много туриста путује у Дангаст.",
+      "answerText": "путује"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "Водоторањ и данас снабдева Фарел водом.",
+      "answerText": "снабдева"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "У бањском дому се наручује колач од рабарбаре.",
+      "answerText": "наручује"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "млин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "крило",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "кутер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "залив",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "обала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "плажа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "Фарел лежи на Јадском заливу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "За време осеке шетамо преко вата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "Да ли си већ био горе на водоторњу?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "У Дангасту многи једу колач од рабарбаре.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "млин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "рабарбара",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "осека",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "крило",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "плажа",
+      "answerText": null
+    }
+  ]
+}

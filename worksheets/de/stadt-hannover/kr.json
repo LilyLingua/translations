@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:35.059Z"
+  },
+  "title": "하노버",
+  "instructions": {
+    "stadt-hannover-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-hannover-gap": "알맞은 단어에 표시하세요.",
+    "stadt-hannover-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-hannover-table": "관사와 복수형을 쓰세요.",
+    "stadt-hannover-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-hannover-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "기업을 위한 큰 전시회로, 하노버에는 거대한 박람회장이 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "마슈 호수",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "도시 안의 인공 호수로, 요트, 조깅, 축제를 즐긴다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "붉은 실",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "바닥에 그려진 빨간 선으로, 명소로 안내한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "표준 독일어",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "표준어로, 하노버에서는 특히 분명하게 말한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "'뤼트예 라게'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "두 잔에 담긴 맥주와 소주 같은 독주를 동시에 마시는 것.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "사격 축제",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "여름에 열리는 아주 큰 민속 축제로, 긴 퍼레이드가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "'나나'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "라이네강 가에 있는 크고 화려한 여인상으로, 니키 드 생팔의 작품이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "우리는 붉은 실을 따라 도시를 걷는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "여름에는 많은 사람들이 마슈 호수 주위를 조깅한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "그 회사는 박람회에 참가한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "우리는 엘리베이터를 타고 시청 돔으로 올라간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "나나 조각상들은 라이네강 가에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "우리는 헤렌하우젠 정원을 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "그는 뤼트예 라게를 마셔 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "붉은 실은 많은 명소로 이어진다.",
+      "answerText": "이어진다"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "신시청에서는 기울어진 엘리베이터가 돔까지 올라간다.",
+      "answerText": "올라간다"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "많은 기업들이 박람회에서 제품을 선보인다.",
+      "answerText": "선보인다"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "하노버 사람들은 아주 분명한 표준 독일어를 말한다.",
+      "answerText": "말한다"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "2000년에 하노버에서 세계 박람회 엑스포가 열렸다.",
+      "answerText": "열렸다"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "정원",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "실",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "조각상",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "시청",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "엘리베이터",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "붉은 실은 시내 중심을 지나간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "여름에는 많은 사람들이 마슈 호수에서 요트를 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "엘리베이터 타고 돔에 올라갈래?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "하노버에서는 분명한 표준 독일어를 말한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "명소",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "엘리베이터",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "조각상",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "돔",
+      "answerText": null
+    }
+  ]
+}

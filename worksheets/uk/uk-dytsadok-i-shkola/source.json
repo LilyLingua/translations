@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "3300f717-7e99-4125-890e-f32e564331da",
+    "level": "A2"
+  },
+  "title": "Дитсадок і школа",
+  "topic": "Батьківські збори, хвороба дитини й шкільне життя",
+  "tasks": [
+    {
+      "id": "uk-dytsadok-i-shkola-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-dytsadok-i-shkola-matching-1",
+          "term": "дитячий садок",
+          "meaning": "Місце, де маленькі діти перебувають, поки батьки працюють."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-matching-2",
+          "term": "вчитель",
+          "meaning": "Людина, яка навчає клас."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-matching-3",
+          "term": "батьківські збори",
+          "meaning": "Зустріч, де батьки говорять із вчителем."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-matching-4",
+          "term": "домашнє завдання",
+          "meaning": "Робота, яку діти роблять удома для школи."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-matching-5",
+          "term": "табель",
+          "meaning": "Документ з оцінками дитини."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-matching-6",
+          "term": "екскурсія",
+          "meaning": "Коли клас разом кудись їде, наприклад до музею."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-dytsadok-i-shkola-gap-1",
+          "promptBefore": "Мій син хворий і сьогодні не піде до",
+          "promptAfter": ".",
+          "correctAnswer": "школи",
+          "options": [
+            "школи",
+            "табеля",
+            "завдання"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-gap-2",
+          "promptBefore": "Батьківські",
+          "promptAfter": "будуть у четвер о шостій.",
+          "correctAnswer": "збори",
+          "options": [
+            "збори",
+            "завдання",
+            "оцінки"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-gap-3",
+          "promptBefore": "Ти зробив домашнє",
+          "promptAfter": "?",
+          "correctAnswer": "завдання",
+          "options": [
+            "завдання",
+            "збори",
+            "табель"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-gap-4",
+          "promptBefore": "Я забираю доньку з дитячого",
+          "promptAfter": "о четвертій.",
+          "correctAnswer": "садка",
+          "options": [
+            "садка",
+            "табеля",
+            "завдання"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-gap-5",
+          "promptBefore": "Підпишіть, будь ласка, дозвіл на",
+          "promptAfter": ".",
+          "correctAnswer": "екскурсію",
+          "options": [
+            "екскурсію",
+            "оцінку",
+            "табель"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-gap-6",
+          "promptBefore": "У неї гарні оцінки в",
+          "promptAfter": ".",
+          "correctAnswer": "табелі",
+          "options": [
+            "табелі",
+            "екскурсії",
+            "садку"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-dytsadok-i-shkola-verbs-1",
+          "promptBefore": "Моя донька",
+          "promptAfter": ".",
+          "correctAnswer": "хворіє",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "хворіти"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-verbs-2",
+          "promptBefore": "Уроки",
+          "promptAfter": "о восьмій.",
+          "correctAnswer": "починаються",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "починатися"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-verbs-3",
+          "promptBefore": "Чи можна",
+          "promptAfter": "з учителем?",
+          "correctAnswer": "поговорити",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "поговорити"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-verbs-4",
+          "promptBefore": "Діти",
+          "promptAfter": "в школі.",
+          "correctAnswer": "обідають",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "обідати"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-verbs-5",
+          "promptBefore": "Будь ласка,",
+          "promptAfter": "до школи, якщо дитина хвора.",
+          "correctAnswer": "зателефонуйте",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "зателефонувати"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-dytsadok-i-shkola-order-1",
+          "chunks": [
+            "Мій син",
+            "сьогодні",
+            "хворий"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-order-2",
+          "chunks": [
+            "Коли",
+            "будуть",
+            "батьківські збори"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-order-3",
+          "chunks": [
+            "Чи може",
+            "вона",
+            "взяти",
+            "перекус"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-order-4",
+          "chunks": [
+            "Я",
+            "заберу",
+            "його",
+            "о третій"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-dytsadok-i-shkola-spelling-1",
+          "correct": "вчитель",
+          "wrong": "вчітель"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-spelling-2",
+          "correct": "шкільний",
+          "wrong": "шкілний"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-spelling-3",
+          "correct": "діти",
+          "wrong": "дити"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-spelling-4",
+          "correct": "домашнє",
+          "wrong": "домашне"
+        },
+        {
+          "id": "uk-dytsadok-i-shkola-spelling-5",
+          "correct": "подруга",
+          "wrong": "подрога"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

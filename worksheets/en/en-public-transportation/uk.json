@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.265Z"
+  },
+  "title": "Громадський транспорт",
+  "instructions": {
+    "en-public-transportation-matching": "З'єднай кожне слово з його значенням.",
+    "en-public-transportation-gap": "Вибери правильне слово.",
+    "en-public-transportation-verbs": "Встав правильне дієслово.",
+    "en-public-transportation-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-public-transportation-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-public-transportation-matching-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-1:meaning",
+      "translation": "Папірець або застосунок, з яким можна їхати.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2:meaning",
+      "translation": "Місце, де зупиняється автобус.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3",
+      "translation": "платформа",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3:meaning",
+      "translation": "Місце на вокзалі, де сідають у потяг.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4",
+      "translation": "затримка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4:meaning",
+      "translation": "Коли автобус чи потяг приходить пізніше, ніж заплановано.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5",
+      "translation": "розклад",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5:meaning",
+      "translation": "Список із часом автобусів і потягів.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6",
+      "translation": "пересадка",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6:meaning",
+      "translation": "Коли переходиш з одного автобуса чи потяга на інший.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-gap-1",
+      "translation": "Мені потрібен квиток до центру.",
+      "answerText": "квиток"
+    },
+    {
+      "id": "en-public-transportation-gap-2",
+      "translation": "Потяг відправляється з четвертої платформи.",
+      "answerText": "платформи"
+    },
+    {
+      "id": "en-public-transportation-gap-3",
+      "translation": "Виходьте на наступній зупинці.",
+      "answerText": "зупинці"
+    },
+    {
+      "id": "en-public-transportation-gap-4",
+      "translation": "Є затримка на двадцять хвилин.",
+      "answerText": "затримка"
+    },
+    {
+      "id": "en-public-transportation-gap-5",
+      "translation": "Розклад автобусів є в інтернеті.",
+      "answerText": "Розклад"
+    },
+    {
+      "id": "en-public-transportation-gap-6",
+      "translation": "На центральному вокзалі треба зробити пересадку.",
+      "answerText": "пересадку"
+    },
+    {
+      "id": "en-public-transportation-verbs-1",
+      "translation": "Автобус ходить кожні десять хвилин.",
+      "answerText": "ходить"
+    },
+    {
+      "id": "en-public-transportation-verbs-2",
+      "translation": "Де купити квиток?",
+      "answerText": "купити"
+    },
+    {
+      "id": "en-public-transportation-verbs-3",
+      "translation": "Тут вам треба пересісти на інший потяг.",
+      "answerText": "треба"
+    },
+    {
+      "id": "en-public-transportation-verbs-4",
+      "translation": "Потяг сьогодні запізнюється.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-verbs-5",
+      "translation": "Будь ласка, покажіть квиток.",
+      "answerText": "покажіть"
+    },
+    {
+      "id": "en-public-transportation-order-1",
+      "translation": "Який автобус їде до аеропорту?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-2",
+      "translation": "Потяг запізнюється на десять хвилин.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-3",
+      "translation": "Де наступна зупинка?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-4",
+      "translation": "Мій автобус поїхав.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-3",
+      "translation": "розклад",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-4",
+      "translation": "центр міста",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-5",
+      "translation": "пасажир",
+      "answerText": null
+    }
+  ]
+}

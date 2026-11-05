@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "885ee393-83f1-482d-8682-f4abc129bd8b",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Kiel",
+  "topic": "Schleswig-Holstein: Ostsee, Förde, Kieler Woche, Fähren",
+  "tasks": [
+    {
+      "id": "stadt-kiel-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-kiel-matching-1",
+          "term": "die Förde",
+          "meaning": "Langer, schmaler Arm der Ostsee, der weit ins Land geht."
+        },
+        {
+          "id": "stadt-kiel-matching-2",
+          "term": "die Kieler Woche",
+          "meaning": "Großes Segelfest im Juni mit Musik und Booten aus aller Welt."
+        },
+        {
+          "id": "stadt-kiel-matching-3",
+          "term": "die Fähre",
+          "meaning": "Großes Schiff für Menschen und Autos, zum Beispiel nach Norwegen."
+        },
+        {
+          "id": "stadt-kiel-matching-4",
+          "term": "der Nord-Ostsee-Kanal",
+          "meaning": "Künstliche Wasserstraße zwischen Nordsee und Ostsee."
+        },
+        {
+          "id": "stadt-kiel-matching-5",
+          "term": "die Kieler Sprotte",
+          "meaning": "Kleiner geräucherter Fisch, typisch für Kiel."
+        },
+        {
+          "id": "stadt-kiel-matching-6",
+          "term": "Moin moin!",
+          "meaning": "Norddeutscher Gruß; manche finden zweimal „Moin“ schon zu viel."
+        },
+        {
+          "id": "stadt-kiel-matching-7",
+          "term": "segeln",
+          "meaning": "Mit einem Boot fahren, das der Wind bewegt."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-kiel-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-kiel-gap-1",
+          "promptBefore": "Kiel liegt an",
+          "promptAfter": "Ostsee.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-2",
+          "promptBefore": "Im Juni feiern wir",
+          "promptAfter": "Kieler Woche.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-3",
+          "promptBefore": "Wir fahren mit",
+          "promptAfter": "Fähre nach Oslo.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-4",
+          "promptBefore": "Die Schiffe fahren durch",
+          "promptAfter": "Nord-Ostsee-Kanal.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-5",
+          "promptBefore": "Am Wochenende segeln wir auf",
+          "promptAfter": "Förde.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-6",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Tüte Kieler Sprotten.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-kiel-gap-7",
+          "promptBefore": "Wir gehen am Strand mit",
+          "promptAfter": "Hund spazieren.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-kiel-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-kiel-verbs-1",
+          "promptBefore": "Die Fähre",
+          "promptAfter": "jeden Tag nach Norwegen.",
+          "correctAnswer": "fährt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-kiel-verbs-2",
+          "promptBefore": "Bei der Kieler Woche",
+          "promptAfter": "Boote aus aller Welt.",
+          "correctAnswer": "segeln",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "segeln"
+        },
+        {
+          "id": "stadt-kiel-verbs-3",
+          "promptBefore": "Viele Schiffe",
+          "promptAfter": "den Nord-Ostsee-Kanal.",
+          "correctAnswer": "benutzen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "benutzen"
+        },
+        {
+          "id": "stadt-kiel-verbs-4",
+          "promptBefore": "Im Norden",
+          "promptAfter": "man „Moin“.",
+          "correctAnswer": "sagt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        },
+        {
+          "id": "stadt-kiel-verbs-5",
+          "promptBefore": "Am Strand",
+          "promptAfter": "oft ein starker Wind.",
+          "correctAnswer": "weht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wehen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-kiel-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-kiel-table-1",
+          "article": "das",
+          "singular": "Boot",
+          "plural": "Boote"
+        },
+        {
+          "id": "stadt-kiel-table-2",
+          "article": "die",
+          "singular": "Fähre",
+          "plural": "Fähren"
+        },
+        {
+          "id": "stadt-kiel-table-3",
+          "article": "der",
+          "singular": "Fisch",
+          "plural": "Fische"
+        },
+        {
+          "id": "stadt-kiel-table-4",
+          "article": "der",
+          "singular": "Strand",
+          "plural": "Strände"
+        },
+        {
+          "id": "stadt-kiel-table-5",
+          "article": "das",
+          "singular": "Segel",
+          "plural": "Segel"
+        },
+        {
+          "id": "stadt-kiel-table-6",
+          "article": "der",
+          "singular": "Kanal",
+          "plural": "Kanäle"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-kiel-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-kiel-order-1",
+          "chunks": [
+            "Kiel",
+            "liegt",
+            "an der Ostsee"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-kiel-order-2",
+          "chunks": [
+            "Im Juni",
+            "feiert",
+            "die Stadt",
+            "die Kieler Woche"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-kiel-order-3",
+          "chunks": [
+            "Fährst du",
+            "mit der Fähre",
+            "nach Norwegen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-kiel-order-4",
+          "chunks": [
+            "Am Wochenende",
+            "segeln wir",
+            "auf der Förde"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-kiel-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-kiel-spelling-1",
+          "correct": "Fähre",
+          "wrong": "Färe"
+        },
+        {
+          "id": "stadt-kiel-spelling-2",
+          "correct": "Segel",
+          "wrong": "Seegel"
+        },
+        {
+          "id": "stadt-kiel-spelling-3",
+          "correct": "Strand",
+          "wrong": "Strant"
+        },
+        {
+          "id": "stadt-kiel-spelling-4",
+          "correct": "Ostsee",
+          "wrong": "Ostsea"
+        },
+        {
+          "id": "stadt-kiel-spelling-5",
+          "correct": "Kanal",
+          "wrong": "Kanaal"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.352Z"
+  },
+  "title": "租房",
+  "instructions": {
+    "wohnung-mieten-matching": "把每个单词和合适的解释连起来。",
+    "wohnung-mieten-gap": "勾出冠词的正确形式。",
+    "wohnung-mieten-verbs": "用正确形式填入正确的动词。",
+    "wohnung-mieten-table": "填写冠词（der/die/das）和复数形式。",
+    "wohnung-mieten-order": "把单词按正确顺序排列并写出句子。",
+    "wohnung-mieten-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "房租",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "你每个月为房子付的钱。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "押金",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "房东在一开始收取的保证金。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "附加费用",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "水、暖气和垃圾的费用。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "租房合同",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "租客和房东之间的合同。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "看房",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "租房之前先去看房子。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "楼管",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "他照看楼房并修理小东西。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "住户守则",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "所有住户的规定，例如安静时间。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "我们在找一套带阳台的房子。",
+      "answerText": "一套"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "我和房东谈话。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "我把押金交给女房东。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "我把自行车放到院子里。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "钥匙在桌子上。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "厨房里的暖气坏了。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "我在这套房子里住了一年了。",
+      "answerText": "这套"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "我什么时候可以看房？",
+      "answerText": "看"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "房租含附加费用一共是850欧元。",
+      "answerText": "是"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "我们12月1日搬进去。",
+      "answerText": "搬进去"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "暖气坏了。您能修一下吗？",
+      "answerText": "修"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "请把垃圾分类。",
+      "answerText": "分类"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "房间",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "厨房",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "阳台",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "浴室",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "钥匙",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "暖气",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "这套房子还空着吗？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "附加费用是多少？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "我什么时候可以看房？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "我想租这套房子。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "押金",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "附加费用",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "阳台",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "钥匙",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "暖气",
+      "answerText": null
+    }
+  ]
+}

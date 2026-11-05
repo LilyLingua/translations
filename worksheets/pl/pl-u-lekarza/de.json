@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.581Z"
+  },
+  "title": "Beim Arzt",
+  "instructions": {
+    "pl-u-lekarza-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-u-lekarza-gap": "Wähle das richtige Wort.",
+    "pl-u-lekarza-verbs": "Setze das richtige Verb ein.",
+    "pl-u-lekarza-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-u-lekarza-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-u-lekarza-matching-1",
+      "translation": "der Termin",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-1:meaning",
+      "translation": "Ein Treffen mit dem Arzt zu einer festen Zeit.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2",
+      "translation": "das Symptom",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2:meaning",
+      "translation": "Ein Zeichen einer Krankheit, zum Beispiel Fieber.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3",
+      "translation": "das Fieber",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3:meaning",
+      "translation": "Eine zu hohe Körpertemperatur.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4",
+      "translation": "die Anmeldung",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4:meaning",
+      "translation": "Der Ort in der Praxis, an dem man sich für den Arzt anmeldet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5",
+      "translation": "die Überweisung",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5:meaning",
+      "translation": "Ein Dokument vom Arzt für einen anderen Arzt oder für Untersuchungen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6",
+      "translation": "die Krankschreibung",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6:meaning",
+      "translation": "Ein Dokument, dass jemand krank ist und nicht arbeiten kann.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-gap-1",
+      "translation": "Ich möchte einen Termin für morgen.",
+      "answerText": "Termin"
+    },
+    {
+      "id": "pl-u-lekarza-gap-2",
+      "translation": "Seit gestern habe ich Fieber.",
+      "answerText": "Fieber"
+    },
+    {
+      "id": "pl-u-lekarza-gap-3",
+      "translation": "Bitte melden Sie sich bei der Anmeldung an.",
+      "answerText": "Anmeldung"
+    },
+    {
+      "id": "pl-u-lekarza-gap-4",
+      "translation": "Der Arzt hat mir eine Überweisung zur Blutuntersuchung gegeben.",
+      "answerText": "Überweisung"
+    },
+    {
+      "id": "pl-u-lekarza-gap-5",
+      "translation": "Ich brauche eine Krankschreibung für meinen Arbeitgeber.",
+      "answerText": "Krankschreibung"
+    },
+    {
+      "id": "pl-u-lekarza-gap-6",
+      "translation": "Welche Symptome haben Sie?",
+      "answerText": "Symptome"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-1",
+      "translation": "Mir tut der Hals weh.",
+      "answerText": "tut"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-2",
+      "translation": "Ich schlafe nachts schlecht.",
+      "answerText": "schlafe"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-3",
+      "translation": "Der Arzt misst meinen Blutdruck.",
+      "answerText": "misst"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-4",
+      "translation": "Sie müssen zwei Tage im Bett bleiben.",
+      "answerText": "bleiben"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-5",
+      "translation": "Bitte atmen Sie tief.",
+      "answerText": "atmen"
+    },
+    {
+      "id": "pl-u-lekarza-order-1",
+      "translation": "Ich habe Bauchschmerzen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-2",
+      "translation": "Wann kann ich zu einem Termin kommen?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-3",
+      "translation": "Brauche ich ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-4",
+      "translation": "Bitte kommen Sie nächste Woche.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-1",
+      "translation": "Arzt",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-2",
+      "translation": "Arztpraxis, Ambulanz",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-3",
+      "translation": "Blutdruck",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-4",
+      "translation": "Gesundheit",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-5",
+      "translation": "Bauch",
+      "answerText": null
+    }
+  ]
+}

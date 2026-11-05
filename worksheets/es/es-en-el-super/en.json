@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.233Z"
+  },
+  "title": "At the Supermarket",
+  "instructions": {
+    "es-en-el-super-matching": "Match each word with its meaning.",
+    "es-en-el-super-gap": "Choose the right word.",
+    "es-en-el-super-verbs": "Write the correct verb.",
+    "es-en-el-super-order": "Put the words in order and write the sentence.",
+    "es-en-el-super-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-en-el-super-matching-1",
+      "translation": "cart",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-1:meaning",
+      "translation": "A big basket on wheels for your shopping.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-2",
+      "translation": "checkout",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-2:meaning",
+      "translation": "The place where you pay.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-3",
+      "translation": "aisle",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-3:meaning",
+      "translation": "A long way between the shelves.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-4",
+      "translation": "receipt",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-4:meaning",
+      "translation": "A paper that shows what you bought.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-5",
+      "translation": "cashier",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-5:meaning",
+      "translation": "The person who takes the money at the checkout.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-6",
+      "translation": "bag",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-matching-6:meaning",
+      "translation": "You carry your shopping home in it.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-gap-1",
+      "translation": "I need a liter of milk.",
+      "answerText": "milk"
+    },
+    {
+      "id": "es-en-el-super-gap-2",
+      "translation": "The bread is in aisle five.",
+      "answerText": "aisle"
+    },
+    {
+      "id": "es-en-el-super-gap-3",
+      "translation": "Would you like a bag for your shopping?",
+      "answerText": "bag"
+    },
+    {
+      "id": "es-en-el-super-gap-4",
+      "translation": "Please pay at the checkout.",
+      "answerText": "checkout"
+    },
+    {
+      "id": "es-en-el-super-gap-5",
+      "translation": "Here is your receipt. Have a nice day!",
+      "answerText": "receipt"
+    },
+    {
+      "id": "es-en-el-super-gap-6",
+      "translation": "I put the apples in the cart.",
+      "answerText": "cart"
+    },
+    {
+      "id": "es-en-el-super-verbs-1",
+      "translation": "How much do the apples cost?",
+      "answerText": "cost"
+    },
+    {
+      "id": "es-en-el-super-verbs-2",
+      "translation": "I pay by card.",
+      "answerText": "pay"
+    },
+    {
+      "id": "es-en-el-super-verbs-3",
+      "translation": "We need eggs and bread.",
+      "answerText": "need"
+    },
+    {
+      "id": "es-en-el-super-verbs-4",
+      "translation": "Excuse me, where can I find the rice?",
+      "answerText": "find"
+    },
+    {
+      "id": "es-en-el-super-verbs-5",
+      "translation": "The store closes at ten.",
+      "answerText": "closes"
+    },
+    {
+      "id": "es-en-el-super-order-1",
+      "translation": "Where is the rice?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-2",
+      "translation": "I need a bag.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-3",
+      "translation": "Can I pay by card?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-order-4",
+      "translation": "The milk is in aisle three.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-1",
+      "translation": "vegetables",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-2",
+      "translation": "chicken",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-3",
+      "translation": "cheese",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-4",
+      "translation": "tortillas",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-super-spelling-5",
+      "translation": "egg",
+      "answerText": null
+    }
+  ]
+}

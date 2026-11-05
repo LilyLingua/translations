@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.692Z"
+  },
+  "title": "Erster Arbeitstag",
+  "instructions": {
+    "uk-pershyi-robochyi-den-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-pershyi-robochyi-den-gap": "Wählen Sie das richtige Wort.",
+    "uk-pershyi-robochyi-den-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-pershyi-robochyi-den-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-pershyi-robochyi-den-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-pershyi-robochyi-den-matching-1",
+      "translation": "der Kollege / die Kollegin",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-1:meaning",
+      "translation": "Eine Person, die mit Ihnen zusammenarbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-2",
+      "translation": "der Vorgesetzte / die Vorgesetzte",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-2:meaning",
+      "translation": "Die Person, die das Team leitet.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-3",
+      "translation": "die Pause",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-3:meaning",
+      "translation": "Eine kurze Zeit, in der man nicht arbeitet und sich ausruht.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-4",
+      "translation": "die Schicht",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-4:meaning",
+      "translation": "Die Arbeitszeit, zum Beispiel von sechs bis zwei.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-5",
+      "translation": "der Zugangsausweis",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-5:meaning",
+      "translation": "Eine Karte, mit der man in den Betrieb hineinkommt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-6",
+      "translation": "der Spind",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-6:meaning",
+      "translation": "Ein kleiner Schrank, in dem man seine Sachen lassen kann.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-1",
+      "translation": "Hier ist Ihr Spind. Hier können Sie Ihre Tasche hineinlegen.",
+      "answerText": "Spind"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-2",
+      "translation": "Meine Schicht beginnt um acht.",
+      "answerText": "Schicht"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-3",
+      "translation": "Vergessen Sie Ihren Ausweis am Eingang nicht.",
+      "answerText": "Ausweis"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-4",
+      "translation": "Die Mittagspause ist um zwölf.",
+      "answerText": "Mittagspause"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-5",
+      "translation": "Wenn es ein Problem gibt, wenden Sie sich an den Vorgesetzten.",
+      "answerText": "Vorgesetzten"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-6",
+      "translation": "Freut mich! Ich bin Ihr neuer Kollege.",
+      "answerText": "Kollege"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-1",
+      "translation": "Ich heiße Olena.",
+      "answerText": "heiße"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-2",
+      "translation": "Wo kann ich den Pausenraum finden?",
+      "answerText": "finden"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-3",
+      "translation": "Ich arbeite im Lager.",
+      "answerText": "arbeite"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-4",
+      "translation": "Könnten Sie mir den Weg zum Büro zeigen?",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-5",
+      "translation": "Die Besprechung beginnt um zehn.",
+      "answerText": "beginnt"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-1",
+      "translation": "Wo ist der Pausenraum?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-2",
+      "translation": "Ich bin heute den ersten Tag hier.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-3",
+      "translation": "Wann endet meine Schicht?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-4",
+      "translation": "Können Sie das noch einmal erklären?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-1",
+      "translation": "Kollege",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-2",
+      "translation": "Vorgesetzter",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-3",
+      "translation": "Ausweis",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-4",
+      "translation": "morgen",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-5",
+      "translation": "herzlich (wie in „herzlich willkommen“)",
+      "answerText": null
+    }
+  ]
+}

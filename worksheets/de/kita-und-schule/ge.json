@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.711Z"
+  },
+  "title": "საბავშვო ბაღი და სკოლა",
+  "instructions": {
+    "kita-und-schule-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "kita-und-schule-gap": "მონიშნეთ შესაფერისი სიტყვა.",
+    "kita-und-schule-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "kita-und-schule-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "kita-und-schule-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "kita-und-schule-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "მშობელთა კრება",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "მშობლებისა და მასწავლებლების შეხვედრა.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "საბავშვო ბაღი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "აქ დღის განმავლობაში პატარა ბავშვებს უვლიან.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "დამრიგებელი (ქალი)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "ის ერთ კლასზეა პასუხისმგებელი.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "ნიშნების ფურცელი (ტაბელი)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "აქ სასწავლო წლის ბოლოს ნიშნებია.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "გაცდენის ახსნა-განმარტება",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "მოკლე წერილი სკოლაში, როცა ბავშვი ავად იყო.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "არდადეგები",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "სკოლის გარეშე დრო, მაგალითად ზაფხულში.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "ექსკურსია",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "კლასი ერთად მიდის სხვა ადგილას.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "ჩემი შვილი ავადაა. დღეს სკოლაში ვერ მოვა.",
+      "answerText": "სკოლაში"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "მშობელთა კრებაზე მშობლები მასწავლებელს ესაუბრებიან.",
+      "answerText": "მშობელთა კრებაზე"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "ზაფხულში ბავშვებს ექვსკვირიანი არდადეგები აქვთ.",
+      "answerText": "არდადეგები"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "სასწავლო წლის ბოლოს ჩემი ქალიშვილი ტაბელს იღებს.",
+      "answerText": "ტაბელს"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "მასწავლებელს ახსნა-განმარტებას ვწერ, რადგან ჩემი შვილი ავად იყო.",
+      "answerText": "ახსნა-განმარტებას"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "ბავშვებმა ყოველდღე საშინაო დავალება უნდა შეასრულონ.",
+      "answerText": "საშინაო დავალება"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "ჩემი შვილი სამი წლისაა და საბავშვო ბაღში დადის.",
+      "answerText": "საბავშვო ბაღში"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "ბავშვს 16 საათზე წამოვიყვან.",
+      "answerText": "წამოვიყვან"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "ჩემი ქალიშვილი დღეს, სამწუხაროდ, ავადაა.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "შეგვიძლია შეხვედრა დავნიშნოთ?",
+      "answerText": "დავნიშნოთ"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "გაკვეთილები 8 საათზე იწყება.",
+      "answerText": "იწყება"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "გთხოვთ, ფორმას პარასკევამდე მოაწეროთ ხელი.",
+      "answerText": "მოაწეროთ"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ბავშვი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "კლასი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "მასწავლებელი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "რვეული",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "ნიშანი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "კალამი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "ჩემი შვილი დღეს ავადაა.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "როდის იწყება მშობელთა კრება?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "ქალიშვილს 15 საათზე წამოვიყვან.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "ჩემს შვილს ექსკურსიისთვის რამე სჭირდება?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "მშობელთა კრება",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "ტაბელი",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "ახსნა-განმარტება",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "საშინაო დავალება",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "დამრიგებელი",
+      "answerText": null
+    }
+  ]
+}

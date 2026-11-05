@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.227Z"
+  },
+  "title": "U lekarza",
+  "instructions": {
+    "uk-u-likaria-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-u-likaria-gap": "Wybierz właściwe słowo.",
+    "uk-u-likaria-verbs": "Wstaw właściwy czasownik.",
+    "uk-u-likaria-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-u-likaria-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-u-likaria-matching-1",
+      "translation": "wizyta",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-1:meaning",
+      "translation": "Czas, kiedy lekarz przyjmuje pacjenta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2",
+      "translation": "objaw",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2:meaning",
+      "translation": "Znak choroby, na przykład wysoka temperatura.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3",
+      "translation": "temperatura",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3:meaning",
+      "translation": "To, co mierzy się termometrem.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4",
+      "translation": "rejestracja",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4:meaning",
+      "translation": "Miejsce w przychodni, gdzie zapisuje się do lekarza.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5",
+      "translation": "skierowanie",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5:meaning",
+      "translation": "Dokument od lekarza do innego lekarza albo na badania.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6",
+      "translation": "zwolnienie lekarskie",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6:meaning",
+      "translation": "Dokument, że ktoś jest chory i nie może pracować.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-gap-1",
+      "translation": "Chcę się zapisać na wizytę do lekarza rodzinnego.",
+      "answerText": "wizytę"
+    },
+    {
+      "id": "uk-u-likaria-gap-2",
+      "translation": "Od wczoraj mam wysoką temperaturę.",
+      "answerText": "temperaturę"
+    },
+    {
+      "id": "uk-u-likaria-gap-3",
+      "translation": "Proszę zapisać się w rejestracji.",
+      "answerText": "rejestracji"
+    },
+    {
+      "id": "uk-u-likaria-gap-4",
+      "translation": "Lekarz dał mi skierowanie na badanie krwi.",
+      "answerText": "skierowanie"
+    },
+    {
+      "id": "uk-u-likaria-gap-5",
+      "translation": "Potrzebuję zwolnienia lekarskiego do pracy.",
+      "answerText": "zwolnienia"
+    },
+    {
+      "id": "uk-u-likaria-gap-6",
+      "translation": "Jakie ma Pan/Pani objawy?",
+      "answerText": "objawy"
+    },
+    {
+      "id": "uk-u-likaria-verbs-1",
+      "translation": "Boli mnie gardło.",
+      "answerText": "Boli"
+    },
+    {
+      "id": "uk-u-likaria-verbs-2",
+      "translation": "Źle śpię.",
+      "answerText": "śpię"
+    },
+    {
+      "id": "uk-u-likaria-verbs-3",
+      "translation": "Lekarz mierzy mi ciśnienie.",
+      "answerText": "mierzy"
+    },
+    {
+      "id": "uk-u-likaria-verbs-4",
+      "translation": "Musi Pan/Pani zostać w domu dwa dni.",
+      "answerText": "zostać"
+    },
+    {
+      "id": "uk-u-likaria-verbs-5",
+      "translation": "Proszę głęboko oddychać.",
+      "answerText": "oddychać"
+    },
+    {
+      "id": "uk-u-likaria-order-1",
+      "translation": "Boli mnie brzuch.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-2",
+      "translation": "Kiedy mogę przyjść na wizytę?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-3",
+      "translation": "Czy potrzebuję recepty?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-4",
+      "translation": "Proszę przyjść w przyszłym tygodniu.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-1",
+      "translation": "lekarz",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-2",
+      "translation": "przychodnia",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-3",
+      "translation": "termometr",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-4",
+      "translation": "badanie",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-5",
+      "translation": "zdrowie",
+      "answerText": null
+    }
+  ]
+}

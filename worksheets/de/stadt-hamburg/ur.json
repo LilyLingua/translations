@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ur",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:05.765Z"
+  },
+  "title": "ہیمبرگ",
+  "instructions": {
+    "stadt-hamburg-matching": "ہر لفظ کو صحیح وضاحت سے ملائیں۔",
+    "stadt-hamburg-gap": "صحیح لفظ پر نشان لگائیں۔",
+    "stadt-hamburg-verbs": "صحیح فعل کو صحیح شکل میں لکھیں۔",
+    "stadt-hamburg-table": "آرٹیکل اور جمع کی شکل لکھیں۔",
+    "stadt-hamburg-order": "الفاظ کو صحیح ترتیب میں رکھ کر جملہ لکھیں۔",
+    "stadt-hamburg-spelling": "کون سا لفظ صحیح لکھا گیا ہے؟ اس پر نشان لگائیں۔"
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"موئن!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "شمالی جرمنی کا سلام – سارا دن بولا جاتا ہے، صرف صبح نہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "بندرگاہ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "یہاں کنٹینروں والے بڑے جہاز آتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "ایلب فلہارمونی",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "بندرگاہ پر کنسرٹ ہال؛ ہیمبرگ والے اسے \"ایلفی\" کہتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"میشل\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "ہیمبرگ والے اپنے سب سے مشہور گرجا، سینٹ مائیکل، کو یہی کہتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "فرانس بروٹ شن",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "دارچینی والی میٹھی روٹی، ہیمبرگ کی خاص چیز۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "مچھلی بازار",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "دریائے ایلبے کے کنارے بازار، اتوار کی صبح بہت سویرے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"شیٹ ویٹر\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "بارش اور ہوا والے خراب موسم کے لیے شمالی لفظ۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "جہاز ایلبے پر چلتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "اتوار کو ہم سویرے مچھلی بازار جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "میں مچھلی والا سینڈوچ کھاتا ہوں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "کنسرٹ ایلب فلہارمونی میں ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "ہم جہاز سے بندرگاہ کی سیر کرتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "گرمیوں میں بہت سے لوگ آلسٹر کے کنارے بیٹھتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "اوپر سے پوری بندرگاہ نظر آتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "ہیمبرگ میں لوگ سارا دن \"موئن\" کہتے ہیں۔",
+      "answerText": "کہتے"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "بڑے کنٹینر جہاز بندرگاہ پر پہنچتے ہیں۔",
+      "answerText": "پہنچتے"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "مچھلی بازار اتوار کی صبح بہت سویرے شروع ہوتا ہے۔",
+      "answerText": "شروع"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "پھر سے بارش ہو رہی ہے – اصلی شیٹ ویٹر!",
+      "answerText": "ہو"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "ہیمبرگ اپنی جگہ ایک الگ وفاقی ریاست ہے۔",
+      "answerText": "ہے"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "بندرگاہ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "جہاز",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "پل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "نہر",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "کنسرٹ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "گرجا",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "ہیمبرگ ایلبے پر واقع ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "اتوار کو ہم سویرے مچھلی بازار جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "کیا تم کبھی ایلب فلہارمونی گئے ہو؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "ہیمبرگ میں سارا دن \"موئن\" کہا جاتا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "بندرگاہ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "جہاز",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "کنسرٹ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "بارش",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "پل",
+      "answerText": null
+    }
+  ]
+}

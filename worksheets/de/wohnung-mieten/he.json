@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.471Z"
+  },
+  "title": "לשכור דירה",
+  "instructions": {
+    "wohnung-mieten-matching": "חברו כל מילה להסבר המתאים.",
+    "wohnung-mieten-gap": "סמנו את הצורה הנכונה של מילית היידוע.",
+    "wohnung-mieten-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "wohnung-mieten-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "wohnung-mieten-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "wohnung-mieten-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "שכר דירה",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "הכסף שמשלמים כל חודש על הדירה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "פיקדון",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "כסף שבעל הדירה מקבל בהתחלה כביטחון.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "הוצאות נלוות",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "הוצאות על מים, חימום ואשפה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "חוזה שכירות",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "החוזה בין השוכר לבעל הדירה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "צפייה בדירה",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "רואים את הדירה לפני ששוכרים אותה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "אב הבית",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "הוא דואג לבניין ומתקן דברים קטנים.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "תקנון הבית",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "הכללים לכל הדיירים, למשל שעות השקט.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "אנחנו מחפשים דירה עם מרפסת.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "אני מדבר עם בעל הדירה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "אני נותן לבעלת הדירה את הפיקדון.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "את האופניים אני מעמיד בחצר.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "המפתח נמצא על השולחן.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "החימום במטבח מקולקל.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "אני גר בדירה הזאת כבר שנה.",
+      "answerText": "הזאת"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "מתי אפשר לראות את הדירה?",
+      "answerText": "לראות"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "שכר הדירה עולה 850 יורו כולל הוצאות.",
+      "answerText": "עולה"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "אנחנו נכנסים לדירה ב־1 בדצמבר.",
+      "answerText": "נכנסים"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "החימום מקולקל. אתה יכול לתקן אותו, בבקשה?",
+      "answerText": "לתקן"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "נא להפריד את האשפה.",
+      "answerText": "להפריד"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "חדר",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "מטבח",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "מרפסת",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "חדר אמבטיה",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "מפתח",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "חימום",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "הדירה עדיין פנויה?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "כמה גבוהות ההוצאות הנלוות?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "מתי אפשר לראות את הדירה?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "הייתי רוצה לשכור את הדירה.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "פיקדון",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "הוצאות נלוות",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "מרפסת",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "מפתח",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "חימום",
+      "answerText": null
+    }
+  ]
+}

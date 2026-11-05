@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:59.719Z"
+  },
+  "title": "ฮันโนเฟอร์",
+  "instructions": {
+    "stadt-hannover-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-hannover-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-hannover-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-hannover-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-hannover-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-hannover-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "นิทรรศการใหญ่สำหรับบริษัท ฮันโนเฟอร์มีศูนย์แสดงสินค้าขนาดยักษ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "ทะเลสาบมัชเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "ทะเลสาบที่สร้างขึ้นในเมือง ไว้แล่นเรือใบ วิ่งออกกำลังกาย และจัดงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "ด้ายแดง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "เส้นสีแดงบนพื้น พาไปยังสถานที่ท่องเที่ยว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "ภาษาเยอรมันมาตรฐาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "ภาษามาตรฐาน ที่ฮันโนเฟอร์พูดชัดเป็นพิเศษ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "\"ลึทเยอ ลาเกอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "เบียร์และเหล้าในสองแก้วที่ดื่มพร้อมกัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "เทศกาลนักแม่นปืน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "เทศกาลพื้นบ้านใหญ่มากในฤดูร้อน มีขบวนแห่ยาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "\"นานา\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "รูปปั้นผู้หญิงหลากสีขนาดใหญ่ริมแม่น้ำไลเนอ ผลงานของนีกี เดอ แซ็งฟาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "พวกเราเดินตามด้ายแดงไปทั่วเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "ฤดูร้อนคนมากมายวิ่งรอบทะเลสาบมัชเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "บริษัทนั้นออกบูธในงานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "พวกเรานั่งลิฟต์ขึ้นไปที่โดมของศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "รูปปั้นนานาตั้งอยู่ริมแม่น้ำไลเนอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "พวกเราไปเที่ยวสวนแฮร์เรินเฮาเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "เขาลองดื่มลึทเยอ ลาเกอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "ด้ายแดงพาไปยังสถานที่ท่องเที่ยวมากมาย",
+      "answerText": "พา"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "ในศาลาว่าการใหม่ ลิฟต์แบบเอียงขึ้นไปถึงโดม",
+      "answerText": "ขึ้น"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "บริษัทมากมายจัดแสดงสินค้าในงานแสดงสินค้า",
+      "answerText": "จัดแสดง"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "คนฮันโนเฟอร์พูดภาษาเยอรมันมาตรฐานชัดมาก",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "ปี 2000 งานมหกรรมโลกเอ็กซ์โปจัดขึ้นที่ฮันโนเฟอร์",
+      "answerText": "จัดขึ้น"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "สวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "ด้าย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "รูปปั้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "ศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "ลิฟต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "ด้ายแดงผ่านใจกลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "ฤดูร้อนคนมากมายแล่นเรือใบบนทะเลสาบมัชเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "คุณจะนั่งลิฟต์ขึ้นไปที่โดมไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "ที่ฮันโนเฟอร์พูดภาษาเยอรมันมาตรฐานชัดเจน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "งานแสดงสินค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "สถานที่ท่องเที่ยว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "ลิฟต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "รูปปั้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "โดม",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:39.442Z"
+  },
+  "title": "Colônia",
+  "instructions": {
+    "stadt-koeln-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-koeln-gap": "Marque a palavra certa.",
+    "stadt-koeln-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-koeln-table": "Complete o artigo e o plural.",
+    "stadt-koeln-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-koeln-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"Kölle Alaaf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Grito do carnaval de Colônia – mais ou menos \"Viva Colônia!\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "a catedral",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Igreja grande com duas torres bem ao lado da estação central.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "a \"Kölsch\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Cerveja clara de Colônia; bebe-se em copos pequenos e estreitos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "o \"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Garçom da cervejaria; ele traz uma Kölsch nova até você colocar o porta-copos em cima do copo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "o \"Halve Hahn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Pãozinho de centeio com queijo – não é meio frango!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "o \"Veedel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Palavra em kölsch para bairro; todo morador de Colônia ama seu Veedel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "a segunda-feira de carnaval (Rosenmontag)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Ponto alto do carnaval, com um grande desfile pela cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Ele bebe uma Kölsch na cervejaria.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "O Köbes traz a próxima Kölsch.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Na segunda-feira de carnaval vemos o desfile pela cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Muitos turistas visitam a Catedral de Colônia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Peço um Halve Hahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Muita gente passeia pela ponte Hohenzollern.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "No carnaval a gente usa uma fantasia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "No carnaval as pessoas gritam \"Kölle Alaaf!\".",
+      "answerText": "gritam"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "O Köbes traz uma Kölsch nova sem perguntar.",
+      "answerText": "traz"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "A catedral tem mais de 150 metros de altura.",
+      "answerText": "tem"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "O Reno passa bem pelo meio de Colônia.",
+      "answerText": "passa"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "No dia 11/11, às 11h11, começa o carnaval.",
+      "answerText": "começa"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "a catedral",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "a ponte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "o copo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "o desfile",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "a fantasia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "o bar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "A Catedral de Colônia fica bem ao lado da estação.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Na segunda-feira de carnaval, Colônia inteira celebra o carnaval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Quer mais uma Kölsch?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "Em Colônia se bebe Kölsch em copos pequenos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "o carnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "a fantasia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "a estação",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "o bar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "o copo",
+      "answerText": null
+    }
+  ]
+}

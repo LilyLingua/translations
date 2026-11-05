@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Apteegis",
+  "instructions": {
+    "in-der-apotheke-matching": "Ühendage iga sõna õige selgitusega.",
+    "in-der-apotheke-gap": "Märkige õige sõna.",
+    "in-der-apotheke-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "in-der-apotheke-table": "Kirjutage artikkel (der/die/das) ja mitmuse vorm.",
+    "in-der-apotheke-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "in-der-apotheke-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "retsept",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Paber arstilt ravimi saamiseks.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tablett",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Väike ravim, mille te alla neelate.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "köhasiirup",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Vedel ravim köha vastu.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "salv",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Seda määritakse nahale.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "kõrvaltoime",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Ravimi soovimatu toime.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "pakendi infoleht",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Paberileht ravimikarbis, kus on kogu info.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "omaosalus",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Retsepti eest maksate ise väikese summa.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Mul on oma arstilt retsept.",
+      "answerText": "retsept"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Kas teil on midagi kurguvalu vastu?",
+      "answerText": "kurguvalu"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Võtke kaks tabletti päevas.",
+      "answerText": "tabletti"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Salv on naha jaoks.",
+      "answerText": "naha"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Palun lugege pakendi infolehte.",
+      "answerText": "infolehte"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Ravimil on vaevu kõrvaltoimeid.",
+      "answerText": "kõrvaltoimeid"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Nädalavahetusel on üks apteek valves.",
+      "answerText": "apteek"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Mul on eilsest saati köha.",
+      "answerText": "on"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Kui tihti ma pean tablette võtma?",
+      "answerText": "võtma"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Me tellime ravimi homseks.",
+      "answerText": "tellime"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Määrige salvi kaks korda päevas.",
+      "answerText": "Määrige"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Palun jooge palju vett.",
+      "answerText": "jooge"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "apteek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "ravim",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "salv",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plaaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "pakk",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "tilk",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Kas teil on midagi köha vastu?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Kui tihti ma pean tablette võtma?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Mul on vaja ravimit peavalu vastu.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Kas ma vajan selle jaoks retsepti?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "apteek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "ravim",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plaaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "kõrvaltoime",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "köha",
+      "answerText": null
+    }
+  ]
+}

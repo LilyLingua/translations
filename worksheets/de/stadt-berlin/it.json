@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:45.891Z"
+  },
+  "title": "Berlino",
+  "instructions": {
+    "stadt-berlin-matching": "Collega ogni parola alla spiegazione giusta.",
+    "stadt-berlin-gap": "Segna la parola giusta.",
+    "stadt-berlin-verbs": "Inserisci il verbo giusto nella forma giusta.",
+    "stadt-berlin-table": "Completa l'articolo e il plurale.",
+    "stadt-berlin-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "stadt-berlin-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "la capitale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "La città più importante di un paese; qui lavora il governo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "la Porta di Brandeburgo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Famoso simbolo con un carro e quattro cavalli in cima.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "il Muro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "Ha diviso Berlino in Est e Ovest fino al 1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "lo «Späti»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Piccolo negozio aperto fino a tarda notte.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "la «Schrippe»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "Così a Berlino si chiama il panino.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "il «Pfannkuchen»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "A Berlino: un dolce rotondo ripieno di marmellata.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "il «Kiez»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "Così i berlinesi chiamano il loro quartiere.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Facciamo una foto alla Porta di Brandeburgo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "La torre della televisione è vicino ad Alexanderplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "La Sprea attraversa la città.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "Compro una bibita allo Späti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "Fino al 1989 il Muro era in mezzo alla città.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "Dal fornaio ordino una Schrippe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "Abito in questo quartiere da tre anni.",
+      "answerText": "questo"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "Il 9 novembre 1989 il Muro è caduto.",
+      "answerText": "caduto"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Il governo lavora a Berlino.",
+      "answerText": "lavora"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Molti turisti visitano la East Side Gallery.",
+      "answerText": "visitano"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "Lo Späti è aperto fino a tarda notte.",
+      "answerText": "è"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "Con la Ringbahn si gira in cerchio intorno al centro.",
+      "answerText": "gira"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "la porta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "il muro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "il distretto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "il ponte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "il museo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "il negozio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Berlino è la capitale della Germania.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Il Muro è caduto nel 1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Hai già mangiato una currywurst?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "Lo Späti è aperto fino a tarda notte.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "capitale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "governo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "panino",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "simbolo della città",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "torre della televisione",
+      "answerText": null
+    }
+  ]
+}

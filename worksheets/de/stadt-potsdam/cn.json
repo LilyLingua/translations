@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:03.697Z"
+  },
+  "title": "波茨坦",
+  "instructions": {
+    "stadt-potsdam-matching": "把每个词和正确的解释连起来。",
+    "stadt-potsdam-gap": "勾出正确的词。",
+    "stadt-potsdam-verbs": "用正确形式填入正确的动词。",
+    "stadt-potsdam-table": "填写冠词和复数形式。",
+    "stadt-potsdam-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-potsdam-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "无忧宫",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "腓特烈大帝的宫殿；“Sanssouci”是法语，意思是“无忧无虑”。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "“老弗里茨”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "普鲁士国王腓特烈二世的外号。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "土豆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "老弗里茨让土豆在普鲁士流行起来；人们在他的墓上放土豆。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "荷兰区",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "有荷兰风格红砖房子的街区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "巴贝尔斯贝格",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "这里有大型电影制片厂，拍了很多电影。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "格利尼克桥",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "通往柏林的桥；冷战时期在这里交换间谍。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "哈弗尔河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "波茨坦周围有很多湖的河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "我们参观无忧宫。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "老弗里茨的墓上放着土豆。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "我们在荷兰区散步。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "在巴贝尔斯贝格他们正在拍一部新电影。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "我们在哈弗尔河上坐船游览。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "波茨坦就在首都柏林旁边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "格利尼克桥横跨哈弗尔河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "腓特烈大帝喜欢住在无忧宫。",
+      "answerText": "喜欢"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "游客们在他的墓上放土豆。",
+      "answerText": "放"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "在巴贝尔斯贝格拍摄了很多电影。",
+      "answerText": "拍摄"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "坐城铁很快就能到柏林。",
+      "answerText": "到"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "1945年波茨坦会议在塞西林霍夫宫举行。",
+      "answerText": "举行"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "宫殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "国王",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "土豆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "制片厂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "电影",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "墓",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "老弗里茨住在无忧宫。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "他的墓上总是放着土豆。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "你去过巴贝尔斯贝格电影公园吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "波茨坦就在柏林旁边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "国王",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "土豆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "宫殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "电影",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "花园",
+      "answerText": null
+    }
+  ]
+}

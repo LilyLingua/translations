@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:56.721Z"
+  },
+  "title": "ชตุทการ์ท",
+  "instructions": {
+    "stadt-stuttgart-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-stuttgart-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-stuttgart-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-stuttgart-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-stuttgart-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-stuttgart-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-stuttgart-matching-1",
+      "translation": "\"เค็สเซิล\" (หม้อ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-1:meaning",
+      "translation": "ชตุทการ์ทตั้งอยู่ในหุบเขา ล้อมรอบด้วยเนินเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2",
+      "translation": "\"แคร์โวเคอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2:meaning",
+      "translation": "สัปดาห์นี้คุณต้องทำความสะอาดบันไดในตึกและทางเท้าหน้าตึก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3",
+      "translation": "ชเปทซ์เลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3:meaning",
+      "translation": "เส้นพาสต้าแบบชวาเบิน มักกินกับชีสเรียกว่าเคเซอชเปทซ์เลอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4",
+      "translation": "เมาล์ทัสเชอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4:meaning",
+      "translation": "แป้งห่อชิ้นใหญ่ไส้เนื้อและผักโขม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5",
+      "translation": "\"ชเต็ฟเฟเลอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5:meaning",
+      "translation": "คนชตุทการ์ทเรียกบันไดจำนวนมากบนเนินเขาแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6",
+      "translation": "\"วาเซิน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6:meaning",
+      "translation": "ลานกว้างในบาดคันชตัท ฤดูใบไม้ร่วงมีงานเทศกาลพื้นบ้านที่นั่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7",
+      "translation": "\"อาเดอ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7:meaning",
+      "translation": "ภาษาชวาเบินแปลว่า \"บ๊ายบาย!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-1",
+      "translation": "ชตุทการ์ทตั้งอยู่ในหุบเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-2",
+      "translation": "สัปดาห์นี้เป็นเวรแคร์โวเคอของฉัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-3",
+      "translation": "ฉันชอบกินเคเซอชเปทซ์เลอกับสลัด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-4",
+      "translation": "หอโทรทัศน์ตั้งอยู่บนเนินเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-5",
+      "translation": "ฤดูใบไม้ร่วงพวกเราไปวาเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-6",
+      "translation": "คนจำนวนมากทำงานในอุตสาหกรรมรถยนต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-7",
+      "translation": "ในพิพิธภัณฑ์ ฉันเห็นรถเมอร์เซเดสคันเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-verbs-1",
+      "translation": "ที่ชตุทการ์ท มีการผลิตรถเมอร์เซเดส-เบนซ์และปอร์เช่",
+      "answerText": "ผลิต"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-2",
+      "translation": "ช่วงแคร์โวเคอ ฉันทำความสะอาดบันได",
+      "answerText": "ทำความสะอาด"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-3",
+      "translation": "กลางเมือง องุ่นเติบโตบนเนินเขา",
+      "answerText": "เติบโต"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-4",
+      "translation": "ตั้งแต่ปี 1956 หอโทรทัศน์ตั้งตระหง่านอยู่เหนือเมือง",
+      "answerText": "ตั้งตระหง่าน"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-5",
+      "translation": "ชาวชวาเบินพูดว่า \"อาเดอ\" เวลาลา",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-stuttgart-table-1",
+      "translation": "หุบเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-2",
+      "translation": "เนินเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-3",
+      "translation": "บันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-4",
+      "translation": "เส้นพาสต้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-5",
+      "translation": "รถยนต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-6",
+      "translation": "ไร่องุ่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-1",
+      "translation": "ชตุทการ์ทตั้งอยู่ในแอ่งกระทะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-2",
+      "translation": "สัปดาห์นี้เป็นเวรแคร์โวเคอของฉัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-3",
+      "translation": "คุณชอบกินเมาล์ทัสเชินไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-4",
+      "translation": "ตั้งแต่ปี 1956 หอโทรทัศน์ตั้งตระหง่านอยู่เหนือเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-1",
+      "translation": "บันได",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-2",
+      "translation": "เส้นพาสต้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-3",
+      "translation": "เทศกาลพื้นบ้าน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-4",
+      "translation": "ไวน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-5",
+      "translation": "เนินเขา",
+      "answerText": null
+    }
+  ]
+}

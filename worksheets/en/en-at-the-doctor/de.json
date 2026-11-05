@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.911Z"
+  },
+  "title": "Beim Arzt",
+  "instructions": {
+    "en-at-the-doctor-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-at-the-doctor-gap": "Wähle das richtige Wort.",
+    "en-at-the-doctor-verbs": "Setze das richtige Verb ein.",
+    "en-at-the-doctor-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-at-the-doctor-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-at-the-doctor-matching-1",
+      "translation": "der Termin",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-1:meaning",
+      "translation": "Eine feste Zeit, zu der du zum Arzt gehst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2",
+      "translation": "das Symptom",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2:meaning",
+      "translation": "Ein Zeichen, dass du krank bist, zum Beispiel Fieber.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3",
+      "translation": "das Fieber",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3:meaning",
+      "translation": "Eine zu hohe Körpertemperatur.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4",
+      "translation": "das Wartezimmer",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4:meaning",
+      "translation": "Der Raum, in dem du wartest, bevor du zum Arzt gehst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5",
+      "translation": "die Versichertenkarte",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5:meaning",
+      "translation": "Die Karte, die zeigt, wie du krankenversichert bist.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6",
+      "translation": "die Krankmeldung",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6:meaning",
+      "translation": "Ein Papier vom Arzt, dass du nicht arbeiten kannst.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-gap-1",
+      "translation": "Ich möchte einen Termin für morgen machen.",
+      "answerText": "Termin"
+    },
+    {
+      "id": "en-at-the-doctor-gap-2",
+      "translation": "Ich habe seit gestern Fieber.",
+      "answerText": "Fieber"
+    },
+    {
+      "id": "en-at-the-doctor-gap-3",
+      "translation": "Bitte nehmen Sie im Wartezimmer Platz.",
+      "answerText": "Wartezimmer"
+    },
+    {
+      "id": "en-at-the-doctor-gap-4",
+      "translation": "Haben Sie Ihre Versichertenkarte dabei?",
+      "answerText": "Versichertenkarte"
+    },
+    {
+      "id": "en-at-the-doctor-gap-5",
+      "translation": "Ich brauche eine Krankmeldung für meinen Arbeitgeber.",
+      "answerText": "Krankmeldung"
+    },
+    {
+      "id": "en-at-the-doctor-gap-6",
+      "translation": "Welche Symptome haben Sie?",
+      "answerText": "Symptome"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-1",
+      "translation": "Mein Hals tut weh.",
+      "answerText": "tut"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-2",
+      "translation": "Ich fühle mich sehr müde.",
+      "answerText": "fühle"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-3",
+      "translation": "Der Arzt misst meinen Blutdruck.",
+      "answerText": "misst"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-4",
+      "translation": "Sie sollten zwei Tage im Bett bleiben.",
+      "answerText": "bleiben"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-5",
+      "translation": "Bitte atmen Sie tief ein.",
+      "answerText": "atmen"
+    },
+    {
+      "id": "en-at-the-doctor-order-1",
+      "translation": "Ich habe Halsschmerzen.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-2",
+      "translation": "Wann kann ich vorbeikommen?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-3",
+      "translation": "Brauche ich ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-4",
+      "translation": "Bitte kommen Sie nächste Woche wieder.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-1",
+      "translation": "Termin",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-2",
+      "translation": "Temperatur",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-3",
+      "translation": "Magen",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-4",
+      "translation": "Versicherung",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-5",
+      "translation": "Arzt",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ቤት መከራየት",
+  "instructions": {
+    "wohnung-mieten-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያገናኙ።",
+    "wohnung-mieten-gap": "የአርቲክሉን ትክክለኛ ቅጽ ምልክት ያድርጉበት።",
+    "wohnung-mieten-verbs": "ትክክለኛውን ግስ በትክክለኛው ቅጽ ይሙሉ።",
+    "wohnung-mieten-table": "አርቲክሉን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "wohnung-mieten-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "wohnung-mieten-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "የቤት ኪራዩ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "በየወሩ ለቤቱ የሚከፍሉት ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "የዋስትና ገንዘቡ (ማስያዣው)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "አከራዩ በመጀመሪያ እንደ ዋስትና የሚቀበለው ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "ተጨማሪ ወጪዎቹ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "ለውሃ፣ ለማሞቂያና ለቆሻሻ የሚወጡ ወጪዎች።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "የኪራይ ውሉ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "በተከራዩና በአከራዩ መካከል ያለው ውል።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "የቤት ጉብኝቱ (ቤቱን ማየት)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "ቤቱን ከመከራየትዎ በፊት ያዩታል።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "የሕንጻው ተንከባካቢ (Hausmeister)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "ሕንጻውን ይንከባከባል፣ ትንንሽ ነገሮችንም ይጠግናል።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "የሕንጻው ደንቦች (Hausordnung)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "ለሁሉም ነዋሪዎች የሚሆኑ ደንቦች፣ ለምሳሌ የጸጥታ ሰዓቶች።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "በረንዳ ያለው ቤት እየፈለግን ነው።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "ከአከራዩ ጋር እየተነጋገርኩ ነው።",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "ለአከራይዋ የዋስትና ገንዘቡን እሰጣታለሁ።",
+      "answerText": ""
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "ብስክሌቱን በግቢው ውስጥ አስቀምጣለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "ቁልፉ በጠረጴዛው ላይ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "በኩሽናው ውስጥ ያለው ማሞቂያ ተበላሽቷል።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "በዚህ ቤት ውስጥ ለአንድ ዓመት ኖሬያለሁ።",
+      "answerText": "በዚህ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "ቤቱን መቼ ማየት እችላለሁ?",
+      "answerText": "ማየት"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "የቤት ኪራዩ ተጨማሪ ወጪዎችን ጨምሮ 850 ዩሮ ያስከፍላል።",
+      "answerText": "ያስከፍላል"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "ዲሴምበር 1 ቀን ወደ ቤቱ እንገባለን።",
+      "answerText": "እንገባለን"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "ማሞቂያው ተበላሽቷል። እባክዎ ሊጠግኑት ይችላሉ?",
+      "answerText": "ሊጠግኑት"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "እባክዎ ቆሻሻውን ለይተው ያስቀምጡ።",
+      "answerText": "ለይተው"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ክፍሉ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "ኩሽናው",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "በረንዳው",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "መታጠቢያ ቤቱ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "ቁልፉ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "ማሞቂያው",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "ቤቱ አሁንም ክፍት (የሚከራይ) ነው?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "ተጨማሪ ወጪዎቹ ምን ያህል ናቸው?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "ቤቱን መቼ ማየት እችላለሁ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "ቤቱን መከራየት እፈልጋለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "የዋስትና ገንዘብ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "ተጨማሪ ወጪዎች",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "በረንዳ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "ቁልፍ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "ማሞቂያ",
+      "answerText": null
+    }
+  ]
+}

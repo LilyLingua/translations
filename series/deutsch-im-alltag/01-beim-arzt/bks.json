@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Želio bih zakazati termin."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Da, izvolite moju karticu."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Možete li to, molim vas, reći sporije?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Imam glavobolju i temperaturu."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Boli me stomak."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Od prije tri dana."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "udahnuti – izdahnuti"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Alergičan sam na penicilin."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Treba mi bolovanje."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Tri puta dnevno nakon jela."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Bolestan si. Moraš kod doktora. Ali … na njemačkom?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "O ne. Kod doktora sam prošli put rekao: „Ich bin Kopfschmerzen.“ (Ja sam glavobolja.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Upravo zato smo danas ovdje. Prolaziš cijelu posjetu doktoru – od prvog poziva do recepta."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "I u svakoj situaciji te pitamo: Šta kažeš?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "I imaš samo pet sekundi!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Zoveš ordinaciju. Neko se javi."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Ordinacija dr. Yilmaz, Schulz na telefonu. Kako vam mogu pomoći?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Ja hoću doktor. Sada."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Dobar dan, želio bih zakazati termin."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Halo, bolestan sam. Ćao."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (Želio bih …) je pristojno i uvijek odgovara."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Hoću) preko telefona brzo zvuči neljubazno."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Dobar dan, želio bih zakazati termin."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Rado. Odgovara li vam danas u deset sati?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Želio bih zakazati termin."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Dolaziš u ordinaciju. Na prijemu te pitaju:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Imate li karticu zdravstvenog osiguranja kod sebe?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Ne, ja sam osiguran ne."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Da, gladan sam."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Da, izvolite moju karticu."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! „Versichertenkarte“ – neki kažu i „Gesundheitskarte“ ili „Krankenkassenkarte“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "Uvijek je to ista kartica. Nosi je na svaki pregled."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Da, izvolite moju karticu."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Hvala lijepa."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Da, izvolite moju karticu."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "Žena govori jako brzo. Ne razumiješ sve."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Molim vas, popunite obrazac i onda sjednite u čekaonicu."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Izvinite, možete li to, molim vas, reći sporije?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Šta?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Ponijet ću stolicu sa sobom."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Šta?) zvuči nepristojno. Ovo pitanje te spašava svuda: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Kraće ide i: „Wie bitte?“ (Molim?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Izvinite, možete li to, molim vas, reći sporije?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Naravno. Molim vas, popunite ovaj obrazac. Onda čekajte tamo u čekaonici."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Možete li to, molim vas, reći sporije?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Kod doktora si u ordinaciji. On pita:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Dobar dan. Šta vam fali?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Ništa mi ne fali, hvala."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Imam glavobolju i temperaturu."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Ja sam glavobolja."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Pažnja: „Was fehlt Ihnen?“ ne znači „Šta nemate?“, nego „Šta vas muči?“"
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Ko kaže „Mir fehlt nichts“, zdrav je – i zapravo mu nije mjesto kod doktora."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Imam glavobolju i temperaturu."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Oh, žao mi je."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Imam glavobolju i temperaturu."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Imate li i bolove u stomaku? Gdje vas boli?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Boli te stomak. Šta kažeš?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Ja bolim u stomaku."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Stomak je boli."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Evo, boli me stomak."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Ovako ide: dio tijela plus „tut weh“ (boli). Za više: „Meine Füße tun weh.“ (Bole me stopala.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Evo, boli me stomak."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Boli me stomak."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Bole me stopala."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Od kada imate tegobe?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Prije tri dana dugo."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Od tri dan (bez pravog nastavka)."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Od prije tri dana."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! Poslije „seit“ (od) dolazi dativ – zato „Tagen“ sa n. Isto tako: „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(sedmicu dana), „seit gestern“ (od jučer)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Od prije tri dana."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Od prije tri dana."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Već sedmicu dana."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Poslušat ću vas. Molim vas, skinite se do pojasa."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Šta sada radiš?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Skidaš džemper i majicu."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Skidaš pantalone."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Ideš kući – pa slobodan si."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Dakle … C, zar ne? Slobodan sam – idem kući!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Ne, Leo. A! „Oberkörper“ je gornji dio tijela. „Frei machen“ ovdje znači: skinuti se."
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "Onda često čuješ: „Tief einatmen … und ausatmen.“ (Duboko udahnite … i izdahnite.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Duboko udahnite … i izdahnite. Dobro."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "udahnuti – izdahnuti"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Jeste li alergični na nešto?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Da, alergičan sam za penicilin."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Da, alergičan sam na penicilin."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Ne volim baš penicilin."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Alergičan si „gegen“ (na) nešto. A ako nemaš alergiju: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Ne, nemam alergija.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Da, alergičan sam na penicilin."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Dobro da ste to rekli. Onda dobijate nešto drugo."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Alergičan sam na penicilin."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Nemam alergija."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Sutra ne možeš raditi. Doktor pita:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Treba li vam bolovanje?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Šta kažeš?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Ne, pišem sam."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Da, pišem bolestan."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Da, molim. Za mog poslodavca."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! „Krankschreibung“ (bolovanje) pokazuje: bolestan si i ne možeš raditi."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Važno: ipak sam javi poslodavcu – najbolje prvog dana, rano ujutro."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Da, molim. Za mog poslodavca."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Dajem vam bolovanje do petka."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Treba mi bolovanje."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Pišem vam recept. Uzimajte tablete tri puta dnevno nakon jela."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Slušaj pažljivo! Kada uzimaš tablete?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Jednom dnevno, prije spavanja."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Ujutro, u podne i navečer – nakon jela."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Tri puta dnevno – prije jela."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ znači tri puta dnevno. A „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– dakle prvo jesti, onda tableta."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Hvala lijepa. Doviđenja!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Brzo ozdravite!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – to se kaže bolesnim ljudima. Znači: brzo ozdravi!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Ponovi za mnom!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Tri puta dnevno nakon jela."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Brzo ozdravite!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "A ako je ordinacija zatvorena? Zapamti dva broja."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: dežurna ljekarska služba – kad ti noću ili vikendom treba doktor, ali nije hitan slučaj."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "I 112: hitni poziv – za hitnu pomoć i vatrogasce, na primjer nakon nesreće ili kod jakog gušenja."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "Na kursu učiš lijepe rečenice. Ali šta Nijemci zaista kažu?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Boli me grlo."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Grebe me grlo."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Bolestan sam."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Uhvatilo me."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Zarazio sam se."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Pokupio sam nešto."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Jako sam umoran i slab."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Totalno sam iscrpljen."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Boli me leđa."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Leđa me muče."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, ja sam tako hladan!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … pa ti nisi hladan čovjek. Misliš: „Mir ist kalt.“ (Hladno mi je.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "I pažnja: „Mir ist schlecht“ ne znači „Nije mi dobro“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Znači: muka mi je, možda ću povraćati."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Gripa ili prehlada? Kijavica i kašalj su uglavnom prehlada („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Gripa („Grippe“) je mnogo gora: visoka temperatura, ležiš u krevetu."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "A sada sve još jednom. Deset najvažnijih rečenica. Ponovi za mnom!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Želio bih zakazati termin."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Izvolite moju karticu."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Možete li to, molim vas, reći sporije?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Imam glavobolju i temperaturu."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Boli me stomak."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Od prije tri dana."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Alergičan sam na penicilin."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Treba mi bolovanje."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Tri puta dnevno nakon jela."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Brzo ozdravite!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Koja situacija ti je bila najteža? Napiši u komentarima!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Sljedeći put idemo u općinu. Tamo mi stvarno treba pomoć."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "Vidimo se uskoro na LilyLingua!"
+    }
+  ]
+}

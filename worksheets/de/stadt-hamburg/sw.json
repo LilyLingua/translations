@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:37.707Z"
+  },
+  "title": "Hamburg",
+  "instructions": {
+    "stadt-hamburg-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-hamburg-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-hamburg-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-hamburg-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-hamburg-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-hamburg-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"Moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Salamu ya Kaskazini mwa Ujerumani – husemwa siku nzima, si asubuhi tu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "bandari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Meli kubwa zenye makontena hufika hapa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Ukumbi wa tamasha bandarini; watu wa Hamburg huuita \"Elphi\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"Michel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Hivi ndivyo watu wa Hamburg wanavyoita kanisa lao maarufu zaidi, la Mtakatifu Mikaeli.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Mkate mtamu wenye mdalasini, wa kawaida Hamburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "soko la samaki",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Soko kando ya mto Elbe, mapema sana Jumapili asubuhi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"Schietwetter\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "Neno la Kaskazini kwa hali mbaya ya hewa yenye mvua na upepo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Meli zinasafiri kwenye mto Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "Jumapili tunaenda mapema kwenye soko la samaki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Ninakula sandwichi ya samaki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "Tamasha liko Elbphilharmonie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Tunazunguka bandari kwa meli.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "Wakati wa kiangazi watu wengi huketi kando ya Alster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Kutoka juu unaona bandari yote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "Hamburg watu husema \"Moin\" siku nzima.",
+      "answerText": "husema"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Meli kubwa za makontena zinafika bandarini.",
+      "answerText": "zinafika"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "Soko la samaki linaanza mapema sana Jumapili asubuhi.",
+      "answerText": "linaanza"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "Mvua inanyesha tena – Schietwetter halisi!",
+      "answerText": "inanyesha"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Hamburg ni jimbo lenyewe.",
+      "answerText": "ni"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "bandari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "meli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "daraja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "mfereji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "tamasha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "kanisa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Hamburg iko kando ya mto Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "Jumapili tunaenda mapema kwenye soko la samaki.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Umeshawahi kwenda Elbphilharmonie?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "Hamburg watu husema \"Moin\" siku nzima.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "bandari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "meli",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "tamasha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "mvua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "daraja",
+      "answerText": null
+    }
+  ]
+}

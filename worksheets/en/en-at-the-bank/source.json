@@ -1,0 +1,268 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "3d2dc5a7-ea1d-474b-a4d6-690187d53986",
+    "level": "A2"
+  },
+  "title": "At the Bank",
+  "topic": "Opening an account, using a card and sending money",
+  "tasks": [
+    {
+      "id": "en-at-the-bank-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-at-the-bank-matching-1",
+          "term": "the bank account",
+          "meaning": "A place at the bank where your money is kept."
+        },
+        {
+          "id": "en-at-the-bank-matching-2",
+          "term": "the debit card",
+          "meaning": "A card you use to pay with money from your account."
+        },
+        {
+          "id": "en-at-the-bank-matching-3",
+          "term": "the PIN",
+          "meaning": "A secret number for your card."
+        },
+        {
+          "id": "en-at-the-bank-matching-4",
+          "term": "the ATM",
+          "meaning": "A machine where you can take out cash."
+        },
+        {
+          "id": "en-at-the-bank-matching-5",
+          "term": "the transfer",
+          "meaning": "When you send money from your account to another account."
+        },
+        {
+          "id": "en-at-the-bank-matching-6",
+          "term": "the balance",
+          "meaning": "How much money is in your account."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-at-the-bank-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-at-the-bank-gap-1",
+          "promptBefore": "I would like to open a bank",
+          "promptAfter": ".",
+          "correctAnswer": "account",
+          "options": [
+            "account",
+            "balance",
+            "machine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-bank-gap-2",
+          "promptBefore": "Please enter your",
+          "promptAfter": ".",
+          "correctAnswer": "PIN",
+          "options": [
+            "PIN",
+            "balance",
+            "transfer"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-bank-gap-3",
+          "promptBefore": "Where is the nearest",
+          "promptAfter": "?",
+          "correctAnswer": "ATM",
+          "options": [
+            "ATM",
+            "PIN",
+            "balance"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-bank-gap-4",
+          "promptBefore": "I want to make a",
+          "promptAfter": "to my landlord.",
+          "correctAnswer": "transfer",
+          "options": [
+            "transfer",
+            "PIN",
+            "balance"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-bank-gap-5",
+          "promptBefore": "How can I check my",
+          "promptAfter": "?",
+          "correctAnswer": "balance",
+          "options": [
+            "balance",
+            "ATM",
+            "transfer"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-bank-gap-6",
+          "promptBefore": "My",
+          "promptAfter": "card is not working.",
+          "correctAnswer": "debit",
+          "options": [
+            "debit",
+            "balance",
+            "transfer"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-at-the-bank-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-at-the-bank-verbs-1",
+          "promptBefore": "I",
+          "promptAfter": "to open an account.",
+          "correctAnswer": "want",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "want"
+        },
+        {
+          "id": "en-at-the-bank-verbs-2",
+          "promptBefore": "Can I",
+          "promptAfter": "cash here?",
+          "correctAnswer": "withdraw",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "withdraw"
+        },
+        {
+          "id": "en-at-the-bank-verbs-3",
+          "promptBefore": "Please",
+          "promptAfter": "this form.",
+          "correctAnswer": "sign",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sign"
+        },
+        {
+          "id": "en-at-the-bank-verbs-4",
+          "promptBefore": "The card",
+          "promptAfter": "in five days.",
+          "correctAnswer": "arrives",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arrive"
+        },
+        {
+          "id": "en-at-the-bank-verbs-5",
+          "promptBefore": "I",
+          "promptAfter": "my PIN.",
+          "correctAnswer": "forgot",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "forget"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-at-the-bank-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-at-the-bank-order-1",
+          "chunks": [
+            "I",
+            "would like",
+            "to open",
+            "an account"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-bank-order-2",
+          "chunks": [
+            "Where",
+            "can",
+            "I",
+            "withdraw money"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-bank-order-3",
+          "chunks": [
+            "My card",
+            "is",
+            "blocked"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-bank-order-4",
+          "chunks": [
+            "How much",
+            "does",
+            "the account",
+            "cost"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-at-the-bank-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-at-the-bank-spelling-1",
+          "correct": "account",
+          "wrong": "acount"
+        },
+        {
+          "id": "en-at-the-bank-spelling-2",
+          "correct": "balance",
+          "wrong": "ballance"
+        },
+        {
+          "id": "en-at-the-bank-spelling-3",
+          "correct": "withdraw",
+          "wrong": "withdrow"
+        },
+        {
+          "id": "en-at-the-bank-spelling-4",
+          "correct": "receipt",
+          "wrong": "reciept"
+        },
+        {
+          "id": "en-at-the-bank-spelling-5",
+          "correct": "signature",
+          "wrong": "signiture"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

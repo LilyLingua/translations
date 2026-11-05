@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "aeb71bb6-c738-4bbd-9b50-684b27945668",
+    "level": "A2"
+  },
+  "title": "Wynajem mieszkania",
+  "topic": "Szukanie mieszkania, oglądanie i podpisanie umowy",
+  "tasks": [
+    {
+      "id": "pl-wynajem-mieszkania-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-wynajem-mieszkania-matching-1",
+          "term": "czynsz",
+          "meaning": "Pieniądze, które płaci się co miesiąc za mieszkanie."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-matching-2",
+          "term": "właściciel",
+          "meaning": "Osoba, do której należy mieszkanie i która je wynajmuje."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-matching-3",
+          "term": "kaucja",
+          "meaning": "Pieniądze, które płaci się na początku i dostaje z powrotem przy wyprowadzce."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-matching-4",
+          "term": "umowa najmu",
+          "meaning": "Dokument, który podpisują najemca i właściciel."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-matching-5",
+          "term": "media",
+          "meaning": "Woda, prąd, gaz i ogrzewanie."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-matching-6",
+          "term": "oglądanie",
+          "meaning": "Wizyta, żeby zobaczyć mieszkanie przed wynajmem."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-wynajem-mieszkania-gap-1",
+          "promptBefore": "Ile wynosi",
+          "promptAfter": "za miesiąc?",
+          "correctAnswer": "czynsz",
+          "options": [
+            "czynsz",
+            "klucz",
+            "balkon"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wynajem-mieszkania-gap-2",
+          "promptBefore": "Czy",
+          "promptAfter": "są wliczone w czynsz?",
+          "correctAnswer": "media",
+          "options": [
+            "media",
+            "klucze",
+            "sąsiedzi"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wynajem-mieszkania-gap-3",
+          "promptBefore": "Trzeba zapłacić",
+          "promptAfter": "w wysokości dwóch czynszów.",
+          "correctAnswer": "kaucję",
+          "options": [
+            "kaucję",
+            "kuchnię",
+            "łazienkę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wynajem-mieszkania-gap-4",
+          "promptBefore": "Kiedy mogę przyjść obejrzeć",
+          "promptAfter": "?",
+          "correctAnswer": "mieszkanie",
+          "options": [
+            "mieszkanie",
+            "czynsz",
+            "kaucję"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wynajem-mieszkania-gap-5",
+          "promptBefore": "Proszę dokładnie przeczytać",
+          "promptAfter": "przed podpisaniem.",
+          "correctAnswer": "umowę",
+          "options": [
+            "umowę",
+            "kaucję",
+            "kuchnię"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wynajem-mieszkania-gap-6",
+          "promptBefore": "Mieszkanie ma dwa",
+          "promptAfter": "i balkon.",
+          "correctAnswer": "pokoje",
+          "options": [
+            "pokoje",
+            "czynsze",
+            "umowy"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-wynajem-mieszkania-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "mieszkania z dwoma pokojami.",
+          "correctAnswer": "Szukam",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "szukać"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-verbs-2",
+          "promptBefore": "Czy można",
+          "promptAfter": "zwierzęta?",
+          "correctAnswer": "trzymać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "trzymać"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-verbs-3",
+          "promptBefore": "Wczoraj",
+          "promptAfter": "umowę.",
+          "correctAnswer": "podpisaliśmy",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "podpisać"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-verbs-4",
+          "promptBefore": "Właściciel",
+          "promptAfter": "nam klucze w poniedziałek.",
+          "correctAnswer": "da",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "dać"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-verbs-5",
+          "promptBefore": "Ile",
+          "promptAfter": "media zimą?",
+          "correctAnswer": "kosztują",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kosztować"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-wynajem-mieszkania-order-1",
+          "chunks": [
+            "Czy",
+            "mieszkanie",
+            "jest",
+            "jeszcze wolne"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-order-2",
+          "chunks": [
+            "Chcę",
+            "obejrzeć",
+            "mieszkanie"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-wynajem-mieszkania-order-3",
+          "chunks": [
+            "Ile",
+            "wynosi",
+            "kaucja"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-order-4",
+          "chunks": [
+            "Czynsz",
+            "trzeba płacić",
+            "do dziesiątego",
+            "każdego miesiąca"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-wynajem-mieszkania-spelling-1",
+          "correct": "mieszkanie",
+          "wrong": "mieszkańe"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-spelling-2",
+          "correct": "łazienka",
+          "wrong": "łazięka"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-spelling-3",
+          "correct": "kaucja",
+          "wrong": "kałcja"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-spelling-4",
+          "correct": "umowa",
+          "wrong": "umova"
+        },
+        {
+          "id": "pl-wynajem-mieszkania-spelling-5",
+          "correct": "kuchnia",
+          "wrong": "kuhnia"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

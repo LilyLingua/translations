@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.291Z"
+  },
+  "title": "با اتوبوس و قطار",
+  "instructions": {
+    "bus-und-bahn-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "bus-und-bahn-gap": "کلمه مناسب را علامت بزنید.",
+    "bus-und-bahn-verbs": "فعل درست را به شکل درست بنویسید.",
+    "bus-und-bahn-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "bus-und-bahn-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "bus-und-bahn-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "بلیت",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "با آن اجازه دارید با اتوبوس یا قطار سفر کنید.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "دستگاه فروش بلیت",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "اینجا بدون باجه بلیت می‌خرید.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "سکو (ریل)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "اینجا قطار در ایستگاه می‌ایستد.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "تأخیر",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "قطار دیرتر از برنامه می‌رسد.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "عوض کردن قطار",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "از یک قطار به قطار دیگری می‌روید.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "ایستگاه اتوبوس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "اتوبوس اینجا می‌ایستد.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "بلیت آلمان (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "بلیت ماهانه برای اتوبوس و قطارهای محلی در سراسر آلمان.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "قطار کلن از سکوی ۵ حرکت می‌کند.",
+      "answerText": "سکوی"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "قطار ده دقیقه تأخیر دارد.",
+      "answerText": "تأخیر"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "نزدیک‌ترین ایستگاه کجاست؟",
+      "answerText": "ایستگاه"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "یک بلیت به برلین، لطفاً.",
+      "answerText": "بلیت"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "لطفاً بلیت خود را نشان دهید.",
+      "answerText": "بلیت"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "مترو هر ده دقیقه یک بار می‌آید.",
+      "answerText": "مترو"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "از دستگاه می‌توانید بلیت بخرید.",
+      "answerText": "دستگاه"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "کجا باید قطار را عوض کنم؟",
+      "answerText": "عوض کنم"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "اتوبوس ساعت ۸:۱۵ حرکت می‌کند.",
+      "answerText": "حرکت می‌کند"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "ساعت ۱۰ به هامبورگ می‌رسیم.",
+      "answerText": "می‌رسیم"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "لطفاً اینجا پیاده شوید.",
+      "answerText": "پیاده شوید"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "سفر چقدر طول می‌کشد؟",
+      "answerText": "طول می‌کشد"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "قطار",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "ایستگاه قطار",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "بلیت",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "سکو",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "ایستگاه اتوبوس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "اتوبوس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "قطار بعدی به مونیخ کی حرکت می‌کند؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "باید در مانهایم قطار را عوض کنم.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "قطار متأسفانه تأخیر دارد.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "آیا بلیت برای اتوبوس هم معتبر است؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "بلیت",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "تأخیر",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "ایستگاه اتوبوس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "سکو",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "ایستگاه قطار",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.947Z"
+  },
+  "title": "약국에서",
+  "instructions": {
+    "in-der-apotheke-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "in-der-apotheke-gap": "알맞은 단어에 표시하세요.",
+    "in-der-apotheke-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "in-der-apotheke-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "in-der-apotheke-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "in-der-apotheke-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "처방전",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "의사가 써 주는 약을 위한 종이.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "알약",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "삼키는 작은 약.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "기침 시럽",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "기침에 먹는 물약.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "연고",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "피부에 바릅니다.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "부작용",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "약의 원하지 않는 효과.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "사용 설명서",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "약 상자 안에 있는, 모든 정보가 적힌 종이.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "본인 부담금",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "처방전 비용의 일부를 직접 냅니다.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "의사 선생님의 처방전이 있어요.",
+      "answerText": "처방전"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "목 아픈 데 먹는 약 있어요?",
+      "answerText": "목 아픈"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "하루에 두 알 드세요.",
+      "answerText": "알"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "이 연고는 피부용입니다.",
+      "answerText": "피부"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "사용 설명서를 읽어 주세요.",
+      "answerText": "사용 설명서"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "이 약은 부작용이 거의 없어요.",
+      "answerText": "부작용"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "주말에는 약국 한 곳이 당번을 합니다.",
+      "answerText": "약국"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "어제부터 기침이 나요.",
+      "answerText": "나요"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "알약을 몇 번 먹어야 해요?",
+      "answerText": "먹어야"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "약을 내일까지 주문해 드릴게요.",
+      "answerText": "주문해"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "연고를 하루에 두 번 바르세요.",
+      "answerText": "바르세요"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "물을 많이 드세요.",
+      "answerText": "드세요"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "약국",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "약",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "연고",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "반창고",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "상자(포장)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "방울",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "기침에 먹는 약 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "알약을 몇 번 먹어야 해요?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "두통약이 필요해요.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "이건 처방전이 필요해요?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "약국",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "약",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "반창고",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "부작용",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "기침",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "150a6e28-3318-4d1f-ae5d-e39b4b3a0fac",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Krefeld",
+  "topic": "NRW: Samt und Seide, Burg Linn, Pinguine, Zoo",
+  "tasks": [
+    {
+      "id": "stadt-krefeld-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-krefeld-matching-1",
+          "term": "die Samt- und Seidenstadt",
+          "meaning": "Spitzname: Früher machte man hier viele feine Stoffe aus Seide."
+        },
+        {
+          "id": "stadt-krefeld-matching-2",
+          "term": "die Burg Linn",
+          "meaning": "Alte Wasserburg im Stadtteil Linn."
+        },
+        {
+          "id": "stadt-krefeld-matching-3",
+          "term": "der Flachsmarkt",
+          "meaning": "Großer Handwerkermarkt an der Burg Linn im Frühling."
+        },
+        {
+          "id": "stadt-krefeld-matching-4",
+          "term": "die Pinguine",
+          "meaning": "Eishockey-Mannschaft von Krefeld."
+        },
+        {
+          "id": "stadt-krefeld-matching-5",
+          "term": "der Zoo",
+          "meaning": "Zoo mit einem Schmetterlingshaus und einem neuen Wald für Menschenaffen."
+        },
+        {
+          "id": "stadt-krefeld-matching-6",
+          "term": "Haus Lange und Haus Esters",
+          "meaning": "Zwei Museen in Häusern vom berühmten Architekten Mies van der Rohe."
+        },
+        {
+          "id": "stadt-krefeld-matching-7",
+          "term": "Uerdingen",
+          "meaning": "Stadtteil am Rhein mit einem großen Hafen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-krefeld-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-krefeld-gap-1",
+          "promptBefore": "Sie trägt",
+          "promptAfter": "Kleid aus Seide.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-2",
+          "promptBefore": "Um",
+          "promptAfter": "Burg Linn gibt es Wasser.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-3",
+          "promptBefore": "Am Samstag sehen wir",
+          "promptAfter": "Spiel der Pinguine.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-4",
+          "promptBefore": "Im Zoo gehen wir in",
+          "promptAfter": "Schmetterlingshaus.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-5",
+          "promptBefore": "Auf dem Flachsmarkt zeigt",
+          "promptAfter": "Schmied seine Arbeit.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-6",
+          "promptBefore": "Uerdingen liegt an",
+          "promptAfter": "Rhein.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-krefeld-gap-7",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Museum Haus Lange.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-krefeld-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-krefeld-verbs-1",
+          "promptBefore": "Die Pinguine",
+          "promptAfter": "Eishockey.",
+          "correctAnswer": "spielen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-krefeld-verbs-2",
+          "promptBefore": "In Krefeld",
+          "promptAfter": "man früher viele Stoffe aus Seide.",
+          "correctAnswer": "machte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-krefeld-verbs-3",
+          "promptBefore": "Im Zoo",
+          "promptAfter": "viele Schmetterlinge.",
+          "correctAnswer": "fliegen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fliegen"
+        },
+        {
+          "id": "stadt-krefeld-verbs-4",
+          "promptBefore": "Die Burg",
+          "promptAfter": "im Wasser.",
+          "correctAnswer": "steht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stehen"
+        },
+        {
+          "id": "stadt-krefeld-verbs-5",
+          "promptBefore": "Auf dem Flachsmarkt",
+          "promptAfter": "Handwerker ihre Arbeit.",
+          "correctAnswer": "zeigen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zeigen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-krefeld-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-krefeld-table-1",
+          "article": "der",
+          "singular": "Stoff",
+          "plural": "Stoffe"
+        },
+        {
+          "id": "stadt-krefeld-table-2",
+          "article": "die",
+          "singular": "Burg",
+          "plural": "Burgen"
+        },
+        {
+          "id": "stadt-krefeld-table-3",
+          "article": "der",
+          "singular": "Pinguin",
+          "plural": "Pinguine"
+        },
+        {
+          "id": "stadt-krefeld-table-4",
+          "article": "der",
+          "singular": "Schmetterling",
+          "plural": "Schmetterlinge"
+        },
+        {
+          "id": "stadt-krefeld-table-5",
+          "article": "das",
+          "singular": "Kleid",
+          "plural": "Kleider"
+        },
+        {
+          "id": "stadt-krefeld-table-6",
+          "article": "der",
+          "singular": "Hafen",
+          "plural": "Häfen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-krefeld-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-krefeld-order-1",
+          "chunks": [
+            "Krefeld",
+            "heißt",
+            "die Samt- und Seidenstadt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-krefeld-order-2",
+          "chunks": [
+            "Gehst",
+            "du",
+            "mit",
+            "zum Eishockey"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-krefeld-order-3",
+          "chunks": [
+            "Die Burg Linn",
+            "steht",
+            "im Wasser"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-krefeld-order-4",
+          "chunks": [
+            "Im Zoo",
+            "fliegen",
+            "viele",
+            "Schmetterlinge"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-krefeld-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-krefeld-spelling-1",
+          "correct": "Seide",
+          "wrong": "Saide"
+        },
+        {
+          "id": "stadt-krefeld-spelling-2",
+          "correct": "Pinguin",
+          "wrong": "Pinguien"
+        },
+        {
+          "id": "stadt-krefeld-spelling-3",
+          "correct": "Schmetterling",
+          "wrong": "Schmeterling"
+        },
+        {
+          "id": "stadt-krefeld-spelling-4",
+          "correct": "Hafen",
+          "wrong": "Hafenn"
+        },
+        {
+          "id": "stadt-krefeld-spelling-5",
+          "correct": "Kleid",
+          "wrong": "Kleit"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

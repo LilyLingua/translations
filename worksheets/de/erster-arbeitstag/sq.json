@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.044Z"
+  },
+  "title": "Dita e parë e punës",
+  "instructions": {
+    "erster-arbeitstag-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "erster-arbeitstag-gap": "Shënoni formën e saktë.",
+    "erster-arbeitstag-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "erster-arbeitstag-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "erster-arbeitstag-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "erster-arbeitstag-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "kolegu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Një burrë me të cilin punoni bashkë.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "shefja",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Ajo drejton ekipin.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "pushimi (pauza)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Koha e lirë gjatë punës, për shembull për të ngrënë.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "pushimet vjetore",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Ditë të lira kur nuk punoni, por prapë merrni para.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ora shtesë",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Një orë që punoni më shumë se sa ishte planifikuar.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "kontrata e punës",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Këtu shkruhen paga, orari i punës dhe pushimet.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "mensa",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Këtu hanë punonjësit në kompani.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Kjo është kolegia ime e re.",
+      "answerText": "ime"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "A mund t'ju prezantoj kolegun tim?",
+      "answerText": "tim"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Më pëlqen të punoj bashkë me ekipin.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Takohemi në mensë.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Kam një pyetje.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Kur fillon pushimi?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Shefes i jap raportin.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "A mund të prezantohem shkurt?",
+      "answerText": "prezantohem"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Unë punoj nga ora 8 deri në 16.",
+      "answerText": "punoj"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Ku e gjej tualetin?",
+      "answerText": "gjej"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Në ekip ne i flasim njëri-tjetrit me „ti“.",
+      "answerText": "flasim"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "A mund të ma shpjegoni këtë, ju lutem?",
+      "answerText": "shpjegoni"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "kolegu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "kompania",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "zyra",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "kompjuteri",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "mbledhja",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "ekipi",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "A mund të prezantohem shkurt?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Jam i ri në ekip.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Kur fillon pushimi i drekës?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "A mund të ma shpjegoni këtë?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "kolegu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "mbledhja",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "pushimet vjetore",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "zyra",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ora shtesë",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Ma ii sarifi kartaa shan yuuro?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Raali ahow, xaggee ka heli karaa bur?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Waxaan jeclaan lahaa 200 garaam oo Gouda ah, fadlan."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Haa, taasi waa fiican tahay."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Muuska waa dalab qiimo dhimis ah."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Xaggee buu yaal mashiinka Pfand-ku?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Maya, mahadsanid."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Bac ayaan wataa."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Kaar, fadlan."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Mahadsanid, adigana!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Aad baan u gaajaysanahay! Laakiin qaboojiyahaygu waa madhan yahay."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Markaa u soco suuqa weyn!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Suuqa weyn? Dhammaan af Jarmal?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Dabcan! Maanta waxaad samaynaysaa iibsasho dhan – laga bilaabo gaariga dukaanka ilaa rasiidka."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "Xaalad kasta waxaan ku weydiinaynaa: Maxaad dhahaysaa?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "Oo waxaad haysataa shan ilbiriqsi oo keliya!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Waxaad rabtaa gaariga dukaanka. Laakiin waxaad u baahan tahay qadaadiic – waxaadna haysataa oo keliya warqad shan yuuro ah."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Nin waayeel ah ayaa agtaada taagan."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Raali ahow, ma i siin kartaa shan yuuro hadiyad ahaan?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Raali ahow, ma ii sarifi kartaa shan yuuro?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Raali ahow, waxaan rabaa gaarigaaga."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ macnaheedu waa: waxaad bixinaysaa warqad lacag ah oo waxaad dib u helaysaa qadaadiic. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "macnaheedu waa: bilaash ayaad ku helaysaa – taasi aad bay u fiicnaan lahayd, laakiin waa xoogaa edeb darro."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Daqiiqad … haa: laba, afar, shan yuuro. Waa kan!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Aad baad u mahadsan tahay!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Ma ii sarifi kartaa shan yuuro?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Waxaad u baahan tahay bur. Laakiin xaggee buurku yaal? Shaqaale ayaa armaajo alaab dhigaya."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Maxaad weydiinaysaa?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Raali ahow, xaggee ka heli karaa bur?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (qodob khaldan)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Bur ma heshay?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Ku dhawaad, Leo. Waa „das Mehl“. Laakiin A ayaa ka sii fiican: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Raali ahow, xaggee ka heli karaa …?) – sidaas ayaad si edeb leh wax walba ugu weydiisaa suuqa weyn."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Burku wuxuu yaal safka saddexaad, armaajada hoosteeda."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Mahadsanid!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Raali ahow, xaggee ka heli karaa bur?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Safka saddexaad, hoosta."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Hadda waxaad u socotaa miiska cuntada cusub. Waxaad rabtaa xoogaa Gouda ah."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Haloo! Maxaan ku siiyaa?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Anigu waxaan ahay 200 garaam oo Gouda ah."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Haa, waa suurtagal."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Waxaan jeclaan lahaa 200 garaam oo Gouda ah, fadlan."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ si fudud macnaheedu waa: Maxaad rabtaa? Oo „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(waxaan jeclaan lahaa …) waxaad had iyo jeer si edeb leh u dalbataa – miiska, rootiga dukaankiisa, maqaaxida."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Waxaan jeclaan lahaa 200 garaam oo Gouda ah, fadlan."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Marwo Haas ayaa jarta jiiska. Miisaanku wuxuu muujinayaa: 230 garaam."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Xoogaa ka badan ma fiican yahay?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Maya, laygu ma oggola."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Haa, taasi waa fiican tahay."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Haa, anigu waxaan ahay xoogaa ka badan."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Jumladan waxaad ku maqlaysaa miis kasta oo Jarmalka ah. Macnaheedu waa: waa xoogaa ka badan intii aad dalbatay – ma fiican tahay?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Haddii kale, si fudud u dheh: „Nein, bitte genau 200 Gramm.“ (Maya, fadlan si sax ah 200 garaam.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Wax kale?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Maya, mahadsanid. Waa intaas."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Haa, taasi waa fiican tahay."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Maya, mahadsanid. Waa intaas."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Waad sii socotaa. Si lama filaan ah ayaad u maqashaa ogeysiis. Si fiican u dhegeyso!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Macaamiil qaaliga ah! Dalabka maanta: muus, kiiloogii 99 senti oo keliya."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Imisa ayuu yahay kiilo muus ah?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: €9.90"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: €1.99"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 senti"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 senti. „Im Angebot“ macnaheedu waa: maanta ka jaban sidii caadiga ahayd."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Muuska waa dalab qiimo dhimis ah."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Waxaad sidoo kale wadataa dhalooyin madhan – oo leh calaamaddan: lacag dammaanad („Pfand“). Xaggee la geeyaa?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Mashiinka Pfand-ka. Lacag ayaad dib u helaysaa."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Qashin-qubka albaabka agtiisa."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Khasnadda – hadiyad ahaan."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, qashinka!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Maya, Leo – markaa lacag ayaad tuuraysaa! A! Dhalooyin badan waxaad dib ugu helaysaa 25 senti."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Mashiinku wuxuu ku siinayaa warqad kuubon ah. Waxaad ku dhiibaysaa khasnadda."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Xaggee buu yaal mashiinka Pfand-ku?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Hadda waxaad joogtaa khasnadda. Wax walba waxaad dul dhigaysaa suunka."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Haloo! Ma ururisaa dhibco?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Haa, waxaan ururiyaa tigidhada boostada."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Waxaan ururinayaa dhibcahaaga."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Maya, mahadsanid."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Waxaan ururiyaa tigidhada boostada. Tan iyo dugsiga."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Fiican, Leo – laakiin iyadu taas ma rabto inay ogaato. C! Suuqyo badan waxay leeyihiin kaar ama app dhibco leh."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Haddii aadan mid lahayn, si fudud u dheh: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Maya, mahadsanid."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Haa, waa kan kaarkayga."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Bac ma u baahan tahay?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Haa, bac caano ah, fadlan."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Maya, mahadsanid. Bac ayaan wataa."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Maya, anigu bac ma ihi."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Waa wanaagsan tahay in la ogaado: Jarmalka bacaha ku dhawaad had iyo jeer lacag ayay ku kacaan."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Dad badan waxay keenaan baco u gaar ah."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Bac ayaan wataa."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Waa €23.47. Lacag caddaan ah mise kaar ayaad ku bixinaysaa?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Kaar, fadlan."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Waxaan ku bixinayaa „Bar“."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Haa, lacag caddaan ah ama kaar."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Haa!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo … taasi ma aha su'aal haa ama maya ah! A! „Bar“ macnaheedu waa: warqado lacag ah iyo qadaadiic. Haddii aadan hubin, weydii: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Kaar ma ku bixin karaa?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Kaar, fadlan."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Kaar ma ku bixin karaa?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Rasiidka ma rabtaa?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Maxaad dhahaysaa?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Maya, ma jecli nacnac („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Maya, mahadsanid. Uma baahni."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Haa, waxaan rabaa khasnadda."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Ma jecli nacnac. Sonkor badan."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ ma aha „Bonbon“. „Kassenbon“ waa warqadda yar – waxay muujinaysaa waxa aad iibsatay."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B ayaa sax ah. Ama: „Ja, bitte.“ (Haa, fadlan.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Maalin wanaagsan!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Mahadsanid, adigana!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Iga daba dheh!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Mahadsanid, adigana!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Saddex talo oo ku saabsan suuqa weyn ee Jarmalka."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Kowaad: Axadda ku dhawaad dhammaan suuqyada waaweyn way xiran yihiin – markaa Sabtida wax iibso!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Labaad: khasnadda adigu wax walba waxaad dul dhigaysaa suunka."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Ulka kala-saaridda ayaa muujinaysa: macmiilka xiga halkan ayuu ka bilaabmayaa."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "Saddexaad: khasnadda wax walba si dhakhso ah ayay u socdaan."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Alaabtaada si deggan u xidho khasnadda kadib – taasi waa caadi gebi ahaanba."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo ayaa qoraya liiska iibsashada. Laakiin wax baa khaldan …"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Dhalo caano fadhi ah."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Koob caano fadhi ah!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Qasac rooti ah."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Xabbad rooti ah – ama baakad tost ah!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Koob baasto ah."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Baakad baasto ah!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Baakad biyo ah."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Dhalo biyo ah!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Bac yaanyo ah."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Qasac yaanyo ah!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Xaggee ka heli karaa jiiska?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "Ficilkuna wuxuu aadaa dhammaadka: ma aha „Ich möchte bezahlen mit Karte“, balse: „Ich möchte mit Karte bezahlen.“ (Waxaan rabaa inaan kaar ku bixiyo.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "Khasnaddana: „Bon“ waa rasiidka. „Bonbon“ waa nacnac."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "Hadda dhammaan mar kale. Tobanka jumladood ee ugu muhiimsan. Iga daba dheh!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Ma ii sarifi kartaa shan yuuro?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Raali ahow, xaggee ka heli karaa bur?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Waxaan jeclaan lahaa 200 garaam oo Gouda ah, fadlan."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Haa, taasi waa fiican tahay."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Maya, mahadsanid. Waa intaas."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Muuska waa dalab qiimo dhimis ah."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Xaggee buu yaal mashiinka Pfand-ku?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Bac ayaan wataa."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Kaar ma ku bixin karaa?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Mahadsanid, adigana!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Maxaad aad u jeceshahay inaad ka iibsato suuqa weyn? Ku qor faallooyinka!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Nabadeey, waxaan isku aragnaa dhawaan LilyLingua!"
+    }
+  ]
+}

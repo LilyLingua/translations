@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.139Z"
+  },
+  "title": "Transporte público",
+  "instructions": {
+    "en-public-transportation-matching": "Relaciona cada palabra con su significado.",
+    "en-public-transportation-gap": "Elige la palabra correcta.",
+    "en-public-transportation-verbs": "Escribe el verbo correcto.",
+    "en-public-transportation-order": "Ordena las palabras y escribe la oración.",
+    "en-public-transportation-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-public-transportation-matching-1",
+      "translation": "el boleto",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-1:meaning",
+      "translation": "Un papel o una app que te permite viajar.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2",
+      "translation": "la parada",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-2:meaning",
+      "translation": "El lugar donde se detiene el camión.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3",
+      "translation": "el andén",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-3:meaning",
+      "translation": "El lugar en la estación donde subes al tren.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4",
+      "translation": "el retraso",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-4:meaning",
+      "translation": "Cuando un camión o un tren llega más tarde de lo planeado.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5",
+      "translation": "el horario",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-5:meaning",
+      "translation": "Una lista con las horas de los camiones y trenes.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6",
+      "translation": "el transbordo",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-matching-6:meaning",
+      "translation": "Cuando cambias de un camión o tren a otro.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-gap-1",
+      "translation": "Necesito un boleto al centro.",
+      "answerText": "boleto"
+    },
+    {
+      "id": "en-public-transportation-gap-2",
+      "translation": "El tren sale del andén cuatro.",
+      "answerText": "andén"
+    },
+    {
+      "id": "en-public-transportation-gap-3",
+      "translation": "Bájese en la próxima parada.",
+      "answerText": "parada"
+    },
+    {
+      "id": "en-public-transportation-gap-4",
+      "translation": "Hay un retraso de veinte minutos.",
+      "answerText": "retraso"
+    },
+    {
+      "id": "en-public-transportation-gap-5",
+      "translation": "Puede ver el horario del camión en internet.",
+      "answerText": "horario"
+    },
+    {
+      "id": "en-public-transportation-gap-6",
+      "translation": "Tiene que hacer transbordo en la Estación Central.",
+      "answerText": "transbordo"
+    },
+    {
+      "id": "en-public-transportation-verbs-1",
+      "translation": "El camión pasa cada diez minutos.",
+      "answerText": "pasa"
+    },
+    {
+      "id": "en-public-transportation-verbs-2",
+      "translation": "¿Dónde compro un boleto?",
+      "answerText": "compro"
+    },
+    {
+      "id": "en-public-transportation-verbs-3",
+      "translation": "Tiene que cambiar de tren aquí.",
+      "answerText": "Tiene"
+    },
+    {
+      "id": "en-public-transportation-verbs-4",
+      "translation": "Hoy el tren viene tarde.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-verbs-5",
+      "translation": "Por favor, muestre su boleto.",
+      "answerText": "muestre"
+    },
+    {
+      "id": "en-public-transportation-order-1",
+      "translation": "¿Qué camión va al aeropuerto?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-2",
+      "translation": "El tren viene diez minutos tarde.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-3",
+      "translation": "¿Dónde está la próxima parada?",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-order-4",
+      "translation": "Perdí mi camión.",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-1",
+      "translation": "boleto",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-2",
+      "translation": "estación",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-3",
+      "translation": "horario",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-4",
+      "translation": "centro",
+      "answerText": null
+    },
+    {
+      "id": "en-public-transportation-spelling-5",
+      "translation": "pasajero",
+      "answerText": null
+    }
+  ]
+}

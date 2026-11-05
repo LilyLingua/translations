@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:00.135Z"
+  },
+  "title": "Hanovra",
+  "instructions": {
+    "stadt-hannover-matching": "Potriviți fiecare cuvânt cu explicația corectă.",
+    "stadt-hannover-gap": "Bifați cuvântul corect.",
+    "stadt-hannover-verbs": "Completați verbul corect în forma corectă.",
+    "stadt-hannover-table": "Completați articolul și forma de plural.",
+    "stadt-hannover-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "stadt-hannover-spelling": "Care cuvânt este scris corect? Bifați-l."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "târgul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Expoziție mare pentru firme; Hanovra are un centru expozițional imens.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Lac artificial în oraș, pentru navigat, alergat și petreceri.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "Firul Roșu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Linie roșie pe jos; te duce la obiectivele turistice.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "germana standard",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "Limba standard; la Hanovra se vorbește deosebit de curat.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "„Lüttje Lage”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Bere și rachiu în două pahare, care se beau în același timp.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "sărbătoarea trăgătorilor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Sărbătoare populară foarte mare vara, cu o paradă lungă.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "„Nana”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Figură mare și colorată de femeie pe malul râului Leine, de Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Urmăm Firul Roșu prin oraș.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "Vara mulți aleargă în jurul lacului Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Firma expune la târg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Urcăm cu liftul în cupola primăriei.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Nanele stau pe malul râului Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Vizităm Grădinile Herrenhausen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "El încearcă o Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "Firul Roșu duce la multe obiective turistice.",
+      "answerText": "duce"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "În Primăria Nouă un lift înclinat urcă în cupolă.",
+      "answerText": "urcă"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Multe firme își prezintă produsele la târg.",
+      "answerText": "prezintă"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "Oamenii din Hanovra vorbesc o germană standard foarte curată.",
+      "answerText": "vorbesc"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "În anul 2000 a avut loc expoziția mondială Expo la Hanovra.",
+      "answerText": "avut"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "târgul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "grădina",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "firul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "figura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "primăria",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "liftul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "Firul Roșu trece prin centrul orașului.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "Vara mulți navighează pe Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Urci cu liftul în cupolă?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "La Hanovra se vorbește o germană standard curată.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "târg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "obiectiv turistic",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "lift",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "figură",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "cupolă",
+      "answerText": null
+    }
+  ]
+}

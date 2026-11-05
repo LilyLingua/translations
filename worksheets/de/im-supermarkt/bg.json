@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.200Z"
+  },
+  "title": "В супермаркета",
+  "instructions": {
+    "im-supermarkt-matching": "Свържете всяка дума с подходящото обяснение.",
+    "im-supermarkt-gap": "Отбележете подходящата опаковка или количество.",
+    "im-supermarkt-verbs": "Попълнете правилния глагол в правилната форма.",
+    "im-supermarkt-table": "Допълнете члена и формата за множествено число.",
+    "im-supermarkt-order": "Подредете думите в правилния ред и напишете изречението.",
+    "im-supermarkt-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "количка за пазаруване",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Тук слагате стоките, докато пазарувате.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "щанд за сирена",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Тук получавате прясно сирене на тегло.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "депозит за бутилки (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Пари, които получавате обратно за празни бутилки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "автомат за връщане на бутилки",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Тук предавате празните бутилки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "промоция",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Продуктът е по-евтин за кратко време.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "касова бележка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "На това листче са всички цени.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "торбичка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "В нея носите покупките вкъщи.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Купувам една кофичка кисело мляко.",
+      "answerText": "кофичка"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Още една бутилка вода, моля.",
+      "answerText": "бутилка"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Трябва ни един пакет макарони.",
+      "answerText": "пакет"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "За соса вземам една консерва домати.",
+      "answerText": "консерва"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Бих искал 200 грама гауда, моля.",
+      "answerText": "грама"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Едно парче масло струва 2,29 евро.",
+      "answerText": "парче"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Вземам един литър мляко.",
+      "answerText": "литър"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Можете ли да ми развалите пет евро?",
+      "answerText": "развалите"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Извинете, къде да намеря брашно?",
+      "answerText": "намеря"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Плащам с карта.",
+      "answerText": "Плащам"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Бих искал 200 грама гауда.",
+      "answerText": "Бих"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "В неделя почти всички супермаркети са затворени.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "бутилка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "кофичка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "консерва",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "хляб",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "ябълка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "банан",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Извинете, къде да намеря брашно?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Имам торба с мен.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Бананите днес са в промоция.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Къде е автоматът за връщане на бутилки?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "количка за пазаруване",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "касова бележка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "депозит за бутилки",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "сирене",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "хлебче",
+      "answerText": null
+    }
+  ]
+}

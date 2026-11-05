@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.736Z"
+  },
+  "title": "Изнајмљивање стана",
+  "instructions": {
+    "wohnung-mieten-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "wohnung-mieten-gap": "Означите тачан облик члана (der/die/das).",
+    "wohnung-mieten-verbs": "Упишите прави глагол у правом облику.",
+    "wohnung-mieten-table": "Допуните члан (der/die/das) и облик множине.",
+    "wohnung-mieten-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "wohnung-mieten-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "кирија",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Новац који сваког месеца плаћате за стан.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "депозит",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Новац који станодавац на почетку добија као гаранцију.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "режијски трошкови",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Трошкови за воду, грејање и смеће.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "уговор о закупу",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Уговор између станара и станодавца.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "разгледање стана",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Разгледате стан пре него што га изнајмите.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "домар",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Брине о згради и поправља мале ствари.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "кућни ред",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Правила за све станаре, на пример време мировања.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Тражимо један стан с балконом.",
+      "answerText": "један"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Разговарам са станодавцем.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Дајем станодавки депозит.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Бицикл остављам у двориште.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Кључ је на столу.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Грејање у кухињи је покварено.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Већ годину дана живим у овом стану.",
+      "answerText": "овом"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Када могу да разгледам стан?",
+      "answerText": "разгледам"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Кирија износи 850 евра с режијама.",
+      "answerText": "износи"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Усељавамо се 1. децембра.",
+      "answerText": "Усељавамо се"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Грејање је покварено. Можете ли, молим вас, да га поправите?",
+      "answerText": "поправите"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Молим вас, раздвајајте смеће.",
+      "answerText": "раздвајајте"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "соба",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "кухиња",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "купатило",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "кључ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "грејање",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Да ли је стан још слободан?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Колики су режијски трошкови?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Када могу да разгледам стан?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Радо бих изнајмио стан.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "депозит",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "режијски трошкови",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "кључ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "грејање",
+      "answerText": null
+    }
+  ]
+}

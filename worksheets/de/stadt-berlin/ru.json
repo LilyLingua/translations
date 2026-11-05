@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:16.387Z"
+  },
+  "title": "Берлин",
+  "instructions": {
+    "stadt-berlin-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-berlin-gap": "Отметьте правильное слово.",
+    "stadt-berlin-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-berlin-table": "Допишите артикль и форму множественного числа.",
+    "stadt-berlin-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-berlin-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "столица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "Самый важный город страны; здесь работает правительство.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "Бранденбургские ворота",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Известный символ города с колесницей и четвёркой лошадей наверху.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "Стена",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "До 1989 года она делила Берлин на Восток и Запад.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "«Шпети»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Маленький магазин, открытый до поздней ночи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "«Шриппе»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "Так в Берлине называют булочку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "«Пфанкухен»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "В Берлине: сладкий круглый пончик с джемом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "«Киц»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "Так берлинцы называют свой район.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Мы фотографируем Бранденбургские ворота.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "Телебашня стоит рядом с Александерплац.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "Шпрее течёт через город.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "Я покупаю напиток в шпети.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "До 1989 года Стена стояла посреди города.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "В пекарне я заказываю шриппе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "Я живу в этом районе уже три года.",
+      "answerText": "этом"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "9 ноября 1989 года Стена пала.",
+      "answerText": "пала"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Правительство работает в Берлине.",
+      "answerText": "работает"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Многие туристы посещают Ист-Сайд-Галери.",
+      "answerText": "посещают"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "Шпети открыт до поздней ночи.",
+      "answerText": "открыт"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "На кольцевой электричке едешь по кругу вокруг центра.",
+      "answerText": "едешь"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "ворота",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "стена",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "район",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "музей",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "магазин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Берлин – столица Германии.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Стена пала в 1989 году.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Ты уже ел карривурст?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "Шпети открыт до поздней ночи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "столица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "правительство",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "символ города",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "телебашня",
+      "answerText": null
+    }
+  ]
+}

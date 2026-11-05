@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:56.766Z"
+  },
+  "title": "Krefeld",
+  "instructions": {
+    "stadt-krefeld-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-krefeld-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-krefeld-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-krefeld-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-krefeld-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-krefeld-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "Kadife ve İpek Şehri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "Lakap: Eskiden burada ipekten birçok ince kumaş yapılırdı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "Linn Kalesi (\"Burg Linn\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "Linn semtinde eski bir su kalesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "\"Flachsmarkt\" (Keten Pazarı)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "İlkbaharda Linn Kalesi'nde kurulan büyük zanaatkâr pazarı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "\"Pinguine\" (Penguenler)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "Krefeld'in buz hokeyi takımı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "hayvanat bahçesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "Kelebek evi ve insansı maymunlar için yeni bir ormanı olan hayvanat bahçesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "Haus Lange ve Haus Esters",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "Ünlü mimar Mies van der Rohe'nin yaptığı evlerde iki müze.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "Uerdingen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "Ren kıyısında büyük bir limanı olan semt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "İpekten bir elbise giyiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "Linn Kalesi'nin etrafında su var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "Cumartesi Penguenler'in bir maçını izliyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "Hayvanat bahçesinde kelebek evine giriyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "Flachsmarkt'ta demirci işini gösteriyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "Uerdingen, Ren kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "Haus Lange müzesini ziyaret ediyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "Penguenler buz hokeyi oynar.",
+      "answerText": "oynar"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "Krefeld'de eskiden ipekten birçok kumaş yapılırdı.",
+      "answerText": "yapılırdı"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "Hayvanat bahçesinde birçok kelebek uçar.",
+      "answerText": "uçar"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "Kale suyun içinde durur.",
+      "answerText": "durur"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "Flachsmarkt'ta zanaatkârlar işlerini gösterir.",
+      "answerText": "gösterir"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "kumaş",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "kale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "penguen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "kelebek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "elbise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "Krefeld'e Kadife ve İpek Şehri denir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "Buz hokeyine sen de geliyor musun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "Linn Kalesi suyun içinde duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "Hayvanat bahçesinde birçok kelebek uçuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "ipek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "penguen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "kelebek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "elbise",
+      "answerText": null
+    }
+  ]
+}

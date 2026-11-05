@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:40.231Z"
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-potsdam-gap": "Markahan ang tamang salita.",
+    "stadt-potsdam-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-potsdam-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-potsdam-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-potsdam-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "ang Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "Palasyo ni Frederick the Great; salitang Pranses ito na ibig sabihin ay \"walang alala\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "ang \"Old Fritz\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "Palayaw ng haring Prussian na si Frederick II.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "ang patatas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "Pinasikat ito ni Old Fritz sa Prussia; naglalagay ng patatas ang mga tao sa kanyang puntod.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "ang Dutch Quarter",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "Distritong may mga bahay na pulang ladrilyo sa istilong Dutch.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "ang Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "Narito ang malalaking film studio; maraming pelikula ang ginagawa rito.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "ang Glienicke Bridge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "Tulay papuntang Berlin; noong Cold War, dito ipinagpapalit ang mga espiya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "ang Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "Ilog na maraming lawa sa paligid ng Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "Binibisita namin ang Palasyo ng Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "May mga patatas sa puntod ni Old Fritz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "Naglalakad kami sa Dutch Quarter.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "Sa Babelsberg, may kinukunang bagong pelikula.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "Sumasakay kami ng bangka sa Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Katabi mismo ng kabiserang Berlin ang Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "Tumatawid sa Havel ang Glienicke Bridge.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "Gustong-gusto ni Frederick the Great na tumira sa Sanssouci.",
+      "answerText": "Gustong-gusto"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "Naglalagay ang mga bisita ng patatas sa kanyang puntod.",
+      "answerText": "Naglalagay"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "Sa Babelsberg, maraming pelikula ang kinukunan.",
+      "answerText": "kinukunan"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "Sa S-Bahn, mabilis kang makararating sa Berlin.",
+      "answerText": "makararating"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "Noong 1945, ginanap ang Potsdam Conference sa Cecilienhof Palace.",
+      "answerText": "ginanap"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "ang palasyo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "ang hari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "ang patatas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "ang studio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "ang pelikula",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "ang puntod",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "Tumira si Old Fritz sa Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "Laging may patatas sa kanyang puntod.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "Nakapunta ka na ba sa Filmpark Babelsberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Katabi mismo ng Berlin ang Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "hari",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "patatas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "palasyo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "pelikula",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "hardin",
+      "answerText": null
+    }
+  ]
+}

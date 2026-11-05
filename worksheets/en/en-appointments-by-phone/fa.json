@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:45.672Z"
+  },
+  "title": "نوبت‌گیری تلفنی",
+  "instructions": {
+    "en-appointments-by-phone-matching": "هر کلمه را به معنی‌اش وصل کن.",
+    "en-appointments-by-phone-gap": "کلمهٔ درست را انتخاب کن.",
+    "en-appointments-by-phone-verbs": "فعل درست را بنویس.",
+    "en-appointments-by-phone-order": "کلمه‌ها را به ترتیب درست بچین و جمله را بنویس.",
+    "en-appointments-by-phone-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزن."
+  },
+  "items": [
+    {
+      "id": "en-appointments-by-phone-matching-1",
+      "translation": "زنگ زدن",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-1:meaning",
+      "translation": "تلفنی با کسی صحبت کردن.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2",
+      "translation": "لغو کردن",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2:meaning",
+      "translation": "گفتن اینکه نمی‌آیی.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3",
+      "translation": "جابه‌جا کردن نوبت",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3:meaning",
+      "translation": "عوض کردن زمان نوبت.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4",
+      "translation": "پیغام‌گیر",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4:meaning",
+      "translation": "پیامی که وقتی کسی جواب نمی‌دهد می‌گذاری.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5",
+      "translation": "شمارهٔ داخلی",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5:meaning",
+      "translation": "شمارهٔ تلفن کوتاه داخل یک شرکت.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6",
+      "translation": "وقت آزاد",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6:meaning",
+      "translation": "آزاد بودن، گرفتار نبودن.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-gap-1",
+      "translation": "می‌خواهم نوبت جمعه‌ام را لغو کنم.",
+      "answerText": "لغو کنم"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-2",
+      "translation": "می‌توانیم آن را به هفتهٔ بعد منتقل کنیم؟",
+      "answerText": "منتقل کنیم"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-3",
+      "translation": "آیا پزشک دوشنبه وقت دارد؟",
+      "answerText": "وقت"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-4",
+      "translation": "لطفاً روی پیغام‌گیر من پیام بگذارید.",
+      "answerText": "پیغام‌گیر"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-5",
+      "translation": "می‌توانید بعداً با من تماس بگیرید؟",
+      "answerText": "تماس بگیرید"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-6",
+      "translation": "لطفاً شمارهٔ داخلی دو-چهار-پنج را بگیرید.",
+      "answerText": "شمارهٔ داخلی"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-1",
+      "translation": "سلام، ماریا لوپز هستم.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-2",
+      "translation": "یک نوبت لازم دارم.",
+      "answerText": "لازم دارم"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-3",
+      "translation": "ممکن است لطفاً تکرار کنید؟",
+      "answerText": "تکرار کنید"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-4",
+      "translation": "ده دقیقهٔ دیگر به شما زنگ می‌زنم.",
+      "answerText": "زنگ می‌زنم"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-5",
+      "translation": "دفتر ساعت پنج می‌بندد.",
+      "answerText": "می‌بندد"
+    },
+    {
+      "id": "en-appointments-by-phone-order-1",
+      "translation": "می‌توانم با دکتر براون صحبت کنم؟",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-2",
+      "translation": "می‌خواهم نوبتم را لغو کنم.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-3",
+      "translation": "سه‌شنبه ساعت ده خوب است؟",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-4",
+      "translation": "لطفاً با من تماس بگیرید.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-1",
+      "translation": "آزاد، در دسترس",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-2",
+      "translation": "پیام",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-3",
+      "translation": "چهارشنبه",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-4",
+      "translation": "لغو کردن",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-5",
+      "translation": "تلفن",
+      "answerText": null
+    }
+  ]
+}

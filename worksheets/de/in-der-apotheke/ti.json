@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኣብ ፋርማሲ",
+  "instructions": {
+    "in-der-apotheke-matching": "ነፍሲ ወከፍ ቃል ምስ ቅኑዕ መብርሂኡ ኣራኽቡ።",
+    "in-der-apotheke-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "in-der-apotheke-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጺ ምልኡ።",
+    "in-der-apotheke-table": "ነቲ ዓንቀጽ (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምልኡ።",
+    "in-der-apotheke-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጥዎምሞ ነቲ ሓረግ ጽሓፍዎ።",
+    "in-der-apotheke-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "ማዘዣ ሓኪም",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "ካብ ሓኪም ንመድሃኒት ዝወሃብ ወረቐት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ከኒና",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "እትውሕጦ ንእሽቶ መድሃኒት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "ሽሮፕ ሰዓል",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "ንሰዓል ዝኸውን ፈሳሲ መድሃኒት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "ቅብኣት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "ኣብ ቆርበት ትቐብኦ።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "ጎድናዊ ሳዕቤን",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "ዘይድለ ሳዕቤን መድሃኒት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "መብርሂ መድሃኒት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "ኣብ ሳንዱቕ መድሃኒት ዘሎ ኩሉ ሓበሬታ ዝሓዘ ወረቐት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "ተወሳኺ ክፍሊት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "ንማዘዣ ሓኪም ንእሽቶ መጠን ባዕልኹም ትኸፍሉ።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "ካብ ሓኪመይ ማዘዣ ኣለኒ።",
+      "answerText": "ማዘዣ"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "ንቃንዛ ጎሮሮ ዝኸውን ገለ ኣለኩምዶ?",
+      "answerText": "ቃንዛ ጎሮሮ"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "ኣብ መዓልቲ ክልተ ከኒና ውሰዱ።",
+      "answerText": "ከኒና"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "እቲ ቅብኣት ንቆርበት እዩ።",
+      "answerText": "ቆርበት"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "በጃኹም ነቲ መብርሂ መድሃኒት ኣንብብዎ።",
+      "answerText": "መብርሂ መድሃኒት"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "እቲ መድሃኒት ዳርጋ ጎድናዊ ሳዕቤን የብሉን።",
+      "answerText": "ጎድናዊ ሳዕቤን"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "ኣብ ቀዳመ ሰንበት ሓንቲ ፋርማሲ ናይ ህጹጽ ኣገልግሎት ትሰርሕ።",
+      "answerText": "ፋርማሲ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "ካብ ትማሊ ጀሚረ ሰዓል ኣለኒ።",
+      "answerText": "ኣለኒ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "ነቲ ከኒና ክንደይ ግዜ ክወስዶ ኣለኒ?",
+      "answerText": "ክወስዶ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "ነቲ መድሃኒት ክሳብ ጽባሕ ክንእዝዞ ኢና።",
+      "answerText": "ክንእዝዞ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "ነቲ ቅብኣት ኣብ መዓልቲ ክልተ ግዜ ተቐብእዎ።",
+      "answerText": "ተቐብእዎ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "በጃኹም ብዙሕ ማይ ስተዩ።",
+      "answerText": "ስተዩ"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "ፋርማሲ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "መድሃኒት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "ቅብኣት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "ፕላስተር",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "ፓኬት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "ንጣብ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "ንሰዓል ዝኸውን ገለ ኣለኩምዶ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "ነቲ ከኒና ክንደይ ግዜ ክወስዶ ኣለኒ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "ንሕማም ርእሲ ዝኸውን መድሃኒት የድልየኒ።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "ነዚ ማዘዣ ሓኪም የድልየኒዶ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "ፋርማሲ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "መድሃኒት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "ፕላስተር",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "ጎድናዊ ሳዕቤን",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ሰዓል",
+      "answerText": null
+    }
+  ]
+}

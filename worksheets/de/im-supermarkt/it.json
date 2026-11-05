@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.240Z"
+  },
+  "title": "Al supermercato",
+  "instructions": {
+    "im-supermarkt-matching": "Collega ogni parola alla spiegazione giusta.",
+    "im-supermarkt-gap": "Segna la confezione o la quantità adatta.",
+    "im-supermarkt-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "im-supermarkt-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "im-supermarkt-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "im-supermarkt-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "il carrello",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Ci metti la merce mentre fai la spesa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "il banco formaggi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Qui compri formaggio fresco a peso.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "il vuoto a rendere (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "I soldi che ricevi indietro per le bottiglie vuote.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "la macchina per il vuoto",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Qui restituisci le bottiglie vuote.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "l'offerta",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Un prodotto costa meno per poco tempo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "lo scontrino",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Su questo foglio ci sono tutti i prezzi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "la busta",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Ci porti la spesa a casa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Compro un vasetto di yogurt.",
+      "answerText": "vasetto"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "E una bottiglia d'acqua, per favore.",
+      "answerText": "bottiglia"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Ci serve un pacco di pasta.",
+      "answerText": "pacco"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Per il sugo prendo una scatola di pomodori.",
+      "answerText": "scatola"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Vorrei 200 grammi di gouda, per favore.",
+      "answerText": "grammi"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Un panetto di burro costa 2,29 euro.",
+      "answerText": "panetto"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Prendo un litro di latte.",
+      "answerText": "litro"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Mi può cambiare cinque euro?",
+      "answerText": "cambiare"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Scusi, dove trovo la farina?",
+      "answerText": "trovo"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Pago con la carta.",
+      "answerText": "Pago"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Vorrei 200 grammi di gouda.",
+      "answerText": "Vorrei"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "La domenica quasi tutti i supermercati sono chiusi.",
+      "answerText": "sono"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "la bottiglia",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "il vasetto",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "la scatola",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "il pane",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "la mela",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "la banana",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Scusi, dove trovo la farina?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Ho con me una borsa.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Oggi le banane sono in offerta.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Dov'è la macchina per il vuoto?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "carrello",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "scontrino",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "vuoto a rendere",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "formaggio",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "panino",
+      "answerText": null
+    }
+  ]
+}

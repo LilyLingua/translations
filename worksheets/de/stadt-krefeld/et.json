@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:09.610Z"
+  },
+  "title": "Krefeld",
+  "instructions": {
+    "stadt-krefeld-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-krefeld-gap": "Märkige õige sõna.",
+    "stadt-krefeld-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-krefeld-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-krefeld-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-krefeld-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "sameti- ja siidilinn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "Hüüdnimi: varem valmistati siin palju peeneid siidikangaid.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "Linni linnus (Burg Linn)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "Vana vesilinnus Linni linnaosas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "Flachsmarkt (linalaat)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "Suur käsitööliste laat Linni linnuse juures kevadel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "Pingviinid (Pinguine)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "Krefeldi jäähokimeeskond.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "loomaaed",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "Loomaaed liblikamaja ja uue metsaga inimahvidele.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "Haus Lange ja Haus Esters",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "Kaks muuseumi kuulsa arhitekti Mies van der Rohe projekteeritud majades.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "Uerdingen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "Linnaosa Reini ääres suure sadamaga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "Tal on seljas siidikleit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "Linni linnuse ümber on vesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "Laupäeval vaatame Pingviinide mängu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "Loomaaias läheme liblikamajja.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "Flachsmarktil näitab sepp oma tööd.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "Uerdingen asub Reini ääres.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "Me külastame muuseumi Haus Lange.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "Pingviinid mängivad jäähokit.",
+      "answerText": "mängivad"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "Krefeldis valmistati varem palju siidikangaid.",
+      "answerText": "valmistati"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "Loomaaias lendab palju liblikaid.",
+      "answerText": "lendab"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "Linnus seisab vees.",
+      "answerText": "seisab"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "Flachsmarktil näitavad käsitöölised oma tööd.",
+      "answerText": "näitavad"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "kangas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "linnus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "pingviin",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "liblikas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "kleit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "sadam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "Krefeldi kutsutakse sameti- ja siidilinnaks.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "Kas tuled kaasa jäähokile?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "Linni linnus seisab vees.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "Loomaaias lendab palju liblikaid.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "siid",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "pingviin",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "liblikas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "sadam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "kleit",
+      "answerText": null
+    }
+  ]
+}

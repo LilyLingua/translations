@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.790Z"
+  },
+  "title": "В установі",
+  "instructions": {
+    "auf-dem-amt-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "auf-dem-amt-gap": "Позначте відповідне слово.",
+    "auf-dem-amt-verbs": "Вставте правильне дієслово в правильній формі.",
+    "auf-dem-amt-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "auf-dem-amt-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "auf-dem-amt-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "реєстрація місця проживання",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Ви повідомляєте установі свою нову адресу.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "номер черги",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Цей номер ви берете в автоматі.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "закордонний паспорт",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Документ, з яким ви їздите за кордон.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "підтвердження орендодавця",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Цей папір від орендодавця потрібен вам для реєстрації.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "довідка про реєстрацію",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Цей папір показує: тепер ви живете за цією адресою.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "сімейний стан",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "неодружений/незаміжня, одружений/заміжня, розлучений або вдівець/вдова",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "підпис",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Ваше ім'я, написане від руки.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "формуляр (бланк)",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Папір із полями для заповнення.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Я хочу зареєструватися в новій квартирі.",
+      "answerText": "квартирі"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Будь ласка, візьміть номер в автоматі.",
+      "answerText": "номер"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Номер 147, будь ласка, до віконця 12.",
+      "answerText": "віконця"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Ось підтвердження від мого орендодавця.",
+      "answerText": "орендодавця"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "У вас із собою посвідчення особи?",
+      "answerText": "посвідчення особи"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Будь ласка, заповніть формуляр повністю.",
+      "answerText": "формуляр"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Довідка про реєстрацію вам часто знадобиться знову, наприклад для банківського рахунку.",
+      "answerText": "Довідка про реєстрацію"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Сьогодні я реєструюся.",
+      "answerText": "реєструюся"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Де мені розписатися?",
+      "answerText": "розписатися"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Я називаю своє прізвище по літерах: Н – О – В – А – К.",
+      "answerText": "називаю"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Будь ласка, сідайте.",
+      "answerText": "сідайте"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Оформлення триває приблизно два тижні.",
+      "answerText": "триває"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "установа",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "посвідчення особи",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "квартира",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "формуляр",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "орендодавець",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "адреса",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Я хочу зареєструватися.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Де мені розписатися?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Ось мій закордонний паспорт.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Мені потрібно ще щось?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "довідка про реєстрацію",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "закордонний паспорт",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "неодружений / незаміжня",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "орендодавець",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "адреса",
+      "answerText": null
+    }
+  ]
+}

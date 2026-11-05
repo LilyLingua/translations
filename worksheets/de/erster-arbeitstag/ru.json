@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.509Z"
+  },
+  "title": "Первый рабочий день",
+  "instructions": {
+    "erster-arbeitstag-matching": "Соедините каждое слово с подходящим объяснением.",
+    "erster-arbeitstag-gap": "Отметьте правильную форму.",
+    "erster-arbeitstag-verbs": "Вставьте правильный глагол в правильной форме.",
+    "erster-arbeitstag-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "erster-arbeitstag-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "erster-arbeitstag-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "коллега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Мужчина, с которым вы работаете вместе.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "начальница",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Она руководит командой.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "перерыв",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Свободное время во время работы, например чтобы поесть.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "отпуск",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Свободные дни, когда вы не работаете, но всё равно получаете деньги.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "сверхурочный час",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Час, который вы работаете больше, чем планировалось.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "трудовой договор",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Здесь указаны зарплата, рабочее время и отпуск.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "столовая",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Здесь сотрудники едят на предприятии.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Это моя новая коллега.",
+      "answerText": "моя"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Разрешите представить вам моего коллегу?",
+      "answerText": "моего"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Я с удовольствием работаю вместе с командой.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Мы встречаемся в столовой.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "У меня есть вопрос.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Когда начинается перерыв?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Я отдаю начальнице отчёт.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Разрешите коротко представиться?",
+      "answerText": "представиться"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Я работаю с 8 до 16 часов.",
+      "answerText": "работаю"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Где найти туалет?",
+      "answerText": "найти"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "В команде мы обращаемся друг к другу на «ты».",
+      "answerText": "обращаемся"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Не могли бы вы мне это объяснить?",
+      "answerText": "объяснить"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "коллега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "фирма",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "офис",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "компьютер",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "совещание",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "команда",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Разрешите коротко представиться?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Я новенький в команде.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Когда начинается обеденный перерыв?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Вы можете мне это объяснить?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "коллега",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "совещание",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "отпуск",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "офис",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "сверхурочный час",
+      "answerText": null
+    }
+  ]
+}

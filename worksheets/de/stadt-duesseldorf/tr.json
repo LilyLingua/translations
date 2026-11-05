@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:05.369Z"
+  },
+  "title": "Düsseldorf",
+  "instructions": {
+    "stadt-duesseldorf-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-duesseldorf-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-duesseldorf-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-duesseldorf-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-duesseldorf-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-duesseldorf-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "\"Alt\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "Düsseldorf'un koyu birası; küçük bardaklardan içilir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "\"Kö\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "Königsallee'nin kısaltması, şık bir alışveriş caddesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "Ren Kulesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "Ren kıyısında, ışıklardan yapılmış saati olan televizyon kulesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "\"Helau!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "Düsseldorf'ta karnaval nidası – Köln'deki gibi \"Alaaf\" değil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "\"Radschläger\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "Takla atan çocuk; şehrin simgesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "eski şehir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "Çok sayıda birahanesiyle şehrin eski kısmı, \"dünyanın en uzun barı\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "\"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "Birahanedeki garson; sormadan yeni bir Alt getirir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "O, eski şehirde bir Alt içiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "Kö pahalı bir alışveriş caddesidir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "Ren Kulesi'nin tepesinden bütün şehir görünür.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "Gül Pazartesisi'nde geçit törenini izliyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "Ren'in kıyısında yürüyüş yapıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "Bir kavanoz Düsseldorf hardalı alıyorum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "Köbes yeni bir Alt getiriyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "Düsseldorf'ta karnavalda \"Helau\" diye bağırılır.",
+      "answerText": "bağırılır"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "Köbes bir sonraki Alt'ı sormadan getirir.",
+      "answerText": "getirir"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "Ren nehri şehrin tam ortasından akar.",
+      "answerText": "akar"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "Kö'de birçok kişi alışveriş yapar.",
+      "answerText": "yapar"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "Çocuklar Radschläger'ler gibi takla atar.",
+      "answerText": "atar"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "bardak",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "birahane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "kıyı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "geçit töreni",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "bira fabrikası",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "cadde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "O, eski şehirde bir Alt içiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "Kö şık bir alışveriş caddesidir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "Gül Pazartesisi'nde geçit törenine benimle gelir misin?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "Köbes hemen yeni bir bardak getiriyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "karnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "bira fabrikası",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "birahane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "bar tezgâhı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "bardak",
+      "answerText": null
+    }
+  ]
+}

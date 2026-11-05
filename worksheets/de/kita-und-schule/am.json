@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "መዋዕለ ሕፃናት እና ትምህርት ቤት",
+  "instructions": {
+    "kita-und-schule-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "kita-und-schule-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "kita-und-schule-verbs": "ትክክለኛውን ግስ በትክክለኛው ቅጽ ይሙሉ።",
+    "kita-und-schule-table": "አርቲክሉን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "kita-und-schule-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "kita-und-schule-spelling": "የትኛው ቃል ነው በትክክል የተጻፈው? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "የወላጆች ስብሰባ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "በወላጆችና በመምህራን መካከል የሚደረግ ስብሰባ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "መዋዕለ ሕፃናት",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "ትናንሽ ልጆች በቀን እዚህ ይጠበቃሉ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "የክፍል ኃላፊ መምህርት",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "ለአንድ የትምህርት ክፍል ኃላፊ ናት።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "የውጤት ካርድ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "በትምህርት ዓመቱ መጨረሻ ውጤቶችን ያሳያል።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "የቀሪነት ማሳወቂያ ደብዳቤ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "ልጅዎ ታሞ በነበረ ጊዜ ለትምህርት ቤቱ የሚጻፍ አጭር ደብዳቤ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "የትምህርት ቤት እረፍት",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "ትምህርት የሌለበት ጊዜ፣ ለምሳሌ በበጋ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "የትምህርት ቤት ጉዞ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "ክፍሉ በአንድነት ወደ ሌላ ቦታ ይጓዛል።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "ልጄ ታሟል። ዛሬ ወደ ትምህርት ቤት መምጣት አይችልም።",
+      "answerText": "ትምህርት ቤት"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "በወላጆች ስብሰባ ላይ ወላጆች ከመምህሩ ጋር ይነጋገራሉ።",
+      "answerText": "ወላጆች ስብሰባ"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "በበጋ ልጆቹ ስድስት ሳምንት እረፍት አላቸው።",
+      "answerText": "እረፍት"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "በትምህርት ዓመቱ መጨረሻ ልጄ የውጤት ካርድ ትቀበላለች።",
+      "answerText": "የውጤት ካርድ"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "ልጄ ታሞ ስለነበር ለመምህሩ የቀሪነት ማሳወቂያ ደብዳቤ እጽፋለሁ።",
+      "answerText": "የቀሪነት ማሳወቂያ ደብዳቤ"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "ልጆቹ በየቀኑ የቤት ሥራ መሥራት አለባቸው።",
+      "answerText": "የቤት ሥራ"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "ልጄ ሦስት ዓመቱ ነው። ወደ መዋዕለ ሕፃናት ይሄዳል።",
+      "answerText": "መዋዕለ ሕፃናት"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "ልጄን 16:00 ላይ እወስዳለሁ።",
+      "answerText": "እወስዳለሁ"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "እንደ አለመታደል ሆኖ ልጄ ዛሬ ታማለች።",
+      "answerText": "ታማለች"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "ቀጠሮ መያዝ እንችላለን?",
+      "answerText": "መያዝ"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "ትምህርቱ 8:00 ላይ ይጀምራል።",
+      "answerText": "ይጀምራል"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "እባክዎ ቅጹን እስከ ዓርብ ድረስ ይፈርሙ።",
+      "answerText": "ይፈርሙ"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ልጅ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "ክፍል",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "መምህር",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "ደብተር",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "ውጤት",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "እስክሪብቶ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "ልጄ ዛሬ ታሟል።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "የወላጆች ስብሰባው መቼ ይጀምራል?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "ልጄን 15:00 ላይ እወስዳታለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "ልጄ ለትምህርት ቤት ጉዞው የሚያስፈልገው ነገር አለ?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "የወላጆች ስብሰባ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "የውጤት ካርድ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "የቀሪነት ማሳወቂያ ደብዳቤ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "የቤት ሥራ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "የክፍል ኃላፊ መምህር",
+      "answerText": null
+    }
+  ]
+}

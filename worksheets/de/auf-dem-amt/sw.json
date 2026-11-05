@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.144Z"
+  },
+  "title": "Kwenye ofisi ya serikali",
+  "instructions": {
+    "auf-dem-amt-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "auf-dem-amt-gap": "Weka alama kwenye neno linalofaa.",
+    "auf-dem-amt-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "auf-dem-amt-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "auf-dem-amt-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "auf-dem-amt-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "usajili wa makazi",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Unaiarifu ofisi anwani yako mpya.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "namba ya foleni",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Unachukua namba hii kwenye mashine.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "pasipoti",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Hati unayotumia kusafiri nje ya nchi.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "uthibitisho wa mwenye nyumba",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Unahitaji karatasi hii kutoka kwa mwenye nyumba kwa ajili ya usajili.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "cheti cha usajili wa makazi",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Karatasi hii inaonyesha kwamba sasa unaishi kwenye anwani hii.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "hali ya ndoa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "hujaoa/hujaolewa, umeoa/umeolewa, umetalikiana au mjane",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "sahihi",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Jina lako lililoandikwa kwa mkono.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "fomu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Karatasi yenye nafasi za kujaza.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Ningependa kusajili nyumba yangu mpya.",
+      "answerText": "nyumba"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Tafadhali chukua namba kwenye mashine.",
+      "answerText": "namba"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Namba 147, tafadhali nenda dirisha namba 12.",
+      "answerText": "dirisha"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Huu ni uthibitisho kutoka kwa mwenye nyumba wangu.",
+      "answerText": "mwenye nyumba"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Una kitambulisho chako?",
+      "answerText": "kitambulisho"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Tafadhali jaza fomu yote.",
+      "answerText": "fomu"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Utahitaji cheti cha usajili wa makazi mara nyingi, kwa mfano kwa akaunti ya benki.",
+      "answerText": "cheti cha usajili wa makazi"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Leo ninajisajili.",
+      "answerText": "jisajili"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Nitie sahihi wapi?",
+      "answerText": "sahihi"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Ninataja herufi za jina langu: N – O – W – A – K.",
+      "answerText": "taja"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Tafadhali keti.",
+      "answerText": "keti"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Utaratibu unachukua takriban wiki mbili.",
+      "answerText": "unachukua"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "ofisi ya serikali",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "kitambulisho",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "nyumba",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "fomu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "mwenye nyumba",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "anwani",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Ningependa kujisajili.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Nitie sahihi wapi?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Hii ni pasipoti yangu.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Ninahitaji kitu kingine chochote?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "cheti cha usajili wa makazi",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "pasipoti",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "hajaoa/hajaolewa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "mwenye nyumba",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "anwani",
+      "answerText": null
+    }
+  ]
+}

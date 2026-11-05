@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "574df751-5b71-4b35-9315-48428c078f32",
+    "level": "A2"
+  },
+  "title": "Rentar un departamento",
+  "topic": "Buscar departamento, verlo y firmar el contrato",
+  "tasks": [
+    {
+      "id": "es-rentar-un-departamento-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-rentar-un-departamento-matching-1",
+          "term": "la renta",
+          "meaning": "El dinero que pagas cada mes por el departamento."
+        },
+        {
+          "id": "es-rentar-un-departamento-matching-2",
+          "term": "el arrendador",
+          "meaning": "La persona dueña del departamento que lo renta."
+        },
+        {
+          "id": "es-rentar-un-departamento-matching-3",
+          "term": "el depósito",
+          "meaning": "Dinero que pagas al principio y te devuelven al mudarte."
+        },
+        {
+          "id": "es-rentar-un-departamento-matching-4",
+          "term": "el contrato",
+          "meaning": "El documento que firman el inquilino y el arrendador."
+        },
+        {
+          "id": "es-rentar-un-departamento-matching-5",
+          "term": "los servicios",
+          "meaning": "Agua, luz y gas."
+        },
+        {
+          "id": "es-rentar-un-departamento-matching-6",
+          "term": "el aval",
+          "meaning": "Una persona que garantiza que vas a pagar la renta."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-rentar-un-departamento-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-rentar-un-departamento-gap-1",
+          "promptBefore": "¿Cuánto es la",
+          "promptAfter": "al mes?",
+          "correctAnswer": "renta",
+          "options": [
+            "renta",
+            "llave",
+            "recámara"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-rentar-un-departamento-gap-2",
+          "promptBefore": "¿Los",
+          "promptAfter": "están incluidos en la renta?",
+          "correctAnswer": "servicios",
+          "options": [
+            "servicios",
+            "vecinos",
+            "contratos"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-rentar-un-departamento-gap-3",
+          "promptBefore": "Hay que pagar un",
+          "promptAfter": "de un mes.",
+          "correctAnswer": "depósito",
+          "options": [
+            "depósito",
+            "balcón",
+            "aval"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-rentar-un-departamento-gap-4",
+          "promptBefore": "Para rentar, necesito un",
+          "promptAfter": "con casa propia.",
+          "correctAnswer": "aval",
+          "options": [
+            "aval",
+            "depósito",
+            "contrato"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-rentar-un-departamento-gap-5",
+          "promptBefore": "Lea bien el",
+          "promptAfter": "antes de firmarlo.",
+          "correctAnswer": "contrato",
+          "options": [
+            "contrato",
+            "aval",
+            "balcón"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-rentar-un-departamento-gap-6",
+          "promptBefore": "El departamento tiene dos",
+          "promptAfter": "y un baño.",
+          "correctAnswer": "recámaras",
+          "options": [
+            "recámaras",
+            "rentas",
+            "depósitos"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-rentar-un-departamento-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-rentar-un-departamento-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "un departamento cerca del metro.",
+          "correctAnswer": "Busco",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "buscar"
+        },
+        {
+          "id": "es-rentar-un-departamento-verbs-2",
+          "promptBefore": "¿Se",
+          "promptAfter": "mascotas?",
+          "correctAnswer": "permiten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "permitir"
+        },
+        {
+          "id": "es-rentar-un-departamento-verbs-3",
+          "promptBefore": "Ayer",
+          "promptAfter": "el contrato.",
+          "correctAnswer": "firmamos",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "firmar"
+        },
+        {
+          "id": "es-rentar-un-departamento-verbs-4",
+          "promptBefore": "El arrendador nos",
+          "promptAfter": "las llaves el lunes.",
+          "correctAnswer": "entrega",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "entregar"
+        },
+        {
+          "id": "es-rentar-un-departamento-verbs-5",
+          "promptBefore": "¿Cuánto",
+          "promptAfter": "los servicios al mes?",
+          "correctAnswer": "cuestan",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "costar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-rentar-un-departamento-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-rentar-un-departamento-order-1",
+          "chunks": [
+            "¿Todavía",
+            "está",
+            "disponible",
+            "el departamento"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-rentar-un-departamento-order-2",
+          "chunks": [
+            "Me gustaría",
+            "ver",
+            "el departamento"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-rentar-un-departamento-order-3",
+          "chunks": [
+            "¿De cuánto",
+            "es",
+            "el depósito"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-rentar-un-departamento-order-4",
+          "chunks": [
+            "La renta",
+            "se paga",
+            "el primero",
+            "de cada mes"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-rentar-un-departamento-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-rentar-un-departamento-spelling-1",
+          "correct": "departamento",
+          "wrong": "departamiento"
+        },
+        {
+          "id": "es-rentar-un-departamento-spelling-2",
+          "correct": "recámara",
+          "wrong": "recamara"
+        },
+        {
+          "id": "es-rentar-un-departamento-spelling-3",
+          "correct": "contrato",
+          "wrong": "contrado"
+        },
+        {
+          "id": "es-rentar-un-departamento-spelling-4",
+          "correct": "llave",
+          "wrong": "yave"
+        },
+        {
+          "id": "es-rentar-un-departamento-spelling-5",
+          "correct": "vecino",
+          "wrong": "becino"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

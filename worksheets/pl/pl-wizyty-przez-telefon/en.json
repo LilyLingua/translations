@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.534Z"
+  },
+  "title": "Appointments by Phone",
+  "instructions": {
+    "pl-wizyty-przez-telefon-matching": "Match each word with its meaning.",
+    "pl-wizyty-przez-telefon-gap": "Choose the right word.",
+    "pl-wizyty-przez-telefon-verbs": "Fill in the correct verb.",
+    "pl-wizyty-przez-telefon-order": "Put the words in the right order and write the sentence.",
+    "pl-wizyty-przez-telefon-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1",
+      "translation": "to call",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1:meaning",
+      "translation": "To talk to someone on the phone.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2",
+      "translation": "to cancel",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2:meaning",
+      "translation": "To say that you will not come.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3",
+      "translation": "to reschedule",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3:meaning",
+      "translation": "To change the time of an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4",
+      "translation": "voice message",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4:meaning",
+      "translation": "A message you leave when nobody answers.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5",
+      "translation": "extension",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5:meaning",
+      "translation": "A short phone number inside a company.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6",
+      "translation": "free slot",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6:meaning",
+      "translation": "A time when you can still book an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-1",
+      "translation": "I want to cancel my appointment on Friday.",
+      "answerText": "cancel"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-2",
+      "translation": "Can we move it to next week?",
+      "answerText": "move"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-3",
+      "translation": "Is there a free slot on Monday?",
+      "answerText": "free"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-4",
+      "translation": "Please leave a voice message.",
+      "answerText": "voice"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-5",
+      "translation": "Could you call me back later?",
+      "answerText": "call"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-6",
+      "translation": "Please dial extension 245.",
+      "answerText": "extension"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-1",
+      "translation": "I'm calling about an appointment.",
+      "answerText": "calling"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-2",
+      "translation": "Can I make an appointment?",
+      "answerText": "make"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-3",
+      "translation": "Could you repeat that?",
+      "answerText": "repeat"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-4",
+      "translation": "I'll call back in ten minutes.",
+      "answerText": "call"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-5",
+      "translation": "The office is open until five.",
+      "answerText": "is open"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-1",
+      "translation": "Can I speak to Dr. Nowak?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-2",
+      "translation": "I want to cancel my appointment.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-3",
+      "translation": "Is Tuesday at ten okay for you?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-4",
+      "translation": "I'll call back tomorrow morning.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-1",
+      "translation": "telephone",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-2",
+      "translation": "message",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-3",
+      "translation": "Wednesday",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-4",
+      "translation": "cancel",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-5",
+      "translation": "appointment, date",
+      "answerText": null
+    }
+  ]
+}

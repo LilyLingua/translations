@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:19.899Z"
+  },
+  "title": "Шверин",
+  "instructions": {
+    "stadt-schwerin-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-schwerin-gap": "Означи тачну реч.",
+    "stadt-schwerin-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-schwerin-table": "Упиши члан и облик множине.",
+    "stadt-schwerin-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-schwerin-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-schwerin-matching-1",
+      "translation": "дворац Шверин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-1:meaning",
+      "translation": "Бајковити дворац на острву; данас у њему ради покрајински парламент.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2",
+      "translation": "Петерменхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2:meaning",
+      "translation": "Мали дух дворца из старе легенде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3",
+      "translation": "покрајински парламент",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3:meaning",
+      "translation": "Парламент једне савезне покрајине.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4",
+      "translation": "острво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4:meaning",
+      "translation": "Копно окружено водом са свих страна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5",
+      "translation": "главни град покрајине",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5:meaning",
+      "translation": "Главни град савезне покрајине.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6",
+      "translation": "катедрала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6:meaning",
+      "translation": "Велика, стара црква; у Шверину има веома висок торањ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7",
+      "translation": "легенда",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7:meaning",
+      "translation": "Стара прича коју људи причају већ веома дуго.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-1",
+      "translation": "Дворац стоји на острву.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-2",
+      "translation": "Шверин лежи на великом језеру.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-3",
+      "translation": "Покрајински парламент ради у дворцу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-4",
+      "translation": "Ноћу Петерменхен хода по дворцу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-5",
+      "translation": "Чамцем пловимо преко језера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-6",
+      "translation": "Са торња катедрале види се много језера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-7",
+      "translation": "Шверин је најмањи главни град покрајине у Немачкој.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-verbs-1",
+      "translation": "Ноћу Петерменхен чува дворац.",
+      "answerText": "чува"
+    },
+    {
+      "id": "stadt-schwerin-verbs-2",
+      "translation": "Око Шверина има много језера.",
+      "answerText": "има"
+    },
+    {
+      "id": "stadt-schwerin-verbs-3",
+      "translation": "Шетамо у врту дворца.",
+      "answerText": "Шетамо"
+    },
+    {
+      "id": "stadt-schwerin-verbs-4",
+      "translation": "У дворцу политичари расправљају о новим законима.",
+      "answerText": "расправљају"
+    },
+    {
+      "id": "stadt-schwerin-verbs-5",
+      "translation": "Легенда прича о малом духу.",
+      "answerText": "прича"
+    },
+    {
+      "id": "stadt-schwerin-table-1",
+      "translation": "дворац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-2",
+      "translation": "острво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-3",
+      "translation": "језеро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-4",
+      "translation": "дух",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-5",
+      "translation": "врт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-6",
+      "translation": "прича",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-1",
+      "translation": "Дворац стоји на острву.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-2",
+      "translation": "Данас у дворцу ради покрајински парламент.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-3",
+      "translation": "Да ли знаш легенду о Петерменхену?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-4",
+      "translation": "Шверин је град са много језера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-1",
+      "translation": "дворац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-2",
+      "translation": "острво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-3",
+      "translation": "дух",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-4",
+      "translation": "прича",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-5",
+      "translation": "парламент",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.910Z"
+  },
+  "title": "La primărie (la autorități)",
+  "instructions": {
+    "auf-dem-amt-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "auf-dem-amt-gap": "Bifați cuvântul potrivit.",
+    "auf-dem-amt-verbs": "Completați cu verbul corect la forma corectă.",
+    "auf-dem-amt-table": "Completați articolul (der/die/das) și forma de plural.",
+    "auf-dem-amt-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "auf-dem-amt-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "înregistrarea domiciliului",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Comunici autorităților noua ta adresă.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "bonul de ordine",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Acest număr îl iei de la automat.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "pașaportul",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Un act cu care călătorești în străinătate.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "confirmarea proprietarului",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Ai nevoie de această hârtie de la proprietar pentru înregistrare.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "adeverința de domiciliu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Această hârtie arată că acum locuiești la această adresă.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "starea civilă",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "necăsătorit, căsătorit, divorțat sau văduv",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "semnătura",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Numele tău, scris de mână.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "formularul",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "O hârtie cu căsuțe de completat.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Aș dori să-mi înregistrez noua locuință.",
+      "answerText": "locuință"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Vă rog să luați un număr de la automat.",
+      "answerText": "număr"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Numărul 147, vă rog la ghișeul 12.",
+      "answerText": "ghișeul"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Aceasta este confirmarea de la proprietarul meu.",
+      "answerText": "proprietarul"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Aveți buletinul la dumneavoastră?",
+      "answerText": "buletinul"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Vă rog să completați formularul în întregime.",
+      "answerText": "formularul"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Veți avea des nevoie de adeverința de domiciliu, de exemplu pentru un cont bancar.",
+      "answerText": "adeverința de domiciliu"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Azi îmi înregistrez domiciliul.",
+      "answerText": "înregistrez"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Unde trebuie să semnez?",
+      "answerText": "semnez"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Îmi spun numele pe litere: N – O – W – A – K.",
+      "answerText": "spun"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Vă rog să luați loc.",
+      "answerText": "luați"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Procesarea durează aproximativ două săptămâni.",
+      "answerText": "durează"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "instituția",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "buletinul",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "locuința",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "formularul",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "proprietarul",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "adresa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Aș dori să mă înregistrez.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Unde trebuie să semnez?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Acesta este pașaportul meu.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Mai am nevoie de ceva?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "adeverință de domiciliu",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "pașaport",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "necăsătorit",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "proprietar",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "adresă",
+      "answerText": null
+    }
+  ]
+}

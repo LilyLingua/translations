@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:18.621Z"
+  },
+  "title": "ფრანკფურტი მაინზე",
+  "instructions": {
+    "stadt-frankfurt-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-frankfurt-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-frankfurt-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-frankfurt-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-frankfurt-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-frankfurt-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-frankfurt-matching-1",
+      "translation": "„ებელვოი“ (ვაშლის ღვინო)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-1:meaning",
+      "translation": "ჰესენურად ვაშლის ღვინო – ფრანკფურტის ტიპური სასმელი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2",
+      "translation": "„ბემბელი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2:meaning",
+      "translation": "ნაცრისფერი დოქი ლურჯი ორნამენტით; მისგან ვაშლის ღვინოს ასხამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3",
+      "translation": "„გრი სოს“ (მწვანე სოუსი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3:meaning",
+      "translation": "მწვანე სოუსი შვიდი მწვანილისგან, კარტოფილითა და კვერცხით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4",
+      "translation": "მაინჰეტენი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4:meaning",
+      "translation": "ფრანკფურტის მეტსახელი – მაინზე მრავალი ცათამბჯენის გამო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5",
+      "translation": "„ჰანდკეს მიტ მუზიკ“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5:meaning",
+      "translation": "პატარა ყველი ხახვით, ძმრით და ზეთით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6",
+      "translation": "რიომერი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6:meaning",
+      "translation": "ფრანკფურტის ძველი რატუშა ლამაზი ფრონტონებით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7",
+      "translation": "ბირჟა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7:meaning",
+      "translation": "აქ აქციებს ყიდულობენ და ყიდიან; შენობის წინ ხარი და დათვი დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-1",
+      "translation": "ვაშლის ღვინო ბემბელში მაგიდაზე დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-2",
+      "translation": "დიდი ბანკები ქალაქის ცენტრში დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-3",
+      "translation": "შაბათ-კვირას მაინზე მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-4",
+      "translation": "მაინ-თაუერიდან მთელი სკაილაინი ჩანს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-5",
+      "translation": "ბევრი თვითმფრინავი ფრანკფურტის აეროპორტში ჯდება.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-6",
+      "translation": "ჰანდკეს მიტ მუზიკს ვუკვეთავ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-7",
+      "translation": "ძველი რატუშა რიომერბერგზე დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-verbs-1",
+      "translation": "ზაქსენჰაუზენში ებელვოის სვამენ.",
+      "answerText": "სვამენ"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-2",
+      "translation": "მაინი ქალაქში მიედინება.",
+      "answerText": "მიედინება"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-3",
+      "translation": "ბევრი ადამიანი ბანკებში მუშაობს.",
+      "answerText": "მუშაობს"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-4",
+      "translation": "გოეთე 1749 წელს ფრანკფურტში დაიბადა.",
+      "answerText": "დაიბადა"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-5",
+      "translation": "მწვანე სოუსისთვის შვიდი მწვანილი გჭირდება.",
+      "answerText": "გჭირდება"
+    },
+    {
+      "id": "stadt-frankfurt-table-1",
+      "translation": "ცათამბჯენი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-2",
+      "translation": "ბანკი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-3",
+      "translation": "დოქი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-4",
+      "translation": "აეროპორტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-5",
+      "translation": "მწვანილი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-6",
+      "translation": "ხახვი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-1",
+      "translation": "ფრანკფურტში გერმანიაში ყველაზე მეტი ცათამბჯენია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-2",
+      "translation": "ბემბელში ვაშლის ღვინოა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-3",
+      "translation": "ხვალ ფრანკფურტიდან მიფრინავ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-4",
+      "translation": "მწვანე სოუსს შვიდი მწვანილისგან ამზადებენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-1",
+      "translation": "ცათამბჯენი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-2",
+      "translation": "აეროპორტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-3",
+      "translation": "ხახვი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-4",
+      "translation": "ვაშლის ღვინო",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-5",
+      "translation": "მწვანილი",
+      "answerText": null
+    }
+  ]
+}

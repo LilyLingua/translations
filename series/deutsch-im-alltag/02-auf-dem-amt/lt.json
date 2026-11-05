@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Norėčiau užsiregistruoti."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Aš paimu numerėlį."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – 12 langelis"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Norėčiau užregistruoti savo naują butą."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Štai mano nuomotojo patvirtinimas."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Štai mano pasas."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Paraidžiui: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Aš nevedęs / netekėjusi."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Kur turiu pasirašyti?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Ar man dar ko nors reikia?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Aš persikrausčiau! Naujas butas, naujas miestas …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Puiku! O – ar jau užsiregistravai?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Užsiregistravau? Kur? Sporto klube?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Ne, Leo. Įstaigoje! Šiandien patirsi visą vizitą „Bürgeramt“ – nuo įėjimo iki registracijos pažymos."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Ir kiekvienoje situacijoje tavęs klausiame: ką tu sakai?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Ir turi tik penkias sekundes!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Ateini į gyventojų aptarnavimo skyrių. Prie informacijos stalo sėdi vyras."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Labas rytas. Koks jūsų reikalas?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Labas rytas. Norėčiau užsiregistruoti."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Aš esu reikalas."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Noriu įstaigos."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ reiškia: kodėl jūs čia? Ko jums reikia?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Įstaigose šį žodį girdėsi labai dažnai."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Labas rytas. Norėčiau užsiregistruoti."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Ar jūs užsiregistravęs vizitui?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Taip, devintą valandą."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Norėčiau užsiregistruoti."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Mano vizitas devintą valandą."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Gerai. Tada prašom paimti numerėlį ir palaukti ten."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Ką darai dabar?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Tu kraustaisi."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Tu tampai kažką už plaukų."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Iš automato paimi lapelį su numeriu."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Taigi A! Aš kraustausi. Juk ką tik persikrausčiau …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Ne, Leo. C! „Eine Nummer ziehen“ reiškia: paimi lapelį su savo eilės numeriu. „Umziehen“"
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "yra visai kas kita – tai reiškia: persikelti į naują butą."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Aš paimu numerėlį."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Tu lauki. Staiga išgirsti pranešimą. Klausykis atidžiai!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Numeris 147, prašom prie 12 langelio."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Tavo numeris 147. Kur eini?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Prie 147 langelio."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Prie 12 langelio."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Į 14 kabinetą."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Pirmiausia tavo numeris, paskui langelis."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Daugelyje įstaigų tai rodoma ir ekrane."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – 12 langelis"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Eini prie 12 langelio. Ten sėdi moteris."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Labas rytas. Prašom sėstis. Kuo galiu jums padėti?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Norėčiau jus užregistruoti."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Norėčiau užregistruoti savo naują butą."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Dabar gyvenu čia. Iki!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Tu registruoji savo butą – arba save: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Bet ne „Sie“ (jus) – ponia Krüger jau užregistruota."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Norėčiau užregistruoti savo naują butą."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Mielai. Kada įsikraustėte?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Spalio pirmą."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Norėčiau užregistruoti savo naują butą."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Įsikrausčiau spalio pirmą."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Ar turite su savimi buto savininko patvirtinimą?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "O, ilgas žodis! Ką tu sakai?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Ne, aš neduodu buto."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Taip, atiduosiu jums savo butą."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Taip, štai mano nuomotojo patvirtinimas."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ – tai tavo nuomotojo forma. Ji patvirtina, kad tu tikrai gyveni šiame bute."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Be šio popieriaus registracija dažniausiai neįmanoma."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Taip, štai mano nuomotojo patvirtinimas."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Štai mano nuomotojo patvirtinimas."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Ir jūsų asmens tapatybės kortelę arba pasą, prašom."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Štai mano pasas."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Štai yra mano pasas (daugiskaita)."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Aš esu pasas."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Vienas pasas – todėl „ist“ (yra), o ne „sind“ (yra, daugiskaita). Įstaigose beveik visada reikia paso arba asmens tapatybės kortelės."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "O jei pamiršai, sąžiningai pasakyk: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Atsiprašau, deja, pamiršau.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Štai mano pasas."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Štai mano pasas."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Atsiprašau, deja, pamiršau."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Kaip rašoma jūsų pavardė?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Tavo pavardė Nowak. Ką tu sakai?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Tušinuku."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Paraidžiui: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Ją rašo labai gražiai."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ reiškia: kokios raidės? Tada sakai paraidžiui – raidė po raidės."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Pasipraktikuok savo vardą vokiškai – jo reikės visur!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Ačiū."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Paraidžiui: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Ar jūs vedęs / ištekėjusi?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Tu nesi susituokęs. Ką tu sakai?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Ne, aš nevedęs / netekėjusi."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Ne, aš deja."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Ne, aš tuoktis."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ reiškia: nesusituokęs. Atsargiai: „leider“ skamba panašiai, bet reiškia visai ką kita – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "reiškia: deja."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Ne, aš nevedęs / netekėjusi."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Aš nevedęs / netekėjusi."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Aš vedęs / ištekėjusi."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Prašom patikrinti duomenis. Jei viskas teisinga, pasirašykite čia."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Ką tu sakai?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Parašysiu tai po stalu."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Nemėgstu pasirašinėti."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Viskas teisinga. Kur tiksliai turiu pasirašyti?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ reiškia: ranka parašyti savo vardą – tavo parašas."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Ir naudinga žinoti: visada pirmiausia perskaityk, kas parašyta formoje."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Viskas teisinga. Kur tiksliai turiu pasirašyti?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Čia apačioje, prašom."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Kur turiu pasirašyti?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Na štai, viskas. Štai jūsų registracijos pažyma."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Baigei! Ką tu sakai?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Ačiū, aš jums paskambinsiu."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Labai ačiū! Ar man dar ko nors reikia?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Man nieko neskauda!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Ir atsargiai su A: „Ich melde mich“ reiškia ne „aš registruojuosi“, o: aš jums vėliau paskambinsiu."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "O C galbūt dar prisimeni – tai tinka tik pas gydytoją!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Labai ačiū! Ar man dar ko nors reikia?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Ne, tai viskas. Gerai saugokite pažymą."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Kartok po manęs!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Ar man dar ko nors reikia?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Trys patarimai apie registraciją. Pirma: užsiregistruok per dvi savaites po įsikraustymo."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Antra: daugelyje miestų reikia iš anksto užsiregistruoti vizitui – dažnai tai galima padaryti internetu."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Ir trečia: registracijos pažymos dažnai prireiks vėl, pavyzdžiui, banko sąskaitai."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Tad gerai ją saugok!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Įstaigose vokiečių kalba kartais skamba labai sudėtingai. Leo perskaito – o aš pasakau paprastai."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Koks jūsų reikalas?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Ko jums reikia?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Prašom paruošti savo dokumentus."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Prašom laikyti popierius rankoje."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Užpildykite formą visą."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Visur ką nors parašykite."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Tvarkymas trunka maždaug dvi savaites."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Tai trunka apie dvi savaites."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Prašom dokumentus pateikti vėliau."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Prašom popierius atnešti vėliau."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Šiandien aš persirengiu!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "O, apsirengsi kitais drabužiais? O gal turi omenyje: „Ich ziehe um“ – kraustausi į naują butą?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "O įstaigoje: ne „Ich bin leider“, o „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(esu nevedęs / netekėjusi) – jei nesi susituokęs."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "O „Ich melde mich“ reiškia: paskambinsiu vėliau. Įstaigoje sakai: „Ich melde mich an.“ (Aš registruojuosi.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "O dabar viskas dar kartą. Dešimt svarbiausių sakinių. Kartok po manęs!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Norėčiau užsiregistruoti."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Mano vizitas devintą valandą."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Aš paimu numerėlį."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Norėčiau užregistruoti savo naują butą."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Štai mano nuomotojo patvirtinimas."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Štai mano pasas."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Pasakysiu savo vardą paraidžiui."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Aš nevedęs / netekėjusi."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Kur turiu pasirašyti?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Ar man dar ko nors reikia?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Kuris žodis tau buvo sunkiausias? Parašyk komentaruose!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Iki, ir greitai pasimatysime LilyLingua!"
+    }
+  ]
+}

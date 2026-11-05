@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.335Z"
+  },
+  "title": "גן ובית ספר",
+  "instructions": {
+    "kita-und-schule-matching": "חברו כל מילה להסבר המתאים.",
+    "kita-und-schule-gap": "סמנו את המילה המתאימה.",
+    "kita-und-schule-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "kita-und-schule-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "kita-und-schule-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "kita-und-schule-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "אסיפת הורים",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "פגישה של ההורים עם המורים.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "גן ילדים (מעון יום)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "כאן מטפלים בילדים קטנים במשך היום.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "מחנכת הכיתה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "היא אחראית על כיתה.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "תעודה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "כאן כתובים הציונים בסוף שנת הלימודים.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "מכתב הצדקה להיעדרות",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "מכתב קצר לבית הספר כשהילד שלכם היה חולה.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "חופשה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "הזמן בלי בית ספר, למשל בקיץ.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "טיול שנתי",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "הכיתה נוסעת יחד למקום אחר.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "הבן שלי חולה. היום הוא לא יכול לבוא לבית הספר.",
+      "answerText": "לבית הספר"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "באסיפת ההורים ההורים מדברים עם המורה.",
+      "answerText": "באסיפת ההורים"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "בקיץ יש לילדים שישה שבועות חופשה.",
+      "answerText": "חופשה"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "בסוף שנת הלימודים הבת שלי מקבלת תעודה.",
+      "answerText": "תעודה"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "אני כותב למורה מכתב הצדקה, כי הילד שלי היה חולה.",
+      "answerText": "מכתב הצדקה"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "הילדים צריכים להכין שיעורי בית כל יום.",
+      "answerText": "שיעורי בית"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "הילד שלי בן שלוש והולך לגן.",
+      "answerText": "לגן"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "אני אוסף את הילד בשעה 16.",
+      "answerText": "אוסף"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "הבת שלי חולה היום, לצערי.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "אפשר לקבוע פגישה?",
+      "answerText": "לקבוע"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "השיעורים מתחילים בשעה 8.",
+      "answerText": "מתחילים"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "נא לחתום על הטופס עד יום שישי.",
+      "answerText": "לחתום"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ילד",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "כיתה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "מורה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "מחברת",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "ציון",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "עט",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "הבן שלי חולה היום.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "מתי מתחילה אסיפת ההורים?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "אני אוסף את הבת שלי בשעה 15.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "הילד שלי צריך משהו לטיול?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "אסיפת הורים",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "תעודה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "מכתב הצדקה",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "שיעורי בית",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "מחנכת הכיתה",
+      "answerText": null
+    }
+  ]
+}

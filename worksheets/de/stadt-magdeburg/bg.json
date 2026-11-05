@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:50.916Z"
+  },
+  "title": "Магдебург",
+  "instructions": {
+    "stadt-magdeburg-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-magdeburg-gap": "Отбележете правилната дума.",
+    "stadt-magdeburg-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-magdeburg-table": "Попълнете члена и формата за множествено число.",
+    "stadt-magdeburg-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-magdeburg-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-magdeburg-matching-1",
+      "translation": "„Градът на Ото“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-1:meaning",
+      "translation": "Прякор на Магдебург – по император Ото Велики и Ото фон Герике.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2",
+      "translation": "катедралата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-2:meaning",
+      "translation": "Голяма готическа църква; тук е погребан император Ото Велики.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3",
+      "translation": "Зелената цитадела",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-3:meaning",
+      "translation": "Шарена сграда с дървета на покрива, последният проект на Хундертвасер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4",
+      "translation": "полукълбото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-4:meaning",
+      "translation": "С две полукълба Герике показал колко силен е вакуумът.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5",
+      "translation": "водният възел",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-5:meaning",
+      "translation": "Тук корабите пресичат Елба по мост-канал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6",
+      "translation": "вакуумът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-6:meaning",
+      "translation": "Пространство напълно без въздух.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7",
+      "translation": "императорът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-matching-7:meaning",
+      "translation": "Владетел, още по-могъщ от крал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-1",
+      "translation": "Посещаваме катедралата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-2",
+      "translation": "Зелената цитадела има дървета на покрива.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-3",
+      "translation": "Кораб плава по мост над Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-4",
+      "translation": "Много коне не успели да разделят полукълбата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-5",
+      "translation": "Магдебург се намира на Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-6",
+      "translation": "Герике направил опит с вакуум.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-gap-7",
+      "translation": "Снимаме шарената сграда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-verbs-1",
+      "translation": "Хундертвасер проектира Зелената цитадела.",
+      "answerText": "проектира"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-2",
+      "translation": "Ото фон Герике правеше опити с въздуха.",
+      "answerText": "правеше"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-3",
+      "translation": "Конете дърпаха полукълбата.",
+      "answerText": "дърпаха"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-4",
+      "translation": "По мост-канала корабите плават над Елба.",
+      "answerText": "плават"
+    },
+    {
+      "id": "stadt-magdeburg-verbs-5",
+      "translation": "Император Ото лежи погребан в катедралата.",
+      "answerText": "лежи"
+    },
+    {
+      "id": "stadt-magdeburg-table-1",
+      "translation": "императорът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-2",
+      "translation": "конят",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-3",
+      "translation": "покривът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-4",
+      "translation": "кълбото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-5",
+      "translation": "каналът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-table-6",
+      "translation": "опитът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-1",
+      "translation": "Магдебург се намира на Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-2",
+      "translation": "На покрива растат дървета.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-3",
+      "translation": "Знаеш ли опита с полукълбата?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-order-4",
+      "translation": "Корабите плават по мост над Елба.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-1",
+      "translation": "император",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-2",
+      "translation": "кон",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-3",
+      "translation": "опит",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-4",
+      "translation": "кълбо",
+      "answerText": null
+    },
+    {
+      "id": "stadt-magdeburg-spelling-5",
+      "translation": "кмет",
+      "answerText": null
+    }
+  ]
+}

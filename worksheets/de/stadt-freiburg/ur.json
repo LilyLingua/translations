@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ur",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:01.498Z"
+  },
+  "title": "فرائبرگ",
+  "instructions": {
+    "stadt-freiburg-matching": "ہر لفظ کو صحیح وضاحت سے ملائیں۔",
+    "stadt-freiburg-gap": "صحیح لفظ پر نشان لگائیں۔",
+    "stadt-freiburg-verbs": "صحیح فعل کو صحیح شکل میں لکھیں۔",
+    "stadt-freiburg-table": "آرٹیکل اور جمع کی شکل لکھیں۔",
+    "stadt-freiburg-order": "الفاظ کو صحیح ترتیب میں رکھ کر جملہ لکھیں۔",
+    "stadt-freiburg-spelling": "کون سا لفظ صحیح لکھا گیا ہے؟ اس پر نشان لگائیں۔"
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "\"بیشلے\" (چھوٹی نالیاں)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "پرانے شہر کی گلیوں میں پانی کی چھوٹی نالیاں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "منسٹر (بڑا گرجا)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "سرخ ریتیلے پتھر سے بنا بڑا گرجا، جس کا مینار اونچا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "\"لانگے روٹے\" (لمبی لال)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "منسٹر کے پاس بازار کا لمبا، لال بھنا ہوا ساسیج۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "\"بوبیلے\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "فرائبرگ میں پیدا ہونے والے لوگوں کا نام۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "شاؤ ان سلینڈ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "فرائبرگ کا اپنا پہاڑ؛ ایک کیبل کار اوپر جاتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "بلیک فاریسٹ (شوارتس والڈ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "شہر کے بالکل سامنے جنگلوں سے ڈھکا بڑا پہاڑی سلسلہ۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "فوبان",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "ماحول دوست محلہ، جہاں توانائی بچانے والے گھر ہیں اور گاڑیاں کم ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "جو بیشلے میں پاؤں رکھے، وہ فرائبرگ والے سے شادی کرتا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "منسٹر کے پاس بازار میں ہم لانگے روٹے کھاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "ہم کیبل کار سے شاؤ ان سلینڈ جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "ہفتے کے آخر میں ہم بلیک فاریسٹ میں پیدل گھومتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "بہت سے سیاح منسٹر دیکھنے جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "فوبان میں بہت سے لوگ سائیکل چلاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "فرائبرگ بہت دھوپ والا شہر ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "پانی بیشلے میں بہتا ہے۔",
+      "answerText": "بہتا"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "کیبل کار شاؤ ان سلینڈ پر جاتی ہے۔",
+      "answerText": "جاتی"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "فرائبرگ میں بہت اکثر دھوپ نکلتی ہے۔",
+      "answerText": "نکلتی"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "جو بیشلے میں پاؤں رکھے، وہ فرائبرگ والے سے شادی کرتا ہے۔",
+      "answerText": "شادی"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "منسٹر پلاٹز پر تقریباً ہر روز بازار لگتا ہے۔",
+      "answerText": "لگتا"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "ندی",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "جنگل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "پہاڑ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "ساسیج",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "محلہ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "کیبل کار",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "فرائبرگ میں اکثر دھوپ نکلتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "کیا تم نے کبھی بیشلے میں پاؤں رکھا ہے؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "منسٹر کا مینار اونچا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "ہفتے کے آخر میں ہم بلیک فاریسٹ میں پیدل گھومتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "ساسیج",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "جنگل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "دھوپ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "منسٹر",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "کیبل کار",
+      "answerText": null
+    }
+  ]
+}

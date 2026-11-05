@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:19.120Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በርሊን",
+  "instructions": {
+    "stadt-berlin-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "stadt-berlin-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "stadt-berlin-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "stadt-berlin-table": "ዓንቀጽን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "stadt-berlin-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "stadt-berlin-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "ርእሰ ከተማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "ናይ ሓንቲ ሃገር ኣዝያ ኣገዳሲት ከተማ፤ መንግስቲ ኣብዚ ይሰርሕ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "ማዕጾ ብራንደንቡርግ (Brandenburger Tor)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "ኣብ ላዕሊኡ ሰረገላን ኣርባዕተ ኣፍራስን ዘለዎ ፍሉጥ ምልክት ከተማ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "መንደቕ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "ክሳብ 1989 ንበርሊን ናብ ምብራቕን ምዕራብን መቒልዋ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "„Späti“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "ክሳብ ፍርቂ ለይቲ ክፉት ዝኸውን ንእሽቶ ድኳን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "„Schrippe“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "ሰባት በርሊን ንንእሽቶ ባኒ ከምኡ ይብልዎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "„Pfannkuchen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "ኣብ በርሊን፦ ማርማላታ ዝመልኦ ጥዑም ክቡብ ሕቡዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "„Kiez“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "ሰባት በርሊን ንከባቢኦም ከምኡ ይብልዎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "ናይ ማዕጾ ብራንደንቡርግ ስእሊ ነልዕል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "ግምቢ ቴሌቪዥን ጥቓ Alexanderplatz ይርከብ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "ፈለግ Spree ብማእከል ከተማ ይውሕዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "ኣብ Späti መስተ እዕድግ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "ክሳብ 1989 እቲ መንደቕ ኣብ ማእከል ከተማ ነይሩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "ኣብ ቤት ባኒ ሓንቲ Schrippe እእዝዝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "ኣብዚ ከባቢ ንሰለስተ ዓመት ነቢረ ኣለኹ።",
+      "answerText": "ኣብዚ"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "ብ9 ሕዳር 1989 እቲ መንደቕ ፈረሰ።",
+      "answerText": "ፈረሰ"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "መንግስቲ ኣብ በርሊን ይሰርሕ።",
+      "answerText": "ይሰርሕ"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "ብዙሓት በጻሕቲ ንEast Side Gallery ይበጽሕዋ።",
+      "answerText": "ይበጽሕዋ"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "Späti ክሳብ ፍርቂ ለይቲ ክፉት እዩ።",
+      "answerText": "እዩ"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "ብRingbahn ንማእከል ከተማ ብኽቢ ትዞራ።",
+      "answerText": "ትዞራ"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "ማዕጾ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "መንደቕ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "ከባቢ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "ድልድል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "ቤተ መዘክር",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "ድኳን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "በርሊን ርእሰ ከተማ ጀርመን እያ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "እቲ መንደቕ ኣብ 1989 ፈረሰ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Currywurst በሊዕኩምዶ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "Späti ክሳብ ፍርቂ ለይቲ ክፉት እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "ርእሰ ከተማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "መንግስቲ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "ንእሽቶ ባኒ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "ምልክት ከተማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "ግምቢ ቴሌቪዥን",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:46.105Z"
+  },
+  "title": "در داروخانه",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "هر کلمه را به معنی‌اش وصل کن.",
+    "en-at-the-pharmacy-gap": "کلمهٔ درست را انتخاب کن.",
+    "en-at-the-pharmacy-verbs": "فعل درست را بنویس.",
+    "en-at-the-pharmacy-order": "کلمه‌ها را به ترتیب درست بچین و جمله را بنویس.",
+    "en-at-the-pharmacy-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزن."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "برگه‌ای از پزشک برای دارویی که لازم داری.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "داروساز",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "کسی که دارو می‌فروشد و راهنمایی می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "عارضهٔ جانبی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "اثر ناخواستهٔ یک دارو.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "قرص",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "داروی کوچک و سفتی که قورت می‌دهی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "شربت سرفه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "داروی مایع برای سرفه.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "دوز",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "مقدار دارویی که هر بار می‌خوری.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "سرماخوردگی دارم و گلویم درد می‌کند.",
+      "answerText": "سرماخوردگی"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "آیا برای این دارو نسخه لازم است؟",
+      "answerText": "نسخه"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "روزی سه بار یک قرص بخورید.",
+      "answerText": "قرص"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "آیا عوارض جانبی دارد؟",
+      "answerText": "عوارض جانبی"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "اگر سؤالی دارید، از داروساز بپرسید.",
+      "answerText": "داروساز"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "لطفاً یک رسید به من بدهید.",
+      "answerText": "رسید"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "برای سردرد چیزی لازم دارم.",
+      "answerText": "لازم دارم"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "آیا به چیزی حساسیت دارید؟",
+      "answerText": "دارید"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "لطفاً این دارو را بعد از غذا بخورید.",
+      "answerText": "بخورید"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "داروساز به من نشان می‌دهد چطور از اسپری استفاده کنم.",
+      "answerText": "نشان می‌دهد"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "قیمتش چقدر است؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "آیا برای این نسخه لازم است؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "سرم درد می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "صبح دو قرص بخورید.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "می‌توانید چیزی برای سرفه توصیه کنید؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "دارو",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "داروخانه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "حساسیت",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "سردرد",
+      "answerText": null
+    }
+  ]
+}

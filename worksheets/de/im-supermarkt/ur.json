@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ur",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:37.323Z"
+  },
+  "title": "سپر مارکیٹ میں",
+  "instructions": {
+    "im-supermarkt-matching": "ہر لفظ کو اس کی صحیح وضاحت سے ملائیں۔",
+    "im-supermarkt-gap": "مناسب پیکنگ یا مقدار پر نشان لگائیں۔",
+    "im-supermarkt-verbs": "درست فعل درست شکل میں لکھیں۔",
+    "im-supermarkt-table": "آرٹیکل اور جمع کی شکل مکمل کریں۔",
+    "im-supermarkt-order": "الفاظ کو صحیح ترتیب میں لگائیں اور جملہ لکھیں۔",
+    "im-supermarkt-spelling": "کون سا لفظ صحیح لکھا ہے؟ نشان لگائیں۔"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "شاپنگ ٹرالی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "خریداری کرتے وقت آپ سامان اس میں رکھتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "پنیر کا کاؤنٹر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "یہاں آپ کو وزن کے حساب سے تازہ پنیر ملتا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "بوتل کی ضمانتی رقم (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "وہ رقم جو آپ کو خالی بوتلوں پر واپس ملتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "بوتل واپسی مشین",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "یہاں آپ خالی بوتلیں جمع کرواتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "آفر (رعایت)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "کوئی چیز تھوڑے عرصے کے لیے سستی ہوتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "رسید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "اس پرچی پر تمام قیمتیں لکھی ہوتی ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "تھیلا",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "اس میں آپ خریدا ہوا سامان گھر لے جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "میں دہی کا ایک کپ خریدتا ہوں۔",
+      "answerText": "کپ"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "پانی کی ایک اور بوتل، براہ کرم۔",
+      "answerText": "بوتل"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "ہمیں پاستا کا ایک پیکٹ چاہیے۔",
+      "answerText": "پیکٹ"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "ساس کے لیے میں ٹماٹر کا ایک ڈبہ لیتا ہوں۔",
+      "answerText": "ڈبہ"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "مجھے 200 گرام گاؤڈا چاہیے، براہ کرم۔",
+      "answerText": "گرام"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "مکھن کا ایک ٹکڑا 2.29 یورو کا ہے۔",
+      "answerText": "ٹکڑا"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "میں ایک لیٹر دودھ لیتا ہوں۔",
+      "answerText": "لیٹر"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "کیا آپ مجھے پانچ یورو کا کھلا دے سکتے ہیں؟",
+      "answerText": "کھلا"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "معاف کیجیے، آٹا کہاں ملے گا؟",
+      "answerText": "ملے"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "میں کارڈ سے ادائیگی کرتا ہوں۔",
+      "answerText": "ادائیگی"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "مجھے 200 گرام گاؤڈا چاہیے۔",
+      "answerText": "چاہیے"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "اتوار کو تقریباً تمام سپر مارکیٹیں بند ہوتی ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "بوتل",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "کپ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "ڈبہ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "روٹی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "سیب",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "کیلا",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "معاف کیجیے، آٹا کہاں ملے گا؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "میرے پاس اپنا تھیلا ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "آج کیلے آفر پر ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "بوتل واپسی مشین کہاں ہے؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "شاپنگ ٹرالی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "رسید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "بوتل کی ضمانتی رقم",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "پنیر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "بریڈ رول",
+      "answerText": null
+    }
+  ]
+}

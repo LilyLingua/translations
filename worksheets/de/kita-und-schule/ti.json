@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "መውዓሊ ህጻናትን ቤት ትምህርትን",
+  "instructions": {
+    "kita-und-schule-matching": "ነፍሲ ወከፍ ቃል ምስ ትኽክለኛ መግለጺኡ ኣዛምዱ።",
+    "kita-und-schule-gap": "ኣብ ትኽክለኛ ቃል ምልክት ግበሩ።",
+    "kita-und-schule-verbs": "ትኽክለኛ ግሲ ብትኽክለኛ ቅርጺ ምልኡ።",
+    "kita-und-schule-table": "ዓንቀጽ (der/die/das)ን ናይ ብዙሕ ቅርጺን ምልኡ።",
+    "kita-und-schule-order": "ነቶም ቃላት ብትኽክለኛ ስርዓት ኣቐምጥዎም እሞ ነቲ ሓረግ ጽሓፍዎ።",
+    "kita-und-schule-spelling": "ኣየናይ ቃል እዩ ብትኽክል ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "ኣኼባ ወለዲ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "ኣኼባ ወለድን መምህራንን።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "መውዓሊ ህጻናት",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "ኣብዚ ንኣሽቱ ቆልዑ ብመዓልቲ ክንክን ይግበረሎም።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "መምህርቲ ክፍሊ (ሰበይቲ)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "ንሓንቲ ክፍሊ ቤት ትምህርቲ ሓላፊት እያ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "ካርኔ (ጽብጻብ ውጽኢት ትምህርቲ)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "ኣብ መወዳእታ ዓመተ ትምህርቲ ነጥብታት የርኢ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "ወረቐት ይቕሬታ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "ውላድኩም ምስ ሓመመ ናብ ቤት ትምህርቲ እትጽሕፍዎ ሓጺር ደብዳበ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "ዕረፍቲ ቤት ትምህርቲ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "ብዘይ ትምህርቲ ዝሓልፍ ግዜ፣ ንኣብነት ኣብ ሓጋይ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "ዑደት ትምህርቲ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "እታ ክፍሊ ብሓባር ናብ ካልእ ቦታ ትጓዓዝ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "ወደይ ሓሚሙ ኣሎ። ሎሚ ናብ ቤት ትምህርቲ ክመጽእ ኣይክእልን እዩ።",
+      "answerText": "ቤት ትምህርቲ"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "ኣብ ኣኼባ ወለዲ ወለዲ ምስ መምህር ይዘራረቡ።",
+      "answerText": "ኣኼባ ወለዲ"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "ኣብ ሓጋይ ቆልዑ ሽዱሽተ ሰሙን ዕረፍቲ ኣለዎም።",
+      "answerText": "ዕረፍቲ"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "ኣብ መወዳእታ ዓመተ ትምህርቲ ጓለይ ካርኔ ትቕበል።",
+      "answerText": "ካርኔ"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "ውላደይ ስለ ዝሓመመ ንመምህር ወረቐት ይቕሬታ እጽሕፈሉ ኣለኹ።",
+      "answerText": "ወረቐት ይቕሬታ"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "ቆልዑ መዓልታዊ ዕዮ ገዛ ክገብሩ ኣለዎም።",
+      "answerText": "ዕዮ ገዛ"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "ውላደይ ሰለስተ ዓመት እዩ፣ ናብ መውዓሊ ህጻናት ይኸይድ።",
+      "answerText": "መውዓሊ ህጻናት"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "ንውላደይ ሰዓት 4 ድሕሪ ቀትሪ እወስዶ።",
+      "answerText": "እወስዶ"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "ብዘሕዝን ጓለይ ሎሚ ሓሚማ ኣላ።",
+      "answerText": "ኣላ"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "ቆጸራ ክንገብር ንኽእል ዲና?",
+      "answerText": "ክንገብር"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "ትምህርቲ ሰዓት 8 ናይ ንግሆ ይጅምር።",
+      "answerText": "ይጅምር"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "በጃኹም ነቲ ቅጥዒ ክሳብ ዓርቢ ፈርምዎ።",
+      "answerText": "ፈርምዎ"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ቆልዓ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "ክፍሊ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "መምህር",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "ጥራዝ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "ነጥቢ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "ብርዒ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "ወደይ ሎሚ ሓሚሙ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "ኣኼባ ወለዲ መዓስ ይጅምር?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "ንጓለይ ሰዓት 3 ድሕሪ ቀትሪ እወስዳ።",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "ውላደይ ንዑደት ትምህርቲ ዝኾነ ነገር የድልዮ ድዩ?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "ኣኼባ ወለዲ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "ካርኔ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "ወረቐት ይቕሬታ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "ዕዮ ገዛ",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "መምህር ክፍሊ",
+      "answerText": null
+    }
+  ]
+}

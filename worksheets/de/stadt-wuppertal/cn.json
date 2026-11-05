@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:59.818Z"
+  },
+  "title": "伍珀塔尔",
+  "instructions": {
+    "stadt-wuppertal-matching": "把每个词和正确的解释连起来。",
+    "stadt-wuppertal-gap": "勾出正确的词。",
+    "stadt-wuppertal-verbs": "用正确形式填入正确的动词。",
+    "stadt-wuppertal-table": "填写冠词和复数形式。",
+    "stadt-wuppertal-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-wuppertal-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "悬挂式单轨铁路",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "挂在轨道上、在河上方行驶的列车——从1901年起就有了。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "“Tuffi”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "一头小象，1950年从悬挂式铁路上跳进了伍珀河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "伍珀河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "流过整座城市的河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "皮娜·鲍什",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "著名舞蹈家；她在伍珀塔尔的舞蹈剧场世界闻名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "台阶",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "伍珀塔尔有非常多的公共台阶，因为城市建在山坡上。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "弗里德里希·恩格斯",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "思想家，卡尔·马克思的朋友；他出生在巴门区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "北方铁路自行车道（Nordbahntrasse）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "修在旧铁路线上的自行车道，有隧道和桥。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "悬挂式铁路在伍珀河上方行驶。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "1950年一头大象从悬挂式铁路上跳了下去。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "我们骑自行车走北方铁路自行车道。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "弗里德里希·恩格斯出生在巴门区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "我们爬上台阶。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "这个舞蹈剧场在全世界都很有名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi掉进了河里。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "悬挂式铁路吊在河上方的轨道上。",
+      "answerText": "吊"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi掉进了伍珀河。",
+      "answerText": "掉"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "伍珀塔尔有非常多的台阶。",
+      "answerText": "有"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "悬挂式铁路已经运行了120多年。",
+      "answerText": "运行"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "很多骑车的人使用北方铁路自行车道。",
+      "answerText": "使用"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "列车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "大象",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "台阶",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "自行车",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "车站",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "悬挂式铁路挂在伍珀河上方。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "每天有很多人坐悬挂式铁路。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "你知道Tuffi的故事吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "伍珀塔尔有非常多的台阶。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "大象",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "台阶",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "轨道",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "车站",
+      "answerText": null
+    }
+  ]
+}

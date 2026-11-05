@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:38.604Z"
+  },
+  "title": "Öffentliche Verkehrsmittel",
+  "instructions": {
+    "es-transporte-publico-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-transporte-publico-gap": "Wähle das richtige Wort.",
+    "es-transporte-publico-verbs": "Schreib das richtige Verb.",
+    "es-transporte-publico-order": "Ordne die Wörter und schreib den Satz.",
+    "es-transporte-publico-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-transporte-publico-matching-1",
+      "translation": "die Fahrkarte",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-1:meaning",
+      "translation": "Ein Papier oder eine Karte, mit der du fahren darfst.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-2",
+      "translation": "die Haltestelle",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-2:meaning",
+      "translation": "Der Ort, an dem der Bus hält.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-3",
+      "translation": "der Bahnsteig",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-3:meaning",
+      "translation": "Der Ort im Bahnhof, an dem du in die U-Bahn oder den Zug steigst.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-4",
+      "translation": "die Verspätung",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-4:meaning",
+      "translation": "Wenn der Bus später kommt.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-5",
+      "translation": "der Fahrplan",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-5:meaning",
+      "translation": "Eine Liste mit den Abfahrtszeiten.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-6",
+      "translation": "das Umsteigen",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-6:meaning",
+      "translation": "Wenn du von einer Linie in eine andere wechselst.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-gap-1",
+      "translation": "Ich brauche eine Fahrkarte für die U-Bahn.",
+      "answerText": "Fahrkarte"
+    },
+    {
+      "id": "es-transporte-publico-gap-2",
+      "translation": "Der Zug fährt von Bahnsteig vier ab.",
+      "answerText": "Bahnsteig"
+    },
+    {
+      "id": "es-transporte-publico-gap-3",
+      "translation": "Steigen Sie an der nächsten Haltestelle aus.",
+      "answerText": "Haltestelle"
+    },
+    {
+      "id": "es-transporte-publico-gap-4",
+      "translation": "Es gibt eine Verspätung von zwanzig Minuten.",
+      "answerText": "Verspätung"
+    },
+    {
+      "id": "es-transporte-publico-gap-5",
+      "translation": "Schauen Sie auf der Website in den Fahrplan.",
+      "answerText": "Fahrplan"
+    },
+    {
+      "id": "es-transporte-publico-gap-6",
+      "translation": "An der Station Hidalgo müssen Sie umsteigen.",
+      "answerText": "umsteigen"
+    },
+    {
+      "id": "es-transporte-publico-verbs-1",
+      "translation": "Der Bus kommt alle zehn Minuten.",
+      "answerText": "kommt"
+    },
+    {
+      "id": "es-transporte-publico-verbs-2",
+      "translation": "Wo kaufe ich eine Karte für die U-Bahn?",
+      "answerText": "kaufe"
+    },
+    {
+      "id": "es-transporte-publico-verbs-3",
+      "translation": "Hier müssen Sie die Linie wechseln.",
+      "answerText": "müssen"
+    },
+    {
+      "id": "es-transporte-publico-verbs-4",
+      "translation": "Der Zug kommt heute zu spät.",
+      "answerText": "kommt"
+    },
+    {
+      "id": "es-transporte-publico-verbs-5",
+      "translation": "Bitte zeigen Sie Ihre Fahrkarte.",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "es-transporte-publico-order-1",
+      "translation": "Welcher Bus fährt zum Flughafen?",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-2",
+      "translation": "Der Zug kommt zehn Minuten zu spät.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-3",
+      "translation": "Wo ist die nächste Haltestelle?",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-4",
+      "translation": "Mir ist der Bus weggefahren.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-1",
+      "translation": "Bahnhof, Station",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-2",
+      "translation": "Fahrgast",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-3",
+      "translation": "Reise",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-4",
+      "translation": "Bus",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-5",
+      "translation": "Linie",
+      "answerText": null
+    }
+  ]
+}

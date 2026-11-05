@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:47.365Z"
+  },
+  "title": "Appointments by Phone",
+  "instructions": {
+    "uk-zapys-telefonom-matching": "Match each word with its meaning.",
+    "uk-zapys-telefonom-gap": "Choose the right word.",
+    "uk-zapys-telefonom-verbs": "Fill in the correct verb.",
+    "uk-zapys-telefonom-order": "Put the words in the right order and write the sentence.",
+    "uk-zapys-telefonom-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-zapys-telefonom-matching-1",
+      "translation": "to call",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-1:meaning",
+      "translation": "To talk to someone on the phone.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2",
+      "translation": "to cancel",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2:meaning",
+      "translation": "To say that you will not come.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3",
+      "translation": "to reschedule",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3:meaning",
+      "translation": "To change the time of an appointment.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4",
+      "translation": "voice message",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4:meaning",
+      "translation": "A message you leave when nobody answers.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5",
+      "translation": "extension",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5:meaning",
+      "translation": "A short phone number inside a company.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6",
+      "translation": "available",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6:meaning",
+      "translation": "Not busy.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-1",
+      "translation": "I want to cancel my appointment on Friday.",
+      "answerText": "cancel"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-2",
+      "translation": "Can we move it to next week?",
+      "answerText": "move"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-3",
+      "translation": "Is the doctor available on Monday?",
+      "answerText": "available"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-4",
+      "translation": "Please leave a voice message.",
+      "answerText": "message"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-5",
+      "translation": "Could you call me back later?",
+      "answerText": "call"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-6",
+      "translation": "Please dial extension 245.",
+      "answerText": "extension"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-1",
+      "translation": "Good afternoon, this is Maria Koval calling.",
+      "answerText": "calling"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-2",
+      "translation": "I want to make an appointment.",
+      "answerText": "want"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-3",
+      "translation": "Could you repeat that, please?",
+      "answerText": "repeat"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-4",
+      "translation": "I'll call you back in ten minutes.",
+      "answerText": "call"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-5",
+      "translation": "The office closes at five.",
+      "answerText": "closes"
+    },
+    {
+      "id": "uk-zapys-telefonom-order-1",
+      "translation": "Could I speak to Dr. Bondarenko?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-2",
+      "translation": "I want to cancel my appointment.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-3",
+      "translation": "Is Tuesday at ten okay for you?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-4",
+      "translation": "I'll call you back tomorrow.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-1",
+      "translation": "message",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-2",
+      "translation": "telephone",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-3",
+      "translation": "Wednesday",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-4",
+      "translation": "cancel",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-5",
+      "translation": "free, available",
+      "answerText": null
+    }
+  ]
+}

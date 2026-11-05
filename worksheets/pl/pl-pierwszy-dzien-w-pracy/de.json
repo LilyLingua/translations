@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.790Z"
+  },
+  "title": "Erster Arbeitstag",
+  "instructions": {
+    "pl-pierwszy-dzien-w-pracy-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-pierwszy-dzien-w-pracy-gap": "Wähle das richtige Wort.",
+    "pl-pierwszy-dzien-w-pracy-verbs": "Setze das richtige Verb ein.",
+    "pl-pierwszy-dzien-w-pracy-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-pierwszy-dzien-w-pracy-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-1",
+      "translation": "der Kollege / die Kollegin",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-1:meaning",
+      "translation": "Eine Person, die mit dir zusammenarbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-2",
+      "translation": "der Vorgesetzte / die Vorgesetzte",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-2:meaning",
+      "translation": "Eine Person, die das Team leitet.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-3",
+      "translation": "die Pause",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-3:meaning",
+      "translation": "Eine kurze Zeit, in der man nicht arbeitet und sich ausruht.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-4",
+      "translation": "die Schicht",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-4:meaning",
+      "translation": "Die Arbeitszeit, zum Beispiel von sechs bis vierzehn Uhr.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-5",
+      "translation": "der Mitarbeiterausweis",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-5:meaning",
+      "translation": "Eine Karte mit Namen und Foto, die man bei der Arbeit trägt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-6",
+      "translation": "der Spind",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching-6:meaning",
+      "translation": "Ein kleiner Schrank, in dem man seine Sachen lassen kann.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-1",
+      "translation": "Das ist dein Spind. Hier kannst du deine Tasche lassen.",
+      "answerText": "Spind"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-2",
+      "translation": "Meine Schicht beginnt um acht.",
+      "answerText": "Schicht"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-3",
+      "translation": "Trag immer deinen Ausweis.",
+      "answerText": "Ausweis"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-4",
+      "translation": "Die Pause zum Mittagessen ist um zwölf.",
+      "answerText": "Mittagessen"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-5",
+      "translation": "Wenn du ein Problem hast, sprich mit dem Vorgesetzten.",
+      "answerText": "Vorgesetzten"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap-6",
+      "translation": "Freut mich. Ich bin dein neuer Kollege.",
+      "answerText": "Kollege"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs-1",
+      "translation": "Ich heiße Ola.",
+      "answerText": "heiße"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs-2",
+      "translation": "Wo ist der Pausenraum?",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs-3",
+      "translation": "Ich arbeite im Lager.",
+      "answerText": "arbeite"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs-4",
+      "translation": "Kannst du mir den Weg zum Büro zeigen?",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs-5",
+      "translation": "Die Besprechung beginnt um zehn.",
+      "answerText": "beginnt"
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-order-1",
+      "translation": "Wo ist der Pausenraum?",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-order-2",
+      "translation": "Ich bin heute den ersten Tag hier.",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-order-3",
+      "translation": "Wann endet meine Schicht?",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-order-4",
+      "translation": "Kannst du das wiederholen?",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling-1",
+      "translation": "Kollege",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling-2",
+      "translation": "Vorgesetzter",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling-3",
+      "translation": "Pause",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling-4",
+      "translation": "morgen",
+      "answerText": null
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling-5",
+      "translation": "Mitarbeiterausweis",
+      "answerText": null
+    }
+  ]
+}

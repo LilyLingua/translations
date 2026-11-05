@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.651Z"
+  },
+  "title": "ที่สำนักงานราชการ",
+  "instructions": {
+    "auf-dem-amt-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "auf-dem-amt-gap": "ทำเครื่องหมายที่คำที่เหมาะสม",
+    "auf-dem-amt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "auf-dem-amt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "auf-dem-amt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "auf-dem-amt-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "การแจ้งย้ายที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "คุณแจ้งที่อยู่ใหม่กับสำนักงาน",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "บัตรคิว",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "กดรับหมายเลขนี้จากเครื่อง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "หนังสือเดินทาง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "เอกสารที่ใช้เดินทางไปต่างประเทศ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "หนังสือยืนยันจากเจ้าของห้อง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "คุณต้องใช้เอกสารนี้จากเจ้าของห้องเพื่อแจ้งย้ายที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "หนังสือรับรองที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "เอกสารนี้แสดงว่าตอนนี้คุณอาศัยอยู่ที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "สถานภาพสมรส",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "โสด สมรส หย่า หรือหม้าย",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "ลายเซ็น",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "ชื่อของคุณที่เขียนด้วยมือ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "แบบฟอร์ม",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "กระดาษที่มีช่องให้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "ฉันต้องการแจ้งย้ายเข้าห้องพักใหม่",
+      "answerText": "ห้องพัก"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "กรุณากดบัตรคิวจากเครื่อง",
+      "answerText": "บัตรคิว"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "หมายเลข 147 เชิญที่ช่องบริการ 12",
+      "answerText": "ช่อง"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "นี่คือหนังสือยืนยันจากเจ้าของห้องของฉัน",
+      "answerText": "เจ้าของห้อง"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "คุณนำบัตรประจำตัวมาด้วยไหม",
+      "answerText": "บัตรประจำตัว"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "กรุณากรอกแบบฟอร์มให้ครบ",
+      "answerText": "แบบฟอร์ม"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "คุณจะต้องใช้หนังสือรับรองที่อยู่บ่อย ๆ เช่น ตอนเปิดบัญชีธนาคาร",
+      "answerText": "หนังสือรับรองที่อยู่"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "วันนี้ฉันแจ้งย้ายที่อยู่",
+      "answerText": "แจ้ง"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "ฉันต้องเซ็นชื่อตรงไหน",
+      "answerText": "เซ็นชื่อ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "ฉันสะกดชื่อของฉัน: N – O – W – A – K",
+      "answerText": "สะกด"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "เชิญนั่งค่ะ/ครับ",
+      "answerText": "นั่ง"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "การดำเนินการใช้เวลาประมาณสองสัปดาห์",
+      "answerText": "ใช้เวลา"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "สำนักงานราชการ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "บัตรประจำตัว",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "ห้องพัก",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "แบบฟอร์ม",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "เจ้าของห้อง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "ที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "ฉันต้องการแจ้งย้ายที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "ฉันต้องเซ็นชื่อตรงไหน",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "นี่คือหนังสือเดินทางของฉัน",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "ฉันต้องใช้อะไรอีกไหม",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "หนังสือรับรองที่อยู่",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "หนังสือเดินทาง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "โสด",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "เจ้าของห้อง",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "ที่อยู่",
+      "answerText": null
+    }
+  ]
+}

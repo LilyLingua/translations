@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:57.149Z"
+  },
+  "title": "เดรสเดิน",
+  "instructions": {
+    "stadt-dresden-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-dresden-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-dresden-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-dresden-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-dresden-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-dresden-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "โบสถ์เฟราเอินเคียร์เชอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "โบสถ์ใหญ่มีโดม ถูกทำลายในสงคราม เปิดใหม่ปี 2005",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "\"ฟลอเรนซ์แห่งแม่น้ำเอลเบอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "ชื่อเล่นของเดรสเดิน – เพราะมีอาคารสวยงาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "ตลาดชตรีทเซิลมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "หนึ่งในตลาดคริสต์มาสที่เก่าแก่ที่สุดในเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "ชโตลเลิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "เค้กคริสต์มาสเนื้อแน่นใส่ลูกเกดโรยน้ำตาลไอซิ่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "\"ปาฏิหาริย์สีน้ำเงิน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "สะพานสีน้ำเงินเก่าข้ามแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "โรงอุปรากรเซ็มเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "โรงอุปรากรชื่อดังที่ลานโรงละคร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "ไอเออร์เช็คเคอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "เค้กสามชั้นของแคว้นซัคเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "พวกเราเยี่ยมชมโบสถ์เฟราเอินเคียร์เชอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "เดือนธันวาคมพวกเราไปตลาดชตรีทเซิลมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "คริสต์มาสคุณยายของฉันอบชโตลเลิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "พวกเราเดินเล่นริมแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "ตอนเย็นพวกเราไปโรงอุปรากรเซ็มเพอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "ปาฏิหาริย์สีน้ำเงินเป็นสะพานเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "ฉันกินไอเออร์เช็คเคอหนึ่งชิ้นกับกาแฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "ในสงคราม โบสถ์เฟราเอินเคียร์เชอถูกทำลาย",
+      "answerText": "ถูกทำลาย"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "ผู้คนมากมายบริจาคเงินเพื่อการบูรณะ",
+      "answerText": "บริจาค"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "ตลาดชตรีทเซิลมาร์คท์จัดขึ้นทุกปีในช่วงอัดเวนต์",
+      "answerText": "จัดขึ้น"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "แม่น้ำเอลเบอไหลผ่านกลางเดรสเดิน",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "ในภาษาถิ่นซัคเซิน คนมักพูดว่า \"นุ\" แทน \"ใช่\"",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "โบสถ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "ตลาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "โดม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "เค้ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "โบสถ์เฟราเอินเคียร์เชอเปิดใหม่ในปี 2005",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "ช่วงอัดเวนต์พวกเราไปตลาดชตรีทเซิลมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "คุณเคยชิมชโตลเลินเดรสเดินหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "เดรสเดินตั้งอยู่ริมแม่น้ำเอลเบอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "โดม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "คริสต์มาส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "ชโตลเลิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "ลูกเกด",
+      "answerText": null
+    }
+  ]
+}

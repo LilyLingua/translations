@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:00.114Z"
+  },
+  "title": "波鸿",
+  "instructions": {
+    "stadt-bochum-matching": "把每个词和正确的解释连起来。",
+    "stadt-bochum-gap": "勾出正确的词。",
+    "stadt-bochum-verbs": "用正确形式填入正确的动词。",
+    "stadt-bochum-table": "填写冠词和复数形式。",
+    "stadt-bochum-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-bochum-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "“百慕大三角”（Bermuda3eck）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "市中心一个有很多酒馆和酒吧的街区。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "咖喱香肠",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "配番茄酱和咖喱粉的煎香肠——在波鸿很受欢迎。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "赫伯特·格罗内迈尔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "歌手，唱过一首关于他的城市波鸿的有名的歌。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "波鸿VfL",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "城市的足球俱乐部，颜色是蓝色和白色。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "矿业博物馆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "关于地下工作的大博物馆——有一个可以参观的矿井。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "《星光快车》（Starlight Express）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "演员们穿着旱冰鞋演出的音乐剧。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "鲁尔大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "城边的一所大学，有很多学生。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "星期五我们在百慕大三角见面。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "我吃一份咖喱香肠配薯条。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "很多学生在鲁尔大学学习。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "在矿业博物馆，我们走进矿井。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "演员们穿着旱冰鞋滑行。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "赫伯特·格罗内迈尔唱一首关于波鸿的歌。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfL在卡斯特罗普街的球场比赛。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "在音乐剧里，演员们穿着旱冰鞋滑行。",
+      "answerText": "滑行"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "赫伯特·格罗内迈尔歌唱他的城市。",
+      "answerText": "歌唱"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "周末很多人去百慕大三角。",
+      "answerText": "去"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "人们吃咖喱香肠配薯条。",
+      "answerText": "吃"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "这部音乐剧从1988年起在波鸿上演。",
+      "answerText": "上演"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "酒馆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "歌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "学生",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "音乐剧",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "歌手",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "《星光快车》从1988年起在波鸿上演。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "下课后我们去百慕大三角。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "你吃咖喱香肠配薯条吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "格罗内迈尔唱一首关于波鸿的歌。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "音乐剧",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "大学",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "咖喱香肠",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "酒馆",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "歌手",
+      "answerText": null
+    }
+  ]
+}

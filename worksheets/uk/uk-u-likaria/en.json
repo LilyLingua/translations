@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:47.823Z"
+  },
+  "title": "At the Doctor",
+  "instructions": {
+    "uk-u-likaria-matching": "Match each word with its meaning.",
+    "uk-u-likaria-gap": "Choose the right word.",
+    "uk-u-likaria-verbs": "Fill in the correct verb.",
+    "uk-u-likaria-order": "Put the words in the right order and write the sentence.",
+    "uk-u-likaria-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-u-likaria-matching-1",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-1:meaning",
+      "translation": "The time when the doctor sees a patient.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2",
+      "translation": "symptom",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2:meaning",
+      "translation": "A sign of illness, for example a high temperature.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3",
+      "translation": "temperature",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3:meaning",
+      "translation": "What you measure with a thermometer.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4",
+      "translation": "reception",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4:meaning",
+      "translation": "The place at the clinic where you make an appointment with a doctor.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5",
+      "translation": "referral",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5:meaning",
+      "translation": "A document from a doctor to another doctor or for tests.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6",
+      "translation": "sick note",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6:meaning",
+      "translation": "A document that says a person is sick and cannot work.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-gap-1",
+      "translation": "I want to make an appointment with the general practitioner.",
+      "answerText": "appointment"
+    },
+    {
+      "id": "uk-u-likaria-gap-2",
+      "translation": "I have had a high temperature since yesterday.",
+      "answerText": "temperature"
+    },
+    {
+      "id": "uk-u-likaria-gap-3",
+      "translation": "Please sign up at reception.",
+      "answerText": "reception"
+    },
+    {
+      "id": "uk-u-likaria-gap-4",
+      "translation": "The doctor gave me a referral for a blood test.",
+      "answerText": "referral"
+    },
+    {
+      "id": "uk-u-likaria-gap-5",
+      "translation": "I need a sick note for work.",
+      "answerText": "sick note"
+    },
+    {
+      "id": "uk-u-likaria-gap-6",
+      "translation": "What symptoms do you have?",
+      "answerText": "symptoms"
+    },
+    {
+      "id": "uk-u-likaria-verbs-1",
+      "translation": "My throat hurts.",
+      "answerText": "hurts"
+    },
+    {
+      "id": "uk-u-likaria-verbs-2",
+      "translation": "I sleep badly.",
+      "answerText": "sleep"
+    },
+    {
+      "id": "uk-u-likaria-verbs-3",
+      "translation": "The doctor measures my blood pressure.",
+      "answerText": "measures"
+    },
+    {
+      "id": "uk-u-likaria-verbs-4",
+      "translation": "You need to stay at home for two days.",
+      "answerText": "stay"
+    },
+    {
+      "id": "uk-u-likaria-verbs-5",
+      "translation": "Please breathe deeply.",
+      "answerText": "breathe"
+    },
+    {
+      "id": "uk-u-likaria-order-1",
+      "translation": "I have a stomachache.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-2",
+      "translation": "When can I come for an appointment?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-3",
+      "translation": "Do I need a prescription?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-4",
+      "translation": "Come back next week.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-1",
+      "translation": "doctor",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-2",
+      "translation": "clinic",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-3",
+      "translation": "thermometer",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-4",
+      "translation": "test, analysis",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-5",
+      "translation": "health",
+      "answerText": null
+    }
+  ]
+}

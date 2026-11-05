@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:39.434Z"
+  },
+  "title": "Erfurt",
+  "instructions": {
+    "stadt-erfurt-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-erfurt-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-erfurt-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-erfurt-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-erfurt-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-erfurt-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "Daraja la Wafanyabiashara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "Daraja lenye nyumba juu yake; watu wanaishi humo na kuna maduka madogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "Domberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "Kilima chenye makanisa mawili makubwa: kanisa kuu na Kanisa la Mtakatifu Severus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "Rostbratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "Soseji ya kuchoma ya Thuringia; huliwa ndani ya mkate na haradali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "donge la viazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "Kitoweo cha mviringo kilichotengenezwa kwa viazi, kinapendwa sana Thuringia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "KiKA",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "Kituo cha televisheni cha watoto chenye makao makuu Erfurt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "monasteri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "Martin Luther aliishi hapa akiwa mtawa kijana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "\"Krämer\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "Neno la zamani kwa mfanyabiashara mwenye duka dogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "Kuna nyumba nyingi juu ya Daraja la Wafanyabiashara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "Tunapanda Domberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "Ninakula bratwurst na haradali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "Jumapili tunakula nyama ya kuoka na madonge ya viazi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "Mjini kuna sanamu za wahusika wa televisheni ya watoto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "Tunatembelea Monasteri ya Augustino.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "Erfurt ni mji mkuu wa Thuringia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "Martin Luther alisoma Erfurt.",
+      "answerText": "alisoma"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "Hadi leo watu wanaishi juu ya Daraja la Wafanyabiashara.",
+      "answerText": "wanaishi"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "Jiko la kuchomea linanukia bratwurst.",
+      "answerText": "linanukia"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "Madonge hutengenezwa kwa viazi.",
+      "answerText": "hutengenezwa"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "KiKA hurusha vipindi vya watoto.",
+      "answerText": "hurusha"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "daraja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "donge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "soseji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "monasteri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "mtawa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "mfanyabiashara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "Watu wanaishi juu ya Daraja la Wafanyabiashara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "Haradali inaendana na bratwurst.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "Umeshawahi kula madonge ya viazi ya Thuringia?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "Martin Luther alisoma Erfurt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "donge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "monasteri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "bratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "mfanyabiashara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "haradali",
+      "answerText": null
+    }
+  ]
+}

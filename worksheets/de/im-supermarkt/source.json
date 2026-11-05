@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "a6bd38fb-566a-4146-85e2-f07c9f428986",
+    "level": "A2"
+  },
+  "title": "Im Supermarkt",
+  "topic": "Deutsch im Alltag – Folge 3: Einkaufen, Pfand und Kasse",
+  "tasks": [
+    {
+      "id": "im-supermarkt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "im-supermarkt-matching-1",
+          "term": "der Einkaufswagen",
+          "meaning": "Hier legen Sie beim Einkaufen Ihre Waren hinein."
+        },
+        {
+          "id": "im-supermarkt-matching-2",
+          "term": "die Käsetheke",
+          "meaning": "Hier bekommen Sie frischen Käse nach Gewicht."
+        },
+        {
+          "id": "im-supermarkt-matching-3",
+          "term": "das Pfand",
+          "meaning": "Geld, das Sie für leere Flaschen zurückbekommen."
+        },
+        {
+          "id": "im-supermarkt-matching-4",
+          "term": "der Pfandautomat",
+          "meaning": "Hier geben Sie leere Flaschen ab."
+        },
+        {
+          "id": "im-supermarkt-matching-5",
+          "term": "das Angebot",
+          "meaning": "Ein Produkt ist für kurze Zeit billiger."
+        },
+        {
+          "id": "im-supermarkt-matching-6",
+          "term": "der Kassenbon",
+          "meaning": "Auf diesem Zettel stehen alle Preise."
+        },
+        {
+          "id": "im-supermarkt-matching-7",
+          "term": "die Tüte",
+          "meaning": "Darin tragen Sie die Einkäufe nach Hause."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "im-supermarkt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "im-supermarkt-gap-1",
+          "promptBefore": "Ich kaufe einen",
+          "promptAfter": "Joghurt.",
+          "correctAnswer": "Becher",
+          "options": [
+            "Flasche",
+            "Dose",
+            "Becher"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-2",
+          "promptBefore": "Bitte noch eine",
+          "promptAfter": "Wasser.",
+          "correctAnswer": "Flasche",
+          "options": [
+            "Flasche",
+            "Packung",
+            "Becher"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-3",
+          "promptBefore": "Wir brauchen eine",
+          "promptAfter": "Nudeln.",
+          "correctAnswer": "Packung",
+          "options": [
+            "Becher",
+            "Flasche",
+            "Packung"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-4",
+          "promptBefore": "Für die Soße nehme ich eine",
+          "promptAfter": "Tomaten.",
+          "correctAnswer": "Dose",
+          "options": [
+            "Dose",
+            "Flasche",
+            "Becher"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-5",
+          "promptBefore": "Ich hätte gern 200",
+          "promptAfter": "Gouda, bitte.",
+          "correctAnswer": "Gramm",
+          "options": [
+            "Liter",
+            "Stück",
+            "Gramm"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-6",
+          "promptBefore": "Ein",
+          "promptAfter": "Butter kostet 2,29 Euro.",
+          "correctAnswer": "Stück",
+          "options": [
+            "Liter",
+            "Stück",
+            "Becher"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "im-supermarkt-gap-7",
+          "promptBefore": "Ich nehme einen",
+          "promptAfter": "Milch.",
+          "correctAnswer": "Liter",
+          "options": [
+            "Liter",
+            "Gramm",
+            "Stück"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie die passende Verpackung oder Menge an."
+    },
+    {
+      "id": "im-supermarkt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "im-supermarkt-verbs-1",
+          "promptBefore": "Können Sie mir fünf Euro",
+          "promptAfter": "?",
+          "correctAnswer": "wechseln",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wechseln"
+        },
+        {
+          "id": "im-supermarkt-verbs-2",
+          "promptBefore": "Entschuldigung, wo",
+          "promptAfter": "ich Mehl?",
+          "correctAnswer": "finde",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "finden"
+        },
+        {
+          "id": "im-supermarkt-verbs-3",
+          "promptBefore": "Ich",
+          "promptAfter": "mit Karte.",
+          "correctAnswer": "bezahle",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bezahlen"
+        },
+        {
+          "id": "im-supermarkt-verbs-4",
+          "promptBefore": "Ich",
+          "promptAfter": "gern 200 Gramm Gouda.",
+          "correctAnswer": "hätte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben (höflich)"
+        },
+        {
+          "id": "im-supermarkt-verbs-5",
+          "promptBefore": "Am Sonntag",
+          "promptAfter": "fast alle Supermärkte geschlossen.",
+          "correctAnswer": "sind",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "im-supermarkt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "im-supermarkt-table-1",
+          "article": "die",
+          "singular": "Flasche",
+          "plural": "Flaschen"
+        },
+        {
+          "id": "im-supermarkt-table-2",
+          "article": "der",
+          "singular": "Becher",
+          "plural": "Becher"
+        },
+        {
+          "id": "im-supermarkt-table-3",
+          "article": "die",
+          "singular": "Dose",
+          "plural": "Dosen"
+        },
+        {
+          "id": "im-supermarkt-table-4",
+          "article": "das",
+          "singular": "Brot",
+          "plural": "Brote"
+        },
+        {
+          "id": "im-supermarkt-table-5",
+          "article": "der",
+          "singular": "Apfel",
+          "plural": "Äpfel"
+        },
+        {
+          "id": "im-supermarkt-table-6",
+          "article": "die",
+          "singular": "Banane",
+          "plural": "Bananen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "im-supermarkt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "im-supermarkt-order-1",
+          "chunks": [
+            "Entschuldigung,",
+            "wo",
+            "finde",
+            "ich",
+            "Mehl"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "im-supermarkt-order-2",
+          "chunks": [
+            "Ich",
+            "habe",
+            "eine Tasche",
+            "dabei"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "im-supermarkt-order-3",
+          "chunks": [
+            "Die Bananen",
+            "sind",
+            "heute",
+            "im Angebot"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "im-supermarkt-order-4",
+          "chunks": [
+            "Wo",
+            "ist",
+            "der Pfandautomat"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "im-supermarkt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "im-supermarkt-spelling-1",
+          "correct": "Einkaufswagen",
+          "wrong": "Einkaufswaagen"
+        },
+        {
+          "id": "im-supermarkt-spelling-2",
+          "correct": "Kassenbon",
+          "wrong": "Kassenbong"
+        },
+        {
+          "id": "im-supermarkt-spelling-3",
+          "correct": "Pfand",
+          "wrong": "Fand"
+        },
+        {
+          "id": "im-supermarkt-spelling-4",
+          "correct": "Käse",
+          "wrong": "Kese"
+        },
+        {
+          "id": "im-supermarkt-spelling-5",
+          "correct": "Brötchen",
+          "wrong": "Bröchen"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

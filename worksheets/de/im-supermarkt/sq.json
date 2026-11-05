@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.230Z"
+  },
+  "title": "Në supermarket",
+  "instructions": {
+    "im-supermarkt-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "im-supermarkt-gap": "Shënoni paketimin ose sasinë e duhur.",
+    "im-supermarkt-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "im-supermarkt-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "im-supermarkt-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "im-supermarkt-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "karroca e blerjeve",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Këtu vendosni mallrat kur bëni pazar.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "banaku i djathit",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Këtu merrni djathë të freskët sipas peshës.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "depozita e shisheve (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Para që i merrni mbrapsht për shishet bosh.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "automati i kthimit të shisheve",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Këtu dorëzoni shishet bosh.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "oferta",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Një produkt është më i lirë për një kohë të shkurtër.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "kuponi i arkës",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Në këtë letër janë të gjitha çmimet.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "qeseja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Me të i çoni blerjet në shtëpi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Blej një gotë kos.",
+      "answerText": "gotë"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Edhe një shishe ujë, ju lutem.",
+      "answerText": "shishe"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Na duhet një pako makarona.",
+      "answerText": "pako"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Për salcën marr një kanaçe domate.",
+      "answerText": "kanaçe"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Do të doja 200 gram gouda, ju lutem.",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Një copë gjalpë kushton 2,29 euro.",
+      "answerText": "copë"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Marr një litër qumësht.",
+      "answerText": "litër"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "A mund të më thyeni pesë euro?",
+      "answerText": "thyeni"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Më falni, ku e gjej miellin?",
+      "answerText": "gjej"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Unë paguaj me kartë.",
+      "answerText": "paguaj"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Do të doja 200 gram gouda.",
+      "answerText": "doja"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Të dielën pothuajse të gjitha supermarketet janë të mbyllura.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "shishja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "gota (kupa)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "kanaçja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "buka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "molla",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "banania",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Më falni, ku e gjej miellin?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Kam një çantë me vete.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Bananet sot janë në ofertë.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Ku është automati i kthimit të shisheve?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "karroca e blerjeve",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "kuponi i arkës",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "depozita e shisheve",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "djathi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "panini",
+      "answerText": null
+    }
+  ]
+}

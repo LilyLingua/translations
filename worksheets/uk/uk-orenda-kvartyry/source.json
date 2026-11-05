@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "64e61e4d-5d1d-4e7d-bb5c-c33a30e7b096",
+    "level": "A2"
+  },
+  "title": "Оренда квартири",
+  "topic": "Шукати житло, оглядати квартиру й підписувати договір",
+  "tasks": [
+    {
+      "id": "uk-orenda-kvartyry-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-orenda-kvartyry-matching-1",
+          "term": "орендна плата",
+          "meaning": "Гроші, які щомісяця платять за квартиру."
+        },
+        {
+          "id": "uk-orenda-kvartyry-matching-2",
+          "term": "орендодавець",
+          "meaning": "Людина, якій належить квартира і яка здає її."
+        },
+        {
+          "id": "uk-orenda-kvartyry-matching-3",
+          "term": "застава",
+          "meaning": "Гроші, які платять на початку й отримують назад, коли виїжджають."
+        },
+        {
+          "id": "uk-orenda-kvartyry-matching-4",
+          "term": "договір оренди",
+          "meaning": "Документ, який підписують орендар і орендодавець."
+        },
+        {
+          "id": "uk-orenda-kvartyry-matching-5",
+          "term": "комунальні послуги",
+          "meaning": "Вода, світло, газ і опалення."
+        },
+        {
+          "id": "uk-orenda-kvartyry-matching-6",
+          "term": "перегляд",
+          "meaning": "Коли приходять подивитися квартиру перед орендою."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-orenda-kvartyry-gap-1",
+          "promptBefore": "Комунальні",
+          "promptAfter": "входять в орендну плату?",
+          "correctAnswer": "послуги",
+          "options": [
+            "послуги",
+            "ключі",
+            "договори"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-orenda-kvartyry-gap-2",
+          "promptBefore": "Потрібно заплатити",
+          "promptAfter": "за два місяці.",
+          "correctAnswer": "заставу",
+          "options": [
+            "заставу",
+            "кімнату",
+            "ванну"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-orenda-kvartyry-gap-3",
+          "promptBefore": "Коли можна прийти на",
+          "promptAfter": "?",
+          "correctAnswer": "перегляд",
+          "options": [
+            "перегляд",
+            "договір",
+            "балкон"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-orenda-kvartyry-gap-4",
+          "promptBefore": "Уважно прочитайте",
+          "promptAfter": "перед підписанням.",
+          "correctAnswer": "договір",
+          "options": [
+            "договір",
+            "перегляд",
+            "балкон"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-orenda-kvartyry-gap-5",
+          "promptBefore": "У квартирі дві",
+          "promptAfter": "і балкон.",
+          "correctAnswer": "кімнати",
+          "options": [
+            "кімнати",
+            "застави",
+            "плати"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-orenda-kvartyry-gap-6",
+          "promptBefore": "Ключі вам передасть",
+          "promptAfter": ".",
+          "correctAnswer": "орендодавець",
+          "options": [
+            "орендодавець",
+            "договір",
+            "перегляд"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-orenda-kvartyry-verbs-1",
+          "promptBefore": "Я",
+          "promptAfter": "двокімнатну квартиру.",
+          "correctAnswer": "шукаю",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "шукати"
+        },
+        {
+          "id": "uk-orenda-kvartyry-verbs-2",
+          "promptBefore": "Ми",
+          "promptAfter": "договір учора.",
+          "correctAnswer": "підписали",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "підписати"
+        },
+        {
+          "id": "uk-orenda-kvartyry-verbs-3",
+          "promptBefore": "Чи можу я",
+          "promptAfter": "квартиру сьогодні?",
+          "correctAnswer": "подивитися",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "подивитися"
+        },
+        {
+          "id": "uk-orenda-kvartyry-verbs-4",
+          "promptBefore": "Орендодавець",
+          "promptAfter": "нам ключі в понеділок.",
+          "correctAnswer": "дасть",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "дати"
+        },
+        {
+          "id": "uk-orenda-kvartyry-verbs-5",
+          "promptBefore": "Скільки",
+          "promptAfter": "комунальні послуги взимку?",
+          "correctAnswer": "коштують",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "коштувати"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-orenda-kvartyry-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-orenda-kvartyry-order-1",
+          "chunks": [
+            "Квартира",
+            "ще",
+            "вільна"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-orenda-kvartyry-order-2",
+          "chunks": [
+            "Я хочу",
+            "подивитися",
+            "квартиру"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-orenda-kvartyry-order-3",
+          "chunks": [
+            "Скільки",
+            "становить",
+            "застава"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-orenda-kvartyry-order-4",
+          "chunks": [
+            "Орендну плату",
+            "треба платити",
+            "до п'ятого числа"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-orenda-kvartyry-spelling-1",
+          "correct": "квартира",
+          "wrong": "квартіра"
+        },
+        {
+          "id": "uk-orenda-kvartyry-spelling-2",
+          "correct": "балкон",
+          "wrong": "болкон"
+        },
+        {
+          "id": "uk-orenda-kvartyry-spelling-3",
+          "correct": "кімната",
+          "wrong": "кімнота"
+        },
+        {
+          "id": "uk-orenda-kvartyry-spelling-4",
+          "correct": "опалення",
+          "wrong": "опаленя"
+        },
+        {
+          "id": "uk-orenda-kvartyry-spelling-5",
+          "correct": "ключі",
+          "wrong": "ключи"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

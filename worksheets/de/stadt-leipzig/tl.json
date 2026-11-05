@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:37.840Z"
+  },
+  "title": "Leipzig",
+  "instructions": {
+    "stadt-leipzig-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-leipzig-gap": "Markahan ang tamang salita.",
+    "stadt-leipzig-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-leipzig-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-leipzig-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-leipzig-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "ang \"Leipziger Lerche\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "Maliit na keyk na may marzipan; noon, totoong ibon ang kinakain.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "ang \"Leipziger Allerlei\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "Ulam mula sa iba't ibang gulay, halimbawa gisantes at karot.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "ang Demonstrasyon tuwing Lunes",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "Noong taglagas ng 1989, tuwing Lunes ay libu-libong tao ang nagmartsa sa kalye para sa kalayaan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "ang trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "Malaking eksibisyon; isa ang Leipzig sa pinakamatatandang lungsod ng trade fair sa mundo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "ang Thomanerchor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "Kilalang koro ng mga batang lalaki; dito naging cantor si Johann Sebastian Bach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "ang Auerbachs Keller",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "Lumang restawran sa ilalim ng lungsod; inilarawan ito ni Goethe sa \"Faust\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "\"Hypezig\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "Palayaw, dahil napakaraming kabataan ang lumilipat sa Leipzig.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "Cantor si Bach sa St. Thomas Church.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "Noong 1989, maraming tao ang nagdemonstrasyon sa Ring.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "Binibisita namin ang Monumento ng Labanan ng mga Bansa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "Kasabay ng kape, kumakain ako ng Leipziger Lerche.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "Tuwing tag-init, maraming tao ang lumalangoy sa Cospudener See.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "Tuwing tagsibol ang book fair.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "Malapit sa pangunahing istasyon ng tren ang zoo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "Kumakanta ang Thomanerchor sa St. Thomas Church.",
+      "answerText": "Kumakanta"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "Noong taglagas ng 1989, tuwing Lunes ay nagmartsa ang mga tao sa kalye.",
+      "answerText": "nagmartsa"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "Maraming kabataan ang lumilipat sa Leipzig.",
+      "answerText": "lumilipat"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "Taun-taon tuwing Marso ginaganap ang book fair.",
+      "answerText": "ginaganap"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "Ang pangunahing istasyon ng tren ay isa sa pinakamalalaking istasyon sa Europa.",
+      "answerText": "ay"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "ang koro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "ang trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "ang monumento",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "ang istasyon ng tren",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "ang simbahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "ang libro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "Maraming taon nagtrabaho si Bach sa Leipzig.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "Tuwing Marso, maraming bisita ang pumupunta sa book fair.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "Kilala mo ba ang Monumento ng Labanan ng mga Bansa?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "Ang Leipziger Lerche ay pastry na may marzipan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "monumento",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "trade fair",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "koro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "istasyon ng tren",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "marzipan",
+      "answerText": null
+    }
+  ]
+}

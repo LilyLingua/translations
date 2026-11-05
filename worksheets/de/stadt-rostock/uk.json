@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:51.173Z"
+  },
+  "title": "Росток",
+  "instructions": {
+    "stadt-rostock-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-rostock-gap": "Позначте правильне слово.",
+    "stadt-rostock-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-rostock-table": "Допишіть артикль і форму множини.",
+    "stadt-rostock-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-rostock-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "Варнемюнде",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "Район на Балтійському морі з пляжем, маяком і великими кораблями.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "Теепотт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "Будівля з особливим вигнутим дахом на пляжі Варнемюнде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "Ганзе Сейл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "Велике свято в серпні з багатьма старими вітрильниками.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "когг",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "Старий корабель Ганзи; його видно на гербі «Ганзи Росток».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "«Ганза» (F.C. Hansa)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "Футбольний клуб міста в синьому й білому.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "Астрономічний годинник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "Годинник віком понад 550 років у церкві Святої Марії; він іде досі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "університет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "Заснований 1419 року – найстаріший університет у Балтійському регіоні.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "Ми піднімаємося на маяк.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "У серпні на Ганзе Сейл приходить багато кораблів.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "Круїзний лайнер заходить у порт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "У церкві Святої Марії стоїть старий годинник.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "На гербі зображено когг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "Ми йдемо пляжем до Теепотта.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "Багато студентів навчаються в університеті.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "Старий годинник досі іде.",
+      "answerText": "іде"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "У Варнемюнде зупиняються великі круїзні лайнери.",
+      "answerText": "зупиняються"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "На Ганзе Сейл під вітрилами ходить багато старих кораблів.",
+      "answerText": "ходить"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "Маяк стоїть на пляжі Варнемюнде.",
+      "answerText": "стоїть"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "«Ганза Росток» грає в синьому й білому.",
+      "answerText": "грає"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "корабель",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "маяк",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "годинник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "порт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "вітрило",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "церква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "Варнемюнде розташоване просто на березі Балтійського моря.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "Підеш із нами на Ганзе Сейл?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "Старий годинник досі йде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "У порту стоїть багато кораблів.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "маяк",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "корабель",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "порт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "церква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "вітрило",
+      "answerText": null
+    }
+  ]
+}

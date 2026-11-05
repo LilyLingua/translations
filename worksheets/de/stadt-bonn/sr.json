@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:16.104Z"
+  },
+  "title": "Бон",
+  "instructions": {
+    "stadt-bonn-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-bonn-gap": "Означи тачну реч.",
+    "stadt-bonn-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-bonn-table": "Упиши члан и облик множине.",
+    "stadt-bonn-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-bonn-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "савезни град",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "Званична титула Бона; до 1990. Бон је био престоница.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "Бетовен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "Чувени композитор; рођен је 1770. у Бону.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "Харибо",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "Фирма за гумене бомбоне; име долази од Hans Riegel Bonn (Ханс Ригел Бон).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "цветање трешања",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "У пролеће у старом граду много дрвећа цвета сасвим розе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "Кућа историје",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "Музеј о историји Немачке после 1945.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "„Weiberfastnacht“ (Вајберфастнахт)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "Карневалски дан жена; наводно је настао у бонском делу града Бојел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "Драхенфелс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "Брдо на Рајни са рушевинама замка и лепим погледом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "Бон је дуго био престоница Савезне Републике.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "Бетовен је рођен у кући у улици Бонгасе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "У априлу цветају трешње у старом граду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "Посећујемо Кућу историје.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "Моје дете радо једе кесицу гумених бомбона.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "На Вајберфастнахт жене мушкарцима одсецају кравате.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "Пешачимо на Драхенфелс.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "Бетовен је дошао на свет 1770. у Бону.",
+      "answerText": "дошао"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "У пролеће трешње цветају розе.",
+      "answerText": "цветају"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "Гумене бомбоне усрећују децу.",
+      "answerText": "усрећују"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "Многа министарства су и данас у Бону.",
+      "answerText": "су"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "Рајна тече поред града.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "дрво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "цвет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "министарство",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "кесица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "кравата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "Бетовен је рођен у Бону.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "У априлу је стари град сав розе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "Имаш ли још гумених бомбона?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "Бон је некада био престоница.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "кравата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "историја",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "дрво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "цвет",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.108Z"
+  },
+  "title": "В пекарната и в кафенето",
+  "instructions": {
+    "baecker-und-cafe-matching": "Свържете всяка дума с подходящото обяснение.",
+    "baecker-und-cafe-gap": "Отбележете правилния член.",
+    "baecker-und-cafe-verbs": "Попълнете правилния глагол в правилната форма.",
+    "baecker-und-cafe-table": "Допълнете члена и формата за множествено число.",
+    "baecker-und-cafe-order": "Подредете думите в правилния ред и напишете изречението.",
+    "baecker-und-cafe-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "хлебче",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Малко хлебче, често за закуска.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "брецел (геврек)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Тестено изделие със сол, типично за Южна Германия.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "кекс (торта)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Нещо сладко, често с кафето следобед.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Тук са всички ястия и напитки.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "сметка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Тук пише колко трябва да платите.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "бакшиш",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Малко допълнителни пари за сервитьора.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "за вкъщи",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Не го ядете и не го пиете в кафенето.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Бих искал едно хлебче.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Вземам едно кафе.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Колко струва брецелът?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Искам парче торта.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Свободна ли е масата?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Пия чай с мляко.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Донесете ми сметката, моля.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Какво желаете да пиете?",
+      "answerText": "желаете"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Вземам едно капучино.",
+      "answerText": "Вземам"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Общо става 6,40 евро.",
+      "answerText": "става"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Мога ли да платя с карта?",
+      "answerText": "платя"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Тортата е много вкусна.",
+      "answerText": "вкусна"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "хлебче",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "торта",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "чаша (за кафе)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "чаша",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "чиния",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "брецел",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Бих искал две хлебчета.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Колко струва тортата?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Мога ли да платя с карта?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Искате ли да ядете тук?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "хлебче",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "торта",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "сметка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "кафе",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "бакшиш",
+      "answerText": null
+    }
+  ]
+}

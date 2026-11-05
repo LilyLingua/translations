@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:54.683Z"
+  },
+  "title": "Berlin",
+  "instructions": {
+    "stadt-berlin-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-berlin-gap": "Zaznacz właściwe słowo.",
+    "stadt-berlin-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-berlin-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-berlin-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-berlin-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "stolica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "Najważniejsze miasto kraju; tutaj pracuje rząd.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "Brama Brandenburska",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Słynny symbol z rydwanem i czterema końmi na górze.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "Mur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "Do 1989 roku dzielił Berlin na Wschód i Zachód.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "„Späti”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Mały sklep otwarty do późnej nocy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "„Schrippe”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "Tak w Berlinie mówi się na bułkę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "„Pfannkuchen”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "W Berlinie: słodki, okrągły pączek z dżemem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "„Kiez”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "Tak berlińczycy nazywają swoją dzielnicę.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Robimy zdjęcie Bramy Brandenburskiej.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "Wieża telewizyjna stoi w pobliżu Alexanderplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "Szprewa płynie przez miasto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "Kupuję napój w Späti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "Do 1989 roku Mur stał w środku miasta.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "W piekarni zamawiam Schrippe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "Mieszkam w tej dzielnicy od trzech lat.",
+      "answerText": "tej"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "9 listopada 1989 roku Mur upadł.",
+      "answerText": "upadł"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Rząd pracuje w Berlinie.",
+      "answerText": "pracuje"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Wielu turystów odwiedza East Side Gallery.",
+      "answerText": "odwiedza"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "Späti jest otwarty do późnej nocy.",
+      "answerText": "jest"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "Kolejką Ringbahn jedziesz w kółko wokół centrum.",
+      "answerText": "jedziesz"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "brama",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "mur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "dzielnica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "most",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "muzeum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "sklep",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Berlin jest stolicą Niemiec.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Mur upadł w 1989 roku.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Jadłeś już currywurst?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "Späti jest otwarty do późnej nocy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "stolica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "rząd",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "bułka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "symbol miasta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "wieża telewizyjna",
+      "answerText": null
+    }
+  ]
+}

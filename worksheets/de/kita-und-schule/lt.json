@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Darželis ir mokykla",
+  "instructions": {
+    "kita-und-schule-matching": "Kiekvieną žodį sujunkite su teisingu paaiškinimu.",
+    "kita-und-schule-gap": "Pažymėkite teisingą žodį.",
+    "kita-und-schule-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "kita-und-schule-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "kita-und-schule-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "kita-und-schule-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "tėvų susirinkimas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Tėvų ir mokytojų susitikimas.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "vaikų darželis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Čia dieną prižiūrimi maži vaikai.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "klasės auklėtoja",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Ji atsakinga už vieną mokyklos klasę.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "pažymių knygelė",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Joje matyti pažymiai mokslo metų pabaigoje.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "pateisinamasis raštelis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Trumpas laiškas mokyklai, kai jūsų vaikas sirgo.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "mokinių atostogos",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Laikas be mokyklos, pavyzdžiui, vasarą.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "klasės išvyka",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Klasė kartu keliauja į kitą vietą.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mano sūnus serga. Šiandien jis negali ateiti į mokyklą.",
+      "answerText": "mokyklą"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Tėvų susirinkime tėvai kalbasi su mokytoja.",
+      "answerText": "susirinkime"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Vasarą vaikai turi šešias savaites atostogų.",
+      "answerText": "atostogų"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Mokslo metų pabaigoje mano dukra gauna pažymių knygelę.",
+      "answerText": "pažymių knygelę"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Rašau mokytojai pateisinamąjį raštelį, nes mano vaikas sirgo.",
+      "answerText": "pateisinamąjį raštelį"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Vaikai kasdien turi ruošti namų darbus.",
+      "answerText": "namų darbus"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mano vaikui treji metai ir jis eina į darželį.",
+      "answerText": "darželį"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Savo vaiką pasiimu 16 val.",
+      "answerText": "pasiimu"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Mano dukra, deja, šiandien serga.",
+      "answerText": "serga"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Ar galime susitarti dėl susitikimo?",
+      "answerText": "susitarti"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Pamokos prasideda 8 val.",
+      "answerText": "prasideda"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Prašom pasirašyti formą iki penktadienio.",
+      "answerText": "pasirašyti"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "vaikas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "klasė",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "mokytojas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "sąsiuvinis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "pažymys",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "rašiklis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mano sūnus šiandien serga.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Kada prasideda tėvų susirinkimas?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Dukrą pasiimu 15 val.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Ar mano vaikui ko nors reikia klasės išvykai?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "tėvų susirinkimas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "pažymių knygelė",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "pateisinamasis raštelis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "namų darbai",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "klasės auklėtojas",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:34.125Z"
+  },
+  "title": "뒤셀도르프",
+  "instructions": {
+    "stadt-duesseldorf-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-duesseldorf-gap": "알맞은 단어에 표시하세요.",
+    "stadt-duesseldorf-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-duesseldorf-table": "관사와 복수형을 쓰세요.",
+    "stadt-duesseldorf-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-duesseldorf-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "'알트'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "뒤셀도르프의 흑맥주로, 작은 잔으로 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "'쾨'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "쾨니히스알레의 줄임말로, 고급 쇼핑 거리이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "라인 타워",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "라인강 가의 TV 타워로, 불빛으로 된 시계가 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "'헬라우!'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "뒤셀도르프의 카니발 구호 – 쾰른처럼 '알라프'가 아니다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "옆돌기하는 아이",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "옆돌기를 하는 아이로, 도시의 상징이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "구시가지",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "술집이 많은 오래된 구역으로, '세계에서 가장 긴 바'라고 불린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "'쾨베스'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "맥주집 웨이터로, 묻지 않고 새 알트를 가져다준다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "그는 구시가지에서 알트를 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "쾨는 비싼 쇼핑 거리이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "라인 타워 위에서는 도시 전체가 보인다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "장미의 월요일에 우리는 퍼레이드를 본다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "우리는 라인강 강변을 따라 산책한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "나는 뒤셀도르프 겨자 한 병을 산다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "쾨베스가 새 알트를 가져온다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "카니발 때 뒤셀도르프 사람들은 '헬라우'라고 외친다.",
+      "answerText": "외친다"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "쾨베스는 묻지 않고 다음 알트를 가져온다.",
+      "answerText": "가져온다"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "라인강은 도시 한가운데를 흐른다.",
+      "answerText": "흐른다"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "많은 사람들이 쾨에서 쇼핑한다.",
+      "answerText": "쇼핑한다"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "아이들은 옆돌기하는 아이처럼 옆돌기를 한다.",
+      "answerText": "한다"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "잔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "강변",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "퍼레이드",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "양조장",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "거리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "그는 구시가지에서 알트를 마신다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "쾨는 고급 쇼핑 거리이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "장미의 월요일에 나랑 퍼레이드 보러 갈래?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "쾨베스가 바로 새 잔을 가져온다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "카니발",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "양조장",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "술집",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "바",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "잔",
+      "answerText": null
+    }
+  ]
+}

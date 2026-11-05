@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:33.740Z"
+  },
+  "title": "ووپرتال",
+  "instructions": {
+    "stadt-wuppertal-matching": "هر کلمه را به توضیح درستش وصل کنید.",
+    "stadt-wuppertal-gap": "کلمه‌ی درست را علامت بزنید.",
+    "stadt-wuppertal-verbs": "فعل درست را با شکل درست بنویسید.",
+    "stadt-wuppertal-table": "حرف تعریف و شکل جمع را کامل کنید.",
+    "stadt-wuppertal-order": "کلمات را به ترتیب درست بچینید و جمله را بنویسید.",
+    "stadt-wuppertal-spelling": "کدام کلمه درست نوشته شده؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "قطار معلق («شوبه‌بان»)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "قطاری که از ریل آویزان است و بالای رودخانه حرکت می‌کند – از سال ۱۹۰۱.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "«توفی»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "بچه‌فیلی که در سال ۱۹۵۰ از قطار معلق به رود ووپر پرید.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "ووپر",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "رودی که از میان تمام شهر می‌گذرد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "پینا باوش",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "رقصنده‌ی معروف؛ تئاتر رقص او از ووپرتال در سراسر جهان شناخته شده است.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "پله‌ها",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "ووپرتال پله‌های عمومی بسیار زیادی دارد، چون شهر روی شیب‌ها قرار دارد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "فریدریش انگلس",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "اندیشمند و دوست کارل مارکس؛ او در محله‌ی بارمن به دنیا آمد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "نوردبان‌تراسه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "مسیر دوچرخه روی یک خط راه‌آهن قدیمی، با تونل‌ها و پل‌ها.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "قطار معلق بالای رود ووپر حرکت می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "در سال ۱۹۵۰ یک فیل از قطار معلق پرید.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "با دوچرخه در نوردبان‌تراسه رکاب می‌زنیم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "فریدریش انگلس در محله‌ی بارمن به دنیا آمد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "از پله‌ها بالا می‌رویم.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "تئاتر رقص در تمام دنیا شناخته شده است.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "توفی در رودخانه افتاد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "قطار معلق بالای رودخانه از ریل‌ها آویزان است.",
+      "answerText": "آویزان است"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "توفی در رود ووپر افتاد.",
+      "answerText": "افتاد"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "در ووپرتال پله‌های خیلی زیادی وجود دارد.",
+      "answerText": "وجود دارد"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "قطار معلق بیش از ۱۲۰ سال است که حرکت می‌کند.",
+      "answerText": "حرکت می‌کند"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "بسیاری از دوچرخه‌سواران از نوردبان‌تراسه استفاده می‌کنند.",
+      "answerText": "استفاده می‌کنند"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "قطار",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "فیل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "پله",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "رودخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "دوچرخه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "ایستگاه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "قطار معلق بالای رود ووپر آویزان است.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "هر روز آدم‌های زیادی با قطار معلق سفر می‌کنند.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "داستان توفی را می‌دانی؟",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "ووپرتال پله‌های خیلی زیادی دارد.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "فیل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "پله",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "رودخانه",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "ریل",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "ایستگاه",
+      "answerText": null
+    }
+  ]
+}

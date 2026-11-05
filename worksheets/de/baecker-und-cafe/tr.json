@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.673Z"
+  },
+  "title": "Fırında ve Kafede",
+  "instructions": {
+    "baecker-und-cafe-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "baecker-und-cafe-gap": "Doğru artikeli işaretleyin.",
+    "baecker-und-cafe-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "baecker-und-cafe-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "baecker-und-cafe-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "baecker-und-cafe-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "küçük ekmek (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Genellikle kahvaltıda yenen küçük bir ekmek.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "pretzel (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Tuzlu bir hamur işi, Güney Almanya'ya özgü.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "pasta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Tatlı bir şey, genellikle öğleden sonra kahveyle.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "menü",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Burada tüm yemekler ve içecekler yazar.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "hesap",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Burada ne kadar ödemeniz gerektiği yazar.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "bahşiş",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Garson için biraz ekstra para.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "paket (götürmek için)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Onu kafede yemez veya içmezsiniz.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Bir küçük ekmek alabilir miyim?",
+      "answerText": "Bir"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Bir kahve alayım.",
+      "answerText": "Bir"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Pretzel ne kadar?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Bir dilim pasta istiyorum.",
+      "answerText": "Bir"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Masa boş mu?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Sütlü bir çay içiyorum.",
+      "answerText": "bir"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Lütfen hesabı getirin.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Ne içmek istersiniz?",
+      "answerText": "istersiniz"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Bir kapuçino alıyorum.",
+      "answerText": "alıyorum"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Hepsi birlikte 6,40 euro ediyor.",
+      "answerText": "ediyor"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Kartla ödeyebilir miyim?",
+      "answerText": "ödeyebilir"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Pasta çok güzel olmuş.",
+      "answerText": "olmuş"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "küçük ekmek",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "pasta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "fincan",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "bardak",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "tabak",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "İki küçük ekmek alabilir miyim?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Pasta ne kadar?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Kartla ödeyebilir miyim?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Burada mı yemek istersiniz?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "küçük ekmek",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "pasta",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "hesap",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "kahve",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "bahşiş",
+      "answerText": null
+    }
+  ]
+}

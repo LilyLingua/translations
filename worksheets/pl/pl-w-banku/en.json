@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.911Z"
+  },
+  "title": "At the Bank",
+  "instructions": {
+    "pl-w-banku-matching": "Match each word with its meaning.",
+    "pl-w-banku-gap": "Choose the right word.",
+    "pl-w-banku-verbs": "Fill in the correct verb.",
+    "pl-w-banku-order": "Put the words in the right order and write the sentence.",
+    "pl-w-banku-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-w-banku-matching-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-1:meaning",
+      "translation": "A place at the bank where your money is.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-2",
+      "translation": "debit card",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-2:meaning",
+      "translation": "A card you use to pay with money from your account.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-3",
+      "translation": "PIN",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-3:meaning",
+      "translation": "A secret number for your card.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-4",
+      "translation": "ATM",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-4:meaning",
+      "translation": "A machine where you can withdraw cash.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-5",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-5:meaning",
+      "translation": "When you send money from one account to another.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-6",
+      "translation": "balance",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-6:meaning",
+      "translation": "How much money is in the account.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-gap-1",
+      "translation": "I want to open an account.",
+      "answerText": "account"
+    },
+    {
+      "id": "pl-w-banku-gap-2",
+      "translation": "Please enter your PIN.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "pl-w-banku-gap-3",
+      "translation": "Where is the nearest ATM?",
+      "answerText": "ATM"
+    },
+    {
+      "id": "pl-w-banku-gap-4",
+      "translation": "I want to make a transfer to my landlord.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "pl-w-banku-gap-5",
+      "translation": "How can I check the balance on my account?",
+      "answerText": "balance"
+    },
+    {
+      "id": "pl-w-banku-gap-6",
+      "translation": "My card isn't working.",
+      "answerText": "card"
+    },
+    {
+      "id": "pl-w-banku-verbs-1",
+      "translation": "I want to open an account.",
+      "answerText": "want"
+    },
+    {
+      "id": "pl-w-banku-verbs-2",
+      "translation": "Can I withdraw cash here?",
+      "answerText": "withdraw"
+    },
+    {
+      "id": "pl-w-banku-verbs-3",
+      "translation": "Please sign this form.",
+      "answerText": "sign"
+    },
+    {
+      "id": "pl-w-banku-verbs-4",
+      "translation": "The card will arrive in five days.",
+      "answerText": "will arrive"
+    },
+    {
+      "id": "pl-w-banku-verbs-5",
+      "translation": "Ola forgot her PIN.",
+      "answerText": "forgot"
+    },
+    {
+      "id": "pl-w-banku-order-1",
+      "translation": "I want to open an account.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-2",
+      "translation": "Where can I withdraw money?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-3",
+      "translation": "My card is blocked.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-4",
+      "translation": "How much does the account cost?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-2",
+      "translation": "money",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-3",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-4",
+      "translation": "signature",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-5",
+      "translation": "ATM",
+      "answerText": null
+    }
+  ]
+}

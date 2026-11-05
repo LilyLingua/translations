@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:38.809Z"
+  },
+  "title": "In der Bank",
+  "instructions": {
+    "es-en-el-banco-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-en-el-banco-gap": "Wähle das richtige Wort.",
+    "es-en-el-banco-verbs": "Schreib das richtige Verb.",
+    "es-en-el-banco-order": "Ordne die Wörter und schreib den Satz.",
+    "es-en-el-banco-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-en-el-banco-matching-1",
+      "translation": "das Konto",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-1:meaning",
+      "translation": "Ein Ort bei der Bank, an dem dein Geld ist.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-2",
+      "translation": "die Bankkarte",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-2:meaning",
+      "translation": "Eine Karte, mit der du mit Geld von deinem Konto bezahlst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-3",
+      "translation": "die PIN",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-3:meaning",
+      "translation": "Eine geheime Zahl für deine Karte.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-4",
+      "translation": "der Geldautomat",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-4:meaning",
+      "translation": "Ein Automat, an dem du Bargeld abhebst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-5",
+      "translation": "die Überweisung",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-5:meaning",
+      "translation": "Wenn du Geld auf ein anderes Konto schickst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-6",
+      "translation": "der Kontostand",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-6:meaning",
+      "translation": "Wie viel Geld auf deinem Konto ist.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-gap-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": "Konto"
+    },
+    {
+      "id": "es-en-el-banco-gap-2",
+      "translation": "Bitte geben Sie Ihre PIN ein.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "es-en-el-banco-gap-3",
+      "translation": "Wo ist der nächste Geldautomat?",
+      "answerText": "Geldautomat"
+    },
+    {
+      "id": "es-en-el-banco-gap-4",
+      "translation": "Ich möchte eine Überweisung an meinen Vermieter machen.",
+      "answerText": "Überweisung"
+    },
+    {
+      "id": "es-en-el-banco-gap-5",
+      "translation": "Wie prüfe ich meinen Kontostand?",
+      "answerText": "Kontostand"
+    },
+    {
+      "id": "es-en-el-banco-gap-6",
+      "translation": "Meine Bankkarte funktioniert nicht.",
+      "answerText": "Bankkarte"
+    },
+    {
+      "id": "es-en-el-banco-verbs-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": "möchte"
+    },
+    {
+      "id": "es-en-el-banco-verbs-2",
+      "translation": "Kann ich hier Bargeld abheben?",
+      "answerText": "abheben"
+    },
+    {
+      "id": "es-en-el-banco-verbs-3",
+      "translation": "Bitte unterschreiben Sie dieses Formular.",
+      "answerText": "unterschreiben"
+    },
+    {
+      "id": "es-en-el-banco-verbs-4",
+      "translation": "Die Karte kommt in fünf Tagen.",
+      "answerText": "kommt"
+    },
+    {
+      "id": "es-en-el-banco-verbs-5",
+      "translation": "Ich habe meine PIN vergessen.",
+      "answerText": "vergessen"
+    },
+    {
+      "id": "es-en-el-banco-order-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-2",
+      "translation": "Wo kann ich Geld abheben?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-3",
+      "translation": "Meine Karte ist gesperrt.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-4",
+      "translation": "Was kostet das Konto?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-1",
+      "translation": "Konto",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-2",
+      "translation": "Geld",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-3",
+      "translation": "Karte",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-4",
+      "translation": "Bargeld",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-5",
+      "translation": "Bank",
+      "answerText": null
+    }
+  ]
+}

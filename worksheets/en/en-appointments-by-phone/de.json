@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:37.577Z"
+  },
+  "title": "Termine am Telefon",
+  "instructions": {
+    "en-appointments-by-phone-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-appointments-by-phone-gap": "Wähle das richtige Wort.",
+    "en-appointments-by-phone-verbs": "Setze das richtige Verb ein.",
+    "en-appointments-by-phone-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-appointments-by-phone-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-appointments-by-phone-matching-1",
+      "translation": "anrufen",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-1:meaning",
+      "translation": "Mit jemandem am Telefon sprechen.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2:meaning",
+      "translation": "Sagen, dass man nicht kommt.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3",
+      "translation": "verschieben",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3:meaning",
+      "translation": "Die Zeit eines Termins ändern.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4",
+      "translation": "die Mailbox",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4:meaning",
+      "translation": "Eine Nachricht, die man hinterlässt, wenn niemand ans Telefon geht.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5",
+      "translation": "die Durchwahl",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5:meaning",
+      "translation": "Eine kurze Telefonnummer innerhalb einer Firma.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6",
+      "translation": "frei",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6:meaning",
+      "translation": "Nicht beschäftigt, hat Zeit.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-gap-1",
+      "translation": "Ich möchte meinen Termin am Freitag absagen.",
+      "answerText": "absagen"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-2",
+      "translation": "Können wir ihn auf nächste Woche verschieben?",
+      "answerText": "verschieben"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-3",
+      "translation": "Ist beim Arzt am Montag etwas frei?",
+      "answerText": "frei"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-4",
+      "translation": "Bitte sprechen Sie auf meine Mailbox.",
+      "answerText": "Mailbox"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-5",
+      "translation": "Können Sie mich später zurückrufen?",
+      "answerText": "zurückrufen"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-6",
+      "translation": "Bitte wählen Sie die Durchwahl zwei-vier-fünf.",
+      "answerText": "Durchwahl"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-1",
+      "translation": "Hallo, hier ist Maria Lopez.",
+      "answerText": "ist"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-2",
+      "translation": "Ich brauche einen Termin.",
+      "answerText": "brauche"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-3",
+      "translation": "Könnten Sie das bitte wiederholen?",
+      "answerText": "wiederholen"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-4",
+      "translation": "Ich rufe Sie in zehn Minuten zurück.",
+      "answerText": "rufe"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-5",
+      "translation": "Das Büro schließt um fünf.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "en-appointments-by-phone-order-1",
+      "translation": "Kann ich mit Dr. Brown sprechen?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-2",
+      "translation": "Ich möchte meinen Termin absagen.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-3",
+      "translation": "Passt Dienstag um zehn?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-4",
+      "translation": "Bitte rufen Sie mich zurück.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-1",
+      "translation": "frei, verfügbar",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-2",
+      "translation": "Nachricht",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-3",
+      "translation": "Mittwoch",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-4",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-5",
+      "translation": "Telefon",
+      "answerText": null
+    }
+  ]
+}

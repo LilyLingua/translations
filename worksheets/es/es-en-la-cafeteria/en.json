@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.169Z"
+  },
+  "title": "At the Café",
+  "instructions": {
+    "es-en-la-cafeteria-matching": "Match each word with its meaning.",
+    "es-en-la-cafeteria-gap": "Choose the right word.",
+    "es-en-la-cafeteria-verbs": "Write the correct verb.",
+    "es-en-la-cafeteria-order": "Put the words in order and write the sentence.",
+    "es-en-la-cafeteria-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-en-la-cafeteria-matching-1",
+      "translation": "menu",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-1:meaning",
+      "translation": "A list of food and drinks with prices.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-2",
+      "translation": "waiter",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-2:meaning",
+      "translation": "The person who brings you the food.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-3",
+      "translation": "check",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-3:meaning",
+      "translation": "The paper that says how much you have to pay.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-4",
+      "translation": "tip",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-4:meaning",
+      "translation": "Extra money for good service.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-5",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-5:meaning",
+      "translation": "Something sweet, for example with chocolate.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-6",
+      "translation": "to go",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-matching-6:meaning",
+      "translation": "You take the food or drink with you.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-1",
+      "translation": "Could you bring me the menu, please?",
+      "answerText": "menu"
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-2",
+      "translation": "I'd like a cup of coffee, please.",
+      "answerText": "coffee"
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-3",
+      "translation": "We're finished. Could you bring us the check, please?",
+      "answerText": "check"
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-4",
+      "translation": "For here or to go?",
+      "answerText": "go"
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-5",
+      "translation": "The waiter is very friendly.",
+      "answerText": "waiter"
+    },
+    {
+      "id": "es-en-la-cafeteria-gap-6",
+      "translation": "We left the waiter a tip.",
+      "answerText": "tip"
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs-1",
+      "translation": "I'd like a tea, please.",
+      "answerText": "like"
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs-2",
+      "translation": "What do you recommend?",
+      "answerText": "recommend"
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs-3",
+      "translation": "We'd like to pay, please.",
+      "answerText": "like"
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs-4",
+      "translation": "The cake tastes delicious.",
+      "answerText": "tastes"
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs-5",
+      "translation": "Can I pay by card?",
+      "answerText": "pay"
+    },
+    {
+      "id": "es-en-la-cafeteria-order-1",
+      "translation": "Could I have a glass of water?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-order-2",
+      "translation": "I'd like a slice of cake.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-order-3",
+      "translation": "How much is a coffee?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-order-4",
+      "translation": "We'd like to pay.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling-1",
+      "translation": "breakfast",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling-2",
+      "translation": "chocolate",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling-3",
+      "translation": "cookie",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling-4",
+      "translation": "napkin",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling-5",
+      "translation": "water",
+      "answerText": null
+    }
+  ]
+}

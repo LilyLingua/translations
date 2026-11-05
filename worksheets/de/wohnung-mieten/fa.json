@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.345Z"
+  },
+  "title": "اجاره کردن آپارتمان",
+  "instructions": {
+    "wohnung-mieten-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "wohnung-mieten-gap": "شکل درست حرف تعریف را علامت بزنید.",
+    "wohnung-mieten-verbs": "فعل درست را به شکل درست بنویسید.",
+    "wohnung-mieten-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "wohnung-mieten-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "wohnung-mieten-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "اجاره‌بها",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "پولی که هر ماه برای آپارتمان می‌پردازید.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "ودیعه",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "پولی که صاحبخانه در ابتدا به‌عنوان ضمانت می‌گیرد.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "هزینه‌های جانبی",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "هزینه آب، گرمایش و زباله.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "قرارداد اجاره",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "قرارداد بین مستأجر و صاحبخانه.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "بازدید از آپارتمان",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "آپارتمان را قبل از اجاره کردن می‌بینید.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "سرایدار",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "از ساختمان مراقبت می‌کند و چیزهای کوچک را تعمیر می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "مقررات ساختمان",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "قوانین برای همه ساکنان، مثلاً ساعات سکوت.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "دنبال یک آپارتمان با بالکن هستیم.",
+      "answerText": "یک"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "با صاحبخانه صحبت می‌کنم.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "ودیعه را به صاحبخانه می‌دهم.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "دوچرخه را در حیاط می‌گذارم.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "کلید روی میز است.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "شوفاژ آشپزخانه خراب است.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "یک سال است که در این آپارتمان زندگی می‌کنم.",
+      "answerText": "این"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "کی می‌توانم آپارتمان را ببینم؟",
+      "answerText": "ببینم"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "اجاره با هزینه‌های جانبی ۸۵۰ یورو است.",
+      "answerText": "است"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "اول دسامبر اسباب‌کشی می‌کنیم.",
+      "answerText": "اسباب‌کشی می‌کنیم"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "شوفاژ خراب است. می‌توانید لطفاً آن را تعمیر کنید؟",
+      "answerText": "تعمیر کنید"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "لطفاً زباله‌ها را تفکیک کنید.",
+      "answerText": "تفکیک کنید"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "اتاق",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "آشپزخانه",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "بالکن",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "حمام",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "کلید",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "شوفاژ (گرمایش)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "آپارتمان هنوز خالی است؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "هزینه‌های جانبی چقدر است؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "کی می‌توانم آپارتمان را ببینم؟",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "مایلم آپارتمان را اجاره کنم.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "ودیعه",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "هزینه‌های جانبی",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "بالکن",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "کلید",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "شوفاژ",
+      "answerText": null
+    }
+  ]
+}

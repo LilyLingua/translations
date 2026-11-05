@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "16f95869-9517-45c9-80fc-9eb611fc8b95",
+    "level": "A2"
+  },
+  "title": "Wizyty przez telefon",
+  "topic": "Dzwonienie, umawianie, przekładanie i odwoływanie wizyt",
+  "tasks": [
+    {
+      "id": "pl-wizyty-przez-telefon-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-wizyty-przez-telefon-matching-1",
+          "term": "dzwonić",
+          "meaning": "Rozmawiać z kimś przez telefon."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-matching-2",
+          "term": "odwołać",
+          "meaning": "Powiedzieć, że się nie przyjdzie."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-matching-3",
+          "term": "przełożyć",
+          "meaning": "Zmienić termin wizyty."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-matching-4",
+          "term": "wiadomość głosowa",
+          "meaning": "Wiadomość, którą zostawia się, gdy nikt nie odbiera."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-matching-5",
+          "term": "numer wewnętrzny",
+          "meaning": "Krótki numer telefonu w firmie."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-matching-6",
+          "term": "wolny termin",
+          "meaning": "Godzina, na którą można się jeszcze zapisać."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-wizyty-przez-telefon-gap-1",
+          "promptBefore": "Chcę",
+          "promptAfter": "wizytę w piątek.",
+          "correctAnswer": "odwołać",
+          "options": [
+            "odwołać",
+            "dzwonić",
+            "zostawić"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-gap-2",
+          "promptBefore": "Czy możemy",
+          "promptAfter": "ją na przyszły tydzień?",
+          "correctAnswer": "przełożyć",
+          "options": [
+            "przełożyć",
+            "dzwonić",
+            "odebrać"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-gap-3",
+          "promptBefore": "Czy jest",
+          "promptAfter": "termin w poniedziałek?",
+          "correctAnswer": "wolny",
+          "options": [
+            "wolny",
+            "głosowy",
+            "wewnętrzny"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-gap-4",
+          "promptBefore": "Proszę zostawić wiadomość",
+          "promptAfter": ".",
+          "correctAnswer": "głosową",
+          "options": [
+            "głosową",
+            "wolną",
+            "wewnętrzną"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-gap-5",
+          "promptBefore": "Czy może Pan/Pani do mnie",
+          "promptAfter": "później?",
+          "correctAnswer": "oddzwonić",
+          "options": [
+            "oddzwonić",
+            "odwołać",
+            "przełożyć"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-gap-6",
+          "promptBefore": "Proszę wybrać numer",
+          "promptAfter": "245.",
+          "correctAnswer": "wewnętrzny",
+          "options": [
+            "wewnętrzny",
+            "wolny",
+            "głosowy"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-wizyty-przez-telefon-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "w sprawie wizyty.",
+          "correctAnswer": "Dzwonię",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "dzwonić"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-verbs-2",
+          "promptBefore": "Czy mogę się",
+          "promptAfter": "na wizytę?",
+          "correctAnswer": "umówić",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "umówić się"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-verbs-3",
+          "promptBefore": "Czy może Pan/Pani to",
+          "promptAfter": "?",
+          "correctAnswer": "powtórzyć",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "powtórzyć"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-verbs-4",
+          "promptBefore": "",
+          "promptAfter": "za dziesięć minut.",
+          "correctAnswer": "Oddzwonię",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "oddzwonić"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-verbs-5",
+          "promptBefore": "Biuro",
+          "promptAfter": "do siedemnastej.",
+          "correctAnswer": "działa",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "działać"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-wizyty-przez-telefon-order-1",
+          "chunks": [
+            "Czy mogę",
+            "rozmawiać",
+            "z doktorem Nowakiem"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-order-2",
+          "chunks": [
+            "Chcę",
+            "odwołać",
+            "wizytę"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-order-3",
+          "chunks": [
+            "Czy",
+            "wtorek o dziesiątej",
+            "Panu/Pani pasuje"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-order-4",
+          "chunks": [
+            "Oddzwonię",
+            "jutro",
+            "rano"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-wizyty-przez-telefon-spelling-1",
+          "correct": "telefon",
+          "wrong": "telefąn"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-spelling-2",
+          "correct": "wiadomość",
+          "wrong": "wiadomośc"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-spelling-3",
+          "correct": "środa",
+          "wrong": "sroda"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-spelling-4",
+          "correct": "odwołać",
+          "wrong": "odwołac"
+        },
+        {
+          "id": "pl-wizyty-przez-telefon-spelling-5",
+          "correct": "termin",
+          "wrong": "termim"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

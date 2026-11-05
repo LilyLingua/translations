@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:57.580Z"
+  },
+  "title": "ชเวริน",
+  "instructions": {
+    "stadt-schwerin-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-schwerin-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-schwerin-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-schwerin-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-schwerin-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-schwerin-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-schwerin-matching-1",
+      "translation": "ปราสาทชเวริน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-1:meaning",
+      "translation": "ปราสาทราวกับในเทพนิยายบนเกาะ ปัจจุบันรัฐสภาของรัฐทำงานที่นั่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2",
+      "translation": "เพเทอร์แม็นเชิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2:meaning",
+      "translation": "ผีตัวเล็กของปราสาทจากตำนานเก่าแก่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3",
+      "translation": "รัฐสภาของรัฐ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3:meaning",
+      "translation": "รัฐสภาของรัฐหนึ่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4",
+      "translation": "เกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4:meaning",
+      "translation": "แผ่นดินที่มีน้ำล้อมรอบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5",
+      "translation": "เมืองหลวงของรัฐ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5:meaning",
+      "translation": "เมืองหลวงของรัฐหนึ่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6",
+      "translation": "มหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6:meaning",
+      "translation": "โบสถ์ใหญ่และเก่าแก่ ที่ชเวรินมีหอคอยสูงมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7",
+      "translation": "ตำนาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7:meaning",
+      "translation": "เรื่องเก่าที่ผู้คนเล่าต่อกันมานานมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-1",
+      "translation": "ปราสาทตั้งอยู่บนเกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-2",
+      "translation": "ชเวรินตั้งอยู่ริมทะเลสาบใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-3",
+      "translation": "รัฐสภาของรัฐทำงานในปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-4",
+      "translation": "ตอนกลางคืนเพเทอร์แม็นเชินเดินไปมาในปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-5",
+      "translation": "พวกเรานั่งเรือข้ามทะเลสาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-6",
+      "translation": "จากหอคอยของมหาวิหารมองเห็นทะเลสาบมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-7",
+      "translation": "ชเวรินเป็นเมืองหลวงของรัฐที่เล็กที่สุดในเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-verbs-1",
+      "translation": "ตอนกลางคืนเพเทอร์แม็นเชินเฝ้าปราสาท",
+      "answerText": "เฝ้า"
+    },
+    {
+      "id": "stadt-schwerin-verbs-2",
+      "translation": "รอบชเวรินมีทะเลสาบมากมาย",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-schwerin-verbs-3",
+      "translation": "พวกเราเดินเล่นในสวนของปราสาท",
+      "answerText": "เดินเล่น"
+    },
+    {
+      "id": "stadt-schwerin-verbs-4",
+      "translation": "ในปราสาท นักการเมืองอภิปรายกฎหมายใหม่",
+      "answerText": "อภิปราย"
+    },
+    {
+      "id": "stadt-schwerin-verbs-5",
+      "translation": "ตำนานเล่าเรื่องผีตัวเล็ก",
+      "answerText": "เล่า"
+    },
+    {
+      "id": "stadt-schwerin-table-1",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-2",
+      "translation": "เกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-3",
+      "translation": "ทะเลสาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-4",
+      "translation": "ผี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-5",
+      "translation": "สวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-6",
+      "translation": "เรื่องราว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-1",
+      "translation": "ปราสาทตั้งอยู่บนเกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-2",
+      "translation": "ปัจจุบันรัฐสภาของรัฐทำงานในปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-3",
+      "translation": "คุณรู้จักตำนานของเพเทอร์แม็นเชินไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-4",
+      "translation": "ชเวรินเป็นเมืองที่มีทะเลสาบมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-1",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-2",
+      "translation": "เกาะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-3",
+      "translation": "ผี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-4",
+      "translation": "เรื่องราว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-5",
+      "translation": "รัฐสภา",
+      "answerText": null
+    }
+  ]
+}

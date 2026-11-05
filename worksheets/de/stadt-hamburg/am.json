@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:03.397Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ሃምቡርግ",
+  "instructions": {
+    "stadt-hamburg-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-hamburg-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-hamburg-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-hamburg-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-hamburg-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-hamburg-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"Moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "የሰሜን ጀርመን ሰላምታ – ሰዎች ጠዋት ብቻ ሳይሆን ቀኑን ሙሉ ይሉታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "ኮንቴይነር የጫኑ ትልልቅ መርከቦች እዚህ ይደርሳሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "በወደቡ ያለ የኮንሰርት አዳራሽ፤ የሃምቡርግ ሰዎች \"Elphi\" ብለው ይጠሩታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"Michel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "የሃምቡርግ ሰዎች በጣም የታወቀውን ቤተ ክርስቲያናቸውን፣ የቅዱስ ሚካኤልን (St. Michaelis)፣ እንዲህ ብለው ይጠሩታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "ቀረፋ ያለው ጣፋጭ ዳቦ፣ የሃምቡርግ መለያ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "የዓሣ ገበያ (Fischmarkt)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "በኤልቤ (Elbe) ወንዝ ዳር ያለ ገበያ፣ እሑድ በጣም በማለዳ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"Schietwetter\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "በሰሜን ጀርመን ዘዬ ዝናብ እና ነፋስ ያለበት መጥፎ የአየር ሁኔታ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "መርከቦቹ በኤልቤ ወንዝ ላይ ይጓዛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "እሑድ በማለዳ ወደ ዓሣ ገበያው እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "የዓሣ ሳንድዊች እበላለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "ኮንሰርቱ በElbphilharmonie ውስጥ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "በመርከብ የወደብ ጉብኝት እናደርጋለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "በበጋ ብዙ ሰዎች በአልስተር (Alster) ዳር ይቀመጣሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "ከላይ ሆነው ወደቡን በሙሉ ማየት ይችላሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "በሃምቡርግ ሰዎች ቀኑን ሙሉ \"Moin\" ይላሉ።",
+      "answerText": "ይላሉ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "ትልልቅ የኮንቴይነር መርከቦች ወደቡ ይደርሳሉ።",
+      "answerText": "ይደርሳሉ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "የዓሣ ገበያው እሑድ በጣም በማለዳ ይጀምራል።",
+      "answerText": "ይጀምራል"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "እንደገና ዝናብ እየዘነበ ነው – የተለመደው Schietwetter!",
+      "answerText": "እየዘነበ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "ሃምቡርግ ራሱን የቻለ ፌዴራል ክልል ነው።",
+      "answerText": "ነው"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "ድልድይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "ቦይ (የውኃ መተላለፊያ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "ኮንሰርት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "ቤተ ክርስቲያን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "ሃምቡርግ በኤልቤ ወንዝ ዳር ይገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "እሑድ በማለዳ ወደ ዓሣ ገበያው እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Elbphilharmonie ሄደው ያውቃሉ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "በሃምቡርግ ሰዎች ቀኑን ሙሉ \"Moin\" ይላሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "ኮንሰርት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "ዝናብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "ድልድይ",
+      "answerText": null
+    }
+  ]
+}

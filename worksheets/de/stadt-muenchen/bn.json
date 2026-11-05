@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:40.990Z"
+  },
+  "title": "মিউনিখ",
+  "instructions": {
+    "stadt-muenchen-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-muenchen-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-muenchen-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-muenchen-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-muenchen-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-muenchen-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "\"ভিজন\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "মিউনিখবাসীরা টেরেজিয়েনভিজেতে হওয়া অক্টোবরফেস্টকে এই নামে ডাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "\"সেরভুস!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "বাভারিয়ার সম্ভাষণ, দেখা হলে আর বিদায়ের সময়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "\"মাস\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "এক লিটার বিয়ারের বড় মগ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "ভাইসভুর্স্ট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "সাদা সসেজ, যা ঐতিহ্য অনুযায়ী দুপুর বারোটার আগে খাওয়া হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "\"ব্রেৎসন\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "বাভারিয়ায় প্রেটজেলকে এই নামে ডাকা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "বিয়ার গার্ডেন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "বাইরে গাছের নিচে বসে খাওয়া-দাওয়া।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "ফ্যোন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "আল্পস থেকে আসা গরম বাতাস; তখন পাহাড় খুব পরিষ্কার দেখা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "ঘণ্টাঘড়িটি মারিয়েনপ্লাৎসের টাউন হলে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "গ্রীষ্মে তরুণেরা আইসবাখে সার্ফিং করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "সপ্তাহান্তে আমরা বিয়ার গার্ডেনে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "সে একটা মাস আর একটা ব্রেৎসন চায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "ইজার নদী শহরের ভেতর দিয়ে বয়ে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "আমরা ইংলিশ গার্ডেনে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "ফ্যোন বইলে শহর থেকে আল্পস দেখা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "ভাইসভুর্স্ট বারোটার আগে খাওয়া হয়।",
+      "answerText": "খাওয়া"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "১১টায় টাউন হলের ঘণ্টাঘড়ি বাজে।",
+      "answerText": "বাজে"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "ভিজন সেপ্টেম্বরের শেষে শুরু হয়।",
+      "answerText": "শুরু"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "আইসবাখে তরুণেরা ঢেউয়ের ওপর সার্ফিং করে।",
+      "answerText": "সার্ফিং"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "বিদায়ের সময় মিউনিখবাসীরা \"সেরভুস\" বলে।",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "উৎসব",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "সসেজ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "বাগান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "মগ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "প্রেটজেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "পাহাড়",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "ভিজন সেপ্টেম্বরের শেষে শুরু হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "ভাইসভুর্স্ট বারোটার আগে খাওয়া হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "আজ সন্ধ্যায় কি আমরা বিয়ার গার্ডেনে যাব?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "ফ্যোন বইলে আল্পস খুব পরিষ্কার দেখা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "বিয়ার গার্ডেন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "ঘণ্টাঘড়ি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "টাউন হল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "অক্টোবর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "পাহাড়",
+      "answerText": null
+    }
+  ]
+}

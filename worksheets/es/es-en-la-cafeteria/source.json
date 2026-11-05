@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "5f2f1bd8-2c51-4aa5-b661-c9f74686fbde",
+    "level": "A1"
+  },
+  "title": "En la cafetería",
+  "topic": "Pedir, pagar y pedir algo con amabilidad",
+  "tasks": [
+    {
+      "id": "es-en-la-cafeteria-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-en-la-cafeteria-matching-1",
+          "term": "el menú",
+          "meaning": "Una lista de comida y bebidas con precios."
+        },
+        {
+          "id": "es-en-la-cafeteria-matching-2",
+          "term": "el mesero",
+          "meaning": "La persona que te trae la comida."
+        },
+        {
+          "id": "es-en-la-cafeteria-matching-3",
+          "term": "la cuenta",
+          "meaning": "El papel que dice cuánto tienes que pagar."
+        },
+        {
+          "id": "es-en-la-cafeteria-matching-4",
+          "term": "la propina",
+          "meaning": "Dinero extra por un buen servicio."
+        },
+        {
+          "id": "es-en-la-cafeteria-matching-5",
+          "term": "el pastel",
+          "meaning": "Algo dulce, por ejemplo de chocolate."
+        },
+        {
+          "id": "es-en-la-cafeteria-matching-6",
+          "term": "para llevar",
+          "meaning": "Te llevas la comida o la bebida."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-en-la-cafeteria-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-en-la-cafeteria-gap-1",
+          "promptBefore": "¿Me trae el",
+          "promptAfter": ", por favor?",
+          "correctAnswer": "menú",
+          "options": [
+            "menú",
+            "propina",
+            "mesero"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-cafeteria-gap-2",
+          "promptBefore": "Quisiera una taza de",
+          "promptAfter": ", por favor.",
+          "correctAnswer": "café",
+          "options": [
+            "café",
+            "cuenta",
+            "propina"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-cafeteria-gap-3",
+          "promptBefore": "Ya terminamos. ¿Nos trae la",
+          "promptAfter": ", por favor?",
+          "correctAnswer": "cuenta",
+          "options": [
+            "cuenta",
+            "taza",
+            "propina"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-cafeteria-gap-4",
+          "promptBefore": "¿Para comer aquí o para",
+          "promptAfter": "?",
+          "correctAnswer": "llevar",
+          "options": [
+            "llevar",
+            "pagar",
+            "comer"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-cafeteria-gap-5",
+          "promptBefore": "El",
+          "promptAfter": "es muy amable.",
+          "correctAnswer": "mesero",
+          "options": [
+            "mesero",
+            "menú",
+            "pastel"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-la-cafeteria-gap-6",
+          "promptBefore": "Le dejamos una",
+          "promptAfter": "al mesero.",
+          "correctAnswer": "propina",
+          "options": [
+            "propina",
+            "cuenta",
+            "taza"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-en-la-cafeteria-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-en-la-cafeteria-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "un té, por favor.",
+          "correctAnswer": "Quisiera",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "querer"
+        },
+        {
+          "id": "es-en-la-cafeteria-verbs-2",
+          "promptBefore": "¿Qué me",
+          "promptAfter": "?",
+          "correctAnswer": "recomienda",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "recomendar"
+        },
+        {
+          "id": "es-en-la-cafeteria-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "pagar, por favor.",
+          "correctAnswer": "Queremos",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "querer"
+        },
+        {
+          "id": "es-en-la-cafeteria-verbs-4",
+          "promptBefore": "El pastel",
+          "promptAfter": "delicioso.",
+          "correctAnswer": "sabe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "saber"
+        },
+        {
+          "id": "es-en-la-cafeteria-verbs-5",
+          "promptBefore": "¿Puedo",
+          "promptAfter": "con tarjeta?",
+          "correctAnswer": "pagar",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pagar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-en-la-cafeteria-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-en-la-cafeteria-order-1",
+          "chunks": [
+            "¿Me da",
+            "un vaso",
+            "de agua"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-la-cafeteria-order-2",
+          "chunks": [
+            "Quisiera",
+            "una rebanada",
+            "de pastel"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-la-cafeteria-order-3",
+          "chunks": [
+            "¿Cuánto",
+            "cuesta",
+            "un café"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-la-cafeteria-order-4",
+          "chunks": [
+            "Nos gustaría",
+            "pagar"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-en-la-cafeteria-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-en-la-cafeteria-spelling-1",
+          "correct": "desayuno",
+          "wrong": "dezayuno"
+        },
+        {
+          "id": "es-en-la-cafeteria-spelling-2",
+          "correct": "chocolate",
+          "wrong": "chocolatte"
+        },
+        {
+          "id": "es-en-la-cafeteria-spelling-3",
+          "correct": "galleta",
+          "wrong": "gayeta"
+        },
+        {
+          "id": "es-en-la-cafeteria-spelling-4",
+          "correct": "servilleta",
+          "wrong": "serbilleta"
+        },
+        {
+          "id": "es-en-la-cafeteria-spelling-5",
+          "correct": "agua",
+          "wrong": "agüa"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

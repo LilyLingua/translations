@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:05.683Z"
+  },
+  "title": "Marcar horários por telefone",
+  "instructions": {
+    "termine-am-telefon-matching": "Ligue cada palavra à explicação correta.",
+    "termine-am-telefon-gap": "Marque a preposição correta.",
+    "termine-am-telefon-verbs": "Complete com o verbo correto na forma correta.",
+    "termine-am-telefon-table": "Complete o artigo (der/die/das) e a forma do plural.",
+    "termine-am-telefon-order": "Coloque as palavras na ordem correta e escreva a frase.",
+    "termine-am-telefon-spelling": "Qual palavra está escrita corretamente? Marque."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "a secretária eletrônica",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Aqui você pode deixar uma mensagem.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "o ramal",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "O número de telefone direto de uma pessoa numa empresa.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "retornar a ligação",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Ligar para alguém mais tarde porque a pessoa ligou antes.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "adiar",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Passar um horário marcado para outro dia.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "cancelar",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Dizer que não vai a um horário marcado.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "o horário de atendimento",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Os horários em que se pode falar com alguém.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "soletrar",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Dizer uma palavra letra por letra.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Você tem tempo na segunda-feira?",
+      "answerText": "na"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Pode ser às 10h?",
+      "answerText": "às"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Não tenho tempo antes de dezembro.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "O consultório fica fechado no fim de semana.",
+      "answerText": "no"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Eu retorno a ligação em uma hora.",
+      "answerText": "em"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Estou esperando uma consulta há duas semanas.",
+      "answerText": "há"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Por favor, venha dez minutos antes do horário.",
+      "answerText": "antes"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Posso falar com a senhora Weber, por favor?",
+      "answerText": "falar"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Infelizmente preciso cancelar meu horário.",
+      "answerText": "cancelar"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Você pode me retornar a ligação, por favor?",
+      "answerText": "retornar a ligação"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Eu lhe dou meu número.",
+      "answerText": "dou"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Como se escreve o seu nome?",
+      "answerText": "escreve"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "a ligação",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "o número",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "a mensagem",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "o telefone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "o horário",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "o celular",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Gostaria de adiar um horário.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Quando você tem tempo?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Ligo de novo amanhã.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Quinta-feira às 9h está bom para você?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "mensagem",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "horário marcado",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "retornar a ligação",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "horário",
+      "answerText": null
+    }
+  ]
+}

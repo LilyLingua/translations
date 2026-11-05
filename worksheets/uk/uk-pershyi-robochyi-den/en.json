@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:48.083Z"
+  },
+  "title": "First Day at Work",
+  "instructions": {
+    "uk-pershyi-robochyi-den-matching": "Match each word with its meaning.",
+    "uk-pershyi-robochyi-den-gap": "Choose the right word.",
+    "uk-pershyi-robochyi-den-verbs": "Fill in the correct verb.",
+    "uk-pershyi-robochyi-den-order": "Put the words in the right order and write the sentence.",
+    "uk-pershyi-robochyi-den-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-pershyi-robochyi-den-matching-1",
+      "translation": "colleague",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-1:meaning",
+      "translation": "A person who works together with you.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-2",
+      "translation": "manager",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-2:meaning",
+      "translation": "The person who leads the team.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-3",
+      "translation": "break",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-3:meaning",
+      "translation": "A short time when people stop working and rest.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-4",
+      "translation": "shift",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-4:meaning",
+      "translation": "Working hours, for example from six to two.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-5",
+      "translation": "pass",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-5:meaning",
+      "translation": "A card that lets you enter your workplace.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-6",
+      "translation": "locker",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-matching-6:meaning",
+      "translation": "A small cupboard where you can leave your things.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-1",
+      "translation": "Here is your locker. You can put your bag here.",
+      "answerText": "locker"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-2",
+      "translation": "My shift starts at eight.",
+      "answerText": "shift"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-3",
+      "translation": "Don't forget your pass at the entrance.",
+      "answerText": "pass"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-4",
+      "translation": "The lunch break is at twelve.",
+      "answerText": "break"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-5",
+      "translation": "If there is a problem, talk to the manager.",
+      "answerText": "manager"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap-6",
+      "translation": "Nice to meet you! I'm your new colleague.",
+      "answerText": "colleague"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-1",
+      "translation": "My name is Olena.",
+      "answerText": "name"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-2",
+      "translation": "Where can I find the break room?",
+      "answerText": "find"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-3",
+      "translation": "I work in the warehouse.",
+      "answerText": "work"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-4",
+      "translation": "Could you show me the way to the office?",
+      "answerText": "show"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs-5",
+      "translation": "The meeting starts at ten.",
+      "answerText": "starts"
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-1",
+      "translation": "Where is the break room?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-2",
+      "translation": "It's my first day here.",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-3",
+      "translation": "When does my shift end?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order-4",
+      "translation": "Could you explain that again?",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-1",
+      "translation": "colleague",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-2",
+      "translation": "manager",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-3",
+      "translation": "pass",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-4",
+      "translation": "tomorrow",
+      "answerText": null
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling-5",
+      "translation": "warmly (as in “welcome”)",
+      "answerText": null
+    }
+  ]
+}

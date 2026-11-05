@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:16.867Z"
+  },
+  "title": "Wiesbaden",
+  "instructions": {
+    "stadt-wiesbaden-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-wiesbaden-gap": "Märkige õige sõna.",
+    "stadt-wiesbaden-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-wiesbaden-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-wiesbaden-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-wiesbaden-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "kuurortlinn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "Ravivee poolest tuntud linn; vanasti tulid siia rikkad külalised puhkama.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "allikas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "Siin tuleb vesi maa seest välja; Wiesbadenis on see sageli kuum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "Kochbrunnen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "Kuulus kuum allikas kesklinnas; vesi on kuum ja soolane.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "Kurhaus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "Uhke hoone pidude ja kontsertide jaoks, kasiinoga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "Nerobergbahn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "Vana mäeraudtee, mis töötab ainult vee kui raskuse abil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "Sternschnuppenmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "Wiesbadeni jõuluturu nimi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "kasiino",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "Koht, kus mängitakse raha peale, näiteks ruletti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "Me sõidame Nerobergbahniga mäe otsa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "Kochbrunneni vesi on kuum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "Me läheme Kurhausi kontserdile.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "Detsembris külastame Sternschnuppenmarkti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "Wiesbaden on Hesseni liidumaa pealinn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "Föderaalses Statistikaametis loetakse kokku Saksamaa elanikud.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "Me puhkame termaalvannis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "Kuum vesi tuleb maa seest välja.",
+      "answerText": "tuleb"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "Nerobergbahn töötab ainult veega.",
+      "answerText": "töötab"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "Vanasti sõitsid rikkad külalised Wiesbadenisse ravile.",
+      "answerText": "sõitsid"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "Kurhausis saab mängida ruletti.",
+      "answerText": "saab"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "Paljud inimesed puhkavad termaalvannis.",
+      "answerText": "puhkavad"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "allikas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "külaline",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "raudtee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "purskkaev",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "vann",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "mägi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "Wiesbadenis on palju kuumi allikaid.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "Nerobergbahn töötab veega.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "Kas sa tuled minuga termaalvanni?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "Wiesbaden on Hesseni liidumaa pealinn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "allikas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "purskkaev",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "termaalvann",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "külaline",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "kontsert",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.045Z"
+  },
+  "title": "Уговаряне на час по телефона",
+  "instructions": {
+    "termine-am-telefon-matching": "Свържете всяка дума с подходящото обяснение.",
+    "termine-am-telefon-gap": "Отбележете правилния предлог.",
+    "termine-am-telefon-verbs": "Попълнете правилния глагол в правилната форма.",
+    "termine-am-telefon-table": "Допълнете члена и формата за множествено число.",
+    "termine-am-telefon-order": "Подредете думите в правилния ред и напишете изречението.",
+    "termine-am-telefon-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "телефонен секретар",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Тук можете да оставите съобщение.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "вътрешен номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Директният телефонен номер на човек във фирма.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "обаждам се обратно",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Обаждам се на някого по-късно, защото той се е обадил преди това.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "отлагам",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Премествам среща в друг ден.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "отменям",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Казвам, че няма да дойда на среща.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "приемно време",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Времето, в което може да се свържеш с някого.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "спелувам (казвам буква по буква)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Казвам дума буква по буква.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Имате ли време в понеделник?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Удобно ли е в 10 часа?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Чак през декември имам време.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Кабинетът е затворен през уикенда.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Ще ви се обадя след един час.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Вече две седмици чакам за час.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Моля, елате десет минути преди часа.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Мога ли да говоря с госпожа Вебер, моля?",
+      "answerText": "говоря"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "За съжаление трябва да отменя часа си.",
+      "answerText": "отменя"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Можете ли да ми се обадите обратно, моля?",
+      "answerText": "обадите"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Давам ви номера си.",
+      "answerText": "Давам"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Как се пише името ви?",
+      "answerText": "пише"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "обаждане",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "съобщение",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "час (време)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "мобилен телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Искам да отложа една среща.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Кога имате време?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Утре ще се обадя пак.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Удобно ли ви е в четвъртък в 9 часа?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "съобщение",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "час (среща)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "обаждам се обратно",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "час",
+      "answerText": null
+    }
+  ]
+}

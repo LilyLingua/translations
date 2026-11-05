@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.478Z"
+  },
+  "title": "Детский сад и школа",
+  "instructions": {
+    "kita-und-schule-matching": "Соедините каждое слово с подходящим объяснением.",
+    "kita-und-schule-gap": "Отметьте подходящее слово.",
+    "kita-und-schule-verbs": "Вставьте правильный глагол в правильной форме.",
+    "kita-und-schule-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "kita-und-schule-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "kita-und-schule-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "родительское собрание",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Встреча родителей с учителями.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "детский сад",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Здесь днём присматривают за маленькими детьми.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "классный руководитель (женщина)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Она отвечает за школьный класс.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "табель (школьный аттестат)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Здесь стоят оценки в конце учебного года.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "объяснительная записка",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Короткое письмо в школу, когда ваш ребёнок болел.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "каникулы",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Время без школы, например летом.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "экскурсия",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Класс вместе едет в другое место.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Мой сын болен. Сегодня он не может прийти в школу.",
+      "answerText": "школу"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "На родительском собрании родители разговаривают с учительницей.",
+      "answerText": "родительском собрании"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Летом у детей шесть недель каникул.",
+      "answerText": "каникул"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "В конце учебного года моя дочь получает табель.",
+      "answerText": "табель"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Я пишу учительнице объяснительную записку, потому что мой ребёнок болел.",
+      "answerText": "объяснительную записку"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Дети должны каждый день делать домашнее задание.",
+      "answerText": "домашнее задание"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Моему ребёнку три года, и он ходит в детский сад.",
+      "answerText": "детский сад"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Я забираю ребёнка в 16 часов.",
+      "answerText": "забираю"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Моя дочь сегодня, к сожалению, больна.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Можем ли мы договориться о встрече?",
+      "answerText": "договориться"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Уроки начинаются в 8 часов.",
+      "answerText": "начинаются"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Пожалуйста, подпишите форму до пятницы.",
+      "answerText": "подпишите"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "ребёнок",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "класс",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "учитель",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "тетрадь",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "оценка",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "ручка",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Мой сын сегодня болен.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Когда начинается родительское собрание?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Я забираю дочь в 15 часов.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Нужно ли моему ребёнку что-нибудь для экскурсии?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "родительское собрание",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "табель",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "объяснительная записка",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "домашнее задание",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "классный руководитель",
+      "answerText": null
+    }
+  ]
+}

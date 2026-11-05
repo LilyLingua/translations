@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:35.181Z"
+  },
+  "title": "বিলেফেল্ড",
+  "instructions": {
+    "stadt-bielefeld-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-bielefeld-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-bielefeld-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-bielefeld-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-bielefeld-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-bielefeld-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-bielefeld-matching-1",
+      "translation": "বিলেফেল্ড ষড়যন্ত্র",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-1:meaning",
+      "translation": "ইন্টারনেটের পুরোনো রসিকতা: বিলেফেল্ড বলে আসলে কিছু নেই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2",
+      "translation": "শ্পারেনবুর্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2:meaning",
+      "translation": "পাহাড়ের ওপর পুরোনো দুর্গ; ওপর থেকে পুরো শহর দেখা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3",
+      "translation": "ডক্টর ওয়েটকার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3:meaning",
+      "translation": "পুডিং, বেকিং পাউডার আর পিৎজার বিখ্যাত কোম্পানি – এটি বিলেফেল্ডের।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4",
+      "translation": "টয়টোবুর্গ বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4:meaning",
+      "translation": "শহরের ঠিক পাশে পাহাড়ি দীর্ঘ বন; হাঁটার জন্য ভালো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5",
+      "translation": "আরমিনিয়া",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5:meaning",
+      "translation": "শহরের ফুটবল ক্লাব; ভক্তরা এর স্টেডিয়ামকে \"আল্ম\" বলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6",
+      "translation": "পূর্ব ওয়েস্টফালিয়ার মানুষ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6:meaning",
+      "translation": "এখানকার মানুষদের এই নামে ডাকা হয়; বলা হয় তারা বেশি কথা বলে না।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7",
+      "translation": "\"পিকার্ট\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7:meaning",
+      "translation": "আলু দিয়ে তৈরি পূর্ব ওয়েস্টফালিয়ার প্যানকেক, প্রায়ই কিশমিশসহ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-1",
+      "translation": "শ্পারেনবুর্গ শহরের ওপরে একটি পাহাড়ে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-2",
+      "translation": "অনেকে টয়টোবুর্গ বনে হাঁটতে যায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-3",
+      "translation": "আমি ডক্টর ওয়েটকারের একটি পুডিং কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-4",
+      "translation": "পিকার্ট প্যানে ভাজা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-5",
+      "translation": "আরমিনিয়া আল্মে খেলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-6",
+      "translation": "অনেকে বিলেফেল্ড ষড়যন্ত্র নিয়ে হাসে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-7",
+      "translation": "বিলেফেল্ড পূর্ব ওয়েস্টফালিয়া-লিপে অঞ্চলে অবস্থিত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-verbs-1",
+      "translation": "কেউ কেউ মজা করে বলে: \"বিলেফেল্ড বলে কিছু নেই।\"",
+      "answerText": "বলে"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-2",
+      "translation": "পূর্ব ওয়েস্টফালিয়ার মানুষ বেশি কথা বলে না।",
+      "answerText": "কথা"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-3",
+      "translation": "ডক্টর ওয়েটকার ১০০ বছরেরও বেশি সময় ধরে বিলেফেল্ডে অবস্থিত।",
+      "answerText": "অবস্থিত"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-4",
+      "translation": "ভক্তরা আল্মে আরমিনিয়াকে উৎসাহ দেয়।",
+      "answerText": "উৎসাহ"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-5",
+      "translation": "শ্পারেনবুর্গ থেকে পুরো শহরের দিকে তাকানো যায়।",
+      "answerText": "তাকানো"
+    },
+    {
+      "id": "stadt-bielefeld-table-1",
+      "translation": "বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-2",
+      "translation": "প্যান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-3",
+      "translation": "পাহাড়",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-4",
+      "translation": "কোম্পানি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-5",
+      "translation": "গুজব",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-6",
+      "translation": "রসিকতা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-1",
+      "translation": "বিলেফেল্ড সত্যিই আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-2",
+      "translation": "রবিবার আমরা টয়টোবুর্গ বনে হাঁটতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-3",
+      "translation": "তুমি কি কখনো শ্পারেনবুর্গে গেছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-4",
+      "translation": "ডক্টর ওয়েটকার বিলেফেল্ডের কোম্পানি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-1",
+      "translation": "রসিকতা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-2",
+      "translation": "প্যান",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-3",
+      "translation": "বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-4",
+      "translation": "কোম্পানি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-5",
+      "translation": "পুডিং",
+      "answerText": null
+    }
+  ]
+}

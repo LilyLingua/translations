@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.172Z"
+  },
+  "title": "上班第一天",
+  "instructions": {
+    "erster-arbeitstag-matching": "把每个单词和合适的解释连起来。",
+    "erster-arbeitstag-gap": "勾出正确的形式。",
+    "erster-arbeitstag-verbs": "用正确形式填入正确的动词。",
+    "erster-arbeitstag-table": "填写冠词（der/die/das）和复数形式。",
+    "erster-arbeitstag-order": "把单词按正确顺序排列并写出句子。",
+    "erster-arbeitstag-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "同事",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "和您一起工作的一位男士。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "女上司",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "她领导团队。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "休息时间",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "工作中的空闲时间，例如吃饭。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "休假",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "不工作但照样拿工资的假日。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "加班小时",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "比计划多工作的一个小时。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "劳动合同",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "上面写着工资、工作时间和假期。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "员工食堂",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "员工在公司里吃饭的地方。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "这是我的新同事。",
+      "answerText": "我的"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "我可以给您介绍一下我的同事吗？",
+      "answerText": "我的"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "我喜欢和团队一起工作。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "我们在食堂见。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "我有一个问题。",
+      "answerText": "一个"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "休息什么时候开始？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "我把报告交给上司。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "我可以简单介绍一下自己吗？",
+      "answerText": "介绍"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "我从8点工作到16点。",
+      "answerText": "工作"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "厕所在哪儿找？",
+      "answerText": "找"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "在团队里我们互相用“你”称呼。",
+      "answerText": "称呼"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "您能给我解释一下吗？",
+      "answerText": "解释"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "同事",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "公司",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "办公室",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "电脑",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "会议",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "团队",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "我可以简单介绍一下自己吗？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "我是团队的新人。",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "午休什么时候开始？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "您能给我解释一下吗？",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "同事",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "会议",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "休假",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "办公室",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "加班小时",
+      "answerText": null
+    }
+  ]
+}

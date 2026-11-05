@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.403Z"
+  },
+  "title": "Con el médico",
+  "instructions": {
+    "en-at-the-doctor-matching": "Relaciona cada palabra con su significado.",
+    "en-at-the-doctor-gap": "Elige la palabra correcta.",
+    "en-at-the-doctor-verbs": "Escribe el verbo correcto.",
+    "en-at-the-doctor-order": "Ordena las palabras y escribe la oración.",
+    "en-at-the-doctor-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-at-the-doctor-matching-1",
+      "translation": "la cita",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-1:meaning",
+      "translation": "Una hora fija en la que ves al médico.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2",
+      "translation": "el síntoma",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-2:meaning",
+      "translation": "Una señal de que estás enfermo, por ejemplo la fiebre.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3",
+      "translation": "la fiebre",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-3:meaning",
+      "translation": "Una temperatura del cuerpo demasiado alta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4",
+      "translation": "la sala de espera",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-4:meaning",
+      "translation": "El cuarto donde esperas antes de ver al médico.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5",
+      "translation": "la credencial del seguro",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-5:meaning",
+      "translation": "La tarjeta que muestra tu seguro médico.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6",
+      "translation": "la incapacidad",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-matching-6:meaning",
+      "translation": "Un papel del médico que dice que no puedes trabajar.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-gap-1",
+      "translation": "Quiero hacer una cita para mañana.",
+      "answerText": "cita"
+    },
+    {
+      "id": "en-at-the-doctor-gap-2",
+      "translation": "Tengo fiebre desde ayer.",
+      "answerText": "fiebre"
+    },
+    {
+      "id": "en-at-the-doctor-gap-3",
+      "translation": "Por favor, tome asiento en la sala de espera.",
+      "answerText": "sala de espera"
+    },
+    {
+      "id": "en-at-the-doctor-gap-4",
+      "translation": "¿Trae su credencial del seguro?",
+      "answerText": "credencial"
+    },
+    {
+      "id": "en-at-the-doctor-gap-5",
+      "translation": "Necesito una incapacidad para mi trabajo.",
+      "answerText": "incapacidad"
+    },
+    {
+      "id": "en-at-the-doctor-gap-6",
+      "translation": "¿Qué síntomas tiene?",
+      "answerText": "síntomas"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-1",
+      "translation": "Me duele la garganta.",
+      "answerText": "duele"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-2",
+      "translation": "Me siento muy mal.",
+      "answerText": "siento"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-3",
+      "translation": "El médico me toma la presión.",
+      "answerText": "toma"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-4",
+      "translation": "Debe quedarse en cama dos días.",
+      "answerText": "quedarse"
+    },
+    {
+      "id": "en-at-the-doctor-verbs-5",
+      "translation": "Por favor, respire profundo.",
+      "answerText": "respire"
+    },
+    {
+      "id": "en-at-the-doctor-order-1",
+      "translation": "Me duele la garganta.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-2",
+      "translation": "¿Cuándo puedo venir?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-3",
+      "translation": "¿Necesito receta?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-order-4",
+      "translation": "Por favor, regrese la próxima semana.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-1",
+      "translation": "cita",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-2",
+      "translation": "temperatura",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-3",
+      "translation": "estómago",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-4",
+      "translation": "seguro",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-doctor-spelling-5",
+      "translation": "médico",
+      "answerText": null
+    }
+  ]
+}

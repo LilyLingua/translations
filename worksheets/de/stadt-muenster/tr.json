@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:58.765Z"
+  },
+  "title": "Münster",
+  "instructions": {
+    "stadt-muenster-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-muenster-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-muenster-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-muenster-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-muenster-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-muenster-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-muenster-matching-1",
+      "translation": "\"Leeze\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-1:meaning",
+      "translation": "Münster'de bisiklete verilen ad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2",
+      "translation": "Prinzipalmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2:meaning",
+      "translation": "Eski üçgen çatılı evleri ve kemerli yollarıyla güzel bir alışveriş caddesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3",
+      "translation": "Vestfalya Barışı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3:meaning",
+      "translation": "1648'de Otuz Yıl Savaşları burada ve Osnabrück'te sona erdi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4",
+      "translation": "Anabaptist kafesleri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4:meaning",
+      "translation": "Üç demir kafes neredeyse 500 yıldır Lamberti Kilisesi'nin kulesinde asılı duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5",
+      "translation": "Aasee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5:meaning",
+      "translation": "Şehrin ortasında bir göl; yazın orada birçok öğrenci oturur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6",
+      "translation": "\"Send\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6:meaning",
+      "translation": "Yılda üç kez kurulan, atlıkarıncalı büyük halk şenliği.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7",
+      "translation": "Promenade",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7:meaning",
+      "translation": "Eski şehrin çevresinde yalnızca bisikletliler ve yayalar için bir yol.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-1",
+      "translation": "Üniversiteye Leeze ile gidiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-2",
+      "translation": "Prinzipalmarkt boyunca yürüyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-3",
+      "translation": "1648'de Münster'de Vestfalya Barışı imzalandı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-4",
+      "translation": "Aasee'nin etrafında koşuyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-5",
+      "translation": "Send'de atlıkarıncaya biniyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-6",
+      "translation": "Promenade, eski şehrin etrafında bir halkadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-7",
+      "translation": "Derler ki: Münster'de ya yağmur yağar ya da çanlar çalar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-verbs-1",
+      "translation": "Münster'de neredeyse herkes bisiklete biner.",
+      "answerText": "biner"
+    },
+    {
+      "id": "stadt-muenster-verbs-2",
+      "translation": "St. Lamberti'nin kulesinde üç demir kafes asılı duruyor.",
+      "answerText": "asılı"
+    },
+    {
+      "id": "stadt-muenster-verbs-3",
+      "translation": "Öğrenciler Leeze'lerini üniversitenin önüne bırakır.",
+      "answerText": "bırakır"
+    },
+    {
+      "id": "stadt-muenster-verbs-4",
+      "translation": "Yine yağmur yağıyor!",
+      "answerText": "yağıyor"
+    },
+    {
+      "id": "stadt-muenster-verbs-5",
+      "translation": "Send yılda üç kez kurulur.",
+      "answerText": "kurulur"
+    },
+    {
+      "id": "stadt-muenster-table-1",
+      "translation": "bisiklet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-2",
+      "translation": "kafes",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-3",
+      "translation": "çan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-4",
+      "translation": "üçgen çatı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-5",
+      "translation": "atlıkarınca",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-6",
+      "translation": "dar sokak",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-1",
+      "translation": "Münster'de nüfustan daha çok bisiklet var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-2",
+      "translation": "Prinzipalmarkt'ta eski üçgen çatılı evler duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-3",
+      "translation": "Üniversiteye Leeze ile mi gidiyorsun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-4",
+      "translation": "Vestfalya Barışı 1648'de uzun bir savaşı sona erdirdi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-1",
+      "translation": "bisiklet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-2",
+      "translation": "kafes",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-3",
+      "translation": "çan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-4",
+      "translation": "atlıkarınca",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-5",
+      "translation": "üçgen çatı",
+      "answerText": null
+    }
+  ]
+}

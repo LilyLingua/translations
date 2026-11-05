@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:17.612Z"
+  },
+  "title": "Дортмунд",
+  "instructions": {
+    "stadt-dortmund-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-dortmund-gap": "Означи тачну реч.",
+    "stadt-dortmund-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-dortmund-table": "Упиши члан и облик множине.",
+    "stadt-dortmund-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-dortmund-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-dortmund-matching-1",
+      "translation": "БВБ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-1:meaning",
+      "translation": "Борусија Дортмунд – велики фудбалски клуб града, у црној и жутој боји.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2",
+      "translation": "Жути зид",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2:meaning",
+      "translation": "Огромна јужна трибина на стадиону; тамо навијачи стоје збијено један уз другог.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3",
+      "translation": "Дортмундско У",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3:meaning",
+      "translation": "Некадашња висока зграда пиваре са великим светлећим словом У на крову.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4:meaning",
+      "translation": "Овде се некада вадио угаљ из земље.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5",
+      "translation": "„Bude“ (Буде)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5:meaning",
+      "translation": "Мали киоск на углу са пићем, слаткишима и новинама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6",
+      "translation": "„Pott“ (Пот)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6:meaning",
+      "translation": "Кратка реч за Рурску област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7",
+      "translation": "божићна јелка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7:meaning",
+      "translation": "На божићном сајму стоји огромно дрво од много јела.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-1",
+      "translation": "У суботу идемо на стадион.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-2",
+      "translation": "Навијачи стоје на јужној трибини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-3",
+      "translation": "Купујемо нешто за пиће на киоску.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-4",
+      "translation": "Мој деда је радио у руднику.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-5",
+      "translation": "На божићном сајму стоји огромна јелка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-6",
+      "translation": "Горе на Дортмундском У светли велико У.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-7",
+      "translation": "Посећујемо Немачки фудбалски музеј.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-verbs-1",
+      "translation": "Навијачи гласно певају за БВБ.",
+      "answerText": "певају"
+    },
+    {
+      "id": "stadt-dortmund-verbs-2",
+      "translation": "Некада је много мушкараца радило под земљом.",
+      "answerText": "радило"
+    },
+    {
+      "id": "stadt-dortmund-verbs-3",
+      "translation": "Божићно дрво је високо преко 40 метара.",
+      "answerText": "је"
+    },
+    {
+      "id": "stadt-dortmund-verbs-4",
+      "translation": "Слово У светли ноћу.",
+      "answerText": "светли"
+    },
+    {
+      "id": "stadt-dortmund-verbs-5",
+      "translation": "Налазимо се код киоска.",
+      "answerText": "Налазимо"
+    },
+    {
+      "id": "stadt-dortmund-table-1",
+      "translation": "стадион",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-2",
+      "translation": "навијач",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-3",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-4",
+      "translation": "гол",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-5",
+      "translation": "клуб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-6",
+      "translation": "киоск",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-1",
+      "translation": "БВБ игра на Вестфаленштадиону.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-2",
+      "translation": "У суботу стојимо на јужној трибини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-3",
+      "translation": "Идеш ли с нама на стадион?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-4",
+      "translation": "Дортмунд лежи у Рурској области.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-1",
+      "translation": "стадион",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-2",
+      "translation": "клуб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-3",
+      "translation": "трибина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-4",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-5",
+      "translation": "фудбал",
+      "answerText": null
+    }
+  ]
+}

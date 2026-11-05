@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "f007ffe7-3147-4671-b71e-bd7bd314431b",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Bochum",
+  "topic": "NRW: Bermuda3eck, Currywurst, Starlight Express",
+  "tasks": [
+    {
+      "id": "stadt-bochum-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-bochum-matching-1",
+          "term": "das Bermuda3eck",
+          "meaning": "Viertel mit vielen Kneipen und Bars in der Innenstadt."
+        },
+        {
+          "id": "stadt-bochum-matching-2",
+          "term": "die Currywurst",
+          "meaning": "Bratwurst mit Ketchup und Currypulver – in Bochum sehr beliebt."
+        },
+        {
+          "id": "stadt-bochum-matching-3",
+          "term": "Herbert Grönemeyer",
+          "meaning": "Sänger, der ein bekanntes Lied über seine Stadt Bochum singt."
+        },
+        {
+          "id": "stadt-bochum-matching-4",
+          "term": "der VfL Bochum",
+          "meaning": "Fußballverein der Stadt in Blau und Weiß."
+        },
+        {
+          "id": "stadt-bochum-matching-5",
+          "term": "das Bergbau-Museum",
+          "meaning": "Großes Museum über die Arbeit unter der Erde – mit einem Bergwerk zum Anschauen."
+        },
+        {
+          "id": "stadt-bochum-matching-6",
+          "term": "Starlight Express",
+          "meaning": "Musical, in dem die Darsteller auf Rollschuhen fahren."
+        },
+        {
+          "id": "stadt-bochum-matching-7",
+          "term": "die Ruhr-Universität",
+          "meaning": "Große Universität am Rand der Stadt mit vielen Studenten."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-bochum-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-bochum-gap-1",
+          "promptBefore": "Am Freitag treffen wir uns in",
+          "promptAfter": "Bermuda3eck.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-2",
+          "promptBefore": "Ich esse",
+          "promptAfter": "Currywurst mit Pommes.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-3",
+          "promptBefore": "Viele Studenten lernen an",
+          "promptAfter": "Ruhr-Universität.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-4",
+          "promptBefore": "Im Bergbau-Museum gehen wir in",
+          "promptAfter": "Bergwerk.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-5",
+          "promptBefore": "Die Darsteller fahren auf",
+          "promptAfter": "Rollschuhen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "die",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-6",
+          "promptBefore": "Herbert Grönemeyer singt",
+          "promptAfter": "Lied über Bochum.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bochum-gap-7",
+          "promptBefore": "Der VfL spielt in",
+          "promptAfter": "Stadion an der Castroper Straße.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-bochum-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-bochum-verbs-1",
+          "promptBefore": "Im Musical",
+          "promptAfter": "die Darsteller auf Rollschuhen.",
+          "correctAnswer": "fahren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fahren"
+        },
+        {
+          "id": "stadt-bochum-verbs-2",
+          "promptBefore": "Herbert Grönemeyer",
+          "promptAfter": "über seine Stadt.",
+          "correctAnswer": "singt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "singen"
+        },
+        {
+          "id": "stadt-bochum-verbs-3",
+          "promptBefore": "Am Wochenende",
+          "promptAfter": "viele Leute ins Bermuda3eck.",
+          "correctAnswer": "gehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "gehen"
+        },
+        {
+          "id": "stadt-bochum-verbs-4",
+          "promptBefore": "Man",
+          "promptAfter": "die Currywurst mit Pommes.",
+          "correctAnswer": "isst",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "essen"
+        },
+        {
+          "id": "stadt-bochum-verbs-5",
+          "promptBefore": "Das Musical",
+          "promptAfter": "seit 1988 in Bochum.",
+          "correctAnswer": "läuft",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "laufen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-bochum-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-bochum-table-1",
+          "article": "die",
+          "singular": "Kneipe",
+          "plural": "Kneipen"
+        },
+        {
+          "id": "stadt-bochum-table-2",
+          "article": "das",
+          "singular": "Lied",
+          "plural": "Lieder"
+        },
+        {
+          "id": "stadt-bochum-table-3",
+          "article": "der",
+          "singular": "Student",
+          "plural": "Studenten"
+        },
+        {
+          "id": "stadt-bochum-table-4",
+          "article": "das",
+          "singular": "Musical",
+          "plural": "Musicals"
+        },
+        {
+          "id": "stadt-bochum-table-5",
+          "article": "die",
+          "singular": "Universität",
+          "plural": "Universitäten"
+        },
+        {
+          "id": "stadt-bochum-table-6",
+          "article": "der",
+          "singular": "Sänger",
+          "plural": "Sänger"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-bochum-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-bochum-order-1",
+          "chunks": [
+            "Starlight Express",
+            "läuft",
+            "seit 1988",
+            "in Bochum"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bochum-order-2",
+          "chunks": [
+            "Nach der Uni",
+            "gehen",
+            "wir",
+            "ins Bermuda3eck"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bochum-order-3",
+          "chunks": [
+            "Isst",
+            "du",
+            "die Currywurst",
+            "mit Pommes"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-bochum-order-4",
+          "chunks": [
+            "Grönemeyer",
+            "singt",
+            "ein Lied",
+            "über Bochum"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-bochum-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-bochum-spelling-1",
+          "correct": "Musical",
+          "wrong": "Musikel"
+        },
+        {
+          "id": "stadt-bochum-spelling-2",
+          "correct": "Universität",
+          "wrong": "Universitet"
+        },
+        {
+          "id": "stadt-bochum-spelling-3",
+          "correct": "Currywurst",
+          "wrong": "Kariwurst"
+        },
+        {
+          "id": "stadt-bochum-spelling-4",
+          "correct": "Kneipe",
+          "wrong": "Knaipe"
+        },
+        {
+          "id": "stadt-bochum-spelling-5",
+          "correct": "Sänger",
+          "wrong": "Senger"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

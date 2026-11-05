@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.604Z"
+  },
+  "title": "Au supermarché",
+  "instructions": {
+    "im-supermarkt-matching": "Reliez chaque mot à l'explication qui convient.",
+    "im-supermarkt-gap": "Cochez l'emballage ou la quantité qui convient.",
+    "im-supermarkt-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "im-supermarkt-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "im-supermarkt-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "im-supermarkt-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "le chariot",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Vous y mettez vos articles pendant les courses.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "le rayon fromage à la coupe",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Ici, vous achetez du fromage frais au poids.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "la consigne",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "L'argent qu'on vous rend pour les bouteilles vides.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "la machine de consigne",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Ici, vous rendez les bouteilles vides.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "la promotion",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Un produit est moins cher pendant peu de temps.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "le ticket de caisse",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Tous les prix sont sur ce papier.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "le sac",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Vous y portez vos courses à la maison.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "J'achète un pot de yaourt.",
+      "answerText": "pot"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Et une bouteille d'eau, s'il vous plaît.",
+      "answerText": "bouteille"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Nous avons besoin d'un paquet de pâtes.",
+      "answerText": "paquet"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Pour la sauce, je prends une boîte de tomates.",
+      "answerText": "boîte"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Je voudrais 200 grammes de gouda, s'il vous plaît.",
+      "answerText": "grammes"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Une plaquette de beurre coûte 2,29 euros.",
+      "answerText": "plaquette"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Je prends un litre de lait.",
+      "answerText": "litre"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Pouvez-vous me faire la monnaie sur cinq euros ?",
+      "answerText": "faire la monnaie"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Excusez-moi, où trouver la farine ?",
+      "answerText": "trouver"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Je paie par carte.",
+      "answerText": "paie"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Je voudrais 200 grammes de gouda.",
+      "answerText": "voudrais"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Le dimanche, presque tous les supermarchés sont fermés.",
+      "answerText": "sont"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "la bouteille",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "le pot",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "la boîte de conserve",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "le pain",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "la pomme",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "la banane",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Excusez-moi, où trouver la farine ?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "J'ai un sac avec moi.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Les bananes sont en promotion aujourd'hui.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Où est la machine de consigne ?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "chariot",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "ticket de caisse",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "consigne",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "fromage",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "petit pain",
+      "answerText": null
+    }
+  ]
+}

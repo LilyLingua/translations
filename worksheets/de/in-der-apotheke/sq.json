@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.189Z"
+  },
+  "title": "Në farmaci",
+  "instructions": {
+    "in-der-apotheke-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "in-der-apotheke-gap": "Shënoni fjalën e duhur.",
+    "in-der-apotheke-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "in-der-apotheke-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "in-der-apotheke-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "in-der-apotheke-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "receta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Letra nga mjeku për një ilaç.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Një ilaç i vogël që gëlltitet.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "shurupi për kollën",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Një ilaç i lëngshëm kundër kollës.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "pomada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Lyhet mbi lëkurë.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "efekti anësor",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Një efekt i padëshiruar i një ilaçi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "udhëzimi i paketimit (fletëpalosja)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Letra brenda ilaçit me të gjitha informacionet.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "pagesa shtesë",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Një shumë të vogël për një recetë e paguani vetë.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Kam një recetë nga mjekja ime.",
+      "answerText": "recetë"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Keni diçka për dhimbjen e fytit?",
+      "answerText": "dhimbjen e fytit"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Merrni dy tableta në ditë.",
+      "answerText": "tableta"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Pomada është për lëkurën.",
+      "answerText": "lëkurën"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Lexoni ju lutem fletëpalosjen.",
+      "answerText": "fletëpalosjen"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Ilaçi pothuajse nuk ka efekte anësore.",
+      "answerText": "efekte anësore"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Në fundjavë një farmaci është në shërbim kujdestarie.",
+      "answerText": "farmaci"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Kam kollë që nga dje.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Sa shpesh duhet t'i marr tabletat?",
+      "answerText": "marr"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Ne e porosisim ilaçin deri nesër.",
+      "answerText": "porosisim"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Pomadën e lyeni dy herë në ditë.",
+      "answerText": "lyeni"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Ju lutem pini shumë ujë.",
+      "answerText": "pini"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "ilaçi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "pomada",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "leukoplasti",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "paketimi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "pika",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Keni diçka kundër kollës?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Sa shpesh duhet t'i marr tabletat?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Më duhet një ilaç kundër dhimbjes së kokës.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "A më duhet recetë për këtë?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "farmacia",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "ilaçi",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "leukoplasti",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "efekti anësor",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kolla",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:46.001Z"
+  },
+  "title": "Мюнстер",
+  "instructions": {
+    "stadt-muenster-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-muenster-gap": "Отбележете правилната дума.",
+    "stadt-muenster-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-muenster-table": "Попълнете члена и формата за множествено число.",
+    "stadt-muenster-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-muenster-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-muenster-matching-1",
+      "translation": "„Лезе“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-1:meaning",
+      "translation": "Мюнстерска дума за велосипед.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2",
+      "translation": "Принципалмаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2:meaning",
+      "translation": "Красива търговска улица със стари къщи с фронтони и сводести галерии.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3",
+      "translation": "Вестфалският мир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3:meaning",
+      "translation": "През 1648 г. тук и в Оснабрюк приключи Тридесетгодишната война.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4",
+      "translation": "клетките на анабаптистите",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4:meaning",
+      "translation": "Три железни клетки висят от почти 500 години на кулата на църквата „Св. Ламберт“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5",
+      "translation": "Аазе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5:meaning",
+      "translation": "Езеро насред града; през лятото там седят много студенти.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6",
+      "translation": "„Зенд“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6:meaning",
+      "translation": "Голям народен празник с въртележки, три пъти в годината.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7",
+      "translation": "Променадата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7:meaning",
+      "translation": "Път около Стария град само за велосипеди и пешеходци.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-1",
+      "translation": "Карам лезето си до университета.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-2",
+      "translation": "Минаваме през Принципалмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-3",
+      "translation": "През 1648 г. в Мюнстер е сключен Вестфалският мир.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-4",
+      "translation": "Тичаме около Аазе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-5",
+      "translation": "На Зенд се возим на въртележка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-6",
+      "translation": "Променадата е пръстен около Стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-7",
+      "translation": "Казват: в Мюнстер или вали, или камбаните бият.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-verbs-1",
+      "translation": "В Мюнстер почти всички карат колело.",
+      "answerText": "карат"
+    },
+    {
+      "id": "stadt-muenster-verbs-2",
+      "translation": "На кулата на „Св. Ламберт“ висят три железни клетки.",
+      "answerText": "висят"
+    },
+    {
+      "id": "stadt-muenster-verbs-3",
+      "translation": "Студентите оставят лезетата си пред университета.",
+      "answerText": "оставят"
+    },
+    {
+      "id": "stadt-muenster-verbs-4",
+      "translation": "Пак вали!",
+      "answerText": "вали"
+    },
+    {
+      "id": "stadt-muenster-verbs-5",
+      "translation": "Зенд се провежда три пъти в годината.",
+      "answerText": "провежда"
+    },
+    {
+      "id": "stadt-muenster-table-1",
+      "translation": "велосипедът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-2",
+      "translation": "клетката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-3",
+      "translation": "камбаната",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-4",
+      "translation": "фронтонът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-5",
+      "translation": "въртележката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-6",
+      "translation": "уличката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-1",
+      "translation": "В Мюнстер има повече велосипеди, отколкото жители.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-2",
+      "translation": "На Принципалмаркт има стари къщи с фронтони.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-3",
+      "translation": "С лезето ли ходиш до университета?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-4",
+      "translation": "Вестфалският мир сложи край на една дълга война през 1648 г.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-1",
+      "translation": "велосипед",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-2",
+      "translation": "клетка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-3",
+      "translation": "камбана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-4",
+      "translation": "въртележка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-5",
+      "translation": "фронтон",
+      "answerText": null
+    }
+  ]
+}

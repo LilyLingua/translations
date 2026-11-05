@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:07.420Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Köln",
+  "instructions": {
+    "stadt-koeln-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-koeln-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-koeln-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-koeln-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-koeln-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-koeln-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "„Kölle Alaaf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "በKöln ካርኒቫል የሚባል ጥሪ – በግምት „Köln ለዘላለም ትኑር!“ ማለት ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "ካቴድራል (Dom)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "ከዋናው የባቡር ጣቢያ አጠገብ ያለ ሁለት ማማዎች ያሉት ትልቅ ቤተ ክርስቲያን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "„Kölsch“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "የKöln ፈካ ያለ ቢራ፤ በትናንሽና ጠባብ ብርጭቆዎች ይጠጣል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "„Köbes“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "በቢራ ቤቱ ውስጥ ያለ አስተናጋጅ፤ የቢራ ማስቀመጫ ካርቶኑን በብርጭቆው ላይ እስኪያደርጉ ድረስ አዲስ Kölsch ያመጣል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "„Halve Hahn“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "አይብ ያለበት የአጃ ዳቦ – ግማሽ ዶሮ አይደለም!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "„Veedel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "በKölsch ቋንቋ ሰፈር ማለት ነው፤ እያንዳንዱ የKöln ሰው ሰፈሩን (Veedel) ይወዳል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Rosenmontag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "በከተማው ውስጥ ትልቅ ሰልፍ የሚካሄድበት የካርኒቫሉ ከፍተኛ ደረጃ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "እሱ በቢራ ቤቱ ውስጥ አንድ Kölsch ይጠጣል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Köbes የሚቀጥለውን Kölsch ያመጣል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "በRosenmontag በከተማው የሚያልፈውን ሰልፍ እንመለከታለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "ብዙ ቱሪስቶች የKöln ካቴድራልን ይጎበኛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "አንድ Halve Hahn አዛለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "ብዙ ሰዎች Hohenzollernbrücke ድልድይን በእግር ያቋርጣሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "በካርኒቫል ሰዎች የማስመሰያ ልብስ ይለብሳሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "በካርኒቫል ሰዎች „Kölle Alaaf!“ ብለው ይጮኻሉ።",
+      "answerText": "ይጮኻሉ"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Köbes ሳይጠየቅ አዲስ Kölsch ያመጣል።",
+      "answerText": "ያመጣል"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "ካቴድራሉ ከ150 ሜትር በላይ ከፍታ አለው።",
+      "answerText": "አለው"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Rhein በKöln መሃል ለመሃል ይፈስሳል።",
+      "answerText": "ይፈስሳል"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "ኖቬምበር 11 ቀን 11:11 ላይ ካርኒቫሉ ይጀምራል።",
+      "answerText": "ይጀምራል"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "ካቴድራል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "ድልድይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "ሰልፍ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "የማስመሰያ ልብስ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "መጠጥ ቤት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "የKöln ካቴድራል ከባቡር ጣቢያው አጠገብ ቆሟል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "በRosenmontag መላው Köln ካርኒቫልን ያከብራል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "ሌላ Kölsch ይፈልጋሉ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "በKöln ሰዎች Kölsch በትናንሽ ብርጭቆዎች ይጠጣሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "ካርኒቫል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "የማስመሰያ ልብስ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "የባቡር ጣቢያ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "መጠጥ ቤት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    }
+  ]
+}

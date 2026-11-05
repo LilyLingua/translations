@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:20.391Z"
+  },
+  "title": "კილი",
+  "instructions": {
+    "stadt-kiel-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-kiel-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-kiel-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-kiel-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-kiel-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-kiel-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„ფიორდე“ (ფიორდი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "ბალტიის ზღვის გრძელი, ვიწრო ყურე, რომელიც ხმელეთში ღრმად შედის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "კილის კვირეული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "დიდი იალქნოსნური დღესასწაული ივნისში, მუსიკითა და მთელი მსოფლიოს ნავებით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "ბორანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "დიდი გემი ადამიანებისა და მანქანებისთვის, მაგალითად ნორვეგიაში.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "კილის არხი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "ხელოვნური წყალგზა ჩრდილოეთ ზღვასა და ბალტიის ზღვას შორის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "კილის შპროტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "პატარა შებოლილი თევზი, კილისთვის დამახასიათებელი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„მოინ მოინ!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "ჩრდილოური მისალმება; ზოგი ფიქრობს, რომ ორჯერ „მოინ“ უკვე ზედმეტია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "იალქნოსნობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "მგზავრობა ნავით, რომელსაც ქარი მიაქანებს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "კილი ბალტიის ზღვაზე მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "ივნისში კილის კვირეულს აღვნიშნავთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "ბორნით ოსლოში მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "გემები კილის არხზე გადიან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "შაბათ-კვირას ფიორდზე იალქნოსნობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "კილის შპროტის პაკეტს ვყიდულობ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "ძაღლს პლაჟზე ვასეირნებთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "ბორანი ყოველდღე ნორვეგიაში მიდის.",
+      "answerText": "მიდის"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "კილის კვირეულზე მთელი მსოფლიოს ნავები მიცურავენ.",
+      "answerText": "მიცურავენ"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "ბევრი გემი კილის არხს იყენებს.",
+      "answerText": "იყენებს"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "ჩრდილოეთში „მოინს“ ამბობენ.",
+      "answerText": "ამბობენ"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "პლაჟზე ხშირად ძლიერი ქარი უბერავს.",
+      "answerText": "უბერავს"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "ნავი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "ბორანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "თევზი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "პლაჟი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "იალქანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "არხი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "კილი ბალტიის ზღვაზე მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "ივნისში ქალაქი კილის კვირეულს აღნიშნავს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "ბორნით ნორვეგიაში მიდიხარ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "შაბათ-კვირას ფიორდზე იალქნოსნობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "ბორანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "იალქანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "პლაჟი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "ბალტიის ზღვა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "არხი",
+      "answerText": null
+    }
+  ]
+}

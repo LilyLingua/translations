@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.047Z"
+  },
+  "title": "Kita und Schule",
+  "instructions": {
+    "uk-dytsadok-i-shkola-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-dytsadok-i-shkola-gap": "Wählen Sie das richtige Wort.",
+    "uk-dytsadok-i-shkola-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-dytsadok-i-shkola-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-dytsadok-i-shkola-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-dytsadok-i-shkola-matching-1",
+      "translation": "der Kindergarten",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-1:meaning",
+      "translation": "Ein Ort, an dem kleine Kinder bleiben, während die Eltern arbeiten.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-2",
+      "translation": "der Lehrer / die Lehrerin",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-2:meaning",
+      "translation": "Die Person, die die Klasse unterrichtet.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-3",
+      "translation": "der Elternabend",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-3:meaning",
+      "translation": "Ein Treffen, bei dem Eltern mit der Lehrkraft sprechen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-4",
+      "translation": "die Hausaufgaben",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-4:meaning",
+      "translation": "Arbeit, die Kinder zu Hause für die Schule machen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-5",
+      "translation": "das Zeugnis",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-5:meaning",
+      "translation": "Ein Dokument mit den Noten des Kindes.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-6",
+      "translation": "der Ausflug",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-matching-6:meaning",
+      "translation": "Wenn die Klasse zusammen irgendwohin fährt, zum Beispiel ins Museum.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-1",
+      "translation": "Mein Sohn ist krank und geht heute nicht in die Schule.",
+      "answerText": "Schule"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-2",
+      "translation": "Der Elternabend ist am Donnerstag um sechs.",
+      "answerText": "Elternabend"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-3",
+      "translation": "Hast du deine Hausaufgaben gemacht?",
+      "answerText": "Hausaufgaben"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-4",
+      "translation": "Ich hole meine Tochter um vier aus dem Kindergarten ab.",
+      "answerText": "Kindergarten"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-5",
+      "translation": "Bitte unterschreiben Sie die Erlaubnis für den Ausflug.",
+      "answerText": "Ausflug"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-gap-6",
+      "translation": "Sie hat gute Noten im Zeugnis.",
+      "answerText": "Zeugnis"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs-1",
+      "translation": "Meine Tochter ist krank.",
+      "answerText": "ist"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs-2",
+      "translation": "Der Unterricht beginnt um acht.",
+      "answerText": "beginnt"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs-3",
+      "translation": "Kann ich mit dem Lehrer sprechen?",
+      "answerText": "sprechen"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs-4",
+      "translation": "Die Kinder essen in der Schule zu Mittag.",
+      "answerText": "essen"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-verbs-5",
+      "translation": "Bitte rufen Sie in der Schule an, wenn das Kind krank ist.",
+      "answerText": "rufen"
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-order-1",
+      "translation": "Mein Sohn ist heute krank.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-order-2",
+      "translation": "Wann ist der Elternabend?",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-order-3",
+      "translation": "Darf sie einen Snack mitnehmen?",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-order-4",
+      "translation": "Ich hole ihn um drei ab.",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling-1",
+      "translation": "Lehrer",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling-2",
+      "translation": "Schul- (wie in „Schultasche“)",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling-3",
+      "translation": "Kinder",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling-4",
+      "translation": "Haus- (wie in „Hausaufgaben“)",
+      "answerText": null
+    },
+    {
+      "id": "uk-dytsadok-i-shkola-spelling-5",
+      "translation": "Freundin",
+      "answerText": null
+    }
+  ]
+}

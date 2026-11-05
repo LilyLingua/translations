@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "6cdf6afb-230d-446f-ad45-9407d5c242a6",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Köln",
+  "topic": "NRW: Dom, Kölsch, Karneval, „Kölle Alaaf!“",
+  "tasks": [
+    {
+      "id": "stadt-koeln-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-koeln-matching-1",
+          "term": "Kölle Alaaf!",
+          "meaning": "Ruf im Kölner Karneval – so viel wie „Hoch lebe Köln!“."
+        },
+        {
+          "id": "stadt-koeln-matching-2",
+          "term": "der Dom",
+          "meaning": "Große Kirche mit zwei Türmen direkt am Hauptbahnhof."
+        },
+        {
+          "id": "stadt-koeln-matching-3",
+          "term": "das Kölsch",
+          "meaning": "Helles Bier aus Köln; man trinkt es aus kleinen, schmalen Gläsern."
+        },
+        {
+          "id": "stadt-koeln-matching-4",
+          "term": "der Köbes",
+          "meaning": "Kellner im Brauhaus; er bringt ein neues Kölsch, bis man den Deckel aufs Glas legt."
+        },
+        {
+          "id": "stadt-koeln-matching-5",
+          "term": "der Halve Hahn",
+          "meaning": "Roggenbrötchen mit Käse – kein halbes Hähnchen!"
+        },
+        {
+          "id": "stadt-koeln-matching-6",
+          "term": "das Veedel",
+          "meaning": "Kölsch für Stadtviertel; jeder Kölner liebt sein Veedel."
+        },
+        {
+          "id": "stadt-koeln-matching-7",
+          "term": "der Rosenmontag",
+          "meaning": "Höhepunkt vom Karneval mit einem großen Umzug durch die Stadt."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-koeln-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-koeln-gap-1",
+          "promptBefore": "Er trinkt ein Kölsch in",
+          "promptAfter": "Brauhaus.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-2",
+          "promptBefore": "Der Köbes bringt",
+          "promptAfter": "nächste Kölsch.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-3",
+          "promptBefore": "Am Rosenmontag sehen wir",
+          "promptAfter": "Zug durch die Stadt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-4",
+          "promptBefore": "Viele Touristen besuchen",
+          "promptAfter": "Kölner Dom.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-5",
+          "promptBefore": "Ich bestelle",
+          "promptAfter": "Halven Hahn.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-6",
+          "promptBefore": "Viele Leute spazieren über",
+          "promptAfter": "Hohenzollernbrücke.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-koeln-gap-7",
+          "promptBefore": "Im Karneval trägt man",
+          "promptAfter": "Kostüm.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-koeln-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-koeln-verbs-1",
+          "promptBefore": "Im Karneval",
+          "promptAfter": "die Leute „Kölle Alaaf!“.",
+          "correctAnswer": "rufen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "rufen"
+        },
+        {
+          "id": "stadt-koeln-verbs-2",
+          "promptBefore": "Der Köbes",
+          "promptAfter": "ungefragt ein neues Kölsch.",
+          "correctAnswer": "bringt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bringen"
+        },
+        {
+          "id": "stadt-koeln-verbs-3",
+          "promptBefore": "Der Dom",
+          "promptAfter": "über 150 Meter hoch.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-koeln-verbs-4",
+          "promptBefore": "Der Rhein",
+          "promptAfter": "mitten durch Köln.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-koeln-verbs-5",
+          "promptBefore": "Am 11.11. um 11:11 Uhr",
+          "promptAfter": "der Karneval.",
+          "correctAnswer": "beginnt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "beginnen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-koeln-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-koeln-table-1",
+          "article": "der",
+          "singular": "Dom",
+          "plural": "Dome"
+        },
+        {
+          "id": "stadt-koeln-table-2",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        },
+        {
+          "id": "stadt-koeln-table-3",
+          "article": "das",
+          "singular": "Glas",
+          "plural": "Gläser"
+        },
+        {
+          "id": "stadt-koeln-table-4",
+          "article": "der",
+          "singular": "Zug",
+          "plural": "Züge"
+        },
+        {
+          "id": "stadt-koeln-table-5",
+          "article": "das",
+          "singular": "Kostüm",
+          "plural": "Kostüme"
+        },
+        {
+          "id": "stadt-koeln-table-6",
+          "article": "die",
+          "singular": "Kneipe",
+          "plural": "Kneipen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-koeln-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-koeln-order-1",
+          "chunks": [
+            "Der Kölner Dom",
+            "steht",
+            "direkt am Bahnhof"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-koeln-order-2",
+          "chunks": [
+            "Am Rosenmontag",
+            "feiert",
+            "ganz Köln",
+            "Karneval"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-koeln-order-3",
+          "chunks": [
+            "Möchtest",
+            "du",
+            "noch",
+            "ein Kölsch"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-koeln-order-4",
+          "chunks": [
+            "In Köln",
+            "trinkt man",
+            "Kölsch",
+            "aus kleinen Gläsern"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-koeln-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-koeln-spelling-1",
+          "correct": "Karneval",
+          "wrong": "Karnewal"
+        },
+        {
+          "id": "stadt-koeln-spelling-2",
+          "correct": "Kostüm",
+          "wrong": "Kostühm"
+        },
+        {
+          "id": "stadt-koeln-spelling-3",
+          "correct": "Bahnhof",
+          "wrong": "Banhof"
+        },
+        {
+          "id": "stadt-koeln-spelling-4",
+          "correct": "Kneipe",
+          "wrong": "Kneippe"
+        },
+        {
+          "id": "stadt-koeln-spelling-5",
+          "correct": "Glas",
+          "wrong": "Glass"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

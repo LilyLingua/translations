@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.560Z"
+  },
+  "title": "На автобусе и поезде",
+  "instructions": {
+    "bus-und-bahn-matching": "Соедините каждое слово с подходящим объяснением.",
+    "bus-und-bahn-gap": "Отметьте подходящее слово.",
+    "bus-und-bahn-verbs": "Вставьте правильный глагол в правильной форме.",
+    "bus-und-bahn-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "bus-und-bahn-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "bus-und-bahn-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "С ним можно ехать на автобусе или поезде.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "билетный автомат",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Здесь покупают билет без кассы.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "путь (платформа)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Здесь поезд останавливается на вокзале.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "опоздание",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Поезд приходит позже, чем планировалось.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "делать пересадку",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Вы переходите с одного поезда на другой.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "остановка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Здесь останавливается автобус.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Месячный билет на автобусы и электрички по всей Германии.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Поезд в Кёльн отправляется с пути 5.",
+      "answerText": "пути"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Поезд опаздывает на десять минут.",
+      "answerText": "опаздывает"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Где ближайшая остановка?",
+      "answerText": "остановка"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Один билет до Берлина, пожалуйста.",
+      "answerText": "билет"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Пожалуйста, покажите ваш билет.",
+      "answerText": "билет"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Метро ходит каждые десять минут.",
+      "answerText": "Метро"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "В автомате можно купить билеты.",
+      "answerText": "автомате"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Где мне нужно сделать пересадку?",
+      "answerText": "сделать пересадку"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Автобус отправляется в 8:15.",
+      "answerText": "отправляется"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Мы прибываем в Гамбург в 10 часов.",
+      "answerText": "прибываем"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Пожалуйста, выходите здесь.",
+      "answerText": "выходите"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Сколько длится поездка?",
+      "answerText": "длится"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "поезд",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "путь",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "остановка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "автобус",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Когда идёт следующий поезд в Мюнхен?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Мне нужно сделать пересадку в Мангейме.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Поезд, к сожалению, опаздывает.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Билет действует и на автобус?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "опоздание",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "остановка",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "путь",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "вокзал",
+      "answerText": null
+    }
+  ]
+}

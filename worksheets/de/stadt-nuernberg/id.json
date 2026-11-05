@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:24.240Z"
+  },
+  "title": "Nürnberg",
+  "instructions": {
+    "stadt-nuernberg-matching": "Hubungkan setiap kata dengan penjelasan yang benar.",
+    "stadt-nuernberg-gap": "Centang kata yang benar.",
+    "stadt-nuernberg-verbs": "Isi kata kerja yang benar dalam bentuk yang benar.",
+    "stadt-nuernberg-table": "Isi artikel dan bentuk jamak.",
+    "stadt-nuernberg-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "stadt-nuernberg-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "Rostbratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "Sosis kecil dan tipis yang dipanggang – khas Nürnberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "\"Drei im Weggla\" (tiga dalam roti)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "Bahasa Franken: tiga sosis bakar dalam satu roti kecil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "Christkindlesmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "Pasar Natal yang terkenal; Christkind yang membukanya.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "Lebkuchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "Kue lembut dengan madu, kacang, dan rempah, terutama saat Natal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "Kaiserburg (Kastil Kaisar)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "Kastil besar di atas batu karang di atas kota tua.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "Schöner Brunnen (Air Mancur Indah)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "Air mancur di pasar; siapa yang memutar cincin emasnya akan beruntung.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "\"Schäufele\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "Daging panggang khas Franken dari bahu babi, dengan knödel dan saus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "Kaiserburg berdiri di atas batu karang di atas kota tua.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "Di bulan Desember kami pergi ke Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "Saya makan tiga sosis bakar dalam satu roti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "Banyak turis memutar cincin emas di Schöner Brunnen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "Kami membeli Lebkuchen di toko roti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "Hari Minggu ada Schäufele dengan knödel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "Sungai Pegnitz mengalir melewati kota tua.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "Christkind membuka Christkindlesmarkt.",
+      "answerText": "membuka"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "Sosis dibakar di atas api.",
+      "answerText": "dibakar"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "Banyak orang Nürnberg merasa sebagai orang Franken, bukan orang Bayern.",
+      "answerText": "merasa"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "Cincin di air mancur membawa keberuntungan.",
+      "answerText": "membawa"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "Di musim dingin pameran mainan diadakan.",
+      "answerText": "diadakan"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "kastil",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "air mancur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "sosis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "pasar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "roti kecil",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "tembok",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "Drei im Weggla adalah tiga sosis bakar dalam roti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "Pada masa Adven banyak orang mengunjungi Christkindlesmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "Kamu sudah pernah mencoba Lebkuchen Nürnberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "Kaiserburg terletak tinggi di atas kota.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "Lebkuchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "air mancur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "sosis bakar",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "Natal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "kastil",
+      "answerText": null
+    }
+  ]
+}

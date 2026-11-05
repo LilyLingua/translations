@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:10.079Z"
+  },
+  "title": "Varelis",
+  "instructions": {
+    "stadt-varel-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "stadt-varel-gap": "Pažymėkite tinkamą žodį.",
+    "stadt-varel-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "stadt-varel-table": "Įrašykite artikelį ir daugiskaitos formą.",
+    "stadt-varel-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "stadt-varel-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "vėjo malūnas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "Pastatytas 1847–1848 metais; 39 metrų aukščio, vienas aukščiausių vėjo malūnų Vokietijoje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "vandens bokštas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "Varelio simbolis, daugiau nei 50 metrų aukščio; iš viršaus atsiveria platus vaizdas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "Jadės įlanka („Jadebusen“)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "Didelė Šiaurės jūros įlanka tiesiai prie Varelio.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "Dangastas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "Mažas Šiaurės jūros kurortas, priklausantis Vareliui.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "rabarbarų pyragas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "Garsus pyragas iš senojo kurhauzo („Kurhaus“) Dangaste.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "pilies bažnyčia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "Seniausias miesto pastatas su beveik 10 metrų aukščio mediniu altoriumi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "vatai (seklumos)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "Jūros dugnas, kuriuo per atoslūgį galima vaikščioti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "Varelis yra prie Jadės įlankos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "Nuo vandens bokšto matyti visas miestas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "Dangasto kurhauze valgome gabalėlį rabarbarų pyrago.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "Per atoslūgį einame per vatus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "Pilies bažnyčioje yra labai senas altorius.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "Aplankome vėjo malūną.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "Krevečių laivai stovi uoste.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "Vėjo malūnas yra vienas aukščiausių Vokietijoje.",
+      "answerText": "yra"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "Per atoslūgį vanduo nuslūgsta.",
+      "answerText": "nuslūgsta"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "Vasarą daug poilsiautojų važiuoja į Dangastą.",
+      "answerText": "važiuoja"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "Vandens bokštas iki šiol tiekia Vareliui vandenį.",
+      "answerText": "tiekia"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "Kurhauze žmonės užsisako rabarbarų pyrago.",
+      "answerText": "užsisako"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "malūnas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "burė (malūno sparnas)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "žvejybos laivas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "įlanka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "krantas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "paplūdimys",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "Varelis yra prie Jadės įlankos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "Per atoslūgį einame per vatus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "Ar jau buvote užlipę į vandens bokštą?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "Dangaste daug žmonių valgo rabarbarų pyragą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "malūnas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "rabarbaras",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "atoslūgis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "burė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "paplūdimys",
+      "answerText": null
+    }
+  ]
+}

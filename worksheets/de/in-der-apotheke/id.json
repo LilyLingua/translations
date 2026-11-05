@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.417Z"
+  },
+  "title": "Di apotek",
+  "instructions": {
+    "in-der-apotheke-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "in-der-apotheke-gap": "Centang kata yang cocok.",
+    "in-der-apotheke-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "in-der-apotheke-table": "Lengkapi artikel dan bentuk jamak.",
+    "in-der-apotheke-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "in-der-apotheke-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "resep",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Kertas dari dokter untuk obat.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Obat kecil yang ditelan.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "sirup obat batuk",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Obat cair untuk batuk.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "salep",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Dioleskan pada kulit.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "efek samping",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Efek yang tidak diinginkan dari obat.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "brosur dalam kemasan",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Kertas di dalam kemasan obat dengan semua informasi.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "biaya tambahan resep",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Sejumlah kecil uang untuk resep Anda bayar sendiri.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Saya punya resep dari dokter saya.",
+      "answerText": "resep"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Apakah Anda punya sesuatu untuk sakit tenggorokan?",
+      "answerText": "sakit tenggorokan"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Minum dua tablet sehari.",
+      "answerText": "tablet"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Salep ini untuk kulit.",
+      "answerText": "kulit"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Tolong baca brosur dalam kemasan.",
+      "answerText": "brosur"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Obat ini hampir tidak punya efek samping.",
+      "answerText": "efek samping"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Di akhir pekan ada apotek yang buka piket.",
+      "answerText": "apotek"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Saya batuk sejak kemarin.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Seberapa sering saya harus minum tabletnya?",
+      "answerText": "minum"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Kami pesan obatnya sampai besok.",
+      "answerText": "pesan"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Anda oleskan salepnya dua kali sehari.",
+      "answerText": "oleskan"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Tolong minum banyak air.",
+      "answerText": "minum"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "apotek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "obat",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "salep",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plester",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "kemasan",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "tetes",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Apakah Anda punya sesuatu untuk batuk?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Seberapa sering saya harus minum tabletnya?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Saya perlu obat untuk sakit kepala.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Apakah saya perlu resep untuk itu?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "apotek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "obat",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plester",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "efek samping",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "batuk",
+      "answerText": null
+    }
+  ]
+}

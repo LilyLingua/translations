@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "ff87ee1e-f821-4b17-a38d-2d68ec0e7f21",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Düsseldorf",
+  "topic": "Nordrhein-Westfalen: Altbier, Kö, Rheinturm, „Helau“",
+  "tasks": [
+    {
+      "id": "stadt-duesseldorf-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-matching-1",
+          "term": "das Alt",
+          "meaning": "Dunkles Bier aus Düsseldorf; man trinkt es aus kleinen Gläsern."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-2",
+          "term": "die Kö",
+          "meaning": "Kurz für Königsallee, eine elegante Einkaufsstraße."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-3",
+          "term": "der Rheinturm",
+          "meaning": "Fernsehturm am Rhein mit einer Uhr aus Lichtern."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-4",
+          "term": "Helau!",
+          "meaning": "Ruf im Karneval in Düsseldorf – nicht „Alaaf“ wie in Köln."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-5",
+          "term": "der Radschläger",
+          "meaning": "Kind, das ein Rad schlägt; ein Symbol der Stadt."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-6",
+          "term": "die Altstadt",
+          "meaning": "Alter Teil der Stadt mit vielen Kneipen, „die längste Theke der Welt“."
+        },
+        {
+          "id": "stadt-duesseldorf-matching-7",
+          "term": "der Köbes",
+          "meaning": "Kellner im Brauhaus; er bringt ohne Frage ein neues Alt."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-duesseldorf-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-gap-1",
+          "promptBefore": "Er trinkt ein Alt in",
+          "promptAfter": "Altstadt.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-2",
+          "promptBefore": "Die Kö ist",
+          "promptAfter": "teure Einkaufsstraße.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-3",
+          "promptBefore": "Von oben auf",
+          "promptAfter": "Rheinturm sieht man die ganze Stadt.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-4",
+          "promptBefore": "Am Rosenmontag sehen wir",
+          "promptAfter": "Umzug.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-5",
+          "promptBefore": "Wir spazieren am Ufer",
+          "promptAfter": "Rheins.",
+          "correctAnswer": "des",
+          "options": [
+            "des",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-6",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Glas Düsseldorfer Senf.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duesseldorf-gap-7",
+          "promptBefore": "Der Köbes bringt",
+          "promptAfter": "neues Alt.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-duesseldorf-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-verbs-1",
+          "promptBefore": "Im Karneval",
+          "promptAfter": "man in Düsseldorf „Helau“.",
+          "correctAnswer": "ruft",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "rufen"
+        },
+        {
+          "id": "stadt-duesseldorf-verbs-2",
+          "promptBefore": "Der Köbes",
+          "promptAfter": "das nächste Alt ohne Frage.",
+          "correctAnswer": "bringt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bringen"
+        },
+        {
+          "id": "stadt-duesseldorf-verbs-3",
+          "promptBefore": "Der Rhein",
+          "promptAfter": "mitten durch die Stadt.",
+          "correctAnswer": "fließt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fließen"
+        },
+        {
+          "id": "stadt-duesseldorf-verbs-4",
+          "promptBefore": "Auf der Kö",
+          "promptAfter": "viele Leute ein.",
+          "correctAnswer": "kaufen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "einkaufen"
+        },
+        {
+          "id": "stadt-duesseldorf-verbs-5",
+          "promptBefore": "Die Kinder",
+          "promptAfter": "ein Rad wie die Radschläger.",
+          "correctAnswer": "schlagen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schlagen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-duesseldorf-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-table-1",
+          "article": "das",
+          "singular": "Glas",
+          "plural": "Gläser"
+        },
+        {
+          "id": "stadt-duesseldorf-table-2",
+          "article": "die",
+          "singular": "Kneipe",
+          "plural": "Kneipen"
+        },
+        {
+          "id": "stadt-duesseldorf-table-3",
+          "article": "das",
+          "singular": "Ufer",
+          "plural": "Ufer"
+        },
+        {
+          "id": "stadt-duesseldorf-table-4",
+          "article": "der",
+          "singular": "Umzug",
+          "plural": "Umzüge"
+        },
+        {
+          "id": "stadt-duesseldorf-table-5",
+          "article": "die",
+          "singular": "Brauerei",
+          "plural": "Brauereien"
+        },
+        {
+          "id": "stadt-duesseldorf-table-6",
+          "article": "die",
+          "singular": "Straße",
+          "plural": "Straßen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-duesseldorf-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-order-1",
+          "chunks": [
+            "In der Altstadt",
+            "trinkt",
+            "er",
+            "ein Alt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-duesseldorf-order-2",
+          "chunks": [
+            "Die Kö",
+            "ist",
+            "eine elegante Einkaufsstraße"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-duesseldorf-order-3",
+          "chunks": [
+            "Kommst du",
+            "am Rosenmontag",
+            "mit zum Umzug"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-duesseldorf-order-4",
+          "chunks": [
+            "Der Köbes",
+            "bringt",
+            "sofort",
+            "ein neues Glas"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-duesseldorf-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-duesseldorf-spelling-1",
+          "correct": "Karneval",
+          "wrong": "Karnewal"
+        },
+        {
+          "id": "stadt-duesseldorf-spelling-2",
+          "correct": "Brauerei",
+          "wrong": "Brauerai"
+        },
+        {
+          "id": "stadt-duesseldorf-spelling-3",
+          "correct": "Kneipe",
+          "wrong": "Kneippe"
+        },
+        {
+          "id": "stadt-duesseldorf-spelling-4",
+          "correct": "Theke",
+          "wrong": "Teke"
+        },
+        {
+          "id": "stadt-duesseldorf-spelling-5",
+          "correct": "Glas",
+          "wrong": "Glaß"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

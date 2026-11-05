@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.084Z"
+  },
+  "title": "सुपरमार्केट में",
+  "instructions": {
+    "im-supermarkt-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "im-supermarkt-gap": "सही पैकेजिंग या मात्रा पर निशान लगाइए।",
+    "im-supermarkt-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "im-supermarkt-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "im-supermarkt-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "im-supermarkt-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "शॉपिंग ट्रॉली",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "ख़रीदारी करते समय आप इसमें सामान रखते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "पनीर काउंटर",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "यहाँ तौल से ताज़ा चीज़ (पनीर) मिलता है।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "बोतल जमा राशि (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "ख़ाली बोतलें लौटाने पर वापस मिलने वाला पैसा।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "बोतल वापसी मशीन",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "यहाँ ख़ाली बोतलें लौटाई जाती हैं।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "ऑफ़र",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "कोई उत्पाद थोड़े समय के लिए सस्ता होता है।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "रसीद",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "इस काग़ज़ पर सारी क़ीमतें होती हैं।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "थैला",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "इसमें आप सामान घर ले जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "मैं दही का एक कप ख़रीदता हूँ।",
+      "answerText": "कप"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "और पानी की एक बोतल, कृपया।",
+      "answerText": "बोतल"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "हमें पास्ता का एक पैकेट चाहिए।",
+      "answerText": "पैकेट"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "सॉस के लिए मैं टमाटर का एक डिब्बा लेता हूँ।",
+      "answerText": "डिब्बा"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "कृपया मुझे 200 ग्राम गौडा चीज़ दीजिए।",
+      "answerText": "ग्राम"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "मक्खन का एक पैकेट 2.29 यूरो का है।",
+      "answerText": "पैकेट"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "मैं एक लीटर दूध लेता हूँ।",
+      "answerText": "लीटर"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "क्या आप पाँच यूरो के छुट्टे दे सकते हैं?",
+      "answerText": "छुट्टे दे"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "माफ़ कीजिए, आटा कहाँ मिलेगा?",
+      "answerText": "मिलेगा"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "मैं कार्ड से भुगतान करता हूँ।",
+      "answerText": "भुगतान करता"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "मुझे 200 ग्राम गौडा चीज़ चाहिए।",
+      "answerText": "चाहिए"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "रविवार को लगभग सभी सुपरमार्केट बंद रहते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "बोतल",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "कप",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "डिब्बा (टिन)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ब्रेड",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "सेब",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "केला",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "माफ़ कीजिए, आटा कहाँ मिलेगा?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "मेरे पास एक थैला है।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "आज केलों पर ऑफ़र है।",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "बोतल वापसी मशीन कहाँ है?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "शॉपिंग ट्रॉली",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "रसीद",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "बोतल जमा राशि",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "चीज़",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "छोटी ब्रेड",
+      "answerText": null
+    }
+  ]
+}

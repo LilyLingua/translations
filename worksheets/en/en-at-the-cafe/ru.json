@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.733Z"
+  },
+  "title": "В кафе",
+  "instructions": {
+    "en-at-the-cafe-matching": "Соедини каждое слово с его значением.",
+    "en-at-the-cafe-gap": "Выбери правильное слово.",
+    "en-at-the-cafe-verbs": "Вставь правильный глагол.",
+    "en-at-the-cafe-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-at-the-cafe-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-at-the-cafe-matching-1",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-1:meaning",
+      "translation": "Список блюд и напитков с ценами.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2",
+      "translation": "официант",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2:meaning",
+      "translation": "Человек, который приносит еду и напитки.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3:meaning",
+      "translation": "Бумажка, где написано, сколько нужно заплатить.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4",
+      "translation": "чаевые",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4:meaning",
+      "translation": "Дополнительные деньги за хорошее обслуживание.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5",
+      "translation": "торт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5:meaning",
+      "translation": "Что-то сладкое, например шоколадное.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6",
+      "translation": "с собой",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6:meaning",
+      "translation": "Ты забираешь еду или напиток с собой.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-gap-1",
+      "translation": "Можно посмотреть меню?",
+      "answerText": "меню"
+    },
+    {
+      "id": "en-at-the-cafe-gap-2",
+      "translation": "Мне, пожалуйста, чашку кофе.",
+      "answerText": "чашку"
+    },
+    {
+      "id": "en-at-the-cafe-gap-3",
+      "translation": "Мы закончили. Принесите, пожалуйста, счёт.",
+      "answerText": "счёт"
+    },
+    {
+      "id": "en-at-the-cafe-gap-4",
+      "translation": "Здесь или с собой?",
+      "answerText": "с собой"
+    },
+    {
+      "id": "en-at-the-cafe-gap-5",
+      "translation": "Официант очень приветливый.",
+      "answerText": "Официант"
+    },
+    {
+      "id": "en-at-the-cafe-gap-6",
+      "translation": "Мы оставили чаевые официанту.",
+      "answerText": "чаевые"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-1",
+      "translation": "Я возьму чай, пожалуйста.",
+      "answerText": "возьму"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-2",
+      "translation": "Что вы посоветуете?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-verbs-3",
+      "translation": "Мы хотим заплатить.",
+      "answerText": "хотим"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-4",
+      "translation": "Торт на вкус просто чудесный.",
+      "answerText": "вкус"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-5",
+      "translation": "Можно заплатить картой?",
+      "answerText": "заплатить"
+    },
+    {
+      "id": "en-at-the-cafe-order-1",
+      "translation": "Можно стакан воды?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-2",
+      "translation": "Мне кусок торта, пожалуйста.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-3",
+      "translation": "Сколько стоит кофе?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-4",
+      "translation": "Мы хотели бы заплатить.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-1",
+      "translation": "кофе",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-2",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-3",
+      "translation": "бутерброд",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-4",
+      "translation": "вкусный",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-5",
+      "translation": "завтрак",
+      "answerText": null
+    }
+  ]
+}

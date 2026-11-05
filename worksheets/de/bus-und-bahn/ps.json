@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.121Z"
+  },
+  "title": "په بس او اورګاډي",
+  "instructions": {
+    "bus-und-bahn-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "bus-und-bahn-gap": "مناسبه کلمه په نښه کړئ.",
+    "bus-und-bahn-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "bus-und-bahn-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "bus-und-bahn-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "bus-und-bahn-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ټکټ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "پدې سره کولی شئ په بس یا اورګاډي کې سفر وکړئ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "د ټکټ ماشین",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "دلته بې له کاونټر ټکټ اخلئ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "پلیټ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "دلته اورګاډی په سټیشن کې دریږي.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "ځنډ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "اورګاډی له ټاکلي وخت وروسته راځي.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "اورګاډی بدلول",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "له یو اورګاډي بل ته اوړئ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "تمځای",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "دلته بس دریږي.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "په ټول آلمان کې د سیمه ییز بس او اورګاډي میاشتنی ټکټ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "کولن ته اورګاډی له پلیټ فارم ۵ نه ځي.",
+      "answerText": "پلیټ فارم"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "اورګاډی لس دقیقې ځنډ لري.",
+      "answerText": "ځنډ"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "تر ټولو نږدې تمځای چېرته دی؟",
+      "answerText": "تمځای"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "برلین ته یو ټکټ، مهرباني.",
+      "answerText": "ټکټ"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "مهرباني وکړئ خپل ټکټ وښایاست.",
+      "answerText": "ټکټ"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "ځمکلاندې اورګاډی هرې لسو دقیقو کې ځي.",
+      "answerText": "ځمکلاندې اورګاډی"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "په ماشین کې کولی شئ ټکټونه واخلئ.",
+      "answerText": "ماشین"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "چېرته باید اورګاډی بدل کړم؟",
+      "answerText": "بدل"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "بس په ۸:۱۵ حرکت کوي.",
+      "answerText": "حرکت"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "موږ په ۱۰ بجو هامبورګ ته رسېږو.",
+      "answerText": "رسېږو"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "مهرباني وکړئ دلته کښته شئ.",
+      "answerText": "کښته"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "سفر څومره وخت نیسي؟",
+      "answerText": "نیسي"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "اورګاډی",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "د اورګاډي سټیشن",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ټکټ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "پلیټ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "تمځای",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "بس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "مونشن ته راتلونکی اورګاډی کله ځي؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "زه باید په مانهایم کې اورګاډی بدل کړم.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "اورګاډی له بده مرغه ځنډ لري.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "ایا دا ټکټ د بس لپاره هم دی؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ټکټ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "ځنډ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "تمځای",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "پلیټ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "د اورګاډي سټیشن",
+      "answerText": null
+    }
+  ]
+}

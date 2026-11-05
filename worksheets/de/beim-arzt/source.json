@@ -1,0 +1,360 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "55fe729b-2b3d-4b65-abdd-fbc2cead0bb2",
+    "level": "A2"
+  },
+  "title": "Beim Arzt",
+  "topic": "Deutsch im Alltag – Folge 1: Termin, Beschwerden, Rezept",
+  "tasks": [
+    {
+      "id": "beim-arzt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "beim-arzt-matching-1",
+          "term": "die Versichertenkarte",
+          "meaning": "Diese Karte zeigen Sie am Empfang. Darauf steht Ihre Krankenkasse."
+        },
+        {
+          "id": "beim-arzt-matching-2",
+          "term": "der Termin",
+          "meaning": "Eine feste Uhrzeit, zu der Sie in die Praxis kommen."
+        },
+        {
+          "id": "beim-arzt-matching-3",
+          "term": "das Wartezimmer",
+          "meaning": "Hier sitzen Sie, bis man Sie aufruft."
+        },
+        {
+          "id": "beim-arzt-matching-4",
+          "term": "das Rezept",
+          "meaning": "Damit bekommen Sie ein Medikament in der Apotheke."
+        },
+        {
+          "id": "beim-arzt-matching-5",
+          "term": "die Krankschreibung",
+          "meaning": "Dieses Papier bekommt Ihr Arbeitgeber, wenn Sie krank sind."
+        },
+        {
+          "id": "beim-arzt-matching-6",
+          "term": "das Fieber",
+          "meaning": "Die Körpertemperatur ist zu hoch, zum Beispiel 39 Grad."
+        },
+        {
+          "id": "beim-arzt-matching-7",
+          "term": "die Allergie",
+          "meaning": "Der Körper reagiert stark auf etwas, zum Beispiel auf Penicillin."
+        },
+        {
+          "id": "beim-arzt-matching-8",
+          "term": "der Notruf",
+          "meaning": "Die Nummer 112 – bei einem Unfall oder in einem Notfall."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "beim-arzt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "beim-arzt-gap-1",
+          "promptBefore": "Guten Tag, ich möchte gern einen",
+          "promptAfter": "machen.",
+          "correctAnswer": "Termin",
+          "options": [
+            "Rezept",
+            "Termin",
+            "Bauch"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-2",
+          "promptBefore": "Haben Sie Ihre",
+          "promptAfter": "dabei?",
+          "correctAnswer": "Versichertenkarte",
+          "options": [
+            "Versichertenkarte",
+            "Krankschreibung",
+            "Allergie"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-3",
+          "promptBefore": "Bitte nehmen Sie im",
+          "promptAfter": "Platz.",
+          "correctAnswer": "Wartezimmer",
+          "options": [
+            "Rezept",
+            "Wartezimmer",
+            "Notruf"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-4",
+          "promptBefore": "Ich habe",
+          "promptAfter": "und Fieber.",
+          "correctAnswer": "Kopfschmerzen",
+          "options": [
+            "Kopfschmerzen",
+            "Termine",
+            "Wartezimmer"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-5",
+          "promptBefore": "Mein",
+          "promptAfter": "tut weh.",
+          "correctAnswer": "Bauch",
+          "options": [
+            "Rezept",
+            "Bauch",
+            "Termin"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-6",
+          "promptBefore": "Ich bin allergisch gegen",
+          "promptAfter": ".",
+          "correctAnswer": "Penicillin",
+          "options": [
+            "Fieber",
+            "Termin",
+            "Penicillin"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-7",
+          "promptBefore": "Ich brauche eine",
+          "promptAfter": "für meinen Arbeitgeber.",
+          "correctAnswer": "Krankschreibung",
+          "options": [
+            "Allergie",
+            "Untersuchung",
+            "Krankschreibung"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "beim-arzt-gap-8",
+          "promptBefore": "Nehmen Sie die Tabletten dreimal täglich nach dem",
+          "promptAfter": ".",
+          "correctAnswer": "Essen",
+          "options": [
+            "Essen",
+            "Termin",
+            "Fieber"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "beim-arzt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "beim-arzt-verbs-1",
+          "promptBefore": "Können Sie das bitte langsamer",
+          "promptAfter": "?",
+          "correctAnswer": "sagen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        },
+        {
+          "id": "beim-arzt-verbs-2",
+          "promptBefore": "Ich",
+          "promptAfter": "seit drei Tagen Fieber.",
+          "correctAnswer": "habe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "haben"
+        },
+        {
+          "id": "beim-arzt-verbs-3",
+          "promptBefore": "Mein Kopf",
+          "promptAfter": "sehr weh.",
+          "correctAnswer": "tut",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wehtun"
+        },
+        {
+          "id": "beim-arzt-verbs-4",
+          "promptBefore": "Bitte tief",
+          "promptAfter": "– und wieder ausatmen.",
+          "correctAnswer": "einatmen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "einatmen"
+        },
+        {
+          "id": "beim-arzt-verbs-5",
+          "promptBefore": "Die Ärztin",
+          "promptAfter": "mir ein Rezept.",
+          "correctAnswer": "gibt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "geben"
+        },
+        {
+          "id": "beim-arzt-verbs-6",
+          "promptBefore": "Wir",
+          "promptAfter": "Sie gleich auf.",
+          "correctAnswer": "rufen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "aufrufen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "beim-arzt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "beim-arzt-table-1",
+          "article": "der",
+          "singular": "Arzt",
+          "plural": "Ärzte"
+        },
+        {
+          "id": "beim-arzt-table-2",
+          "article": "die",
+          "singular": "Tablette",
+          "plural": "Tabletten"
+        },
+        {
+          "id": "beim-arzt-table-3",
+          "article": "das",
+          "singular": "Rezept",
+          "plural": "Rezepte"
+        },
+        {
+          "id": "beim-arzt-table-4",
+          "article": "der",
+          "singular": "Termin",
+          "plural": "Termine"
+        },
+        {
+          "id": "beim-arzt-table-5",
+          "article": "die",
+          "singular": "Praxis",
+          "plural": "Praxen"
+        },
+        {
+          "id": "beim-arzt-table-6",
+          "article": "das",
+          "singular": "Medikament",
+          "plural": "Medikamente"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "beim-arzt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "beim-arzt-order-1",
+          "chunks": [
+            "Ich",
+            "möchte",
+            "gern",
+            "einen Termin",
+            "machen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "beim-arzt-order-2",
+          "chunks": [
+            "Seit",
+            "drei Tagen",
+            "habe",
+            "ich",
+            "Fieber"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "beim-arzt-order-3",
+          "chunks": [
+            "Können",
+            "Sie",
+            "das",
+            "bitte",
+            "wiederholen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "beim-arzt-order-4",
+          "chunks": [
+            "Wo",
+            "tut",
+            "es",
+            "weh"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "beim-arzt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "beim-arzt-spelling-1",
+          "correct": "Kopfschmerzen",
+          "wrong": "Kopfschmärzen"
+        },
+        {
+          "id": "beim-arzt-spelling-2",
+          "correct": "Krankschreibung",
+          "wrong": "Krankschreibunk"
+        },
+        {
+          "id": "beim-arzt-spelling-3",
+          "correct": "Versichertenkarte",
+          "wrong": "Versichertenkarde"
+        },
+        {
+          "id": "beim-arzt-spelling-4",
+          "correct": "allergisch",
+          "wrong": "alergisch"
+        },
+        {
+          "id": "beim-arzt-spelling-5",
+          "correct": "Tablette",
+          "wrong": "Tablete"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

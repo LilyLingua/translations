@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.950Z"
+  },
+  "title": "Đi khám bác sĩ",
+  "instructions": {
+    "beim-arzt-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "beim-arzt-gap": "Đánh dấu từ phù hợp.",
+    "beim-arzt-verbs": "Điền động từ đúng ở dạng đúng.",
+    "beim-arzt-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "beim-arzt-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "beim-arzt-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "thẻ bảo hiểm y tế",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Bạn đưa thẻ này ở quầy lễ tân. Trên đó có tên bảo hiểm y tế của bạn.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "lịch hẹn",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Một giờ cố định bạn đến phòng khám.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "phòng chờ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Bạn ngồi đây cho đến khi được gọi.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "đơn thuốc",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Với nó bạn nhận thuốc ở nhà thuốc.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "giấy nghỉ ốm",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Chủ lao động nhận giấy này khi bạn bị ốm.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "sốt",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Nhiệt độ cơ thể quá cao, ví dụ 39 độ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "dị ứng",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Cơ thể phản ứng mạnh với một thứ gì đó, ví dụ penicillin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "cuộc gọi khẩn cấp",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Số 112 – khi có tai nạn hoặc trường hợp khẩn cấp.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Xin chào, tôi muốn đặt một lịch hẹn.",
+      "answerText": "lịch hẹn"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Anh/chị có mang theo thẻ bảo hiểm y tế không?",
+      "answerText": "thẻ bảo hiểm y tế"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Vui lòng ngồi ở phòng chờ.",
+      "answerText": "phòng chờ"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Tôi bị đau đầu và sốt.",
+      "answerText": "đau đầu"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Bụng tôi đau.",
+      "answerText": "Bụng"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Tôi bị dị ứng với penicillin.",
+      "answerText": "penicillin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Tôi cần giấy nghỉ ốm cho chủ lao động.",
+      "answerText": "giấy nghỉ ốm"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Uống thuốc ba lần mỗi ngày sau bữa ăn.",
+      "answerText": "bữa ăn"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Anh/chị có thể nói chậm hơn được không?",
+      "answerText": "nói"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Tôi bị sốt ba ngày nay.",
+      "answerText": "bị"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Đầu tôi đau lắm.",
+      "answerText": "đau"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Vui lòng hít sâu – rồi thở ra.",
+      "answerText": "hít"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Bác sĩ cho tôi một đơn thuốc.",
+      "answerText": "cho"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Chúng tôi sẽ gọi anh/chị ngay.",
+      "answerText": "gọi"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "bác sĩ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "viên thuốc",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "đơn thuốc",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "lịch hẹn",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "phòng khám",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "thuốc",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Tôi muốn đặt lịch hẹn.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Tôi bị sốt ba ngày nay.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Anh/chị có thể nhắc lại được không?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Đau ở đâu?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "đau đầu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "giấy nghỉ ốm",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "thẻ bảo hiểm y tế",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "dị ứng",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "viên thuốc",
+      "answerText": null
+    }
+  ]
+}

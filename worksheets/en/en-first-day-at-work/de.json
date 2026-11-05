@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:38.099Z"
+  },
+  "title": "Erster Arbeitstag",
+  "instructions": {
+    "en-first-day-at-work-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "en-first-day-at-work-gap": "Wähle das richtige Wort.",
+    "en-first-day-at-work-verbs": "Setze das richtige Verb ein.",
+    "en-first-day-at-work-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "en-first-day-at-work-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "en-first-day-at-work-matching-1",
+      "translation": "der Kollege / die Kollegin",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-1:meaning",
+      "translation": "Eine Person, die mit dir zusammenarbeitet.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-2",
+      "translation": "der Chef / die Chefin",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-2:meaning",
+      "translation": "Die Person, die das Team leitet.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-3",
+      "translation": "die Pause",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-3:meaning",
+      "translation": "Eine kurze Zeit, in der man nicht arbeitet und sich ausruht.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-4",
+      "translation": "die Schicht",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-4:meaning",
+      "translation": "Die Arbeitszeit, zum Beispiel von 6 bis 14 Uhr.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-5",
+      "translation": "der Mitarbeiterausweis",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-5:meaning",
+      "translation": "Eine Karte mit deinem Namen und Foto, die du bei der Arbeit trägst.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-6",
+      "translation": "der Spind",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-matching-6:meaning",
+      "translation": "Ein kleiner Schrank, in dem du deine Sachen aufbewahren kannst.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-gap-1",
+      "translation": "Das ist dein Spind. Du kannst deine Tasche hineinlegen.",
+      "answerText": "Spind"
+    },
+    {
+      "id": "en-first-day-at-work-gap-2",
+      "translation": "Meine Schicht beginnt um acht Uhr.",
+      "answerText": "Schicht"
+    },
+    {
+      "id": "en-first-day-at-work-gap-3",
+      "translation": "Bitte trag deinen Ausweis immer.",
+      "answerText": "Ausweis"
+    },
+    {
+      "id": "en-first-day-at-work-gap-4",
+      "translation": "Um zwölf haben wir Mittagspause.",
+      "answerText": "Mittagspause"
+    },
+    {
+      "id": "en-first-day-at-work-gap-5",
+      "translation": "Wenn du ein Problem hast, sprich mit deinem Chef.",
+      "answerText": "Chef"
+    },
+    {
+      "id": "en-first-day-at-work-gap-6",
+      "translation": "Schön, dich kennenzulernen. Ich bin dein neuer Kollege.",
+      "answerText": "Kollege"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-1",
+      "translation": "Hallo, ich heiße Sara.",
+      "answerText": "heiße"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-2",
+      "translation": "Wo kann ich den Pausenraum finden?",
+      "answerText": "kann"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-3",
+      "translation": "Ich arbeite im Lager.",
+      "answerText": "arbeite"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-4",
+      "translation": "Könntest du mir den Weg zum Büro zeigen?",
+      "answerText": "zeigen"
+    },
+    {
+      "id": "en-first-day-at-work-verbs-5",
+      "translation": "Die Besprechung beginnt um zehn.",
+      "answerText": "beginnt"
+    },
+    {
+      "id": "en-first-day-at-work-order-1",
+      "translation": "Wo ist der Pausenraum?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-2",
+      "translation": "Ich bin der neue Kollege.",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-3",
+      "translation": "Wann endet meine Schicht?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-order-4",
+      "translation": "Könntest du das noch einmal erklären?",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-1",
+      "translation": "Kollege",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-2",
+      "translation": "Besprechung",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-3",
+      "translation": "Zeitplan",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-4",
+      "translation": "morgen",
+      "answerText": null
+    },
+    {
+      "id": "en-first-day-at-work-spelling-5",
+      "translation": "willkommen",
+      "answerText": null
+    }
+  ]
+}

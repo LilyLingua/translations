@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.212Z"
+  },
+  "title": "TK dan sekolah",
+  "instructions": {
+    "kita-und-schule-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "kita-und-schule-gap": "Centang kata yang cocok.",
+    "kita-und-schule-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "kita-und-schule-table": "Lengkapi artikel dan bentuk jamak.",
+    "kita-und-schule-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "kita-und-schule-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "pertemuan orang tua",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Pertemuan orang tua dengan para guru.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "penitipan anak / TK (Kita)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Di sini anak-anak kecil diasuh pada siang hari.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "wali kelas (perempuan)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Dia bertanggung jawab atas satu kelas.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "rapor",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Di sini ada nilai di akhir tahun ajaran.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "surat izin",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Surat singkat untuk sekolah kalau anak Anda sakit.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "libur sekolah",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Waktu tanpa sekolah, misalnya pada musim panas.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "karyawisata",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Kelas pergi bersama ke tempat lain.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Anak laki-laki saya sakit. Hari ini dia tidak bisa datang ke sekolah.",
+      "answerText": "sekolah"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Di pertemuan orang tua para orang tua berbicara dengan guru.",
+      "answerText": "pertemuan orang tua"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Pada musim panas anak-anak mendapat enam minggu libur.",
+      "answerText": "libur"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Di akhir tahun ajaran anak perempuan saya mendapat rapor.",
+      "answerText": "rapor"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Saya menulis surat izin untuk guru karena anak saya sakit.",
+      "answerText": "surat izin"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Anak-anak harus mengerjakan PR setiap hari.",
+      "answerText": "PR"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Anak saya berumur tiga tahun dan pergi ke TK.",
+      "answerText": "TK"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Saya menjemput anak saya pukul 16.00.",
+      "answerText": "menjemput"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Anak perempuan saya hari ini sayangnya sakit.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Bisakah kita membuat janji?",
+      "answerText": "membuat"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Pelajaran dimulai pukul 8.00.",
+      "answerText": "dimulai"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Tolong tanda tangani formulir ini paling lambat hari Jumat.",
+      "answerText": "tanda tangani"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "anak",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "kelas",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "guru",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "buku tulis",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "nilai",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "pulpen",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Anak laki-laki saya hari ini sakit.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Kapan pertemuan orang tua dimulai?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Saya menjemput anak perempuan saya pukul 15.00.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Apakah anak saya perlu membawa sesuatu untuk karyawisata?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "pertemuan orang tua",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "rapor",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "surat izin",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "PR (pekerjaan rumah)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "wali kelas",
+      "answerText": null
+    }
+  ]
+}

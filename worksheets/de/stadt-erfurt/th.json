@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:58.240Z"
+  },
+  "title": "แอร์ฟวร์ท",
+  "instructions": {
+    "stadt-erfurt-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-erfurt-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-erfurt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-erfurt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-erfurt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-erfurt-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "สะพานพ่อค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "สะพานที่มีบ้านอยู่ด้านบน มีคนอาศัยและมีร้านเล็ก ๆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "ดอมแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "เนินที่มีโบสถ์ใหญ่สองแห่ง: มหาวิหารและโบสถ์นักบุญเซเวรุส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "ไส้กรอกย่างทือริงเงิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "ไส้กรอกย่างของทือริงเงิน กินในขนมปังกับมัสตาร์ด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "เคลิสเซอ (ก้อนมันฝรั่ง)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "เครื่องเคียงก้อนกลมทำจากมันฝรั่ง เป็นที่นิยมมากในทือริงเงิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "คิคา (KiKA)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "ช่องโทรทัศน์สำหรับเด็ก สำนักงานใหญ่อยู่ที่แอร์ฟวร์ท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "อาราม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "มาร์ติน ลูเทอร์เคยอาศัยที่นี่ตอนเป็นนักบวชหนุ่ม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "\"แครเมอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "คำเก่าที่หมายถึงพ่อค้าที่มีร้านเล็ก ๆ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "บนสะพานพ่อค้ามีบ้านหลายหลัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "พวกเราเดินขึ้นดอมแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "ฉันกินไส้กรอกย่างกับมัสตาร์ด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "วันอาทิตย์พวกเรากินเนื้ออบกับก้อนมันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "ในเมืองมีรูปปั้นตัวละครจากรายการเด็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "พวกเราเยี่ยมชมอารามออกัสติเนียน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "แอร์ฟวร์ทเป็นเมืองหลวงของทือริงเงิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "มาร์ติน ลูเทอร์ศึกษาที่แอร์ฟวร์ท",
+      "answerText": "ศึกษา"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "จนถึงทุกวันนี้ยังมีคนอาศัยอยู่บนสะพานพ่อค้า",
+      "answerText": "อาศัย"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "เตาย่างส่งกลิ่นไส้กรอกย่าง",
+      "answerText": "ส่งกลิ่น"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "ก้อนมันฝรั่งทำจากมันฝรั่ง",
+      "answerText": "ทำ"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "คิคาออกอากาศรายการสำหรับเด็ก",
+      "answerText": "ออกอากาศ"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "ก้อนมันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "อาราม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "นักบวช",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "พ่อค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "มีคนอาศัยอยู่บนสะพานพ่อค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "ไส้กรอกย่างต้องกินกับมัสตาร์ด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "คุณเคยกินก้อนมันฝรั่งทือริงเงินหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "มาร์ติน ลูเทอร์ศึกษาที่แอร์ฟวร์ท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "ก้อนมันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "อาราม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "ไส้กรอกย่าง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "พ่อค้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "มัสตาร์ด",
+      "answerText": null
+    }
+  ]
+}

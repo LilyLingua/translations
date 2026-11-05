@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:00.710Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-essen-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-essen-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-essen-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-essen-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-essen-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "Zollverein Maden Ocağı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Eski maden ocağı; bugün müzeleri ve tasarımıyla UNESCO Dünya Mirası.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "kuyu kulesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Maden ocağının üstündeki yüksek kule; onunla insanlar ve kömür yukarı çıkardı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "\"Glück auf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Madencilerin selamı – herkesin sağ salim yukarı çıkması dilenir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Krupp ailesinin çok odalı ve parklı büyük evi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Ruhr nehri üzerinde bir göl; orada yelken açılır, kürek çekilir ve yürüyüş yapılır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Çiçekleri, oyun alanları ve hayvanlarıyla büyük bir park.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "Kültür Başkenti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Essen'in 2010'da bütün Ruhr bölgesi için aldığı unvan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Yazın birçok kişi Baldeneysee'de yelken açar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Krupp ailesi Villa Hügel'de yaşardı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Zollverein Maden Ocağı'nda rehberli bir tur yapıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Kuyu kulesi Essen'in simgesidir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Pazar günü Grugapark'a gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "Essen 2010'da Avrupa Kültür Başkenti'ydi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen, Hafenstraße'de oynuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Madenciler \"Glück auf!\" der.",
+      "answerText": "der"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Kuyu kulesi eski maden ocağının üstünde duruyor.",
+      "answerText": "duruyor"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Bugün artık yerin altından kömür çıkmıyor.",
+      "answerText": "çıkmıyor"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Birçok turist Zollverein Maden Ocağı'nı ziyaret ediyor.",
+      "answerText": "ziyaret ediyor"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Ruhr nehri Baldeneysee'nin içinden akar.",
+      "answerText": "akar"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "maden ocağı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "park",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "göl",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "müze",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "salon",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Zollverein Maden Ocağı UNESCO Dünya Mirası'na aittir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Hafta sonu Baldeneysee'ye gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Hiç Grugapark'a gittin mi?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Eskiden birçok madenci yer altında çalışırdı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "müze",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "maden ocağı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "kömür",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "salon",
+      "answerText": null
+    }
+  ]
+}

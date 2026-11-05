@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.404Z"
+  },
+  "title": "در سوپرمارکت",
+  "instructions": {
+    "im-supermarkt-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "im-supermarkt-gap": "بسته‌بندی یا مقدار مناسب را علامت بزنید.",
+    "im-supermarkt-verbs": "فعل درست را به شکل درست بنویسید.",
+    "im-supermarkt-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "im-supermarkt-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "im-supermarkt-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "چرخ خرید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "هنگام خرید اجناس را داخل آن می‌گذارید.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "پیشخوان پنیر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "اینجا پنیر تازه را وزنی می‌خرید.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "پول پشتوانه بطری (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "پولی که برای بطری‌های خالی پس می‌گیرید.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "دستگاه تحویل بطری",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "اینجا بطری‌های خالی را تحویل می‌دهید.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "حراج (پیشنهاد ویژه)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "یک محصول برای مدت کوتاهی ارزان‌تر است.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "رسید خرید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "همه قیمت‌ها روی این کاغذ است.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "کیسه",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "خریدهایتان را با آن به خانه می‌برید.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "یک ظرف ماست می‌خرم.",
+      "answerText": "ظرف"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "یک بطری آب هم، لطفاً.",
+      "answerText": "بطری"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "یک بسته ماکارونی لازم داریم.",
+      "answerText": "بسته"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "برای سس یک قوطی گوجه برمی‌دارم.",
+      "answerText": "قوطی"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "لطفاً ۲۰۰ گرم پنیر گودا.",
+      "answerText": "گرم"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "یک قالب کره ۲٫۲۹ یورو است.",
+      "answerText": "قالب"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "یک لیتر شیر برمی‌دارم.",
+      "answerText": "لیتر"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "می‌توانید پنج یورو برایم خرد کنید؟",
+      "answerText": "خرد کنید"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "ببخشید، آرد را کجا پیدا کنم؟",
+      "answerText": "پیدا کنم"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "با کارت پرداخت می‌کنم.",
+      "answerText": "پرداخت می‌کنم"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "۲۰۰ گرم پنیر گودا می‌خواستم.",
+      "answerText": "می‌خواستم"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "روزهای یکشنبه تقریباً همه سوپرمارکت‌ها تعطیل هستند.",
+      "answerText": "هستند"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "بطری",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "ظرف (ماست)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "قوطی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "نان",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "سیب",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "موز",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "ببخشید، آرد را کجا پیدا کنم؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "یک کیف همراهم دارم.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "موزها امروز حراج هستند.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "دستگاه تحویل بطری کجاست؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "چرخ خرید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "رسید خرید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "پول پشتوانه بطری",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "پنیر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "نان کوچک",
+      "answerText": null
+    }
+  ]
+}

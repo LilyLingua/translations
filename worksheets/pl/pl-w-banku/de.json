@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:57.514Z"
+  },
+  "title": "In der Bank",
+  "instructions": {
+    "pl-w-banku-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "pl-w-banku-gap": "Wähle das richtige Wort.",
+    "pl-w-banku-verbs": "Setze das richtige Verb ein.",
+    "pl-w-banku-order": "Bring die Wörter in die richtige Reihenfolge und schreib den Satz.",
+    "pl-w-banku-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "pl-w-banku-matching-1",
+      "translation": "das Konto",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-1:meaning",
+      "translation": "Der Ort bei der Bank, an dem dein Geld ist.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-2",
+      "translation": "die Bankkarte",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-2:meaning",
+      "translation": "Eine Karte, mit der man mit Geld vom Konto bezahlt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-3",
+      "translation": "die PIN",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-3:meaning",
+      "translation": "Eine geheime Zahl für die Karte.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-4",
+      "translation": "der Geldautomat",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-4:meaning",
+      "translation": "Ein Automat, an dem man Bargeld abheben kann.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-5",
+      "translation": "die Überweisung",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-5:meaning",
+      "translation": "Wenn man Geld von einem Konto auf ein anderes schickt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-6",
+      "translation": "der Kontostand",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-matching-6:meaning",
+      "translation": "Wie viel Geld auf dem Konto ist.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-gap-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": "Konto"
+    },
+    {
+      "id": "pl-w-banku-gap-2",
+      "translation": "Bitte geben Sie die PIN ein.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "pl-w-banku-gap-3",
+      "translation": "Wo ist der nächste Geldautomat?",
+      "answerText": "Geldautomat"
+    },
+    {
+      "id": "pl-w-banku-gap-4",
+      "translation": "Ich möchte eine Überweisung an den Vermieter machen.",
+      "answerText": "Überweisung"
+    },
+    {
+      "id": "pl-w-banku-gap-5",
+      "translation": "Wie prüfe ich den Kontostand?",
+      "answerText": "Kontostand"
+    },
+    {
+      "id": "pl-w-banku-gap-6",
+      "translation": "Meine Karte funktioniert nicht.",
+      "answerText": "Karte"
+    },
+    {
+      "id": "pl-w-banku-verbs-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": "möchte"
+    },
+    {
+      "id": "pl-w-banku-verbs-2",
+      "translation": "Kann ich hier Bargeld abheben?",
+      "answerText": "abheben"
+    },
+    {
+      "id": "pl-w-banku-verbs-3",
+      "translation": "Bitte unterschreiben Sie dieses Formular.",
+      "answerText": "unterschreiben"
+    },
+    {
+      "id": "pl-w-banku-verbs-4",
+      "translation": "Die Karte kommt in fünf Tagen.",
+      "answerText": "kommt"
+    },
+    {
+      "id": "pl-w-banku-verbs-5",
+      "translation": "Ola hat ihre PIN vergessen.",
+      "answerText": "vergessen"
+    },
+    {
+      "id": "pl-w-banku-order-1",
+      "translation": "Ich möchte ein Konto eröffnen.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-2",
+      "translation": "Wo kann ich Geld abheben?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-3",
+      "translation": "Meine Karte ist gesperrt.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-order-4",
+      "translation": "Was kostet die Kontoführung?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-1",
+      "translation": "Konto",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-2",
+      "translation": "Geld",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-3",
+      "translation": "Überweisung",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-4",
+      "translation": "Unterschrift",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-banku-spelling-5",
+      "translation": "Geldautomat",
+      "answerText": null
+    }
+  ]
+}

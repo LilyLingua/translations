@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.430Z"
+  },
+  "title": "สถานรับเลี้ยงเด็กและโรงเรียน",
+  "instructions": {
+    "kita-und-schule-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "kita-und-schule-gap": "ทำเครื่องหมายที่คำที่เหมาะสม",
+    "kita-und-schule-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "kita-und-schule-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "kita-und-schule-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "kita-und-schule-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "การประชุมผู้ปกครอง",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "การพบกันระหว่างผู้ปกครองกับครู",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "สถานรับเลี้ยงเด็ก",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "ที่นี่ดูแลเด็กเล็กในตอนกลางวัน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "ครูประจำชั้น (หญิง)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "เธอรับผิดชอบห้องเรียนหนึ่งห้อง",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "สมุดพก (ใบรายงานผล)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "มีคะแนนตอนปลายปีการศึกษา",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "จดหมายลาป่วย",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "จดหมายสั้น ๆ ถึงโรงเรียนเมื่อลูกป่วย",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "ปิดภาคเรียน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "ช่วงที่ไม่มีเรียน เช่น ในฤดูร้อน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "ทัศนศึกษา",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "ทั้งห้องไปที่อื่นด้วยกัน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "ลูกชายฉันป่วย วันนี้เขามาโรงเรียนไม่ได้",
+      "answerText": "โรงเรียน"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "ในการประชุมผู้ปกครอง ผู้ปกครองคุยกับครู",
+      "answerText": "การประชุมผู้ปกครอง"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "ในฤดูร้อนเด็ก ๆ ปิดเทอมหกสัปดาห์",
+      "answerText": "ปิดเทอม"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "ตอนปลายปีการศึกษา ลูกสาวฉันได้รับสมุดพก",
+      "answerText": "สมุดพก"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "ฉันเขียนจดหมายลาป่วยถึงครู เพราะลูกป่วย",
+      "answerText": "จดหมายลาป่วย"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "เด็ก ๆ ต้องทำการบ้านทุกวัน",
+      "answerText": "การบ้าน"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "ลูกฉันอายุสามขวบและไปสถานรับเลี้ยงเด็ก",
+      "answerText": "สถานรับเลี้ยงเด็ก"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "ฉันไปรับลูกตอน 16.00 น.",
+      "answerText": "ไปรับ"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "วันนี้ลูกสาวฉันป่วย น่าเสียดาย",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "เรานัดเวลาคุยกันได้ไหม",
+      "answerText": "นัด"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "การเรียนเริ่มเวลา 8.00 น.",
+      "answerText": "เริ่ม"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "กรุณาเซ็นแบบฟอร์มภายในวันศุกร์",
+      "answerText": "เซ็น"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "เด็ก",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "ห้องเรียน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "ครู",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "สมุด",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "คะแนน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "ปากกา",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "วันนี้ลูกชายฉันป่วย",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "การประชุมผู้ปกครองเริ่มเมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "ฉันไปรับลูกสาวตอน 15.00 น.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "ลูกฉันต้องเตรียมอะไรไปทัศนศึกษาไหม",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "การประชุมผู้ปกครอง",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "สมุดพก",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "จดหมายลาป่วย",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "การบ้าน",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "ครูประจำชั้น",
+      "answerText": null
+    }
+  ]
+}

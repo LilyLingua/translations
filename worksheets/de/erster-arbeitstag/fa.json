@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.226Z"
+  },
+  "title": "اولین روز کاری",
+  "instructions": {
+    "erster-arbeitstag-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "erster-arbeitstag-gap": "شکل درست را علامت بزنید.",
+    "erster-arbeitstag-verbs": "فعل درست را به شکل درست بنویسید.",
+    "erster-arbeitstag-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "erster-arbeitstag-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "erster-arbeitstag-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "مردی که با او کار می‌کنید.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "رئیس (زن)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "او تیم را هدایت می‌کند.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "استراحت",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "زمان آزاد در طول کار، مثلاً برای غذا خوردن.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "مرخصی",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "روزهای آزادی که کار نمی‌کنید و باز هم حقوق می‌گیرید.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ساعت اضافه‌کاری",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "ساعتی که بیشتر از برنامه کار می‌کنید.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "قرارداد کار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "حقوق، ساعت کار و مرخصی در آن نوشته شده است.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "سلف‌سرویس (غذاخوری)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "کارکنان اینجا در شرکت غذا می‌خورند.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "این همکار جدید من است.",
+      "answerText": "من"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "اجازه می‌دهید همکارم را معرفی کنم؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "دوست دارم با تیم همکاری کنم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "در غذاخوری همدیگر را می‌بینیم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "یک سؤال دارم.",
+      "answerText": "یک"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "استراحت کی شروع می‌شود؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "گزارش را به رئیس می‌دهم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "اجازه می‌دهید کوتاه خودم را معرفی کنم؟",
+      "answerText": "معرفی کنم"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "از ساعت ۸ تا ۱۶ کار می‌کنم.",
+      "answerText": "کار می‌کنم"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "توالت را کجا پیدا کنم؟",
+      "answerText": "پیدا کنم"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "در تیم همدیگر را با اسم کوچک صدا می‌زنیم.",
+      "answerText": "با اسم کوچک صدا می‌زنیم"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "می‌توانید لطفاً این را برایم توضیح دهید؟",
+      "answerText": "توضیح دهید"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "شرکت",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "دفتر کار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "کامپیوتر",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "جلسه",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "تیم",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "اجازه می‌دهید کوتاه خودم را معرفی کنم؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "من در تیم تازه‌وارد هستم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "استراحت ناهار کی شروع می‌شود؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "می‌توانید این را برایم توضیح دهید؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "جلسه",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "مرخصی",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "دفتر کار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ساعت اضافه‌کاری",
+      "answerText": null
+    }
+  ]
+}

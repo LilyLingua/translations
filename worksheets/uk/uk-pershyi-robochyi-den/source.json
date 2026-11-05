@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "02f68933-c742-4449-9744-230c4d169b7c",
+    "level": "A1"
+  },
+  "title": "Перший робочий день",
+  "topic": "Знайомитися з колегами й ставити запитання",
+  "tasks": [
+    {
+      "id": "uk-pershyi-robochyi-den-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-pershyi-robochyi-den-matching-1",
+          "term": "колега",
+          "meaning": "Людина, яка працює разом з вами."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-matching-2",
+          "term": "керівник",
+          "meaning": "Людина, яка керує командою."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-matching-3",
+          "term": "перерва",
+          "meaning": "Короткий час, коли не працюють і відпочивають."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-matching-4",
+          "term": "зміна",
+          "meaning": "Години роботи, наприклад з шостої до другої."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-matching-5",
+          "term": "перепустка",
+          "meaning": "Картка, з якою можна зайти на роботу."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-matching-6",
+          "term": "шафка",
+          "meaning": "Маленька шафа, де можна залишити свої речі."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-pershyi-robochyi-den-gap-1",
+          "promptBefore": "Ось ваша",
+          "promptAfter": ". Сюди можна покласти сумку.",
+          "correctAnswer": "шафка",
+          "options": [
+            "шафка",
+            "зміна",
+            "перерва"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-gap-2",
+          "promptBefore": "Моя",
+          "promptAfter": "починається о восьмій.",
+          "correctAnswer": "зміна",
+          "options": [
+            "зміна",
+            "шафка",
+            "перепустка"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-gap-3",
+          "promptBefore": "Не забувайте",
+          "promptAfter": "на вході.",
+          "correctAnswer": "перепустку",
+          "options": [
+            "перепустку",
+            "перерву",
+            "шафку"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-gap-4",
+          "promptBefore": "Обідня",
+          "promptAfter": "о дванадцятій.",
+          "correctAnswer": "перерва",
+          "options": [
+            "перерва",
+            "шафка",
+            "перепустка"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-gap-5",
+          "promptBefore": "Якщо є проблема, зверніться до",
+          "promptAfter": ".",
+          "correctAnswer": "керівника",
+          "options": [
+            "керівника",
+            "шафки",
+            "зміни"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-gap-6",
+          "promptBefore": "Приємно познайомитися! Я ваш новий",
+          "promptAfter": ".",
+          "correctAnswer": "колега",
+          "options": [
+            "колега",
+            "шафка",
+            "перерва"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-pershyi-robochyi-den-verbs-1",
+          "promptBefore": "Мене",
+          "promptAfter": "Олена.",
+          "correctAnswer": "звати",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "звати"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-verbs-2",
+          "promptBefore": "Де я можу",
+          "promptAfter": "кімнату відпочинку?",
+          "correctAnswer": "знайти",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "знайти"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-verbs-3",
+          "promptBefore": "Я",
+          "promptAfter": "на складі.",
+          "correctAnswer": "працюю",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "працювати"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-verbs-4",
+          "promptBefore": "Чи могли б ви",
+          "promptAfter": "мені дорогу до офісу?",
+          "correctAnswer": "показати",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "показати"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-verbs-5",
+          "promptBefore": "Нарада",
+          "promptAfter": "о десятій.",
+          "correctAnswer": "починається",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "починатися"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-pershyi-robochyi-den-order-1",
+          "chunks": [
+            "Де",
+            "кімната",
+            "відпочинку"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-order-2",
+          "chunks": [
+            "Я",
+            "тут",
+            "перший день"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-order-3",
+          "chunks": [
+            "Коли",
+            "закінчується",
+            "моя зміна"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-order-4",
+          "chunks": [
+            "Чи можете",
+            "ви",
+            "пояснити",
+            "ще раз"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-pershyi-robochyi-den-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-pershyi-robochyi-den-spelling-1",
+          "correct": "колега",
+          "wrong": "калега"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-spelling-2",
+          "correct": "керівник",
+          "wrong": "керівнік"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-spelling-3",
+          "correct": "перепустка",
+          "wrong": "перепуска"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-spelling-4",
+          "correct": "завтра",
+          "wrong": "завтро"
+        },
+        {
+          "id": "uk-pershyi-robochyi-den-spelling-5",
+          "correct": "ласкаво",
+          "wrong": "ласково"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

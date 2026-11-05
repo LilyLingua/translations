@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:17.830Z"
+  },
+  "title": "ესენი",
+  "instructions": {
+    "stadt-essen-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-essen-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-essen-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-essen-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-essen-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-essen-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "ცეხე ცოლფერაინი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "ძველი შახტი; დღეს იუნესკოს მსოფლიო მემკვიდრეობა მუზეუმებითა და დიზაინით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "ამწე კოშკი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "მაღალი კოშკი შახტის თავზე; მისით ადამიანები და ქვანახშირი ზემოთ ამოდიოდნენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„გლიუკ აუფ!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "მეშახტეების მისალმება – ნატრობენ, რომ ყველა ჯანმრთელი ამოვიდეს ზემოთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "ვილა ჰიუგელი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "კრუპების ოჯახის დიდი სახლი მრავალი ოთახითა და პარკით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "ბალდენაიზეე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "ტბა რურზე; იქ შეიძლება იალქნით ცურვა, ნიჩბოსნობა და სეირნობა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "გრუგაპარკი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "დიდი პარკი ყვავილებით, სათამაშო მოედნებით და ცხოველებით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "კულტურის დედაქალაქი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "წოდება, რომელიც ესენმა 2010 წელს მთელი რურის რეგიონისთვის მიიღო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "ზაფხულში ბევრი ბალდენაიზეეზე იალქნით დაცურავს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "კრუპების ოჯახი ვილა ჰიუგელში ცხოვრობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "ცეხე ცოლფერაინში ექსკურსიაზე მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "ამწე კოშკი ესენის სიმბოლოა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "კვირას გრუგაპარკში მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "ესენი 2010 წელს ევროპის კულტურის დედაქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "როტ-ვაის ესენი ჰაფენშტრასეზე თამაშობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "მეშახტეები ამბობენ „გლიუკ აუფ!“.",
+      "answerText": "ამბობენ"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "ამწე კოშკი ძველი შახტის თავზე დგას.",
+      "answerText": "დგას"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "დღეს მიწიდან ქვანახშირი აღარ ამოდის.",
+      "answerText": "ამოდის"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "ბევრი ტურისტი ცეხე ცოლფერაინს სტუმრობს.",
+      "answerText": "სტუმრობს"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "რური ბალდენაიზეეში გაედინება.",
+      "answerText": "გაედინება"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "შახტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "პარკი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "ვილა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ტბა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "მუზეუმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "დარბაზი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "ცეხე ცოლფერაინი იუნესკოს მსოფლიო მემკვიდრეობას ეკუთვნის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "შაბათ-კვირას ბალდენაიზეეზე მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "უკვე ყოფილხარ გრუგაპარკში?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "ადრე ბევრი მეშახტე მიწისქვეშ მუშაობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "მუზეუმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "შახტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "ვილა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "ქვანახშირი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "დარბაზი",
+      "answerText": null
+    }
+  ]
+}

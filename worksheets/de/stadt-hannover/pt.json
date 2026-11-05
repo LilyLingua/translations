@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:39.699Z"
+  },
+  "title": "Hanôver",
+  "instructions": {
+    "stadt-hannover-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-hannover-gap": "Marque a palavra certa.",
+    "stadt-hannover-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-hannover-table": "Complete o artigo e o plural.",
+    "stadt-hannover-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-hannover-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "a feira",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Grande exposição para empresas; Hanôver tem um enorme centro de feiras.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "o Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Lago artificial na cidade para velejar, correr e festejar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "o Fio Vermelho",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Linha vermelha no chão; leva aos pontos turísticos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "o alemão padrão",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "A língua padrão; em Hanôver é falada de forma especialmente clara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "a \"Lüttje Lage\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Cerveja e aguardente em dois copos que se bebem ao mesmo tempo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "a festa dos atiradores",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Festa popular muito grande no verão, com um longo desfile.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "a \"Nana\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Grande figura feminina colorida à beira do rio Leine, de Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Seguimos o Fio Vermelho pela cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "No verão muita gente corre em volta do Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "A empresa expõe na feira.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Subimos de elevador até a cúpula da prefeitura.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "As Nanas ficam à beira do Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Visitamos os Jardins de Herrenhausen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "Ele experimenta uma Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "O Fio Vermelho leva a muitos pontos turísticos.",
+      "answerText": "leva"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "Na Prefeitura Nova um elevador inclinado sobe até a cúpula.",
+      "answerText": "sobe"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Muitas empresas mostram seus produtos na feira.",
+      "answerText": "mostram"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "As pessoas em Hanôver falam um alemão padrão bem claro.",
+      "answerText": "falam"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "Em 2000 a exposição mundial Expo aconteceu em Hanôver.",
+      "answerText": "aconteceu"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "a feira",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "o jardim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "o fio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "a figura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "a prefeitura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "o elevador",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "O Fio Vermelho atravessa o centro.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "No verão muita gente veleja no Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Você vai subir de elevador até a cúpula?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "Em Hanôver se fala um alemão padrão claro.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "a feira",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "o ponto turístico",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "o elevador",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "a figura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "a cúpula",
+      "answerText": null
+    }
+  ]
+}

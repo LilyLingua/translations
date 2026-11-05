@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Prekybos centre",
+  "instructions": {
+    "im-supermarkt-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "im-supermarkt-gap": "Pažymėkite tinkamą pakuotę arba kiekį.",
+    "im-supermarkt-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "im-supermarkt-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "im-supermarkt-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "im-supermarkt-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "pirkinių vežimėlis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Apsipirkdami į jį dedate prekes.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "sūrių skyrius",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Čia gaunate šviežio sūrio sveriamai.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "užstatas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Pinigai, kuriuos atgaunate už tuščius butelius.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "taromatas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Čia grąžinate tuščius butelius.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "specialus pasiūlymas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Prekė trumpam kainuoja pigiau.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "kasos čekis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Šiame popieriaus lapelyje yra visos kainos.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "krepšys",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Jame nešate pirkinius namo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Perku indelį jogurto.",
+      "answerText": "indelį"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Ir butelį vandens, prašom.",
+      "answerText": "butelį"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Mums reikia pakelio makaronų.",
+      "answerText": "pakelio"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Padažui imu skardinę pomidorų.",
+      "answerText": "skardinę"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Prašyčiau 200 gramų „Gouda“ sūrio.",
+      "answerText": "gramų"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Sviesto pakelis kainuoja 2,29 euro.",
+      "answerText": "pakelis"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Paimsiu litrą pieno.",
+      "answerText": "litrą"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Ar galite man išmainyti penkis eurus?",
+      "answerText": "išmainyti"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Atsiprašau, kur rasti miltų?",
+      "answerText": "rasti"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Moku kortele.",
+      "answerText": "Moku"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Norėčiau 200 gramų „Gouda“ sūrio.",
+      "answerText": "Norėčiau"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Sekmadieniais beveik visi prekybos centrai yra uždaryti.",
+      "answerText": "yra"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "butelis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "indelis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "skardinė",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "duona",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "obuolys",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "bananas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Atsiprašau, kur rasti miltų?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Atsinešiau krepšį.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Šiandien bananams taikomas specialus pasiūlymas.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Kur yra taromatas?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "pirkinių vežimėlis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "kasos čekis",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "užstatas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "sūris",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "bandelė",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:34.143Z"
+  },
+  "title": "U apoteci",
+  "instructions": {
+    "in-der-apotheke-matching": "Spojite svaku riječ s odgovarajućim objašnjenjem.",
+    "in-der-apotheke-gap": "Označite odgovarajuću riječ.",
+    "in-der-apotheke-verbs": "Upišite pravi glagol u pravom obliku.",
+    "in-der-apotheke-table": "Dopunite član i oblik množine.",
+    "in-der-apotheke-order": "Poredajte riječi pravilnim redom i napišite rečenicu.",
+    "in-der-apotheke-spelling": "Koja riječ je pravilno napisana? Označite."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "recept",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Papir od doktora za lijek.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Mali lijek koji se proguta.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "sirup za kašalj",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Tečni lijek protiv kašlja.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "mast (krema)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Maže se na kožu.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "nuspojava",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Neželjeno djelovanje lijeka.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "uputstvo za upotrebu",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Papirić u kutiji lijeka sa svim informacijama.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "participacija (doplata)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Mali iznos za recept plaćate sami.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Imam recept od svoje doktorice.",
+      "answerText": "recept"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Imate li nešto protiv grlobolje?",
+      "answerText": "grlobolje"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Uzimajte dvije tablete dnevno.",
+      "answerText": "tablete"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Mast je za kožu.",
+      "answerText": "kožu"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Molim vas, pročitajte uputstvo za upotrebu.",
+      "answerText": "uputstvo za upotrebu"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Lijek gotovo nema nuspojava.",
+      "answerText": "nuspojava"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Vikendom jedna apoteka ima dežurstvo.",
+      "answerText": "apoteka"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Od jučer imam kašalj.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Koliko često trebam uzimati tablete?",
+      "answerText": "uzimati"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Naručit ćemo lijek do sutra.",
+      "answerText": "Naručit"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Mast nanosite dva puta dnevno.",
+      "answerText": "nanosite"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Molim vas, pijte puno vode.",
+      "answerText": "pijte"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "apoteka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "lijek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "mast",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "flaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "kutija (pakovanje)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "kap",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Imate li nešto protiv kašlja?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Koliko često trebam uzimati tablete?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Treba mi lijek protiv glavobolje.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Treba li mi za to recept?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "apoteka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "lijek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "flaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "nuspojava",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kašalj",
+      "answerText": null
+    }
+  ]
+}

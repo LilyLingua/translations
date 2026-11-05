@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.593Z"
+  },
+  "title": "Домовитися про зустріч телефоном",
+  "instructions": {
+    "termine-am-telefon-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "termine-am-telefon-gap": "Позначте правильний прийменник.",
+    "termine-am-telefon-verbs": "Вставте правильне дієслово в правильній формі.",
+    "termine-am-telefon-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "termine-am-telefon-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "termine-am-telefon-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "автовідповідач",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Тут можна залишити повідомлення.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "внутрішній номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Прямий номер телефону працівника у фірмі.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "передзвонити",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Зателефонувати комусь пізніше, бо він дзвонив раніше.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "перенести",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Перенести зустріч на інший день.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "скасувати",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Сказати, що не прийдеш на зустріч.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "години прийому",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Час, коли можна з кимось зв'язатися.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "назвати по літерах",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Сказати слово літера за літерою.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Чи маєте ви час у понеділок?",
+      "answerText": "у"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "О 10-й годині зручно?",
+      "answerText": "О"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Я маю час аж у грудні.",
+      "answerText": "у"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Кабінет лікаря на вихідних зачинений.",
+      "answerText": "на"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Я передзвоню вам за годину.",
+      "answerText": "за"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Я вже два тижні чекаю на запис.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Будь ласка, приходьте за десять хвилин до прийому.",
+      "answerText": "до"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Можна поговорити з пані Вебер?",
+      "answerText": "поговорити"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "На жаль, я мушу скасувати свою зустріч.",
+      "answerText": "скасувати"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Чи не могли б ви мені передзвонити?",
+      "answerText": "передзвонити"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Я даю вам свій номер.",
+      "answerText": "даю"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Як пишеться ваше прізвище?",
+      "answerText": "пишеться"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "дзвінок",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "номер",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "повідомлення",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "час",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "мобільний телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Я хотів би перенести зустріч.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Коли у вас є час?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Я зателефоную завтра ще раз.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Вам зручно в четвер о 9-й годині?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "повідомлення",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "зустріч (запис)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "передзвонити",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "час",
+      "answerText": null
+    }
+  ]
+}

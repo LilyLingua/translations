@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:25.891Z"
+  },
+  "title": "할레",
+  "instructions": {
+    "stadt-halle-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-halle-gap": "알맞은 단어에 표시하세요.",
+    "stadt-halle-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-halle-table": "관사와 복수형을 쓰세요.",
+    "stadt-halle-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-halle-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "게오르크 프리드리히 헨델",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "유명한 작곡가로, 1685년에 할레에서 태어났다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "할로렌 쿠겔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "아주 오래된 초콜릿 공장(1804년부터)에서 만든 작은 초콜릿 공.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "할로렌",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "옛날 할레의 소금 일꾼들로, 그들의 형제단은 오늘날까지 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "소금",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "할레는 소금으로 부자가 되었다. 소금은 도시 아래의 짠 샘에서 나왔다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "다섯 탑의 도시",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "별명: 마르크트 광장에서 탑 다섯 개를 볼 수 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "잘레강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "할레를 지나 흐르는 강.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "프랑케 재단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "큰 목조 골조 건물들이 있는 옛 학교 도시로, 1698년에 세워졌다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "우리는 헨델 하우스를 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "나는 할로렌 쿠겔 한 상자를 산다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "할레는 잘레강 가에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "마르크트 광장에는 탑 다섯 개가 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "옛날에는 땅속에서 소금을 캐냈다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "우리는 잘레강에서 보트를 탄다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "헨델은 유명한 곡 《메시아》를 썼다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "헨델은 1685년에 할레에서 태어났다.",
+      "answerText": "태어났다"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "잘레강은 도시를 지나 흐른다.",
+      "answerText": "흐른다"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "그 초콜릿 공은 맛이 아주 달다.",
+      "answerText": "달다"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "소금이 할레를 부자로 만들었다.",
+      "answerText": "만들었다"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "마르크트 광장에서는 탑 다섯 개가 보인다.",
+      "answerText": "보인다"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "공",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "작곡가",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "샘",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "보트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "팩",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "헨델은 할레에서 태어났다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "할로렌 쿠겔 하나 먹을래?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "잘레강은 할레를 지나 흐른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "마르크트 광장에는 탑 다섯 개가 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "작곡가",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "공",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "초콜릿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "강",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "소금",
+      "answerText": null
+    }
+  ]
+}

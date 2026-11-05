@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Ma sooviksin aja kokku leppida."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Jah, siin on minu kaart."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Kas te saaksite seda palun aeglasemalt öelda?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Mul on peavalu ja palavik."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Mu kõht valutab."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Kolm päeva."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "sisse hingata – välja hingata"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Ma olen penitsilliini suhtes allergiline."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Mul on vaja haiguslehte."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Kolm korda päevas pärast sööki."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Sa oled haige. Sa pead arsti juurde minema. Aga … saksa keeles?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Oh ei. Eelmine kord ütlesin ma arsti juures: „Ich bin Kopfschmerzen.“ (Ma olen peavalu.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Just sellepärast oleme täna siin. Sa läbid terve arstivisiidi – esimesest kõnest retseptini."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Ja igas olukorras küsime sinult: mida sa ütled?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "Ja sul on ainult viis sekundit!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Sa helistad arstipraksisesse. Keegi võtab vastu."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Dr. Yilmazi praksis, Schulz kuuleb. Kuidas saan teid aidata?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Mina tahta arst. Kohe."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Tere, ma sooviksin aja kokku leppida."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Tere, ma olen haige. Head aega."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (ma sooviksin …) on viisakas ja sobib alati."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (ma tahan) kõlab telefonis kiiresti ebaviisakalt."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Tere, ma sooviksin aja kokku leppida."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Muidugi. Kas täna kell kümme sobib?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Ma sooviksin aja kokku leppida."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Sa jõuad praksisesse. Registratuuris küsitakse sinult:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Kas teil on ravikindlustuskaart kaasas?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Ei, ma olen kindlustatud mitte."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Jah, mul on kõht tühi."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Jah, siin on minu kaart."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! „Versichertenkarte“ – mõned ütlevad ka „Gesundheitskarte“ või „Krankenkassenkarte“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "See on alati sama kaart. Võta see iga arstivisiidi jaoks kaasa."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Jah, siin on minu kaart."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Aitäh."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Jah, siin on minu kaart."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "Naine räägib väga kiiresti. Sa ei saa kõigest aru."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Palun täitke ankeet ja võtke siis ooteruumis istet."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Vabandust, kas te saaksite seda palun aeglasemalt öelda?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Mida?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Ma võtan istekoha kaasa."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Mida?) kõlab ebaviisakalt. See küsimus päästab sind igal pool: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Lühemalt sobib ka: „Wie bitte?“ (Kuidas palun?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Vabandust, kas te saaksite seda palun aeglasemalt öelda?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Muidugi. Palun täitke see ankeet. Siis oodake seal ooteruumis."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Kas te saaksite seda palun aeglasemalt öelda?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Sa oled arsti juures vastuvõturuumis. Ta küsib:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Tere. Noh, mis teil viga on?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Mul ei ole midagi viga, aitäh."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Mul on peavalu ja palavik."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Ma olen peavalu."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Ettevaatust: „Was fehlt Ihnen?“ ei tähenda „Mis teil puudu on?“, vaid „Mis teie mure on?“"
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Kui sa ütled „Mir fehlt nichts“, oled sa terve – ja arsti juures tegelikult vales kohas."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Mul on peavalu ja palavik."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Oh, mul on kahju seda kuulda."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Mul on peavalu ja palavik."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Kas teil on ka kõhuvalu? Kus valutab?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Sinu kõht valutab. Mida sa ütled?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Ma teen valu kõhus."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Kõht on valu."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Siin, mu kõht valutab."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Nii see käib: kehaosa pluss „tut weh“ (valutab). Kui neid on mitu: „Meine Füße tun weh.“ (Mu jalad valutavad.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Siin, mu kõht valutab."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Mu kõht valutab."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Mu jalad valutavad."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Kui kaua teil need vaevused on olnud?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Enne kolm päeva pikk."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Kolm päev."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Kolm päeva."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! Pärast „seit“ (alates/juba) tuleb daativ – seepärast on „Tagen“ n-tähega. Samamoodi „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(nädal aega), „seit gestern“ (eilsest saati)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Kolm päeva."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Kolm päeva."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Nädal aega."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Ma kuulan teid. Palun võtke ülakeha paljaks."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Mida sa nüüd teed?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Sa võtad kampsuni ja T-särgi seljast."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Sa võtad püksid jalast."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Sa lähed koju – sa oled ju vaba."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Niisiis … C, eks? Ma olen vaba – ma lähen koju!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Ei, Leo. A! „Oberkörper“ on keha ülemine osa. „Frei machen“ tähendab siin: riided seljast võtta."
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "Siis kuuled sa tihti: „Tief einatmen … und ausatmen.“ (Hingake sügavalt sisse … ja välja.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Hingake sügavalt sisse … ja välja. Hästi."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "sisse hingata – välja hingata"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Kas te olete millegi suhtes allergiline?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Jah, ma olen allergiline penitsilliini jaoks."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Jah, ma olen penitsilliini suhtes allergiline."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Mulle penitsilliin eriti ei meeldi."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Allergiline ollakse „gegen“ (vastu) millegi. Ja kui sul allergiat ei ole: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Ei, mul ei ole allergiaid.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Jah, ma olen penitsilliini suhtes allergiline."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Hea, et te seda ütlesite. Siis saate midagi muud."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Ma olen penitsilliini suhtes allergiline."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Mul ei ole allergiaid."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Sa ei saa homme tööle minna. Arst küsib:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Kas teil on haiguslehte vaja?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Mida sa ütled?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Ei, ma kirjutan ise."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Jah, ma kirjutan haige."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Jah, palun. Minu tööandja jaoks."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! „Krankschreibung“ (haigusleht) näitab: sa oled haige ega saa töötada."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Tähtis: teata oma tööandjale siiski ka ise – kõige parem esimesel päeval, varahommikul."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Jah, palun. Minu tööandja jaoks."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Ma kirjutan teile haiguslehe reedeni."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Mul on vaja haiguslehte."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Ma kirjutan teile retsepti. Võtke tablette kolm korda päevas pärast sööki."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Kuula hoolega! Millal sa tablette võtad?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Üks kord päevas, enne magamaminekut."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Hommikul, lõunal ja õhtul – pärast sööki."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Kolm korda päevas – enne sööki."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ tähendab kolm korda päevas. Ja „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– seega kõigepealt söö, siis võta tablett."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Suur aitäh. Head aega!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Saage ruttu terveks!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – nii öeldakse haigetele inimestele. See tähendab: saa ruttu terveks!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Korda minu järel!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Kolm korda päevas pärast sööki."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Saage ruttu terveks!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "Ja kui praksis on kinni? Jäta meelde kaks numbrit."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: valvearsti teenus – kui sul on vaja arsti öösel või nädalavahetusel, aga see ei ole hädaolukord."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Ja 112: hädaabinumber – kiirabi ja tuletõrje jaoks, näiteks pärast õnnetust või kui sul on tugev hingeldus."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "Kursusel õpid sa ilusaid lauseid. Aga mida sakslased tegelikult ütlevad?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Mul on kurguvalu."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Mu kurk kriibib."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Ma olen haige."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Mind tabas. (Ma jäin millessegi haigeks.)"
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Ma sain nakkuse."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Ma püüdsin midagi külge."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Ma olen väga väsinud ja nõrk."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Ma olen täiesti läbi."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Mul on seljavalu."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Mu selg annab tunda."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, ma olen nii külm!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … sa ei ole ju külm inimene. Sa mõtled: „Mir ist kalt.“ (Mul on külm.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Ja ettevaatust: „Mir ist schlecht“ ei tähenda „mul ei lähe hästi“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "See tähendab: mul on paha olla, ma võin oksendada."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Gripp või külmetus? Nohu ja köha on tavaliselt külmetus („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Gripp („Grippe“) on palju hullem: kõrge palavik, oled voodis."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Ja nüüd kõik veel kord. Kümme kõige tähtsamat lauset. Korda minu järel!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Ma sooviksin aja kokku leppida."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Siin on minu kaart."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Kas te saaksite seda palun aeglasemalt öelda?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Mul on peavalu ja palavik."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Mu kõht valutab."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Kolm päeva."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Ma olen penitsilliini suhtes allergiline."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Mul on vaja haiguslehte."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Kolm korda päevas pärast sööki."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Saage ruttu terveks!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Milline olukord oli sinu jaoks kõige raskem? Kirjuta see kommentaaridesse!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Järgmine kord läheme ametiasutusse. Seal on mul tõesti abi vaja."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "Kohtumiseni LilyLinguas!"
+    }
+  ]
+}

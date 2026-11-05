@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.268Z"
+  },
+  "title": "Запись по телефону",
+  "instructions": {
+    "uk-zapys-telefonom-matching": "Соедините каждое слово с его значением.",
+    "uk-zapys-telefonom-gap": "Выберите правильное слово.",
+    "uk-zapys-telefonom-verbs": "Вставьте правильный глагол.",
+    "uk-zapys-telefonom-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-zapys-telefonom-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-zapys-telefonom-matching-1",
+      "translation": "звонить",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-1:meaning",
+      "translation": "Разговаривать с кем-то по телефону.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2",
+      "translation": "отменить",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-2:meaning",
+      "translation": "Сказать, что вы не придёте.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3",
+      "translation": "перенести",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-3:meaning",
+      "translation": "Изменить время визита.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4",
+      "translation": "голосовое сообщение",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-4:meaning",
+      "translation": "Сообщение, которое оставляют, когда никто не отвечает.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5",
+      "translation": "добавочный номер",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-5:meaning",
+      "translation": "Короткий номер телефона внутри фирмы.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6",
+      "translation": "свободный",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-matching-6:meaning",
+      "translation": "Не занятый.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-1",
+      "translation": "Я хочу отменить свой визит в пятницу.",
+      "answerText": "отменить"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-2",
+      "translation": "Можно перенести его на следующую неделю?",
+      "answerText": "перенести"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-3",
+      "translation": "Врач свободен в понедельник?",
+      "answerText": "свободен"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-4",
+      "translation": "Оставьте, пожалуйста, голосовое сообщение.",
+      "answerText": "сообщение"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-5",
+      "translation": "Можете перезвонить мне позже?",
+      "answerText": "перезвонить"
+    },
+    {
+      "id": "uk-zapys-telefonom-gap-6",
+      "translation": "Наберите, пожалуйста, добавочный номер 245.",
+      "answerText": "номер"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-1",
+      "translation": "Добрый день, вам звонит Мария Коваль.",
+      "answerText": "звонит"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-2",
+      "translation": "Я хочу записаться на приём.",
+      "answerText": "хочу"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-3",
+      "translation": "Не могли бы вы повторить это, пожалуйста?",
+      "answerText": "повторить"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-4",
+      "translation": "Я перезвоню вам через десять минут.",
+      "answerText": "перезвоню"
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs-5",
+      "translation": "Офис закрывается в пять.",
+      "answerText": "закрывается"
+    },
+    {
+      "id": "uk-zapys-telefonom-order-1",
+      "translation": "Можно поговорить с доктором Бондаренко?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-2",
+      "translation": "Я хочу отменить свой визит.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-3",
+      "translation": "Вам подходит вторник в десять?",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-order-4",
+      "translation": "Я перезвоню завтра.",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-1",
+      "translation": "сообщение",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-2",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-3",
+      "translation": "среда",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-4",
+      "translation": "отменить",
+      "answerText": null
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling-5",
+      "translation": "свободный",
+      "answerText": null
+    }
+  ]
+}

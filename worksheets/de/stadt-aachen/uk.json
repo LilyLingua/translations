@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:42.348Z"
+  },
+  "title": "Ахен",
+  "instructions": {
+    "stadt-aachen-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-aachen-gap": "Позначте правильне слово.",
+    "stadt-aachen-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-aachen-table": "Допишіть артикль і форму множини.",
+    "stadt-aachen-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-aachen-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-aachen-matching-1",
+      "translation": "Ахенський собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-1:meaning",
+      "translation": "Церква Карла Великого; перший об'єкт Світової спадщини в Німеччині.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2",
+      "translation": "«Принтен»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2:meaning",
+      "translation": "Ароматні пряники зі спеціями з Ахена, особливо популярні взимку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3",
+      "translation": "«Ехер»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3:meaning",
+      "translation": "Так ахенці називають себе своїм діалектом (Ехер Платт).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4",
+      "translation": "стик трьох країн",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4:meaning",
+      "translation": "Місце, де сходяться Німеччина, Бельгія та Нідерланди.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5",
+      "translation": "термальні джерела",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5:meaning",
+      "translation": "Гаряча вода із землі; тому Ахен також є курортом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6",
+      "translation": "CHIO",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6:meaning",
+      "translation": "Великий кінний турнір з кіньми з усього світу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7",
+      "translation": "Премія Карла Великого",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7:meaning",
+      "translation": "Премія для людей, які багато зробили для Європи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-1",
+      "translation": "Карл Великий збудував собор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-2",
+      "translation": "Взимку ми їмо пряник «Принтен».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-3",
+      "translation": "Ми йдемо пішки до стику трьох країн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-4",
+      "translation": "Вода з джерела дуже гаряча.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-5",
+      "translation": "На CHIO коні стрибають через перешкоди.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-6",
+      "translation": "Майже щороку хтось отримує Премію Карла Великого.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-7",
+      "translation": "Багато студентів навчаються в RWTH.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-verbs-1",
+      "translation": "Ахен межує з Бельгією та Нідерландами.",
+      "answerText": "межує"
+    },
+    {
+      "id": "stadt-aachen-verbs-2",
+      "translation": "Гаряча вода витікає із землі.",
+      "answerText": "витікає"
+    },
+    {
+      "id": "stadt-aachen-verbs-3",
+      "translation": "Коні стрибають через високі перешкоди.",
+      "answerText": "стрибають"
+    },
+    {
+      "id": "stadt-aachen-verbs-4",
+      "translation": "Багато ахенців розмовляють на Ехер Платт.",
+      "answerText": "розмовляють"
+    },
+    {
+      "id": "stadt-aachen-verbs-5",
+      "translation": "Карл Великий похований у соборі.",
+      "answerText": "похований"
+    },
+    {
+      "id": "stadt-aachen-table-1",
+      "translation": "джерело",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-2",
+      "translation": "кінь",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-3",
+      "translation": "країна",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-4",
+      "translation": "премія",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-5",
+      "translation": "кордон",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-6",
+      "translation": "імператор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-1",
+      "translation": "Ахенському собору понад 1200 років.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-2",
+      "translation": "Ти вже куштував «Принтен»?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-3",
+      "translation": "Ахен розташований на кордоні з Бельгією.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-4",
+      "translation": "Вода з джерел дуже гаряча.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-1",
+      "translation": "джерело",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-2",
+      "translation": "кордон",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-3",
+      "translation": "кінь",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-4",
+      "translation": "імператор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-5",
+      "translation": "Бельгія",
+      "answerText": null
+    }
+  ]
+}

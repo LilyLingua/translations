@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.393Z"
+  },
+  "title": "Crèche et école",
+  "instructions": {
+    "kita-und-schule-matching": "Reliez chaque mot à l'explication qui convient.",
+    "kita-und-schule-gap": "Cochez le mot qui convient.",
+    "kita-und-schule-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "kita-und-schule-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "kita-und-schule-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "kita-und-schule-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "la réunion de parents",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Une rencontre entre les parents et les enseignants.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "la crèche (garderie)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Ici, on garde les petits enfants pendant la journée.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "la professeure principale",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Elle est responsable d'une classe.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "le bulletin scolaire",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "On y trouve les notes de fin d'année scolaire.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "le mot d'excuse",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Une courte lettre à l'école quand votre enfant était malade.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "les vacances",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Le temps sans école, par exemple en été.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "la sortie scolaire",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "La classe part ensemble dans un autre lieu.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Mon fils est malade. Il ne peut pas venir à l'école aujourd'hui.",
+      "answerText": "école"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "À la réunion de parents, les parents parlent avec l'enseignante.",
+      "answerText": "réunion de parents"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "En été, les enfants ont six semaines de vacances.",
+      "answerText": "vacances"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "À la fin de l'année scolaire, ma fille reçoit un bulletin.",
+      "answerText": "bulletin"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "J'écris un mot d'excuse à l'enseignante parce que mon enfant était malade.",
+      "answerText": "mot d'excuse"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Les enfants doivent faire leurs devoirs tous les jours.",
+      "answerText": "devoirs"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Mon enfant a trois ans et va à la crèche.",
+      "answerText": "crèche"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Je viens chercher mon enfant à 16 heures.",
+      "answerText": "viens chercher"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Ma fille est malheureusement malade aujourd'hui.",
+      "answerText": "est"
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Pouvons-nous fixer un rendez-vous ?",
+      "answerText": "fixer"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Les cours commencent à 8 heures.",
+      "answerText": "commencent"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Veuillez signer le formulaire avant vendredi.",
+      "answerText": "signer"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "l'enfant",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "la classe",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "l'enseignant",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "le cahier",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "la note",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "le stylo",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Mon fils est malade aujourd'hui.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Quand commence la réunion de parents ?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Je viens chercher ma fille à 15 heures.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Mon enfant a-t-il besoin de quelque chose pour la sortie ?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "réunion de parents",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "bulletin scolaire",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "mot d'excuse",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "devoirs",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "professeure principale",
+      "answerText": null
+    }
+  ]
+}

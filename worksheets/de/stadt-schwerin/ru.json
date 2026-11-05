@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:17.757Z"
+  },
+  "title": "Шверин",
+  "instructions": {
+    "stadt-schwerin-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-schwerin-gap": "Отметьте правильное слово.",
+    "stadt-schwerin-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-schwerin-table": "Допишите артикль и форму множественного числа.",
+    "stadt-schwerin-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-schwerin-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-schwerin-matching-1",
+      "translation": "Шверинский замок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-1:meaning",
+      "translation": "Сказочный замок на острове; сегодня там работает ландтаг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2",
+      "translation": "Петерменхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-2:meaning",
+      "translation": "Маленький дух замка из старой легенды.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3",
+      "translation": "ландтаг",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-3:meaning",
+      "translation": "Парламент федеральной земли.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4",
+      "translation": "остров",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-4:meaning",
+      "translation": "Суша, со всех сторон окружённая водой.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5",
+      "translation": "столица земли",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-5:meaning",
+      "translation": "Столица федеральной земли.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6",
+      "translation": "собор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-6:meaning",
+      "translation": "Большая старая церковь; в Шверине у неё очень высокая башня.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7",
+      "translation": "легенда",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-matching-7:meaning",
+      "translation": "Старая история, которую люди рассказывают с давних времён.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-1",
+      "translation": "Замок стоит на острове.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-2",
+      "translation": "Шверин стоит у большого озера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-3",
+      "translation": "Ландтаг работает в замке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-4",
+      "translation": "Ночью Петерменхен ходит по замку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-5",
+      "translation": "Мы плывём на корабле через озеро.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-6",
+      "translation": "С башни собора видно много озёр.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-gap-7",
+      "translation": "Шверин – самая маленькая столица земли в Германии.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-verbs-1",
+      "translation": "Петерменхен охраняет замок ночью.",
+      "answerText": "охраняет"
+    },
+    {
+      "id": "stadt-schwerin-verbs-2",
+      "translation": "Вокруг Шверина есть много озёр.",
+      "answerText": "есть"
+    },
+    {
+      "id": "stadt-schwerin-verbs-3",
+      "translation": "Мы идём гулять в замковый сад.",
+      "answerText": "идём"
+    },
+    {
+      "id": "stadt-schwerin-verbs-4",
+      "translation": "В замке политики обсуждают новые законы.",
+      "answerText": "обсуждают"
+    },
+    {
+      "id": "stadt-schwerin-verbs-5",
+      "translation": "Легенда рассказывает о маленьком духе.",
+      "answerText": "рассказывает"
+    },
+    {
+      "id": "stadt-schwerin-table-1",
+      "translation": "замок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-2",
+      "translation": "остров",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-3",
+      "translation": "озеро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-4",
+      "translation": "дух",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-5",
+      "translation": "сад",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-table-6",
+      "translation": "история",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-1",
+      "translation": "Замок стоит на острове.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-2",
+      "translation": "Сегодня в замке работает ландтаг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-3",
+      "translation": "Ты знаешь легенду о Петерменхене?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-order-4",
+      "translation": "Шверин – город с множеством озёр.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-1",
+      "translation": "замок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-2",
+      "translation": "остров",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-3",
+      "translation": "дух",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-4",
+      "translation": "история",
+      "answerText": null
+    },
+    {
+      "id": "stadt-schwerin-spelling-5",
+      "translation": "парламент",
+      "answerText": null
+    }
+  ]
+}

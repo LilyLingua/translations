@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "b2b4129a-3f45-4834-8dd3-5c0a9fefe17c",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Mainz",
+  "topic": "Rheinland-Pfalz: Fastnacht, Gutenberg, Mainzelmännchen",
+  "tasks": [
+    {
+      "id": "stadt-mainz-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-mainz-matching-1",
+          "term": "die Fastnacht",
+          "meaning": "So heißt der Karneval in Mainz; man ruft „Helau“."
+        },
+        {
+          "id": "stadt-mainz-matching-2",
+          "term": "der Rosenmontag",
+          "meaning": "Höhepunkt der Fastnacht mit einem großen Umzug."
+        },
+        {
+          "id": "stadt-mainz-matching-3",
+          "term": "der Buchdruck",
+          "meaning": "Johannes Gutenberg erfand ihn in Mainz, mit beweglichen Buchstaben."
+        },
+        {
+          "id": "stadt-mainz-matching-4",
+          "term": "die Mainzelmännchen",
+          "meaning": "Kleine Zeichentrickfiguren aus dem Programm des ZDF."
+        },
+        {
+          "id": "stadt-mainz-matching-5",
+          "term": "Weck, Worscht un Woi",
+          "meaning": "Mainzer Dialekt für Brötchen, Fleischwurst und Wein."
+        },
+        {
+          "id": "stadt-mainz-matching-6",
+          "term": "der Meenzer",
+          "meaning": "So nennen sich die Menschen aus Mainz im Dialekt."
+        },
+        {
+          "id": "stadt-mainz-matching-7",
+          "term": "das Marktfrühstück",
+          "meaning": "Treffen am Samstag auf dem Markt am Dom, mit Wein und Wurst."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-mainz-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-mainz-gap-1",
+          "promptBefore": "Gutenberg erfand",
+          "promptAfter": "Buchdruck.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-2",
+          "promptBefore": "Am Rosenmontag sehen wir",
+          "promptAfter": "großen Umzug.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "einem",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-3",
+          "promptBefore": "Das Marktfrühstück ist neben",
+          "promptAfter": "Dom.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-4",
+          "promptBefore": "Das ZDF hat seinen Sitz in",
+          "promptAfter": "Stadt Mainz.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-5",
+          "promptBefore": "Er trinkt",
+          "promptAfter": "Glas Wein.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-6",
+          "promptBefore": "Im Museum sehen wir",
+          "promptAfter": "alte Bibel.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-mainz-gap-7",
+          "promptBefore": "Mainz liegt an",
+          "promptAfter": "Rhein.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-mainz-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-mainz-verbs-1",
+          "promptBefore": "Johannes Gutenberg",
+          "promptAfter": "den Buchdruck.",
+          "correctAnswer": "erfand",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "erfinden"
+        },
+        {
+          "id": "stadt-mainz-verbs-2",
+          "promptBefore": "In der Fastnacht",
+          "promptAfter": "die Meenzer „Helau“.",
+          "correctAnswer": "rufen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "rufen"
+        },
+        {
+          "id": "stadt-mainz-verbs-3",
+          "promptBefore": "Die Mainzelmännchen",
+          "promptAfter": "im ZDF zwischen der Werbung.",
+          "correctAnswer": "kommen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kommen"
+        },
+        {
+          "id": "stadt-mainz-verbs-4",
+          "promptBefore": "Am Samstag",
+          "promptAfter": "wir uns zum Marktfrühstück.",
+          "correctAnswer": "treffen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "treffen"
+        },
+        {
+          "id": "stadt-mainz-verbs-5",
+          "promptBefore": "Rund um Mainz",
+          "promptAfter": "viel Wein.",
+          "correctAnswer": "wächst",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wachsen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-mainz-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-mainz-table-1",
+          "article": "der",
+          "singular": "Umzug",
+          "plural": "Umzüge"
+        },
+        {
+          "id": "stadt-mainz-table-2",
+          "article": "das",
+          "singular": "Buch",
+          "plural": "Bücher"
+        },
+        {
+          "id": "stadt-mainz-table-3",
+          "article": "der",
+          "singular": "Buchstabe",
+          "plural": "Buchstaben"
+        },
+        {
+          "id": "stadt-mainz-table-4",
+          "article": "die",
+          "singular": "Bibel",
+          "plural": "Bibeln"
+        },
+        {
+          "id": "stadt-mainz-table-5",
+          "article": "das",
+          "singular": "Brötchen",
+          "plural": "Brötchen"
+        },
+        {
+          "id": "stadt-mainz-table-6",
+          "article": "der",
+          "singular": "Dom",
+          "plural": "Dome"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-mainz-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-mainz-order-1",
+          "chunks": [
+            "Gutenberg",
+            "erfand",
+            "in Mainz",
+            "den Buchdruck"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-mainz-order-2",
+          "chunks": [
+            "Am Rosenmontag",
+            "gibt es",
+            "einen großen Umzug"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-mainz-order-3",
+          "chunks": [
+            "Gehen wir",
+            "am Samstag",
+            "zum Marktfrühstück"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-mainz-order-4",
+          "chunks": [
+            "Mainz",
+            "liegt",
+            "am Rhein"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-mainz-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-mainz-spelling-1",
+          "correct": "Buchstabe",
+          "wrong": "Buchstape"
+        },
+        {
+          "id": "stadt-mainz-spelling-2",
+          "correct": "Bibel",
+          "wrong": "Biebel"
+        },
+        {
+          "id": "stadt-mainz-spelling-3",
+          "correct": "Umzug",
+          "wrong": "Umzuk"
+        },
+        {
+          "id": "stadt-mainz-spelling-4",
+          "correct": "Rosenmontag",
+          "wrong": "Rosenmondag"
+        },
+        {
+          "id": "stadt-mainz-spelling-5",
+          "correct": "Fernsehen",
+          "wrong": "Fernseen"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

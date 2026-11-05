@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:54:07.616Z"
+  },
+  "title": "कोलोन",
+  "instructions": {
+    "stadt-koeln-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "stadt-koeln-gap": "सही शब्द पर निशान लगाइए।",
+    "stadt-koeln-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "stadt-koeln-table": "आर्टिकल और बहुवचन रूप भरिए।",
+    "stadt-koeln-order": "शब्दों को सही क्रम में लगाकर वाक्य लिखिए।",
+    "stadt-koeln-spelling": "कौन सा शब्द सही लिखा है? उस पर निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"क्योल्ले आलाफ़!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "कोलोन के कार्निवल का नारा – कुछ ऐसा जैसे \"कोलोन ज़िंदाबाद!\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "कैथेड्रल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "दो टावरों वाला बड़ा चर्च, ठीक मुख्य रेलवे स्टेशन के पास।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "\"क्योल्श\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "कोलोन की हल्के रंग की बीयर; छोटे, पतले गिलासों में पी जाती है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "\"कोबेस\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "बीयर हाउस का वेटर; नई क्योल्श लाता रहता है, जब तक गिलास पर ढक्कन न रख दें।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "\"हाल्वे हान\" (आधा मुर्गा)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "पनीर के साथ राई का बन – आधा मुर्गा नहीं!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "\"फ़ेडेल\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "कोलोन की बोली में मोहल्ला; हर कोलोन वाला अपने फ़ेडेल से प्यार करता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "रोज़ मंडे",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "कार्निवल का सबसे बड़ा दिन, शहर में एक बड़े जुलूस के साथ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "वह बीयर हाउस में एक क्योल्श पीता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "कोबेस अगली क्योल्श लाता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "रोज़ मंडे को हम शहर में जुलूस देखते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "बहुत से सैलानी कोलोन का कैथेड्रल देखने जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "मैं एक हाल्वे हान मँगाता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "बहुत से लोग होहेनत्सोलर्न पुल पर टहलते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "कार्निवल में लोग पोशाक पहनते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "कार्निवल में लोग \"क्योल्ले आलाफ़!\" पुकारते हैं।",
+      "answerText": "पुकारते"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "कोबेस बिना पूछे नई क्योल्श लाता है।",
+      "answerText": "लाता"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "कैथेड्रल 150 मीटर से ज़्यादा ऊँचा है।",
+      "answerText": "है"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "राइन कोलोन के ठीक बीच से बहती है।",
+      "answerText": "बहती"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "11.11. को 11 बजकर 11 मिनट पर कार्निवल शुरू होता है।",
+      "answerText": "शुरू"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "कैथेड्रल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "पुल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "गिलास",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "जुलूस",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "पोशाक",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "पब",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "कोलोन का कैथेड्रल ठीक स्टेशन के पास खड़ा है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "रोज़ मंडे को पूरा कोलोन कार्निवल मनाता है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "क्या तुम एक और क्योल्श लोगे?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "कोलोन में क्योल्श छोटे गिलासों में पी जाती है।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "कार्निवल",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "पोशाक",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "रेलवे स्टेशन",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "पब",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "गिलास",
+      "answerText": null
+    }
+  ]
+}

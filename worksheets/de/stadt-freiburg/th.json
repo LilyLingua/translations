@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:52.420Z"
+  },
+  "title": "ไฟรบวร์ค",
+  "instructions": {
+    "stadt-freiburg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-freiburg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-freiburg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-freiburg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-freiburg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-freiburg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "\"เบคเลอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "รางน้ำเล็ก ๆ ตามถนนในเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "มหาวิหาร (มึนสเทอร์)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "โบสถ์ใหญ่สร้างจากหินทรายสีแดง มีหอคอยสูง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "ลังเงอ โรเทอ (ไส้กรอกแดงยาว)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "ไส้กรอกย่างสีแดงยาว ๆ จากตลาดข้างมหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "\"บ็อบเบเลอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "คนที่เกิดในไฟรบวร์คถูกเรียกแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "เขาเชาอินส์ลันด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "ภูเขาประจำเมืองไฟรบวร์ค มีกระเช้าลอยฟ้าขึ้นไป",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "ป่าดำ (ชวาร์ซวัลด์)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "เทือกเขาป่าไม้ใหญ่ที่อยู่ติดเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "เฟาบอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "ย่านนิเวศ มีบ้านประหยัดพลังงานและรถยนต์น้อย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "ใครเหยียบเบคเลอ จะได้แต่งงานกับชาวไฟรบวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "ที่ตลาดข้างมหาวิหาร พวกเรากินลังเงอ โรเทอหนึ่งอัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "พวกเรานั่งกระเช้าลอยฟ้าขึ้นเขาเชาอินส์ลันด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "สุดสัปดาห์พวกเราเดินป่าในป่าดำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "นักท่องเที่ยวหลายคนเยี่ยมชมมหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "ที่เฟาบอง หลายคนปั่นจักรยาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "ไฟรบวร์คเป็นเมืองที่มีแดดมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "น้ำไหลผ่านเบคเลอ",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "กระเช้าลอยฟ้าขึ้นไปบนเขาเชาอินส์ลันด์",
+      "answerText": "ขึ้น"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "ที่ไฟรบวร์คแดดส่องบ่อยมาก",
+      "answerText": "ส่อง"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "ใครเหยียบเบคเลอ จะได้แต่งงานกับชาวไฟรบวร์ค",
+      "answerText": "แต่งงาน"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "ที่จัตุรัสมึนสเทอร์มีตลาดเกือบทุกวัน",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "ลำธาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "ป่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "ภูเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "ย่าน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "กระเช้าลอยฟ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "ที่ไฟรบวร์คแดดออกบ่อย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "คุณเคยเหยียบเบคเลอหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "มหาวิหารมีหอคอยสูง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "สุดสัปดาห์พวกเราเดินป่าในป่าดำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "ป่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "ดวงอาทิตย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "มหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "กระเช้าลอยฟ้า",
+      "answerText": null
+    }
+  ]
+}

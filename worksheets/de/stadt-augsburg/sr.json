@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:22.571Z"
+  },
+  "title": "Аугсбург",
+  "instructions": {
+    "stadt-augsburg-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-augsburg-gap": "Означи тачну реч.",
+    "stadt-augsburg-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-augsburg-table": "Упиши члан и облик множине.",
+    "stadt-augsburg-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-augsburg-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-augsburg-matching-1",
+      "translation": "Фугереј",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-1:meaning",
+      "translation": "Најстарије социјално насеље на свету; кирија износи само 0,88 евра годишње.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2",
+      "translation": "„Augsburger Puppenkiste“ (аугсбуршко луткарско позориште)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-2:meaning",
+      "translation": "Познато позориште са марионетама, познато са телевизије.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3",
+      "translation": "Празник мира",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-3:meaning",
+      "translation": "Осмог августа само Аугсбург има празник.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4",
+      "translation": "Златна дворана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-4:meaning",
+      "translation": "Раскошна дворана у већници са много злата на таваници.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5",
+      "translation": "Перлахтурм (торањ Перлах)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-5:meaning",
+      "translation": "Високи торањ поред већнице; на њега може да се попне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6",
+      "translation": "„Plärrer“ (Плерер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-6:meaning",
+      "translation": "Велики народни сајам у пролеће и на јесен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7",
+      "translation": "Бертолт Брехт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-matching-7:meaning",
+      "translation": "Познати писац који је рођен у Аугсбургу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-1",
+      "translation": "У Фугереју и данас живе људи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-2",
+      "translation": "Деца гледају представу у луткарском позоришту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-3",
+      "translation": "Осмог августа становници Аугсбурга имају слободан дан.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-4",
+      "translation": "Пењемо се на Перлахтурм.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-5",
+      "translation": "У већници посећујемо Златну дворану.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-6",
+      "translation": "У пролеће многи иду на Плерер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-gap-7",
+      "translation": "Брехт је рођен у граду на Леху.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-verbs-1",
+      "translation": "Кирија кошта само 0,88 евра годишње.",
+      "answerText": "кошта"
+    },
+    {
+      "id": "stadt-augsburg-verbs-2",
+      "translation": "У луткарском позоришту марионете играју представе.",
+      "answerText": "играју"
+    },
+    {
+      "id": "stadt-augsburg-verbs-3",
+      "translation": "Осмог августа Аугсбург слави Празник мира.",
+      "answerText": "слави"
+    },
+    {
+      "id": "stadt-augsburg-verbs-4",
+      "translation": "Аугсбург је стар преко 2000 година.",
+      "answerText": "је"
+    },
+    {
+      "id": "stadt-augsburg-verbs-5",
+      "translation": "Са Перлахтурма се види цео град.",
+      "answerText": "види"
+    },
+    {
+      "id": "stadt-augsburg-table-1",
+      "translation": "лутка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-2",
+      "translation": "дворана",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-3",
+      "translation": "славље",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-4",
+      "translation": "кирија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-5",
+      "translation": "торањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-table-6",
+      "translation": "позориште",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-1",
+      "translation": "Насеље Фугереј је старо преко 500 година.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-2",
+      "translation": "Да ли знаш аугсбуршко луткарско позориште?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-3",
+      "translation": "Осмог августа је у Аугсбургу празник.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-order-4",
+      "translation": "У већници постоји златна дворана.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-1",
+      "translation": "позориште",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-2",
+      "translation": "лутка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-3",
+      "translation": "празник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-4",
+      "translation": "кирија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-augsburg-spelling-5",
+      "translation": "дворана",
+      "answerText": null
+    }
+  ]
+}

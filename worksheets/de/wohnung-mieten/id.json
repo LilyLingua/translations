@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.386Z"
+  },
+  "title": "Menyewa apartemen",
+  "instructions": {
+    "wohnung-mieten-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "wohnung-mieten-gap": "Centang bentuk artikel yang benar.",
+    "wohnung-mieten-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "wohnung-mieten-table": "Lengkapi artikel dan bentuk jamak.",
+    "wohnung-mieten-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "wohnung-mieten-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "uang sewa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Uang yang Anda bayar setiap bulan untuk apartemen.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "uang jaminan (deposit)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Uang yang diterima pemilik di awal sebagai jaminan.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "biaya tambahan",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Biaya untuk air, pemanas, dan sampah.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "kontrak sewa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Kontrak antara penyewa dan pemilik.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "kunjungan lihat rumah",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Anda melihat apartemen sebelum menyewanya.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "pengurus gedung",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Dia mengurus gedung dan memperbaiki hal-hal kecil.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "peraturan rumah",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Aturan untuk semua penghuni, misalnya jam tenang.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Kami mencari apartemen dengan balkon.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Saya berbicara dengan pemilik apartemen.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Saya memberikan uang jaminan kepada pemilik.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Sepeda saya taruh di halaman.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Kuncinya ada di atas meja.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Pemanas di dapur rusak.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Sudah setahun saya tinggal di apartemen ini.",
+      "answerText": "ini"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kapan saya bisa melihat apartemennya?",
+      "answerText": "melihat"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Sewanya sebesar 850 euro termasuk biaya tambahan.",
+      "answerText": "sebesar"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Kami pindah ke sana pada 1 Desember.",
+      "answerText": "pindah"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Pemanasnya rusak. Bisakah Anda memperbaikinya?",
+      "answerText": "memperbaikinya"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Tolong pisahkan sampah.",
+      "answerText": "pisahkan"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "kamar",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "dapur",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "kamar mandi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "kunci",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "pemanas",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Apakah apartemennya masih tersedia?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Berapa biaya tambahannya?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kapan saya bisa melihat apartemennya?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Saya ingin menyewa apartemen ini.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "uang jaminan",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "biaya tambahan",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "kunci",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "pemanas",
+      "answerText": null
+    }
+  ]
+}

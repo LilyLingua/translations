@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:46.778Z"
+  },
+  "title": "Дрезден",
+  "instructions": {
+    "stadt-dresden-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-dresden-gap": "Позначте правильне слово.",
+    "stadt-dresden-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-dresden-table": "Допишіть артикль і форму множини.",
+    "stadt-dresden-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-dresden-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "Фрауенкірхе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "Велика церква з куполом; зруйнована у війну, знову відкрита у 2005 році.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "«Ельбська Флоренція»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "Прізвисько Дрездена – через гарні будівлі на Ельбі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "Штріцельмаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "Один з найстаріших різдвяних ярмарків Німеччини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "штолен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "Важкий різдвяний кекс з родзинками й цукровою пудрою.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "«Блакитне диво»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "Старий блакитний міст через Ельбу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "Земперопер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "Відомий оперний театр на Театральній площі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "айершеке",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "Саксонський пиріг із трьох шарів.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "Ми відвідуємо Фрауенкірхе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "У грудні ми йдемо на Штріцельмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "На Різдво бабуся пече штолен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "Ми гуляємо вздовж Ельби.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "Увечері ми йдемо в Земперопер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "Блакитне диво – старий міст.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "До кави я їм шматок айершеке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "У війну Фрауенкірхе була зруйнована.",
+      "answerText": "була"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "Багато людей жертвували гроші на відбудову.",
+      "answerText": "жертвували"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "Штріцельмаркт проходить щороку в адвент.",
+      "answerText": "проходить"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "Ельба тече через Дрезден.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "Саксонською часто кажуть «ну» замість «так».",
+      "answerText": "кажуть"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "церква",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "міст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "ринок",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "купол",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "пиріг",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "палац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "Фрауенкірхе знову відкрили у 2005 році.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "В адвент ми йдемо на Штріцельмаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "Ти вже куштував дрезденський штолен?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "Дрезден лежить на Ельбі.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "купол",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "Різдво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "штолен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "міст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "родзинка",
+      "answerText": null
+    }
+  ]
+}

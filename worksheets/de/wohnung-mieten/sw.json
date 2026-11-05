@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.065Z"
+  },
+  "title": "Kukodisha nyumba",
+  "instructions": {
+    "wohnung-mieten-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "wohnung-mieten-gap": "Weka alama kwenye umbo sahihi la kibainishi.",
+    "wohnung-mieten-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "wohnung-mieten-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "wohnung-mieten-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "wohnung-mieten-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "kodi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Pesa unazolipa kila mwezi kwa ajili ya nyumba.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "amana",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Pesa ambazo mwenye nyumba anapokea mwanzoni kama dhamana.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "gharama za ziada",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Gharama za maji, joto na takataka.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "mkataba wa kukodisha",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Mkataba kati ya mpangaji na mwenye nyumba.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "kuangalia nyumba",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Unaangalia nyumba kabla ya kuikodisha.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "mtunzaji wa jengo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Anatunza jengo na kurekebisha vitu vidogo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "kanuni za jengo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Kanuni kwa wakazi wote, kwa mfano saa za utulivu.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Tunatafuta nyumba moja yenye roshani.",
+      "answerText": "moja"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Ninazungumza na mwenye nyumba.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Ninampa mwenye nyumba (mwanamke) amana.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Ninaweka baiskeli uani.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Ufunguo uko juu ya meza.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Hita ya jikoni imeharibika.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Nimeishi katika nyumba hii kwa mwaka mmoja.",
+      "answerText": "hii"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Ninaweza kuangalia nyumba lini?",
+      "answerText": "kuangalia"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Kodi ni euro 850 pamoja na gharama za ziada.",
+      "answerText": "ni"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Tunahamia tarehe 1 Desemba.",
+      "answerText": "hamia"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Hita imeharibika. Unaweza kuirekebisha, tafadhali?",
+      "answerText": "kuirekebisha"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Tafadhali tenganisha takataka.",
+      "answerText": "tenganisha"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "chumba",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "jiko",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "roshani",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "bafu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "ufunguo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "hita (mfumo wa joto)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Nyumba bado iko wazi?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Gharama za ziada ni kiasi gani?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Ninaweza kuangalia nyumba lini?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Ningependa kukodisha nyumba hii.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "amana",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "gharama za ziada",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "roshani",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "ufunguo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "hita",
+      "answerText": null
+    }
+  ]
+}

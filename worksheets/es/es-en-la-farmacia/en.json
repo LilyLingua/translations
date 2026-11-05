@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.559Z"
+  },
+  "title": "At the Pharmacy",
+  "instructions": {
+    "es-en-la-farmacia-matching": "Match each word with its meaning.",
+    "es-en-la-farmacia-gap": "Choose the right word.",
+    "es-en-la-farmacia-verbs": "Write the correct verb.",
+    "es-en-la-farmacia-order": "Put the words in order and write the sentence.",
+    "es-en-la-farmacia-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-en-la-farmacia-matching-1",
+      "translation": "prescription",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-1:meaning",
+      "translation": "A note from the doctor with the medicine you need.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-2",
+      "translation": "pharmacist",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-2:meaning",
+      "translation": "The person who sells medicine and gives advice.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-3",
+      "translation": "side effect",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-3:meaning",
+      "translation": "An unwanted effect of a medicine.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-4",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-4:meaning",
+      "translation": "A small, hard medicine that you swallow.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-5",
+      "translation": "syrup",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-5:meaning",
+      "translation": "A liquid medicine, for example for a cough.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-6",
+      "translation": "dose",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-6:meaning",
+      "translation": "How much medicine you take at one time.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-gap-1",
+      "translation": "I have the flu and a sore throat.",
+      "answerText": "flu"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-2",
+      "translation": "Do I need a prescription for this medicine?",
+      "answerText": "prescription"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-3",
+      "translation": "Take one tablet three times a day.",
+      "answerText": "tablet"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-4",
+      "translation": "Does this medicine have side effects?",
+      "answerText": "effects"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-5",
+      "translation": "If you have questions, ask the pharmacist.",
+      "answerText": "pharmacist"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-6",
+      "translation": "I'd like some cough syrup, please.",
+      "answerText": "syrup"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-1",
+      "translation": "I need something for a headache.",
+      "answerText": "need"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-2",
+      "translation": "Do you have any allergies?",
+      "answerText": "have"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-3",
+      "translation": "Please take this medicine after meals.",
+      "answerText": "take"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-4",
+      "translation": "The pharmacist explains how to use the spray.",
+      "answerText": "explains"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-5",
+      "translation": "How much does this medicine cost?",
+      "answerText": "cost"
+    },
+    {
+      "id": "es-en-la-farmacia-order-1",
+      "translation": "Do I need a prescription for this medicine?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-2",
+      "translation": "I have a bad headache.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-3",
+      "translation": "Take two tablets in the morning.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-4",
+      "translation": "What do you recommend for a cough?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-1",
+      "translation": "medicine",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-2",
+      "translation": "pharmacy",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-3",
+      "translation": "syrup",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-4",
+      "translation": "allergy",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-5",
+      "translation": "prescription",
+      "answerText": null
+    }
+  ]
+}

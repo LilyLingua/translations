@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:31.081Z"
+  },
+  "title": "베를린",
+  "instructions": {
+    "stadt-berlin-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-berlin-gap": "알맞은 단어에 표시하세요.",
+    "stadt-berlin-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-berlin-table": "관사와 복수형을 쓰세요.",
+    "stadt-berlin-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-berlin-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "수도",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "한 나라에서 가장 중요한 도시로, 정부가 여기서 일한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "브란덴부르크 문",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "위에 마차와 말 네 마리가 있는 유명한 명소.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "장벽",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "1989년까지 베를린을 동쪽과 서쪽으로 나누었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "'슈페티'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "밤늦게까지 문을 여는 작은 가게.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "'슈리페'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "베를린에서 작은 빵을 부르는 말.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "'판쿠헨'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "베를린에서는 잼이 든 달고 둥근 도넛을 말한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "'키츠'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "베를린 사람들이 자기 동네를 부르는 말.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "우리는 브란덴부르크 문 사진을 찍는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "TV 타워는 알렉산더 광장 근처에 서 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "슈프레강이 도시를 지나 흐른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "나는 슈페티에서 음료수를 산다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "1989년까지 장벽은 도시 한가운데에 서 있었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "빵집에서 나는 슈리페를 주문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "나는 이 동네에 산 지 3년 되었다.",
+      "answerText": "이"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "1989년 11월 9일에 장벽이 무너졌다.",
+      "answerText": "무너졌다"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "정부는 베를린에서 일한다.",
+      "answerText": "일한다"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "많은 관광객들이 이스트사이드 갤러리를 방문한다.",
+      "answerText": "방문한다"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "슈페티는 밤늦게까지 문을 연다.",
+      "answerText": "연다"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "링반을 타면 도심 주위를 한 바퀴 돈다.",
+      "answerText": "돈다"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "문",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "벽",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "구역",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "다리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "박물관",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "가게",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "베를린은 독일의 수도이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "장벽은 1989년에 무너졌다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "커리부르스트 먹어 봤어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "슈페티는 밤늦게까지 문을 연다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "수도",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "정부",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "작은 빵",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "명소",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "TV 타워",
+      "answerText": null
+    }
+  ]
+}

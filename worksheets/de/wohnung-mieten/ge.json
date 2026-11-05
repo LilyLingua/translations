@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.848Z"
+  },
+  "title": "ბინის ქირაობა",
+  "instructions": {
+    "wohnung-mieten-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "wohnung-mieten-gap": "მონიშნეთ არტიკლის სწორი ფორმა.",
+    "wohnung-mieten-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "wohnung-mieten-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "wohnung-mieten-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "wohnung-mieten-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "ქირა",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "ფული, რომელსაც ყოველთვიურად ბინისთვის იხდი.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "გირაო (დეპოზიტი)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "ფული, რომელსაც მესაკუთრე თავიდან გარანტიად იღებს.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "დამატებითი ხარჯები",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "წყლის, გათბობისა და ნაგვის ხარჯები.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "ქირავნობის ხელშეკრულება",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "ხელშეკრულება დამქირავებელსა და მესაკუთრეს შორის.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "ბინის დათვალიერება",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "ქირაობამდე ბინას ათვალიერებ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "შენობის მომვლელი",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "ის შენობას უვლის და წვრილმანებს არემონტებს.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "სახლის წესები",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "ყველა მცხოვრების წესები, მაგალითად სიჩუმის საათები.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "აივნიან ბინას ვეძებთ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "მესაკუთრეს ველაპარაკები.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "გირაოს მესაკუთრე ქალს ვაძლევ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "ველოსიპედს ეზოში ვაყენებ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "გასაღები მაგიდაზე დევს.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "სამზარეულოში გათბობა გაფუჭებულია.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "ამ ბინაში ერთი წელია ვცხოვრობ.",
+      "answerText": "ამ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "როდის შემიძლია ბინის დათვალიერება?",
+      "answerText": "დათვალიერება"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "ქირა დამატებითი ხარჯებით 850 ევრო ღირს.",
+      "answerText": "ღირს"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "1 დეკემბერს გადმოვდივართ.",
+      "answerText": "გადმოვდივართ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "გათბობა გაფუჭდა. შეგიძლიათ შეაკეთოთ?",
+      "answerText": "შეაკეთოთ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "გთხოვთ, ნაგავი დაახარისხეთ.",
+      "answerText": "დაახარისხეთ"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ოთახი",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "სამზარეულო",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "აივანი",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "სააბაზანო",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "გასაღები",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "გათბობა",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "ბინა ჯერ კიდევ თავისუფალია?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "რამდენია დამატებითი ხარჯები?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "როდის შემიძლია ბინის დათვალიერება?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "ამ ბინის დაქირავება მინდა.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "გირაო",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "დამატებითი ხარჯები",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "აივანი",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "გასაღები",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "გათბობა",
+      "answerText": null
+    }
+  ]
+}

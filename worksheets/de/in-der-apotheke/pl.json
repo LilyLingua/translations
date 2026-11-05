@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.609Z"
+  },
+  "title": "W aptece",
+  "instructions": {
+    "in-der-apotheke-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "in-der-apotheke-gap": "Zaznacz pasujące słowo.",
+    "in-der-apotheke-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "in-der-apotheke-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "in-der-apotheke-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "in-der-apotheke-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "recepta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Kartka od lekarza na lek.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tabletka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Mały lek, który się połyka.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "syrop na kaszel",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Płynny lek na kaszel.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "maść",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Smaruje się nią skórę.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "skutek uboczny",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Niepożądane działanie leku.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "ulotka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Kartka w opakowaniu leku ze wszystkimi informacjami.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "dopłata",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Niewielką kwotę za receptę płacisz sam.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Mam receptę od mojej lekarki.",
+      "answerText": "receptę"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Czy ma pan / pani coś na ból gardła?",
+      "answerText": "ból gardła"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Proszę brać dwie tabletki dziennie.",
+      "answerText": "tabletki"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Maść jest na skórę.",
+      "answerText": "skórę"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Proszę przeczytać ulotkę.",
+      "answerText": "ulotkę"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Lek nie ma prawie żadnych skutków ubocznych.",
+      "answerText": "skutków ubocznych"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "W weekend jedna apteka ma dyżur.",
+      "answerText": "apteka"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Mam kaszel od wczoraj.",
+      "answerText": "Mam"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Jak często mam brać tabletki?",
+      "answerText": "brać"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Zamówimy lek na jutro.",
+      "answerText": "Zamówimy"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Proszę nakładać maść dwa razy dziennie.",
+      "answerText": "nakładać"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Proszę pić dużo wody.",
+      "answerText": "pić"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "apteka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "lek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "maść",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "opakowanie",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "kropla",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Czy ma pan / pani coś na kaszel?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Jak często mam brać tabletki?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Potrzebuję leku na ból głowy.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Czy potrzebuję na to recepty?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "apteka",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "lek",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "skutek uboczny",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "kaszel",
+      "answerText": null
+    }
+  ]
+}

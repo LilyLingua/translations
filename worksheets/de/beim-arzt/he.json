@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.590Z"
+  },
+  "title": "אצל הרופא",
+  "instructions": {
+    "beim-arzt-matching": "חברו כל מילה להסבר המתאים.",
+    "beim-arzt-gap": "סמנו את המילה המתאימה.",
+    "beim-arzt-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "beim-arzt-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "beim-arzt-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "beim-arzt-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "כרטיס ביטוח בריאות",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "את הכרטיס הזה מראים בקבלה. רשומה עליו קופת החולים שלכם.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "תור",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "שעה קבועה שבה מגיעים למרפאה.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "חדר המתנה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "כאן יושבים עד שקוראים לכם.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "מרשם",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "איתו מקבלים תרופה בבית המרקחת.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "אישור מחלה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "המעסיק שלכם מקבל את הנייר הזה כשאתם חולים.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "חום",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "חום הגוף גבוה מדי, למשל 39 מעלות.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "אלרגיה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "הגוף מגיב בחוזקה למשהו, למשל לפניצילין.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "שיחת חירום",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "המספר 112 – בתאונה או במצב חירום.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "שלום, אני רוצה לקבוע תור.",
+      "answerText": "תור"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "יש לכם כרטיס ביטוח בריאות איתכם?",
+      "answerText": "כרטיס ביטוח בריאות"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "נא לשבת בחדר ההמתנה.",
+      "answerText": "בחדר ההמתנה"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "יש לי כאב ראש וחום.",
+      "answerText": "כאב ראש"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "הבטן שלי כואבת.",
+      "answerText": "הבטן"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "אני אלרגי לפניצילין.",
+      "answerText": "לפניצילין"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "אני צריך אישור מחלה בשביל המעסיק שלי.",
+      "answerText": "אישור מחלה"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "קחו את הכדורים שלוש פעמים ביום אחרי האוכל.",
+      "answerText": "האוכל"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "אתה יכול להגיד את זה לאט יותר, בבקשה?",
+      "answerText": "להגיד"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "יש לי חום כבר שלושה ימים.",
+      "answerText": "יש"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "הראש שלי כואב מאוד.",
+      "answerText": "כואב"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "נא לשאוף עמוק – ולנשוף שוב.",
+      "answerText": "לשאוף"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "הרופאה נותנת לי מרשם.",
+      "answerText": "נותנת"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "אנחנו נקרא לכם עוד מעט.",
+      "answerText": "נקרא"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "רופא",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "כדור",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "מרשם",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "תור",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "מרפאה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "תרופה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "אני רוצה לקבוע תור.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "יש לי חום כבר שלושה ימים.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "אתה יכול לחזור על זה, בבקשה?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "איפה כואב?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "כאב ראש",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "אישור מחלה",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "כרטיס ביטוח בריאות",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "אלרגי",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "כדור",
+      "answerText": null
+    }
+  ]
+}

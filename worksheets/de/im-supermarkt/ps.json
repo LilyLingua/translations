@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.245Z"
+  },
+  "title": "په سوپر مارکېټ کې",
+  "instructions": {
+    "im-supermarkt-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "im-supermarkt-gap": "مناسبه بسته یا اندازه په نښه کړئ.",
+    "im-supermarkt-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "im-supermarkt-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "im-supermarkt-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "im-supermarkt-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "د پېرود ګاډی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "د پېرود پر مهال توکي پکې اچوئ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "د پنیرو کاونټر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "دلته د وزن له مخې تازه پنیر اخلئ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "د بوتل ضمانت پیسې (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "هغه پیسې چې د خالي بوتلونو لپاره بېرته اخلئ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "د بوتلونو بېرته سپارلو ماشین",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "دلته خالي بوتلونه سپارئ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "تخفیف",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "یو محصول د لنډ وخت لپاره ارزانه وي.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "رسید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "پدې پاڼه کې ټولې بیې لیکل شوې.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "کڅوړه",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "پدې کې پېرل شوي توکي کور ته وړئ.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "زه د مستو یوه کاسه اخلم.",
+      "answerText": "کاسه"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "د اوبو یو بل بوتل، مهرباني.",
+      "answerText": "بوتل"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "موږ د ماکاروني یوې بستې ته اړتیا لرو.",
+      "answerText": "بستې"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "د ساس لپاره د رومي بانجانو یو قطی اخلم.",
+      "answerText": "قطی"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "زه ۲۰۰ ګرامه ګاوډا غواړم، مهرباني.",
+      "answerText": "ګرامه"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "د کوچ یوه ټوټه ۲،۲۹ یورو ده.",
+      "answerText": "ټوټه"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "زه یو لیتر شیدې اخلم.",
+      "answerText": "لیتر"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "کولی شئ پنځه یورو راته ماته کړئ؟",
+      "answerText": "ماته"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "بښنه غواړم، اوړه چېرته پیدا کړم؟",
+      "answerText": "پیدا"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "زه په کارت پیسې ورکوم.",
+      "answerText": "پیسې"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "زه ۲۰۰ ګرامه ګاوډا غواړم.",
+      "answerText": "غواړم"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "د یکشنبې په ورځ نږدې ټول سوپر مارکېټونه تړلي وي.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "بوتل",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "کاسه",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "قطی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "ډوډۍ",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "مڼه",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "کېله",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "بښنه غواړم، اوړه چېرته پیدا کړم؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "زه خپله کڅوړه لرم.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "نن کېلې په تخفیف کې دي.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "د بوتلونو بېرته سپارلو ماشین چېرته دی؟",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "د پېرود ګاډی",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "رسید",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "د بوتل ضمانت پیسې",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "پنیر",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "کوچنۍ ډوډۍ",
+      "answerText": null
+    }
+  ]
+}

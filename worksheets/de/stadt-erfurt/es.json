@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:52.669Z"
+  },
+  "title": "Erfurt",
+  "instructions": {
+    "stadt-erfurt-matching": "Relaciona cada palabra con la explicación correcta.",
+    "stadt-erfurt-gap": "Marca la palabra correcta.",
+    "stadt-erfurt-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "stadt-erfurt-table": "Completa el artículo y el plural.",
+    "stadt-erfurt-order": "Ordena las palabras y escribe la frase.",
+    "stadt-erfurt-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "el Puente de los Mercaderes",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "Puente con casas encima; allí vive gente y hay tiendas pequeñas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "el Domberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "Colina con dos grandes iglesias: la catedral y la iglesia de San Severo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "la Rostbratwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "Salchicha de Turingia a la parrilla; se come en un panecillo con mostaza.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "la albóndiga de patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "Guarnición redonda de patata, muy popular en Turingia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "KiKA",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "Canal de televisión infantil con sede en Erfurt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "el monasterio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "Aquí vivió Martín Lutero como joven monje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "el «Krämer»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "Palabra antigua para un comerciante con una tienda pequeña.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "En el Puente de los Mercaderes hay muchas casas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "Subimos al Domberg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "Me como una salchicha con mostaza.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "Los domingos comemos un asado con albóndigas de patata.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "En la ciudad hay figuras de la televisión infantil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "Visitamos el monasterio agustino.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "Erfurt es la capital de Turingia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "Martín Lutero estudió en Erfurt.",
+      "answerText": "estudió"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "En el Puente de los Mercaderes todavía vive gente.",
+      "answerText": "vive"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "La parrilla huele a salchicha.",
+      "answerText": "huele"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "Las albóndigas se hacen con patatas.",
+      "answerText": "hacen"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "KiKA emite programas para niños.",
+      "answerText": "emite"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "el puente",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "la albóndiga de patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "la salchicha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "el monasterio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "el monje",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "el comerciante",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "En el Puente de los Mercaderes vive gente.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "Con la salchicha va la mostaza.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "¿Ya has comido albóndigas de Turingia?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "Martín Lutero estudió en Erfurt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "albóndiga de patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "monasterio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "salchicha a la parrilla",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "comerciante",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "mostaza",
+      "answerText": null
+    }
+  ]
+}

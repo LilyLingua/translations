@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:54.078Z"
+  },
+  "title": "Кемниц",
+  "instructions": {
+    "stadt-chemnitz-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-chemnitz-gap": "Отбележете правилната дума.",
+    "stadt-chemnitz-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-chemnitz-table": "Попълнете члена и формата за множествено число.",
+    "stadt-chemnitz-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-chemnitz-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-chemnitz-matching-1",
+      "translation": "„Нишел“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-1:meaning",
+      "translation": "Огромна глава на Карл Маркс; „Нишел“ на саксонски означава „глава“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2",
+      "translation": "Карл-Маркс-Щат",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2:meaning",
+      "translation": "Така се казваше Кемниц от 1953 до 1990 г.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3",
+      "translation": "културната столица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3:meaning",
+      "translation": "През 2025 г. Кемниц беше Европейска столица на културата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4",
+      "translation": "Вкамененият лес",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4:meaning",
+      "translation": "Дървета, които преди почти 300 милиона години са се превърнали в камък.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5",
+      "translation": "Червената кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5:meaning",
+      "translation": "Стара средновековна кула в центъра на града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6",
+      "translation": "саксонският Манчестър",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6:meaning",
+      "translation": "Стар прякор, защото по-рано тук имаше много фабрики.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7",
+      "translation": "CFC",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7:meaning",
+      "translation": "„Кемницер ФК“, футболен клуб в небесносиньо.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-1",
+      "translation": "Много туристи снимат Нишел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-2",
+      "translation": "В музея виждаме Вкаменения лес.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-3",
+      "translation": "През 2025 г. Кемниц празнува културата цяла година.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-4",
+      "translation": "Отиваме до Червената кула.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-5",
+      "translation": "По-рано много хора работеха във фабрика.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-6",
+      "translation": "Главата стои на постамент.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-7",
+      "translation": "Феновете носят небесносиня шапка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-verbs-1",
+      "translation": "Главата е висока над 7 метра.",
+      "answerText": "е"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-2",
+      "translation": "От 1953 до 1990 г. Кемниц се казваше Карл-Маркс-Щат.",
+      "answerText": "се казваше"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-3",
+      "translation": "В музея се виждат вкаменени дървета.",
+      "answerText": "виждат"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-4",
+      "translation": "През 2025 г. много посетители дойдоха в културната столица.",
+      "answerText": "дойдоха"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-5",
+      "translation": "CFC играе в небесносиньо.",
+      "answerText": "играе"
+    },
+    {
+      "id": "stadt-chemnitz-table-1",
+      "translation": "главата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-2",
+      "translation": "дървото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-3",
+      "translation": "камъкът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-4",
+      "translation": "кулата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-5",
+      "translation": "фабриката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-6",
+      "translation": "шапката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-1",
+      "translation": "Нишел се намира в центъра на града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-2",
+      "translation": "Бил ли си вече в Кемниц?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-3",
+      "translation": "Дърветата са се превърнали в камък.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-4",
+      "translation": "През 2025 г. Кемниц беше столица на културата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-1",
+      "translation": "глава",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-2",
+      "translation": "камък",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-3",
+      "translation": "кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-4",
+      "translation": "култура",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-5",
+      "translation": "гора",
+      "answerText": null
+    }
+  ]
+}

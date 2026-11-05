@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:21.375Z"
+  },
+  "title": "ერფურტი",
+  "instructions": {
+    "stadt-erfurt-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-erfurt-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-erfurt-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-erfurt-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-erfurt-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-erfurt-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "ვაჭრების ხიდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "ხიდი, რომელზეც სახლებია; იქ ხალხი ცხოვრობს და პატარა მაღაზიებია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "დომბერგი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "ბორცვი ორი დიდი ეკლესიით: ტაძარი და წმინდა სევერუსის ეკლესია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "როსტბრატვურსტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "შემწვარი ტიურინგიული სოსისი; ფუნთუშაში მდოგვით ჭამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "კარტოფილის გუნდა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "მრგვალი გარნირი კარტოფილისგან, ტიურინგიაში ძალიან უყვართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "კიკა (KiKA)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "საბავშვო ტელეარხი, რომლის ცენტრალური ოფისი ერფურტშია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "მონასტერი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "მარტინ ლუთერი აქ ახალგაზრდა ბერად ცხოვრობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "„კრემერი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "ძველი სიტყვა ვაჭრისთვის, რომელსაც პატარა მაღაზია აქვს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "ვაჭრების ხიდზე ბევრი სახლია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "დომბერგზე ავდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "მდოგვიან ბრატვურსტს ვჭამ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "კვირას შემწვარ ხორცს კარტოფილის გუნდებით ვჭამთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "ქალაქში საბავშვო ტელევიზიის პერსონაჟების ქანდაკებებია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "ავგუსტინელთა მონასტერს ვსტუმრობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "ერფურტი ტიურინგიის დედაქალაქია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "მარტინ ლუთერი ერფურტში სწავლობდა.",
+      "answerText": "სწავლობდა"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "ვაჭრების ხიდზე დღესაც ცხოვრობენ ადამიანები.",
+      "answerText": "ცხოვრობენ"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "მაყალს ბრატვურსტის სუნი ასდის.",
+      "answerText": "სუნი"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "გუნდებს კარტოფილისგან ამზადებენ.",
+      "answerText": "ამზადებენ"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "კიკა საბავშვო გადაცემებს გადასცემს.",
+      "answerText": "გადასცემს"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "ხიდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "გუნდა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "სოსისი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "მონასტერი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "ბერი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "ვაჭარი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "ვაჭრების ხიდზე ადამიანები ცხოვრობენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "ბრატვურსტს მდოგვი უხდება.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "ტიურინგიული კარტოფილის გუნდები უკვე გაგისინჯავს?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "მარტინ ლუთერი ერფურტში სწავლობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "გუნდა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "მონასტერი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "ბრატვურსტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "ვაჭარი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "მდოგვი",
+      "answerText": null
+    }
+  ]
+}

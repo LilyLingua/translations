@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:11.955Z"
+  },
+  "title": "Esenas",
+  "instructions": {
+    "stadt-essen-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "stadt-essen-gap": "Pažymėkite tinkamą žodį.",
+    "stadt-essen-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "stadt-essen-table": "Įrašykite artikelį ir daugiskaitos formą.",
+    "stadt-essen-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "stadt-essen-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "Zollverein šachta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Sena anglių kasykla; šiandien UNESCO pasaulio paveldo objektas su muziejais ir dizainu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "šachtos bokštas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Aukštas bokštas virš šachtos; juo į viršų keldavo žmones ir anglis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Kalnakasių pasisveikinimas – linkima, kad visi sveiki grįžtų į viršų.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Didelis Kruppų šeimos namas su daugybe kambarių ir parku.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldenėjaus ežeras",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Ežeras prie Rūro upės; čia galima plaukioti burlaiviu, irkluoti ir vaikščioti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Didelis parkas su gėlėmis, žaidimų aikštelėmis ir gyvūnais.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "kultūros sostinė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Titulas, kurį Esenas 2010 m. gavo už visą Rūro regioną.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Vasarą daug žmonių plaukioja burlaiviais Baldenėjaus ežere.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Kruppų šeima gyveno Villa Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Dalyvaujame ekskursijoje po Zollverein šachtą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Šachtos bokštas yra Eseno simbolis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Sekmadienį einame į Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "2010 m. Esenas buvo Europos kultūros sostinė.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen žaidžia Hafenstraße gatvėje.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Kalnakasiai sako „Glück auf!“.",
+      "answerText": "sako"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Šachtos bokštas stovi virš senos šachtos.",
+      "answerText": "stovi"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Šiandien iš žemės nebeiškeliama anglių.",
+      "answerText": "nebeiškeliama"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Daug turistų aplanko Zollverein šachtą.",
+      "answerText": "aplanko"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Rūras teka per Baldenėjaus ežerą.",
+      "answerText": "teka"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "šachta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "parkas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "vila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ežeras",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "muziejus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "salė",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Zollverein šachta yra UNESCO pasaulio paveldo dalis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Savaitgalį važiuojame prie Baldenėjaus ežero.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Ar jau buvote Grugapark?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Anksčiau daug kalnakasių dirbo po žeme.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "muziejus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "šachta",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "vila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "anglis",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "salė",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ብኣውቶቡስን ባቡርን",
+  "instructions": {
+    "bus-und-bahn-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መግለጺ ኣዛምድ።",
+    "bus-und-bahn-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበረሉ።",
+    "bus-und-bahn-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ምላእ።",
+    "bus-und-bahn-table": "ነቲ ኣርቲክል (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምላእ።",
+    "bus-und-bahn-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቀምጦም እሞ ነቲ ሓረግ ጽሓፍ።",
+    "bus-und-bahn-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበረሉ።"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ቲኬት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "ብእኡ ብኣውቶቡስ ወይ ብባቡር ክትጓዓዝ ይፍቀደልካ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "ማሽን ቲኬት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "ኣብዚ ብዘይ መሸጣ መስኮት ቲኬት ትዕድግ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "ፕላትፎርም",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "ኣብ መዕርፎ ባቡር እቲ ባቡር ዝዓርፈሉ ቦታ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "ምድንጓይ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "እቲ ባቡር ካብቲ ዝተመደበ ደንጉዩ ይመጽእ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "ባቡር ምቕያር",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "ካብ ሓደ ባቡር ናብ ካልእ ባቡር ትሰጋገር።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "መዕረፊ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "እቲ ኣውቶቡስ ዝዓርፈሉ ቦታ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "ኣብ መላእ ጀርመን ንኣውቶቡሳትን ከባቢያዊ ባቡራትን ዝኸውን ወርሓዊ ቲኬት።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "እቲ ናብ Köln ዝኸይድ ባቡር ካብ ፕላትፎርም 5 ይብገስ።",
+      "answerText": "ፕላትፎርም"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "እቲ ባቡር ናይ ዓሰርተ ደቒቕ ምድንጓይ ኣለዎ።",
+      "answerText": "ምድንጓይ"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "እቲ ዝቐረበ መዕረፊ ኣበይ እዩ?",
+      "answerText": "መዕረፊ"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "በጃኹም ናብ Berlin ሓደ ቲኬት።",
+      "answerText": "ቲኬት"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "በጃኹም ቲኬትኩም ኣርእዩ።",
+      "answerText": "ቲኬት"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "ናይ ትሕቲ መሬት ባቡር ኣብ ዓሰርተ ዓሰርተ ደቒቕ ይኸይድ።",
+      "answerText": "ናይ ትሕቲ መሬት ባቡር"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "ቲኬታት ኣብቲ ማሽን ክትዕድግ ትኽእል።",
+      "answerText": "ማሽን"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "ኣበይ እየ ክቕይር ዘለኒ?",
+      "answerText": "ክቕይር"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "እቲ ኣውቶቡስ ሰዓት 8:15 ይብገስ።",
+      "answerText": "ይብገስ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "ሰዓት 10 ናብ Hamburg ንበጽሕ።",
+      "answerText": "ንበጽሕ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "በጃኹም ኣብዚ ውረዱ።",
+      "answerText": "ውረዱ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "እቲ ጉዕዞ ክንደይ ግዜ ይወስድ?",
+      "answerText": "ይወስድ"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "ባቡር",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "መዕርፎ ባቡር",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ቲኬት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "ፕላትፎርም",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "መዕረፊ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "ኣውቶቡስ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "እቲ ዝቕጽል ናብ München ዝኸይድ ባቡር መዓስ ይብገስ?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "ኣብ Mannheim ባቡር ክቕይር ኣለኒ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "ይቕሬታ፣ እቲ ባቡር ደንጉዩ ኣሎ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "እቲ ቲኬት ንኣውቶቡስ'ውን ይሰርሕ ዶ?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ቲኬት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "ምድንጓይ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "መዕረፊ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "ፕላትፎርም",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "መዕርፎ ባቡር",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:33.676Z"
+  },
+  "title": "ব্রাউনশ্ভাইগ",
+  "instructions": {
+    "stadt-braunschweig-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-braunschweig-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-braunschweig-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-braunschweig-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-braunschweig-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-braunschweig-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-braunschweig-matching-1",
+      "translation": "দুর্গের সিংহ (\"বুর্গল্যোভে\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-1:meaning",
+      "translation": "বুর্গপ্লাৎসে ব্রোঞ্জের সিংহ; আসলটি এখন দুর্গের ভেতরে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2",
+      "translation": "হাইনরিখ দ্য লায়ন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2:meaning",
+      "translation": "বিখ্যাত ডিউক, যিনি মধ্যযুগে ব্রাউনশ্ভাইগে বাস করতেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3",
+      "translation": "আইনট্রাখট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3:meaning",
+      "translation": "শহরের ফুটবল ক্লাব, হলুদ আর নীল রঙে; খেলোয়াড়দের \"সিংহ\"-ও বলা হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4",
+      "translation": "হ্যাপি রিৎসি হাউস",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4:meaning",
+      "translation": "রঙিন বাড়ি, যার দেয়ালে মজার মুখ আর হৃদয় আঁকা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5",
+      "translation": "\"মুম্মে\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5:meaning",
+      "translation": "মিষ্টি, গাঢ় রঙের মল্টের রস – ব্রাউনশ্ভাইগের খুব পুরোনো বিশেষত্ব।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6",
+      "translation": "প্রাসাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6:meaning",
+      "translation": "প্রাসাদটি আবার নির্মাণ করা হয়েছে; আজ এর পেছনে একটি শপিং সেন্টার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7",
+      "translation": "টিল অয়লেনশ্পিগেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7:meaning",
+      "translation": "পুরোনো গল্পের মজার ভাঁড়; শহরের একটি ফোয়ারা তাকে মনে করিয়ে দেয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-1",
+      "translation": "বুর্গপ্লাৎসে একটি সিংহ দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-2",
+      "translation": "হাইনরিখ দ্য লায়ন ডাংকভার্ডেরোডে দুর্গ নির্মাণ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-3",
+      "translation": "ভক্তরা আইনট্রাখটের জন্য গান গায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-4",
+      "translation": "আমরা রঙিন বাড়িটির একটা ছবি তুলি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-5",
+      "translation": "প্রাসাদে আমরা একটি নতুন জ্যাকেট কিনি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-6",
+      "translation": "শিশুরা অয়লেনশ্পিগেল ফোয়ারার কাছে খেলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-7",
+      "translation": "মুম্মে একটি পুরোনো বিশেষত্ব।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-verbs-1",
+      "translation": "সিংহটি বুর্গপ্লাৎসে দাঁড়িয়ে আছে।",
+      "answerText": "দাঁড়িয়ে"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-2",
+      "translation": "আইনট্রাখট হলুদ আর নীল রঙে খেলে।",
+      "answerText": "খেলে"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-3",
+      "translation": "রিৎসি হাউসে উজ্জ্বল রং আর মজার মুখ আছে।",
+      "answerText": "আছে"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-4",
+      "translation": "টিল অয়লেনশ্পিগেল অনেক মজার দুষ্টুমি করে।",
+      "answerText": "করে"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-5",
+      "translation": "হাইনরিখ দ্য লায়ন মধ্যযুগে ব্রাউনশ্ভাইগে বাস করতেন।",
+      "answerText": "বাস"
+    },
+    {
+      "id": "stadt-braunschweig-table-1",
+      "translation": "সিংহ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-2",
+      "translation": "দুর্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-3",
+      "translation": "মুখ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-4",
+      "translation": "ডিউক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-5",
+      "translation": "জ্যাকেট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-6",
+      "translation": "দুষ্টুমি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-1",
+      "translation": "সিংহ ব্রাউনশ্ভাইগের প্রতীক।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-2",
+      "translation": "তুমি কি রঙিন রিৎসি হাউস চেনো?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-3",
+      "translation": "প্রাসাদের পেছনে একটি শপিং সেন্টার আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-4",
+      "translation": "টিল অয়লেনশ্পিগেল অনেক দুষ্টুমি করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-1",
+      "translation": "সিংহ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-2",
+      "translation": "দুর্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-3",
+      "translation": "ডিউক",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-4",
+      "translation": "মুখ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-5",
+      "translation": "শপিং সেন্টার",
+      "answerText": null
+    }
+  ]
+}

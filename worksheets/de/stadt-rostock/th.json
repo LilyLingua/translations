@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:01.540Z"
+  },
+  "title": "รอสต็อก",
+  "instructions": {
+    "stadt-rostock-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-rostock-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-rostock-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-rostock-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-rostock-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-rostock-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "วาร์เนอมึนเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "ย่านริมทะเลบอลติก มีชายหาด ประภาคาร และเรือใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "ทีพอท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "อาคารที่มีหลังคาโค้งเป็นเอกลักษณ์บนชายหาดวาร์เนอมึนเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "ฮันเซอเซล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "เทศกาลใหญ่ในเดือนสิงหาคม มีเรือใบเก่ามากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "เรือค็อก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "เรือเก่าของสันนิบาตฮันซา เห็นได้บนตราสัญลักษณ์ของฮันซารอสต็อก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "เอฟ.ซี. ฮันซา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "สโมสรฟุตบอลของเมือง สีน้ำเงินและขาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "นาฬิกาดาราศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "นาฬิกาอายุกว่า 550 ปีในโบสถ์เซนต์แมรี ยังเดินอยู่จนถึงทุกวันนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "ก่อตั้งปี 1419 – มหาวิทยาลัยที่เก่าแก่ที่สุดในภูมิภาคทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "พวกเราปีนขึ้นประภาคาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "เดือนสิงหาคมมีเรือมากมายมาร่วมงานฮันเซอเซล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "เรือสำราญแล่นเข้าท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "ในโบสถ์เซนต์แมรีมีนาฬิกาเก่าเรือนหนึ่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "ตราสัญลักษณ์เป็นรูปเรือค็อก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "พวกเราเดินไปตามชายหาดถึงทีพอท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "นักศึกษาหลายคนเรียนที่มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "นาฬิกาเก่ายังเดินอยู่จนถึงทุกวันนี้",
+      "answerText": "เดิน"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "ที่วาร์เนอมึนเดอ เรือสำราญขนาดใหญ่จอดแวะ",
+      "answerText": "จอด"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "ที่งานฮันเซอเซล เรือเก่ามากมายแล่นใบอยู่",
+      "answerText": "แล่นใบ"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "ประภาคารตั้งอยู่บนชายหาดวาร์เนอมึนเดอ",
+      "answerText": "ตั้ง"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "ฮันซารอสต็อกเล่นในชุดสีน้ำเงินและขาว",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "ประภาคาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "นาฬิกา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "ใบเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "โบสถ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "วาร์เนอมึนเดอตั้งอยู่ติดทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "คุณจะไปงานฮันเซอเซลด้วยกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "นาฬิกาเก่ายังเดินอยู่จนถึงทุกวันนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "ในท่าเรือมีเรือจอดอยู่มากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "ประภาคาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "โบสถ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "ใบเรือ",
+      "answerText": null
+    }
+  ]
+}

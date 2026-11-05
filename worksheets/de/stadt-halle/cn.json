@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:57.452Z"
+  },
+  "title": "哈勒",
+  "instructions": {
+    "stadt-halle-matching": "把每个词和正确的解释连起来。",
+    "stadt-halle-gap": "勾出正确的词。",
+    "stadt-halle-verbs": "用正确形式填入正确的动词。",
+    "stadt-halle-table": "填写冠词和复数形式。",
+    "stadt-halle-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-halle-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "乔治·弗里德里希·亨德尔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "著名作曲家；他1685年出生在哈勒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "哈洛伦巧克力球（Halloren-Kugeln）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "一家非常古老的巧克力工厂（始于1804年）生产的小巧克力球。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "哈洛伦人（Halloren）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "以前哈勒的制盐工人；他们的兄弟会一直保留到今天。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "盐",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "哈勒因盐而致富；盐来自城市地下的咸水泉。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "五塔之城",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "外号：在集市广场上能看到五座塔。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "萨勒河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "流经哈勒的河。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "弗兰克基金会（Franckesche Stiftungen）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "有大型木架房屋的古老学校城，建于1698年。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "我们参观亨德尔故居。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "我买一盒哈洛伦巧克力球。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "哈勒位于萨勒河畔。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "集市广场上立着五座塔。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "以前人们从地下取盐。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "我们在萨勒河上坐船。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "亨德尔写了一部著名的作品：《弥赛亚》。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "亨德尔1685年出生在哈勒。",
+      "answerText": "出生"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "萨勒河流过这座城市。",
+      "answerText": "流"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "这些巧克力球吃起来很甜。",
+      "answerText": "吃起来"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "盐使哈勒变得富有。",
+      "answerText": "使"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "在集市广场上可以看到五座塔。",
+      "answerText": "看到"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "球",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "作曲家",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "船",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "包装",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "亨德尔出生在哈勒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "你想要一颗哈洛伦巧克力球吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "萨勒河流过哈勒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "集市广场上立着五座塔。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "作曲家",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "球",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "巧克力",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "河",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "盐",
+      "answerText": null
+    }
+  ]
+}

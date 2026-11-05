@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.408Z"
+  },
+  "title": "В кафе",
+  "instructions": {
+    "uk-u-kavyarni-matching": "Соедините каждое слово с его значением.",
+    "uk-u-kavyarni-gap": "Выберите правильное слово.",
+    "uk-u-kavyarni-verbs": "Вставьте правильный глагол.",
+    "uk-u-kavyarni-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-u-kavyarni-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-u-kavyarni-matching-1",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-1:meaning",
+      "translation": "Список блюд и напитков с ценами.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2",
+      "translation": "официант",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2:meaning",
+      "translation": "Человек, который приносит еду и напитки.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3:meaning",
+      "translation": "Бумажка, где написано, сколько нужно заплатить.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4",
+      "translation": "чаевые",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4:meaning",
+      "translation": "Дополнительные деньги за хорошее обслуживание.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5",
+      "translation": "торт",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5:meaning",
+      "translation": "Сладкое блюдо, например шоколадный торт.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6",
+      "translation": "с собой",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6:meaning",
+      "translation": "Когда еду или напиток забирают и не едят в кафе.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-gap-1",
+      "translation": "Можно, пожалуйста, меню?",
+      "answerText": "меню"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-2",
+      "translation": "Мне чашку кофе, пожалуйста.",
+      "answerText": "кофе"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-3",
+      "translation": "Мы уже поели. Принесите, пожалуйста, счёт.",
+      "answerText": "счёт"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-4",
+      "translation": "Вам здесь или с собой?",
+      "answerText": "с собой"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-5",
+      "translation": "Наш официант очень приветливый.",
+      "answerText": "официант"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-6",
+      "translation": "Мы оставили чаевые на столе.",
+      "answerText": "чаевые"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-1",
+      "translation": "Я возьму чай с лимоном.",
+      "answerText": "возьму"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-2",
+      "translation": "Что вы посоветуете?",
+      "answerText": "посоветуете"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-3",
+      "translation": "Мы хотим заплатить.",
+      "answerText": "хотим"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-4",
+      "translation": "Торт очень вкусно пахнет.",
+      "answerText": "пахнет"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-5",
+      "translation": "Можно заплатить картой?",
+      "answerText": "заплатить"
+    },
+    {
+      "id": "uk-u-kavyarni-order-1",
+      "translation": "Можно стакан воды?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-2",
+      "translation": "Мне кусок торта.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-3",
+      "translation": "Сколько стоит кофе?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-4",
+      "translation": "Мы хотим заплатить.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-1",
+      "translation": "кофе",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-2",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-3",
+      "translation": "бутерброд",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-4",
+      "translation": "завтрак",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-5",
+      "translation": "вкусно",
+      "answerText": null
+    }
+  ]
+}

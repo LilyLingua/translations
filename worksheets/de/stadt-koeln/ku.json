@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:55.999Z"
+  },
+  "title": "Köln",
+  "instructions": {
+    "stadt-koeln-matching": "Her peyvê bi ravekirina rast ve girêbide.",
+    "stadt-koeln-gap": "Peyva rast nîşan bike.",
+    "stadt-koeln-verbs": "Lêkera rast bi forma rast binivîse.",
+    "stadt-koeln-table": "Artîkel û forma pirjimar binivîse.",
+    "stadt-koeln-order": "Peyvan bi rêza rast rêz bike û hevokê binivîse.",
+    "stadt-koeln-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bike."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"Kölle Alaaf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Qîrîna karnavala Kölnê – bi qasî \"Bijî Köln!\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "Dom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Dêreke mezin bi du birc, rasterast li tenişta Îstasyona Sereke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "\"Kölsch\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Bîraya vekirî ya Kölnê; di qedehên piçûk û zirav de tê vexwarin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "\"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Garson li bîrxaneyê; ew Kölscheke nû tîne, heta ku mirov qapaxê deyne ser qedehê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "\"Halve Hahn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Nanikê çavdarê bi penîr – ne nîvê mirîşkekê!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "\"Veedel\" (tax)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Bi Kölschî ji bo taxa bajêr; her Kölnî ji taxa xwe hez dike.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Duşema Gulan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Lûtkeya karnavalê bi meşeke mezin di nav bajêr de.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Ew li bîrxaneyê Kölschekê vedixwe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Köbes Kölscha din tîne.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Di Duşema Gulan de em meşa di nav bajêr de dibînin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Gelek tûrîst serdana Doma Kölnê dikin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Ez Halve Hahnekê dixwazim.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Gelek kes li ser Pira Hohenzollernê dimeşin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Di karnavalê de mirov kostûmekê li xwe dikin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Di karnavalê de mirov diqîrin \"Kölle Alaaf!\".",
+      "answerText": "diqîrin"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Köbes bêyî pirsînê Kölscheke nû tîne.",
+      "answerText": "tîne"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "Bilindahiya Domê ji 150 metreyan derbas dibe.",
+      "answerText": "derbas dibe"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Rên di nîvê Kölnê re diherike.",
+      "answerText": "diherike"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "Di 11.11. de saet 11:11ê karnaval dest pê dike.",
+      "answerText": "dest pê dike"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "katedral",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "pir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "qedeh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "meş",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "kostûm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "meyxane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "Doma Kölnê rasterast li tenişta îstasyonê ye.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Di Duşema Gulan de tevahiya Kölnê karnavalê pîroz dike.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Tu Kölscheke din dixwazî?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "Li Kölnê Kölsch di qedehên piçûk de tê vexwarin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "karnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "kostûm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "îstasyon",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "meyxane",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "qedeh",
+      "answerText": null
+    }
+  ]
+}

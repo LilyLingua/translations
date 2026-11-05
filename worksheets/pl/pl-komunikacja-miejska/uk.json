@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:58.917Z"
+  },
+  "title": "Громадський транспорт",
+  "instructions": {
+    "pl-komunikacja-miejska-matching": "З'єднай кожне слово з його значенням.",
+    "pl-komunikacja-miejska-gap": "Вибери правильне слово.",
+    "pl-komunikacja-miejska-verbs": "Встав правильне дієслово.",
+    "pl-komunikacja-miejska-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-komunikacja-miejska-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-komunikacja-miejska-matching-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-1:meaning",
+      "translation": "Папірець або застосунок, з яким можна їхати.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2:meaning",
+      "translation": "Місце, де зупиняється автобус.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3",
+      "translation": "платформа",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3:meaning",
+      "translation": "Місце на вокзалі, де сідають у потяг.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4",
+      "translation": "затримка",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4:meaning",
+      "translation": "Коли автобус чи потяг приїжджає пізніше.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5",
+      "translation": "розклад руху",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5:meaning",
+      "translation": "Список із часом відправлення автобусів і потягів.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6",
+      "translation": "пересадка",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6:meaning",
+      "translation": "Коли змінюють один автобус чи потяг на інший.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-1",
+      "translation": "Мені потрібен квиток до центру.",
+      "answerText": "квиток"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-2",
+      "translation": "Потяг відправляється з четвертої платформи.",
+      "answerText": "платформи"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-3",
+      "translation": "Будь ласка, виходьте на наступній зупинці.",
+      "answerText": "зупинці"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-4",
+      "translation": "Потяг має двадцять хвилин затримки.",
+      "answerText": "затримки"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-5",
+      "translation": "Будь ласка, перевірте розклад руху в інтернеті.",
+      "answerText": "розклад"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-6",
+      "translation": "На вокзалі у вас пересадка.",
+      "answerText": "пересадка"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-1",
+      "translation": "Автобус ходить кожні десять хвилин.",
+      "answerText": "ходить"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-2",
+      "translation": "Де я можу купити квиток?",
+      "answerText": "купити"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-3",
+      "translation": "Тут треба пересісти.",
+      "answerText": "пересісти"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-4",
+      "translation": "Потяг сьогодні запізнюється.",
+      "answerText": "запізнюється"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-5",
+      "translation": "Будь ласка, покажіть квиток.",
+      "answerText": "покажіть"
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-1",
+      "translation": "Який автобус їде до аеропорту?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-2",
+      "translation": "Потяг запізнюється на десять хвилин.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-3",
+      "translation": "Де наступна зупинка?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-4",
+      "translation": "Мій автобус поїхав.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-1",
+      "translation": "квиток",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-3",
+      "translation": "зупинка",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-4",
+      "translation": "потяг",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-5",
+      "translation": "пасажир",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:57.349Z"
+  },
+  "title": "คีล",
+  "instructions": {
+    "stadt-kiel-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-kiel-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-kiel-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-kiel-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-kiel-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-kiel-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "\"เฟิร์เดอ\" (อ่าวแคบ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "แขนของทะเลบอลติกที่ยาวและแคบ ยื่นลึกเข้ามาในแผ่นดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "สัปดาห์คีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "เทศกาลเรือใบใหญ่ในเดือนมิถุนายน มีดนตรีและเรือจากทั่วโลก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "เรือเฟอร์รี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "เรือใหญ่สำหรับคนและรถยนต์ เช่น ไปนอร์เวย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "คลองคีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "ทางน้ำที่สร้างขึ้นระหว่างทะเลเหนือกับทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "ปลาสแปรตรมควันคีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "ปลาตัวเล็กรมควัน ของขึ้นชื่อของคีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"โมยน์ โมยน์!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "คำทักทายของคนเหนือ บางคนคิดว่าพูด \"โมยน์\" สองครั้งก็มากเกินไปแล้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "แล่นเรือใบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "เดินทางด้วยเรือที่แล่นด้วยแรงลม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "คีลตั้งอยู่ริมทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "เดือนมิถุนายนพวกเราฉลองสัปดาห์คีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "พวกเรานั่งเรือเฟอร์รีไปออสโล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "เรือแล่นผ่านคลองคีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "สุดสัปดาห์พวกเราแล่นเรือใบในอ่าว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "ฉันซื้อปลาสแปรตรมควันคีลหนึ่งถุง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "พวกเราพาสุนัขไปเดินเล่นที่ชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "เรือเฟอร์รีแล่นไปนอร์เวย์ทุกวัน",
+      "answerText": "แล่น"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "ในสัปดาห์คีล เรือจากทั่วโลกออกแล่น",
+      "answerText": "ออกแล่น"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "เรือมากมายใช้คลองคีล",
+      "answerText": "ใช้"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "ทางเหนือผู้คนพูดว่า \"โมยน์\"",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "ที่ชายหาดมักมีลมแรงพัด",
+      "answerText": "พัด"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "เรือเฟอร์รี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "ปลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "ชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "ใบเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "คลอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "คีลตั้งอยู่ริมทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "เดือนมิถุนายนเมืองฉลองสัปดาห์คีล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "คุณจะนั่งเรือเฟอร์รีไปนอร์เวย์ไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "สุดสัปดาห์พวกเราแล่นเรือใบในอ่าว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "เรือเฟอร์รี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "ใบเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "ชายหาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "ทะเลบอลติก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "คลอง",
+      "answerText": null
+    }
+  ]
+}

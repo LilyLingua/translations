@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:58.244Z"
+  },
+  "title": "Berlin",
+  "instructions": {
+    "stadt-berlin-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-berlin-gap": "Coche le bon mot.",
+    "stadt-berlin-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-berlin-table": "Complète l'article et le pluriel.",
+    "stadt-berlin-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-berlin-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "la capitale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "La ville la plus importante d'un pays ; le gouvernement y travaille.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "la porte de Brandebourg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "Monument célèbre avec un char et quatre chevaux en haut.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "le Mur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "Il a divisé Berlin en Est et Ouest jusqu'en 1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "le « Späti »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "Petite boutique ouverte jusque tard dans la nuit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "la « Schrippe »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "C'est ainsi qu'on appelle un petit pain à Berlin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "le « Pfannkuchen »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "À Berlin : une pâtisserie ronde et sucrée, fourrée à la confiture.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "le « Kiez »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "C'est ainsi que les Berlinois appellent leur quartier.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "Nous prenons une photo de la porte de Brandebourg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "La tour de télévision se trouve près de l'Alexanderplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "La Spree traverse la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "J'achète une boisson au Späti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "Jusqu'en 1989, le Mur se dressait au milieu de la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "À la boulangerie, je commande une Schrippe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "J'habite dans ce quartier depuis trois ans.",
+      "answerText": "ce"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "Le 9 novembre 1989, le Mur est tombé.",
+      "answerText": "est"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "Le gouvernement travaille à Berlin.",
+      "answerText": "travaille"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "Beaucoup de touristes visitent l'East Side Gallery.",
+      "answerText": "visitent"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "Le Späti est ouvert jusque tard dans la nuit.",
+      "answerText": "est"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "Avec la Ringbahn, on roule en cercle autour du centre-ville.",
+      "answerText": "roule"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "la porte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "le mur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "le quartier",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "le pont",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "le musée",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "la boutique",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "Berlin est la capitale de l'Allemagne.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "Le Mur est tombé en 1989.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "Tu as déjà mangé une currywurst ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "Le Späti est ouvert jusque tard dans la nuit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "la capitale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "le gouvernement",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "le petit pain",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "le monument",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "la tour de télévision",
+      "answerText": null
+    }
+  ]
+}

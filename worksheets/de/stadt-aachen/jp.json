@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:02.637Z"
+  },
+  "title": "アーヘン",
+  "instructions": {
+    "stadt-aachen-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-aachen-gap": "正しい単語に印をつけましょう。",
+    "stadt-aachen-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-aachen-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-aachen-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-aachen-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-aachen-matching-1",
+      "translation": "アーヘン大聖堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-1:meaning",
+      "translation": "カール大帝の教会。ドイツで最初の世界遺産。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2",
+      "translation": "「プリンテン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2:meaning",
+      "translation": "アーヘンのスパイスのきいたレープクーヘン（焼き菓子）。特に冬に人気。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3",
+      "translation": "「エッヒャー」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3:meaning",
+      "translation": "アーヘンの人が自分たちの方言（エッヒャー・プラット）で名乗る呼び名。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4",
+      "translation": "三国国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4:meaning",
+      "translation": "ドイツ、ベルギー、オランダが出会う場所。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5",
+      "translation": "温泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5:meaning",
+      "translation": "地中から湧く熱いお湯。そのためアーヘンは温泉保養地でもある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6",
+      "translation": "CHIO",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6:meaning",
+      "translation": "世界中から馬が集まる大きな馬術大会。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7",
+      "translation": "カール大帝賞",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7:meaning",
+      "translation": "ヨーロッパのために大きな貢献をした人に贈られる賞。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-1",
+      "translation": "カール大帝が大聖堂を建てました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-2",
+      "translation": "冬に私たちはプリンテを食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-3",
+      "translation": "私たちは三国国境までハイキングします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-4",
+      "translation": "泉の水はとても熱いです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-5",
+      "translation": "CHIOでは馬が障害物を跳び越えます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-6",
+      "translation": "ほぼ毎年、だれかがカール大帝賞を受け取ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-7",
+      "translation": "多くの学生がアーヘン工科大学（RWTH）で学んでいます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-verbs-1",
+      "translation": "アーヘンはベルギーとオランダに接しています。",
+      "answerText": "接して"
+    },
+    {
+      "id": "stadt-aachen-verbs-2",
+      "translation": "熱いお湯は地中から出てきます。",
+      "answerText": "出て"
+    },
+    {
+      "id": "stadt-aachen-verbs-3",
+      "translation": "馬たちは高い障害物を跳び越えます。",
+      "answerText": "跳び越え"
+    },
+    {
+      "id": "stadt-aachen-verbs-4",
+      "translation": "多くのアーヘンの人がエッヒャー・プラットを話します。",
+      "answerText": "話し"
+    },
+    {
+      "id": "stadt-aachen-verbs-5",
+      "translation": "カール大帝は大聖堂に葬られています。",
+      "answerText": "葬られて"
+    },
+    {
+      "id": "stadt-aachen-table-1",
+      "translation": "泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-2",
+      "translation": "馬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-3",
+      "translation": "国",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-4",
+      "translation": "賞",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-5",
+      "translation": "国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-6",
+      "translation": "皇帝",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-1",
+      "translation": "アーヘン大聖堂は1200年以上の歴史があります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-2",
+      "translation": "プリンテンを食べてみたことがありますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-3",
+      "translation": "アーヘンはベルギーとの国境にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-4",
+      "translation": "泉の水はとても熱いです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-1",
+      "translation": "泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-2",
+      "translation": "国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-3",
+      "translation": "馬",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-4",
+      "translation": "皇帝",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-5",
+      "translation": "ベルギー",
+      "answerText": null
+    }
+  ]
+}

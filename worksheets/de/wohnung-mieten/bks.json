@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:34.110Z"
+  },
+  "title": "Iznajmiti stan",
+  "instructions": {
+    "wohnung-mieten-matching": "Spojite svaku riječ s odgovarajućim objašnjenjem.",
+    "wohnung-mieten-gap": "Označite tačan oblik člana.",
+    "wohnung-mieten-verbs": "Upišite pravi glagol u pravom obliku.",
+    "wohnung-mieten-table": "Dopunite član i oblik množine.",
+    "wohnung-mieten-order": "Poredajte riječi pravilnim redom i napišite rečenicu.",
+    "wohnung-mieten-spelling": "Koja riječ je pravilno napisana? Označite."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "kirija (najamnina)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Novac koji svaki mjesec plaćate za stan.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "depozit (kaucija)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Novac koji stanodavac na početku dobija kao garanciju.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "režije",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Troškovi za vodu, grijanje i smeće.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "ugovor o najmu",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Ugovor između stanara i stanodavca.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "razgledanje",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Pogledate stan prije nego što ga iznajmite.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "domar (kućepazitelj)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "On se brine o kući i popravlja sitnice.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "kućni red",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Pravila za sve stanare, na primjer vrijeme mira.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Tražimo stan s balkonom.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Razgovaram sa stanodavcem.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Stanodavki dajem depozit.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Bicikl stavljam u dvorište.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Ključ je na stolu.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Grijanje u kuhinji je pokvareno.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Već godinu dana živim u ovom stanu.",
+      "answerText": "ovom"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kada mogu pogledati stan?",
+      "answerText": "pogledati"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Kirija iznosi 850 eura s režijama.",
+      "answerText": "iznosi"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Useljavamo se 1. decembra.",
+      "answerText": "Useljavamo"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Grijanje je pokvareno. Možete li ga, molim vas, popraviti?",
+      "answerText": "popraviti"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Molim vas, razdvajajte smeće.",
+      "answerText": "razdvajajte"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "soba",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "kuhinja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "kupatilo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "ključ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "grijanje",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Je li stan još slobodan?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Koliko iznose režije?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kada mogu pogledati stan?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Rado bih iznajmio stan.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "depozit",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "režije",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balkon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "ključ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "grijanje",
+      "answerText": null
+    }
+  ]
+}

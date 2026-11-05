@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "2431c148-7698-49fc-bc49-cd8e59d42051",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Duisburg",
+  "topic": "NRW: Binnenhafen, Stahl, Landschaftspark, Zebras",
+  "tasks": [
+    {
+      "id": "stadt-duisburg-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-duisburg-matching-1",
+          "term": "der Binnenhafen",
+          "meaning": "Hafen an einem Fluss, nicht am Meer; der Duisburger ist der größte in Europa."
+        },
+        {
+          "id": "stadt-duisburg-matching-2",
+          "term": "das Stahlwerk",
+          "meaning": "Fabrik, in der man aus Eisen Stahl macht."
+        },
+        {
+          "id": "stadt-duisburg-matching-3",
+          "term": "der Hochofen",
+          "meaning": "Sehr hoher Ofen; darin schmilzt man Eisen aus dem Erz."
+        },
+        {
+          "id": "stadt-duisburg-matching-4",
+          "term": "der Landschaftspark",
+          "meaning": "Altes Hüttenwerk; heute ein Park, der abends bunt leuchtet."
+        },
+        {
+          "id": "stadt-duisburg-matching-5",
+          "term": "Tiger & Turtle",
+          "meaning": "Kunstwerk auf einem Hügel, das aussieht wie eine Achterbahn; man kann darauf laufen."
+        },
+        {
+          "id": "stadt-duisburg-matching-6",
+          "term": "die Zebras",
+          "meaning": "Spitzname für die Spieler vom MSV Duisburg – wegen der blau-weißen Streifen."
+        },
+        {
+          "id": "stadt-duisburg-matching-7",
+          "term": "Schimanski",
+          "meaning": "Bekannter Fernseh-Kommissar aus dem „Tatort“, der in Duisburg ermittelte."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-duisburg-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-duisburg-gap-1",
+          "promptBefore": "Viele Schiffe fahren in",
+          "promptAfter": "Hafen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-2",
+          "promptBefore": "Abends leuchtet",
+          "promptAfter": "Landschaftspark Nord in vielen Farben.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-3",
+          "promptBefore": "Mein Vater arbeitet in",
+          "promptAfter": "Stahlwerk.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-4",
+          "promptBefore": "Wir laufen auf",
+          "promptAfter": "Skulptur Tiger & Turtle.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-5",
+          "promptBefore": "Am Samstag spielen",
+          "promptAfter": "Zebras im Stadion.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-6",
+          "promptBefore": "In Duisburg fließt die Ruhr in",
+          "promptAfter": "Rhein.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-duisburg-gap-7",
+          "promptBefore": "Im Landschaftspark klettern Leute an",
+          "promptAfter": "alten Mauern.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "die",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-duisburg-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-duisburg-verbs-1",
+          "promptBefore": "Der Hafen",
+          "promptAfter": "der größte Binnenhafen Europas.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-duisburg-verbs-2",
+          "promptBefore": "Im Stahlwerk",
+          "promptAfter": "man Stahl aus Eisen.",
+          "correctAnswer": "macht",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "machen"
+        },
+        {
+          "id": "stadt-duisburg-verbs-3",
+          "promptBefore": "Die Ruhr",
+          "promptAfter": "in Duisburg in den Rhein.",
+          "correctAnswer": "mündet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "münden"
+        },
+        {
+          "id": "stadt-duisburg-verbs-4",
+          "promptBefore": "Schimanski",
+          "promptAfter": "im Fernsehen in Duisburg.",
+          "correctAnswer": "ermittelte",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ermitteln"
+        },
+        {
+          "id": "stadt-duisburg-verbs-5",
+          "promptBefore": "Man",
+          "promptAfter": "auf Tiger & Turtle zu Fuß.",
+          "correctAnswer": "läuft",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "laufen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-duisburg-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-duisburg-table-1",
+          "article": "das",
+          "singular": "Schiff",
+          "plural": "Schiffe"
+        },
+        {
+          "id": "stadt-duisburg-table-2",
+          "article": "der",
+          "singular": "Hafen",
+          "plural": "Häfen"
+        },
+        {
+          "id": "stadt-duisburg-table-3",
+          "article": "der",
+          "singular": "Ofen",
+          "plural": "Öfen"
+        },
+        {
+          "id": "stadt-duisburg-table-4",
+          "article": "das",
+          "singular": "Werk",
+          "plural": "Werke"
+        },
+        {
+          "id": "stadt-duisburg-table-5",
+          "article": "der",
+          "singular": "Container",
+          "plural": "Container"
+        },
+        {
+          "id": "stadt-duisburg-table-6",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-duisburg-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-duisburg-order-1",
+          "chunks": [
+            "Duisburg",
+            "liegt",
+            "am Rhein und an der Ruhr"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-duisburg-order-2",
+          "chunks": [
+            "Abends",
+            "leuchtet",
+            "der Landschaftspark",
+            "bunt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-duisburg-order-3",
+          "chunks": [
+            "Fahren",
+            "wir",
+            "mit dem Schiff",
+            "durch den Hafen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-duisburg-order-4",
+          "chunks": [
+            "Im Hafen",
+            "kommen",
+            "jeden Tag",
+            "viele Container",
+            "an"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-duisburg-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-duisburg-spelling-1",
+          "correct": "Container",
+          "wrong": "Kontainer"
+        },
+        {
+          "id": "stadt-duisburg-spelling-2",
+          "correct": "Ofen",
+          "wrong": "Ofenn"
+        },
+        {
+          "id": "stadt-duisburg-spelling-3",
+          "correct": "Stahl",
+          "wrong": "Stal"
+        },
+        {
+          "id": "stadt-duisburg-spelling-4",
+          "correct": "Rhein",
+          "wrong": "Rein"
+        },
+        {
+          "id": "stadt-duisburg-spelling-5",
+          "correct": "Brücke",
+          "wrong": "Brüke"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:18.930Z"
+  },
+  "title": "Штутгарт",
+  "instructions": {
+    "stadt-stuttgart-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-stuttgart-gap": "Означи тачну реч.",
+    "stadt-stuttgart-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-stuttgart-table": "Упиши члан и облик множине.",
+    "stadt-stuttgart-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-stuttgart-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-stuttgart-matching-1",
+      "translation": "„Kessel“ (котао)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-1:meaning",
+      "translation": "Штутгарт лежи у долини, окружен брдима.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2",
+      "translation": "„Kehrwoche“ (Кервохе)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-2:meaning",
+      "translation": "Те недеље чистиш степенице у згради и тротоар испред ње.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3",
+      "translation": "шпецле",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-3:meaning",
+      "translation": "Швапска тестенина, често са сиром као кезешпецле.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4",
+      "translation": "мауташе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-4:meaning",
+      "translation": "Велики пуњени јастучић од теста са месом и спанаћем.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5",
+      "translation": "„Stäffele“ (Штефеле)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-5:meaning",
+      "translation": "Тако Штутгарћани зову многе степенице на падинама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6",
+      "translation": "„Wasen“ (Вазен)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-6:meaning",
+      "translation": "Велики простор у Бад Канштату; тамо се на јесен одржава народна светковина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7",
+      "translation": "„Ade!“ (Аде)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-matching-7:meaning",
+      "translation": "Швапски за „Ћао!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-1",
+      "translation": "Штутгарт лежи у долини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-2",
+      "translation": "Ове недеље ја имам Кервохе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-3",
+      "translation": "Радо једем кезешпецле са салатом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-4",
+      "translation": "ТВ торањ стоји на брду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-5",
+      "translation": "На јесен идемо на Вазен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-6",
+      "translation": "Много људи ради у аутомобилској индустрији.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-gap-7",
+      "translation": "У музеју видим стари мерцедес.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-verbs-1",
+      "translation": "У Штутгарту се производе аутомобили Мерцедес-Бенц и Порше.",
+      "answerText": "производе"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-2",
+      "translation": "Током Кервохе чистим степенице.",
+      "answerText": "чистим"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-3",
+      "translation": "Усред града на падинама расте винова лоза.",
+      "answerText": "расте"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-4",
+      "translation": "Од 1956. ТВ торањ стоји изнад града.",
+      "answerText": "стоји"
+    },
+    {
+      "id": "stadt-stuttgart-verbs-5",
+      "translation": "Шваби кажу „Аде“ на растанку.",
+      "answerText": "кажу"
+    },
+    {
+      "id": "stadt-stuttgart-table-1",
+      "translation": "долина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-2",
+      "translation": "брдо",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-3",
+      "translation": "степениште",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-4",
+      "translation": "тестенина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-5",
+      "translation": "аутомобил",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-table-6",
+      "translation": "виноград",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-1",
+      "translation": "Штутгарт лежи у котлу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-2",
+      "translation": "Ове недеље ја имам Кервохе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-3",
+      "translation": "Да ли волиш да једеш мауташен?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-order-4",
+      "translation": "Од 1956. ТВ торањ стоји изнад града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-1",
+      "translation": "степенице",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-2",
+      "translation": "тестенина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-3",
+      "translation": "народна светковина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-4",
+      "translation": "вино",
+      "answerText": null
+    },
+    {
+      "id": "stadt-stuttgart-spelling-5",
+      "translation": "брдо",
+      "answerText": null
+    }
+  ]
+}

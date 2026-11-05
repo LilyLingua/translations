@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:30.042Z"
+  },
+  "title": "라이프치히",
+  "instructions": {
+    "stadt-leipzig-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-leipzig-gap": "알맞은 단어에 표시하세요.",
+    "stadt-leipzig-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-leipzig-table": "관사와 복수형을 쓰세요.",
+    "stadt-leipzig-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-leipzig-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "'라이프치히 종달새'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "마지팬이 든 작은 케이크로, 옛날에는 진짜 새를 먹었다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "'라이프치히 알러라이'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "완두콩과 당근 같은 여러 가지 채소로 만든 요리.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "월요 시위",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "1989년 가을, 매주 월요일 수천 명이 자유를 위해 거리로 나왔다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "큰 전시회로, 라이프치히는 세계에서 가장 오래된 박람회 도시 중 하나이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "토마스 합창단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "유명한 소년 합창단으로, 요한 제바스티안 바흐가 여기서 칸토르였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "아우어바흐스 켈러",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "도시 지하에 있는 오래된 식당으로, 괴테가 『파우스트』에서 묘사했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "'하이프치히'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "많은 젊은이들이 라이프치히로 이사 와서 생긴 별명.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "바흐는 토마스 교회의 칸토르였다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "1989년에 많은 사람들이 링 도로에서 시위했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "우리는 라이프치히 전투 기념비를 방문한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "커피와 함께 나는 라이프치히 종달새를 먹는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "여름에 많은 사람들이 코스푸덴 호수에서 수영한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "도서 박람회는 봄에 열린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "동물원은 중앙역 근처에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "토마스 합창단은 토마스 교회에서 노래한다.",
+      "answerText": "노래한다"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "1989년 가을, 사람들은 매주 월요일 거리로 나갔다.",
+      "answerText": "나갔다"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "많은 젊은이들이 라이프치히로 이사한다.",
+      "answerText": "이사한다"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "도서 박람회는 매년 3월에 열린다.",
+      "answerText": "열린다"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "중앙역은 유럽에서 가장 큰 역 중 하나이다.",
+      "answerText": "이다"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "합창단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "기념비",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "역",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "교회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "책",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "바흐는 여러 해 동안 라이프치히에서 일했다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "3월에는 많은 방문객이 도서 박람회에 온다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "라이프치히 전투 기념비 알아?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "라이프치히 종달새는 마지팬이 든 과자이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "기념비",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "박람회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "합창단",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "역",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "마지팬",
+      "answerText": null
+    }
+  ]
+}

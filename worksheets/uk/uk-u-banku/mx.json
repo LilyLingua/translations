@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:50.992Z"
+  },
+  "title": "En el banco",
+  "instructions": {
+    "uk-u-banku-matching": "Relacione cada palabra con su significado.",
+    "uk-u-banku-gap": "Elija la palabra correcta.",
+    "uk-u-banku-verbs": "Escriba el verbo correcto.",
+    "uk-u-banku-order": "Ordene las palabras y escriba la oración.",
+    "uk-u-banku-spelling": "¿Qué palabra está bien escrita? Márquela."
+  },
+  "items": [
+    {
+      "id": "uk-u-banku-matching-1",
+      "translation": "la cuenta",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-1:meaning",
+      "translation": "El lugar en el banco donde se guarda su dinero.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2",
+      "translation": "la tarjeta bancaria",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2:meaning",
+      "translation": "Una tarjeta para pagar con el dinero de la cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3",
+      "translation": "el NIP",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3:meaning",
+      "translation": "Un número secreto para la tarjeta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4",
+      "translation": "el cajero automático",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4:meaning",
+      "translation": "Una máquina donde se puede sacar efectivo.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5",
+      "translation": "la transferencia",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5:meaning",
+      "translation": "Cuando se manda dinero de una cuenta a otra.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6",
+      "translation": "el saldo",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6:meaning",
+      "translation": "Cuánto dinero hay en la cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-gap-1",
+      "translation": "Quiero abrir una cuenta.",
+      "answerText": "cuenta"
+    },
+    {
+      "id": "uk-u-banku-gap-2",
+      "translation": "Por favor, ingrese su NIP.",
+      "answerText": "NIP"
+    },
+    {
+      "id": "uk-u-banku-gap-3",
+      "translation": "¿Dónde está el cajero más cercano?",
+      "answerText": "cajero"
+    },
+    {
+      "id": "uk-u-banku-gap-4",
+      "translation": "Quiero hacer una transferencia a mi arrendador.",
+      "answerText": "transferencia"
+    },
+    {
+      "id": "uk-u-banku-gap-5",
+      "translation": "¿Cómo consulto el saldo de la tarjeta?",
+      "answerText": "saldo"
+    },
+    {
+      "id": "uk-u-banku-gap-6",
+      "translation": "Mi tarjeta bancaria no funciona.",
+      "answerText": "tarjeta"
+    },
+    {
+      "id": "uk-u-banku-verbs-1",
+      "translation": "Quiero abrir una cuenta.",
+      "answerText": "Quiero"
+    },
+    {
+      "id": "uk-u-banku-verbs-2",
+      "translation": "¿Puedo sacar efectivo aquí?",
+      "answerText": "sacar"
+    },
+    {
+      "id": "uk-u-banku-verbs-3",
+      "translation": "Por favor, firme este documento.",
+      "answerText": "firme"
+    },
+    {
+      "id": "uk-u-banku-verbs-4",
+      "translation": "La tarjeta llegará en cinco días.",
+      "answerText": "llegará"
+    },
+    {
+      "id": "uk-u-banku-verbs-5",
+      "translation": "Olvidamos el NIP.",
+      "answerText": "Olvidamos"
+    },
+    {
+      "id": "uk-u-banku-order-1",
+      "translation": "Quiero abrir una cuenta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-2",
+      "translation": "¿Dónde puedo sacar dinero?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-3",
+      "translation": "Bloquearon mi tarjeta.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-4",
+      "translation": "¿Cuánto cuesta el manejo de cuenta?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-1",
+      "translation": "cuenta",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-2",
+      "translation": "cajero automático",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-3",
+      "translation": "dinero",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-4",
+      "translation": "transferencia",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-5",
+      "translation": "firma",
+      "answerText": null
+    }
+  ]
+}

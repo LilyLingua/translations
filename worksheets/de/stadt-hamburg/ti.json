@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:19.386Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ሃምቡርግ",
+  "instructions": {
+    "stadt-hamburg-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መብርሂ ኣዛምዱ።",
+    "stadt-hamburg-gap": "ነቲ ቅኑዕ ቃል ምልክት ግበሩሉ።",
+    "stadt-hamburg-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ኣእትዉ።",
+    "stadt-hamburg-table": "ዓንቀጽን ናይ ብዙሕ ቁጽሪ ቅርጽን ኣእትዉ።",
+    "stadt-hamburg-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጡ እሞ ነቲ ሓረግ ጽሓፉ።",
+    "stadt-hamburg-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "„Moin!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "ናይ ሰሜን ጀርመን ሰላምታ – ንግሆ ጥራይ ዘይኮነስ ምሉእ መዓልቲ ይበሃል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "ኮንተይነራት ዝጸዓና ዓበይቲ መራኽብ ኣብዚ ይኣትዋ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "ኣብ ወደብ ዘሎ ኣዳራሽ ኮንሰርት፤ ሰባት ሃምቡርግ „Elphi“ ይብልዎ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "„Michel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "ሰባት ሃምቡርግ ንኣዝያ ፍልጥቲ ቤተ ክርስትያኖም፣ ቅዱስ ሚካኤል፣ ከምዚ ይብልዋ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "ብቀረፋ ዝተሰርሐ ጥዑም ባኒ፣ ናይ ሃምቡርግ ፍሉይ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "ዕዳጋ ዓሳ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "ብሰንበት ኣዝዩ ኣንጊሁ ኣብ ገምገም ሩባ Elbe ዝካየድ ዕዳጋ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "„Schietwetter“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "ብሰሜን ጀርመን ዘረባ ዝናብን ንፋስን ዘለዎ ሕማቕ ኩነታት ኣየር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "እተን መራኽብ ኣብ ሩባ Elbe ይጓዓዛ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "ብሰንበት ኣንጊህና ናብ ዕዳጋ ዓሳ ንኸይድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "ሳንድዊች ዓሳ እበልዕ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "እቲ ኮንሰርት ኣብ Elbphilharmonie እዩ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "ብመርከብ ኣብ ወደብ ንዛወር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "ኣብ ሓጋይ ብዙሓት ሰባት ኣብ ጥቓ Alster ይቕመጡ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "ካብ ላዕሊ ንብምሉኡ ወደብ ክትርእይዎ ትኽእሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "ኣብ ሃምቡርግ ሰባት ምሉእ መዓልቲ „Moin“ ይብሉ።",
+      "answerText": "ይብሉ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "ዓበይቲ መራኽብ ኮንተይነር ናብ ወደብ ይኣትዋ።",
+      "answerText": "ይኣትዋ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "ዕዳጋ ዓሳ ብሰንበት ኣዝዩ ኣንጊሁ ይጅምር።",
+      "answerText": "ይጅምር"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "ደጊሙ ዝናብ ይዘንብ ኣሎ – ልሙድ Schietwetter!",
+      "answerText": "ይዘንብ"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "ሃምቡርግ ባዕላ ፌደራላዊ ክፍለ ሃገር እያ።",
+      "answerText": "እያ"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "ድልድል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "ካናል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "ኮንሰርት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "ቤተ ክርስትያን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "ሃምቡርግ ኣብ ገምገም ሩባ Elbe ትርከብ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "ብሰንበት ኣንጊህና ናብ ዕዳጋ ዓሳ ንኸይድ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "ናብ Elbphilharmonie ከይድኩም ትፈልጡዶ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "ኣብ ሃምቡርግ ሰባት ምሉእ መዓልቲ „Moin“ ይብሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "ወደብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "መርከብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "ኮንሰርት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "ዝናብ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "ድልድል",
+      "answerText": null
+    }
+  ]
+}

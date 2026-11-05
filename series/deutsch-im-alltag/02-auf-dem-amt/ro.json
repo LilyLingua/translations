@@ -1,0 +1,827 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Aș vrea să mă înregistrez."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Iau un număr."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – ghișeul 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Aș vrea să înregistrez noul meu apartament."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Aici este confirmarea de la proprietarul meu."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Aici este pașaportul meu."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Îl spun pe litere: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Sunt necăsătorit."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Unde trebuie să semnez?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Mai am nevoie de ceva?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "M-am mutat! Apartament nou, oraș nou …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Super! Și – te-ai înregistrat deja?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Înregistrat? Unde? La sală?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Nu, Leo. La primărie! Azi vei trece printr-un întreg program la „Bürgeramt” – de la intrare până la certificatul de înregistrare."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Și în fiecare situație te întrebăm: Ce spui?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Și ai doar cinci secunde!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Ajungi la primărie. La ghișeul de informații stă un bărbat."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Bună dimineața. Care este problema ta?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Ce spui?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Bună dimineața. Aș vrea să mă înregistrez."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Eu sunt o problemă."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Vreau o primărie."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen” înseamnă: De ce ești aici? Ce ai nevoie?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Vei auzi cuvântul acesta des la birouri."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Bună dimineața. Aș vrea să mă înregistrez."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Ai o programare?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Da, la ora nouă."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Aș vrea să mă înregistrez."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Am o programare la ora nouă."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Bine. Atunci, te rog, ia un număr și așteaptă acolo."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Ce faci acum?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Te muți."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Tragi de păr."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Iei un bilet cu număr de la automat."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Deci, A! Mă mut. Tocmai m-am mutat, de fapt …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Nu, Leo. C! „Eine Nummer ziehen” înseamnă: iei un bilet cu numărul tău de așteptare."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen” e altceva – adică să te muți într-un apartament nou."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Iau un număr."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Aștepți. Deodată auzi un anunț. Ascultă cu atenție!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Numărul 147 la ghișeul 12, vă rog."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Numărul tău este 147. Unde mergi?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: La ghișeul 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: La ghișeul 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: La camera 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Mai întâi vine numărul tău, apoi ghișeul."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "În multe birouri vezi asta și pe un ecran."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – ghișeul 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Mergi la ghișeul 12. Acolo stă o femeie."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Bună dimineața. Ia loc, te rog. Cu ce te pot ajuta?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Ce spui?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Aș vrea să vă înregistrez pe dumneavoastră."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Aș vrea să înregistrez noul meu apartament."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Acum locuiesc aici. Pa!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B!"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Îți înregistrezi apartamentul – sau pe tine: „Ich möchte mich anmelden.” Dar nu „Sie” – doamna Krüger e deja înregistrată."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Aș vrea să înregistrez noul meu apartament."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Cu plăcere. Când te-ai mutat?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Pe întâi octombrie."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Aș vrea să înregistrez noul meu apartament."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "M-am mutat pe întâi octombrie."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Ai la tine confirmarea de la proprietar?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Oh, un cuvânt lung! Ce spui?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Nu, eu nu dau niciun apartament."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Da, vă dau apartamentul meu."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Da, aici este confirmarea de la proprietarul meu."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung” e un formular de la proprietar. Pe el scrie: chiar locuiești în acest apartament."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Fără această hârtie, de obicei nu poți să te înregistrezi."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Da, aici este confirmarea de la proprietarul meu."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Aici este confirmarea de la proprietarul meu."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Și buletinul sau pașaportul, te rog."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Ce spui?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Aici este pașaportul meu."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Aici sunt pașaportul meu."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Eu sunt pașaport."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Un pașaport – deci „este”, nu „sunt”."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Pașaportul sau buletinul îți trebuie aproape mereu la birou."
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "Și dacă l-ai uitat, spune sincer: „Scuze, din păcate l-am uitat.”"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Aici este pașaportul meu."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Aici este pașaportul meu."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Scuze, din păcate l-am uitat."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Cum se scrie numele tău de familie?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Te cheamă Nowak. Ce spui?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Cu un pix."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Îl spun pe litere: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Se scrie foarte frumos."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?” înseamnă: Ce litere? Atunci îl spui pe litere – literă cu literă."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Exersează-ți numele în germană, vei avea nevoie peste tot!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Mulțumesc."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Îl spun pe litere: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Ești căsătorit?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Nu ești căsătorit. Ce spui?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Nu, sunt necăsătorit."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Nu, sunt din păcate."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Nu, eu sunt căsătorește."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig” înseamnă: nu ești căsătorit."
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "Atenție: „leider” sună asemănător, dar înseamnă altceva – „leider” e: din păcate."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Nu, sunt necăsătorit."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Sunt necăsătorit."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Sunt căsătorit."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Te rog să verifici datele. Dacă totul e corect, semnează aici."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Ce spui?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Scriu sub masă."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Nu-mi place să semnez."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Totul e corect. Unde exact trebuie să semnez?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben” înseamnă: să-ți scrii numele de mână – semnătura ta."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Și bine de știut: citește mereu ce scrie pe formular."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Totul e corect. Unde exact trebuie să semnez?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Aici jos, te rog."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Unde trebuie să semnez?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Gata, asta a fost. Aici este certificatul tău de înregistrare."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Ai terminat! Ce spui?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Mulțumesc, te anunț."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Mulțumesc mult! Mai am nevoie de ceva?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Nu-mi lipsește nimic!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Și atenție la A: „Ich melde mich” nu înseamnă „mă înregistrez”, ci: te sun mai târziu."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Și C poate îl știi – merge doar la doctor!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Mulțumesc mult! Mai am nevoie de ceva?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Nu, asta a fost tot. Păstrează bine certificatul."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Repetă după mine!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Mai am nevoie de ceva?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Trei sfaturi pentru înregistrare. Primul: Înregistrează-te în două săptămâni după ce te-ai mutat."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Al doilea: În multe orașe ai nevoie de programare – de multe ori o poți face online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Și al treilea: certificatul de înregistrare îți va trebui des, de exemplu pentru un cont bancar."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Deci păstrează-l bine!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "La birou, germana sună uneori foarte complicat. Leo citește – și eu spun simplu."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Care este problema ta?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Ce ai nevoie?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Te rog să ai actele pregătite."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Te rog să ai hârtiile în mână."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Completează formularul complet."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Scrie ceva peste tot."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Procesarea durează aproximativ două săptămâni."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Durează cam două săptămâni."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Te rog să aduci actele mai târziu."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Te rog să aduci hârtiile mai târziu."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Azi mă schimb!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Aha, îți pui alte haine? Sau vrei să spui: „Ich ziehe um” – adică te muți într-un apartament nou?"
+    },
+    {
+      "start": 598.35,
+      "end": 605.99,
+      "text": "Și la birou: nu „Ich bin leider”, ci „Ich bin ledig” (sunt necăsătorit) – dacă nu ești căsătorit."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Și „Ich melde mich” înseamnă: te sun mai târziu. La birou spui: „Ich melde mich an.” (mă înregistrez)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Și acum totul încă o dată. Cele zece fraze cele mai importante. Repetă după mine!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Aș vrea să mă înregistrez."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Am o programare la ora nouă."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Iau un număr."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Aș vrea să înregistrez noul meu apartament."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Aici este confirmarea de la proprietarul meu."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Aici este pașaportul meu."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Îmi spun numele pe litere."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Sunt necăsătorit."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Unde trebuie să semnez?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Mai am nevoie de ceva?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Care cuvânt a fost cel mai greu pentru tine? Scrie-l în comentarii!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Pa și pe curând la LilyLingua!"
+    }
+  ]
+}

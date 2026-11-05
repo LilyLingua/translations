@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.828Z"
+  },
+  "title": "病院で",
+  "instructions": {
+    "beim-arzt-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "beim-arzt-gap": "合う単語に印をつけなさい。",
+    "beim-arzt-verbs": "正しい動詞を正しい形で入れなさい。",
+    "beim-arzt-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "beim-arzt-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "beim-arzt-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "保険証",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "受付で見せるカード。健康保険の名前が書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "予約",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "診療所に行く決まった時間。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "待合室",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "呼ばれるまでここで座って待ちます。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "処方箋",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "これで薬局で薬がもらえます。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "診断書（病欠証明）",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "病気のとき、雇用主がこの書類を受け取ります。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "熱",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "体温が高すぎること。例えば39度。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "アレルギー",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "体が何かに強く反応すること。例えばペニシリンに。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "緊急通報",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "112番――事故や緊急のときにかけます。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "こんにちは、予約をしたいのですが。",
+      "answerText": "予約"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "保険証をお持ちですか？",
+      "answerText": "保険証"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "待合室でお待ちください。",
+      "answerText": "待合室"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "頭痛と熱があります。",
+      "answerText": "頭痛"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "お腹が痛いです。",
+      "answerText": "お腹"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "ペニシリンアレルギーがあります。",
+      "answerText": "ペニシリン"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "雇用主に出す診断書が必要です。",
+      "answerText": "診断書"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "錠剤は1日3回、食後に飲んでください。",
+      "answerText": "食"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "もう少しゆっくり言っていただけますか？",
+      "answerText": "言って"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "3日前から熱があります。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "頭がとても痛いです。",
+      "answerText": "痛いです"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "深く息を吸って――はい、吐いてください。",
+      "answerText": "息を吸って"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "医者が処方箋をくれます。",
+      "answerText": "くれます"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "すぐにお呼びします。",
+      "answerText": "呼び"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "医者",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "錠剤",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "処方箋",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "予約",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "診療所",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "薬",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "予約をしたいです。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "3日前から熱があります。",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "もう一度言っていただけますか？",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "どこが痛いですか？",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "頭痛",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "診断書",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "保険証",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "アレルギーがある",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "錠剤",
+      "answerText": null
+    }
+  ]
+}

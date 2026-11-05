@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.834Z"
+  },
+  "title": "By Bus and Train",
+  "instructions": {
+    "bus-und-bahn-matching": "Match each word with the correct explanation.",
+    "bus-und-bahn-gap": "Tick the correct word.",
+    "bus-und-bahn-verbs": "Fill in the correct verb in the correct form.",
+    "bus-und-bahn-table": "Fill in the article (der/die/das) and the plural form.",
+    "bus-und-bahn-order": "Put the words in the correct order and write the sentence.",
+    "bus-und-bahn-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "the ticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "With it you are allowed to travel by bus or train.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "the ticket machine",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Here you buy a ticket without a counter.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "the platform",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "This is where the train stops at the station.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "the delay",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "The train arrives later than planned.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "to change trains",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "You switch from one train to another.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "the stop",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "This is where the bus stops.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "the Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "A monthly ticket for buses and local trains in all of Germany.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "The train to Cologne leaves from platform 5.",
+      "answerText": "platform"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "The train has a ten-minute delay.",
+      "answerText": "delay"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Where is the nearest stop?",
+      "answerText": "stop"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "A ticket to Berlin, please.",
+      "answerText": "ticket"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Please show your ticket.",
+      "answerText": "ticket"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "The underground runs every ten minutes.",
+      "answerText": "underground"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "You can buy tickets at the machine.",
+      "answerText": "machine"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Where do I have to change?",
+      "answerText": "change"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "The bus leaves at 8:15.",
+      "answerText": "leaves"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "We arrive in Hamburg at 10 o'clock.",
+      "answerText": "arrive"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Please get off here.",
+      "answerText": "get"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "How long does the journey take?",
+      "answerText": "take"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "the train",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "the station",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "the ticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "the platform",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "the stop",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "the bus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "When does the next train to Munich leave?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "I have to change trains in Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Unfortunately the train is delayed.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Is the ticket also valid for the bus?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "delay",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "stop",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "station",
+      "answerText": null
+    }
+  ]
+}

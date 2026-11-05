@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:26.334Z"
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-kiel-gap": "Đánh dấu từ đúng.",
+    "stadt-kiel-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-kiel-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-kiel-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-kiel-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "\"Förde\" (vịnh hẹp)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Nhánh biển Baltic dài và hẹp, ăn sâu vào đất liền.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Tuần lễ Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Lễ hội thuyền buồm lớn vào tháng Sáu, có âm nhạc và thuyền từ khắp thế giới.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "phà",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Tàu lớn chở người và ô tô, ví dụ đi Na Uy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "kênh đào Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Đường thủy nhân tạo nối biển Bắc và biển Baltic.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "cá trích hun khói Kiel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Cá nhỏ hun khói, đặc sản Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"Moin moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Lời chào miền Bắc; có người cho rằng nói \"Moin\" hai lần là quá nhiều.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "đi thuyền buồm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Đi bằng thuyền chạy nhờ gió.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kiel nằm bên biển Baltic.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Tháng Sáu chúng tôi dự Tuần lễ Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Chúng tôi đi phà tới Oslo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Tàu thuyền đi qua kênh đào Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Cuối tuần chúng tôi đi thuyền buồm trên vịnh.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Tôi mua một túi cá trích hun khói Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Chúng tôi dắt chó đi dạo trên bãi biển.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Phà chạy tới Na Uy mỗi ngày.",
+      "answerText": "chạy"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Trong Tuần lễ Kiel, thuyền từ khắp thế giới ra khơi.",
+      "answerText": "ra khơi"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Nhiều tàu sử dụng kênh đào Kiel.",
+      "answerText": "sử dụng"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Ở miền Bắc người ta nói \"Moin\".",
+      "answerText": "nói"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Trên bãi biển gió mạnh thường thổi.",
+      "answerText": "thổi"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "chiếc thuyền",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "phà",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "con cá",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "bãi biển",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "cánh buồm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "con kênh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kiel nằm bên biển Baltic.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Tháng Sáu thành phố tổ chức Tuần lễ Kiel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Bạn đi phà tới Na Uy à?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Cuối tuần chúng tôi đi thuyền buồm trên vịnh.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "phà",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "cánh buồm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "bãi biển",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "biển Baltic",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "con kênh",
+      "answerText": null
+    }
+  ]
+}

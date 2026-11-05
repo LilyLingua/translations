@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:40.705Z"
+  },
+  "title": "Cologne",
+  "instructions": {
+    "stadt-koeln-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-koeln-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-koeln-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-koeln-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-koeln-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-koeln-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"Kölle Alaaf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Kelele katika kanivali ya Cologne – kama \"Cologne idumu!\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "kanisa kuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Kanisa kubwa lenye minara miwili karibu kabisa na kituo kikuu cha treni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "\"Kölsch\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Bia nyepesi ya Cologne; hunywewa kwa glasi ndogo nyembamba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "\"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Mhudumu katika baa ya bia; huleta Kölsch mpya hadi uweke kifuniko juu ya glasi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "\"Halve Hahn\" (nusu kuku)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Mkate wa rai wenye jibini – si nusu kuku!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "\"Veedel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Neno la Kölsch kwa mtaa wa mji; kila mtu wa Cologne anaupenda mtaa wake.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Jumatatu ya Waridi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Kilele cha kanivali chenye gwaride kubwa katika mji mzima.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Anakunywa Kölsch katika baa ya bia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Köbes analeta Kölsch inayofuata.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Jumatatu ya Waridi tunatazama gwaride mjini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Watalii wengi wanatembelea Kanisa Kuu la Cologne.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Naagiza Halve Hahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Watu wengi wanatembea juu ya Daraja la Hohenzollern.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Wakati wa kanivali watu huvaa mavazi ya kanivali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Wakati wa kanivali watu hupiga kelele \"Kölle Alaaf!\".",
+      "answerText": "hupiga"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Köbes analeta Kölsch mpya bila kuuliza.",
+      "answerText": "analeta"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "Kanisa kuu lina urefu wa zaidi ya mita 150.",
+      "answerText": "lina"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Rhine inapita katikati ya Cologne.",
+      "answerText": "inapita"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "Tarehe 11.11. saa 11:11 kanivali inaanza.",
+      "answerText": "inaanza"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "kanisa kuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "daraja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "glasi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "gwaride",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "vazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "baa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "Kanisa Kuu la Cologne liko karibu kabisa na kituo cha treni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Jumatatu ya Waridi Cologne yote husherehekea kanivali.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Ungependa Kölsch nyingine?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "Cologne watu hunywa Kölsch kwa glasi ndogo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "kanivali",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "vazi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "kituo cha treni",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "baa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "glasi",
+      "answerText": null
+    }
+  ]
+}

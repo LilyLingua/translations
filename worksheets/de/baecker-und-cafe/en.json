@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:17.860Z"
+  },
+  "title": "At the Bakery and in the Café",
+  "instructions": {
+    "baecker-und-cafe-matching": "Match each word with the correct explanation.",
+    "baecker-und-cafe-gap": "Tick the correct article.",
+    "baecker-und-cafe-verbs": "Fill in the correct verb in the correct form.",
+    "baecker-und-cafe-table": "Fill in the article (der/die/das) and the plural form.",
+    "baecker-und-cafe-order": "Put the words in the correct order and write the sentence.",
+    "baecker-und-cafe-spelling": "Which word is spelled correctly? Tick it."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "the bread roll",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "A small bread, often for breakfast.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "the pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "A baked snack with salt, typical of southern Germany.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "the cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Something sweet, often with coffee in the afternoon.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "the menu",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "It lists all the food and drinks.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "the bill",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "It shows how much you have to pay.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "the tip",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "A little extra money for the staff.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "to take away",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "You do not eat or drink it in the café.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "I would like a bread roll.",
+      "answerText": "a"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "I'll have a coffee.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "How much is the pretzel?",
+      "answerText": "the"
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "I would like a piece of cake.",
+      "answerText": "a"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Is the table free?",
+      "answerText": "the"
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "I drink a tea with milk.",
+      "answerText": "a"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Please bring me the bill.",
+      "answerText": "the"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "What would you like to drink?",
+      "answerText": "would you like"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "I'll have a cappuccino.",
+      "answerText": "have"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "That comes to 6.40 euros altogether.",
+      "answerText": "comes"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Can I pay by card?",
+      "answerText": "pay"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "The cake tastes very good.",
+      "answerText": "tastes"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "the bread roll",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "the cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "the cup",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "the glass",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "the plate",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "the pretzel",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "I would like two bread rolls.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "How much is the cake?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Can I pay by card?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Would you like to eat here?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "bread roll",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "bill",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "coffee",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "tip",
+      "answerText": null
+    }
+  ]
+}

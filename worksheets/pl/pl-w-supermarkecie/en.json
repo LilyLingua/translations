@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.826Z"
+  },
+  "title": "At the Supermarket",
+  "instructions": {
+    "pl-w-supermarkecie-matching": "Match each word with its meaning.",
+    "pl-w-supermarkecie-gap": "Choose the right word.",
+    "pl-w-supermarkecie-verbs": "Fill in the correct verb.",
+    "pl-w-supermarkecie-order": "Put the words in the right order and write the sentence.",
+    "pl-w-supermarkecie-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-w-supermarkecie-matching-1",
+      "translation": "cart",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-1:meaning",
+      "translation": "A big basket on wheels for shopping.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2",
+      "translation": "checkout",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2:meaning",
+      "translation": "The place where you pay.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3",
+      "translation": "shelf",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3:meaning",
+      "translation": "Products in the store lie on it.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4",
+      "translation": "receipt",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4:meaning",
+      "translation": "A piece of paper that shows what you bought and how much you paid.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5",
+      "translation": "cashier",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5:meaning",
+      "translation": "A person who works at the checkout.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6",
+      "translation": "plastic bag",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6:meaning",
+      "translation": "You carry your shopping home in it.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-1",
+      "translation": "I need a bottle of milk.",
+      "answerText": "milk"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-2",
+      "translation": "The bread is on the top shelf.",
+      "answerText": "shelf"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-3",
+      "translation": "Please pay at the checkout.",
+      "answerText": "checkout"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-4",
+      "translation": "Here is your receipt. Have a nice day!",
+      "answerText": "receipt"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-5",
+      "translation": "I put the apples in the cart.",
+      "answerText": "cart"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-6",
+      "translation": "A nice cashier works at the checkout.",
+      "answerText": "cashier"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-1",
+      "translation": "How much do the apples cost?",
+      "answerText": "cost"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-2",
+      "translation": "I pay by card.",
+      "answerText": "pay"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-3",
+      "translation": "We buy eggs and bread.",
+      "answerText": "buy"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-4",
+      "translation": "Excuse me, where is the rice?",
+      "answerText": "is"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-5",
+      "translation": "The store closes at ten.",
+      "answerText": "closes"
+    },
+    {
+      "id": "pl-w-supermarkecie-order-1",
+      "translation": "Where is the rice?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-2",
+      "translation": "I need a bag.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-3",
+      "translation": "Can I pay by card?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-4",
+      "translation": "The milk is in the third aisle.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-1",
+      "translation": "vegetables",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-2",
+      "translation": "bread",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-3",
+      "translation": "apple",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-4",
+      "translation": "milk",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-5",
+      "translation": "chicken",
+      "answerText": null
+    }
+  ]
+}

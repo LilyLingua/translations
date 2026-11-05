@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.742Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Fie a wobɛgye ato ase (rent)",
+  "instructions": {
+    "wohnung-mieten-matching": "Fa asɛmfua biara ka ne nkyerɛkyerɛmu a ɛfata ho.",
+    "wohnung-mieten-gap": "Hyɛ artikel (der/die/das) nsɛsoɔ a ɛteɛ no nsɛnkyerɛnne.",
+    "wohnung-mieten-verbs": "Fa adeyɛ asɛmfua a ɛteɛ hyɛ mu wɔ ne nsɛsoɔ a ɛteɛ mu.",
+    "wohnung-mieten-table": "Fa artikel (der/die/das) ne dodoɔ nsɛsoɔ no hyɛ mu.",
+    "wohnung-mieten-order": "Hyehyɛ nsɛmfua no yie na kyerɛw kasamu no.",
+    "wohnung-mieten-spelling": "Asɛmfua bɛn na wɔakyerɛw no yie? Hyɛ no nsɛnkyerɛnne."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "fie ka (rent)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Sika a wotua bosome biara ma fie no.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "sika a wode to hɔ (deposit)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Sika a fie wura nya mfitiaseɛ sɛ ahobammɔ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "nsuo, ogya ne nwura ka",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Nsuo, fie mu hyeɛ ne nwura ho ka.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "fie ho apam krataa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Apam a ɛda ofie gyefoɔ ne fie wura ntam.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "fie no hwɛ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Wohwɛ fie no ansa na woagye ato ase.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "fie hwɛfoɔ (caretaker)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ɔhwɛ ofie no na ɔsiesie nneɛma nketewa.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "ofie mmara",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Mmara ma wɔn a wɔte hɔ nyinaa, sɛ nhwɛsoɔ no bere a ɛsɛ sɛ wɔyɛ komm.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Yɛrehwehwɛ fie baako a balcony wɔ ho.",
+      "answerText": "baako"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Me ne fie wura no rekasa.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Mede sika a wɔde to hɔ no ma fie wura (ɔbaa) no.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Mede me sakre si adiwo hɔ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Safoa no da ɛpono no so.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Fie mu hyeɛ mfiri a ɛwɔ gyaade hɔ no asɛe.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Afe baako ni a mete saa fie yi mu.",
+      "answerText": "yi"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Bere bɛn na metumi akɔhwɛ fie no?",
+      "answerText": "akɔhwɛ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Fie ka no yɛ euro 850 a nsuo ne ogya ka ka ho.",
+      "answerText": "yɛ"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Yɛbɛtu akɔ hɔ Ɔpɛnimma 1.",
+      "answerText": "Yɛbɛtu"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Fie mu hyeɛ mfiri no asɛe. Mepa wo kyɛw, wobɛtumi asiesie?",
+      "answerText": "asiesie"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Mepa wo kyɛw, tetew nwura no mu.",
+      "answerText": "tetew"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "dan",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "gyaade",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balcony",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "adwareɛ dan",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "safoa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "fie mu hyeɛ mfiri",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Fie no da so wɔ hɔ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Nsuo, ogya ne nwura ka no yɛ sɛn?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Bere bɛn na metumi akɔhwɛ fie no?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Mepɛ sɛ megye fie no to ase.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "sika a wode to hɔ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "nsuo, ogya ne nwura ka",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balcony",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "safoa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "fie mu hyeɛ mfiri",
+      "answerText": null
+    }
+  ]
+}

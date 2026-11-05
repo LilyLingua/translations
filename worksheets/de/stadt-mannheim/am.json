@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:08.035Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ማንሃይም",
+  "instructions": {
+    "stadt-mannheim-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-mannheim-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-mannheim-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-mannheim-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-mannheim-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-mannheim-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "„Quadrate“ (አራት ማዕዘኖቹ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "የከተማዋ መሃል እንደ ቼዝ ሰሌዳ ነው፤ አድራሻዎች ለምሳሌ „Q6“ ወይም „N1“ ይባላሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "የውኃ ማማው",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "የማንሃይም መለያ ምልክት፣ ከፊት ለፊቱ ውብ መናፈሻና የውኃ ምንጭ አለው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "የስፓጌቲ አይስክሬሙ (Spaghettieis)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "የቲማቲም ስጎ እንዳለበት ስፓጌቲ የሚመስል አይስክሬም – በማንሃይም የተፈለሰፈ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "ቤተ መንግሥቱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "ትልቅ የባሮክ ቤተ መንግሥት፤ ዛሬ እዚያ ዩኒቨርሲቲው አለ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "„Laufmaschine“ (የመሮጫ ማሽኑ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "ካርል ድራይስ (Karl Drais) በ1817 በማንሃይም ፈለሰፈው – የብስክሌት ቅድመ አያት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "„Monnem“ (ሞነም)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "የማንሃይም ሰዎች በቀበሌኛቸው ከተማቸውን እንዲህ ይሏታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "„Adler“ (ንስሮቹ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "የማንሃይም የበረዶ ሆኪ ቡድን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "የውኃ ማማውን ፎቶ እናነሳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "በካፌው ውስጥ አንድ የስፓጌቲ አይስክሬም እናዛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "ብዙ ተማሪዎች በቤተ መንግሥቱ ውስጥ ይማራሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "በQuadrate ውስጥ ማንኛውንም አድራሻ በፍጥነት ታገኛለህ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "ካርል ድራይስ የመሮጫ ማሽኑን ፈለሰፈ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "ምሽት ላይ የAdler ጨዋታ እናያለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "ማንሃይም በራይንና በኔካር ወንዞች ዳር ትገኛለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "አድራሻዎቹ ከአንድ ፊደልና ከአንድ ቁጥር ይመሠረታሉ።",
+      "answerText": "ይመሠረታሉ"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "የስፓጌቲ አይስክሬሙ የቫኒላና የእንጆሪ ጣዕም አለው።",
+      "answerText": "አለው"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "በማንሃይም ኔካር ወደ ራይን ይፈሳል።",
+      "answerText": "ይፈሳል"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "Adler በSAP Arena የበረዶ ሆኪ ይጫወታሉ።",
+      "answerText": "ይጫወታሉ"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "ዛሬ በቤተ መንግሥቱ ውስጥ ብዙ ተማሪዎች ይማራሉ።",
+      "answerText": "ይማራሉ"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "ማማው",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "ቁጥሩ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "መንገዱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "ቤተ መንግሥቱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "ብስክሌቱ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "የውኃ ምንጩ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "የውኃ ማማው በFriedrichsplatz ቆሟል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "የስፓጌቲ አይስክሬም ትወዳለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "በማንሃይም ኔካር ወደ ራይን ይፈሳል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "አድራሻዎቹ ፊደሎችና ቁጥሮች አሏቸው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "የውኃ ማማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "ቤተ መንግሥት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "ብስክሌት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "መንገድ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "የውኃ ምንጭ",
+      "answerText": null
+    }
+  ]
+}

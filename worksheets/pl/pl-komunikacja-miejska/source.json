@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "848f099c-1b27-4dde-a3b7-c536d6d8e2de",
+    "level": "A2"
+  },
+  "title": "Komunikacja miejska",
+  "topic": "Bilety, przystanki, przesiadki i opóźnienia",
+  "tasks": [
+    {
+      "id": "pl-komunikacja-miejska-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-komunikacja-miejska-matching-1",
+          "term": "bilet",
+          "meaning": "Kartka albo aplikacja, z którą można jechać."
+        },
+        {
+          "id": "pl-komunikacja-miejska-matching-2",
+          "term": "przystanek",
+          "meaning": "Miejsce, gdzie zatrzymuje się autobus."
+        },
+        {
+          "id": "pl-komunikacja-miejska-matching-3",
+          "term": "peron",
+          "meaning": "Miejsce na dworcu, gdzie wsiada się do pociągu."
+        },
+        {
+          "id": "pl-komunikacja-miejska-matching-4",
+          "term": "opóźnienie",
+          "meaning": "Kiedy autobus albo pociąg przyjeżdża później."
+        },
+        {
+          "id": "pl-komunikacja-miejska-matching-5",
+          "term": "rozkład jazdy",
+          "meaning": "Lista z godzinami odjazdów autobusów i pociągów."
+        },
+        {
+          "id": "pl-komunikacja-miejska-matching-6",
+          "term": "przesiadka",
+          "meaning": "Kiedy zmienia się jeden autobus albo pociąg na inny."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-komunikacja-miejska-gap-1",
+          "promptBefore": "Potrzebuję",
+          "promptAfter": "do centrum.",
+          "correctAnswer": "biletu",
+          "options": [
+            "biletu",
+            "peronu",
+            "opóźnienia"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-komunikacja-miejska-gap-2",
+          "promptBefore": "Pociąg odjeżdża z czwartego",
+          "promptAfter": ".",
+          "correctAnswer": "peronu",
+          "options": [
+            "peronu",
+            "biletu",
+            "opóźnienia"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-komunikacja-miejska-gap-3",
+          "promptBefore": "Proszę wysiąść na następnym",
+          "promptAfter": ".",
+          "correctAnswer": "przystanku",
+          "options": [
+            "przystanku",
+            "opóźnieniu",
+            "bilecie"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-komunikacja-miejska-gap-4",
+          "promptBefore": "Pociąg ma dwadzieścia minut",
+          "promptAfter": ".",
+          "correctAnswer": "opóźnienia",
+          "options": [
+            "opóźnienia",
+            "peronu",
+            "biletu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-komunikacja-miejska-gap-5",
+          "promptBefore": "Proszę sprawdzić rozkład",
+          "promptAfter": "w internecie.",
+          "correctAnswer": "jazdy",
+          "options": [
+            "jazdy",
+            "biletu",
+            "peronu"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-komunikacja-miejska-gap-6",
+          "promptBefore": "Na dworcu ma Pan/Pani",
+          "promptAfter": ".",
+          "correctAnswer": "przesiadkę",
+          "options": [
+            "przesiadkę",
+            "peron",
+            "przystanek"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-komunikacja-miejska-verbs-1",
+          "promptBefore": "Autobus",
+          "promptAfter": "co dziesięć minut.",
+          "correctAnswer": "jeździ",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "jeździć"
+        },
+        {
+          "id": "pl-komunikacja-miejska-verbs-2",
+          "promptBefore": "Gdzie mogę",
+          "promptAfter": "bilet?",
+          "correctAnswer": "kupić",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kupić"
+        },
+        {
+          "id": "pl-komunikacja-miejska-verbs-3",
+          "promptBefore": "Tutaj trzeba się",
+          "promptAfter": ".",
+          "correctAnswer": "przesiąść",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "przesiąść się"
+        },
+        {
+          "id": "pl-komunikacja-miejska-verbs-4",
+          "promptBefore": "Pociąg",
+          "promptAfter": "się dzisiaj.",
+          "correctAnswer": "spóźnia",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spóźniać się"
+        },
+        {
+          "id": "pl-komunikacja-miejska-verbs-5",
+          "promptBefore": "Proszę",
+          "promptAfter": "bilet.",
+          "correctAnswer": "pokazać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pokazać"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-komunikacja-miejska-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-komunikacja-miejska-order-1",
+          "chunks": [
+            "Który autobus",
+            "jedzie",
+            "na lotnisko"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-komunikacja-miejska-order-2",
+          "chunks": [
+            "Pociąg",
+            "ma",
+            "dziesięć minut",
+            "opóźnienia"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-komunikacja-miejska-order-3",
+          "chunks": [
+            "Gdzie",
+            "jest",
+            "następny przystanek"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-komunikacja-miejska-order-4",
+          "chunks": [
+            "Uciekł",
+            "mi",
+            "autobus"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-komunikacja-miejska-spelling-1",
+          "correct": "bilet",
+          "wrong": "billet"
+        },
+        {
+          "id": "pl-komunikacja-miejska-spelling-2",
+          "correct": "dworzec",
+          "wrong": "dwożec"
+        },
+        {
+          "id": "pl-komunikacja-miejska-spelling-3",
+          "correct": "przystanek",
+          "wrong": "pszystanek"
+        },
+        {
+          "id": "pl-komunikacja-miejska-spelling-4",
+          "correct": "pociąg",
+          "wrong": "pociong"
+        },
+        {
+          "id": "pl-komunikacja-miejska-spelling-5",
+          "correct": "pasażer",
+          "wrong": "pasarzer"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.332Z"
+  },
+  "title": "ফোনে অ্যাপয়েন্টমেন্ট",
+  "instructions": {
+    "termine-am-telefon-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "termine-am-telefon-gap": "সঠিক পদান্বয়ী অব্যয়ে চিহ্ন দিন।",
+    "termine-am-telefon-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "termine-am-telefon-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "termine-am-telefon-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "termine-am-telefon-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "আনসারিং মেশিন",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "এখানে আপনি একটি বার্তা রেখে যেতে পারেন।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "সরাসরি নম্বর (এক্সটেনশন)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "কোনো কোম্পানিতে একজন মানুষের সরাসরি ফোন নম্বর।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "ফিরতি ফোন করা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "কাউকে পরে ফোন করা, কারণ সে আগে ফোন করেছিল।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "পিছিয়ে দেওয়া",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "একটি অ্যাপয়েন্টমেন্ট অন্য দিনে সরানো।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "বাতিল করা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "বলা যে আপনি অ্যাপয়েন্টমেন্টে আসবেন না।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "সাক্ষাতের সময়",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "যে সময়ে কাউকে পাওয়া যায়।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "বানান করা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "একটি শব্দ অক্ষর ধরে ধরে বলা।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "সোমবার কি আপনার সময় আছে?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10টায় হবে কি?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "ডিসেম্বরের আগে আমার সময় নেই।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "সপ্তাহান্তে চেম্বার বন্ধ থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "আমি এক ঘণ্টার মধ্যে আপনাকে ফিরতি ফোন করব।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "আমি দুই সপ্তাহ ধরে একটা অ্যাপয়েন্টমেন্টের অপেক্ষায় আছি।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "দয়া করে অ্যাপয়েন্টমেন্টের দশ মিনিট আগে আসুন।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "আমি কি মিসেস ভেবারের সঙ্গে কথা বলতে পারি?",
+      "answerText": "কথা"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "দুঃখজনকভাবে আমাকে আমার অ্যাপয়েন্টমেন্ট বাতিল করতে হবে।",
+      "answerText": "বাতিল"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "আপনি কি আমাকে ফিরতি ফোন করতে পারবেন?",
+      "answerText": "ফোন"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "আমি আপনাকে আমার নম্বর দিচ্ছি।",
+      "answerText": "দিচ্ছি"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "আপনার নাম কীভাবে লেখা হয়?",
+      "answerText": "লেখা"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "ফোন কল",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "নম্বর",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "বার্তা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "টেলিফোন",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "সময়",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "মোবাইল ফোন",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "আমি একটা অ্যাপয়েন্টমেন্ট পিছিয়ে দিতে চাই।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "আপনার কখন সময় আছে?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "আমি কাল আবার ফোন করব।",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "বৃহস্পতিবার 9টায় কি আপনার সুবিধা হবে?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "বার্তা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "টেলিফোন",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "অ্যাপয়েন্টমেন্ট",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "ফিরতি ফোন করা",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "সময়",
+      "answerText": null
+    }
+  ]
+}

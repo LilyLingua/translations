@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:54.260Z"
+  },
+  "title": "Brunswick",
+  "instructions": {
+    "stadt-braunschweig-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-braunschweig-gap": "Coche le bon mot.",
+    "stadt-braunschweig-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-braunschweig-table": "Complète l'article et le pluriel.",
+    "stadt-braunschweig-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-braunschweig-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-braunschweig-matching-1",
+      "translation": "le « Burglöwe » (le lion du château)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-1:meaning",
+      "translation": "Lion en bronze sur la Burgplatz ; l'original se trouve aujourd'hui dans le château.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2",
+      "translation": "Henri le Lion",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2:meaning",
+      "translation": "Duc célèbre qui vivait à Brunswick au Moyen Âge.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3",
+      "translation": "l'Eintracht",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3:meaning",
+      "translation": "Club de football de la ville, en jaune et bleu ; les joueurs s'appellent aussi « les Lions ».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4",
+      "translation": "la Happy Rizzi House",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4:meaning",
+      "translation": "Maison colorée avec des visages amusants et des cœurs sur la façade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5",
+      "translation": "la « Mumme »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5:meaning",
+      "translation": "Jus de malt sucré et foncé – une très vieille spécialité de Brunswick.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6",
+      "translation": "le château",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6:meaning",
+      "translation": "Le château a été reconstruit ; derrière, il y a aujourd'hui un centre commercial.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7",
+      "translation": "Till Eulenspiegel (Till l'Espiègle)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7:meaning",
+      "translation": "Bouffon drôle des vieilles histoires ; une fontaine dans la ville rappelle son souvenir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-1",
+      "translation": "Sur la Burgplatz se trouve un lion.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-2",
+      "translation": "Henri le Lion a construit le château de Dankwarderode.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-3",
+      "translation": "Les supporters chantent pour l'Eintracht.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-4",
+      "translation": "Nous prenons une photo de la maison colorée.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-5",
+      "translation": "Au château, nous achetons une nouvelle veste.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-6",
+      "translation": "Des enfants jouent près de la fontaine d'Eulenspiegel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-7",
+      "translation": "La Mumme est une vieille spécialité.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-verbs-1",
+      "translation": "Le lion se dresse sur la Burgplatz.",
+      "answerText": "se dresse"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-2",
+      "translation": "L'Eintracht joue en jaune et bleu.",
+      "answerText": "joue"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-3",
+      "translation": "La maison Rizzi possède des couleurs vives et des visages amusants.",
+      "answerText": "possède"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-4",
+      "translation": "Till Eulenspiegel fait beaucoup de farces amusantes.",
+      "answerText": "fait"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-5",
+      "translation": "Henri le Lion vivait à Brunswick au Moyen Âge.",
+      "answerText": "vivait"
+    },
+    {
+      "id": "stadt-braunschweig-table-1",
+      "translation": "le lion",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-2",
+      "translation": "le château fort",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-3",
+      "translation": "le visage",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-4",
+      "translation": "le duc",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-5",
+      "translation": "la veste",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-6",
+      "translation": "la farce",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-1",
+      "translation": "Le lion est l'emblème de Brunswick.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-2",
+      "translation": "Tu connais la maison colorée de Rizzi ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-3",
+      "translation": "Derrière le château, il y a un centre commercial.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-4",
+      "translation": "Till Eulenspiegel fait beaucoup de farces.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-1",
+      "translation": "le lion",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-2",
+      "translation": "le château fort",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-3",
+      "translation": "le duc",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-4",
+      "translation": "le visage",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-5",
+      "translation": "le centre commercial",
+      "answerText": null
+    }
+  ]
+}

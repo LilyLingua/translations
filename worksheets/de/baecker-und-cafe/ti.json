@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኣብ ቤት ባኒን ኣብ ካፈን",
+  "instructions": {
+    "baecker-und-cafe-matching": "ነፍሲ ወከፍ ቃል ምስ ቅኑዕ መብርሂኡ ኣራኽቡ።",
+    "baecker-und-cafe-gap": "ነቲ ቅኑዕ ዓንቀጽ ምልክት ግበሩሉ።",
+    "baecker-und-cafe-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጺ ምልኡ።",
+    "baecker-und-cafe-table": "ነቲ ዓንቀጽ (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምልኡ።",
+    "baecker-und-cafe-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቐምጥዎምሞ ነቲ ሓረግ ጽሓፍዎ።",
+    "baecker-und-cafe-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበሩሉ።"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "ንእሽቶ ባኒ (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "ንእሽቶ ባኒ፣ መብዛሕትኡ ግዜ ንቝርሲ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "ብሬዘል (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "ጨው ዘለዎ ሕቡዝ መቑሰቢ፣ ናይ ደቡብ ጀርመን ልሙድ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "ጥዑም ነገር፣ መብዛሕትኡ ግዜ ድሕሪ ቐትሪ ምስ ቡን።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "ዝርዝር መግቢ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "ኩሉ መግብን መስተን ይዝርዝር።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "ሕሳብ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "ክንደይ ክትከፍሉ ከም ዘለኩም የርኢ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "ቲፕ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "ንሰራሕተኛታት ዝወሃብ ቁሩብ ተወሳኺ ገንዘብ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "ንምውሳድ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "ኣብ ካፈ ኣይትበልዕዎን ወይ ኣይትሰትይዎን።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "ሓደ ንእሽቶ ባኒ እደሊ።",
+      "answerText": "ሓደ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "ቡን ክወስድ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "እቲ ብሬዘል ክንደይ እዩ?",
+      "answerText": "እቲ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "ሓደ ቁራጽ ኬክ እደሊ።",
+      "answerText": "ሓደ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "እቲ ጠረጴዛ ነጻ ድዩ?",
+      "answerText": "እቲ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "ሓደ ሻሂ ምስ ጸባ እሰቲ።",
+      "answerText": "ሓደ"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "በጃኹም ነቲ ሕሳብ ኣምጽኡለይ።",
+      "answerText": "ነቲ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "እንታይ ክትሰትዩ ትደልዩ?",
+      "answerText": "ትደልዩ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "ካፑቺኖ ክወስድ።",
+      "answerText": "ክወስድ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "ብድምር 6.40 ዩሮ ይኸውን።",
+      "answerText": "ይኸውን"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "ብካርድ ክኸፍል ይኽእልዶ?",
+      "answerText": "ክኸፍል"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "እቲ ኬክ ኣዝዩ ጥዑም እዩ።",
+      "answerText": "ጥዑም"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "ንእሽቶ ባኒ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "ኩባያ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "ብርጭቆ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "ሽሓኒ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "ብሬዘል",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "ክልተ ንኣሽቱ ባኒ እደሊ።",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "እቲ ኬክ ክንደይ እዩ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "ብካርድ ክኸፍል ይኽእልዶ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "ኣብዚ ክትበልዑ ትደልዩዶ?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "ንእሽቶ ባኒ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "ሕሳብ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "ቡን",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "ቲፕ",
+      "answerText": null
+    }
+  ]
+}

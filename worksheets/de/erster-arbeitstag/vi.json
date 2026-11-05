@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.731Z"
+  },
+  "title": "Ngày đầu tiên đi làm",
+  "instructions": {
+    "erster-arbeitstag-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "erster-arbeitstag-gap": "Đánh dấu dạng đúng.",
+    "erster-arbeitstag-verbs": "Điền động từ đúng ở dạng đúng.",
+    "erster-arbeitstag-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "erster-arbeitstag-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "erster-arbeitstag-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "đồng nghiệp",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Một người đàn ông làm việc cùng bạn.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "nữ trưởng nhóm (sếp)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Cô ấy lãnh đạo nhóm.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "giờ nghỉ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Thời gian rảnh trong giờ làm, ví dụ để ăn.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "ngày nghỉ phép",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Những ngày bạn không làm việc nhưng vẫn được trả lương.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "giờ làm thêm",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Một giờ bạn làm nhiều hơn kế hoạch.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "hợp đồng lao động",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Trong đó ghi lương, giờ làm và ngày phép.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "căng tin",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Nhân viên ăn ở đây trong công ty.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Đây là đồng nghiệp mới của tôi.",
+      "answerText": "của tôi"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Tôi có thể giới thiệu đồng nghiệp của tôi với anh/chị không?",
+      "answerText": "của tôi"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Tôi thích làm việc cùng nhóm.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Chúng ta gặp nhau ở căng tin.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Tôi có một câu hỏi.",
+      "answerText": "một"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Khi nào bắt đầu giờ nghỉ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Tôi đưa báo cáo cho sếp.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Tôi có thể giới thiệu ngắn về bản thân không?",
+      "answerText": "giới thiệu"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Tôi làm việc từ 8 giờ đến 16 giờ.",
+      "answerText": "làm việc"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Tôi tìm nhà vệ sinh ở đâu?",
+      "answerText": "tìm"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Trong nhóm, chúng tôi gọi nhau thân mật bằng tên.",
+      "answerText": "gọi nhau"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Anh/chị có thể giải thích điều đó cho tôi không?",
+      "answerText": "giải thích"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "đồng nghiệp",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "công ty",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "văn phòng",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "máy tính",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "cuộc họp",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "nhóm",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Tôi có thể giới thiệu ngắn về bản thân không?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Tôi là người mới trong nhóm.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Khi nào bắt đầu giờ nghỉ trưa?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Anh/chị có thể giải thích điều đó cho tôi không?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "đồng nghiệp",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "cuộc họp",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "ngày nghỉ phép",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "văn phòng",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "giờ làm thêm",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:08.842Z"
+  },
+  "title": "ザールブリュッケン",
+  "instructions": {
+    "stadt-saarbruecken-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-saarbruecken-gap": "正しい単語に印をつけましょう。",
+    "stadt-saarbruecken-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-saarbruecken-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-saarbruecken-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-saarbruecken-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-saarbruecken-matching-1",
+      "translation": "「リヨナー」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-1:meaning",
+      "translation": "肉のソーセージ。ザールラントではパンにのせるなどしてとてもよく食べる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2",
+      "translation": "「シュヴェンカー」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2:meaning",
+      "translation": "鎖につるされ、火の上で前後にゆれるグリル。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3",
+      "translation": "「シュヴェンケン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3:meaning",
+      "translation": "ザールラントで、シュヴェンカーで焼くこと。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4",
+      "translation": "国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4:meaning",
+      "translation": "ここで一つの国が終わり、次の国が始まる。フランスはすぐ近く。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5",
+      "translation": "鉱業",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5:meaning",
+      "translation": "石炭をとるための地下の仕事。昔のザールラントでとても重要だった。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6",
+      "translation": "ザール川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6:meaning",
+      "translation": "ザールブリュッケンを流れる川。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7",
+      "translation": "サヴォワール・ヴィーヴル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7:meaning",
+      "translation": "人生を楽しむ技術を表すフランス語。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-1",
+      "translation": "週末、私たちはシュヴェンカーのそばに立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-2",
+      "translation": "私はリヨナーをのせたパンを食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-3",
+      "translation": "私たちは国境をこえてフランスへ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-4",
+      "translation": "街を流れる川はザール川といいます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-5",
+      "translation": "土曜日には多くの人がフランスのスーパーで買い物をします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-6",
+      "translation": "祖父は地下で働いていました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-7",
+      "translation": "私たちは独仏庭園でピクニックをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-1",
+      "translation": "週末、ザールラントの人はシュヴェンカーで好んで焼きます。",
+      "answerText": "焼き"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-2",
+      "translation": "ザール川は街の中を流れています。",
+      "answerText": "流れて"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-3",
+      "translation": "多くのザールラントの人はフランス語も話します。",
+      "answerText": "話し"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-4",
+      "translation": "昔は多くの男性が鉱業で働いていました。",
+      "answerText": "働いて"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-5",
+      "translation": "1957年からザールラントはドイツ連邦共和国に属しています。",
+      "answerText": "属して"
+    },
+    {
+      "id": "stadt-saarbruecken-table-1",
+      "translation": "グリル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-2",
+      "translation": "国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-3",
+      "translation": "ソーセージ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-4",
+      "translation": "スーパー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-5",
+      "translation": "橋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-6",
+      "translation": "川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-1",
+      "translation": "週末、私たちは庭でバーベキューをします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-2",
+      "translation": "フランスはほんの数キロ先です。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-3",
+      "translation": "リヨナーは好きですか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-4",
+      "translation": "1957年からザールラントはドイツに属しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-1",
+      "translation": "国境",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-2",
+      "translation": "石炭",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-3",
+      "translation": "川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-4",
+      "translation": "フランス語",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-5",
+      "translation": "ソーセージ",
+      "answerText": null
+    }
+  ]
+}

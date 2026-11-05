@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.057Z"
+  },
+  "title": "दवा की दुकान में",
+  "instructions": {
+    "in-der-apotheke-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "in-der-apotheke-gap": "सही शब्द पर निशान लगाइए।",
+    "in-der-apotheke-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "in-der-apotheke-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "in-der-apotheke-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "in-der-apotheke-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "पर्ची (प्रिस्क्रिप्शन)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "डॉक्टर का दवा के लिए दिया गया काग़ज़।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "गोली",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "एक छोटी दवा जिसे निगला जाता है।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "खाँसी का सिरप",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "खाँसी के लिए तरल दवा।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "मलहम",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "इसे त्वचा पर लगाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "दुष्प्रभाव",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "दवा का अनचाहा असर।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "पैकेज इंसर्ट (जानकारी पत्र)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "दवा के डिब्बे में रखा काग़ज़, जिसमें सारी जानकारी होती है।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "सह-भुगतान",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "पर्ची के लिए छोटी रक़म आप ख़ुद देते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "मेरे पास मेरी डॉक्टर की पर्ची है।",
+      "answerText": "पर्ची"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "क्या आपके पास गले में दर्द की कोई दवा है?",
+      "answerText": "गले में दर्द"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "दिन में दो गोलियाँ लीजिए।",
+      "answerText": "गोलियाँ"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "मलहम त्वचा के लिए है।",
+      "answerText": "त्वचा"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "कृपया पैकेज इंसर्ट पढ़िए।",
+      "answerText": "पैकेज इंसर्ट"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "इस दवा के लगभग कोई दुष्प्रभाव नहीं हैं।",
+      "answerText": "दुष्प्रभाव"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "सप्ताहांत में एक दवा की दुकान आपातकालीन सेवा में खुली रहती है।",
+      "answerText": "दवा की दुकान"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "कल से मुझे खाँसी है।",
+      "answerText": "है"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "मुझे गोलियाँ कितनी बार लेनी चाहिए?",
+      "answerText": "लेनी"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "हम कल तक दवा मँगवा देंगे।",
+      "answerText": "मँगवा देंगे"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "मलहम दिन में दो बार लगाइए।",
+      "answerText": "लगाइए"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "कृपया ख़ूब पानी पीजिए।",
+      "answerText": "पीजिए"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "दवा की दुकान",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "दवा",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "मलहम",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "पट्टी (बैंड-एड)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "डिब्बा",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "बूँद",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "क्या आपके पास खाँसी की कोई दवा है?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "मुझे गोलियाँ कितनी बार लेनी चाहिए?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "मुझे सिरदर्द की दवा चाहिए।",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "क्या इसके लिए पर्ची चाहिए?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "दवा की दुकान",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "दवा",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "पट्टी",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "दुष्प्रभाव",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "खाँसी",
+      "answerText": null
+    }
+  ]
+}

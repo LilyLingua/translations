@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.534Z"
+  },
+  "title": "Autobusem i pociągiem",
+  "instructions": {
+    "bus-und-bahn-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "bus-und-bahn-gap": "Zaznacz pasujące słowo.",
+    "bus-und-bahn-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "bus-und-bahn-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "bus-und-bahn-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "bus-und-bahn-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Z nim możesz jechać autobusem lub pociągiem.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "biletomat",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Tu kupujesz bilet bez kasy.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "tor (peron)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Tu pociąg zatrzymuje się na dworcu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "opóźnienie",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Pociąg przyjeżdża później, niż planowano.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "przesiadać się",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Przechodzisz z jednego pociągu do drugiego.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "przystanek",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Tu zatrzymuje się autobus.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Bilet miesięczny na autobusy i pociągi regionalne w całych Niemczech.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Pociąg do Kolonii odjeżdża z toru 5.",
+      "answerText": "toru"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Pociąg ma dziesięć minut opóźnienia.",
+      "answerText": "opóźnienia"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Gdzie jest najbliższy przystanek?",
+      "answerText": "przystanek"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Poproszę bilet do Berlina.",
+      "answerText": "bilet"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Proszę pokazać bilet.",
+      "answerText": "bilet"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metro jeździ co dziesięć minut.",
+      "answerText": "Metro"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "W automacie można kupić bilety.",
+      "answerText": "automacie"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Gdzie muszę się przesiąść?",
+      "answerText": "przesiąść"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Autobus odjeżdża o 8:15.",
+      "answerText": "odjeżdża"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Przyjeżdżamy do Hamburga o 10:00.",
+      "answerText": "Przyjeżdżamy"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Proszę tu wysiąść.",
+      "answerText": "wysiąść"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Ile trwa podróż?",
+      "answerText": "trwa"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "pociąg",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "dworzec",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "tor",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "przystanek",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "autobus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Kiedy odjeżdża następny pociąg do Monachium?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Muszę się przesiąść w Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Pociąg ma niestety opóźnienie.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Czy bilet jest ważny także w autobusie?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "opóźnienie",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "przystanek",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "tor",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "dworzec",
+      "answerText": null
+    }
+  ]
+}

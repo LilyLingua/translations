@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.424Z"
+  },
+  "title": "Le premier jour de travail",
+  "instructions": {
+    "erster-arbeitstag-matching": "Reliez chaque mot à l'explication qui convient.",
+    "erster-arbeitstag-gap": "Cochez la bonne forme.",
+    "erster-arbeitstag-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "erster-arbeitstag-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "erster-arbeitstag-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "erster-arbeitstag-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "le collègue",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Un homme avec qui vous travaillez.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "la cheffe",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Elle dirige l'équipe.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "la pause",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Le temps libre pendant le travail, par exemple pour manger.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "les congés",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Des jours libres où vous ne travaillez pas mais êtes quand même payé.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "l'heure supplémentaire",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Une heure que vous travaillez en plus de ce qui était prévu.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "le contrat de travail",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Il indique le salaire, le temps de travail et les congés.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "la cantine",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Les employés y mangent dans l'entreprise.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Voici ma nouvelle collègue.",
+      "answerText": "ma"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Puis-je vous présenter mon collègue ?",
+      "answerText": "mon"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "J'aime travailler avec l'équipe.",
+      "answerText": "l'"
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "On se retrouve à la cantine.",
+      "answerText": "la"
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "J'ai une question.",
+      "answerText": "une"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Quand commence la pause ?",
+      "answerText": "la"
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Je donne le rapport à la cheffe.",
+      "answerText": "la"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Puis-je me présenter brièvement ?",
+      "answerText": "présenter"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Je travaille de 8 heures à 16 heures.",
+      "answerText": "travaille"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Où trouver les toilettes ?",
+      "answerText": "trouver"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Dans l'équipe, nous nous tutoyons.",
+      "answerText": "tutoyons"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Pouvez-vous m'expliquer cela, s'il vous plaît ?",
+      "answerText": "expliquer"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "le collègue",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "l'entreprise",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "le bureau",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "l'ordinateur",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "la réunion",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "l'équipe",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Puis-je me présenter brièvement ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Je suis nouveau dans l'équipe.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Quand commence la pause de midi ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Pouvez-vous m'expliquer cela ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "collègue",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "réunion",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "congés",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "bureau",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "heure supplémentaire",
+      "answerText": null
+    }
+  ]
+}

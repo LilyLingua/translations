@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "026be51c-9405-4b97-af01-ecf9672bc647",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Hamburg",
+  "topic": "Stadtstaat: Hafen, Elbphilharmonie, Fischmarkt, „Moin“",
+  "tasks": [
+    {
+      "id": "stadt-hamburg-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-hamburg-matching-1",
+          "term": "Moin!",
+          "meaning": "Norddeutscher Gruß – man sagt ihn den ganzen Tag, nicht nur morgens."
+        },
+        {
+          "id": "stadt-hamburg-matching-2",
+          "term": "der Hafen",
+          "meaning": "Hier kommen große Schiffe mit Containern an."
+        },
+        {
+          "id": "stadt-hamburg-matching-3",
+          "term": "die Elbphilharmonie",
+          "meaning": "Konzerthaus am Hafen; die Hamburger nennen es „Elphi“."
+        },
+        {
+          "id": "stadt-hamburg-matching-4",
+          "term": "der Michel",
+          "meaning": "So nennen Hamburger ihre bekannteste Kirche, St. Michaelis."
+        },
+        {
+          "id": "stadt-hamburg-matching-5",
+          "term": "das Franzbrötchen",
+          "meaning": "Süßes Gebäck mit Zimt, typisch für Hamburg."
+        },
+        {
+          "id": "stadt-hamburg-matching-6",
+          "term": "der Fischmarkt",
+          "meaning": "Markt an der Elbe, am Sonntag ganz früh am Morgen."
+        },
+        {
+          "id": "stadt-hamburg-matching-7",
+          "term": "das Schietwetter",
+          "meaning": "Norddeutsch für schlechtes Wetter mit Regen und Wind."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-hamburg-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-hamburg-gap-1",
+          "promptBefore": "Die Schiffe fahren auf",
+          "promptAfter": "Elbe.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-2",
+          "promptBefore": "Am Sonntag gehen wir früh auf",
+          "promptAfter": "Fischmarkt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-3",
+          "promptBefore": "Ich esse",
+          "promptAfter": "Fischbrötchen.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-4",
+          "promptBefore": "Das Konzert ist in",
+          "promptAfter": "Elbphilharmonie.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-5",
+          "promptBefore": "Wir machen eine Hafenrundfahrt mit",
+          "promptAfter": "Schiff.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-6",
+          "promptBefore": "Im Sommer sitzen viele Leute an",
+          "promptAfter": "Alster.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-hamburg-gap-7",
+          "promptBefore": "Von oben sieht man",
+          "promptAfter": "ganzen Hafen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-hamburg-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-hamburg-verbs-1",
+          "promptBefore": "In Hamburg",
+          "promptAfter": "man den ganzen Tag „Moin“.",
+          "correctAnswer": "sagt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        },
+        {
+          "id": "stadt-hamburg-verbs-2",
+          "promptBefore": "Große Containerschiffe",
+          "promptAfter": "im Hafen an.",
+          "correctAnswer": "kommen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ankommen"
+        },
+        {
+          "id": "stadt-hamburg-verbs-3",
+          "promptBefore": "Der Fischmarkt",
+          "promptAfter": "sehr früh am Sonntagmorgen.",
+          "correctAnswer": "beginnt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "beginnen"
+        },
+        {
+          "id": "stadt-hamburg-verbs-4",
+          "promptBefore": "Es",
+          "promptAfter": "schon wieder – typisches Schietwetter!",
+          "correctAnswer": "regnet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "regnen"
+        },
+        {
+          "id": "stadt-hamburg-verbs-5",
+          "promptBefore": "Hamburg",
+          "promptAfter": "ein eigenes Bundesland.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-hamburg-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-hamburg-table-1",
+          "article": "der",
+          "singular": "Hafen",
+          "plural": "Häfen"
+        },
+        {
+          "id": "stadt-hamburg-table-2",
+          "article": "das",
+          "singular": "Schiff",
+          "plural": "Schiffe"
+        },
+        {
+          "id": "stadt-hamburg-table-3",
+          "article": "die",
+          "singular": "Brücke",
+          "plural": "Brücken"
+        },
+        {
+          "id": "stadt-hamburg-table-4",
+          "article": "der",
+          "singular": "Kanal",
+          "plural": "Kanäle"
+        },
+        {
+          "id": "stadt-hamburg-table-5",
+          "article": "das",
+          "singular": "Konzert",
+          "plural": "Konzerte"
+        },
+        {
+          "id": "stadt-hamburg-table-6",
+          "article": "die",
+          "singular": "Kirche",
+          "plural": "Kirchen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-hamburg-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-hamburg-order-1",
+          "chunks": [
+            "Hamburg",
+            "liegt",
+            "an der Elbe"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-hamburg-order-2",
+          "chunks": [
+            "Am Sonntag",
+            "gehen wir",
+            "früh",
+            "auf den Fischmarkt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-hamburg-order-3",
+          "chunks": [
+            "Warst",
+            "du",
+            "schon",
+            "in der Elbphilharmonie"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-hamburg-order-4",
+          "chunks": [
+            "In Hamburg",
+            "sagt man",
+            "den ganzen Tag",
+            "Moin"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-hamburg-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-hamburg-spelling-1",
+          "correct": "Hafen",
+          "wrong": "Haafen"
+        },
+        {
+          "id": "stadt-hamburg-spelling-2",
+          "correct": "Schiff",
+          "wrong": "Schif"
+        },
+        {
+          "id": "stadt-hamburg-spelling-3",
+          "correct": "Konzert",
+          "wrong": "Konzärt"
+        },
+        {
+          "id": "stadt-hamburg-spelling-4",
+          "correct": "Regen",
+          "wrong": "Rehgen"
+        },
+        {
+          "id": "stadt-hamburg-spelling-5",
+          "correct": "Brücke",
+          "wrong": "Brüke"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

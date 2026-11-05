@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:43.000Z"
+  },
+  "title": "কেমনিৎস",
+  "instructions": {
+    "stadt-chemnitz-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-chemnitz-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-chemnitz-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-chemnitz-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-chemnitz-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-chemnitz-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-chemnitz-matching-1",
+      "translation": "\"নিশেল\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-1:meaning",
+      "translation": "কার্ল মার্ক্সের বিশাল মাথা; স্যাক্সন উপভাষায় \"নিশেল\" মানে \"মাথা\"।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2",
+      "translation": "কার্ল-মার্ক্স-শ্টাট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2:meaning",
+      "translation": "১৯৫৩ থেকে ১৯৯০ সাল পর্যন্ত কেমনিৎসের এই নাম ছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3",
+      "translation": "সাংস্কৃতিক রাজধানী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3:meaning",
+      "translation": "২০২৫ সালে কেমনিৎস ছিল ইউরোপের সাংস্কৃতিক রাজধানী।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4",
+      "translation": "প্রস্তরীভূত বন",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4:meaning",
+      "translation": "প্রায় ৩০ কোটি বছর আগে পাথরে পরিণত হওয়া গাছ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5",
+      "translation": "লাল টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5:meaning",
+      "translation": "শহরের ঠিক মাঝখানে মধ্যযুগের পুরোনো টাওয়ার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6",
+      "translation": "স্যাক্সনির ম্যানচেস্টার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6:meaning",
+      "translation": "পুরোনো ডাকনাম, কারণ আগে এখানে অনেক কারখানা ছিল।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7",
+      "translation": "CFC",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7:meaning",
+      "translation": "কেমনিৎসার FC, আকাশি নীল রঙের ফুটবল ক্লাব।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-1",
+      "translation": "অনেক পর্যটক নিশেলের ছবি তোলে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-2",
+      "translation": "জাদুঘরে আমরা প্রস্তরীভূত বন দেখি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-3",
+      "translation": "২০২৫ সালে কেমনিৎস পুরো এক বছর সংস্কৃতির উৎসব পালন করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-4",
+      "translation": "আমরা লাল টাওয়ারের কাছে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-5",
+      "translation": "আগে অনেকে একটি কারখানায় কাজ করত।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-6",
+      "translation": "মাথাটি একটি বেদির ওপর বসানো।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-7",
+      "translation": "ভক্তরা আকাশি নীল টুপি পরে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-verbs-1",
+      "translation": "মাথাটি ৭ মিটারেরও বেশি উঁচু।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-verbs-2",
+      "translation": "১৯৫৩ থেকে ১৯৯০ সাল পর্যন্ত কেমনিৎস কার্ল-মার্ক্স-শ্টাট নামে পরিচিত ছিল।",
+      "answerText": "পরিচিত"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-3",
+      "translation": "জাদুঘরে পাথর হয়ে যাওয়া গাছ দেখা যায়।",
+      "answerText": "দেখা"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-4",
+      "translation": "২০২৫ সালে অনেক দর্শনার্থী সাংস্কৃতিক রাজধানীতে এসেছিল।",
+      "answerText": "এসেছিল"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-5",
+      "translation": "CFC আকাশি নীল রঙে খেলে।",
+      "answerText": "খেলে"
+    },
+    {
+      "id": "stadt-chemnitz-table-1",
+      "translation": "মাথা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-2",
+      "translation": "গাছ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-3",
+      "translation": "পাথর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-4",
+      "translation": "টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-5",
+      "translation": "কারখানা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-6",
+      "translation": "টুপি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-1",
+      "translation": "নিশেল শহরের কেন্দ্রে দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-2",
+      "translation": "তুমি কি কখনো কেমনিৎসে গেছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-3",
+      "translation": "গাছগুলো পাথরে পরিণত হয়েছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-4",
+      "translation": "২০২৫ সালে কেমনিৎস ছিল সাংস্কৃতিক রাজধানী।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-1",
+      "translation": "মাথা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-2",
+      "translation": "পাথর",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-3",
+      "translation": "টাওয়ার",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-4",
+      "translation": "সংস্কৃতি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-5",
+      "translation": "বন",
+      "answerText": null
+    }
+  ]
+}

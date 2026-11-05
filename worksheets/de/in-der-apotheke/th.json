@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.595Z"
+  },
+  "title": "ที่ร้านขายยา",
+  "instructions": {
+    "in-der-apotheke-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "in-der-apotheke-gap": "ทำเครื่องหมายที่คำที่เหมาะสม",
+    "in-der-apotheke-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "in-der-apotheke-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "in-der-apotheke-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "in-der-apotheke-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "ใบสั่งยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "กระดาษจากแพทย์สำหรับซื้อยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ยาเม็ด",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "ยาเล็ก ๆ ที่กลืน",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "ยาน้ำแก้ไอ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "ยาน้ำสำหรับแก้ไอ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "ยาทา (ขี้ผึ้ง)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "ใช้ทาบนผิวหนัง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "ผลข้างเคียง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "ผลที่ไม่ต้องการของยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "เอกสารกำกับยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "กระดาษในกล่องยาที่มีข้อมูลทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "ส่วนที่ต้องจ่ายเอง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "เงินจำนวนเล็กน้อยสำหรับใบสั่งยาที่คุณจ่ายเอง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "ฉันมีใบสั่งยาจากหมอ",
+      "answerText": "ใบสั่งยา"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "มียาแก้เจ็บคอไหม",
+      "answerText": "เจ็บคอ"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "กินยาวันละสองเม็ด",
+      "answerText": "ยา"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "ยาทานี้ใช้สำหรับผิวหนัง",
+      "answerText": "ผิวหนัง"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "กรุณาอ่านเอกสารกำกับยา",
+      "answerText": "เอกสารกำกับยา"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "ยานี้แทบไม่มีผลข้างเคียง",
+      "answerText": "ผลข้างเคียง"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "ช่วงสุดสัปดาห์มีร้านขายยาเปิดเวร",
+      "answerText": "ร้านขายยา"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "ฉันไอตั้งแต่เมื่อวาน",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "ฉันควรกินยาวันละกี่ครั้ง",
+      "answerText": "กิน"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "เราจะสั่งยาให้ภายในพรุ่งนี้",
+      "answerText": "สั่ง"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "ทายาวันละสองครั้ง",
+      "answerText": "ทา"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "กรุณาดื่มน้ำมาก ๆ",
+      "answerText": "ดื่ม"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "ร้านขายยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "ยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "ยาทา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "พลาสเตอร์ปิดแผล",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "กล่อง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "หยด",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "มียาแก้ไอไหม",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "ฉันควรกินยาวันละกี่ครั้ง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "ฉันต้องการยาแก้ปวดหัว",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "ยานี้ต้องมีใบสั่งยาไหม",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "ร้านขายยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "ยา",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "พลาสเตอร์ปิดแผล",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "ผลข้างเคียง",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ไอ",
+      "answerText": null
+    }
+  ]
+}

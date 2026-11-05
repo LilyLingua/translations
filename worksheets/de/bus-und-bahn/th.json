@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.515Z"
+  },
+  "title": "เดินทางด้วยรถบัสและรถไฟ",
+  "instructions": {
+    "bus-und-bahn-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "bus-und-bahn-gap": "ทำเครื่องหมายที่คำที่เหมาะสม",
+    "bus-und-bahn-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "bus-und-bahn-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "bus-und-bahn-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "bus-und-bahn-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ตั๋ว",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "มีตั๋วแล้วคุณขึ้นรถบัสหรือรถไฟได้",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "เครื่องขายตั๋วอัตโนมัติ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "ที่นี่ซื้อตั๋วได้โดยไม่ต้องไปที่ช่องขายตั๋ว",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "ชานชาลา (ราง)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "ที่รถไฟจอดในสถานี",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "ความล่าช้า",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "รถไฟมาช้ากว่ากำหนด",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "เปลี่ยนรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "เปลี่ยนจากรถไฟขบวนหนึ่งไปอีกขบวนหนึ่ง",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "ป้ายรถเมล์",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "ที่รถบัสจอด",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "ดอยช์ลันด์ทิกเก็ต (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "ตั๋วรายเดือนสำหรับรถบัสและรถไฟท้องถิ่นทั่วเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "รถไฟไปโคโลญออกจากชานชาลาที่ 5",
+      "answerText": "ชานชาลา"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "รถไฟล่าช้าสิบนาที",
+      "answerText": "ล่าช้า"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "ป้ายรถเมล์ที่ใกล้ที่สุดอยู่ที่ไหน",
+      "answerText": "ป้ายรถเมล์"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "ขอตั๋วไปเบอร์ลินหนึ่งใบ",
+      "answerText": "ตั๋ว"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "กรุณาแสดงตั๋วของคุณ",
+      "answerText": "ตั๋ว"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "รถไฟใต้ดินมาทุกสิบนาที",
+      "answerText": "รถไฟใต้ดิน"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "คุณซื้อตั๋วได้ที่เครื่องขายตั๋ว",
+      "answerText": "เครื่อง"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "ฉันต้องเปลี่ยนรถที่ไหน",
+      "answerText": "เปลี่ยน"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "รถบัสออกเวลา 8.15 น.",
+      "answerText": "ออก"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "เราถึงฮัมบวร์กเวลา 10 โมง",
+      "answerText": "ถึง"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "กรุณาลงที่นี่",
+      "answerText": "ลง"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "การเดินทางใช้เวลานานเท่าไร",
+      "answerText": "ใช้เวลา"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "รถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "สถานีรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ตั๋ว",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "ชานชาลา",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "ป้ายรถเมล์",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "รถบัส",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "รถไฟขบวนถัดไปไปมิวนิกออกเมื่อไร",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "ฉันต้องเปลี่ยนรถไฟที่มันไฮม์",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "น่าเสียดายที่รถไฟล่าช้า",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "ตั๋วนี้ใช้กับรถบัสได้ด้วยไหม",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ตั๋ว",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "ความล่าช้า",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "ป้ายรถเมล์",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "ชานชาลา",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "สถานีรถไฟ",
+      "answerText": null
+    }
+  ]
+}

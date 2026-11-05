@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:58.877Z"
+  },
+  "title": "ดึสเซลดอร์ฟ",
+  "instructions": {
+    "stadt-duesseldorf-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-duesseldorf-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-duesseldorf-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-duesseldorf-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-duesseldorf-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-duesseldorf-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "\"อัลท์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "เบียร์สีเข้มของดึสเซลดอร์ฟ ดื่มจากแก้วเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "\"เคอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "ชื่อย่อของเคอนิกสอัลเล ถนนช้อปปิ้งหรูหรา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "หอคอยไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "หอโทรทัศน์ริมแม่น้ำไรน์ที่มีนาฬิกาทำจากไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "\"เฮเลา!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "เสียงตะโกนในงานคาร์นิวัลของดึสเซลดอร์ฟ – ไม่ใช่ \"อาลาฟ\" แบบที่โคโลญ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "เด็กตีลังกา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "เด็กที่ตีลังกาแบบล้อเกวียน เป็นสัญลักษณ์ของเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "เมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "ย่านเก่าที่มีผับมากมาย ได้ชื่อว่า \"บาร์ที่ยาวที่สุดในโลก\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "\"เคอเบส\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "พนักงานเสิร์ฟในโรงเบียร์ เขานำอัลท์แก้วใหม่มาโดยไม่ต้องถาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "เขาดื่มอัลท์ในเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "เคอเป็นถนนช้อปปิ้งราคาแพง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "จากยอดหอคอยไรน์มองเห็นทั้งเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "ในวันจันทร์กุหลาบพวกเราดูขบวนพาเหรด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "พวกเราเดินเล่นริมฝั่งแม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "ฉันซื้อมัสตาร์ดดึสเซลดอร์ฟหนึ่งขวด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "เคอเบสนำอัลท์แก้วใหม่มา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "ช่วงคาร์นิวัล คนดึสเซลดอร์ฟตะโกนว่า \"เฮเลา\"",
+      "answerText": "ตะโกน"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "เคอเบสนำอัลท์แก้วต่อไปมาโดยไม่ถาม",
+      "answerText": "นำ"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "แม่น้ำไรน์ไหลผ่านกลางเมือง",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "ผู้คนมากมายช้อปปิ้งที่เคอ",
+      "answerText": "ช้อปปิ้ง"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "เด็ก ๆ ตีลังกาเหมือนเด็กสัญลักษณ์ของเมือง",
+      "answerText": "ตีลังกา"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "แก้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "ริมฝั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "ขบวนพาเหรด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "โรงเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "ถนน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "เขาดื่มอัลท์ในเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "เคอเป็นถนนช้อปปิ้งที่หรูหรา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "วันจันทร์กุหลาบไปดูขบวนพาเหรดด้วยกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "เคอเบสนำแก้วใหม่มาทันที",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "คาร์นิวัล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "โรงเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "เคาน์เตอร์บาร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "แก้ว",
+      "answerText": null
+    }
+  ]
+}

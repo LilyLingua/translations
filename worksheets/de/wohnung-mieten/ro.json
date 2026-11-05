@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.830Z"
+  },
+  "title": "Închirierea unei locuințe",
+  "instructions": {
+    "wohnung-mieten-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "wohnung-mieten-gap": "Bifați forma corectă a articolului.",
+    "wohnung-mieten-verbs": "Completați cu verbul corect la forma corectă.",
+    "wohnung-mieten-table": "Completați articolul (der/die/das) și forma de plural.",
+    "wohnung-mieten-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "wohnung-mieten-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "chiria",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Banii pe care îi plătești în fiecare lună pentru locuință.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "garanția",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Bani pe care proprietarul îi primește la început ca siguranță.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "costurile suplimentare (utilitățile)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Costuri pentru apă, încălzire și gunoi.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "contractul de închiriere",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Contractul dintre chiriaș și proprietar.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "vizionarea",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Te uiți la locuință înainte s-o închiriezi.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "administratorul clădirii",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Se ocupă de clădire și repară lucruri mici.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "regulamentul blocului",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Regulile pentru toți locatarii, de exemplu orele de liniște.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Căutăm o locuință cu balcon.",
+      "answerText": "o"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Vorbesc cu proprietarul.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Îi dau proprietăresei garanția.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Pun bicicleta în curte.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Cheia este pe masă.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Încălzirea din bucătărie este stricată.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Locuiesc în această locuință de un an.",
+      "answerText": "această"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Când pot să văd locuința?",
+      "answerText": "văd"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Chiria costă 850 de euro cu utilități.",
+      "answerText": "costă"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Ne mutăm pe 1 decembrie.",
+      "answerText": "mutăm"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Încălzirea e stricată. O puteți repara, vă rog?",
+      "answerText": "repara"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Vă rog să sortați gunoiul.",
+      "answerText": "sortați"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "camera",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "bucătăria",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "balconul",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "baia",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "cheia",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "încălzirea",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Locuința mai este liberă?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Cât sunt costurile suplimentare?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Când pot să văd locuința?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Aș dori să închiriez locuința.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "garanție",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "costuri suplimentare",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balcon",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "cheie",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "încălzire",
+      "answerText": null
+    }
+  ]
+}

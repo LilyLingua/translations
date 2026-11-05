@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.839Z"
+  },
+  "title": "전화로 예약하기",
+  "instructions": {
+    "termine-am-telefon-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "termine-am-telefon-gap": "올바른 전치사에 표시하세요.",
+    "termine-am-telefon-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "termine-am-telefon-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "termine-am-telefon-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "termine-am-telefon-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "자동 응답기",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "여기에 메시지를 남길 수 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "내선 번호",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "회사 안 어떤 사람의 직통 번호.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "다시 전화하다",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "전에 전화했던 사람에게 나중에 전화하는 것.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "연기하다",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "약속을 다른 날로 옮기는 것.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "취소하다",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "약속에 가지 않겠다고 말하는 것.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "상담 시간",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "누군가와 연락할 수 있는 시간.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "철자를 말하다",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "단어를 한 글자씩 말하는 것.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "월요일에 시간 있으세요?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10시 괜찮으세요?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "저는 12월에야 시간이 있어요.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "병원은 주말에 문을 닫습니다.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "한 시간 후에 다시 전화드릴게요.",
+      "answerText": "후에"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "2주 전부터 예약을 기다리고 있어요.",
+      "answerText": "전부터"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "예약 10분 전에 와 주세요.",
+      "answerText": "전에"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "베버 씨와 통화할 수 있을까요?",
+      "answerText": "통화할"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "안타깝지만 예약을 취소해야 합니다.",
+      "answerText": "취소해야"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "저에게 다시 전화해 주실 수 있어요?",
+      "answerText": "다시 전화해"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "제 번호를 드릴게요.",
+      "answerText": "드릴게요"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "성함을 어떻게 쓰세요?",
+      "answerText": "쓰세요"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "통화",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "번호",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "메시지",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "전화",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "시간(시각)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "휴대폰",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "약속을 연기하고 싶어요.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "언제 시간 있으세요?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "내일 다시 전화할게요.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "목요일 9시 괜찮으세요?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "메시지",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "전화",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "예약",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "다시 전화하다",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "시각",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "mx",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:39.531Z"
+  },
+  "title": "Rentar un departamento",
+  "instructions": {
+    "en-renting-an-apartment-matching": "Relaciona cada palabra con su significado.",
+    "en-renting-an-apartment-gap": "Elige la palabra correcta.",
+    "en-renting-an-apartment-verbs": "Escribe el verbo correcto.",
+    "en-renting-an-apartment-order": "Ordena las palabras y escribe la oración.",
+    "en-renting-an-apartment-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "en-renting-an-apartment-matching-1",
+      "translation": "la renta",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-1:meaning",
+      "translation": "El dinero que pagas cada mes para vivir en un departamento.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2",
+      "translation": "el arrendador / la arrendadora",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2:meaning",
+      "translation": "La persona que es dueña del departamento y lo renta.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3",
+      "translation": "el depósito",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3:meaning",
+      "translation": "Dinero que pagas al principio y que te devuelven cuando te mudas.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4",
+      "translation": "el contrato de arrendamiento",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4:meaning",
+      "translation": "El contrato entre tú y el arrendador.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5",
+      "translation": "los servicios",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5:meaning",
+      "translation": "Agua, luz y calefacción.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6",
+      "translation": "la visita",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6:meaning",
+      "translation": "Una visita para ver el departamento antes de rentarlo.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-gap-1",
+      "translation": "¿Cuánto es la renta al mes?",
+      "answerText": "renta"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-2",
+      "translation": "¿Los servicios están incluidos en la renta?",
+      "answerText": "servicios"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-3",
+      "translation": "El depósito es de dos meses de renta.",
+      "answerText": "depósito"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-4",
+      "translation": "¿Cuándo puedo venir a una visita?",
+      "answerText": "visita"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-5",
+      "translation": "Por favor, lee el contrato antes de firmarlo.",
+      "answerText": "contrato"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-6",
+      "translation": "El departamento tiene dos recámaras y un balcón.",
+      "answerText": "recámaras"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-1",
+      "translation": "Busco un departamento de dos recámaras.",
+      "answerText": "Busco"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-2",
+      "translation": "¿Cuándo está disponible el departamento?",
+      "answerText": "está"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-3",
+      "translation": "¿Puedo tener mascotas?",
+      "answerText": "tener"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-4",
+      "translation": "Ayer firmamos el contrato.",
+      "answerText": "firmamos"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-5",
+      "translation": "El arrendador nos entrega las llaves el lunes.",
+      "answerText": "entrega"
+    },
+    {
+      "id": "en-renting-an-apartment-order-1",
+      "translation": "¿El departamento todavía está disponible?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-2",
+      "translation": "Me gustaría ver el departamento.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-3",
+      "translation": "¿Cuánto es el depósito?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-4",
+      "translation": "La renta se paga el primero de cada mes.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-1",
+      "translation": "departamento",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-2",
+      "translation": "recámara",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-3",
+      "translation": "depósito",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-4",
+      "translation": "disponible",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-5",
+      "translation": "electricidad",
+      "answerText": null
+    }
+  ]
+}

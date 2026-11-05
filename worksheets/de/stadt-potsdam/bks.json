@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:14.380Z"
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-potsdam-gap": "Označi tačnu riječ.",
+    "stadt-potsdam-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-potsdam-table": "Upiši član i oblik množine.",
+    "stadt-potsdam-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-potsdam-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "Dvorac Fridriha Velikog; ime je francusko i znači „bez brige“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "„Stari Fric“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "Nadimak pruskog kralja Fridriha II.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "krompir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "Stari Fric ga je učinio popularnim u Pruskoj; ljudi stavljaju krompir na njegov grob.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "Holandski kvart",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "Kvart s kućama od crvene cigle u holandskom stilu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "Ovdje su veliki filmski studiji; snima se mnogo filmova.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "most Glienicke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "Most prema Berlinu; u Hladnom ratu ovdje su se razmjenjivali špijuni.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "Rijeka s mnogo jezera oko Potsdama.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "Posjećujemo dvorac Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "Na grobu Starog Frica leži krompir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "Šetamo kroz Holandski kvart.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "U Babelsbergu se snima novi film.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "Vozimo se brodom po Havelu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Potsdam leži odmah pored glavnog grada Berlina.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "Most Glienicke ide preko Havela.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "Fridrih Veliki je rado živio u Sanssouciju.",
+      "answerText": "živio"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "Posjetioci stavljaju krompir na njegov grob.",
+      "answerText": "stavljaju"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "U Babelsbergu se snima mnogo filmova.",
+      "answerText": "snima"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "S-Bahnom se brzo stiže u Berlin.",
+      "answerText": "stiže"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "Godine 1945. u dvorcu Cecilienhof održana je Potsdamska konferencija.",
+      "answerText": "održana"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "dvorac",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "kralj",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "krompir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "studio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "film",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "grob",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "Stari Fric je živio u Sanssouciju.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "Na njegovom grobu uvijek leži krompir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "Jesi li već bio u Filmparku Babelsberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Potsdam leži odmah pored Berlina.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "kralj",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "krompir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "dvorac",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "film",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "vrt",
+      "answerText": null
+    }
+  ]
+}

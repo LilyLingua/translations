@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.008Z"
+  },
+  "title": "Kopshti dhe shkolla",
+  "instructions": {
+    "kita-und-schule-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "kita-und-schule-gap": "Shënoni fjalën e duhur.",
+    "kita-und-schule-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "kita-und-schule-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "kita-und-schule-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "kita-und-schule-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "mbledhja e prindërve",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Një takim i prindërve me mësuesit.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "kopshti i fëmijëve",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Këtu kujdesen për fëmijët e vegjël gjatë ditës.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "mësuesja kujdestare",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Ajo është përgjegjëse për një klasë.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "dëftesa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Këtu janë notat në fund të vitit shkollor.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "arsyetimi (letër mungese)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Një letër e shkurtër për shkollën, kur fëmija juaj ka qenë i sëmurë.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "pushimet",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Koha pa shkollë, për shembull në verë.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "ekskursioni",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Klasa shkon bashkë në një vend tjetër.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Djali im është i sëmurë. Sot nuk mund të vijë në shkollë.",
+      "answerText": "shkollë"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Në mbledhjen e prindërve prindërit flasin me mësuesen.",
+      "answerText": "mbledhjen e prindërve"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Në verë fëmijët kanë gjashtë javë pushime.",
+      "answerText": "pushime"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Në fund të vitit shkollor vajza ime merr një dëftesë.",
+      "answerText": "dëftesë"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "I shkruaj mësueses një arsyetim, sepse fëmija im ka qenë i sëmurë.",
+      "answerText": "arsyetim"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Fëmijët duhet të bëjnë detyra shtëpie çdo ditë.",
+      "answerText": "detyra shtëpie"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Fëmija im është tre vjeç dhe shkon në kopsht.",
+      "answerText": "kopsht"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "E marr fëmijën tim në orën 16.",
+      "answerText": "marr"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Vajza ime sot fatkeqësisht është e sëmurë.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "A mund të caktojmë një takim?",
+      "answerText": "caktojmë"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Mësimi fillon në orën 8.",
+      "answerText": "fillon"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Ju lutem nënshkruani formularin deri të premten.",
+      "answerText": "nënshkruani"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "fëmija",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "klasa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "mësuesi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "fletorja",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "nota",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "stilolapsi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Djali im sot është i sëmurë.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Kur fillon mbledhja e prindërve?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "E marr vajzën time në orën 15.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "A i duhet diçka fëmijës tim për ekskursionin?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "mbledhja e prindërve",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "dëftesa",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "arsyetimi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "detyrat e shtëpisë",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "mësuesja kujdestare",
+      "answerText": null
+    }
+  ]
+}

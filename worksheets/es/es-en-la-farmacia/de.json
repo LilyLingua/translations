@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:39.099Z"
+  },
+  "title": "In der Apotheke",
+  "instructions": {
+    "es-en-la-farmacia-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-en-la-farmacia-gap": "Wähle das richtige Wort.",
+    "es-en-la-farmacia-verbs": "Schreib das richtige Verb.",
+    "es-en-la-farmacia-order": "Ordne die Wörter und schreib den Satz.",
+    "es-en-la-farmacia-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-en-la-farmacia-matching-1",
+      "translation": "das Rezept",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-1:meaning",
+      "translation": "Ein Zettel vom Arzt mit dem Medikament, das du brauchst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-2",
+      "translation": "der Apotheker / die Apothekerin",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-2:meaning",
+      "translation": "Die Person, die Medikamente verkauft und berät.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-3",
+      "translation": "die Nebenwirkung",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-3:meaning",
+      "translation": "Eine unerwünschte Wirkung eines Medikaments.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-4",
+      "translation": "die Tablette",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-4:meaning",
+      "translation": "Ein kleines, festes Medikament, das man schluckt.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-5",
+      "translation": "der Saft, der Sirup",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-5:meaning",
+      "translation": "Ein flüssiges Medikament, zum Beispiel gegen Husten.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-6",
+      "translation": "die Dosis",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-matching-6:meaning",
+      "translation": "Wie viel Medikament du auf einmal nimmst.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-gap-1",
+      "translation": "Ich habe Grippe und Halsschmerzen.",
+      "answerText": "Grippe"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-2",
+      "translation": "Brauche ich ein Rezept für dieses Medikament?",
+      "answerText": "Rezept"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-3",
+      "translation": "Nehmen Sie dreimal täglich eine Tablette.",
+      "answerText": "Tablette"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-4",
+      "translation": "Hat dieses Medikament Nebenwirkungen?",
+      "answerText": "Nebenwirkungen"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-5",
+      "translation": "Wenn Sie Fragen haben, fragen Sie den Apotheker.",
+      "answerText": "Apotheker"
+    },
+    {
+      "id": "es-en-la-farmacia-gap-6",
+      "translation": "Ich möchte bitte einen Hustensaft.",
+      "answerText": "Hustensaft"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-1",
+      "translation": "Ich brauche etwas gegen Kopfschmerzen.",
+      "answerText": "brauche"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-2",
+      "translation": "Haben Sie eine Allergie?",
+      "answerText": "Haben"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-3",
+      "translation": "Bitte nehmen Sie dieses Medikament nach dem Essen.",
+      "answerText": "nehmen"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-4",
+      "translation": "Der Apotheker erklärt mir, wie man das Spray benutzt.",
+      "answerText": "erklärt"
+    },
+    {
+      "id": "es-en-la-farmacia-verbs-5",
+      "translation": "Wie viel kostet dieses Medikament?",
+      "answerText": "kostet"
+    },
+    {
+      "id": "es-en-la-farmacia-order-1",
+      "translation": "Brauche ich für dieses Medikament ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-2",
+      "translation": "Mir tut der Kopf sehr weh.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-3",
+      "translation": "Nehmen Sie morgens zwei Tabletten.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-order-4",
+      "translation": "Was empfehlen Sie gegen Husten?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-1",
+      "translation": "Medikament",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-2",
+      "translation": "Apotheke",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-3",
+      "translation": "Saft, Sirup",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-4",
+      "translation": "Allergie",
+      "answerText": null
+    },
+    {
+      "id": "es-en-la-farmacia-spelling-5",
+      "translation": "Rezept",
+      "answerText": null
+    }
+  ]
+}

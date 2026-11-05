@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:10.117Z"
+  },
+  "title": "ハノーファー",
+  "instructions": {
+    "stadt-hannover-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-hannover-gap": "正しい単語に印をつけましょう。",
+    "stadt-hannover-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-hannover-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-hannover-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-hannover-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "見本市",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "企業のための大きな展示会。ハノーファーには巨大な見本市会場がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "マッシュ湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "街の中の人工湖で、ヨット、ジョギング、お祭りに使われる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "赤い糸",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "地面に引かれた赤い線で、名所へ案内してくれる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "標準ドイツ語",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "標準語。ハノーファーでは特にはっきり話される。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "「リュッチェ・ラーゲ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "二つのグラスのビールと蒸留酒を同時に飲むもの。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "射撃祭",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "夏のとても大きな民衆祭りで、長いパレードがある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "「ナナ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "ライネ川のほとりにある大きくてカラフルな女性像。ニキ・ド・サンファル作。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "私たちは赤い糸をたどって街を歩きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "夏には多くの人がマッシュ湖のまわりをジョギングします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "その会社は見本市に出展しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "私たちはエレベーターで市庁舎のドームに上ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "ナナたちはライネ川のほとりに立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "私たちはヘレンハウゼン王宮庭園を訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "彼はリュッチェ・ラーゲを試してみます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "赤い糸は多くの名所へ続いています。",
+      "answerText": "続いて"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "新市庁舎では斜めに動くエレベーターがドームまで上ります。",
+      "answerText": "上り"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "多くの企業が見本市で製品を見せます。",
+      "answerText": "見せ"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "ハノーファーの人はとてもはっきりした標準ドイツ語を話します。",
+      "answerText": "話し"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "2000年にハノーファーで万国博覧会エキスポが開かれました。",
+      "answerText": "開かれ"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "見本市",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "庭園",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "糸",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "像",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "市庁舎",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "エレベーター",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "赤い糸は中心部を通っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "夏には多くの人がマッシュ湖でヨットに乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "エレベーターでドームに上りますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "ハノーファーでははっきりした標準ドイツ語を話します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "見本市",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "名所",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "エレベーター",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "像",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "ドーム",
+      "answerText": null
+    }
+  ]
+}

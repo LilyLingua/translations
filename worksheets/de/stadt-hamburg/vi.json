@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:25.340Z"
+  },
+  "title": "Hamburg",
+  "instructions": {
+    "stadt-hamburg-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-hamburg-gap": "Đánh dấu từ đúng.",
+    "stadt-hamburg-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-hamburg-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-hamburg-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-hamburg-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"Moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Lời chào miền Bắc nước Đức – nói cả ngày, không chỉ buổi sáng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "bến cảng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Tàu lớn chở container cập bến ở đây.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Nhà hòa nhạc ở bến cảng; người Hamburg gọi là \"Elphi\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"Michel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Người Hamburg gọi nhà thờ nổi tiếng nhất, nhà thờ Thánh Michael, như vậy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Bánh ngọt có quế, đặc sản Hamburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "chợ cá",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Chợ bên sông Elbe, mở rất sớm vào sáng Chủ nhật.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"Schietwetter\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "Từ miền Bắc chỉ thời tiết xấu có mưa và gió.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Tàu thuyền chạy trên sông Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "Chủ nhật chúng tôi đi chợ cá sớm.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Tôi ăn một cái bánh mì kẹp cá.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "Buổi hòa nhạc ở Elbphilharmonie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Chúng tôi đi tàu tham quan bến cảng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "Mùa hè nhiều người ngồi bên hồ Alster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Từ trên cao có thể nhìn thấy cả bến cảng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "Ở Hamburg người ta nói \"Moin\" cả ngày.",
+      "answerText": "nói"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Tàu container lớn cập cảng.",
+      "answerText": "cập"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "Chợ cá bắt đầu rất sớm vào sáng Chủ nhật.",
+      "answerText": "bắt đầu"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "Trời lại mưa – đúng là Schietwetter!",
+      "answerText": "mưa"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Hamburg là một bang riêng.",
+      "answerText": "là"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "bến cảng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "con tàu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "cây cầu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "con kênh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "buổi hòa nhạc",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "nhà thờ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Hamburg nằm bên sông Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "Chủ nhật chúng tôi đi chợ cá sớm.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Bạn đã đến Elbphilharmonie chưa?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "Ở Hamburg người ta nói \"Moin\" cả ngày.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "bến cảng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "con tàu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "buổi hòa nhạc",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "mưa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "cây cầu",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.530Z"
+  },
+  "title": "בסופרמרקט",
+  "instructions": {
+    "im-supermarkt-matching": "חברו כל מילה להסבר המתאים.",
+    "im-supermarkt-gap": "סמנו את האריזה או הכמות המתאימה.",
+    "im-supermarkt-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "im-supermarkt-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "im-supermarkt-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "im-supermarkt-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "עגלת קניות",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "שמים בה את המצרכים בזמן הקניות.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "דלפק הגבינות",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "כאן מקבלים גבינה טרייה לפי משקל.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "פיקדון על בקבוקים (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "כסף שמקבלים בחזרה על בקבוקים ריקים.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "מכונת החזרת בקבוקים",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "כאן מחזירים בקבוקים ריקים.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "מבצע",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "מוצר זול יותר לזמן קצר.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "קבלה",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "על הנייר הזה כתובים כל המחירים.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "שקית",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "בה סוחבים את הקניות הביתה.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "אני קונה גביע יוגורט.",
+      "answerText": "גביע"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "ועוד בקבוק מים, בבקשה.",
+      "answerText": "בקבוק"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "אנחנו צריכים חבילת פסטה.",
+      "answerText": "חבילת"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "לרוטב אני לוקח קופסת עגבניות.",
+      "answerText": "קופסת"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "אני רוצה 200 גרם גאודה, בבקשה.",
+      "answerText": "גרם"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "חבילת חמאה עולה 2.29 יורו.",
+      "answerText": "חבילת"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "אני לוקח ליטר חלב.",
+      "answerText": "ליטר"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "אפשר לפרוט לי חמישה יורו?",
+      "answerText": "לפרוט"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "סליחה, איפה אמצא קמח?",
+      "answerText": "אמצא"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "אני משלם בכרטיס.",
+      "answerText": "משלם"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "הייתי רוצה 200 גרם גאודה.",
+      "answerText": "הייתי רוצה"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "ביום ראשון כמעט כל הסופרמרקטים סגורים.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "בקבוק",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "גביע",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "קופסת שימורים",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "לחם",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "תפוח",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "בננה",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "סליחה, איפה אמצא קמח?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "יש לי תיק איתי.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "הבננות במבצע היום.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "איפה מכונת החזרת הבקבוקים?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "עגלת קניות",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "קבלה",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "פיקדון על בקבוקים",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "גבינה",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "לחמנייה",
+      "answerText": null
+    }
+  ]
+}

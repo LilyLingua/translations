@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "1a64bb23-6f2e-4cc3-8503-9dafa2b1b18a",
+    "level": "A2"
+  },
+  "title": "У банку",
+  "topic": "Відкрити рахунок, користуватися карткою й робити перекази",
+  "tasks": [
+    {
+      "id": "uk-u-banku-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-u-banku-matching-1",
+          "term": "рахунок",
+          "meaning": "Місце в банку, де зберігаються ваші гроші."
+        },
+        {
+          "id": "uk-u-banku-matching-2",
+          "term": "банківська картка",
+          "meaning": "Картка, якою платять грошима з рахунку."
+        },
+        {
+          "id": "uk-u-banku-matching-3",
+          "term": "PIN-код",
+          "meaning": "Таємне число для картки."
+        },
+        {
+          "id": "uk-u-banku-matching-4",
+          "term": "банкомат",
+          "meaning": "Автомат, де можна зняти готівку."
+        },
+        {
+          "id": "uk-u-banku-matching-5",
+          "term": "переказ",
+          "meaning": "Коли гроші відправляють з одного рахунку на інший."
+        },
+        {
+          "id": "uk-u-banku-matching-6",
+          "term": "баланс",
+          "meaning": "Скільки грошей є на рахунку."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-u-banku-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-u-banku-gap-1",
+          "promptBefore": "Я хочу відкрити",
+          "promptAfter": ".",
+          "correctAnswer": "рахунок",
+          "options": [
+            "рахунок",
+            "баланс",
+            "банкомат"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-banku-gap-2",
+          "promptBefore": "Введіть, будь ласка,",
+          "promptAfter": ".",
+          "correctAnswer": "PIN-код",
+          "options": [
+            "PIN-код",
+            "переказ",
+            "баланс"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-banku-gap-3",
+          "promptBefore": "Де найближчий",
+          "promptAfter": "?",
+          "correctAnswer": "банкомат",
+          "options": [
+            "банкомат",
+            "рахунок",
+            "переказ"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-banku-gap-4",
+          "promptBefore": "Я хочу зробити",
+          "promptAfter": "орендодавцю.",
+          "correctAnswer": "переказ",
+          "options": [
+            "переказ",
+            "банкомат",
+            "PIN-код"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-banku-gap-5",
+          "promptBefore": "Як перевірити",
+          "promptAfter": "картки?",
+          "correctAnswer": "баланс",
+          "options": [
+            "баланс",
+            "банкомат",
+            "переказ"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-banku-gap-6",
+          "promptBefore": "Моя банківська",
+          "promptAfter": "не працює.",
+          "correctAnswer": "картка",
+          "options": [
+            "картка",
+            "рахунок",
+            "переказ"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-u-banku-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-u-banku-verbs-1",
+          "promptBefore": "Я",
+          "promptAfter": "відкрити рахунок.",
+          "correctAnswer": "хочу",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "хотіти"
+        },
+        {
+          "id": "uk-u-banku-verbs-2",
+          "promptBefore": "Чи можна тут",
+          "promptAfter": "готівку?",
+          "correctAnswer": "зняти",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "зняти"
+        },
+        {
+          "id": "uk-u-banku-verbs-3",
+          "promptBefore": "Будь ласка,",
+          "promptAfter": "цей документ.",
+          "correctAnswer": "підпишіть",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "підписати"
+        },
+        {
+          "id": "uk-u-banku-verbs-4",
+          "promptBefore": "Картка",
+          "promptAfter": "через п'ять днів.",
+          "correctAnswer": "прийде",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "прийти"
+        },
+        {
+          "id": "uk-u-banku-verbs-5",
+          "promptBefore": "Ми",
+          "promptAfter": "PIN-код.",
+          "correctAnswer": "забули",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "забути"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-u-banku-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-u-banku-order-1",
+          "chunks": [
+            "Я хочу",
+            "відкрити",
+            "рахунок"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-u-banku-order-2",
+          "chunks": [
+            "Де",
+            "можна",
+            "зняти",
+            "гроші"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-banku-order-3",
+          "chunks": [
+            "Мою картку",
+            "заблокували"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-u-banku-order-4",
+          "chunks": [
+            "Скільки",
+            "коштує",
+            "обслуговування рахунку"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-u-banku-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-u-banku-spelling-1",
+          "correct": "рахунок",
+          "wrong": "рохунок"
+        },
+        {
+          "id": "uk-u-banku-spelling-2",
+          "correct": "банкомат",
+          "wrong": "банкамат"
+        },
+        {
+          "id": "uk-u-banku-spelling-3",
+          "correct": "гроші",
+          "wrong": "гроши"
+        },
+        {
+          "id": "uk-u-banku-spelling-4",
+          "correct": "переказ",
+          "wrong": "перекас"
+        },
+        {
+          "id": "uk-u-banku-spelling-5",
+          "correct": "підпис",
+          "wrong": "підпіс"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "924e6dd3-87cf-4c8e-ae09-538907d0ef93",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Dortmund",
+  "topic": "NRW: BVB, Gelbe Wand, Dortmunder U, Zeche",
+  "tasks": [
+    {
+      "id": "stadt-dortmund-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-dortmund-matching-1",
+          "term": "der BVB",
+          "meaning": "Borussia Dortmund – der große Fußballverein der Stadt, in Schwarz und Gelb."
+        },
+        {
+          "id": "stadt-dortmund-matching-2",
+          "term": "die Gelbe Wand",
+          "meaning": "Die riesige Südtribüne im Stadion; dort stehen die Fans dicht an dicht."
+        },
+        {
+          "id": "stadt-dortmund-matching-3",
+          "term": "das Dortmunder U",
+          "meaning": "Altes Brauerei-Hochhaus mit einem großen, leuchtenden U auf dem Dach."
+        },
+        {
+          "id": "stadt-dortmund-matching-4",
+          "term": "die Zeche",
+          "meaning": "Bergwerk; hier holte man früher Kohle aus der Erde."
+        },
+        {
+          "id": "stadt-dortmund-matching-5",
+          "term": "die Bude",
+          "meaning": "Kleiner Kiosk an der Ecke mit Getränken, Süßigkeiten und Zeitungen."
+        },
+        {
+          "id": "stadt-dortmund-matching-6",
+          "term": "der Pott",
+          "meaning": "Kurzes Wort für das Ruhrgebiet."
+        },
+        {
+          "id": "stadt-dortmund-matching-7",
+          "term": "der Weihnachtsbaum",
+          "meaning": "Auf dem Weihnachtsmarkt steht ein riesiger Baum aus vielen Tannen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-dortmund-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-dortmund-gap-1",
+          "promptBefore": "Am Samstag gehen wir in",
+          "promptAfter": "Stadion.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-2",
+          "promptBefore": "Die Fans stehen auf",
+          "promptAfter": "Südtribüne.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-3",
+          "promptBefore": "Wir kaufen etwas zu trinken an",
+          "promptAfter": "Bude.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-4",
+          "promptBefore": "Mein Opa hat in",
+          "promptAfter": "Zeche gearbeitet.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-5",
+          "promptBefore": "Auf dem Weihnachtsmarkt steht",
+          "promptAfter": "riesiger Weihnachtsbaum.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "einem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-6",
+          "promptBefore": "Oben auf",
+          "promptAfter": "Dortmunder U leuchtet ein großes U.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "das",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-dortmund-gap-7",
+          "promptBefore": "Wir besuchen",
+          "promptAfter": "Deutsche Fußballmuseum.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-dortmund-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-dortmund-verbs-1",
+          "promptBefore": "Die Fans",
+          "promptAfter": "laut für den BVB.",
+          "correctAnswer": "singen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "singen"
+        },
+        {
+          "id": "stadt-dortmund-verbs-2",
+          "promptBefore": "Früher",
+          "promptAfter": "viele Männer unter Tage.",
+          "correctAnswer": "arbeiteten",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arbeiten"
+        },
+        {
+          "id": "stadt-dortmund-verbs-3",
+          "promptBefore": "Der Weihnachtsbaum",
+          "promptAfter": "über 40 Meter hoch.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-dortmund-verbs-4",
+          "promptBefore": "Das U",
+          "promptAfter": "in der Nacht.",
+          "correctAnswer": "leuchtet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "leuchten"
+        },
+        {
+          "id": "stadt-dortmund-verbs-5",
+          "promptBefore": "Wir",
+          "promptAfter": "uns an der Bude.",
+          "correctAnswer": "treffen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "treffen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-dortmund-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-dortmund-table-1",
+          "article": "das",
+          "singular": "Stadion",
+          "plural": "Stadien"
+        },
+        {
+          "id": "stadt-dortmund-table-2",
+          "article": "der",
+          "singular": "Fan",
+          "plural": "Fans"
+        },
+        {
+          "id": "stadt-dortmund-table-3",
+          "article": "die",
+          "singular": "Zeche",
+          "plural": "Zechen"
+        },
+        {
+          "id": "stadt-dortmund-table-4",
+          "article": "das",
+          "singular": "Tor",
+          "plural": "Tore"
+        },
+        {
+          "id": "stadt-dortmund-table-5",
+          "article": "der",
+          "singular": "Verein",
+          "plural": "Vereine"
+        },
+        {
+          "id": "stadt-dortmund-table-6",
+          "article": "die",
+          "singular": "Bude",
+          "plural": "Buden"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-dortmund-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-dortmund-order-1",
+          "chunks": [
+            "Der BVB",
+            "spielt",
+            "im Westfalenstadion"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-dortmund-order-2",
+          "chunks": [
+            "Am Samstag",
+            "stehen",
+            "wir",
+            "auf der Südtribüne"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-dortmund-order-3",
+          "chunks": [
+            "Gehst",
+            "du",
+            "mit",
+            "ins Stadion"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-dortmund-order-4",
+          "chunks": [
+            "Dortmund",
+            "liegt",
+            "im Ruhrgebiet"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-dortmund-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-dortmund-spelling-1",
+          "correct": "Stadion",
+          "wrong": "Stadjon"
+        },
+        {
+          "id": "stadt-dortmund-spelling-2",
+          "correct": "Verein",
+          "wrong": "Verain"
+        },
+        {
+          "id": "stadt-dortmund-spelling-3",
+          "correct": "Tribüne",
+          "wrong": "Tribühne"
+        },
+        {
+          "id": "stadt-dortmund-spelling-4",
+          "correct": "Zeche",
+          "wrong": "Zäche"
+        },
+        {
+          "id": "stadt-dortmund-spelling-5",
+          "correct": "Fußball",
+          "wrong": "Fusball"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

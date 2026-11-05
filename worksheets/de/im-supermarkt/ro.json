@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.884Z"
+  },
+  "title": "La supermarket",
+  "instructions": {
+    "im-supermarkt-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "im-supermarkt-gap": "Bifați ambalajul sau cantitatea potrivită.",
+    "im-supermarkt-verbs": "Completați cu verbul corect la forma corectă.",
+    "im-supermarkt-table": "Completați articolul (der/die/das) și forma de plural.",
+    "im-supermarkt-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "im-supermarkt-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "căruciorul de cumpărături",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Pui în el produsele când faci cumpărături.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "raionul de brânzeturi",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Aici primești brânză proaspătă la cântar.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "garanția pentru ambalaj (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Banii pe care îi primești înapoi pentru sticlele goale.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "automatul de returnare a sticlelor",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Aici predai sticlele goale.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "oferta",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Un produs este mai ieftin pentru scurt timp.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "bonul fiscal",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Pe această hârtie sunt toate prețurile.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "punga",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "În ea duci cumpărăturile acasă.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Cumpăr un pahar de iaurt.",
+      "answerText": "pahar"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Și o sticlă de apă, vă rog.",
+      "answerText": "sticlă"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Avem nevoie de un pachet de paste.",
+      "answerText": "pachet"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Pentru sos iau o conservă de roșii.",
+      "answerText": "conservă"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Aș dori 200 de grame de gouda, vă rog.",
+      "answerText": "grame"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Un pachet de unt costă 2,29 euro.",
+      "answerText": "pachet"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Iau un litru de lapte.",
+      "answerText": "litru"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Îmi puteți schimba cinci euro?",
+      "answerText": "schimba"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Scuzați-mă, unde găsesc făină?",
+      "answerText": "găsesc"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Plătesc cu cardul.",
+      "answerText": "Plătesc"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Aș dori 200 de grame de gouda.",
+      "answerText": "dori"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Duminica aproape toate supermarketurile sunt închise.",
+      "answerText": "sunt"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "sticla",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "paharul (de iaurt)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "conserva",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "pâinea",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "mărul",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "banana",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Scuzați-mă, unde găsesc făină?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Am o sacoșă la mine.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Bananele sunt azi la ofertă.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Unde este automatul de returnare a sticlelor?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "cărucior de cumpărături",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "bon fiscal",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "garanție pentru ambalaj",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "brânză",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "chiflă",
+      "answerText": null
+    }
+  ]
+}

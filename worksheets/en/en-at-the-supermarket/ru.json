@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.809Z"
+  },
+  "title": "В супермаркете",
+  "instructions": {
+    "en-at-the-supermarket-matching": "Соедини каждое слово с его значением.",
+    "en-at-the-supermarket-gap": "Выбери правильное слово.",
+    "en-at-the-supermarket-verbs": "Вставь правильный глагол.",
+    "en-at-the-supermarket-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-at-the-supermarket-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-at-the-supermarket-matching-1",
+      "translation": "тележка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-1:meaning",
+      "translation": "Большая корзина на колёсах для покупок.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2",
+      "translation": "касса",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-2:meaning",
+      "translation": "Место, где платят.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3",
+      "translation": "ряд",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-3:meaning",
+      "translation": "Длинный проход между полками.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-4:meaning",
+      "translation": "Бумажка, где видно, что куплено и сколько заплачено.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5",
+      "translation": "кассир",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-5:meaning",
+      "translation": "Человек, который работает на кассе.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6",
+      "translation": "пакет",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-matching-6:meaning",
+      "translation": "В нём несут покупки домой.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-gap-1",
+      "translation": "Мне нужна бутылка молока.",
+      "answerText": "молока"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-2",
+      "translation": "Хлеб в пятом ряду.",
+      "answerText": "ряду"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-3",
+      "translation": "Вам нужен пакет для покупок?",
+      "answerText": "пакет"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-4",
+      "translation": "Пожалуйста, оплатите на кассе.",
+      "answerText": "кассе"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-5",
+      "translation": "Вот ваш чек. Хорошего дня!",
+      "answerText": "чек"
+    },
+    {
+      "id": "en-at-the-supermarket-gap-6",
+      "translation": "Я кладу яблоки в тележку.",
+      "answerText": "тележку"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-1",
+      "translation": "Сколько стоят яблоки?",
+      "answerText": "стоят"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-2",
+      "translation": "Я плачу картой.",
+      "answerText": "плачу"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-3",
+      "translation": "Нам нужны яйца и хлеб.",
+      "answerText": "нужны"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-4",
+      "translation": "Извините, где найти рис?",
+      "answerText": "найти"
+    },
+    {
+      "id": "en-at-the-supermarket-verbs-5",
+      "translation": "Магазин закрывается в десять часов.",
+      "answerText": "закрывается"
+    },
+    {
+      "id": "en-at-the-supermarket-order-1",
+      "translation": "Где рис?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-2",
+      "translation": "Мне нужен пакет.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-3",
+      "translation": "Можно заплатить картой?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-order-4",
+      "translation": "Молоко в третьем ряду.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-1",
+      "translation": "овощи",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-2",
+      "translation": "хлеб",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-3",
+      "translation": "сыр",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-4",
+      "translation": "курица",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-supermarket-spelling-5",
+      "translation": "банан",
+      "answerText": null
+    }
+  ]
+}

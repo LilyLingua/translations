@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:53.286Z"
+  },
+  "title": "คาร์ลสรูเออ",
+  "instructions": {
+    "stadt-karlsruhe-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-karlsruhe-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-karlsruhe-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-karlsruhe-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-karlsruhe-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-karlsruhe-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-karlsruhe-matching-1",
+      "translation": "เมืองพัด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-1:meaning",
+      "translation": "ชื่อเล่น: ถนนแผ่ออกจากพระราชวังไปทุกทิศทางเหมือนพัด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-2",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-2:meaning",
+      "translation": "ศูนย์กลางของเมือง คาร์ลสรูเออเริ่มสร้างจากที่นี่ในปี 1715",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-3",
+      "translation": "พีระมิด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-3:meaning",
+      "translation": "ตั้งอยู่บนจัตุรัสตลาด ข้างใต้เป็นที่ฝังศพผู้ก่อตั้งเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-4",
+      "translation": "ศาลรัฐธรรมนูญสหพันธ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-4:meaning",
+      "translation": "ศาลที่ปกป้องกฎหมายพื้นฐาน มีที่ตั้งอยู่ที่คาร์ลสรูเออ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-5",
+      "translation": "เคเอสซี (KSC)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-5:meaning",
+      "translation": "คาร์ลสรูเออร์ เอสซี สโมสรฟุตบอลของเมือง สีน้ำเงินและขาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-6",
+      "translation": "เคไอที (KIT)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-6:meaning",
+      "translation": "มหาวิทยาลัยเทคนิคขนาดใหญ่ นักศึกษาหลายคนจึงมาที่คาร์ลสรูเออ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-7",
+      "translation": "รถไฟขึ้นเขาทวร์มแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-matching-7:meaning",
+      "translation": "รถไฟขึ้นเขาเก่าในดัวร์ลัค (ตั้งแต่ปี 1888) ขณะนี้กำลังสร้างรถไฟสายใหม่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-1",
+      "translation": "ถนนแผ่ออกไปจากพระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-2",
+      "translation": "บนจัตุรัสตลาดมีพีระมิดตั้งอยู่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-3",
+      "translation": "ศาลปกป้องกฎหมายพื้นฐาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-4",
+      "translation": "วันเสาร์ทีมเคเอสซีแข่งที่วิลด์พาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-5",
+      "translation": "คนหนุ่มสาวหลายคนเรียนที่เคไอที",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-6",
+      "translation": "พวกเราเดินป่าขึ้นเขาทวร์มแบร์คกับกลุ่ม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-gap-7",
+      "translation": "ฤดูร้อนพวกเรานอนเล่นในสวนพระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-1",
+      "translation": "ถนนนำจากพระราชวังไปทุกทิศทาง",
+      "answerText": "นำ"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-2",
+      "translation": "รถไฟขึ้นเขาทวร์มแบร์คสายเก่าเคยวิ่งขึ้นเขามานานกว่า 130 ปี",
+      "answerText": "วิ่ง"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-3",
+      "translation": "ผู้ก่อตั้งเมืองฝังอยู่ใต้พีระมิด",
+      "answerText": "ฝัง"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-4",
+      "translation": "ศาลมีที่ตั้งอยู่ที่คาร์ลสรูเออ",
+      "answerText": "มี"
+    },
+    {
+      "id": "stadt-karlsruhe-verbs-5",
+      "translation": "นักศึกษาหลายคนเรียนวิทยาการคอมพิวเตอร์ที่เคไอที",
+      "answerText": "เรียน"
+    },
+    {
+      "id": "stadt-karlsruhe-table-1",
+      "translation": "พัด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-2",
+      "translation": "ศาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-3",
+      "translation": "พีระมิด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-4",
+      "translation": "สวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-5",
+      "translation": "ภูเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-table-6",
+      "translation": "รถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-1",
+      "translation": "พระราชวังตั้งอยู่กลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-2",
+      "translation": "บนจัตุรัสตลาดมีพีระมิดตั้งอยู่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-3",
+      "translation": "คุณจะเดินขึ้นเขาทวร์มแบร์คไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-order-4",
+      "translation": "คาร์ลสรูเออก่อตั้งในปี 1715",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-1",
+      "translation": "พีระมิด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-2",
+      "translation": "ศาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-3",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-4",
+      "translation": "สวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-karlsruhe-spelling-5",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    }
+  ]
+}

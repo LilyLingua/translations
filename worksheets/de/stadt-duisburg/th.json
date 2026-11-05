@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:54.818Z"
+  },
+  "title": "ดุยส์บวร์ค",
+  "instructions": {
+    "stadt-duisburg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-duisburg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-duisburg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-duisburg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-duisburg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-duisburg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-duisburg-matching-1",
+      "translation": "ท่าเรือภายในประเทศ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-1:meaning",
+      "translation": "ท่าเรือริมแม่น้ำ ไม่ใช่ริมทะเล ท่าเรือของดุยส์บวร์คใหญ่ที่สุดในยุโรป",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2",
+      "translation": "โรงงานเหล็กกล้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-2:meaning",
+      "translation": "โรงงานที่ผลิตเหล็กกล้าจากเหล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3",
+      "translation": "เตาถลุงเหล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-3:meaning",
+      "translation": "เตาที่สูงมาก ใช้หลอมเหล็กออกจากสินแร่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4",
+      "translation": "สวนภูมิทัศน์ (ลันท์ชาฟท์สพาร์ค)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-4:meaning",
+      "translation": "โรงถลุงเหล็กเก่า ปัจจุบันเป็นสวนที่ส่องแสงหลากสีในตอนค่ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5",
+      "translation": "\"ไทเกอร์ แอนด์ เทอร์เทิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-5:meaning",
+      "translation": "งานศิลปะบนเนินเขาที่ดูเหมือนรถไฟเหาะ เดินขึ้นไปได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6",
+      "translation": "\"ม้าลาย\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-6:meaning",
+      "translation": "ฉายาของนักเตะ MSV ดุยส์บวร์ค – เพราะลายทางสีน้ำเงินขาว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7",
+      "translation": "\"ชิมันสกี\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-matching-7:meaning",
+      "translation": "สารวัตรทางโทรทัศน์ที่มีชื่อเสียงจากซีรีส์ \"ทาทอร์ท\" ซึ่งสืบคดีในดุยส์บวร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-1",
+      "translation": "เรือหลายลำแล่นเข้าท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-2",
+      "translation": "ตอนค่ำสวนภูมิทัศน์นอร์ดส่องแสงหลากสี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-3",
+      "translation": "พ่อของฉันทำงานในโรงงานเหล็กกล้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-4",
+      "translation": "พวกเราเดินขึ้นไปบนประติมากรรมไทเกอร์ แอนด์ เทอร์เทิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-5",
+      "translation": "วันเสาร์ทีมม้าลายเล่นที่สนาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-6",
+      "translation": "ที่ดุยส์บวร์ค แม่น้ำรูห์รไหลลงสู่แม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-gap-7",
+      "translation": "ในสวนภูมิทัศน์ ผู้คนปีนกำแพงเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-verbs-1",
+      "translation": "ท่าเรือแห่งนี้เป็นท่าเรือภายในประเทศที่ใหญ่ที่สุดในยุโรป",
+      "answerText": "เป็น"
+    },
+    {
+      "id": "stadt-duisburg-verbs-2",
+      "translation": "ในโรงงานเหล็กกล้า ผู้คนผลิตเหล็กกล้าจากเหล็ก",
+      "answerText": "ผลิต"
+    },
+    {
+      "id": "stadt-duisburg-verbs-3",
+      "translation": "แม่น้ำรูห์รไหลลงสู่แม่น้ำไรน์ที่ดุยส์บวร์ค",
+      "answerText": "ไหลลง"
+    },
+    {
+      "id": "stadt-duisburg-verbs-4",
+      "translation": "ชิมันสกีสืบคดีในดุยส์บวร์คทางโทรทัศน์",
+      "answerText": "สืบคดี"
+    },
+    {
+      "id": "stadt-duisburg-verbs-5",
+      "translation": "ผู้คนเดินขึ้นไปบนไทเกอร์ แอนด์ เทอร์เทิล",
+      "answerText": "เดิน"
+    },
+    {
+      "id": "stadt-duisburg-table-1",
+      "translation": "เรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-2",
+      "translation": "ท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-3",
+      "translation": "เตา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-4",
+      "translation": "โรงงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-5",
+      "translation": "ตู้คอนเทนเนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-table-6",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-1",
+      "translation": "ดุยส์บวร์คตั้งอยู่ริมแม่น้ำไรน์และแม่น้ำรูห์ร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-2",
+      "translation": "ตอนค่ำสวนภูมิทัศน์ส่องแสงหลากสี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-3",
+      "translation": "เรานั่งเรือชมท่าเรือกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-order-4",
+      "translation": "ทุกวันมีตู้คอนเทนเนอร์จำนวนมากมาถึงท่าเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-1",
+      "translation": "ตู้คอนเทนเนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-2",
+      "translation": "เตา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-3",
+      "translation": "เหล็กกล้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-4",
+      "translation": "แม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duisburg-spelling-5",
+      "translation": "สะพาน",
+      "answerText": null
+    }
+  ]
+}

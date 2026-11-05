@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:05.696Z"
+  },
+  "title": "フランクフルト・アム・マイン",
+  "instructions": {
+    "stadt-frankfurt-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-frankfurt-gap": "正しい単語に印をつけましょう。",
+    "stadt-frankfurt-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-frankfurt-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-frankfurt-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-frankfurt-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-frankfurt-matching-1",
+      "translation": "「エッベルヴォイ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-1:meaning",
+      "translation": "ヘッセン方言でりんご酒のこと。フランクフルトの代表的な飲み物。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2",
+      "translation": "「ベンベル」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2:meaning",
+      "translation": "青い模様のある灰色のつぼで、ここからりんご酒を注ぐ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3",
+      "translation": "「グリー・ゾース」（グリーンソース）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3:meaning",
+      "translation": "7種類のハーブで作る緑のソースで、じゃがいもと卵と一緒に食べる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4",
+      "translation": "「マインハッタン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4:meaning",
+      "translation": "フランクフルトのあだ名。マイン川沿いに高層ビルがたくさんあるため。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5",
+      "translation": "「ハントケース・ミット・ムジーク」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5:meaning",
+      "translation": "玉ねぎ、酢、油をかけた小さなチーズ。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6",
+      "translation": "レーマー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6:meaning",
+      "translation": "美しい切妻のある、フランクフルトの旧市庁舎。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7",
+      "translation": "証券取引所",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7:meaning",
+      "translation": "株を売り買いする場所。建物の前には雄牛と熊が立っている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-1",
+      "translation": "りんご酒はベンベルに入ってテーブルの上にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-2",
+      "translation": "大きな銀行は中心部にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-3",
+      "translation": "週末、私たちはマイン川へ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-4",
+      "translation": "マインタワーからスカイライン全体が見えます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-5",
+      "translation": "多くの飛行機がフランクフルト空港に着陸します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-6",
+      "translation": "私はハントケース・ミット・ムジークを注文します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-7",
+      "translation": "旧市庁舎はレーマーベルク広場に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-verbs-1",
+      "translation": "ザクセンハウゼンではエッベルヴォイを飲みます。",
+      "answerText": "飲み"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-2",
+      "translation": "マイン川は街の中を流れています。",
+      "answerText": "流れて"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-3",
+      "translation": "多くの人が銀行で働いています。",
+      "answerText": "働いて"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-4",
+      "translation": "ゲーテは1749年にフランクフルトで生まれました。",
+      "answerText": "生まれ"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-5",
+      "translation": "グリーンソースには7種類のハーブが必要です。",
+      "answerText": "必要"
+    },
+    {
+      "id": "stadt-frankfurt-table-1",
+      "translation": "高層ビル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-2",
+      "translation": "銀行",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-3",
+      "translation": "つぼ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-4",
+      "translation": "空港",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-5",
+      "translation": "ハーブ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-6",
+      "translation": "玉ねぎ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-1",
+      "translation": "フランクフルトにはドイツでいちばん多くの高層ビルがあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-2",
+      "translation": "ベンベルの中にはりんご酒が入っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-3",
+      "translation": "明日フランクフルトから飛行機で行くの？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-4",
+      "translation": "グリーンソースは7種類のハーブで作ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-1",
+      "translation": "高層ビル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-2",
+      "translation": "空港",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-3",
+      "translation": "玉ねぎ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-4",
+      "translation": "りんご酒",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-5",
+      "translation": "ハーブ",
+      "answerText": null
+    }
+  ]
+}

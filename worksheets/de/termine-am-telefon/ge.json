@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:43:27.765Z"
+  },
+  "title": "ვიზიტის დანიშვნა ტელეფონით",
+  "instructions": {
+    "termine-am-telefon-matching": "დააკავშირეთ თითოეული სიტყვა შესაბამის განმარტებასთან.",
+    "termine-am-telefon-gap": "მონიშნეთ სწორი წინდებული.",
+    "termine-am-telefon-verbs": "ჩასვით სწორი ზმნა სწორ ფორმაში.",
+    "termine-am-telefon-table": "შეავსეთ არტიკლი (der/die/das) და მრავლობითის ფორმა.",
+    "termine-am-telefon-order": "დაალაგეთ სიტყვები სწორი თანმიმდევრობით და დაწერეთ წინადადება.",
+    "termine-am-telefon-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნეთ."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "ავტომოპასუხე",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "აქ შეგიძლიათ შეტყობინების დატოვება.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "შიდა ნომერი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "ფირმაში კონკრეტული ადამიანის პირდაპირი ტელეფონის ნომერი.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "გადარეკვა",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "ვინმესთვის მოგვიანებით დარეკვა, რადგან მან ადრე დაგირეკა.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "გადადება",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "ვიზიტის სხვა დღეზე გადატანა.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "გაუქმება",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "თქმა, რომ ვიზიტზე არ მოხვალ.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "მიღების საათები",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "დრო, როცა შეიძლება ვინმეს დაუკავშირდე.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "ასო-ასო თქმა",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "სიტყვის ასო-ასო წარმოთქმა.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "ორშაბათს გცალიათ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10 საათზე მოგიხერხდებათ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "დეკემბრამდე არ მცალია.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "კლინიკა შაბათ-კვირას დაკეტილია.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "ერთ საათში გადმოგირეკავთ.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "ორი კვირაა, ვიზიტს ველოდები.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "გთხოვთ, ვიზიტამდე ათი წუთით ადრე მოხვიდეთ.",
+      "answerText": "ადრე"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "შეიძლება ქალბატონ ვებერს დაველაპარაკო?",
+      "answerText": "დაველაპარაკო"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "სამწუხაროდ, ვიზიტის გაუქმება მიწევს.",
+      "answerText": "გაუქმება"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "შეგიძლიათ გადმომირეკოთ?",
+      "answerText": "გადმომირეკოთ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "ჩემს ნომერს გაძლევთ.",
+      "answerText": "გაძლევთ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "თქვენი სახელი როგორ იწერება?",
+      "answerText": "იწერება"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "ზარი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "ნომერი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "შეტყობინება",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "ტელეფონი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "დრო (საათი)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "მობილური ტელეფონი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "ვიზიტის გადადება მინდა.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "როდის გცალიათ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "ხვალ კიდევ დავრეკავ.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "ხუთშაბათს 9 საათზე მოგიხერხდებათ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "შეტყობინება",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "ტელეფონი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "ვიზიტი",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "გადარეკვა",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "დრო",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:55.885Z"
+  },
+  "title": "แฟรงก์เฟิร์ตอัมไมน์",
+  "instructions": {
+    "stadt-frankfurt-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-frankfurt-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-frankfurt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-frankfurt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-frankfurt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-frankfurt-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-frankfurt-matching-1",
+      "translation": "\"เอ็บเบิลวอย\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-1:meaning",
+      "translation": "ภาษาเฮสเซินแปลว่าไวน์แอปเปิล – เครื่องดื่มประจำแฟรงก์เฟิร์ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2",
+      "translation": "\"เบมเบิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-2:meaning",
+      "translation": "เหยือกสีเทาลายสีน้ำเงิน ใช้รินไวน์แอปเปิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3",
+      "translation": "\"กรี โซส\" (ซอสเขียว)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-3:meaning",
+      "translation": "ซอสเขียวทำจากสมุนไพรเจ็ดชนิด กินกับมันฝรั่งและไข่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4",
+      "translation": "\"ไมน์แฮตตัน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-4:meaning",
+      "translation": "ฉายาของแฟรงก์เฟิร์ต – เพราะมีตึกสูงมากมายริมแม่น้ำไมน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5",
+      "translation": "\"ฮันท์เคส มิท มูซีค\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-5:meaning",
+      "translation": "ชีสก้อนเล็กกับหัวหอม น้ำส้มสายชู และน้ำมัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6",
+      "translation": "\"เรอเมอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-6:meaning",
+      "translation": "ศาลาว่าการเก่าของแฟรงก์เฟิร์ต มีหน้าจั่วสวยงาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7",
+      "translation": "ตลาดหลักทรัพย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-matching-7:meaning",
+      "translation": "ที่นี่มีการซื้อขายหุ้น หน้าอาคารมีรูปปั้นวัวกระทิงและหมี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-1",
+      "translation": "ไวน์แอปเปิลอยู่ในเบมเบิลบนโต๊ะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-2",
+      "translation": "ธนาคารใหญ่ ๆ ตั้งอยู่ในใจกลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-3",
+      "translation": "สุดสัปดาห์พวกเราไปริมแม่น้ำไมน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-4",
+      "translation": "จากไมน์ทาวเวอร์มองเห็นเส้นขอบฟ้าของเมืองทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-5",
+      "translation": "เครื่องบินหลายลำลงจอดที่สนามบินแฟรงก์เฟิร์ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-6",
+      "translation": "ฉันสั่งฮันท์เคส มิท มูซีคหนึ่งที่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-gap-7",
+      "translation": "ศาลาว่าการเก่าตั้งอยู่บนลานเรอเมอร์แบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-verbs-1",
+      "translation": "ที่ซัคเซินเฮาเซินผู้คนดื่มเอ็บเบิลวอย",
+      "answerText": "ดื่ม"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-2",
+      "translation": "แม่น้ำไมน์ไหลผ่านเมือง",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-3",
+      "translation": "หลายคนทำงานในธนาคาร",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-4",
+      "translation": "เกอเธ่เกิดที่แฟรงก์เฟิร์ตในปี 1749",
+      "answerText": "เกิด"
+    },
+    {
+      "id": "stadt-frankfurt-verbs-5",
+      "translation": "ซอสเขียวต้องใช้สมุนไพรเจ็ดชนิด",
+      "answerText": "ต้องใช้"
+    },
+    {
+      "id": "stadt-frankfurt-table-1",
+      "translation": "ตึกสูง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-2",
+      "translation": "ธนาคาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-3",
+      "translation": "เหยือก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-4",
+      "translation": "สนามบิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-5",
+      "translation": "สมุนไพร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-table-6",
+      "translation": "หัวหอม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-1",
+      "translation": "แฟรงก์เฟิร์ตมีตึกสูงมากที่สุดในเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-2",
+      "translation": "ในเบมเบิลมีไวน์แอปเปิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-3",
+      "translation": "พรุ่งนี้คุณบินจากแฟรงก์เฟิร์ตเหรอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-order-4",
+      "translation": "ซอสเขียวทำจากสมุนไพรเจ็ดชนิด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-1",
+      "translation": "ตึกสูง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-2",
+      "translation": "สนามบิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-3",
+      "translation": "หัวหอม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-4",
+      "translation": "ไวน์แอปเปิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-frankfurt-spelling-5",
+      "translation": "สมุนไพร",
+      "answerText": null
+    }
+  ]
+}

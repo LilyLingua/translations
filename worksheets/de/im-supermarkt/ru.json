@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:19.667Z"
+  },
+  "title": "В супермаркете",
+  "instructions": {
+    "im-supermarkt-matching": "Соедините каждое слово с подходящим объяснением.",
+    "im-supermarkt-gap": "Отметьте подходящую упаковку или количество.",
+    "im-supermarkt-verbs": "Вставьте правильный глагол в правильной форме.",
+    "im-supermarkt-table": "Допишите артикль (der/die/das) и форму множественного числа.",
+    "im-supermarkt-order": "Расставьте слова в правильном порядке и напишите предложение.",
+    "im-supermarkt-spelling": "Какое слово написано правильно? Отметьте."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "тележка для покупок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Сюда вы кладёте товары во время покупок.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "сырный прилавок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Здесь продают свежий сыр на развес.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "залог за тару",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Деньги, которые вы получаете обратно за пустые бутылки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "автомат для приёма бутылок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Сюда сдают пустые бутылки.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "акция (специальное предложение)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Товар какое-то время стоит дешевле.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "На этом листке указаны все цены.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "пакет",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "В нём вы несёте покупки домой.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Я покупаю стаканчик йогурта.",
+      "answerText": "стаканчик"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "И ещё бутылку воды, пожалуйста.",
+      "answerText": "бутылку"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Нам нужна пачка макарон.",
+      "answerText": "пачка"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Для соуса я беру банку помидоров.",
+      "answerText": "банку"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Мне, пожалуйста, 200 граммов гауды.",
+      "answerText": "граммов"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Пачка масла стоит 2,29 евро.",
+      "answerText": "Пачка"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Я возьму литр молока.",
+      "answerText": "литр"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Вы можете разменять мне пять евро?",
+      "answerText": "разменять"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Извините, где найти муку?",
+      "answerText": "найти"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Я плачу картой.",
+      "answerText": "плачу"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Мне хотелось бы 200 граммов гауды.",
+      "answerText": "хотелось бы"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "В воскресенье почти все супермаркеты закрыты.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "бутылка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "стаканчик",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "банка",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "хлеб",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "яблоко",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "банан",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Извините, где найти муку?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "У меня с собой сумка.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Бананы сегодня по акции.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Где автомат для приёма бутылок?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "тележка для покупок",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "залог за тару",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "сыр",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "булочка",
+      "answerText": null
+    }
+  ]
+}

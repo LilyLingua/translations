@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:21:07.569Z"
+  },
+  "title": "Li cem bijîşk",
+  "instructions": {
+    "beim-arzt-matching": "Her peyvê bi ravekirina guncav ve girê bidin.",
+    "beim-arzt-gap": "Peyva guncav nîşan bikin.",
+    "beim-arzt-verbs": "Lêkera rast bi forma rast binivîsin.",
+    "beim-arzt-table": "Artîkelê (der/die/das) û forma pirjimar temam bikin.",
+    "beim-arzt-order": "Peyvan bi rêza rast rêz bikin û hevokê binivîsin.",
+    "beim-arzt-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bikin."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "karta sîgorteya tenduristiyê",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Hûn vê kartê li resepsiyonê nîşan didin. Sîgorteya we ya tenduristiyê li ser e.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "randevû",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Demeke diyar ku hûn tên muayenexaneyê.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "odeya bendewariyê",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Hûn li vir rûdinin heta ku bangî we bikin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Bi wê hûn ji dermanxaneyê derman distînin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "rapora nexweşiyê",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Dema hûn nexweş in, kardêrê we vê kaxezê distîne.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "ta (germahî)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Germahiya laş pir bilind e, wek mînak 39 derece.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alerjî",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Laş li hember tiştekî bi hêz bertek nîşan dide, wek mînak li hember penîsîlînê.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "banga acil",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Hejmara 112 – dema qeza an rewşeke acil hebe.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Roj baş, ez dixwazim randevûyekê bigirim.",
+      "answerText": "randevû"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Karta sîgorteya tenduristiyê bi we re ye?",
+      "answerText": "Karta sîgorteya tenduristiyê"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Ji kerema xwe li odeya bendewariyê rûnin.",
+      "answerText": "odeya bendewariyê"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Serêşa min û ta min heye.",
+      "answerText": "Serêşa"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Zikê min diêşe.",
+      "answerText": "Zikê"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Alerjiya min li hember penîsîlînê heye.",
+      "answerText": "penîsîlînê"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Ji bo kardêrê xwe pêdiviya min bi rapora nexweşiyê heye.",
+      "answerText": "rapora nexweşiyê"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Heban rojê sê caran piştî xwarinê bixwin.",
+      "answerText": "xwarinê"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Hûn dikarin vê hêdîtir bibêjin?",
+      "answerText": "bibêjin"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Sê roj in ta min heye.",
+      "answerText": "heye"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Serê min pir diêşe.",
+      "answerText": "diêşe"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Ji kerema xwe kûr bêhnê bikişînin – û dîsa berdin.",
+      "answerText": "bêhnê bikişînin"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Bijîşk reçeteyekê dide min.",
+      "answerText": "dide"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Em ê di demeke nêzîk de bangî we bikin.",
+      "answerText": "bangî we bikin"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "bijîşk",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "heb",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "reçete",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "randevû",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "muayenexane",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "derman",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Ez dixwazim randevûyekê bigirim.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Sê roj in ta min heye.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Hûn dikarin dubare bikin?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Ku derê we diêşe?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "serêş",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "rapora nexweşiyê",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "karta sîgorteya tenduristiyê",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alerjîk",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "heb",
+      "answerText": null
+    }
+  ]
+}

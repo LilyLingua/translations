@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.169Z"
+  },
+  "title": "В аптеката",
+  "instructions": {
+    "in-der-apotheke-matching": "Свържете всяка дума с подходящото обяснение.",
+    "in-der-apotheke-gap": "Отбележете подходящата дума.",
+    "in-der-apotheke-verbs": "Попълнете правилния глагол в правилната форма.",
+    "in-der-apotheke-table": "Допълнете члена и формата за множествено число.",
+    "in-der-apotheke-order": "Подредете думите в правилния ред и напишете изречението.",
+    "in-der-apotheke-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "рецепта",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Листът от лекаря за лекарство.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Малко лекарство, което се гълта.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "сироп за кашлица",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Течно лекарство против кашлица.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "мехлем",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Мажеш го на кожата.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "страничен ефект",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Нежелано действие на лекарство.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "листовка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Листчето в опаковката на лекарството с цялата информация.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "доплащане",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Малка сума за рецептата плащате сами.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "Имам рецепта от лекарката си.",
+      "answerText": "рецепта"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "Имате ли нещо против болки в гърлото?",
+      "answerText": "болки в гърлото"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Пийте по две таблетки на ден.",
+      "answerText": "таблетки"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Мехлемът е за кожата.",
+      "answerText": "кожата"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Моля, прочетете листовката.",
+      "answerText": "листовката"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Лекарството почти няма странични ефекти.",
+      "answerText": "странични ефекти"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "През уикенда една аптека е дежурна.",
+      "answerText": "аптека"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "От вчера имам кашлица.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Колко често трябва да пия таблетките?",
+      "answerText": "пия"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Ще поръчаме лекарството до утре.",
+      "answerText": "поръчаме"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Нанасяте мехлема два пъти дневно.",
+      "answerText": "Нанасяте"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Моля, пийте много вода.",
+      "answerText": "пийте"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "лекарство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "мехлем",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "лепенка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "опаковка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "капка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "Имате ли нещо против кашлица?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Колко често трябва да пия таблетките?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Трябва ми лекарство против главоболие.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Трябва ли ми рецепта за това?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "лекарство",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "лепенка",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "страничен ефект",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "кашлица",
+      "answerText": null
+    }
+  ]
+}

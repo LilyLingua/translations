@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:49.972Z"
+  },
+  "title": "У пекари и у кафићу",
+  "instructions": {
+    "baecker-und-cafe-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "baecker-und-cafe-gap": "Означите тачан члан (der/die/das).",
+    "baecker-und-cafe-verbs": "Упишите прави глагол у правом облику.",
+    "baecker-und-cafe-table": "Допуните члан (der/die/das) и облик множине.",
+    "baecker-und-cafe-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "baecker-und-cafe-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "земичка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Мали хлеб, често за доручак.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "перец (брецла)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Пециво са сољу, типично за јужну Немачку.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "колач",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Нешто слатко, често уз кафу поподне.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "јеловник",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Овде пишу сва јела и пића.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "рачун",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Овде пише колико морате да платите.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "бакшиш",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Мало додатног новца за конобара.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "за понети",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Не једете и не пијете то у кафићу.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Молим вас, једну земичку.",
+      "answerText": "једну"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Узимам једну кафу.",
+      "answerText": "једну"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Колико кошта перец?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Желим једно парче колача.",
+      "answerText": "једно"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Да ли је сто слободан?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Пијем један чај с млеком.",
+      "answerText": "један"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Донесите ми, молим вас, рачун.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Шта желите да попијете?",
+      "answerText": "желите"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Узимам један капучино.",
+      "answerText": "Узимам"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "То је укупно 6,40 евра.",
+      "answerText": "је"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Могу ли да платим картицом?",
+      "answerText": "платим"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Колач је веома укусан.",
+      "answerText": "је веома укусан"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "земичка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "колач",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "шоља",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "чаша",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "тањир",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "перец",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Молим вас, две земичке.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Колико кошта колач?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Могу ли да платим картицом?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Да ли желите да једете овде?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "земичка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "колач",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "рачун",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "кафа",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "бакшиш",
+      "answerText": null
+    }
+  ]
+}

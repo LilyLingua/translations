@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Gusto ko pong magparehistro."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Kumukuha ako ng numero."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – counter 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Gusto ko pong iparehistro ang bago kong apartment."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Ito po ang kumpirmasyon mula sa may-ari ng bahay."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Ito po ang pasaporte ko."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "I-i-spell ko po: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Single ako."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Saan po ako pipirma?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "May kailangan pa po ba ako?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Lumipat na ako! Bagong apartment, bagong lungsod …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Ayos! At – nakapagparehistro ka na ba?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Nagparehistro? Saan? Sa gym?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Hindi, Leo. Sa tanggapan ng gobyerno! Ngayon, dadaan ka sa isang buong appointment sa „Bürgeramt“ (tanggapan para sa mamamayan) – mula sa pasukan hanggang sa sertipiko ng pagpaparehistro."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "At sa bawat sitwasyon, tatanungin ka namin: Ano ang sasabihin mo?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "At limang segundo lang ang meron ka!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Dumating ka sa tanggapan. Sa information desk ay may nakaupong lalaki."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Magandang umaga. Ano po ang sadya ninyo?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Ano ang sasabihin mo?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Magandang umaga po. Gusto ko pong magparehistro."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Ako ay isang sadya."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Gusto ko ng opisina."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! Ang „Anliegen“ ay: Bakit kayo nandito? Ano ang kailangan ninyo?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Sa tanggapan ng gobyerno, madalas mong maririnig ang salitang ito."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Magandang umaga po. Gusto ko pong magparehistro."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "May appointment po ba kayo?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Opo, alas-nuwebe."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Gusto ko pong magparehistro."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "May appointment po ako nang alas-nuwebe."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Sige po. Kumuha po kayo ng numero at maghintay doon."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Ano ang gagawin mo ngayon?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Lilipat ka ng bahay."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Hihilahin mo ang buhok ng isang tao."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Kukuha ka ng papel na may numero mula sa makina."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Kaya A! Lilipat ako. Kalilipat ko lang naman …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Hindi, Leo. C! Ang „eine Nummer ziehen“ ay: kukuha ka ng papel na may numero ng pila mo."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "Ang „umziehen“ ay ibang-iba – ibig sabihin: lumipat sa bagong apartment."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Kumukuha ako ng numero."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Naghihintay ka. Biglang may announcement. Makinig nang mabuti!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Numero 147, sa counter 12 po."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Ang numero mo ay 147. Saan ka pupunta?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Sa counter 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Sa counter 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Sa kuwarto 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Una ang numero mo, saka ang counter."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Sa maraming tanggapan, nakikita rin ito sa screen."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – counter 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Pumunta ka sa counter 12. May nakaupong babae roon."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Magandang umaga. Maupo po kayo. Ano po ang maitutulong ko?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Ano ang sasabihin mo?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Gusto ko po kayong iparehistro."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Gusto ko pong iparehistro ang bago kong apartment."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Dito na ako nakatira. Bye!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Iparerehistro mo ang apartment mo – o ang sarili mo: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Pero hindi „Sie“ (kayo) – rehistrado na si Ms. Krüger."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Gusto ko pong iparehistro ang bago kong apartment."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Sige po. Kailan po kayo lumipat?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Noong unang araw ng Oktubre."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Gusto ko pong iparehistro ang bago kong apartment."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Lumipat ako noong unang araw ng Oktubre."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Dala po ba ninyo ang kumpirmasyon ng may-ari ng bahay?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Naku, ang haba ng salita! Ano ang sasabihin mo?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Hindi, hindi ako nagbibigay ng apartment."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Opo, ibibigay ko sa inyo ang apartment ko."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Opo, ito po ang kumpirmasyon mula sa may-ari ng bahay."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! Ang „Wohnungsgeberbestätigung“ ay isang form mula sa may-ari ng bahay mo. Nakasulat dito: talagang nakatira ka sa apartment na ito."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Kadalasan, hindi puwedeng magparehistro kung wala ang papel na ito."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Opo, ito po ang kumpirmasyon mula sa may-ari ng bahay."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Ito po ang kumpirmasyon mula sa may-ari ng bahay."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "At ang ID o pasaporte ninyo, please."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Ano ang sasabihin mo?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Ito po ang pasaporte ko."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Ito po ay mga pasaporte ko (maling plural)."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Ako ay pasaporte."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Isang pasaporte – kaya „ist“ (ay, isahan), hindi „sind“ (maramihan). Halos palagi mong kailangan ang pasaporte o ID sa tanggapan."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "At kung nakalimutan mo, sabihin nang tapat: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Pasensya na po, nakalimutan ko po.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Ito po ang pasaporte ko."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Ito po ang pasaporte ko."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Pasensya na po, nakalimutan ko po."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Paano po isinusulat ang apelyido ninyo?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Nowak ang pangalan mo. Ano ang sasabihin mo?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Gamit ang ballpen."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: I-i-spell ko po: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Napakaganda po ng pagkakasulat."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! Ang „Wie schreibt man …?“ ay: Anong mga letra? Saka mo ii-spell – letra por letra."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Sanayin ang pangalan mo sa German, kailangan mo ito kahit saan!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Salamat po."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "I-i-spell ko po: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "May asawa po ba kayo?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Wala kang asawa. Ano ang sasabihin mo?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Wala po, single po ako."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Wala po, ako ay sa kasamaang palad."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Wala po, ako ay nagpapakasal-ay."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! Ang „ledig“ ay: walang asawa. Ingat: ang „leider“ ay magkatunog, pero ibang-iba ang kahulugan – ang „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "ay: sa kasamaang palad."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Wala po, single po ako."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Single ako."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "May asawa ako."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Pakisuri po ang mga detalye. Kung tama lahat, pakipirmahan po dito."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Ano ang sasabihin mo?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Isusulat ko sa ilalim ng mesa."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Ayokong pumirma."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Tama po lahat. Saan po eksakto ako pipirma?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! Ang „unterschreiben“ ay: isulat ang pangalan mo gamit ang kamay – ang pirma mo."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "At mabuti: basahin muna lagi ang nakasulat sa form."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Tama po lahat. Saan po eksakto ako pipirma?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Dito po sa ibaba."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Saan po ako pipirma?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Ayan, tapos na. Ito po ang sertipiko ng pagpaparehistro ninyo."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Tapos ka na! Ano ang sasabihin mo?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Salamat, kokontakin ko po kayo."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Maraming salamat po! May kailangan pa po ba ako?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Wala po akong kulang!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! At ingat sa A: ang „Ich melde mich“ ay hindi „magpaparehistro ako“, kundi: tatawagan ko kayo mamaya."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "At ang C, baka natatandaan mo pa – sa doktor lang iyon bagay!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Maraming salamat po! May kailangan pa po ba ako?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Wala na po, iyon lang. Ingatan ninyo ang sertipiko."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Ulitin mo!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "May kailangan pa po ba ako?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Tatlong tip para sa pagpaparehistro. Una: magparehistro sa loob ng dalawang linggo pagkalipat."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Pangalawa: sa maraming lungsod, kailangan mo ng appointment – madalas puwede itong i-book online."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "At pangatlo: madalas mong kakailanganin ulit ang sertipiko ng pagpaparehistro, halimbawa para sa bank account."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Kaya ingatan ito!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Sa tanggapan ng gobyerno, minsan napakakomplikado ng German. Babasahin ni Leo – at sasabihin ko nang simple."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Ano po ang sadya ninyo?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Ano po ang kailangan ninyo?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Pakihanda po ang inyong mga dokumento."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Hawakan po ninyo ang mga papel ninyo."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Punan nang buo ang form."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Sulatan ninyo ang lahat ng patlang."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Ang pagproseso ay tatagal nang mga dalawang linggo."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Mga dalawang linggo iyan."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Pakisumite po ang mga dokumento mamaya."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Pakidala po ang mga papel mamaya."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Ngayon, magpapalit ako ng damit!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Ah, magsusuot ka ng ibang damit? O ang ibig mong sabihin: „Ich ziehe um“ – lilipat ka sa bagong apartment?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "At sa tanggapan: hindi „Ich bin leider“, kundi „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(single ako) – kapag wala kang asawa."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "At ang „Ich melde mich“ ay: tatawag ako mamaya. Sa tanggapan, sasabihin mo: „Ich melde mich an.“ (Magpaparehistro ako.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "At ngayon, lahat ulit. Ang sampung pinakamahalagang pangungusap. Ulitin mo!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Gusto ko pong magparehistro."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "May appointment po ako nang alas-nuwebe."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Kumukuha ako ng numero."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Gusto ko pong iparehistro ang bago kong apartment."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Ito po ang kumpirmasyon mula sa may-ari ng bahay."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Ito po ang pasaporte ko."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Ii-spell ko ang pangalan ko."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Single ako."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Saan po ako pipirma?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "May kailangan pa po ba ako?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Aling salita ang pinakamahirap para sa iyo? Isulat mo sa comments!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Paalam, at hanggang sa muli sa LilyLingua!"
+    }
+  ]
+}

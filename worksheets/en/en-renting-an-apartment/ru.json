@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:41.104Z"
+  },
+  "title": "Аренда квартиры",
+  "instructions": {
+    "en-renting-an-apartment-matching": "Соедини каждое слово с его значением.",
+    "en-renting-an-apartment-gap": "Выбери правильное слово.",
+    "en-renting-an-apartment-verbs": "Вставь правильный глагол.",
+    "en-renting-an-apartment-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-renting-an-apartment-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-renting-an-apartment-matching-1",
+      "translation": "арендная плата",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-1:meaning",
+      "translation": "Деньги, которые ты платишь каждый месяц за жильё.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2",
+      "translation": "арендодатель",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-2:meaning",
+      "translation": "Человек, которому принадлежит квартира и который её сдаёт.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3",
+      "translation": "залог",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-3:meaning",
+      "translation": "Деньги, которые платят в начале и получают обратно при выезде.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4",
+      "translation": "договор аренды",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-4:meaning",
+      "translation": "Договор между тобой и арендодателем.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5",
+      "translation": "коммунальные услуги",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-5:meaning",
+      "translation": "Вода, электричество и отопление.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6",
+      "translation": "просмотр",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-matching-6:meaning",
+      "translation": "Визит, чтобы посмотреть квартиру перед арендой.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-gap-1",
+      "translation": "Сколько стоит аренда в месяц?",
+      "answerText": "аренда"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-2",
+      "translation": "Коммунальные услуги входят в арендную плату?",
+      "answerText": "Коммунальные услуги"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-3",
+      "translation": "Залог составляет плату за два месяца.",
+      "answerText": "Залог"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-4",
+      "translation": "Когда можно прийти на просмотр?",
+      "answerText": "просмотр"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-5",
+      "translation": "Пожалуйста, прочитайте договор перед подписанием.",
+      "answerText": "договор"
+    },
+    {
+      "id": "en-renting-an-apartment-gap-6",
+      "translation": "В квартире две спальни и балкон.",
+      "answerText": "спальни"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-1",
+      "translation": "Я ищу квартиру с двумя спальнями.",
+      "answerText": "ищу"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-2",
+      "translation": "Когда квартира будет свободна?",
+      "answerText": "будет"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-3",
+      "translation": "Можно держать домашних животных?",
+      "answerText": "держать"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-4",
+      "translation": "Мы подписали договор вчера.",
+      "answerText": "подписали"
+    },
+    {
+      "id": "en-renting-an-apartment-verbs-5",
+      "translation": "Арендодатель отдаёт нам ключи в понедельник.",
+      "answerText": "отдаёт"
+    },
+    {
+      "id": "en-renting-an-apartment-order-1",
+      "translation": "Квартира ещё свободна?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-2",
+      "translation": "Я хочу посмотреть квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-3",
+      "translation": "Сколько составляет залог?",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-order-4",
+      "translation": "Арендную плату нужно вносить первого числа каждого месяца.",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-1",
+      "translation": "квартира",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-2",
+      "translation": "спальня",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-3",
+      "translation": "залог",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-4",
+      "translation": "свободный",
+      "answerText": null
+    },
+    {
+      "id": "en-renting-an-apartment-spelling-5",
+      "translation": "электричество",
+      "answerText": null
+    }
+  ]
+}

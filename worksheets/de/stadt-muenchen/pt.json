@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:38.818Z"
+  },
+  "title": "Munique",
+  "instructions": {
+    "stadt-muenchen-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-muenchen-gap": "Marque a palavra certa.",
+    "stadt-muenchen-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-muenchen-table": "Complete o artigo e o plural.",
+    "stadt-muenchen-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-muenchen-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "a \"Wiesn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "Assim os moradores de Munique chamam a Oktoberfest na Theresienwiese.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "\"Servus!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "Cumprimento bávaro para dizer oi e tchau.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "a \"Maß\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "Caneca grande com um litro de cerveja.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "a Weißwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "Linguiça branca que tradicionalmente se come antes do meio-dia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "a \"Brezn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "Assim se chama o pretzel na Baviera.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "o Biergarten",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "Ficar sentado ao ar livre debaixo das árvores, comendo e bebendo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "o Föhn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "Vento quente dos Alpes; aí dá para ver as montanhas muito bem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "O carrilhão fica na prefeitura da Marienplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "No verão jovens surfam no Eisbach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "No fim de semana vamos ao Biergarten.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "Ele pede uma Maß e uma Brezn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "O rio Isar passa pela cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "Vamos ao Jardim Inglês.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "Quando sopra o Föhn, dá para ver os Alpes da cidade.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "A Weißwurst se come antes do meio-dia.",
+      "answerText": "come"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "Às 11 horas o carrilhão da prefeitura toca.",
+      "answerText": "toca"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "A Wiesn começa no fim de setembro.",
+      "answerText": "começa"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "No Eisbach jovens surfam na onda.",
+      "answerText": "surfam"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "Na despedida, os moradores de Munique dizem \"Servus\".",
+      "answerText": "dizem"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "a festa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "a linguiça",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "o jardim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "a caneca",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "o pretzel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "a montanha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "A Wiesn começa no fim de setembro.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "A Weißwurst se come antes do meio-dia.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "Vamos ao Biergarten hoje à noite?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "Quando sopra o Föhn, os Alpes aparecem bem nítidos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "o Biergarten",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "o carrilhão",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "a prefeitura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "outubro",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "as montanhas",
+      "answerText": null
+    }
+  ]
+}

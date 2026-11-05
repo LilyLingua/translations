@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Pas gydytoją",
+  "instructions": {
+    "beim-arzt-matching": "Sujunkite kiekvieną žodį su tinkamu paaiškinimu.",
+    "beim-arzt-gap": "Pažymėkite tinkamą žodį.",
+    "beim-arzt-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "beim-arzt-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "beim-arzt-order": "Sudėliokite žodžius tinkama tvarka ir parašykite sakinį.",
+    "beim-arzt-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "sveikatos draudimo kortelė",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Šią kortelę parodote registratūroje. Joje matyti jūsų sveikatos draudimas.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "vizito laikas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Sutartas laikas, kada atvykstate į gydytojo kabinetą.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "laukiamasis",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Čia sėdite, kol jus pakviečia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "receptas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Su juo vaistinėje gaunate vaistų.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "nedarbingumo pažymėjimas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Šį popierių gauna jūsų darbdavys, kai sergate.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "karščiavimas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Jūsų kūno temperatūra per aukšta, pavyzdžiui, 39 laipsniai.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergija",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Kūnas stipriai reaguoja į ką nors, pavyzdžiui, į peniciliną.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "skubios pagalbos skambutis",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Numeris 112 – nelaimingo atsitikimo ar skubios pagalbos atveju.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Laba diena, norėčiau užsiregistruoti vizitui.",
+      "answerText": "vizitui"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Ar turite su savimi sveikatos draudimo kortelę?",
+      "answerText": "sveikatos draudimo kortelę"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Prašom atsisėsti laukiamajame.",
+      "answerText": "laukiamajame"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Man skauda galvą ir karščiuoju.",
+      "answerText": "skauda galvą"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Man skauda pilvą.",
+      "answerText": "pilvą"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Esu alergiškas penicilinui.",
+      "answerText": "penicilinui"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Man reikia nedarbingumo pažymėjimo darbdaviui.",
+      "answerText": "nedarbingumo pažymėjimo"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Tabletes gerkite tris kartus per dieną po valgio.",
+      "answerText": "valgio"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Ar galėtumėte, prašom, tai pasakyti lėčiau?",
+      "answerText": "pasakyti"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Jau tris dienas karščiuoju.",
+      "answerText": "karščiuoju"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Man labai skauda galvą.",
+      "answerText": "skauda"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Prašom giliai įkvėpti – ir vėl iškvėpti.",
+      "answerText": "įkvėpti"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Gydytojas man duoda receptą.",
+      "answerText": "duoda"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Netrukus jus pakviesime.",
+      "answerText": "pakviesime"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "gydytojas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tabletė",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "receptas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "vizito laikas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "gydytojo kabinetas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "vaistas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Norėčiau užsiregistruoti vizitui.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Jau tris dienas karščiuoju.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Ar galėtumėte, prašom, tai pakartoti?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Kur skauda?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "galvos skausmas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "nedarbingumo pažymėjimas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "sveikatos draudimo kortelė",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alergiškas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tabletė",
+      "answerText": null
+    }
+  ]
+}

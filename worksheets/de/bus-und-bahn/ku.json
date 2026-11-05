@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:21:07.411Z"
+  },
+  "title": "Bi otobûs û trênê",
+  "instructions": {
+    "bus-und-bahn-matching": "Her peyvê bi ravekirina guncav ve girê bidin.",
+    "bus-und-bahn-gap": "Peyva guncav nîşan bikin.",
+    "bus-und-bahn-verbs": "Lêkera rast bi forma rast binivîsin.",
+    "bus-und-bahn-table": "Artîkelê (der/die/das) û forma pirjimar temam bikin.",
+    "bus-und-bahn-order": "Peyvan bi rêza rast rêz bikin û hevokê binivîsin.",
+    "bus-und-bahn-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bikin."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "bilêt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Pê re destûra te heye ku bi otobûs an trênê biçî.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "makîneya bilêtan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Li vir hûn bê gîşe bilêtê dikirin.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "rêya trênê (platform)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Li vir trên li îstgehê radiweste.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "derengmayîn",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Trên ji plansaziyê derengtir tê.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "trên guhertin",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Hûn ji trênekê derbasî trêneke din dibin.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "rawestgeh",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Otobûs li vir radiweste.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Bilêteke mehane ji bo otobûs û trênên herêmî li seranserê Almanyayê.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Trêna Kolnê ji rêya 5an diçe.",
+      "answerText": "rêya"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Trên deh deqîqe dereng e.",
+      "answerText": "dereng"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Rawestgeha herî nêzîk li ku ye?",
+      "answerText": "Rawestgeh"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Bilêtek ji bo Berlînê, ji kerema xwe.",
+      "answerText": "Bilêtek"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Ji kerema xwe bilêta xwe nîşan bidin.",
+      "answerText": "bilêta"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metro her deh deqîqeyan carekê tê.",
+      "answerText": "Metro"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Hûn dikarin ji makîneyê bilêtan bikirin.",
+      "answerText": "makîneyê"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Divê ez li ku trênê biguherim?",
+      "answerText": "biguherim"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Otobûs saet di 8:15an de diçe.",
+      "answerText": "diçe"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Em saet di 10an de digihîjin Hamburgê.",
+      "answerText": "digihîjin"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Ji kerema xwe li vir peya bibin.",
+      "answerText": "peya bibin"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Rêwîtî çiqas dom dike?",
+      "answerText": "dom dike"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "trên",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "îstgeh",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "bilêt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "rêya trênê",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "rawestgeh",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "otobûs",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Trêna din a Münihê kengê diçe?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Divê ez li Mannheimê trênê biguherim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Trên mixabin dereng e.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Bilêt ji bo otobûsê jî derbas dibe?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bilêt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "derengmayîn",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "rawestgeh",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "rêya trênê",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "îstgeh",
+      "answerText": null
+    }
+  ]
+}

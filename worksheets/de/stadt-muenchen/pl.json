@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:57.633Z"
+  },
+  "title": "Monachium",
+  "instructions": {
+    "stadt-muenchen-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-muenchen-gap": "Zaznacz właściwe słowo.",
+    "stadt-muenchen-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-muenchen-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-muenchen-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-muenchen-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "„Wiesn”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "Tak monachijczycy nazywają Oktoberfest na Theresienwiese.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "„Servus!”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "Bawarskie pozdrowienie na powitanie i na pożegnanie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "„Maß”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "Duży kufel z litrem piwa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "Weißwurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "Biała kiełbaska, którą tradycyjnie je się przed dwunastą w południe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "„Brezn”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "Tak w Bawarii mówi się na precel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "ogródek piwny",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "Siedzieć na zewnątrz pod drzewami, jeść i pić.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "halny (fen)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "Ciepły wiatr z Alp; wtedy góry widać bardzo wyraźnie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "Kurant z figurkami jest na ratuszu na Marienplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "Latem młodzi ludzie surfują na Eisbachu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "W weekend idziemy do ogródka piwnego.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "On zamawia Maß i Brezn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "Izara płynie przez miasto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "Idziemy do Ogrodu Angielskiego.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "Gdy wieje fen, z miasta widać Alpy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "Weißwurst je się przed dwunastą.",
+      "answerText": "je"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "O 11 na ratuszu gra kurant z figurkami.",
+      "answerText": "gra"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "Wiesn zaczyna się pod koniec września.",
+      "answerText": "zaczyna"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "Na Eisbachu młodzi ludzie surfują na fali.",
+      "answerText": "surfują"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "Na pożegnanie w Monachium mówi się „Servus”.",
+      "answerText": "mówi"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "święto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "kiełbasa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "ogród",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "kufel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "precel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "góra",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "Wiesn zaczyna się pod koniec września.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "Weißwurst je się przed dwunastą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "Pójdziemy dziś wieczorem do ogródka piwnego?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "Gdy wieje fen, Alpy widać bardzo wyraźnie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "ogródek piwny",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "kurant",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "ratusz",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "październik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "góry",
+      "answerText": null
+    }
+  ]
+}

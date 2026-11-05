@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:04.344Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ድሬስደን (Dresden)",
+  "instructions": {
+    "stadt-dresden-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-dresden-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-dresden-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-dresden-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-dresden-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-dresden-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "„Frauenkirche“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "ጉልላት ያላት ትልቅ ቤተ ክርስቲያን፤ በጦርነቱ ፈርሳ በ2005 እንደገና ተከፈተች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "„Elbflorenz“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "የድሬስደን ቅጽል ስም („በኤልቤ ወንዝ ላይ ያለችው ፍሎረንስ“) – በውብ ሕንፃዎቿ ምክንያት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "„Striezelmarkt“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "በጀርመን ካሉ በጣም ጥንታዊ የገና ገበያዎች አንዱ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "„Stollen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "ዘቢብና የዱቄት ስኳር ያለበት ከባድ የገና ኬክ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "„ሰማያዊው ድንቅ“ (Blaues Wunder)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "በኤልቤ (Elbe) ወንዝ ላይ ያለ የድሮ ሰማያዊ ድልድይ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "„Semperoper“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "በቴአተርፕላትስ (Theaterplatz) ላይ ያለ ታዋቂ የኦፔራ ቤት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "„Eierschecke“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "ሦስት ንብርብሮች ያሉት የዛክሰን (Sachsen) ኬክ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "„Frauenkirche“ን እንጎበኛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "በዲሴምበር ወደ „Striezelmarkt“ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "ለገና አያቴ „Stollen“ ትጋግራለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "በኤልቤ ወንዝ ዳር እንራመዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "ማታ ወደ „Semperoper“ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "„ሰማያዊው ድንቅ“ የድሮ ድልድይ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "ከቡናዬ ጋር አንድ ቁራጭ „Eierschecke“ እበላለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "በጦርነቱ ጊዜ „Frauenkirche“ ፈርሳ ነበር።",
+      "answerText": "ነበር"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "ብዙ ሰዎች ለመልሶ ግንባታው ገንዘብ ለገሱ።",
+      "answerText": "ለገሱ"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "„Striezelmarkt“ በየዓመቱ በአድቬንት (ከገና በፊት ባሉት ሳምንታት) ይካሄዳል።",
+      "answerText": "ይካሄዳል"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "የኤልቤ ወንዝ በድሬስደን መሃል ያልፋል።",
+      "answerText": "ያልፋል"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "በዛክሰን ዘዬ ሰዎች ብዙ ጊዜ ለ„አዎ“ „nu“ ይላሉ።",
+      "answerText": "ይላሉ"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "ቤተ ክርስቲያን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "ድልድይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "ገበያ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "ጉልላት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "ኬክ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "ቤተ መንግሥት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "„Frauenkirche“ በ2005 እንደገና ተከፈተች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "በአድቬንት ወደ „Striezelmarkt“ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "እስካሁን የድሬስደን „Stollen“ ቀምሰህ ታውቃለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "ድሬስደን በኤልቤ ወንዝ ዳር ትገኛለች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "ጉልላት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "ገና",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "„Stollen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "ድልድይ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "ዘቢብ",
+      "answerText": null
+    }
+  ]
+}

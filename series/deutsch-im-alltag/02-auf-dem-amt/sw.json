@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Ningependa kujisajili."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Ninachukua namba."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – dirisha 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Ningependa kusajili nyumba yangu mpya."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Huu ni uthibitisho kutoka kwa mwenye nyumba wangu."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Hii ni pasipoti yangu."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Nataja herufi: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Sijaoa / sijaolewa."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Nitie sahihi wapi?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Ninahitaji kitu kingine chochote?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Nimehama! Nyumba mpya, mji mpya …"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Safi! Na – umeshajisajili?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Kujisajili? Wapi tena? Kwenye gym?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Hapana, Leo. Kwenye ofisi ya serikali! Leo utapitia miadi nzima kwenye „Bürgeramt“ (ofisi ya huduma kwa wananchi) – kuanzia mlangoni hadi cheti cha usajili wa makazi."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Na katika kila hali tunakuuliza: Unasema nini?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Na una sekunde tano tu!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Unafika kwenye ofisi ya huduma kwa wananchi. Kwenye dawati la maulizo amekaa mwanaume."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Habari za asubuhi. Shida yako ni nini?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Habari za asubuhi. Ningependa kujisajili."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Mimi ni shida."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Mimi nataka ofisi."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ maana yake: Kwa nini uko hapa? Unahitaji nini?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Kwenye ofisi za serikali utasikia neno hili mara nyingi sana."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Habari za asubuhi. Ningependa kujisajili."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Una miadi?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Ndiyo, saa 3 asubuhi (9:00)."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Ningependa kujisajili."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Nina miadi saa 3 asubuhi (9:00)."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Vizuri. Basi tafadhali chukua namba na usubiri pale."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Sasa unafanya nini?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Unahama nyumba."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Unavuta nywele za mtu."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Unachukua karatasi yenye namba kwenye mashine."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Kwa hiyo A! Ninahama. Si nimehama tu hivi karibuni …"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Hapana, Leo. C! „Eine Nummer ziehen“ maana yake: unachukua karatasi yenye namba yako ya foleni."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ ni kitu tofauti kabisa – maana yake: kuhamia nyumba mpya."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Ninachukua namba."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Unasubiri. Ghafla unasikia tangazo. Sikiliza kwa makini!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Namba 147, tafadhali nenda dirisha namba 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Namba yako ni 147. Unaenda wapi?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Dirisha namba 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Dirisha namba 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Chumba namba 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Kwanza inakuja namba yako, kisha dirisha."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Katika ofisi nyingi hii pia inaonyeshwa kwenye skrini."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – dirisha 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Unaenda dirisha namba 12. Pale amekaa mwanamke."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Habari za asubuhi. Karibu ukae. Nikusaidie nini?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Ningependa kukusajili wewe."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Ningependa kusajili nyumba yangu mpya."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Sasa ninaishi hapa. Kwaheri!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Unasajili nyumba yako – au wewe mwenyewe: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Lakini si „Sie“ (wewe/yeye kwa heshima) – Bi Krüger ameshasajiliwa."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Ningependa kusajili nyumba yangu mpya."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Sawa. Ulihamia lini?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Tarehe moja Oktoba."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Ningependa kusajili nyumba yangu mpya."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Nilihamia tarehe moja Oktoba."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Una uthibitisho wa mwenye nyumba?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Lo, neno refu! Unasema nini?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Hapana, sitoi nyumba."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Ndiyo, nakupa nyumba yangu."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Ndiyo, huu ni uthibitisho kutoka kwa mwenye nyumba wangu."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ ni fomu kutoka kwa mwenye nyumba wako. Inathibitisha kwamba kweli unaishi kwenye nyumba hii."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Bila karatasi hii, mara nyingi usajili hauwezekani."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Ndiyo, huu ni uthibitisho kutoka kwa mwenye nyumba wangu."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Huu ni uthibitisho kutoka kwa mwenye nyumba wangu."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Na kitambulisho chako au pasipoti, tafadhali."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Hii ni pasipoti yangu."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Hizi ni pasipoti yangu."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Mimi ni pasipoti."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Pasipoti moja – kwa hiyo „ist“ (ni, kwa kitu kimoja), si „sind“ (ni, kwa vitu vingi). Pasipoti au kitambulisho unakihitaji karibu kila mara kwenye ofisi za serikali."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Na kama umekisahau, sema ukweli: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Samahani, kwa bahati mbaya nimeisahau.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Hii ni pasipoti yangu."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Hii ni pasipoti yangu."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Samahani, kwa bahati mbaya nimeisahau."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Jina lako la ukoo linaandikwaje?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Jina lako ni Nowak. Unasema nini?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Kwa kalamu ya wino."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Nataja herufi: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Linaandikwa kwa uzuri sana."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ maana yake: Herufi zipi? Kisha unataja herufi moja moja."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Fanya mazoezi ya jina lako kwa Kijerumani, utalihitaji kila mahali!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Asante."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Nataja herufi: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Umeoa / umeolewa?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Hujaoa wala hujaolewa. Unasema nini?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Hapana, sijaoa / sijaolewa."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Hapana, mimi ni kwa bahati mbaya."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Hapana, mimi ni oa."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ maana yake: hujaoa / hujaolewa. Tahadhari: „leider“ inasikika karibu sawa, lakini maana yake ni tofauti kabisa – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "ni: kwa bahati mbaya."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Hapana, sijaoa / sijaolewa."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Sijaoa / sijaolewa."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Nimeoa / nimeolewa."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Tafadhali kagua taarifa. Kama kila kitu ni sahihi, tafadhali tia sahihi hapa."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Nitaiandika chini ya meza."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Sipendi kutia sahihi."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Kila kitu ni sahihi. Nitie sahihi wapi hasa?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ maana yake: kuandika jina lako kwa mkono – sahihi yako."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Na ni vizuri kujua: kila mara soma kwanza kilichoandikwa kwenye fomu."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Kila kitu ni sahihi. Nitie sahihi wapi hasa?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Hapa chini, tafadhali."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Nitie sahihi wapi?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Haya, imekwisha. Hiki ni cheti chako cha usajili wa makazi."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Umemaliza! Unasema nini?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Asante, nitawasiliana nawe."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Asante sana! Ninahitaji kitu kingine chochote?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Sina tatizo lolote!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Na tahadhari kwa A: „Ich melde mich“ haimaanishi „ninajisajili“, bali: nitakupigia baadaye."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Na C huenda bado unaikumbuka – inafaa kwa daktari tu!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Asante sana! Ninahitaji kitu kingine chochote?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Hapana, ni hivyo tu. Hifadhi cheti mahali salama."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Ninahitaji kitu kingine chochote?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Vidokezo vitatu kuhusu usajili. Kwanza: jisajili ndani ya wiki mbili baada ya kuhamia."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Pili: katika miji mingi unahitaji miadi – mara nyingi unaweza kuipanga mtandaoni."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Na tatu: cheti cha usajili wa makazi utakihitaji mara nyingi tena, kwa mfano kwa akaunti ya benki."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Kwa hiyo kihifadhi vizuri!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Kwenye ofisi za serikali Kijerumani wakati mwingine kinasikika kigumu sana. Leo anasoma – na mimi nasema kwa urahisi."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Shida yako ni nini?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Unahitaji nini?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Tafadhali andaa nyaraka zako."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Tafadhali shika karatasi zako mkononi."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Jaza fomu yote kikamilifu."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Andika kitu kila mahali."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Utaratibu unachukua takriban wiki mbili."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Inachukua karibu wiki mbili."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Tafadhali wasilisha nyaraka baadaye."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Tafadhali leta karatasi baadaye."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Leo ninabadilisha nguo!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Ah, unavaa nguo nyingine? Au unamaanisha: „Ich ziehe um“ – unahamia nyumba mpya?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Na kwenye ofisi ya serikali: si „Ich bin leider“, bali „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(sijaoa / sijaolewa) – kama hujaoa au hujaolewa."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Na „Ich melde mich“ maana yake: nitapiga simu baadaye. Kwenye ofisi ya serikali unasema: „Ich melde mich an.“ (Ninajisajili.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Na sasa kila kitu tena mara moja. Sentensi kumi muhimu zaidi. Rudia baada yangu!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Ningependa kujisajili."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Nina miadi saa 3 asubuhi (9:00)."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Ninachukua namba."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Ningependa kusajili nyumba yangu mpya."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Huu ni uthibitisho kutoka kwa mwenye nyumba wangu."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Hii ni pasipoti yangu."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Nataja herufi za jina langu."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Sijaoa / sijaolewa."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Nitie sahihi wapi?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Ninahitaji kitu kingine chochote?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Neno lipi lilikuwa gumu zaidi kwako? Liandike kwenye maoni!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Kwaheri, tuonane hivi karibuni kwenye LilyLingua!"
+    }
+  ]
+}

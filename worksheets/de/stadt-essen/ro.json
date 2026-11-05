@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:55.380Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Potriviți fiecare cuvânt cu explicația corectă.",
+    "stadt-essen-gap": "Bifați cuvântul corect.",
+    "stadt-essen-verbs": "Completați verbul corect în forma corectă.",
+    "stadt-essen-table": "Completați articolul și forma de plural.",
+    "stadt-essen-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "stadt-essen-spelling": "Care cuvânt este scris corect? Bifați-l."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "mina Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Mină veche; astăzi Patrimoniu Mondial UNESCO, cu muzee și design.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "turnul de extracție",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Turn înalt deasupra minei; cu el urcau oamenii și cărbunele la suprafață.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Salutul minerilor – îți dorești ca toți să urce înapoi sănătoși.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Casa mare a familiei Krupp, cu multe camere și un parc.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Lac pe Ruhr; acolo se poate naviga cu vele, vâsli și plimba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Parc mare cu flori, locuri de joacă și animale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "capitala culturală",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Titlu primit de Essen în 2010 pentru întreaga regiune Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Vara mulți navighează cu vele pe Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Familia Krupp locuia în Villa Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Facem un tur ghidat prin mina Zollverein.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Turnul de extracție este simbolul orașului Essen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Duminică mergem în Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "În 2010, Essen a fost Capitala Culturală a Europei.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen joacă pe Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Minerii spun „Glück auf!”.",
+      "answerText": "spun"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Turnul de extracție se află deasupra minei vechi.",
+      "answerText": "află"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Astăzi nu mai iese cărbune din pământ.",
+      "answerText": "iese"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Mulți turiști vizitează mina Zollverein.",
+      "answerText": "vizitează"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Ruhrul curge prin Baldeneysee.",
+      "answerText": "curge"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "mina",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "parcul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "vila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "lacul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "muzeul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "hala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Mina Zollverein face parte din Patrimoniul Mondial UNESCO.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "În weekend mergem la Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Ai fost deja în Grugapark?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Odinioară mulți mineri lucrau în subteran.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "muzeu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "mină",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "vilă",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "cărbune",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "hală",
+      "answerText": null
+    }
+  ]
+}

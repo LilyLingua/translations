@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:43.792Z"
+  },
+  "title": "Rostock",
+  "instructions": {
+    "stadt-rostock-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-rostock-gap": "Markahan ang tamang salita.",
+    "stadt-rostock-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-rostock-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-rostock-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-rostock-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "Warnemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "Distrito sa tabi ng Baltic Sea na may dalampasigan, parola, at malalaking barko.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "ang Teepott (tsarera)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "Gusaling may espesyal at pakurbang bubong sa dalampasigan ng Warnemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "ang Hanse Sail",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "Malaking pista tuwing Agosto na may maraming lumang barkong may layag.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "ang Kogge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "Lumang barko ng Hansa; makikita ito sa sagisag ng Hansa Rostock.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "ang F.C. Hansa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "Football club ng lungsod, kulay asul at puti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "ang Astronomical Clock",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "Orasang mahigit 550 taon na sa Marienkirche; tumatakbo pa rin ito hanggang ngayon.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "ang unibersidad",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "Itinatag noong 1419 – ang pinakamatandang unibersidad sa rehiyon ng Baltic Sea.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "Umaakyat kami sa parola.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "Tuwing Agosto, maraming barko ang dumarating sa Hanse Sail.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "Pumapasok sa daungan ang isang cruise ship.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "May lumang orasan sa Marienkirche.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "Nagpapakita ng isang Kogge ang sagisag.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "Naglalakad kami sa dalampasigan papunta sa Teepott.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "Maraming estudyante ang nag-aaral sa unibersidad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "Tumatakbo pa rin ang lumang orasan hanggang ngayon.",
+      "answerText": "Tumatakbo"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "Sa Warnemünde, humihinto ang malalaking cruise ship.",
+      "answerText": "humihinto"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "Sa Hanse Sail, naglalayag ang maraming lumang barko.",
+      "answerText": "naglalayag"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "Nakatayo ang parola sa dalampasigan ng Warnemünde.",
+      "answerText": "Nakatayo"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "Naglalaro ang Hansa Rostock nang naka-asul at puti.",
+      "answerText": "Naglalaro"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "ang barko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "ang parola",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "ang orasan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "ang daungan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "ang layag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "ang simbahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "Nasa mismong tabi ng Baltic Sea ang Warnemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "Sasama ka ba sa Hanse Sail?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "Tumatakbo pa rin ang lumang orasan hanggang ngayon.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "Maraming barko ang nasa daungan.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "parola",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "barko",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "daungan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "simbahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "layag",
+      "answerText": null
+    }
+  ]
+}

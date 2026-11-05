@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.676Z"
+  },
+  "title": "В аптеке",
+  "instructions": {
+    "uk-v-aptetsi-matching": "Соедините каждое слово с его значением.",
+    "uk-v-aptetsi-gap": "Выберите правильное слово.",
+    "uk-v-aptetsi-verbs": "Вставьте правильный глагол.",
+    "uk-v-aptetsi-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-v-aptetsi-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-v-aptetsi-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-1:meaning",
+      "translation": "Бумага от врача, на которой написано, какие лекарства нужны.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2",
+      "translation": "фармацевт",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-2:meaning",
+      "translation": "Человек, который работает в аптеке и советует лекарства.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3",
+      "translation": "побочное действие",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-3:meaning",
+      "translation": "Нежелательное последствие лекарства.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-4:meaning",
+      "translation": "Маленькое твёрдое лекарство, которое глотают.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5",
+      "translation": "сироп от кашля",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-5:meaning",
+      "translation": "Жидкое лекарство, когда человек кашляет.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6",
+      "translation": "доза",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-matching-6:meaning",
+      "translation": "Сколько лекарства нужно принять за один раз.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-gap-1",
+      "translation": "У меня болит голова.",
+      "answerText": "голова"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-2",
+      "translation": "Это лекарство продаётся только по рецепту?",
+      "answerText": "рецепту"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-3",
+      "translation": "Принимайте по одной таблетке три раза в день.",
+      "answerText": "таблетке"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-4",
+      "translation": "Есть ли у этого лекарства побочные действия?",
+      "answerText": "действия"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-5",
+      "translation": "Если у вас есть вопросы, обратитесь к фармацевту.",
+      "answerText": "фармацевту"
+    },
+    {
+      "id": "uk-v-aptetsi-gap-6",
+      "translation": "Дайте, пожалуйста, сироп от кашля.",
+      "answerText": "кашля"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-1",
+      "translation": "Я ищу что-нибудь от головной боли.",
+      "answerText": "ищу"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-2",
+      "translation": "У вас есть аллергия?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-3",
+      "translation": "Пожалуйста, принимайте это лекарство после еды.",
+      "answerText": "принимайте"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-4",
+      "translation": "Фармацевт объясняет мне, как пользоваться спреем.",
+      "answerText": "объясняет"
+    },
+    {
+      "id": "uk-v-aptetsi-verbs-5",
+      "translation": "Сколько стоит это лекарство?",
+      "answerText": "стоит"
+    },
+    {
+      "id": "uk-v-aptetsi-order-1",
+      "translation": "Нужен ли рецепт на это лекарство?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-2",
+      "translation": "У меня болит горло.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-3",
+      "translation": "Принимайте две таблетки утром.",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-order-4",
+      "translation": "Что вы посоветуете от кашля?",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-2",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-3",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-4",
+      "translation": "температура",
+      "answerText": null
+    },
+    {
+      "id": "uk-v-aptetsi-spelling-5",
+      "translation": "кашель",
+      "answerText": null
+    }
+  ]
+}

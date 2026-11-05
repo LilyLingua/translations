@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:14.579Z"
+  },
+  "title": "Фрајбург у Брајсгауу",
+  "instructions": {
+    "stadt-freiburg-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-freiburg-gap": "Означи тачну реч.",
+    "stadt-freiburg-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-freiburg-table": "Упиши члан и облик множине.",
+    "stadt-freiburg-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-freiburg-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "„Bächle“ (поточићи)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "Мали водени канали на улицама старог града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "катедрала (Münster)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "Велика црква од црвеног пешчара са високим торњем.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "„Lange Rote“ (дуга црвена)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "Дуга, црвена кобасица са пијаце код катедрале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "„Bobbele“ (Бобеле)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "Тако се зову људи који су рођени у Фрајбургу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "Шауинсланд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "Кућно брдо Фрајбурга; на њега вози жичара.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "Шварцвалд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "Велико шумовито горје одмах поред града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "Вобан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "Еко-кварт са енергетски штедљивим кућама и мало аутомобила.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "Ко стане у Бехле, венча се са неким из Фрајбурга.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "На пијаци код катедрале једемо Ланге Роте.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "Жичаром се возимо на Шауинсланд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "За викенд пешачимо кроз Шварцвалд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "Много туриста посећује катедралу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "У Вобану многи возе бицикл.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "Фрајбург је веома сунчан град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "Вода тече кроз Бехле.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "Жичара вози на Шауинсланд.",
+      "answerText": "вози"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "У Фрајбургу јако често сија сунце.",
+      "answerText": "сија"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "Ко стане у Бехле, венча се са неким из Фрајбурга.",
+      "answerText": "венча"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "На тргу катедрале скоро сваки дан је пијаца.",
+      "answerText": "је"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "поток",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "шума",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "брдо",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "кобасица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "кварт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "жичара",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "У Фрајбургу често сија сунце.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "Да ли си већ стао у Бехле?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "Катедрала има висок торањ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "За викенд пешачимо по Шварцвалду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "кобасица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "шума",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "сунце",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "катедрала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "жичара",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Czy może mi pan rozmienić pięć euro?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Przepraszam, gdzie znajdę mąkę?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Poproszę 200 gramów goudy."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Tak, w porządku."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "Banany są w promocji."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Gdzie jest automat na butelki?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Nie, dziękuję."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Mam ze sobą torbę."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Kartą, proszę."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Dziękuję, nawzajem!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Jestem strasznie głodny! Ale moja lodówka jest pusta."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "To szybko do supermarketu!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "Supermarket? Całkiem po niemiecku?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "No jasne! Dziś robisz całe zakupy – od wózka aż po paragon."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "A w każdej sytuacji pytamy cię: Co mówisz?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "I masz tylko pięć sekund!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Chcesz wziąć wózek. Ale potrzebujesz do tego monety – a masz tylko banknot pięcioeurowy."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Obok ciebie stoi starszy pan."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Przepraszam, czy może mi pan podarować pięć euro?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Przepraszam, czy może mi pan rozmienić pięć euro?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Przepraszam, chcę pana wózek."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ znaczy: dajesz banknot i dostajesz monety. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "znaczy: dostajesz coś za darmo – to byłoby bardzo miłe, ale trochę bezczelne."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Chwileczkę… tak: dwa, cztery, pięć euro. Proszę bardzo!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Bardzo dziękuję!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Czy może mi pan rozmienić pięć euro?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Potrzebujesz mąki. Ale gdzie jest mąka? Pracownik właśnie układa towar na półce."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "O co pytasz?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Przepraszam, gdzie znajdę mąkę?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (zły rodzajnik)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Znalazł pan mąkę?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Prawie, Leo. Mówi się „das Mehl“. Ale A jest jeszcze lepsze: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Przepraszam, gdzie znajdę…?) – tak grzecznie zapytasz o wszystko w supermarkecie."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Mąka jest w alejce trzeciej, na samym dole regału."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Dziękuję bardzo!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Przepraszam, gdzie znajdę mąkę?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Alejka trzecia, na samym dole."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Teraz idziesz do lady ze świeżymi produktami. Chcesz goudę."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Dzień dobry! Co podać?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Jestem 200 gramów goudy."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Tak, może być."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Poproszę 200 gramów goudy."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ znaczy po prostu: Co pan/pani sobie życzy? A z „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(Poproszę…) zawsze zamawiasz grzecznie – przy ladzie, w piekarni, w kawiarni."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Poproszę 200 gramów goudy."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Pani Haas kroi ser. Na wadze widać: 230 gramów."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Może być trochę więcej?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Nie, nie wolno mi."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Tak, w porządku."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Tak, jestem trochę więcej."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! To zdanie usłyszysz przy każdej ladzie w Niemczech. Znaczy: jest trochę więcej, niż zamówiono – czy to w porządku?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Jeśli nie, powiedz po prostu: „Nein, bitte genau 200 Gramm.“ (Nie, proszę dokładnie 200 gramów.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Coś jeszcze?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Nie, dziękuję. To wszystko."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Tak, w porządku."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Nie, dziękuję. To wszystko."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Idziesz dalej. Nagle słyszysz komunikat. Słuchaj uważnie!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Drodzy klienci! Dziś w promocji: banany, kilogram za jedyne 99 centów."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Ile kosztuje kilogram bananów?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: 9,90 €"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: 1,99 €"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 centów"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 centów. „Im Angebot“ znaczy: dziś taniej niż zwykle."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "Banany są w promocji."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Masz też ze sobą puste butelki – z tym znakiem: kaucja („Pfand“). Gdzie z nimi?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Do automatu na butelki. Dostajesz pieniądze z powrotem."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: Do kosza przy wejściu."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Do kasy – w prezencie."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, do śmieci!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Nie, Leo – wtedy wyrzucasz pieniądze! A! Za wiele butelek dostajesz 25 centów zwrotu."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "Automat daje ci bon. Oddajesz go przy kasie."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Gdzie jest automat na butelki?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Teraz jesteś przy kasie. Kładziesz wszystko na taśmę."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Dzień dobry! Zbiera pan/pani punkty?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Tak, zbieram znaczki."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Zbieram pani punkty."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Nie, dziękuję."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Zbieram znaczki. Już od szkoły."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Fajnie, Leo – ale ona nie chce tego wiedzieć. C! Wiele supermarketów ma kartę albo aplikację z punktami."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Jeśli jej nie masz, powiedz po prostu: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Nie, dziękuję."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Tak, oto moja karta."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Potrzebuje pan/pani torby?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Tak, poproszę torbę mleka."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Nie, dziękuję. Mam ze sobą torbę."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Nie, nie jestem torbą."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Dobrze wiedzieć: w Niemczech torby prawie zawsze kosztują."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Wiele osób przynosi własną torbę."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Mam ze sobą torbę."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Razem 23,47 €. Płaci pan/pani gotówką czy kartą?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Kartą, proszę."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Płacę „Bar“."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Tak, gotówką albo kartą."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Tak!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo… to nie jest pytanie typu tak/nie! A! „Bar“ znaczy: banknotami i monetami. A jeśli nie jesteś pewien, zapytaj: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Czy mogę zapłacić kartą?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Kartą, proszę."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Czy mogę zapłacić kartą?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Chce pan/pani paragon?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Co mówisz?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Nie, nie lubię cukierków („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Nie, dziękuję. Nie potrzebuję go."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Tak, chcę kasę."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Nie lubię cukierków. Za dużo cukru."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! „Bon“ to nie „Bonbon“. „Kassenbon“ to ta karteczka – jest na niej, co kupiłeś."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B jest poprawne. Albo: „Ja, bitte.“ (Tak, poproszę.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Miłego dnia!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Dziękuję, nawzajem!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Powtórz!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Dziękuję, nawzajem!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Trzy wskazówki na zakupy w niemieckim supermarkecie."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Po pierwsze: w niedzielę prawie wszystkie supermarkety są zamknięte – więc rób zakupy w sobotę!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Po drugie: przy kasie sam kładziesz wszystko na taśmę."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Separator pokazuje: od tego miejsca zaczyna się następny klient."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "I po trzecie: przy kasie wszystko idzie szybko."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Pakuj się spokojnie za kasą – to zupełnie normalne."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo pisze listę zakupów. Ale coś tu się nie zgadza…"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Butelka jogurtu."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Kubek jogurtu!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Puszka chleba."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Chleb – albo opakowanie tostów!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Kubek makaronu."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Opakowanie makaronu!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Opakowanie wody."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Butelka wody!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Torebka pomidorów."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Puszka pomidorów!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Gdzie znajdę ser?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "A czasownik idzie na koniec: nie „Ich möchte bezahlen mit Karte“, tylko: „Ich möchte mit Karte bezahlen.“ (Chcę zapłacić kartą.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "A przy kasie: „Bon“ to paragon. „Bonbon“ to cukierek."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "A teraz wszystko jeszcze raz. Dziesięć najważniejszych zdań. Powtórz!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Czy może mi pan rozmienić pięć euro?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Przepraszam, gdzie znajdę mąkę?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Poproszę 200 gramów goudy."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Tak, w porządku."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Nie, dziękuję. To wszystko."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "Banany są w promocji."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Gdzie jest automat na butelki?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Mam ze sobą torbę."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Czy mogę zapłacić kartą?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Dziękuję, nawzajem!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Co najbardziej lubisz kupować w supermarkecie? Napisz w komentarzach!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Cześć i do zobaczenia w LilyLingua!"
+    }
+  ]
+}

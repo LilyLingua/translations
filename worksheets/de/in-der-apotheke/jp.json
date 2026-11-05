@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.741Z"
+  },
+  "title": "薬局で",
+  "instructions": {
+    "in-der-apotheke-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "in-der-apotheke-gap": "合う単語に印をつけなさい。",
+    "in-der-apotheke-verbs": "正しい動詞を正しい形で入れなさい。",
+    "in-der-apotheke-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "in-der-apotheke-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "in-der-apotheke-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "処方箋",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "医者が出す、薬のための紙。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "錠剤",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "飲み込む小さな薬。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "咳止めシロップ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "咳に効く液体の薬。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "軟膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "肌に塗ります。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "副作用",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "薬の望ましくない作用。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "添付文書",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "薬の箱に入っている、すべての情報が書かれた紙。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "自己負担金",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "処方箋の少しの金額を自分で払います。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "先生からの処方箋があります。",
+      "answerText": "処方箋"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "喉の痛みに効く薬はありますか？",
+      "answerText": "喉の痛み"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "1日2錠飲んでください。",
+      "answerText": "錠"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "この軟膏は肌用です。",
+      "answerText": "肌"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "添付文書を読んでください。",
+      "answerText": "添付文書"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "この薬は副作用がほとんどありません。",
+      "answerText": "副作用"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "週末は一軒の薬局が当番です。",
+      "answerText": "薬局"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "昨日から咳が出ます。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "錠剤は何回飲めばいいですか？",
+      "answerText": "飲めば"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "薬を明日までに取り寄せます。",
+      "answerText": "取り寄せます"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "軟膏を1日2回塗ってください。",
+      "answerText": "塗って"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "水をたくさん飲んでください。",
+      "answerText": "飲んで"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "薬局",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "薬",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "軟膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "絆創膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "箱（パッケージ）",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "しずく（滴）",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "咳に効く薬はありますか？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "錠剤は何回飲めばいいですか？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "頭痛薬が必要です。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "これには処方箋が必要ですか？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "薬局",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "薬",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "絆創膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "副作用",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "咳",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Ningependa kupanga miadi."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Ndiyo, kadi yangu hii hapa."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Unaweza kusema hilo polepole zaidi, tafadhali?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "Nina maumivu ya kichwa na homa."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "Tumbo langu linauma."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Tangu siku tatu."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "vuta pumzi – toa pumzi"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Nina mzio wa penisilini."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "Ninahitaji cheti cha ugonjwa."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Mara tatu kwa siku baada ya kula."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Wewe ni mgonjwa. Lazima uende kwa daktari. Lakini … kwa Kijerumani?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Ah hapana. Mara ya mwisho kwa daktari nilisema: „Ich bin Kopfschmerzen.“ (Mimi ni maumivu ya kichwa.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "Ndiyo maana tuko hapa leo. Utapitia ziara nzima kwa daktari – kuanzia simu ya kwanza hadi cheti cha dawa."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Na katika kila hali tunakuuliza: Unasema nini?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "Na una sekunde tano tu!"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Unapiga simu kliniki ya daktari. Mtu anapokea."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Kliniki ya Dkt. Yilmaz, Schulz anaongea. Nikusaidie nini?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Mimi taka daktari. Sasa."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Habari, ningependa kupanga miadi."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Halo, mimi ni mgonjwa. Kwaheri."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B! „Ich möchte gern …“ (Ningependa …) ni ya heshima na inafaa kila wakati."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Nataka) kwenye simu inasikika haraka kama ukorofi."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Habari, ningependa kupanga miadi."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Sawa. Leo saa 4 asubuhi (10:00) inafaa?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Ningependa kupanga miadi."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Unafika kliniki. Mapokezi wanakuuliza:"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Una kadi yako ya bima ya afya?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Hapana, mimi nimewekewa bima si."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Ndiyo, nina njaa."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Ndiyo, kadi yangu hii hapa."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C! „Versichertenkarte“ – wengine pia husema „Gesundheitskarte“ au „Krankenkassenkarte“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "Ni kadi ile ile. Ichukue kila unapoenda kwa daktari."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Ndiyo, kadi yangu hii hapa."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Asante sana."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Ndiyo, kadi yangu hii hapa."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "Mwanamke anaongea haraka sana. Huelewi kila kitu."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Tafadhali jaza fomu kisha ukae kwenye chumba cha kusubiri."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Samahani, unaweza kusema hilo polepole zaidi, tafadhali?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Nini?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Nitachukua kiti niende nacho."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A! „Was?“ (Nini?) inasikika bila adabu. Swali hili litakuokoa kila mahali: „Können Sie das bitte langsamer sagen?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "Kwa ufupi pia inawezekana: „Wie bitte?“ (Samahani, umesemaje?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Samahani, unaweza kusema hilo polepole zaidi, tafadhali?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Bila shaka. Tafadhali jaza fomu hii. Kisha subiri pale kwenye chumba cha kusubiri."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Unaweza kusema hilo polepole zaidi, tafadhali?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Uko kwa daktari kwenye chumba cha kumwona mgonjwa. Anauliza:"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Habari. Sasa, una tatizo gani?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Sina tatizo lolote, asante."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: Nina maumivu ya kichwa na homa."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Mimi ni maumivu ya kichwa."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B! Tahadhari: „Was fehlt Ihnen?“ haimaanishi „Unakosa nini?“ bali „Tatizo lako ni nini?“"
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Ukisema „Mir fehlt nichts“, wewe ni mzima – na kwa kweli hupaswi kuwa kwa daktari."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "Nina maumivu ya kichwa na homa."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Ah, pole sana."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "Nina maumivu ya kichwa na homa."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Una pia maumivu ya tumbo? Panauma wapi?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Tumbo lako linauma. Unasema nini?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Mimi nauma kwenye tumbo."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Tumbo ni umia."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Hapa, tumbo langu linauma."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C! Hivi ndivyo inavyokwenda: sehemu ya mwili pamoja na „tut weh“ (inauma). Kwa zaidi ya moja: „Meine Füße tun weh.“ (Miguu yangu inauma.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Hapa, tumbo langu linauma."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "Tumbo langu linauma."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Miguu yangu inauma."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Umekuwa na dalili hizi tangu lini?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Kabla ya siku tatu kwa muda."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Tangu siku tatu (bila mwisho sahihi)."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Tangu siku tatu."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C! Baada ya „seit“ (tangu) unakuja „Dativ“ – ndiyo maana „Tagen“ ina n. Vivyo hivyo: „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(tangu wiki moja), „seit gestern“ (tangu jana)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Tangu siku tatu."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Tangu siku tatu."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Tangu wiki moja."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Nitakusikiliza kifua. Tafadhali vua nguo za juu."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Sasa unafanya nini?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Unavua sweta na fulana."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Unavua suruali."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Unaenda nyumbani – si uko huru."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Kwa hiyo … C, sivyo? Niko huru – naenda nyumbani!"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Hapana, Leo. A! „Oberkörper“ ni sehemu ya juu ya mwili. „Frei machen“ hapa maana yake: vua nguo. Kisha utasikia mara nyingi: „Tief einatmen …"
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "und ausatmen.“ (Vuta pumzi ndani kwa nguvu … kisha toa.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Vuta pumzi ndani kwa nguvu … kisha toa. Vizuri."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "vuta pumzi – toa pumzi"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Una mzio wa kitu chochote?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Ndiyo, nina mzio kwa ajili ya penisilini."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Ndiyo, nina mzio wa penisilini."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Sipendi sana penisilini."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B! Mtu ana mzio „gegen“ kitu fulani. Na kama huna mzio: „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Hapana, sina mzio wowote.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Ndiyo, nina mzio wa penisilini."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Vizuri kwamba umesema hivyo. Basi utapata dawa nyingine."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Nina mzio wa penisilini."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Sina mzio wowote."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Kesho huwezi kwenda kazini. Daktari anauliza:"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "Unahitaji cheti cha ugonjwa?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Unasema nini?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Hapana, ninaandika mwenyewe."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Ndiyo, ninaandika mgonjwa."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Ndiyo, tafadhali. Kwa ajili ya mwajiri wangu."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C! „Krankschreibung“ (cheti cha ugonjwa) kinaonyesha: wewe ni mgonjwa na huwezi kufanya kazi."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Muhimu: hata hivyo mjulishe mwajiri wako mwenyewe – ikiwezekana siku ya kwanza, mapema asubuhi."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Ndiyo, tafadhali. Kwa ajili ya mwajiri wangu."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Nakuandikia likizo ya ugonjwa hadi Ijumaa."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "Ninahitaji cheti cha ugonjwa."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Nakuandikia cheti cha dawa. Meza vidonge mara tatu kwa siku baada ya kula."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Sikiliza kwa makini! Unameza vidonge lini?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Mara moja kwa siku, kabla ya kulala."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Asubuhi, mchana na jioni – baada ya kula."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Mara tatu kwa siku – kabla ya kula."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B! „Dreimal täglich“ maana yake mara tatu kwa siku. Na „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "– yaani kwanza kula, kisha kidonge."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Asante sana. Kwaheri!"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Pole, upone haraka!"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – hivi ndivyo unavyowaambia watu wagonjwa. Maana yake: upone haraka!"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Rudia baada yangu!"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Mara tatu kwa siku baada ya kula."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Pole, upone haraka!"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "Na kama kliniki imefungwa? Kumbuka namba mbili."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "116 117: huduma ya madaktari wa zamu – unapomhitaji daktari usiku au wikendi, lakini si dharura."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Na 112: namba ya dharura – kwa gari la wagonjwa na zimamoto, kwa mfano baada ya ajali au ukishindwa kupumua vizuri."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "Darasani unajifunza sentensi nzuri. Lakini Wajerumani wanasema nini kwa kweli?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "Nina maumivu ya koo."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Koo langu linawasha."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Mimi ni mgonjwa."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Nimekamatwa. (Nimeanza kuugua.)"
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "Nimeambukizwa."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "Nimepata kitu (ugonjwa)."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Nimechoka sana na sina nguvu."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Nimechoka kabisa."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "Nina maumivu ya mgongo."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "Mgongo unanisumbua."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, mimi ni baridi sana!"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo … wewe si mtu wa baridi. Unamaanisha: „Mir ist kalt.“ (Ninahisi baridi.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Na tahadhari: „Mir ist schlecht“ haimaanishi „Siko vizuri“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Maana yake: ninahisi kichefuchefu, huenda nikatapika."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Mafua au homa ya mafua makali? Kamasi na kikohozi mara nyingi ni mafua ya kawaida („Erkältung“)."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "„Grippe“ ni mbaya zaidi: homa kali, unalala kitandani."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Na sasa kila kitu tena mara moja. Sentensi kumi muhimu zaidi. Rudia baada yangu!"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Ningependa kupanga miadi."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Kadi yangu hii hapa."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Unaweza kusema hilo polepole zaidi, tafadhali?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "Nina maumivu ya kichwa na homa."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "Tumbo langu linauma."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Tangu siku tatu."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Nina mzio wa penisilini."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "Ninahitaji cheti cha ugonjwa."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Mara tatu kwa siku baada ya kula."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Pole, upone haraka!"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Hali ipi ilikuwa ngumu zaidi kwako? Iandike kwenye maoni!"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "Wakati ujao tunaenda kwenye ofisi ya serikali. Huko nahitaji msaada kweli."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "Tuonane hivi karibuni kwenye LilyLingua!"
+    }
+  ]
+}

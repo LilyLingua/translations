@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:34.647Z"
+  },
+  "title": "মুনস্টার",
+  "instructions": {
+    "stadt-muenster-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-muenster-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-muenster-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-muenster-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-muenster-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-muenster-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-muenster-matching-1",
+      "translation": "\"লেৎসে\" (সাইকেল)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-1:meaning",
+      "translation": "মুনস্টারে সাইকেলের জন্য ব্যবহৃত শব্দ।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2",
+      "translation": "প্রিন্সিপালমার্কট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-2:meaning",
+      "translation": "তিনকোনা ছাদের পুরোনো বাড়ি আর খিলানওয়ালা বারান্দাসহ সুন্দর কেনাকাটার রাস্তা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3",
+      "translation": "ওয়েস্টফালিয়ার শান্তি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-3:meaning",
+      "translation": "১৬৪৮ সালে এখানে আর ওসনাব্রুকে ত্রিশ বছরের যুদ্ধ শেষ হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4",
+      "translation": "অ্যানাব্যাপটিস্টদের খাঁচা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-4:meaning",
+      "translation": "তিনটি লোহার খাঁচা প্রায় ৫০০ বছর ধরে লাম্বের্টি গির্জার টাওয়ারে ঝুলছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5",
+      "translation": "আজে হ্রদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-5:meaning",
+      "translation": "শহরের মাঝখানে হ্রদ; গ্রীষ্মে সেখানে অনেক ছাত্রছাত্রী বসে থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6",
+      "translation": "\"জেন্ড\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-6:meaning",
+      "translation": "নাগরদোলাসহ বড় লোকমেলা, বছরে তিনবার।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7",
+      "translation": "প্রমেনাড",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-matching-7:meaning",
+      "translation": "পুরোনো শহরের চারপাশে পথ, শুধু সাইকেল আর পথচারীদের জন্য।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-1",
+      "translation": "আমি লেৎসেতে চড়ে বিশ্ববিদ্যালয়ে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-2",
+      "translation": "আমরা প্রিন্সিপালমার্কট দিয়ে হাঁটি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-3",
+      "translation": "১৬৪৮ সালে মুনস্টারে ওয়েস্টফালিয়ার শান্তি চুক্তি হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-4",
+      "translation": "আমরা আজে হ্রদের চারপাশে দৌড়াই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-5",
+      "translation": "জেন্ডে আমরা নাগরদোলায় চড়ি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-6",
+      "translation": "প্রমেনাড পুরোনো শহরের চারপাশে একটি বলয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-gap-7",
+      "translation": "লোকে বলে: মুনস্টারে হয় বৃষ্টি হয়, নয়তো ঘণ্টা বাজে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-verbs-1",
+      "translation": "মুনস্টারে প্রায় সবাই সাইকেল চালায়।",
+      "answerText": "চালায়"
+    },
+    {
+      "id": "stadt-muenster-verbs-2",
+      "translation": "সেন্ট লাম্বের্টির টাওয়ারে তিনটি লোহার খাঁচা ঝুলছে।",
+      "answerText": "ঝুলছে"
+    },
+    {
+      "id": "stadt-muenster-verbs-3",
+      "translation": "ছাত্রছাত্রীরা তাদের লেৎসে বিশ্ববিদ্যালয়ের সামনে রাখে।",
+      "answerText": "রাখে"
+    },
+    {
+      "id": "stadt-muenster-verbs-4",
+      "translation": "আবার বৃষ্টি হচ্ছে!",
+      "answerText": "বৃষ্টি"
+    },
+    {
+      "id": "stadt-muenster-verbs-5",
+      "translation": "জেন্ড বছরে তিনবার বসে।",
+      "answerText": "বসে"
+    },
+    {
+      "id": "stadt-muenster-table-1",
+      "translation": "সাইকেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-2",
+      "translation": "খাঁচা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-3",
+      "translation": "ঘণ্টা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-4",
+      "translation": "তিনকোনা ছাদ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-5",
+      "translation": "নাগরদোলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-table-6",
+      "translation": "গলি",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-1",
+      "translation": "মুনস্টারে বাসিন্দাদের চেয়ে সাইকেল বেশি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-2",
+      "translation": "প্রিন্সিপালমার্কটে তিনকোনা ছাদের পুরোনো বাড়ি দাঁড়িয়ে আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-3",
+      "translation": "তুমি কি লেৎসেতে চড়ে বিশ্ববিদ্যালয়ে যাও?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-order-4",
+      "translation": "ওয়েস্টফালিয়ার শান্তি ১৬৪৮ সালে একটি দীর্ঘ যুদ্ধ শেষ করে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-1",
+      "translation": "সাইকেল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-2",
+      "translation": "খাঁচা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-3",
+      "translation": "ঘণ্টা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-4",
+      "translation": "নাগরদোলা",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenster-spelling-5",
+      "translation": "তিনকোনা ছাদ",
+      "answerText": null
+    }
+  ]
+}

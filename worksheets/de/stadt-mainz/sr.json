@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:21.658Z"
+  },
+  "title": "Мајнц",
+  "instructions": {
+    "stadt-mainz-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-mainz-gap": "Означи тачну реч.",
+    "stadt-mainz-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-mainz-table": "Упиши члан и облик множине.",
+    "stadt-mainz-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-mainz-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "„Fastnacht“ (Фастнахт)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Тако се у Мајнцу зове карневал; виче се „Хелау“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "Ружин понедељак",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Врхунац карневала са великом поворком.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "штампарство",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Јоханес Гутенберг га је изумео у Мајнцу, са покретним словима.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "Мајнцелменхен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Мали цртани ликови са телевизије ЗДФ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "„Weck, Worscht un Woi“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "Мајнчки дијалекат за лепињу, кобасицу и вино.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "„Meenzer“ (Менцер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Тако себе на дијалекту зову становници Мајнца.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "пијачни доручак",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Дружење суботом на пијаци код катедрале, уз вино и кобасице.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Гутенберг је изумео штампарство.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "На Ружин понедељак гледамо велику поворку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Пијачни доручак је поред катедрале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "ЗДФ има седиште у граду Мајнцу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "Он пије чашу вина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "У музеју видимо стару Библију.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Мајнц лежи на Рајни.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Јоханес Гутенберг је изумео штампарство.",
+      "answerText": "изумео"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "За карневал Менцери вичу „Хелау“.",
+      "answerText": "вичу"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Мајнцелменхен се појављују на ЗДФ-у између реклама.",
+      "answerText": "појављују"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "Суботом се налазимо на пијачном доручку.",
+      "answerText": "налазимо"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Око Мајнца расте много винове лозе.",
+      "answerText": "расте"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "поворка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "књига",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "слово",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "Библија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "лепиња",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "катедрала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Гутенберг је изумео штампарство у Мајнцу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "На Ружин понедељак је велика поворка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "Хоћемо ли у суботу на пијачни доручак?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Мајнц лежи на Рајни.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "слово",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Библија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "поворка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "Ружин понедељак",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "телевизија",
+      "answerText": null
+    }
+  ]
+}

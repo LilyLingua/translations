@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:20.585Z"
+  },
+  "title": "Ерфурт",
+  "instructions": {
+    "stadt-erfurt-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-erfurt-gap": "Означи тачну реч.",
+    "stadt-erfurt-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-erfurt-table": "Упиши члан и облик множине.",
+    "stadt-erfurt-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-erfurt-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "Трговачки мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "Мост са кућама на њему; тамо живе људи и има малих продавница.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "Домберг",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "Брдо са две велике цркве: катедралом и црквом Светог Севера.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "ростбратвурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "Печена тириншка кобасица; једе се у лепињи са сенфом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "кнедла",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "Округли прилог од кромпира, веома омиљен у Тирингији.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "KiKA (КиКА)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "ТВ канал за децу са седиштем у Ерфурту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "манастир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "Мартин Лутер је овде живео као млади монах.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "„Krämer“ (Кремер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "Стара реч за трговца са малом продавницом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "На Трговачком мосту има много кућа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "Пењемо се на Домберг.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "Једем братвурст са сенфом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "Недељом једемо печење са кнедлама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "У граду има фигура из дечјег програма.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "Посећујемо Августински манастир.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "Ерфурт је главни град Тирингије.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "Мартин Лутер је студирао у Ерфурту.",
+      "answerText": "студирао"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "На Трговачком мосту и данас живе људи.",
+      "answerText": "живе"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "Роштиљ мирише на братвурст.",
+      "answerText": "мирише"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "Кнедле се праве од кромпира.",
+      "answerText": "праве"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "КиКА емитује емисије за децу.",
+      "answerText": "емитује"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "мост",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "кнедла",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "кобасица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "манастир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "монах",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "трговац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "На Трговачком мосту живе људи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "Уз братвурст иде сенф.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "Да ли си већ јео тириншке кнедле?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "Мартин Лутер је студирао у Ерфурту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "кнедла",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "манастир",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "братвурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "трговац",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "сенф",
+      "answerText": null
+    }
+  ]
+}

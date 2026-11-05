@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "6ee09740-fe0c-4640-9b95-e49f79f0c21c",
+    "level": "A2"
+  },
+  "title": "Appointments by Phone",
+  "topic": "Calling, making, moving and canceling appointments",
+  "tasks": [
+    {
+      "id": "en-appointments-by-phone-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-appointments-by-phone-matching-1",
+          "term": "to call",
+          "meaning": "To talk to someone on the phone."
+        },
+        {
+          "id": "en-appointments-by-phone-matching-2",
+          "term": "to cancel",
+          "meaning": "To say that you will not come."
+        },
+        {
+          "id": "en-appointments-by-phone-matching-3",
+          "term": "to reschedule",
+          "meaning": "To change the time of an appointment."
+        },
+        {
+          "id": "en-appointments-by-phone-matching-4",
+          "term": "the voicemail",
+          "meaning": "A message you leave when nobody answers the phone."
+        },
+        {
+          "id": "en-appointments-by-phone-matching-5",
+          "term": "the extension",
+          "meaning": "A short phone number inside a company."
+        },
+        {
+          "id": "en-appointments-by-phone-matching-6",
+          "term": "available",
+          "meaning": "Free, not busy."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-appointments-by-phone-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-appointments-by-phone-gap-1",
+          "promptBefore": "I'd like to",
+          "promptAfter": "my appointment on Friday.",
+          "correctAnswer": "cancel",
+          "options": [
+            "cancel",
+            "call",
+            "leave"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-appointments-by-phone-gap-2",
+          "promptBefore": "Can we",
+          "promptAfter": "it to next week?",
+          "correctAnswer": "move",
+          "options": [
+            "move",
+            "call",
+            "leave"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-appointments-by-phone-gap-3",
+          "promptBefore": "Is the doctor",
+          "promptAfter": "on Monday?",
+          "correctAnswer": "available",
+          "options": [
+            "available",
+            "voicemail",
+            "extension"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-appointments-by-phone-gap-4",
+          "promptBefore": "Please leave a message on my",
+          "promptAfter": ".",
+          "correctAnswer": "voicemail",
+          "options": [
+            "voicemail",
+            "extension",
+            "appointment"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-appointments-by-phone-gap-5",
+          "promptBefore": "Can you",
+          "promptAfter": "me back later?",
+          "correctAnswer": "call",
+          "options": [
+            "call",
+            "cancel",
+            "move"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-appointments-by-phone-gap-6",
+          "promptBefore": "Please dial",
+          "promptAfter": "two-four-five.",
+          "correctAnswer": "extension",
+          "options": [
+            "extension",
+            "voicemail",
+            "appointment"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-appointments-by-phone-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-appointments-by-phone-verbs-1",
+          "promptBefore": "Hello, this",
+          "promptAfter": "Maria Lopez.",
+          "correctAnswer": "is",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "be"
+        },
+        {
+          "id": "en-appointments-by-phone-verbs-2",
+          "promptBefore": "I",
+          "promptAfter": "an appointment.",
+          "correctAnswer": "need",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "need"
+        },
+        {
+          "id": "en-appointments-by-phone-verbs-3",
+          "promptBefore": "Could you",
+          "promptAfter": "that, please?",
+          "correctAnswer": "repeat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "repeat"
+        },
+        {
+          "id": "en-appointments-by-phone-verbs-4",
+          "promptBefore": "I",
+          "promptAfter": "you back in ten minutes.",
+          "correctAnswer": "call",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "call"
+        },
+        {
+          "id": "en-appointments-by-phone-verbs-5",
+          "promptBefore": "The office",
+          "promptAfter": "at five.",
+          "correctAnswer": "closes",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "close"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-appointments-by-phone-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-appointments-by-phone-order-1",
+          "chunks": [
+            "Can I",
+            "speak",
+            "to Dr. Brown"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-appointments-by-phone-order-2",
+          "chunks": [
+            "I",
+            "would like",
+            "to cancel",
+            "my appointment"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-appointments-by-phone-order-3",
+          "chunks": [
+            "Is",
+            "Tuesday",
+            "at ten",
+            "okay"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-appointments-by-phone-order-4",
+          "chunks": [
+            "Please",
+            "call",
+            "me back"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-appointments-by-phone-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-appointments-by-phone-spelling-1",
+          "correct": "available",
+          "wrong": "availible"
+        },
+        {
+          "id": "en-appointments-by-phone-spelling-2",
+          "correct": "message",
+          "wrong": "mesage"
+        },
+        {
+          "id": "en-appointments-by-phone-spelling-3",
+          "correct": "Wednesday",
+          "wrong": "Wensday"
+        },
+        {
+          "id": "en-appointments-by-phone-spelling-4",
+          "correct": "cancel",
+          "wrong": "cancle"
+        },
+        {
+          "id": "en-appointments-by-phone-spelling-5",
+          "correct": "phone",
+          "wrong": "fone"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

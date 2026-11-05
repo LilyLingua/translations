@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:36.578Z"
+  },
+  "title": "Dresden",
+  "instructions": {
+    "stadt-dresden-matching": "Ligue cada palavra à explicação certa.",
+    "stadt-dresden-gap": "Marque a palavra certa.",
+    "stadt-dresden-verbs": "Complete com o verbo certo na forma certa.",
+    "stadt-dresden-table": "Complete o artigo e o plural.",
+    "stadt-dresden-order": "Coloque as palavras na ordem certa e escreva a frase.",
+    "stadt-dresden-spelling": "Qual palavra está escrita corretamente? Marque-a."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "a Frauenkirche",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "Grande igreja com cúpula; destruída na guerra, reaberta em 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "\"Elbflorenz\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "Apelido de Dresden (\"a Florença do Elba\") – por causa dos prédios bonitos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "o Striezelmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "Uma das feiras de Natal mais antigas da Alemanha.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "o Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "Bolo de Natal pesado com uvas-passas e açúcar de confeiteiro.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "o \"Milagre Azul\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "Ponte azul antiga sobre o Elba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "a Semperoper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "Famosa casa de ópera na Theaterplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "a Eierschecke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "Bolo saxão com três camadas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "Visitamos a Frauenkirche.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "Em dezembro vamos ao Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "No Natal minha avó faz um Stollen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "Passeamos à beira do Elba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "À noite vamos à Semperoper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "O Milagre Azul é uma ponte antiga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "Com o café como um pedaço de Eierschecke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "Na guerra a Frauenkirche foi destruída.",
+      "answerText": "foi"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "Muitas pessoas doaram dinheiro para a reconstrução.",
+      "answerText": "doaram"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "O Striezelmarkt acontece todo ano no Advento.",
+      "answerText": "acontece"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "O Elba passa bem pelo meio de Dresden.",
+      "answerText": "passa"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "No dialeto saxão muitas vezes se diz \"nu\" para \"sim\".",
+      "answerText": "diz"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "a igreja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "a ponte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "o mercado",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "a cúpula",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "o bolo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "o palácio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "A Frauenkirche foi reaberta em 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "No Advento vamos ao Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "Você já provou o Stollen de Dresden?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "Dresden fica às margens do Elba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "a cúpula",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "o Natal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "o Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "a ponte",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "a uva-passa",
+      "answerText": null
+    }
+  ]
+}

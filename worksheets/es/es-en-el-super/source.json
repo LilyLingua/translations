@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "9fb49ab9-eb29-4b8e-9727-89e49228b22a",
+    "level": "A1"
+  },
+  "title": "En el súper",
+  "topic": "Hacer las compras, encontrar productos y pagar en la caja",
+  "tasks": [
+    {
+      "id": "es-en-el-super-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-en-el-super-matching-1",
+          "term": "el carrito",
+          "meaning": "Una canasta grande con ruedas para tus compras."
+        },
+        {
+          "id": "es-en-el-super-matching-2",
+          "term": "la caja",
+          "meaning": "El lugar donde pagas."
+        },
+        {
+          "id": "es-en-el-super-matching-3",
+          "term": "el pasillo",
+          "meaning": "Un camino largo entre los estantes."
+        },
+        {
+          "id": "es-en-el-super-matching-4",
+          "term": "el ticket",
+          "meaning": "Un papel que muestra lo que compraste."
+        },
+        {
+          "id": "es-en-el-super-matching-5",
+          "term": "el cajero",
+          "meaning": "La persona que cobra en la caja."
+        },
+        {
+          "id": "es-en-el-super-matching-6",
+          "term": "la bolsa",
+          "meaning": "Ahí llevas tus compras a casa."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-en-el-super-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-en-el-super-gap-1",
+          "promptBefore": "Necesito un litro de",
+          "promptAfter": ".",
+          "correctAnswer": "leche",
+          "options": [
+            "leche",
+            "bolsa",
+            "caja"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-super-gap-2",
+          "promptBefore": "El pan está en el",
+          "promptAfter": "cinco.",
+          "correctAnswer": "pasillo",
+          "options": [
+            "pasillo",
+            "carrito",
+            "ticket"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-super-gap-3",
+          "promptBefore": "¿Quiere una",
+          "promptAfter": "para sus compras?",
+          "correctAnswer": "bolsa",
+          "options": [
+            "bolsa",
+            "leche",
+            "fila"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-super-gap-4",
+          "promptBefore": "Por favor, pague en la",
+          "promptAfter": ".",
+          "correctAnswer": "caja",
+          "options": [
+            "caja",
+            "bolsa",
+            "leche"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-super-gap-5",
+          "promptBefore": "Aquí está su",
+          "promptAfter": ". ¡Buen día!",
+          "correctAnswer": "ticket",
+          "options": [
+            "ticket",
+            "pasillo",
+            "carrito"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-super-gap-6",
+          "promptBefore": "Pongo las manzanas en el",
+          "promptAfter": ".",
+          "correctAnswer": "carrito",
+          "options": [
+            "carrito",
+            "ticket",
+            "pasillo"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-en-el-super-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-en-el-super-verbs-1",
+          "promptBefore": "¿Cuánto",
+          "promptAfter": "las manzanas?",
+          "correctAnswer": "cuestan",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "costar"
+        },
+        {
+          "id": "es-en-el-super-verbs-2",
+          "promptBefore": "",
+          "promptAfter": "con tarjeta.",
+          "correctAnswer": "Pago",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pagar"
+        },
+        {
+          "id": "es-en-el-super-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "huevos y pan.",
+          "correctAnswer": "Necesitamos",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "necesitar"
+        },
+        {
+          "id": "es-en-el-super-verbs-4",
+          "promptBefore": "Disculpe, ¿dónde",
+          "promptAfter": "el arroz?",
+          "correctAnswer": "encuentro",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "encontrar"
+        },
+        {
+          "id": "es-en-el-super-verbs-5",
+          "promptBefore": "La tienda",
+          "promptAfter": "a las diez.",
+          "correctAnswer": "cierra",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "cerrar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-en-el-super-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-en-el-super-order-1",
+          "chunks": [
+            "¿Dónde",
+            "está",
+            "el arroz"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-el-super-order-2",
+          "chunks": [
+            "Necesito",
+            "una",
+            "bolsa"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-el-super-order-3",
+          "chunks": [
+            "¿Puedo",
+            "pagar",
+            "con tarjeta"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-el-super-order-4",
+          "chunks": [
+            "La leche",
+            "está",
+            "en el pasillo tres"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-en-el-super-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-en-el-super-spelling-1",
+          "correct": "verduras",
+          "wrong": "berduras"
+        },
+        {
+          "id": "es-en-el-super-spelling-2",
+          "correct": "pollo",
+          "wrong": "poyo"
+        },
+        {
+          "id": "es-en-el-super-spelling-3",
+          "correct": "queso",
+          "wrong": "keso"
+        },
+        {
+          "id": "es-en-el-super-spelling-4",
+          "correct": "tortillas",
+          "wrong": "tortiyas"
+        },
+        {
+          "id": "es-en-el-super-spelling-5",
+          "correct": "huevo",
+          "wrong": "güevo"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

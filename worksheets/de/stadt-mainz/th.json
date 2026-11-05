@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:59.308Z"
+  },
+  "title": "ไมนซ์",
+  "instructions": {
+    "stadt-mainz-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-mainz-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-mainz-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-mainz-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-mainz-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-mainz-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "\"ฟาสท์นัคท์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "ชื่อเรียกคาร์นิวัลในไมนซ์ ผู้คนตะโกนว่า \"เฮเลา\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "วันจันทร์กุหลาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "จุดสูงสุดของคาร์นิวัล มีขบวนพาเหรดใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "การพิมพ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "โยฮันเนส กูเทนแบร์คคิดค้นขึ้นที่ไมนซ์ ด้วยตัวพิมพ์ที่เคลื่อนย้ายได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "ไมน์เซิลแม็นเชิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "ตัวการ์ตูนเล็ก ๆ ของสถานีโทรทัศน์ ZDF",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "\"เว็ค, วอร์ชท์ อุน วอย\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "ภาษาถิ่นไมนซ์ แปลว่า ขนมปัง ไส้กรอก และไวน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "\"เมนท์เซอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "คนไมนซ์เรียกตัวเองแบบนี้ในภาษาถิ่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "อาหารเช้าที่ตลาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "การพบปะวันเสาร์ที่ตลาดข้างมหาวิหาร พร้อมไวน์และไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "กูเทนแบร์คคิดค้นการพิมพ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "ในวันจันทร์กุหลาบพวกเราดูขบวนพาเหรดใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "อาหารเช้าที่ตลาดอยู่ข้างมหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "ZDF มีสำนักงานใหญ่อยู่ในเมืองไมนซ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "เขาดื่มไวน์หนึ่งแก้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "ในพิพิธภัณฑ์พวกเราเห็นคัมภีร์ไบเบิลเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "ไมนซ์ตั้งอยู่ริมแม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "โยฮันเนส กูเทนแบร์คคิดค้นการพิมพ์",
+      "answerText": "คิดค้น"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "ช่วงคาร์นิวัล ชาวเมนท์เซอร์ตะโกนว่า \"เฮเลา\"",
+      "answerText": "ตะโกน"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "ไมน์เซิลแม็นเชินปรากฏทาง ZDF ระหว่างโฆษณา",
+      "answerText": "ปรากฏ"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "วันเสาร์พวกเราพบกันที่อาหารเช้าที่ตลาด",
+      "answerText": "พบกัน"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "รอบไมนซ์มีองุ่นปลูกอยู่มากมาย",
+      "answerText": "ปลูก"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "ขบวนพาเหรด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "หนังสือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "ตัวอักษร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "คัมภีร์ไบเบิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "มหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "กูเทนแบร์คคิดค้นการพิมพ์ที่ไมนซ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "วันจันทร์กุหลาบมีขบวนพาเหรดใหญ่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "วันเสาร์ไปกินอาหารเช้าที่ตลาดกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "ไมนซ์ตั้งอยู่ริมแม่น้ำไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "ตัวอักษร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "คัมภีร์ไบเบิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "ขบวนพาเหรด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "วันจันทร์กุหลาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "โทรทัศน์",
+      "answerText": null
+    }
+  ]
+}

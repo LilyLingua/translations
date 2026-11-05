@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:39.979Z"
+  },
+  "title": "बस और ट्रेन से",
+  "instructions": {
+    "bus-und-bahn-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "bus-und-bahn-gap": "सही शब्द पर निशान लगाइए।",
+    "bus-und-bahn-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "bus-und-bahn-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "bus-und-bahn-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "bus-und-bahn-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "टिकट",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "इससे आप बस या ट्रेन में सफ़र कर सकते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "टिकट मशीन",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "यहाँ बिना काउंटर के टिकट ख़रीदते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "प्लेटफ़ॉर्म",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "यहाँ ट्रेन स्टेशन पर रुकती है।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "देरी",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "ट्रेन तय समय से देर से आती है।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "ट्रेन बदलना",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "आप एक ट्रेन से दूसरी ट्रेन में जाते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "बस स्टॉप",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "यहाँ बस रुकती है।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "डॉयचलैंड टिकट (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "पूरे जर्मनी में बसों और लोकल ट्रेनों के लिए मासिक टिकट।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "कोलोन जाने वाली ट्रेन प्लेटफ़ॉर्म 5 से जाती है।",
+      "answerText": "प्लेटफ़ॉर्म"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "ट्रेन दस मिनट देरी से है।",
+      "answerText": "देरी"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "सबसे पास का स्टॉप कहाँ है?",
+      "answerText": "स्टॉप"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "बर्लिन का एक टिकट, कृपया।",
+      "answerText": "टिकट"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "कृपया अपना टिकट दिखाइए।",
+      "answerText": "टिकट"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "मेट्रो हर दस मिनट में आती है।",
+      "answerText": "मेट्रो"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "आप मशीन से टिकट ख़रीद सकते हैं।",
+      "answerText": "मशीन"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "मुझे कहाँ ट्रेन बदलनी होगी?",
+      "answerText": "ट्रेन बदलनी"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "बस 8:15 बजे निकलती है।",
+      "answerText": "निकलती"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "हम 10 बजे हैम्बर्ग पहुँचते हैं।",
+      "answerText": "पहुँचते"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "कृपया यहाँ उतरिए।",
+      "answerText": "उतरिए"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "सफ़र में कितना समय लगता है?",
+      "answerText": "लगता"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "ट्रेन",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "रेलवे स्टेशन",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "टिकट",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "प्लेटफ़ॉर्म",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "स्टॉप",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "बस",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "म्यूनिख के लिए अगली ट्रेन कब जाती है?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "मुझे मैनहाइम में ट्रेन बदलनी है।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "दुर्भाग्य से ट्रेन देरी से है।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "क्या यह टिकट बस के लिए भी मान्य है?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "टिकट",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "देरी",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "स्टॉप",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "प्लेटफ़ॉर्म",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "रेलवे स्टेशन",
+      "answerText": null
+    }
+  ]
+}

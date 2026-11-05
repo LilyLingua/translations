@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.454Z"
+  },
+  "title": "Rendez-vous par téléphone",
+  "instructions": {
+    "termine-am-telefon-matching": "Reliez chaque mot à l'explication qui convient.",
+    "termine-am-telefon-gap": "Cochez la bonne préposition.",
+    "termine-am-telefon-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "termine-am-telefon-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "termine-am-telefon-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "termine-am-telefon-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "le répondeur",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Ici, vous pouvez laisser un message.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "la ligne directe",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Le numéro de téléphone direct d'une personne dans une entreprise.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "rappeler",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Appeler quelqu'un plus tard parce qu'il a appelé avant.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "reporter",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Déplacer un rendez-vous à un autre jour.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "annuler",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Dire qu'on ne vient pas à un rendez-vous.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "les heures d'ouverture",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Les heures où l'on peut joindre quelqu'un.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "épeler",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Dire un mot lettre par lettre.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Êtes-vous disponible le lundi ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Est-ce que 10 heures vous convient ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Je ne suis disponible qu'en décembre.",
+      "answerText": "en"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Le cabinet est fermé le week-end.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Je vous rappelle dans une heure.",
+      "answerText": "dans"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "J'attends un rendez-vous depuis deux semaines.",
+      "answerText": "depuis"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Veuillez venir dix minutes avant le rendez-vous.",
+      "answerText": "avant"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Puis-je parler à Madame Weber, s'il vous plaît ?",
+      "answerText": "parler"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Malheureusement, je dois annuler mon rendez-vous.",
+      "answerText": "annuler"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Pouvez-vous me rappeler, s'il vous plaît ?",
+      "answerText": "rappeler"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Je vous donne mon numéro.",
+      "answerText": "donne"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Comment écrit-on votre nom ?",
+      "answerText": "écrit"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "l'appel",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "le numéro",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "le message",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "le téléphone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "l'heure",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "le portable",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Je voudrais reporter un rendez-vous.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Quand êtes-vous disponible ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Je rappellerai demain.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Jeudi à 9 heures, cela vous convient ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "message",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "téléphone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "rendez-vous",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "rappeler",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "heure",
+      "answerText": null
+    }
+  ]
+}

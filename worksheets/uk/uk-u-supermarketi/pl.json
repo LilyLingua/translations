@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.093Z"
+  },
+  "title": "W supermarkecie",
+  "instructions": {
+    "uk-u-supermarketi-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-u-supermarketi-gap": "Wybierz właściwe słowo.",
+    "uk-u-supermarketi-verbs": "Wstaw właściwy czasownik.",
+    "uk-u-supermarketi-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-u-supermarketi-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-u-supermarketi-matching-1",
+      "translation": "wózek",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-1:meaning",
+      "translation": "Duży kosz na kółkach na zakupy.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2",
+      "translation": "kasa",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2:meaning",
+      "translation": "Miejsce, gdzie się płaci.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3",
+      "translation": "półka",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3:meaning",
+      "translation": "Leżą na niej towary w sklepie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4",
+      "translation": "paragon",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4:meaning",
+      "translation": "Kartka, na której jest napisane, co kupiono i ile zapłacono.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5",
+      "translation": "kasjer",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5:meaning",
+      "translation": "Osoba, która pracuje przy kasie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6",
+      "translation": "reklamówka",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6:meaning",
+      "translation": "W niej niesie się zakupy do domu.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-gap-1",
+      "translation": "Potrzebuję butelkę mleka.",
+      "answerText": "mleka"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-2",
+      "translation": "Chleb leży na górnej półce.",
+      "answerText": "półce"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-3",
+      "translation": "Proszę zapłacić przy kasie.",
+      "answerText": "kasie"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-4",
+      "translation": "Oto Pana/Pani paragon. Miłego dnia!",
+      "answerText": "paragon"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-5",
+      "translation": "Wkładam jabłka do wózka.",
+      "answerText": "wózka"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-6",
+      "translation": "Przy kasie pracuje miły kasjer.",
+      "answerText": "kasjer"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-1",
+      "translation": "Ile kosztują jabłka?",
+      "answerText": "kosztują"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-2",
+      "translation": "Płacę kartą.",
+      "answerText": "Płacę"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-3",
+      "translation": "Kupujemy jajka i chleb.",
+      "answerText": "Kupujemy"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-4",
+      "translation": "Przepraszam, gdzie leży ryż?",
+      "answerText": "leży"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-5",
+      "translation": "Sklep zamyka się o dziesiątej.",
+      "answerText": "zamyka"
+    },
+    {
+      "id": "uk-u-supermarketi-order-1",
+      "translation": "Gdzie leży ryż?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-2",
+      "translation": "Potrzebuję reklamówki.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-3",
+      "translation": "Czy można zapłacić kartą?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-4",
+      "translation": "Mleko stoi w trzecim rzędzie.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-1",
+      "translation": "warzywa",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-2",
+      "translation": "chleb",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-3",
+      "translation": "ser",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-4",
+      "translation": "jabłko",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-5",
+      "translation": "banan",
+      "answerText": null
+    }
+  ]
+}

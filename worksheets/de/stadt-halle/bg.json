@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:44.636Z"
+  },
+  "title": "Хале",
+  "instructions": {
+    "stadt-halle-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-halle-gap": "Отбележете правилната дума.",
+    "stadt-halle-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-halle-table": "Попълнете члена и формата за множествено число.",
+    "stadt-halle-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-halle-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "Георг Фридрих Хендел",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "Известен композитор; роден е през 1685 г. в Хале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "„Халорен-Кугелн“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "Малки шоколадови топчета от много стара фабрика за шоколад (от 1804 г.).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "„Халорен“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "По-рано така наричаха работниците в солниците в Хале; братството им съществува и до днес.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "солта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "С нея Хале забогатя; тя идваше от солени извори под града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "градът на петте кули",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "Прякор: на пазарния площад се виждат пет кули.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "Заале",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "Реката, която тече през Хале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "Фондациите на Франке",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "Старо училищно градче с големи паянтови къщи, основано през 1698 г.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "Посещаваме Къщата на Хендел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "Купувам си пакет „Халорен-Кугелн“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "Хале се намира на река Заале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "На пазарния площад стоят пет кули.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "По-рано добиваха солта от земята.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "Возим се с лодка по Заале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "Хендел написва известна творба – „Месия“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "Хендел е роден през 1685 г. в Хале.",
+      "answerText": "е роден"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "Заале тече през града.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "Шоколадовите топчета имат много сладък вкус.",
+      "answerText": "имат"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "Солта направи Хале богат.",
+      "answerText": "направи"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "На пазарния площад се виждат пет кули.",
+      "answerText": "виждат"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "топчето",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "композиторът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "изворът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "лодката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "реката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "пакетът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "Хендел е роден в Хале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "Искаш ли едно топче „Халорен“?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "Заале тече през Хале.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "На пазарния площад стоят пет кули.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "топче",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "сол",
+      "answerText": null
+    }
+  ]
+}

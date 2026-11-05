@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.674Z"
+  },
+  "title": "At the Café",
+  "instructions": {
+    "pl-w-kawiarni-matching": "Match each word with its meaning.",
+    "pl-w-kawiarni-gap": "Choose the right word.",
+    "pl-w-kawiarni-verbs": "Fill in the correct verb.",
+    "pl-w-kawiarni-order": "Put the words in the right order and write the sentence.",
+    "pl-w-kawiarni-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-w-kawiarni-matching-1",
+      "translation": "menu",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-1:meaning",
+      "translation": "A list of dishes and drinks with prices.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2",
+      "translation": "waiter",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2:meaning",
+      "translation": "A person who brings food and drinks.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3",
+      "translation": "bill",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3:meaning",
+      "translation": "A piece of paper that shows how much you have to pay.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4",
+      "translation": "tip",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4:meaning",
+      "translation": "Extra money for good service.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5",
+      "translation": "cake",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5:meaning",
+      "translation": "A sweet food, for example cheesecake.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6",
+      "translation": "to go",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6:meaning",
+      "translation": "When you take food or a drink with you.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-gap-1",
+      "translation": "Can I see the menu?",
+      "answerText": "menu"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-2",
+      "translation": "A cup of coffee, please.",
+      "answerText": "coffee"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-3",
+      "translation": "We've finished eating. The bill, please.",
+      "answerText": "bill"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-4",
+      "translation": "For here or to go?",
+      "answerText": "go"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-5",
+      "translation": "Our waiter is very nice.",
+      "answerText": "waiter"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-6",
+      "translation": "We left a tip for the waiter.",
+      "answerText": "tip"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-1",
+      "translation": "I'd like tea with lemon, please.",
+      "answerText": "like"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-2",
+      "translation": "What do you recommend?",
+      "answerText": "recommend"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-3",
+      "translation": "We want to pay.",
+      "answerText": "want"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-4",
+      "translation": "The cake smells wonderful.",
+      "answerText": "smells"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-5",
+      "translation": "Can I pay by card?",
+      "answerText": "pay"
+    },
+    {
+      "id": "pl-w-kawiarni-order-1",
+      "translation": "A glass of water, please.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-2",
+      "translation": "A piece of cake, please.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-3",
+      "translation": "How much is a coffee?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-4",
+      "translation": "We would like to pay.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-1",
+      "translation": "coffee",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-2",
+      "translation": "chocolate",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-3",
+      "translation": "sandwich",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-4",
+      "translation": "breakfast",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-5",
+      "translation": "tea",
+      "answerText": null
+    }
+  ]
+}

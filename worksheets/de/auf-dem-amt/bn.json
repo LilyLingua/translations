@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.538Z"
+  },
+  "title": "সরকারি অফিসে",
+  "instructions": {
+    "auf-dem-amt-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "auf-dem-amt-gap": "উপযুক্ত শব্দে চিহ্ন দিন।",
+    "auf-dem-amt-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "auf-dem-amt-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "auf-dem-amt-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "auf-dem-amt-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "বাসস্থান নিবন্ধন",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "অফিসে আপনি আপনার নতুন ঠিকানা জানান।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "অপেক্ষার নম্বর",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "এই নম্বরটি আপনি মেশিন থেকে নেন।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "পাসপোর্ট",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "বিদেশে যাওয়ার জন্য একটি পরিচয়পত্র।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "বাড়িওয়ালার নিশ্চিতকরণ পত্র",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "নিবন্ধনের জন্য বাড়িওয়ালার এই কাগজটি লাগে।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "নিবন্ধন সনদ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "এই কাগজ দেখায়: আপনি এখন এই ঠিকানায় থাকেন।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "বৈবাহিক অবস্থা",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "অবিবাহিত, বিবাহিত, তালাকপ্রাপ্ত বা বিধবা/বিপত্নীক",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "স্বাক্ষর",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "হাতে লেখা আপনার নাম।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "ফর্ম",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "পূরণ করার জন্য ঘরসহ একটি কাগজ।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "আমি আমার নতুন ফ্ল্যাট নিবন্ধন করতে চাই।",
+      "answerText": "ফ্ল্যাট"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "দয়া করে মেশিন থেকে একটা নম্বর নিন।",
+      "answerText": "নম্বর"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "নম্বর 147, দয়া করে কাউন্টার 12-এ আসুন।",
+      "answerText": "কাউন্টার"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "এই যে আমার বাড়িওয়ালার নিশ্চিতকরণ পত্র।",
+      "answerText": "বাড়িওয়ালার"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "আপনার সঙ্গে কি পরিচয়পত্র আছে?",
+      "answerText": "পরিচয়পত্র"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "দয়া করে ফর্মটি সম্পূর্ণ পূরণ করুন।",
+      "answerText": "ফর্মটি"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "নিবন্ধন সনদ আপনার প্রায়ই আবার লাগবে, যেমন ব্যাংক অ্যাকাউন্টের জন্য।",
+      "answerText": "নিবন্ধন সনদ"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "আমি আজ নিবন্ধন করছি।",
+      "answerText": "নিবন্ধন"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "আমি কোথায় সই করব?",
+      "answerText": "সই"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "আমি আমার নামের বানান করছি: N – O – W – A – K।",
+      "answerText": "বানান"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "দয়া করে বসুন।",
+      "answerText": "বসুন"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "প্রক্রিয়াটিতে প্রায় দুই সপ্তাহ লাগে।",
+      "answerText": "লাগে"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "সরকারি অফিস",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "পরিচয়পত্র",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "ফ্ল্যাট",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "ফর্ম",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "বাড়িওয়ালা",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "ঠিকানা",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "আমি নিবন্ধন করতে চাই।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "আমি কোথায় সই করব?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "এই যে আমার পাসপোর্ট।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "আমার কি আর কিছু লাগবে?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "নিবন্ধন সনদ",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "পাসপোর্ট",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "অবিবাহিত",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "বাড়িওয়ালা",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "ঠিকানা",
+      "answerText": null
+    }
+  ]
+}

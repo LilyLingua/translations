@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.302Z"
+  },
+  "title": "Mga appointment sa telepono",
+  "instructions": {
+    "termine-am-telefon-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "termine-am-telefon-gap": "Markahan ang tamang preposition.",
+    "termine-am-telefon-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "termine-am-telefon-table": "Kumpletuhin ang artikulo at ang plural.",
+    "termine-am-telefon-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "termine-am-telefon-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "answering machine",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Dito kayo puwedeng mag-iwan ng mensahe.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "direktang numero (extension)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Ang direktang numero ng telepono ng isang tao sa kumpanya.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "tumawag pabalik",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Tawagan ang isang tao mamaya dahil tumawag siya kanina.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "ilipat ang petsa",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Ilipat ang isang appointment sa ibang araw.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "kanselahin",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Sabihing hindi ka pupunta sa isang appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "oras ng konsultasyon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Ang mga oras kung kailan maaabot ang isang tao.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "i-spell",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Sabihin ang isang salita nang letra por letra.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "May oras po ba kayo sa Lunes?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Puwede po ba nang alas-10?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Sa Disyembre pa ako magkakaroon ng oras.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Sarado ang klinika tuwing weekend.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Tatawagan ko kayo pabalik sa loob ng isang oras.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Dalawang linggo na akong naghihintay ng appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Pakidating po nang sampung minuto bago ang appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Puwede ko po bang makausap si Ms. Weber?",
+      "answerText": "makausap"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Sa kasamaang palad, kailangan kong kanselahin ang appointment ko.",
+      "answerText": "kanselahin"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Puwede po ba ninyo akong tawagan pabalik?",
+      "answerText": "tawagan"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Ibibigay ko sa inyo ang numero ko.",
+      "answerText": "Ibibigay"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Paano isinusulat ang pangalan ninyo?",
+      "answerText": "isinusulat"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "tawag",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numero",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "mensahe",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telepono",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "oras",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "cellphone",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Gusto kong ilipat ang petsa ng isang appointment.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Kailan po kayo may oras?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Tatawag ulit ako bukas.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Puwede po ba sa Huwebes nang alas-9?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "mensahe",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telepono",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "tumawag pabalik",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "oras",
+      "answerText": null
+    }
+  ]
+}

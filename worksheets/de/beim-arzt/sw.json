@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:49.172Z"
+  },
+  "title": "Kwa daktari",
+  "instructions": {
+    "beim-arzt-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "beim-arzt-gap": "Weka alama kwenye neno linalofaa.",
+    "beim-arzt-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "beim-arzt-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "beim-arzt-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "beim-arzt-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "kadi ya bima ya afya",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Unaonyesha kadi hii mapokezi. Juu yake kuna jina la bima yako ya afya.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "miadi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Muda maalum ambao unakuja kliniki.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "chumba cha kusubiri",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Unakaa hapa hadi uitwe.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "cheti cha dawa (agizo la daktari)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Kwa hiki unapata dawa kwenye duka la dawa.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "cheti cha ugonjwa (likizo ya ugonjwa)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Mwajiri wako anapata karatasi hii unapokuwa mgonjwa.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "homa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Joto la mwili liko juu sana, kwa mfano nyuzi 39.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "mzio (aleji)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Mwili unaitikia kwa nguvu kitu fulani, kwa mfano penisilini.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "simu ya dharura",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Namba 112 – kukiwa na ajali au dharura.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Habari, ningependa kupanga miadi.",
+      "answerText": "miadi"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Una kadi yako ya bima ya afya?",
+      "answerText": "kadi yako ya bima ya afya"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Tafadhali keti kwenye chumba cha kusubiri.",
+      "answerText": "chumba cha kusubiri"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Nina maumivu ya kichwa na homa.",
+      "answerText": "maumivu ya kichwa"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Tumbo linaniuma.",
+      "answerText": "Tumbo"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Nina mzio wa penisilini.",
+      "answerText": "penisilini"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Ninahitaji cheti cha ugonjwa kwa mwajiri wangu.",
+      "answerText": "cheti cha ugonjwa"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Meza vidonge mara tatu kwa siku baada ya kula.",
+      "answerText": "kula"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Unaweza kusema hilo polepole zaidi, tafadhali?",
+      "answerText": "kusema"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Nina homa tangu siku tatu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Kichwa kinaniuma sana.",
+      "answerText": "kinaniuma"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Tafadhali vuta pumzi ndani kwa nguvu – kisha toa tena.",
+      "answerText": "vuta pumzi"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Daktari ananipa cheti cha dawa.",
+      "answerText": "ananipa"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Tutakuita sasa hivi.",
+      "answerText": "ita"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "daktari",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "kidonge",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "cheti cha dawa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "miadi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "kliniki",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "dawa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Ningependa kupanga miadi.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Nina homa tangu siku tatu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Unaweza kurudia, tafadhali?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Panauma wapi?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "maumivu ya kichwa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "cheti cha ugonjwa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "kadi ya bima ya afya",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "mzio",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "kidonge",
+      "answerText": null
+    }
+  ]
+}

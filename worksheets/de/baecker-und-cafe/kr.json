@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.894Z"
+  },
+  "title": "빵집과 카페에서",
+  "instructions": {
+    "baecker-und-cafe-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "baecker-und-cafe-gap": "올바른 관사에 표시하세요.",
+    "baecker-und-cafe-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "baecker-und-cafe-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "baecker-und-cafe-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "baecker-und-cafe-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "작은 빵(브뢰트헨)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "작은 빵으로, 아침 식사로 자주 먹습니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "프레첼",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "소금이 붙은 빵으로, 독일 남부의 대표 음식입니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "케이크",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "달콤한 것으로, 오후에 커피와 함께 자주 먹습니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "메뉴판",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "모든 음식과 음료가 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "계산서",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "얼마를 내야 하는지 적혀 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "팁",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "직원에게 주는 약간의 추가 돈.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "포장(테이크아웃)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "카페 안에서 먹거나 마시지 않습니다.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "작은 빵 하나 주세요.",
+      "answerText": "하나"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "커피 한 잔 주세요.",
+      "answerText": "한 잔"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "프레첼은 얼마예요?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "케이크 한 조각 주세요.",
+      "answerText": "한 조각"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "이 자리 비어 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "저는 우유를 넣은 차를 한 잔 마셔요.",
+      "answerText": "한 잔"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "계산서 좀 갖다 주세요.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "무엇을 드시겠어요?",
+      "answerText": "드시겠어요"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "카푸치노로 할게요.",
+      "answerText": "할게요"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "모두 6.40유로입니다.",
+      "answerText": "입니다"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "카드로 계산해도 돼요?",
+      "answerText": "계산해도"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "케이크가 정말 맛있어요.",
+      "answerText": "맛있어요"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "작은 빵",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "케이크",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "찻잔",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "유리잔",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "접시",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "프레첼",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "작은 빵 두 개 주세요.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "케이크는 얼마예요?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "카드로 계산해도 돼요?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "여기서 드시고 가실 거예요?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "작은 빵",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "케이크",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "계산서",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "커피",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "팁",
+      "answerText": null
+    }
+  ]
+}

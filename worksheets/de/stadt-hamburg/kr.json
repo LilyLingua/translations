@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:31.406Z"
+  },
+  "title": "함부르크",
+  "instructions": {
+    "stadt-hamburg-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "stadt-hamburg-gap": "알맞은 단어에 표시하세요.",
+    "stadt-hamburg-verbs": "알맞은 동사를 알맞은 형태로 쓰세요.",
+    "stadt-hamburg-table": "관사와 복수형을 쓰세요.",
+    "stadt-hamburg-order": "단어를 올바른 순서로 배열하여 문장을 쓰세요.",
+    "stadt-hamburg-spelling": "어느 단어가 올바르게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "'모인!'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "북독일의 인사말 – 아침뿐 아니라 하루 종일 쓴다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "항구",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "컨테이너를 실은 큰 배들이 여기에 도착한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "엘브필하모니",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "항구에 있는 콘서트홀로, 함부르크 사람들은 '엘피'라고 부른다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "'미헬'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "함부르크 사람들이 가장 유명한 성 미카엘 교회를 부르는 이름.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "프란츠브뢰트헨",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "계피가 들어간 달콤한 빵으로, 함부르크의 명물이다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "어시장",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "엘베강 가의 시장으로, 일요일 아침 아주 일찍 열린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "'시트베터'",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "비와 바람이 부는 나쁜 날씨를 뜻하는 북독일 말.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "배들이 엘베강 위를 지나간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "일요일에 우리는 일찍 어시장에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "나는 생선 샌드위치를 먹는다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "콘서트는 엘브필하모니에서 열린다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "우리는 배를 타고 항구 투어를 한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "여름에는 많은 사람들이 알스터 호숫가에 앉아 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "위에서는 항구 전체가 보인다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "함부르크에서는 하루 종일 '모인'이라고 말한다.",
+      "answerText": "말한다"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "큰 컨테이너선들이 항구에 도착한다.",
+      "answerText": "도착한다"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "어시장은 일요일 아침 아주 일찍 시작된다.",
+      "answerText": "시작된다"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "또 비가 온다 – 전형적인 시트베터다!",
+      "answerText": "온다"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "함부르크는 독자적인 하나의 주이다.",
+      "answerText": "이다"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "항구",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "배",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "다리",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "운하",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "콘서트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "교회",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "함부르크는 엘베강 가에 있다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "일요일에 우리는 일찍 어시장에 간다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "엘브필하모니에 가 봤어?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "함부르크에서는 하루 종일 '모인'이라고 말한다.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "항구",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "배",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "콘서트",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "비",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "다리",
+      "answerText": null
+    }
+  ]
+}

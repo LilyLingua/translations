@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.614Z"
+  },
+  "title": "У супермаркету",
+  "instructions": {
+    "im-supermarkt-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "im-supermarkt-gap": "Означите одговарајуће паковање или количину.",
+    "im-supermarkt-verbs": "Упишите прави глагол у правом облику.",
+    "im-supermarkt-table": "Допуните члан (der/die/das) и облик множине.",
+    "im-supermarkt-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "im-supermarkt-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "колица за куповину",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Овде током куповине стављате робу.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "пулт са сиром",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Овде добијате свеж сир на меру.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "кауција за амбалажу",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Новац који добијате назад за празне флаше.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "аутомат за враћање флаша",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Овде предајете празне флаше.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "акција",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Неки производ је накратко јефтинији.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "фискални рачун",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "На овом папирићу пишу све цене.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "кеса",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "У њој носите куповину кући.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Купујем једну чашицу јогурта.",
+      "answerText": "чашицу"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Молим вас, још једну флашу воде.",
+      "answerText": "флашу"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Треба нам једно паковање тестенине.",
+      "answerText": "паковање"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "За сос узимам једну конзерву парадајза.",
+      "answerText": "конзерву"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Молим вас, 200 грама гауде.",
+      "answerText": "грама"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Једно паковање путера кошта 2,29 евра.",
+      "answerText": "паковање"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Узимам литар млека.",
+      "answerText": "литар"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Можете ли да ми разбијете пет евра?",
+      "answerText": "разбијете"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Извините, где могу да нађем брашно?",
+      "answerText": "нађем"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Плаћам картицом.",
+      "answerText": "Плаћам"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Желео бих 200 грама гауде.",
+      "answerText": "Желео бих"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Недељом су скоро сви супермаркети затворени.",
+      "answerText": "су"
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "флаша",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "чашица",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "конзерва",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "хлеб",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "јабука",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "банана",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Извините, где могу да нађем брашно?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Имам торбу са собом.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Банане су данас на акцији.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Где је аутомат за враћање флаша?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "колица за куповину",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "фискални рачун",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "кауција за амбалажу",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "сир",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "земичка",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:09.059Z"
+  },
+  "title": "Rostock",
+  "instructions": {
+    "stadt-rostock-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-rostock-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-rostock-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-rostock-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-rostock-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-rostock-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "Warnemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "Baltık Denizi kıyısında plajı, deniz feneri ve büyük gemileri olan semt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "\"Teepott\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "Warnemünde plajında özel, kıvrımlı bir çatısı olan bina.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "Hanse Sail",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "Ağustosta birçok eski yelkenli geminin geldiği büyük festival.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "kog gemisi (\"Kogge\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "Hansa'nın eski gemisi; Hansa Rostock'un armasında görülür.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "F.C. Hansa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "Şehrin mavi-beyaz renkli futbol kulübü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "Astronomik Saat",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "Marienkirche'de 550 yılı aşkın eski bir saat; bugün hâlâ çalışıyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "üniversite",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "1419'da kuruldu – Baltık Denizi bölgesinin en eski üniversitesi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "Deniz fenerine çıkıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "Ağustosta birçok gemi Hanse Sail'e geliyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "Bir yolcu gemisi limana giriyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "Marienkirche'de eski bir saat duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "Arma bir kog gemisini gösteriyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "Plajda Teepott'a doğru yürüyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "Birçok öğrenci üniversitede okuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "Eski saat bugün hâlâ çalışıyor.",
+      "answerText": "çalışıyor"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "Warnemünde'de büyük yolcu gemileri durur.",
+      "answerText": "durur"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "Hanse Sail'de birçok eski gemi yelken açar.",
+      "answerText": "yelken açar"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "Deniz feneri Warnemünde plajında duruyor.",
+      "answerText": "duruyor"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "Hansa Rostock mavi ve beyaz renklerle oynar.",
+      "answerText": "oynar"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "gemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "deniz feneri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "saat",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "yelken",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "kilise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "Warnemünde doğrudan Baltık Denizi kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "Hanse Sail'e sen de geliyor musun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "Eski saat bugün hâlâ çalışıyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "Limanda birçok gemi var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "deniz feneri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "gemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "kilise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "yelken",
+      "answerText": null
+    }
+  ]
+}

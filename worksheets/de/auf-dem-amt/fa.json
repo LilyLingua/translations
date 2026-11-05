@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.430Z"
+  },
+  "title": "در اداره",
+  "instructions": {
+    "auf-dem-amt-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "auf-dem-amt-gap": "کلمه مناسب را علامت بزنید.",
+    "auf-dem-amt-verbs": "فعل درست را به شکل درست بنویسید.",
+    "auf-dem-amt-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "auf-dem-amt-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "auf-dem-amt-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "ثبت نشانی محل سکونت",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "نشانی جدیدتان را به اداره اطلاع می‌دهید.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "شماره نوبت",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "این شماره را از دستگاه می‌گیرید.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "گذرنامه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "مدرکی که با آن به خارج سفر می‌کنید.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "تأییدیه صاحبخانه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "این برگه را از صاحبخانه برای ثبت نشانی لازم دارید.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "گواهی ثبت نشانی",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "این برگه نشان می‌دهد که شما اکنون در این نشانی زندگی می‌کنید.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "وضعیت تأهل",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "مجرد، متأهل، مطلقه یا بیوه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "امضا",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "نام شما که با دست نوشته شده است.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "فرم",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "برگه‌ای با خانه‌هایی برای پر کردن.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "می‌خواهم آپارتمان جدیدم را ثبت کنم.",
+      "answerText": "آپارتمان"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "لطفاً از دستگاه یک شماره بگیرید.",
+      "answerText": "شماره"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "شماره ۱۴۷ لطفاً به باجه ۱۲.",
+      "answerText": "باجه"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "این تأییدیه صاحبخانه من است.",
+      "answerText": "صاحبخانه"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "کارت شناسایی خود را همراه دارید؟",
+      "answerText": "کارت شناسایی"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "لطفاً فرم را کامل پر کنید.",
+      "answerText": "فرم"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "گواهی ثبت نشانی را اغلب دوباره لازم دارید، مثلاً برای حساب بانکی.",
+      "answerText": "گواهی ثبت نشانی"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "امروز نشانی‌ام را ثبت می‌کنم.",
+      "answerText": "ثبت می‌کنم"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "کجا باید امضا کنم؟",
+      "answerText": "امضا کنم"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "نامم را هجی می‌کنم: N – O – W – A – K.",
+      "answerText": "هجی می‌کنم"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "لطفاً بنشینید.",
+      "answerText": "بنشینید"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "رسیدگی حدود دو هفته طول می‌کشد.",
+      "answerText": "طول می‌کشد"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "اداره",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "کارت شناسایی",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "آپارتمان",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "فرم",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "صاحبخانه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "نشانی",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "می‌خواهم نشانی‌ام را ثبت کنم.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "کجا باید امضا کنم؟",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "این گذرنامه من است.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "چیز دیگری هم لازم دارم؟",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "گواهی ثبت نشانی",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "گذرنامه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "مجرد",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "صاحبخانه",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "نشانی",
+      "answerText": null
+    }
+  ]
+}

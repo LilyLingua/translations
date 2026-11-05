@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "f2f6d8af-4b96-43fb-891b-2a2564416459",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Bielefeld",
+  "topic": "NRW: Sparrenburg, Dr. Oetker, „Bielefeld gibt es nicht“",
+  "tasks": [
+    {
+      "id": "stadt-bielefeld-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-bielefeld-matching-1",
+          "term": "die Bielefeld-Verschwörung",
+          "meaning": "Alter Internet-Witz: Bielefeld gibt es gar nicht."
+        },
+        {
+          "id": "stadt-bielefeld-matching-2",
+          "term": "die Sparrenburg",
+          "meaning": "Alte Burg auf einem Berg; von oben sieht man die ganze Stadt."
+        },
+        {
+          "id": "stadt-bielefeld-matching-3",
+          "term": "Dr. Oetker",
+          "meaning": "Bekannte Firma für Pudding, Backpulver und Pizza – sie kommt aus Bielefeld."
+        },
+        {
+          "id": "stadt-bielefeld-matching-4",
+          "term": "der Teutoburger Wald",
+          "meaning": "Langer Wald mit Hügeln direkt an der Stadt; gut zum Wandern."
+        },
+        {
+          "id": "stadt-bielefeld-matching-5",
+          "term": "die Arminia",
+          "meaning": "Fußballverein der Stadt; ihr Stadion nennen die Fans „Alm“."
+        },
+        {
+          "id": "stadt-bielefeld-matching-6",
+          "term": "der Ostwestfale",
+          "meaning": "So heißen die Menschen hier; man sagt, sie reden nicht viel."
+        },
+        {
+          "id": "stadt-bielefeld-matching-7",
+          "term": "der Pickert",
+          "meaning": "Ostwestfälischer Pfannkuchen aus Kartoffeln, oft mit Rosinen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-bielefeld-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-bielefeld-gap-1",
+          "promptBefore": "Die Sparrenburg steht auf",
+          "promptAfter": "Berg über der Stadt.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-2",
+          "promptBefore": "Viele Leute wandern in",
+          "promptAfter": "Teutoburger Wald.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-3",
+          "promptBefore": "Ich kaufe",
+          "promptAfter": "Pudding von Dr. Oetker.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-4",
+          "promptBefore": "Den Pickert backt man in",
+          "promptAfter": "Pfanne.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-5",
+          "promptBefore": "Die Arminia spielt auf",
+          "promptAfter": "Alm.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-6",
+          "promptBefore": "Viele Leute lachen über",
+          "promptAfter": "Bielefeld-Verschwörung.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-bielefeld-gap-7",
+          "promptBefore": "Bielefeld liegt in",
+          "promptAfter": "Region Ostwestfalen-Lippe.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-bielefeld-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-bielefeld-verbs-1",
+          "promptBefore": "Manche Leute",
+          "promptAfter": "im Spaß: „Bielefeld gibt es nicht.“",
+          "correctAnswer": "sagen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        },
+        {
+          "id": "stadt-bielefeld-verbs-2",
+          "promptBefore": "Die Ostwestfalen",
+          "promptAfter": "nicht so viel.",
+          "correctAnswer": "reden",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "reden"
+        },
+        {
+          "id": "stadt-bielefeld-verbs-3",
+          "promptBefore": "Dr. Oetker",
+          "promptAfter": "seit über 100 Jahren in Bielefeld.",
+          "correctAnswer": "sitzt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sitzen"
+        },
+        {
+          "id": "stadt-bielefeld-verbs-4",
+          "promptBefore": "Die Fans",
+          "promptAfter": "die Arminia auf der Alm an.",
+          "correctAnswer": "feuern",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "anfeuern"
+        },
+        {
+          "id": "stadt-bielefeld-verbs-5",
+          "promptBefore": "Von der Sparrenburg",
+          "promptAfter": "man über die ganze Stadt.",
+          "correctAnswer": "blickt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "blicken"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-bielefeld-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-bielefeld-table-1",
+          "article": "der",
+          "singular": "Wald",
+          "plural": "Wälder"
+        },
+        {
+          "id": "stadt-bielefeld-table-2",
+          "article": "die",
+          "singular": "Pfanne",
+          "plural": "Pfannen"
+        },
+        {
+          "id": "stadt-bielefeld-table-3",
+          "article": "der",
+          "singular": "Berg",
+          "plural": "Berge"
+        },
+        {
+          "id": "stadt-bielefeld-table-4",
+          "article": "die",
+          "singular": "Firma",
+          "plural": "Firmen"
+        },
+        {
+          "id": "stadt-bielefeld-table-5",
+          "article": "das",
+          "singular": "Gerücht",
+          "plural": "Gerüchte"
+        },
+        {
+          "id": "stadt-bielefeld-table-6",
+          "article": "der",
+          "singular": "Witz",
+          "plural": "Witze"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-bielefeld-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-bielefeld-order-1",
+          "chunks": [
+            "Bielefeld",
+            "gibt",
+            "es",
+            "wirklich"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bielefeld-order-2",
+          "chunks": [
+            "Am Sonntag",
+            "wandern",
+            "wir",
+            "im Teutoburger Wald"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-bielefeld-order-3",
+          "chunks": [
+            "Warst",
+            "du",
+            "schon",
+            "auf der Sparrenburg"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-bielefeld-order-4",
+          "chunks": [
+            "Dr. Oetker",
+            "kommt",
+            "aus Bielefeld"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-bielefeld-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-bielefeld-spelling-1",
+          "correct": "Witz",
+          "wrong": "Wiz"
+        },
+        {
+          "id": "stadt-bielefeld-spelling-2",
+          "correct": "Pfanne",
+          "wrong": "Fanne"
+        },
+        {
+          "id": "stadt-bielefeld-spelling-3",
+          "correct": "Wald",
+          "wrong": "Walt"
+        },
+        {
+          "id": "stadt-bielefeld-spelling-4",
+          "correct": "Firma",
+          "wrong": "Virma"
+        },
+        {
+          "id": "stadt-bielefeld-spelling-5",
+          "correct": "Pudding",
+          "wrong": "Puding"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

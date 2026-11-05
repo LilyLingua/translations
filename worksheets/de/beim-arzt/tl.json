@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.528Z"
+  },
+  "title": "Sa doktor",
+  "instructions": {
+    "beim-arzt-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "beim-arzt-gap": "Markahan ang angkop na salita.",
+    "beim-arzt-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "beim-arzt-table": "Kumpletuhin ang artikulo at ang plural.",
+    "beim-arzt-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "beim-arzt-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "health insurance card",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Ipinapakita ninyo ang card na ito sa reception. Nakasulat dito ang inyong health insurance.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Isang takdang oras kung kailan kayo pupunta sa klinika.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "waiting room",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Dito kayo nakaupo hanggang tawagin kayo.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "reseta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Dahil dito, makakakuha kayo ng gamot sa botika.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "medical certificate (sick leave)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Ang papel na ito ay para sa inyong employer kapag may sakit kayo.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "lagnat",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Masyadong mataas ang temperatura ng katawan, halimbawa 39 degrees.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "allergy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Malakas ang reaksyon ng katawan sa isang bagay, halimbawa sa penicillin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "emergency call",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Ang numerong 112 – kapag may aksidente o emergency.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Magandang araw po, gusto ko pong magpa-appointment.",
+      "answerText": "appointment"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Dala po ba ninyo ang inyong health insurance card?",
+      "answerText": "health insurance card"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Maupo po kayo sa waiting room.",
+      "answerText": "waiting room"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Masakit ang ulo ko at may lagnat ako.",
+      "answerText": "Masakit ang ulo"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Masakit ang tiyan ko.",
+      "answerText": "tiyan"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Allergic ako sa penicillin.",
+      "answerText": "penicillin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Kailangan ko ng medical certificate para sa employer ko.",
+      "answerText": "medical certificate"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Inumin ninyo ang mga tableta tatlong beses sa isang araw pagkatapos kumain.",
+      "answerText": "kumain"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Puwede po ba ninyong sabihin iyan nang mas mabagal?",
+      "answerText": "sabihin"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Tatlong araw na akong may lagnat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Napakasakit ng ulo ko.",
+      "answerText": "Napakasakit"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Huminga po nang malalim – at ibuga ulit.",
+      "answerText": "Huminga"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Binibigyan ako ng doktora ng reseta.",
+      "answerText": "Binibigyan"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Tatawagin namin kayo maya-maya.",
+      "answerText": "Tatawagin"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "doktor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "reseta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "klinika",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "gamot",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Gusto ko pong magpa-appointment.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Tatlong araw na akong may lagnat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Puwede po ba ninyong ulitin iyan?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Saan po masakit?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "sakit ng ulo",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "medical certificate",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "health insurance card",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergic",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tableta",
+      "answerText": null
+    }
+  ]
+}

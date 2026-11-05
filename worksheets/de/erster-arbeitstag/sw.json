@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:48.957Z"
+  },
+  "title": "Siku ya kwanza kazini",
+  "instructions": {
+    "erster-arbeitstag-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "erster-arbeitstag-gap": "Weka alama kwenye umbo sahihi.",
+    "erster-arbeitstag-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "erster-arbeitstag-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "erster-arbeitstag-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "erster-arbeitstag-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "mfanyakazi mwenzangu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Mwanaume unayefanya naye kazi.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "bosi (mwanamke)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Anaongoza timu.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "mapumziko",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Muda wa kupumzika wakati wa kazi, kwa mfano kula.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "likizo",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Siku za mapumziko ambazo hufanyi kazi lakini bado unalipwa.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "saa ya ziada",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Saa moja unayofanya kazi zaidi ya ilivyopangwa.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "mkataba wa kazi",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Hapa kuna mshahara, saa za kazi na likizo.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "kantini",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Wafanyakazi wanakula hapa ndani ya kampuni.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Huyu ni mfanyakazi mwenzangu mpya.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Naweza kukutambulisha kwa mfanyakazi mwenzangu?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Ninapenda kufanya kazi pamoja na timu.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Tunakutana kantini.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Nina swali moja.",
+      "answerText": "moja"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Mapumziko yanaanza lini?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Ninampa bosi ripoti.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Naweza kujitambulisha kwa ufupi?",
+      "answerText": "kujitambulisha"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Ninafanya kazi kuanzia saa 2 asubuhi hadi saa 10 jioni.",
+      "answerText": "fanya kazi"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Choo nitakipata wapi?",
+      "answerText": "nitakipata"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Ndani ya timu tunaitana kwa majina ya kwanza.",
+      "answerText": "tunaitana"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Unaweza kunieleza hilo, tafadhali?",
+      "answerText": "kunieleza"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "mfanyakazi mwenzangu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "kampuni",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "ofisi",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "kompyuta",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "mkutano",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "timu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Naweza kujitambulisha kwa ufupi?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Mimi ni mgeni kwenye timu.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Mapumziko ya mchana yanaanza lini?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Unaweza kunieleza hilo?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "mfanyakazi mwenzangu",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "mkutano",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "likizo",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "ofisi",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "saa ya ziada",
+      "answerText": null
+    }
+  ]
+}

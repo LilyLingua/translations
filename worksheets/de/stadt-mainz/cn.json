@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:05.531Z"
+  },
+  "title": "美因茨",
+  "instructions": {
+    "stadt-mainz-matching": "把每个词和正确的解释连起来。",
+    "stadt-mainz-gap": "勾出正确的词。",
+    "stadt-mainz-verbs": "用正确形式填入正确的动词。",
+    "stadt-mainz-table": "填写冠词和复数形式。",
+    "stadt-mainz-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-mainz-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "“Fastnacht”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "美因茨对狂欢节的叫法；人们喊“Helau”。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "玫瑰星期一",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "狂欢节的高潮，有盛大的游行。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "印刷术",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "约翰内斯·古腾堡在美因茨用活字发明了它。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "美因茨小人",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "德国电视二台（ZDF）的小卡通人物。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "“Weck, Worscht un Woi”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "美因茨方言：小面包、香肠和葡萄酒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "“Meenzer”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "美因茨人用方言对自己的称呼。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "集市早餐",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "每周六在大教堂旁的集市上聚会，喝葡萄酒、吃香肠。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "古腾堡发明了印刷术。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "玫瑰星期一我们看盛大的游行。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "集市早餐在大教堂旁边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "德国电视二台的总部在美因茨。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "他喝一杯葡萄酒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "在博物馆里我们看到一本古老的圣经。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "美因茨位于莱茵河边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "约翰内斯·古腾堡发明了印刷术。",
+      "answerText": "发明"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "狂欢节时美因茨人喊“Helau”。",
+      "answerText": "喊"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "美因茨小人在电视二台的广告之间出现。",
+      "answerText": "出现"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "星期六我们在集市早餐见面。",
+      "answerText": "见面"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "美因茨周围种着很多葡萄。",
+      "answerText": "种"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "游行",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "书",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "字母",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "圣经",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "小面包",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "大教堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "古腾堡在美因茨发明了印刷术。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "玫瑰星期一有盛大的游行。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "星期六我们去吃集市早餐好吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "美因茨位于莱茵河边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "字母",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "圣经",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "游行",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "玫瑰星期一",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "电视",
+      "answerText": null
+    }
+  ]
+}

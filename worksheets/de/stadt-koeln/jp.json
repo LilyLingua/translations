@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:09.852Z"
+  },
+  "title": "ケルン",
+  "instructions": {
+    "stadt-koeln-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-koeln-gap": "正しい単語に印をつけましょう。",
+    "stadt-koeln-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-koeln-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-koeln-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-koeln-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "「ケレ・アラーフ！」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "ケルンのカーニバルのかけ声で、「ケルン万歳！」のような意味。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "大聖堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "中央駅のすぐそばにある、2本の塔がある大きな教会。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "「ケルシュ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "ケルンの明るい色のビールで、小さくて細いグラスで飲む。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "「ケーベス」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "ビール酒場の店員。グラスにコースターをのせるまで、新しいケルシュを持ってくる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "「ハルヴェ・ハーン」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "チーズをはさんだライ麦の丸パン。チキン半分ではない！",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "「フェーデル」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "ケルン方言で「地区」のこと。ケルンの人はみんな自分のフェーデルが大好き。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "バラの月曜日",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "カーニバルのクライマックスで、街を通る大きなパレードがある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "彼はビール酒場でケルシュを飲みます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "ケーベスが次のケルシュを持ってきます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "バラの月曜日に、私たちは街を通るパレードを見ます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "多くの観光客がケルン大聖堂を訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "私はハルヴェ・ハーンを注文します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "多くの人がホーエンツォレルン橋を散歩します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "カーニバルでは衣装を着ます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "カーニバルでは、人々が「ケレ・アラーフ！」と叫びます。",
+      "answerText": "叫び"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "ケーベスは何も聞かずに新しいケルシュを持ってきます。",
+      "answerText": "持ってき"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "大聖堂は高さが150メートル以上あります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "ライン川はケルンの真ん中を流れています。",
+      "answerText": "流れて"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "カーニバルは11月11日11時11分に始まります。",
+      "answerText": "始まり"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "大聖堂",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "橋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "グラス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "パレード",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "衣装",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "酒場",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "ケルン大聖堂は駅のすぐそばに立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "バラの月曜日には、ケルン中がカーニバルを祝います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "ケルシュをもう一杯いかがですか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "ケルンではケルシュを小さなグラスで飲みます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "カーニバル",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "衣装",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "駅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "酒場",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "グラス",
+      "answerText": null
+    }
+  ]
+}

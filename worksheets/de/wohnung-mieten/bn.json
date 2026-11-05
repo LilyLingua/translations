@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.437Z"
+  },
+  "title": "একটি ফ্ল্যাট ভাড়া নেওয়া",
+  "instructions": {
+    "wohnung-mieten-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "wohnung-mieten-gap": "আর্টিকেলের সঠিক রূপে চিহ্ন দিন।",
+    "wohnung-mieten-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "wohnung-mieten-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "wohnung-mieten-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "wohnung-mieten-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "ভাড়া",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "ফ্ল্যাটের জন্য প্রতি মাসে আপনি যে টাকা দেন।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "জামানত",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "বাড়িওয়ালা শুরুতে নিরাপত্তা হিসেবে যে টাকা পান।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "অতিরিক্ত খরচ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "পানি, হিটিং ও ময়লার খরচ।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "ভাড়ার চুক্তি",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "ভাড়াটে ও বাড়িওয়ালার মধ্যে চুক্তি।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "ফ্ল্যাট দেখা",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "ভাড়া নেওয়ার আগে আপনি ফ্ল্যাটটি দেখেন।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "তত্ত্বাবধায়ক",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "তিনি বাড়ির দেখাশোনা করেন এবং ছোটখাটো জিনিস মেরামত করেন।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "বাড়ির নিয়মাবলি",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "সব বাসিন্দার জন্য নিয়ম, যেমন নীরবতার সময়।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "আমরা বারান্দাসহ একটা ফ্ল্যাট খুঁজছি।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "আমি বাড়িওয়ালার সঙ্গে কথা বলছি।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "আমি বাড়িওয়ালিকে জামানত দিই।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "সাইকেলটা আমি উঠোনে রাখি।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "চাবিটা টেবিলের ওপর আছে।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "রান্নাঘরের হিটিং নষ্ট।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "আমি এক বছর ধরে এই ফ্ল্যাটে থাকি।",
+      "answerText": "এই"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "আমি কখন ফ্ল্যাটটি দেখতে পারি?",
+      "answerText": "দেখতে"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "অতিরিক্ত খরচসহ ভাড়া 850 ইউরো পড়ে।",
+      "answerText": "পড়ে"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "আমরা 1 ডিসেম্বর উঠছি।",
+      "answerText": "উঠছি"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "হিটিং নষ্ট। আপনি কি এটা মেরামত করে দিতে পারবেন?",
+      "answerText": "মেরামত"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "দয়া করে ময়লা আলাদা করুন।",
+      "answerText": "আলাদা"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "ঘর",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "রান্নাঘর",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "বারান্দা",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "বাথরুম",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "চাবি",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "হিটিং",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "ফ্ল্যাটটি কি এখনো খালি?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "অতিরিক্ত খরচ কত?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "আমি কখন ফ্ল্যাটটি দেখতে পারি?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "আমি ফ্ল্যাটটি ভাড়া নিতে চাই।",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "জামানত",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "অতিরিক্ত খরচ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "বারান্দা",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "চাবি",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "হিটিং",
+      "answerText": null
+    }
+  ]
+}

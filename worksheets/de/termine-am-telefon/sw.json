@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T15:52:48.982Z"
+  },
+  "title": "Kupanga miadi kwa simu",
+  "instructions": {
+    "termine-am-telefon-matching": "Unganisha kila neno na maelezo yanayofaa.",
+    "termine-am-telefon-gap": "Weka alama kwenye kihusishi sahihi.",
+    "termine-am-telefon-verbs": "Jaza kitenzi sahihi katika umbo sahihi.",
+    "termine-am-telefon-table": "Jaza kibainishi (der/die/das) na umbo la wingi.",
+    "termine-am-telefon-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "termine-am-telefon-spelling": "Neno lipi limeandikwa sahihi? Weka alama."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "mashine ya kujibu simu",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Hapa unaweza kuacha ujumbe.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "namba ya moja kwa moja (ya ndani)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Namba ya simu ya moja kwa moja ya mtu katika kampuni.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "kupiga simu tena",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Kumpigia mtu baadaye kwa sababu alikupigia kabla.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "kuahirisha",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Kuhamisha miadi kwenda siku nyingine.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "kufuta (miadi)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Kusema kwamba hutakuja kwenye miadi.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "saa za mapokezi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Muda ambao unaweza kumpata mtu.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "kutaja herufi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Kusema neno herufi kwa herufi.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Una nafasi Jumatatu?",
+      "answerText": "Jumatatu"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Saa 4 asubuhi inafaa?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Sina nafasi hadi mwezi Desemba.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Kliniki imefungwa wikendi.",
+      "answerText": "wikendi"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Nitakupigia tena baada ya saa moja.",
+      "answerText": "baada ya"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Nimekuwa nikisubiri miadi kwa wiki mbili.",
+      "answerText": "kwa"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Tafadhali njoo dakika kumi kabla ya miadi.",
+      "answerText": "kabla ya"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Naweza kuongea na Bi Weber, tafadhali?",
+      "answerText": "kuongea"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Kwa bahati mbaya lazima nifute miadi yangu.",
+      "answerText": "nifute"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Unaweza kunipigia simu tena, tafadhali?",
+      "answerText": "kunipigia simu tena"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Ninakupa namba yangu.",
+      "answerText": "kupa"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Jina lako linaandikwa vipi?",
+      "answerText": "linaandikwa"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "simu (mwito)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "namba",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "ujumbe",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "simu",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "saa (muda)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "simu ya mkononi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Ningependa kuahirisha miadi.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Una nafasi lini?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Nitapiga simu tena kesho.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Alhamisi saa 3 asubuhi inakufaa?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "ujumbe",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "simu",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "miadi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "kupiga simu tena",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "saa",
+      "answerText": null
+    }
+  ]
+}

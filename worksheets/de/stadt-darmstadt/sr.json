@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:18.249Z"
+  },
+  "title": "Дармштат",
+  "instructions": {
+    "stadt-darmstadt-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-darmstadt-gap": "Означи тачну реч.",
+    "stadt-darmstadt-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-darmstadt-table": "Упиши члан и облик множине.",
+    "stadt-darmstadt-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-darmstadt-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-darmstadt-matching-1",
+      "translation": "„Heiner“ (Хајнер)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-1:meaning",
+      "translation": "Назив за људе који су рођени у Дармштату.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2",
+      "translation": "„Lange Lui“ (Дуги Луј)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2:meaning",
+      "translation": "Висок стуб са спомеником на тргу Луизенплац у центру града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3",
+      "translation": "Свадбена кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3:meaning",
+      "translation": "Кула на Матилденхеу, изграђена за венчање великог војводе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4",
+      "translation": "Хајнерфест",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4:meaning",
+      "translation": "Велики градски фестивал лети, са рингишпилима и музиком.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5",
+      "translation": "град науке",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5:meaning",
+      "translation": "Званична титула Дармштата – због многих универзитета и института.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6",
+      "translation": "„Ei Gude!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6:meaning",
+      "translation": "Хесенски поздрав, отприлике „Ћао, како си?“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7",
+      "translation": "Вог",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7:meaning",
+      "translation": "Језеро усред града; лети може да се плива у њему.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-1",
+      "translation": "Живим у граду науке, Дармштату.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-2",
+      "translation": "Ланге Луи стоји на тргу Луизенплац.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-3",
+      "translation": "Лети идемо на Хајнерфест.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-4",
+      "translation": "Свадбена кула стоји на Матилденхеу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-5",
+      "translation": "Лети пливамо у Вогу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-6",
+      "translation": "Много младих студира на Техничком универзитету.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-7",
+      "translation": "Елемент дармштатијум откривен је у Дармштату.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-verbs-1",
+      "translation": "Од 2021. Матилденхе припада Унесковој светској баштини.",
+      "answerText": "припада"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-2",
+      "translation": "Много младих студира у Дармштату.",
+      "answerText": "студира"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-3",
+      "translation": "Лети се одржава Хајнерфест.",
+      "answerText": "одржава"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-4",
+      "translation": "У јами Месел истраживачи откривају старе фосиле.",
+      "answerText": "откривају"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-5",
+      "translation": "Нађимо се код Ланге Луија.",
+      "answerText": "Нађимо"
+    },
+    {
+      "id": "stadt-darmstadt-table-1",
+      "translation": "кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-2",
+      "translation": "универзитет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-3",
+      "translation": "фестивал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-4",
+      "translation": "језеро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-5",
+      "translation": "стуб",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-6",
+      "translation": "институт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-1",
+      "translation": "Свадбена кула стоји на Матилденхеу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-2",
+      "translation": "Лети Хајнери славе Хајнерфест.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-3",
+      "translation": "Дармштат је град науке.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-4",
+      "translation": "Хоћемо ли да се нађемо код Ланге Луија?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-1",
+      "translation": "наука",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-2",
+      "translation": "венчање",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-3",
+      "translation": "универзитет",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-4",
+      "translation": "споменик",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-5",
+      "translation": "стуб",
+      "answerText": null
+    }
+  ]
+}

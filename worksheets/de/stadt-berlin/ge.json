@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:19.108Z"
+  },
+  "title": "ბერლინი",
+  "instructions": {
+    "stadt-berlin-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-berlin-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-berlin-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-berlin-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-berlin-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-berlin-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-berlin-matching-1",
+      "translation": "დედაქალაქი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-1:meaning",
+      "translation": "ქვეყნის ყველაზე მნიშვნელოვანი ქალაქი; აქ მთავრობა მუშაობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2",
+      "translation": "ბრანდენბურგის კარიბჭე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-2:meaning",
+      "translation": "ცნობილი ღირსშესანიშნაობა, ზემოთ ეტლითა და ოთხი ცხენით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3",
+      "translation": "კედელი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-3:meaning",
+      "translation": "1989 წლამდე ბერლინს აღმოსავლეთად და დასავლეთად ყოფდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4",
+      "translation": "„შპეტი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-4:meaning",
+      "translation": "პატარა მაღაზია, რომელიც გვიან ღამემდე ღიაა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5",
+      "translation": "„შრიპე“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-5:meaning",
+      "translation": "ასე ეძახიან ბერლინში პატარა ფუნთუშას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6",
+      "translation": "„პფანკუხენი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-6:meaning",
+      "translation": "ბერლინში: ტკბილი მრგვალი ნამცხვარი ჯემით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7",
+      "translation": "„კიცი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-matching-7:meaning",
+      "translation": "ასე უწოდებენ ბერლინელები თავიანთ უბანს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-1",
+      "translation": "ბრანდენბურგის კარიბჭეს ვუღებთ სურათს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-2",
+      "translation": "სატელევიზიო კოშკი ალექსანდერპლაცთან დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-3",
+      "translation": "მდინარე შპრე ქალაქში მიედინება.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-4",
+      "translation": "შპეტიში სასმელს ვყიდულობ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-5",
+      "translation": "1989 წლამდე კედელი ქალაქის შუაგულში იდგა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-6",
+      "translation": "საცხობში შრიპეს ვუკვეთავ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-gap-7",
+      "translation": "ამ უბანში სამი წელია ვცხოვრობ.",
+      "answerText": "ამ"
+    },
+    {
+      "id": "stadt-berlin-verbs-1",
+      "translation": "1989 წლის 9 ნოემბერს კედელი დაეცა.",
+      "answerText": "დაეცა"
+    },
+    {
+      "id": "stadt-berlin-verbs-2",
+      "translation": "მთავრობა ბერლინში მუშაობს.",
+      "answerText": "მუშაობს"
+    },
+    {
+      "id": "stadt-berlin-verbs-3",
+      "translation": "ბევრი ტურისტი ისთ საიდ გალერეას სტუმრობს.",
+      "answerText": "სტუმრობს"
+    },
+    {
+      "id": "stadt-berlin-verbs-4",
+      "translation": "შპეტი გვიან ღამემდე ღიაა.",
+      "answerText": "ღიაა"
+    },
+    {
+      "id": "stadt-berlin-verbs-5",
+      "translation": "რინგბანით ცენტრის გარშემო წრეზე მგზავრობ.",
+      "answerText": "მგზავრობ"
+    },
+    {
+      "id": "stadt-berlin-table-1",
+      "translation": "კარიბჭე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-2",
+      "translation": "კედელი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-3",
+      "translation": "რაიონი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-4",
+      "translation": "ხიდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-5",
+      "translation": "მუზეუმი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-table-6",
+      "translation": "მაღაზია",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-1",
+      "translation": "ბერლინი გერმანიის დედაქალაქია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-2",
+      "translation": "კედელი 1989 წელს დაეცა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-3",
+      "translation": "კარივურსტი უკვე გაგისინჯავს?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-order-4",
+      "translation": "შპეტი გვიან ღამემდე ღიაა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-1",
+      "translation": "დედაქალაქი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-2",
+      "translation": "მთავრობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-3",
+      "translation": "ფუნთუშა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-4",
+      "translation": "ღირსშესანიშნაობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-berlin-spelling-5",
+      "translation": "სატელევიზიო კოშკი",
+      "answerText": null
+    }
+  ]
+}

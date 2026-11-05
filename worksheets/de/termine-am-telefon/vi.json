@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.758Z"
+  },
+  "title": "Hẹn lịch qua điện thoại",
+  "instructions": {
+    "termine-am-telefon-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "termine-am-telefon-gap": "Đánh dấu giới từ đúng.",
+    "termine-am-telefon-verbs": "Điền động từ đúng ở dạng đúng.",
+    "termine-am-telefon-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "termine-am-telefon-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "termine-am-telefon-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "máy trả lời tự động",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Ở đây bạn có thể để lại lời nhắn.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "số máy lẻ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Số điện thoại trực tiếp của một người trong công ty.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "gọi lại",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "Gọi cho ai đó sau, vì trước đó họ đã gọi cho bạn.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "dời lịch",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "Chuyển một cuộc hẹn sang ngày khác.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "hủy",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "Nói rằng bạn sẽ không đến cuộc hẹn.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "giờ tiếp nhận",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Thời gian có thể liên lạc với ai đó.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "đánh vần",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "Nói một từ theo từng chữ cái.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Anh/chị có rảnh vào thứ Hai không?",
+      "answerText": "vào"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10 giờ có được không?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Phải đến tháng Mười Hai tôi mới rảnh.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Phòng khám đóng cửa vào cuối tuần.",
+      "answerText": "vào"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Tôi sẽ gọi lại cho anh/chị trong một tiếng nữa.",
+      "answerText": "trong"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Tôi đã chờ lịch hẹn từ hai tuần nay.",
+      "answerText": "từ"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Vui lòng đến mười phút trước giờ hẹn.",
+      "answerText": "trước"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Tôi có thể nói chuyện với bà Weber được không?",
+      "answerText": "nói chuyện"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Rất tiếc tôi phải hủy lịch hẹn.",
+      "answerText": "hủy"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Anh/chị có thể gọi lại cho tôi được không?",
+      "answerText": "gọi lại"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Tôi cho anh/chị số của tôi.",
+      "answerText": "cho"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Tên của anh/chị viết như thế nào?",
+      "answerText": "viết"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "cuộc gọi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "số",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "tin nhắn",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "điện thoại",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "giờ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "điện thoại di động",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Tôi muốn dời một cuộc hẹn.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Khi nào anh/chị rảnh?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Ngày mai tôi sẽ gọi lại.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Thứ Năm lúc 9 giờ có tiện cho anh/chị không?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "tin nhắn",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "điện thoại",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "cuộc hẹn",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "gọi lại",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "giờ",
+      "answerText": null
+    }
+  ]
+}

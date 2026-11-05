@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:10.371Z"
+  },
+  "title": "マンハイム",
+  "instructions": {
+    "stadt-mannheim-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-mannheim-gap": "正しい単語に印をつけましょう。",
+    "stadt-mannheim-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-mannheim-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-mannheim-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-mannheim-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "クアドラーテ（碁盤の目）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "中心街はチェス盤のようになっていて、住所は例えば「Q6」や「N1」となる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "給水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "マンハイムのシンボル。前にきれいな公園と噴水がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "スパゲッティアイス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "トマトソースのかかったスパゲッティのように見えるアイス。マンハイムで生まれた。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "宮殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "大きなバロック様式の宮殿。今は大学になっている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "「ラウフマシーネ」（走る機械）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "1817年にカール・ドライスがマンハイムで発明した。自転車の祖先。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "「モネム」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "マンハイムの人が方言で自分の町を呼ぶ言い方。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "アドラー（ワシ）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "マンハイムのアイスホッケーチーム。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "私たちは給水塔の写真を撮ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "カフェで私たちはスパゲッティアイスを注文します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "多くの学生が宮殿で勉強しています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "クアドラーテではどの住所もすぐに見つかります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "カール・ドライスがラウフマシーネを発明しました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "夜、私たちはアドラーの試合を見ます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "マンハイムはライン川とネッカー川のほとりにあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "住所は1つの文字と1つの数字からできています。",
+      "answerText": "できて"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "スパゲッティアイスはバニラとイチゴの味がします。",
+      "answerText": "味がし"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "マンハイムでネッカー川がライン川に流れ込みます。",
+      "answerText": "流れ込み"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "アドラーはSAPアリーナでアイスホッケーをプレーします。",
+      "answerText": "プレーし"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "今では宮殿で多くの学生が勉強しています。",
+      "answerText": "勉強して"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "数字",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "通り",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "宮殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "自転車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "噴水",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "給水塔はフリードリヒ広場にあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "スパゲッティアイスは好きですか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "マンハイムではネッカー川がライン川に流れ込みます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "住所には文字と数字があります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "給水塔",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "宮殿",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "自転車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "通り",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "噴水",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "7303b4d9-922a-4389-a7ed-a1cf3a53db68",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Nürnberg",
+  "topic": "Bayern (Franken): Bratwurst, Lebkuchen, Christkindlesmarkt",
+  "tasks": [
+    {
+      "id": "stadt-nuernberg-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-nuernberg-matching-1",
+          "term": "die Rostbratwurst",
+          "meaning": "Kleine, dünne Wurst vom Grill – typisch für Nürnberg."
+        },
+        {
+          "id": "stadt-nuernberg-matching-2",
+          "term": "Drei im Weggla",
+          "meaning": "Fränkisch: drei Bratwürste in einem Brötchen."
+        },
+        {
+          "id": "stadt-nuernberg-matching-3",
+          "term": "der Christkindlesmarkt",
+          "meaning": "Berühmter Weihnachtsmarkt; das Christkind eröffnet ihn."
+        },
+        {
+          "id": "stadt-nuernberg-matching-4",
+          "term": "der Lebkuchen",
+          "meaning": "Weiches Gebäck mit Honig, Nüssen und Gewürzen, vor allem zu Weihnachten."
+        },
+        {
+          "id": "stadt-nuernberg-matching-5",
+          "term": "die Kaiserburg",
+          "meaning": "Große Burg auf einem Felsen über der Altstadt."
+        },
+        {
+          "id": "stadt-nuernberg-matching-6",
+          "term": "der Schöne Brunnen",
+          "meaning": "Brunnen am Markt; wer den goldenen Ring dreht, hat Glück."
+        },
+        {
+          "id": "stadt-nuernberg-matching-7",
+          "term": "das Schäufele",
+          "meaning": "Fränkischer Braten aus der Schweineschulter, mit Kloß und Soße."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-nuernberg-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-nuernberg-gap-1",
+          "promptBefore": "Die Kaiserburg steht auf",
+          "promptAfter": "Felsen über der Altstadt.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-2",
+          "promptBefore": "Im Dezember gehen wir auf",
+          "promptAfter": "Christkindlesmarkt.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-3",
+          "promptBefore": "Ich esse drei Bratwürste in",
+          "promptAfter": "Brötchen.",
+          "correctAnswer": "einem",
+          "options": [
+            "einem",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-4",
+          "promptBefore": "Viele Touristen drehen",
+          "promptAfter": "goldenen Ring am Schönen Brunnen.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-5",
+          "promptBefore": "Wir kaufen Lebkuchen in",
+          "promptAfter": "Bäckerei.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-6",
+          "promptBefore": "Am Sonntag gibt es",
+          "promptAfter": "Schäufele mit Kloß.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-nuernberg-gap-7",
+          "promptBefore": "Die Pegnitz fließt durch",
+          "promptAfter": "Altstadt.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-nuernberg-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-nuernberg-verbs-1",
+          "promptBefore": "Das Christkind",
+          "promptAfter": "den Christkindlesmarkt.",
+          "correctAnswer": "eröffnet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "eröffnen"
+        },
+        {
+          "id": "stadt-nuernberg-verbs-2",
+          "promptBefore": "Man",
+          "promptAfter": "die Bratwürste über dem Feuer.",
+          "correctAnswer": "grillt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "grillen"
+        },
+        {
+          "id": "stadt-nuernberg-verbs-3",
+          "promptBefore": "Viele Nürnberger",
+          "promptAfter": "sich als Franken, nicht als Bayern.",
+          "correctAnswer": "fühlen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "fühlen"
+        },
+        {
+          "id": "stadt-nuernberg-verbs-4",
+          "promptBefore": "Der Ring am Brunnen",
+          "promptAfter": "Glück.",
+          "correctAnswer": "bringt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "bringen"
+        },
+        {
+          "id": "stadt-nuernberg-verbs-5",
+          "promptBefore": "Im Winter",
+          "promptAfter": "die Spielwarenmesse statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-nuernberg-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-nuernberg-table-1",
+          "article": "die",
+          "singular": "Burg",
+          "plural": "Burgen"
+        },
+        {
+          "id": "stadt-nuernberg-table-2",
+          "article": "der",
+          "singular": "Brunnen",
+          "plural": "Brunnen"
+        },
+        {
+          "id": "stadt-nuernberg-table-3",
+          "article": "die",
+          "singular": "Wurst",
+          "plural": "Würste"
+        },
+        {
+          "id": "stadt-nuernberg-table-4",
+          "article": "der",
+          "singular": "Markt",
+          "plural": "Märkte"
+        },
+        {
+          "id": "stadt-nuernberg-table-5",
+          "article": "das",
+          "singular": "Brötchen",
+          "plural": "Brötchen"
+        },
+        {
+          "id": "stadt-nuernberg-table-6",
+          "article": "die",
+          "singular": "Mauer",
+          "plural": "Mauern"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-nuernberg-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-nuernberg-order-1",
+          "chunks": [
+            "Drei im Weggla",
+            "sind",
+            "drei Bratwürste",
+            "im Brötchen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-nuernberg-order-2",
+          "chunks": [
+            "Im Advent",
+            "besuchen",
+            "viele Leute",
+            "den Christkindlesmarkt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-nuernberg-order-3",
+          "chunks": [
+            "Hast",
+            "du",
+            "schon",
+            "Nürnberger Lebkuchen probiert"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-nuernberg-order-4",
+          "chunks": [
+            "Die Kaiserburg",
+            "liegt",
+            "hoch über der Stadt"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-nuernberg-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-nuernberg-spelling-1",
+          "correct": "Lebkuchen",
+          "wrong": "Leebkuchen"
+        },
+        {
+          "id": "stadt-nuernberg-spelling-2",
+          "correct": "Brunnen",
+          "wrong": "Brunen"
+        },
+        {
+          "id": "stadt-nuernberg-spelling-3",
+          "correct": "Bratwurst",
+          "wrong": "Bratwust"
+        },
+        {
+          "id": "stadt-nuernberg-spelling-4",
+          "correct": "Weihnachten",
+          "wrong": "Weinachten"
+        },
+        {
+          "id": "stadt-nuernberg-spelling-5",
+          "correct": "Burg",
+          "wrong": "Burk"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

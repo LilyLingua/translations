@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:58.451Z"
+  },
+  "title": "วีสบาเดิน",
+  "instructions": {
+    "stadt-wiesbaden-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-wiesbaden-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-wiesbaden-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-wiesbaden-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-wiesbaden-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-wiesbaden-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "เมืองสปา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "เมืองที่มีน้ำบำบัดโรค สมัยก่อนแขกร่ำรวยมาพักผ่อนที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "น้ำพุธรรมชาติ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "ที่ที่น้ำไหลออกมาจากพื้นดิน ที่วีสบาเดินมักร้อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "น้ำพุร้อนค็อคบรุนเนิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "น้ำพุร้อนชื่อดังกลางเมือง น้ำร้อนและเค็ม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "เคอร์เฮาส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "อาคารหรูหราสำหรับงานเลี้ยงและคอนเสิร์ต มีคาสิโน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "รถรางเนโรแบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "รถรางขึ้นเขาเก่าแก่ที่ใช้แค่น้ำเป็นน้ำหนักถ่วง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "ตลาดดาวตก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "ชื่อตลาดคริสต์มาสของวีสบาเดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "คาสิโน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "สถานที่เล่นการพนันด้วยเงิน เช่น รูเล็ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "พวกเรานั่งรถรางเนโรแบร์คขึ้นเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "น้ำจากค็อคบรุนเนินร้อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "พวกเราไปดูคอนเสิร์ตที่เคอร์เฮาส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "เดือนธันวาคมพวกเราไปเที่ยวตลาดดาวตก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "วีสบาเดินเป็นเมืองหลวงของรัฐเฮสเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "ที่สำนักงานสถิติกลาง มีการนับจำนวนประชากรของเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "พวกเราพักผ่อนที่บ่อน้ำร้อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "น้ำร้อนไหลออกมาจากพื้นดิน",
+      "answerText": "ไหลออก"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "รถรางเนโรแบร์คทำงานด้วยน้ำเท่านั้น",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "สมัยก่อนแขกร่ำรวยเดินทางมาวีสบาเดินเพื่อรักษาตัว",
+      "answerText": "เดินทาง"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "ที่เคอร์เฮาส์สามารถเล่นรูเล็ตได้",
+      "answerText": "สามารถ"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "ผู้คนมากมายผ่อนคลายที่บ่อน้ำร้อน",
+      "answerText": "ผ่อนคลาย"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "น้ำพุธรรมชาติ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "แขก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "ทางรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "น้ำพุ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "ที่อาบน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "ภูเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "ที่วีสบาเดินมีน้ำพุร้อนมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "รถรางเนโรแบร์คทำงานด้วยน้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "ไปบ่อน้ำร้อนด้วยกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "วีสบาเดินเป็นเมืองหลวงของรัฐเฮสเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "น้ำพุธรรมชาติ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "น้ำพุ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "บ่อน้ำร้อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "แขก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "คอนเสิร์ต",
+      "answerText": null
+    }
+  ]
+}

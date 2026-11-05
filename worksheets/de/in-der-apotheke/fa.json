@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:24.373Z"
+  },
+  "title": "در داروخانه",
+  "instructions": {
+    "in-der-apotheke-matching": "هر کلمه را به توضیح مناسب وصل کنید.",
+    "in-der-apotheke-gap": "کلمه مناسب را علامت بزنید.",
+    "in-der-apotheke-verbs": "فعل درست را به شکل درست بنویسید.",
+    "in-der-apotheke-table": "حرف تعریف (der/die/das) و شکل جمع را کامل کنید.",
+    "in-der-apotheke-order": "کلمه‌ها را به ترتیب درست بچینید و جمله را بنویسید.",
+    "in-der-apotheke-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزنید."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "نسخه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "کاغذی از پزشک برای یک دارو.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "قرص",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "داروی کوچکی که بلعیده می‌شود.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "شربت سرفه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "داروی مایع علیه سرفه.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "پماد",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "آن را روی پوست می‌مالند.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "عارضه جانبی",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "اثر ناخواسته یک دارو.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "بروشور دارو",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "کاغذ داخل جعبه دارو با همه اطلاعات.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "سهم پرداختی بیمار",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "مبلغ کمی برای نسخه را خودتان می‌پردازید.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "از پزشکم یک نسخه دارم.",
+      "answerText": "نسخه"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "چیزی برای گلودرد دارید؟",
+      "answerText": "گلودرد"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "روزی دو قرص بخورید.",
+      "answerText": "قرص"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "پماد برای پوست است.",
+      "answerText": "پوست"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "لطفاً بروشور دارو را بخوانید.",
+      "answerText": "بروشور دارو"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "این دارو تقریباً هیچ عارضه جانبی ندارد.",
+      "answerText": "عارضه جانبی"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "آخر هفته یک داروخانه کشیک است.",
+      "answerText": "داروخانه"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "از دیروز سرفه دارم.",
+      "answerText": "دارم"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "قرص‌ها را چند بار باید بخورم؟",
+      "answerText": "بخورم"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "دارو را تا فردا سفارش می‌دهیم.",
+      "answerText": "سفارش می‌دهیم"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "پماد را روزی دو بار بمالید.",
+      "answerText": "بمالید"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "لطفاً آب زیاد بنوشید.",
+      "answerText": "بنوشید"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "داروخانه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "دارو",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "پماد",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "چسب زخم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "جعبه (بسته)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "قطره",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "چیزی برای سرفه دارید؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "قرص‌ها را چند بار باید بخورم؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "یک دارو برای سردرد لازم دارم.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "برای این نسخه لازم دارم؟",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "داروخانه",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "دارو",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "چسب زخم",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "عارضه جانبی",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "سرفه",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:18.325Z"
+  },
+  "title": "ლაიფციგი",
+  "instructions": {
+    "stadt-leipzig-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-leipzig-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-leipzig-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-leipzig-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-leipzig-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-leipzig-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "„ლაიფციგერ ლერხე“ (ლაიფციგური ტოროლა)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "პატარა ნამცხვარი მარციპანით; ადრე ნამდვილ ფრინველებს ჭამდნენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "„ლაიფციგერ ალერლაი“ (ლაიფციგური ასორტი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "კერძი სხვადასხვა ბოსტნეულისგან, მაგალითად, მწვანე ბარდისა და სტაფილოსგან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "ორშაბათის დემონსტრაცია",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "1989 წლის შემოდგომაზე ყოველ ორშაბათს ათასობით ადამიანი თავისუფლებისთვის ქუჩაში გამოდიოდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "გამოფენა-ბაზრობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "დიდი გამოფენა; ლაიფციგი მსოფლიოს ერთ-ერთი უძველესი საგამოფენო ქალაქია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "თომანერხორი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "ცნობილი ვაჟთა გუნდი; იოჰან სებასტიან ბახი აქ კანტორი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "აუერბახის სარდაფი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "ძველი რესტორანი ქალაქის ქვეშ; გოეთემ ის „ფაუსტში“ აღწერა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "„ჰაიპციგი“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "მეტსახელი, რადგან ლაიფციგში ძალიან ბევრი ახალგაზრდა გადადის საცხოვრებლად.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "ბახი თომასკირხეში კანტორი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "1989 წელს ბევრმა ადამიანმა რინგზე დემონსტრაცია მოაწყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "ერების ბრძოლის ძეგლს ვსტუმრობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "ყავასთან ერთად ლაიფციგერ ლერხეს ვჭამ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "ზაფხულში ბევრი კოსპუდენის ტბაში ბანაობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "წიგნების გამოფენა გაზაფხულზეა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "ზოოპარკი მთავარ სადგურთან ახლოსაა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "თომანერხორი თომასკირხეში მღერის.",
+      "answerText": "მღერის"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "1989 წლის შემოდგომაზე ხალხი ყოველ ორშაბათს ქუჩაში გამოდიოდა.",
+      "answerText": "გამოდიოდა"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "ბევრი ახალგაზრდა ლაიფციგში გადადის საცხოვრებლად.",
+      "answerText": "გადადის"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "წიგნების გამოფენა ყოველ წელს მარტში იმართება.",
+      "answerText": "იმართება"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "მთავარი სადგური ევროპის ერთ-ერთი უდიდესი სადგური არის.",
+      "answerText": "არის"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "გუნდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "გამოფენა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "ძეგლი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "სადგური",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "ეკლესია",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "წიგნი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "ბახი მრავალი წელი ლაიფციგში მუშაობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "მარტში ბევრი სტუმარი მოდის წიგნების გამოფენაზე.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "ერების ბრძოლის ძეგლს იცნობ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "ლაიფციგერ ლერხე მარციპნიანი ნამცხვარია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "ძეგლი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "გამოფენა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "გუნდი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "სადგური",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "მარციპანი",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:34.240Z"
+  },
+  "title": "Kod doktora",
+  "instructions": {
+    "beim-arzt-matching": "Spojite svaku riječ s odgovarajućim objašnjenjem.",
+    "beim-arzt-gap": "Označite odgovarajuću riječ.",
+    "beim-arzt-verbs": "Upišite pravi glagol u pravom obliku.",
+    "beim-arzt-table": "Dopunite član i oblik množine.",
+    "beim-arzt-order": "Poredajte riječi pravilnim redom i napišite rečenicu.",
+    "beim-arzt-spelling": "Koja riječ je pravilno napisana? Označite."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "kartica zdravstvenog osiguranja",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Ovu karticu pokazujete na prijemu. Na njoj piše vaše zdravstveno osiguranje.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "termin",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Tačno vrijeme kada dolazite u ordinaciju.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "čekaonica",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Ovdje sjedite dok vas ne prozovu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "recept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "S njim dobijate lijek u apoteci.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "bolovanje (doznaka)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Ovaj papir dobija vaš poslodavac kada ste bolesni.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "temperatura (groznica)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Tjelesna temperatura je previsoka, na primjer 39 stepeni.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergija",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Tijelo snažno reaguje na nešto, na primjer na penicilin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "hitni poziv",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Broj 112 – kod nesreće ili u hitnom slučaju.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Dobar dan, želio bih zakazati termin.",
+      "answerText": "termin"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Imate li karticu zdravstvenog osiguranja kod sebe?",
+      "answerText": "karticu zdravstvenog osiguranja"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Molim vas, sjednite u čekaonicu.",
+      "answerText": "čekaonicu"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Imam glavobolju i temperaturu.",
+      "answerText": "glavobolju"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Boli me stomak.",
+      "answerText": "stomak"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Alergičan sam na penicilin.",
+      "answerText": "penicilin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Treba mi potvrda o bolovanju za poslodavca.",
+      "answerText": "potvrda o bolovanju"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Uzimajte tablete tri puta dnevno nakon jela.",
+      "answerText": "jela"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Možete li to, molim vas, reći sporije?",
+      "answerText": "reći"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Već tri dana imam temperaturu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Glava me jako boli.",
+      "answerText": "boli"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Molim vas, duboko udahnite – i ponovo izdahnite.",
+      "answerText": "udahnite"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Doktorica mi daje recept.",
+      "answerText": "daje"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Odmah ćemo vas prozvati.",
+      "answerText": "prozvati"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "doktor",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "recept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "termin",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "ordinacija",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "lijek",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Želio bih zakazati termin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Već tri dana imam temperaturu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Možete li to, molim vas, ponoviti?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Gdje vas boli?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "glavobolja",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "bolovanje",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "kartica zdravstvenog osiguranja",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alergičan",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tableta",
+      "answerText": null
+    }
+  ]
+}

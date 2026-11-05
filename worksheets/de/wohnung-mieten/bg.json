@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:35.141Z"
+  },
+  "title": "Наемане на жилище",
+  "instructions": {
+    "wohnung-mieten-matching": "Свържете всяка дума с подходящото обяснение.",
+    "wohnung-mieten-gap": "Отбележете правилната форма на члена.",
+    "wohnung-mieten-verbs": "Попълнете правилния глагол в правилната форма.",
+    "wohnung-mieten-table": "Допълнете члена и формата за множествено число.",
+    "wohnung-mieten-order": "Подредете думите в правилния ред и напишете изречението.",
+    "wohnung-mieten-spelling": "Коя дума е написана правилно? Отбележете."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "наем",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Парите, които плащате всеки месец за жилището.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "депозит",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Пари, които наемодателят получава в началото като гаранция.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "разходи за поддръжка",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Разходи за вода, отопление и боклук.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "договор за наем",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Договорът между наемателя и наемодателя.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "оглед",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Разглеждате жилището, преди да го наемете.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "домоуправител",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Той се грижи за сградата и поправя дребни неща.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "правилник за вътрешния ред",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Правилата за всички живущи, например часовете за тишина.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Търсим жилище с балкон.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Говоря с наемодателя.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Давам депозита на наемодателката.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Колелото го оставям в двора.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Ключът е на масата.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Отоплението в кухнята е повредено.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "От една година живея в това жилище.",
+      "answerText": "това"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Кога мога да разгледам жилището?",
+      "answerText": "разгледам"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Наемът струва 850 евро с разходите.",
+      "answerText": "струва"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Нанасяме се на 1 декември.",
+      "answerText": "Нанасяме"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Отоплението е повредено. Можете ли да го поправите, моля?",
+      "answerText": "поправите"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Моля, разделяйте боклука.",
+      "answerText": "разделяйте"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "стая",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "кухня",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "баня",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "ключ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "отопление",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Свободно ли е още жилището?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Колко са разходите за поддръжка?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Кога мога да разгледам жилището?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "С удоволствие бих наел жилището.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "депозит",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "разходи за поддръжка",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "ключ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "отопление",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ur",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:37.189Z"
+  },
+  "title": "بس اور ٹرین سے",
+  "instructions": {
+    "bus-und-bahn-matching": "ہر لفظ کو اس کی صحیح وضاحت سے ملائیں۔",
+    "bus-und-bahn-gap": "مناسب لفظ پر نشان لگائیں۔",
+    "bus-und-bahn-verbs": "درست فعل درست شکل میں لکھیں۔",
+    "bus-und-bahn-table": "آرٹیکل اور جمع کی شکل مکمل کریں۔",
+    "bus-und-bahn-order": "الفاظ کو صحیح ترتیب میں لگائیں اور جملہ لکھیں۔",
+    "bus-und-bahn-spelling": "کون سا لفظ صحیح لکھا ہے؟ نشان لگائیں۔"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ٹکٹ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "اس کے ساتھ آپ بس یا ٹرین میں سفر کر سکتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "ٹکٹ مشین",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "یہاں آپ کاؤنٹر کے بغیر ٹکٹ خریدتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "پلیٹ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "یہاں اسٹیشن پر ٹرین رکتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "تاخیر",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "ٹرین مقررہ وقت سے دیر سے آتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "گاڑی بدلنا",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "آپ ایک ٹرین سے دوسری میں جاتے ہیں۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "بس اسٹاپ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "یہاں بس رکتی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "ڈوئچ لینڈ ٹکٹ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "پورے جرمنی میں مقامی بس اور ٹرین کا ماہانہ ٹکٹ۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "کولون جانے والی ٹرین پلیٹ فارم 5 سے روانہ ہوتی ہے۔",
+      "answerText": "پلیٹ فارم"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "ٹرین کو دس منٹ کی تاخیر ہے۔",
+      "answerText": "تاخیر"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "قریب ترین اسٹاپ کہاں ہے؟",
+      "answerText": "اسٹاپ"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "برلن کا ایک ٹکٹ، براہ کرم۔",
+      "answerText": "ٹکٹ"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "براہ کرم اپنا ٹکٹ دکھائیں۔",
+      "answerText": "ٹکٹ"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "زیر زمین ٹرین ہر دس منٹ بعد چلتی ہے۔",
+      "answerText": "زیر زمین ٹرین"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "مشین پر آپ ٹکٹ خرید سکتے ہیں۔",
+      "answerText": "مشین"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "مجھے کہاں بدلنا ہے؟",
+      "answerText": "بدلنا"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "بس 8:15 پر روانہ ہوتی ہے۔",
+      "answerText": "روانہ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "ہم 10 بجے ہیمبرگ پہنچتے ہیں۔",
+      "answerText": "پہنچتے"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "براہ کرم یہاں اتر جائیں۔",
+      "answerText": "اتر"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "سفر میں کتنا وقت لگتا ہے؟",
+      "answerText": "لگتا"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "ٹرین",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "ریلوے اسٹیشن",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ٹکٹ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "پلیٹ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "بس اسٹاپ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "بس",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "میونخ کے لیے اگلی ٹرین کب جاتی ہے؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "مجھے مین ہائم میں ٹرین بدلنی ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "ٹرین افسوس سے لیٹ ہے۔",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "کیا یہ ٹکٹ بس کے لیے بھی چلتا ہے؟",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ٹکٹ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "تاخیر",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "بس اسٹاپ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "پلیٹ فارم",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "ریلوے اسٹیشن",
+      "answerText": null
+    }
+  ]
+}

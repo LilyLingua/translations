@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Tôi muốn đăng ký cư trú."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Tôi lấy số."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – quầy số 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Tôi muốn đăng ký căn hộ mới của tôi."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Đây là giấy xác nhận của chủ nhà tôi."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Đây là hộ chiếu của tôi."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Tôi đánh vần: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Tôi độc thân."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Tôi ký ở đâu?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Tôi còn cần gì nữa không?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Mình chuyển nhà rồi! Nhà mới, thành phố mới…"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Tuyệt! Thế cậu đã đăng ký cư trú chưa?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Đăng ký? Ở đâu? Ở phòng tập gym à?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Không, Leo. Ở cơ quan hành chính! Hôm nay bạn sẽ trải qua cả một buổi hẹn ở „Bürgeramt“ – từ cửa vào đến giấy xác nhận cư trú."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Và trong mỗi tình huống, chúng mình hỏi bạn: Bạn nói gì?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Và bạn chỉ có năm giây!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Bạn đến văn phòng công dân. Ở quầy thông tin có một người đàn ông."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Chào buổi sáng. Anh/chị cần làm việc gì?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Chào buổi sáng. Tôi muốn đăng ký cư trú."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Tôi là một việc cần làm."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Tôi muốn một cơ quan."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ nghĩa là: Vì sao anh/chị đến đây? Anh/chị cần gì?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Ở cơ quan hành chính bạn sẽ nghe từ này rất thường xuyên."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Chào buổi sáng. Tôi muốn đăng ký cư trú."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Anh/chị có lịch hẹn không?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Có, lúc chín giờ."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Tôi muốn đăng ký cư trú."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Tôi có lịch hẹn lúc chín giờ."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Được. Vậy anh/chị lấy số rồi đợi ở đằng kia nhé."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Bây giờ bạn làm gì?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Bạn chuyển nhà."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Bạn kéo tóc ai đó."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Bạn lấy một tờ phiếu có số từ máy."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Vậy là A! Mình chuyển nhà. Mình vừa mới chuyển nhà mà…"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Không, Leo. C! „Eine Nummer ziehen“ nghĩa là: bạn lấy một tờ phiếu có số thứ tự."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ là chuyện hoàn toàn khác – nghĩa là: chuyển đến nhà mới."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Tôi lấy số."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Bạn đang đợi. Bỗng bạn nghe thông báo. Nghe kỹ nhé!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Số 147, mời đến quầy số 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Số của bạn là 147. Bạn đi đâu?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Đến quầy số 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Đến quầy số 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Đến phòng số 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Đầu tiên là số của bạn, sau đó là quầy."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Ở nhiều cơ quan, điều này cũng hiện trên màn hình."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – quầy số 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Bạn đến quầy số 12. Ở đó có một người phụ nữ."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Chào buổi sáng. Mời ngồi. Tôi có thể giúp gì cho anh/chị?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Tôi muốn đăng ký cho chị."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Tôi muốn đăng ký căn hộ mới của tôi."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Giờ tôi sống ở đây. Tạm biệt!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Bạn đăng ký căn hộ – hoặc chính mình: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Nhưng không phải „Sie“ (chị) – bà Krüger đã được đăng ký rồi."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Tôi muốn đăng ký căn hộ mới của tôi."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Vâng. Anh/chị chuyển vào khi nào?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Ngày một tháng Mười."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Tôi muốn đăng ký căn hộ mới của tôi."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Tôi chuyển vào ngày một tháng Mười."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Anh/chị có mang giấy xác nhận của chủ nhà không?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Ôi, từ dài quá! Bạn nói gì?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Không, tôi không cho nhà."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Có, tôi cho chị căn hộ của tôi."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Có, đây là giấy xác nhận của chủ nhà tôi."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ là một mẫu giấy của chủ nhà. Trên đó ghi: bạn thật sự sống ở căn hộ này."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Không có giấy này thì thường không đăng ký được."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Có, đây là giấy xác nhận của chủ nhà tôi."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Đây là giấy xác nhận của chủ nhà tôi."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Và chứng minh thư hoặc hộ chiếu của anh/chị, làm ơn."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Đây là hộ chiếu của tôi."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Đây là những hộ chiếu của tôi."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Tôi là hộ chiếu."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Một hộ chiếu – vậy là „ist“, không phải „sind“. Ở cơ quan hành chính hầu như lúc nào bạn cũng cần hộ chiếu hoặc chứng minh thư."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Và nếu bạn quên, hãy nói thật: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Xin lỗi, tiếc là tôi quên mang.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Đây là hộ chiếu của tôi."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Đây là hộ chiếu của tôi."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Xin lỗi, tiếc là tôi quên mang."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Họ của anh/chị viết thế nào?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Họ của bạn là Nowak. Bạn nói gì?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Bằng bút bi."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Tôi đánh vần: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Viết rất đẹp."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ nghĩa là: Những chữ cái nào? Khi đó bạn đánh vần – từng chữ một."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Hãy luyện đánh vần tên mình bằng tiếng Đức, chỗ nào cũng cần!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Cảm ơn."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Tôi đánh vần: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Anh/chị đã kết hôn chưa?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Bạn chưa kết hôn. Bạn nói gì?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Chưa, tôi độc thân."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Chưa, tôi tiếc là."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Chưa, tôi cưới."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ nghĩa là: chưa kết hôn. Cẩn thận: „leider“ nghe giống, nhưng nghĩa hoàn toàn khác – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "là: tiếc là."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Chưa, tôi độc thân."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Tôi độc thân."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Tôi đã kết hôn."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Anh/chị vui lòng kiểm tra thông tin. Nếu mọi thứ đúng, vui lòng ký ở đây."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Bạn nói gì?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Tôi viết nó dưới gầm bàn."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Tôi không thích ký."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Mọi thứ đều đúng. Chính xác tôi ký ở đâu?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ nghĩa là: viết tên mình bằng tay – chữ ký của bạn."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Và một lời khuyên: luôn đọc trước những gì ghi trên mẫu giấy."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Mọi thứ đều đúng. Chính xác tôi ký ở đâu?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Ở dưới này, làm ơn."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Tôi ký ở đâu?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Xong rồi. Đây là giấy xác nhận cư trú của anh/chị."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Bạn xong rồi! Bạn nói gì?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Cảm ơn, tôi sẽ liên lạc lại."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Cảm ơn nhiều! Tôi còn cần gì nữa không?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Tôi không bị làm sao cả!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Và cẩn thận với A: „Ich melde mich“ không có nghĩa là „tôi đăng ký“, mà là: tôi sẽ gọi lại cho chị sau."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Còn C chắc bạn còn nhớ – câu đó chỉ hợp ở chỗ bác sĩ!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Cảm ơn nhiều! Tôi còn cần gì nữa không?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Không, chỉ vậy thôi. Anh/chị giữ giấy cẩn thận nhé."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Nói theo nhé!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Tôi còn cần gì nữa không?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Ba lời khuyên về đăng ký cư trú. Thứ nhất: hãy đăng ký trong vòng hai tuần sau khi chuyển vào."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Thứ hai: ở nhiều thành phố bạn cần lịch hẹn – thường có thể đặt trực tuyến."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Và thứ ba: bạn sẽ thường cần lại giấy xác nhận cư trú, ví dụ để mở tài khoản ngân hàng."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Vì vậy hãy giữ cẩn thận!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Ở cơ quan hành chính, tiếng Đức đôi khi nghe rất phức tạp. Leo đọc – còn mình nói đơn giản."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Anh/chị cần làm việc gì?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Anh/chị cần gì?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Vui lòng chuẩn bị sẵn giấy tờ."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Vui lòng cầm sẵn giấy tờ trong tay."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Hãy điền đầy đủ mẫu đơn."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Hãy viết vào mọi chỗ."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Việc xử lý mất khoảng hai tuần."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Mất chừng hai tuần."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Vui lòng nộp bổ sung giấy tờ."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Vui lòng mang giấy tờ đến sau."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Hôm nay mình thay quần áo!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "À, cậu mặc đồ khác à? Hay ý cậu là: „Ich ziehe um“ – chuyển đến nhà mới?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Và ở cơ quan hành chính: không phải „Ich bin leider“, mà là „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(tôi độc thân) – nếu bạn chưa kết hôn."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Và „Ich melde mich“ nghĩa là: tôi sẽ gọi lại sau. Ở cơ quan hành chính bạn nói: „Ich melde mich an.“ (Tôi đăng ký cư trú.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Và bây giờ ôn lại tất cả. Mười câu quan trọng nhất. Nói theo nhé!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Tôi muốn đăng ký cư trú."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Tôi có lịch hẹn lúc chín giờ."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Tôi lấy số."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Tôi muốn đăng ký căn hộ mới của tôi."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Đây là giấy xác nhận của chủ nhà tôi."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Đây là hộ chiếu của tôi."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Tôi đánh vần tên mình."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Tôi độc thân."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Tôi ký ở đâu?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Tôi còn cần gì nữa không?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Từ nào khó nhất với bạn? Hãy viết vào phần bình luận!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Tạm biệt và hẹn gặp lại ở LilyLingua!"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:47.678Z"
+  },
+  "title": "At the Supermarket",
+  "instructions": {
+    "uk-u-supermarketi-matching": "Match each word with its meaning.",
+    "uk-u-supermarketi-gap": "Choose the right word.",
+    "uk-u-supermarketi-verbs": "Fill in the correct verb.",
+    "uk-u-supermarketi-order": "Put the words in the right order and write the sentence.",
+    "uk-u-supermarketi-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-u-supermarketi-matching-1",
+      "translation": "cart",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-1:meaning",
+      "translation": "A big basket on wheels for shopping.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2",
+      "translation": "checkout",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-2:meaning",
+      "translation": "The place where you pay.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3",
+      "translation": "shelf",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-3:meaning",
+      "translation": "Products in a store lie on it.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4",
+      "translation": "receipt",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-4:meaning",
+      "translation": "A piece of paper that shows what you bought and how much you paid.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5",
+      "translation": "cashier",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-5:meaning",
+      "translation": "The person who works at the checkout.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6",
+      "translation": "bag",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-matching-6:meaning",
+      "translation": "You carry your shopping home in it.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-gap-1",
+      "translation": "I need a bottle of milk.",
+      "answerText": "milk"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-2",
+      "translation": "The bread is on the top shelf.",
+      "answerText": "shelf"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-3",
+      "translation": "Please pay at the checkout.",
+      "answerText": "checkout"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-4",
+      "translation": "Here is your receipt. Have a nice day!",
+      "answerText": "receipt"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-5",
+      "translation": "I put the apples in the cart.",
+      "answerText": "cart"
+    },
+    {
+      "id": "uk-u-supermarketi-gap-6",
+      "translation": "A friendly cashier works at the checkout.",
+      "answerText": "cashier"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-1",
+      "translation": "How much do the apples cost?",
+      "answerText": "cost"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-2",
+      "translation": "I pay by card.",
+      "answerText": "pay"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-3",
+      "translation": "We buy eggs and bread.",
+      "answerText": "buy"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-4",
+      "translation": "Excuse me, where is the rice?",
+      "answerText": "is"
+    },
+    {
+      "id": "uk-u-supermarketi-verbs-5",
+      "translation": "The store closes at ten.",
+      "answerText": "closes"
+    },
+    {
+      "id": "uk-u-supermarketi-order-1",
+      "translation": "Where is the rice?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-2",
+      "translation": "I need a bag.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-3",
+      "translation": "Can I pay by card?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-order-4",
+      "translation": "The milk is in the third aisle.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-1",
+      "translation": "vegetables",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-2",
+      "translation": "bread",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-3",
+      "translation": "cheese",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-4",
+      "translation": "apple",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-supermarketi-spelling-5",
+      "translation": "banana",
+      "answerText": null
+    }
+  ]
+}

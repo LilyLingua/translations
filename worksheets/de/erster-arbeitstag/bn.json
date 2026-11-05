@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.300Z"
+  },
+  "title": "কাজের প্রথম দিন",
+  "instructions": {
+    "erster-arbeitstag-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "erster-arbeitstag-gap": "সঠিক রূপে চিহ্ন দিন।",
+    "erster-arbeitstag-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "erster-arbeitstag-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "erster-arbeitstag-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "erster-arbeitstag-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "সহকর্মী (পুরুষ)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "একজন পুরুষ যার সঙ্গে আপনি একসাথে কাজ করেন।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "বস (মহিলা)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "তিনি দলের নেতৃত্ব দেন।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "বিরতি",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "কাজের মাঝে অবসর সময়, যেমন খাওয়ার জন্য।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "বার্ষিক ছুটি",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "যে দিনগুলোতে আপনি কাজ করেন না তবুও বেতন পান।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "ওভারটাইম",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "পরিকল্পনার চেয়ে বেশি কাজ করা এক ঘণ্টা।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "চাকরির চুক্তি",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "এতে বেতন, কাজের সময় ও ছুটি লেখা থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "ক্যান্টিন",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "এখানে কর্মীরা কোম্পানিতে খাওয়াদাওয়া করেন।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "ইনি আমার নতুন সহকর্মী।",
+      "answerText": "আমার"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "আমি কি আপনার সঙ্গে আমার সহকর্মীর পরিচয় করিয়ে দিতে পারি?",
+      "answerText": "আমার"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "আমি দলের সঙ্গে কাজ করতে ভালোবাসি।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "আমরা ক্যান্টিনে দেখা করি।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "আমার একটা প্রশ্ন আছে।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "বিরতি কখন শুরু হয়?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "আমি বসকে রিপোর্টটি দিই।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "আমি কি সংক্ষেপে নিজের পরিচয় দিতে পারি?",
+      "answerText": "পরিচয়"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "আমি সকাল 8টা থেকে বিকেল 4টা পর্যন্ত কাজ করি।",
+      "answerText": "কাজ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "টয়লেট কোথায় পাব?",
+      "answerText": "পাব"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "দলে আমরা একে অপরকে „তুমি“ বলি।",
+      "answerText": "বলি"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "আপনি কি আমাকে এটা বুঝিয়ে বলতে পারবেন?",
+      "answerText": "বুঝিয়ে"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "সহকর্মী",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "কোম্পানি",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "অফিস",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "কম্পিউটার",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "মিটিং",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "দল",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "আমি কি সংক্ষেপে নিজের পরিচয় দিতে পারি?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "আমি দলে নতুন।",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "দুপুরের বিরতি কখন শুরু হয়?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "আপনি কি আমাকে এটা বুঝিয়ে বলতে পারবেন?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "সহকর্মী",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "মিটিং",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "বার্ষিক ছুটি",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "অফিস",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "ওভারটাইম",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "et",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:13.663Z"
+  },
+  "title": "Leipzig",
+  "instructions": {
+    "stadt-leipzig-matching": "Ühendage iga sõna õige selgitusega.",
+    "stadt-leipzig-gap": "Märkige õige sõna.",
+    "stadt-leipzig-verbs": "Kirjutage lünka õige tegusõna õiges vormis.",
+    "stadt-leipzig-table": "Kirjutage artikkel ja mitmuse vorm.",
+    "stadt-leipzig-order": "Pange sõnad õigesse järjekorda ja kirjutage lause.",
+    "stadt-leipzig-spelling": "Milline sõna on õigesti kirjutatud? Märkige see."
+  },
+  "items": [
+    {
+      "id": "stadt-leipzig-matching-1",
+      "translation": "„Leipziger Lerche“ (Leipzigi lõoke)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-1:meaning",
+      "translation": "Väike martsipaniga kook; vanasti söödi päris linde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2",
+      "translation": "„Leipziger Allerlei“ (Leipzigi köögiviljasegu)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-2:meaning",
+      "translation": "Toit erinevatest köögiviljadest, näiteks hernestest ja porganditest.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3",
+      "translation": "esmaspäevane meeleavaldus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-3:meaning",
+      "translation": "1989. aasta sügisel läksid tuhanded inimesed igal esmaspäeval vabaduse eest tänavatele.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4",
+      "translation": "mess",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-4:meaning",
+      "translation": "Suur näitus; Leipzig on üks maailma vanimaid messilinnu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5",
+      "translation": "Tooma kiriku poistekoor (Thomanerchor)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-5:meaning",
+      "translation": "Kuulus poistekoor; Johann Sebastian Bach oli siin kantor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6",
+      "translation": "Auerbachi kelder (Auerbachs Keller)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-6:meaning",
+      "translation": "Vana restoran linna all; Goethe kirjeldas seda teoses „Faust“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7",
+      "translation": "„Hypezig“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-matching-7:meaning",
+      "translation": "Hüüdnimi, sest nii palju noori kolib Leipzigisse.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-1",
+      "translation": "Bach oli kantor Tooma kirikus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-2",
+      "translation": "1989. aastal avaldasid paljud inimesed Ringil meelt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-3",
+      "translation": "Me külastame Rahvaste lahingu monumenti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-4",
+      "translation": "Kohvi kõrvale söön ma ühe „Leipziger Lerche“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-5",
+      "translation": "Suvel ujuvad paljud inimesed Cospudeni järves.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-6",
+      "translation": "Raamatumess on kevadel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-gap-7",
+      "translation": "Loomaaed on peajaama lähedal.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-verbs-1",
+      "translation": "Tooma kiriku poistekoor laulab Tooma kirikus.",
+      "answerText": "laulab"
+    },
+    {
+      "id": "stadt-leipzig-verbs-2",
+      "translation": "1989. aasta sügisel läksid inimesed igal esmaspäeval tänavatele.",
+      "answerText": "läksid"
+    },
+    {
+      "id": "stadt-leipzig-verbs-3",
+      "translation": "Paljud noored kolivad Leipzigisse.",
+      "answerText": "kolivad"
+    },
+    {
+      "id": "stadt-leipzig-verbs-4",
+      "translation": "Raamatumess toimub igal aastal märtsis.",
+      "answerText": "toimub"
+    },
+    {
+      "id": "stadt-leipzig-verbs-5",
+      "translation": "Peajaam on üks Euroopa suurimaid raudteejaamu.",
+      "answerText": "on"
+    },
+    {
+      "id": "stadt-leipzig-table-1",
+      "translation": "koor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-2",
+      "translation": "mess",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-3",
+      "translation": "monument",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-4",
+      "translation": "raudteejaam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-5",
+      "translation": "kirik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-table-6",
+      "translation": "raamat",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-1",
+      "translation": "Bach töötas Leipzigis palju aastaid.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-2",
+      "translation": "Märtsis tuleb raamatumessile palju külastajaid.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-3",
+      "translation": "Kas sa tunned Rahvaste lahingu monumenti?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-order-4",
+      "translation": "„Leipziger Lerche“ on martsipaniga küpsetis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-1",
+      "translation": "monument",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-2",
+      "translation": "mess",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-3",
+      "translation": "koor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-4",
+      "translation": "raudteejaam",
+      "answerText": null
+    },
+    {
+      "id": "stadt-leipzig-spelling-5",
+      "translation": "martsipan",
+      "answerText": null
+    }
+  ]
+}

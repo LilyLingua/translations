@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:58.657Z"
+  },
+  "title": "ซาร์บรึคเคิน",
+  "instructions": {
+    "stadt-saarbruecken-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-saarbruecken-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-saarbruecken-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-saarbruecken-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-saarbruecken-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-saarbruecken-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-saarbruecken-matching-1",
+      "translation": "\"ลีโยเนอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-1:meaning",
+      "translation": "ไส้กรอกเนื้อ ในซาร์ลันด์กินบ่อยมาก เช่น กับขนมปัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2",
+      "translation": "\"ชเว็งเคอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-2:meaning",
+      "translation": "ตะแกรงย่างแขวนด้วยโซ่ ที่แกว่งไปมาเหนือกองไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3",
+      "translation": "\"ชเว็งเคิน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-3:meaning",
+      "translation": "ในซาร์ลันด์: ย่างบนชเว็งเคอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4",
+      "translation": "ชายแดน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-4:meaning",
+      "translation": "ที่นี่ประเทศหนึ่งสิ้นสุดและอีกประเทศเริ่มต้น ฝรั่งเศสอยู่ใกล้มาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5",
+      "translation": "การทำเหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-5:meaning",
+      "translation": "งานใต้ดินเพื่อขุดถ่านหิน สมัยก่อนสำคัญมากในซาร์ลันด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6",
+      "translation": "แม่น้ำซาร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-6:meaning",
+      "translation": "แม่น้ำที่ไหลผ่านซาร์บรึคเคิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7",
+      "translation": "ซาวัวร์วีฟร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-matching-7:meaning",
+      "translation": "ภาษาฝรั่งเศส หมายถึงศิลปะแห่งการใช้ชีวิตอย่างมีความสุข",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-1",
+      "translation": "สุดสัปดาห์พวกเรายืนอยู่ข้างชเว็งเคอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-2",
+      "translation": "ฉันกินขนมปังกับลีโยเนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-3",
+      "translation": "พวกเราขับรถข้ามชายแดนไปฝรั่งเศส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-4",
+      "translation": "แม่น้ำในเมืองชื่อซาร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-5",
+      "translation": "วันเสาร์ผู้คนมากมายซื้อของที่ซูเปอร์มาร์เก็ตฝรั่งเศส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-6",
+      "translation": "คุณปู่ของฉันเคยทำงานใต้ดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-gap-7",
+      "translation": "พวกเราปิกนิกที่สวนเยอรมัน-ฝรั่งเศส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-1",
+      "translation": "สุดสัปดาห์ชาวซาร์ลันด์ชอบย่างบนชเว็งเคอร์",
+      "answerText": "ย่าง"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-2",
+      "translation": "แม่น้ำซาร์ไหลผ่านกลางเมือง",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-3",
+      "translation": "ชาวซาร์ลันด์หลายคนพูดภาษาฝรั่งเศสด้วย",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-4",
+      "translation": "สมัยก่อนผู้ชายหลายคนทำงานในเหมือง",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-saarbruecken-verbs-5",
+      "translation": "ตั้งแต่ปี 1957 ซาร์ลันด์เป็นส่วนหนึ่งของสหพันธ์สาธารณรัฐ",
+      "answerText": "เป็นส่วนหนึ่ง"
+    },
+    {
+      "id": "stadt-saarbruecken-table-1",
+      "translation": "ตะแกรงย่าง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-2",
+      "translation": "ชายแดน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-3",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-4",
+      "translation": "ซูเปอร์มาร์เก็ต",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-5",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-table-6",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-1",
+      "translation": "สุดสัปดาห์พวกเราปิ้งย่างในสวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-2",
+      "translation": "ฝรั่งเศสอยู่ห่างไปแค่ไม่กี่กิโลเมตร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-3",
+      "translation": "คุณชอบกินลีโยเนอร์ไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-order-4",
+      "translation": "ตั้งแต่ปี 1957 ซาร์ลันด์เป็นส่วนหนึ่งของเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-1",
+      "translation": "ชายแดน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-2",
+      "translation": "ถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-3",
+      "translation": "แม่น้ำ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-4",
+      "translation": "ภาษาฝรั่งเศส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-saarbruecken-spelling-5",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    }
+  ]
+}

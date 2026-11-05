@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "7638c7e8-93ca-4a86-b6c4-81038ba3ab22",
+    "level": "A2"
+  },
+  "title": "En el banco",
+  "topic": "Abrir una cuenta, usar la tarjeta y hacer transferencias",
+  "tasks": [
+    {
+      "id": "es-en-el-banco-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-en-el-banco-matching-1",
+          "term": "la cuenta",
+          "meaning": "Un lugar en el banco donde está tu dinero."
+        },
+        {
+          "id": "es-en-el-banco-matching-2",
+          "term": "la tarjeta de débito",
+          "meaning": "Una tarjeta para pagar con el dinero de tu cuenta."
+        },
+        {
+          "id": "es-en-el-banco-matching-3",
+          "term": "el NIP",
+          "meaning": "Un número secreto para tu tarjeta."
+        },
+        {
+          "id": "es-en-el-banco-matching-4",
+          "term": "el cajero automático",
+          "meaning": "Una máquina donde sacas efectivo."
+        },
+        {
+          "id": "es-en-el-banco-matching-5",
+          "term": "la transferencia",
+          "meaning": "Cuando mandas dinero a otra cuenta."
+        },
+        {
+          "id": "es-en-el-banco-matching-6",
+          "term": "el saldo",
+          "meaning": "Cuánto dinero hay en tu cuenta."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-en-el-banco-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-en-el-banco-gap-1",
+          "promptBefore": "Quiero abrir una",
+          "promptAfter": ".",
+          "correctAnswer": "cuenta",
+          "options": [
+            "cuenta",
+            "saldo",
+            "transferencia"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-banco-gap-2",
+          "promptBefore": "Por favor, ingrese su",
+          "promptAfter": ".",
+          "correctAnswer": "NIP",
+          "options": [
+            "NIP",
+            "saldo",
+            "cajero"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-banco-gap-3",
+          "promptBefore": "¿Dónde está el",
+          "promptAfter": "más cercano?",
+          "correctAnswer": "cajero",
+          "options": [
+            "cajero",
+            "NIP",
+            "saldo"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-banco-gap-4",
+          "promptBefore": "Quiero hacer una",
+          "promptAfter": "a mi arrendador.",
+          "correctAnswer": "transferencia",
+          "options": [
+            "transferencia",
+            "cuenta",
+            "tarjeta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-banco-gap-5",
+          "promptBefore": "¿Cómo consulto mi",
+          "promptAfter": "?",
+          "correctAnswer": "saldo",
+          "options": [
+            "saldo",
+            "cajero",
+            "NIP"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-en-el-banco-gap-6",
+          "promptBefore": "Mi tarjeta de",
+          "promptAfter": "no funciona.",
+          "correctAnswer": "débito",
+          "options": [
+            "débito",
+            "saldo",
+            "cuenta"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-en-el-banco-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-en-el-banco-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "abrir una cuenta.",
+          "correctAnswer": "Quiero",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "querer"
+        },
+        {
+          "id": "es-en-el-banco-verbs-2",
+          "promptBefore": "¿Puedo",
+          "promptAfter": "efectivo aquí?",
+          "correctAnswer": "sacar",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sacar"
+        },
+        {
+          "id": "es-en-el-banco-verbs-3",
+          "promptBefore": "Por favor,",
+          "promptAfter": "este formulario.",
+          "correctAnswer": "firme",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "firmar"
+        },
+        {
+          "id": "es-en-el-banco-verbs-4",
+          "promptBefore": "La tarjeta",
+          "promptAfter": "en cinco días.",
+          "correctAnswer": "llega",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "llegar"
+        },
+        {
+          "id": "es-en-el-banco-verbs-5",
+          "promptBefore": "Se me",
+          "promptAfter": "mi NIP.",
+          "correctAnswer": "olvidó",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "olvidar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-en-el-banco-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-en-el-banco-order-1",
+          "chunks": [
+            "Quiero",
+            "abrir",
+            "una cuenta"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-el-banco-order-2",
+          "chunks": [
+            "¿Dónde",
+            "puedo",
+            "sacar",
+            "dinero"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-en-el-banco-order-3",
+          "chunks": [
+            "Mi tarjeta",
+            "está",
+            "bloqueada"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-en-el-banco-order-4",
+          "chunks": [
+            "¿Cuánto",
+            "cuesta",
+            "la cuenta"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-en-el-banco-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-en-el-banco-spelling-1",
+          "correct": "cuenta",
+          "wrong": "quenta"
+        },
+        {
+          "id": "es-en-el-banco-spelling-2",
+          "correct": "dinero",
+          "wrong": "dinnero"
+        },
+        {
+          "id": "es-en-el-banco-spelling-3",
+          "correct": "tarjeta",
+          "wrong": "targeta"
+        },
+        {
+          "id": "es-en-el-banco-spelling-4",
+          "correct": "efectivo",
+          "wrong": "efectibo"
+        },
+        {
+          "id": "es-en-el-banco-spelling-5",
+          "correct": "banco",
+          "wrong": "vanco"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

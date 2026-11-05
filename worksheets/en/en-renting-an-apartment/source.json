@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "6a18089a-eb6a-4d42-91fb-cc8f13bae27c",
+    "level": "A2"
+  },
+  "title": "Renting an Apartment",
+  "topic": "Looking for an apartment, viewing it and signing the lease",
+  "tasks": [
+    {
+      "id": "en-renting-an-apartment-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-renting-an-apartment-matching-1",
+          "term": "the rent",
+          "meaning": "The money you pay every month to live in an apartment."
+        },
+        {
+          "id": "en-renting-an-apartment-matching-2",
+          "term": "the landlord",
+          "meaning": "The person who owns the apartment and rents it out."
+        },
+        {
+          "id": "en-renting-an-apartment-matching-3",
+          "term": "the deposit",
+          "meaning": "Money you pay at the start and get back when you move out."
+        },
+        {
+          "id": "en-renting-an-apartment-matching-4",
+          "term": "the lease",
+          "meaning": "The contract between you and the landlord."
+        },
+        {
+          "id": "en-renting-an-apartment-matching-5",
+          "term": "the utilities",
+          "meaning": "Water, electricity and heating."
+        },
+        {
+          "id": "en-renting-an-apartment-matching-6",
+          "term": "the viewing",
+          "meaning": "A visit to see the apartment before you rent it."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-renting-an-apartment-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-renting-an-apartment-gap-1",
+          "promptBefore": "How much is the",
+          "promptAfter": "per month?",
+          "correctAnswer": "rent",
+          "options": [
+            "rent",
+            "deposit",
+            "landlord"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-renting-an-apartment-gap-2",
+          "promptBefore": "Are",
+          "promptAfter": "included in the rent?",
+          "correctAnswer": "utilities",
+          "options": [
+            "utilities",
+            "keys",
+            "neighbors"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-renting-an-apartment-gap-3",
+          "promptBefore": "The",
+          "promptAfter": "is two months' rent.",
+          "correctAnswer": "deposit",
+          "options": [
+            "deposit",
+            "viewing",
+            "lease"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-renting-an-apartment-gap-4",
+          "promptBefore": "When can I come for a",
+          "promptAfter": "?",
+          "correctAnswer": "viewing",
+          "options": [
+            "viewing",
+            "rent",
+            "landlord"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-renting-an-apartment-gap-5",
+          "promptBefore": "Please read the",
+          "promptAfter": "before you sign it.",
+          "correctAnswer": "lease",
+          "options": [
+            "lease",
+            "kitchen",
+            "deposit"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-renting-an-apartment-gap-6",
+          "promptBefore": "The apartment has two",
+          "promptAfter": "and a balcony.",
+          "correctAnswer": "bedrooms",
+          "options": [
+            "bedrooms",
+            "deposits",
+            "leases"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-renting-an-apartment-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-renting-an-apartment-verbs-1",
+          "promptBefore": "I am",
+          "promptAfter": "for a two-bedroom apartment.",
+          "correctAnswer": "looking",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "look"
+        },
+        {
+          "id": "en-renting-an-apartment-verbs-2",
+          "promptBefore": "When",
+          "promptAfter": "the apartment available?",
+          "correctAnswer": "is",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "be"
+        },
+        {
+          "id": "en-renting-an-apartment-verbs-3",
+          "promptBefore": "Can I",
+          "promptAfter": "pets?",
+          "correctAnswer": "keep",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "keep"
+        },
+        {
+          "id": "en-renting-an-apartment-verbs-4",
+          "promptBefore": "We",
+          "promptAfter": "the lease yesterday.",
+          "correctAnswer": "signed",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sign"
+        },
+        {
+          "id": "en-renting-an-apartment-verbs-5",
+          "promptBefore": "The landlord",
+          "promptAfter": "us the keys on Monday.",
+          "correctAnswer": "gives",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "give"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-renting-an-apartment-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-renting-an-apartment-order-1",
+          "chunks": [
+            "Is",
+            "the apartment",
+            "still",
+            "available"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-renting-an-apartment-order-2",
+          "chunks": [
+            "I would like",
+            "to see",
+            "the apartment"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-renting-an-apartment-order-3",
+          "chunks": [
+            "How much",
+            "is",
+            "the deposit"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-renting-an-apartment-order-4",
+          "chunks": [
+            "The rent",
+            "is due",
+            "on the first",
+            "of the month"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-renting-an-apartment-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-renting-an-apartment-spelling-1",
+          "correct": "apartment",
+          "wrong": "appartment"
+        },
+        {
+          "id": "en-renting-an-apartment-spelling-2",
+          "correct": "bedroom",
+          "wrong": "bedrom"
+        },
+        {
+          "id": "en-renting-an-apartment-spelling-3",
+          "correct": "deposit",
+          "wrong": "deposite"
+        },
+        {
+          "id": "en-renting-an-apartment-spelling-4",
+          "correct": "available",
+          "wrong": "avaliable"
+        },
+        {
+          "id": "en-renting-an-apartment-spelling-5",
+          "correct": "electricity",
+          "wrong": "electrisity"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

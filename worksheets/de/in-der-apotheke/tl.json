@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.434Z"
+  },
+  "title": "Sa botika",
+  "instructions": {
+    "in-der-apotheke-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "in-der-apotheke-gap": "Markahan ang angkop na salita.",
+    "in-der-apotheke-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "in-der-apotheke-table": "Kumpletuhin ang artikulo at ang plural.",
+    "in-der-apotheke-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "in-der-apotheke-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "reseta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "Ang papel mula sa doktor para sa gamot.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "tableta",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "Isang maliit na gamot na nilulunok.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "gamot sa ubo (syrup)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "Isang likidong gamot para sa ubo.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "pamahid (ointment)",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "Ipinapahid ito sa balat.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "side effect",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "Isang hindi gustong epekto ng gamot.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "leaflet sa loob ng pakete",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "Ang papel sa loob ng kahon ng gamot na may lahat ng impormasyon.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "co-payment",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "Isang maliit na halaga para sa reseta ang kayo mismo ang magbabayad.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "May reseta ako mula sa doktora ko.",
+      "answerText": "reseta"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "May gamot po ba kayo para sa masakit na lalamunan?",
+      "answerText": "masakit na lalamunan"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "Uminom ng dalawang tableta sa isang araw.",
+      "answerText": "tableta"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "Ang pamahid ay para sa balat.",
+      "answerText": "balat"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "Pakibasa po ang leaflet.",
+      "answerText": "leaflet"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "Halos walang side effect ang gamot.",
+      "answerText": "side effect"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "Tuwing weekend, may isang botika na naka-duty.",
+      "answerText": "botika"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "Inuubo ako mula pa kahapon.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "Gaano kadalas ko dapat inumin ang mga tableta?",
+      "answerText": "inumin"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "Oorderin namin ang gamot hanggang bukas.",
+      "answerText": "Oorderin"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "Ipahid ninyo ang pamahid dalawang beses sa isang araw.",
+      "answerText": "Ipahid"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "Uminom po kayo ng maraming tubig.",
+      "answerText": "Uminom"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "botika",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "gamot",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "pamahid",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "pakete",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "patak",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "May gamot po ba kayo para sa ubo?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "Gaano kadalas ko dapat inumin ang mga tableta?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "Kailangan ko ng gamot para sa sakit ng ulo.",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "Kailangan ko ba ng reseta para diyan?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "botika",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "gamot",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "plaster",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "side effect",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ubo",
+      "answerText": null
+    }
+  ]
+}

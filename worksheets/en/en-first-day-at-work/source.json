@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "41beb065-3d75-4beb-ac73-39e1590b6738",
+    "level": "A1"
+  },
+  "title": "First Day at Work",
+  "topic": "Meeting colleagues and asking questions",
+  "tasks": [
+    {
+      "id": "en-first-day-at-work-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-first-day-at-work-matching-1",
+          "term": "the colleague",
+          "meaning": "A person who works with you."
+        },
+        {
+          "id": "en-first-day-at-work-matching-2",
+          "term": "the manager",
+          "meaning": "The person who leads the team."
+        },
+        {
+          "id": "en-first-day-at-work-matching-3",
+          "term": "the break",
+          "meaning": "A short time when you stop working and rest."
+        },
+        {
+          "id": "en-first-day-at-work-matching-4",
+          "term": "the shift",
+          "meaning": "The hours when you work, for example from 6 to 2."
+        },
+        {
+          "id": "en-first-day-at-work-matching-5",
+          "term": "the badge",
+          "meaning": "A card with your name and photo that you wear at work."
+        },
+        {
+          "id": "en-first-day-at-work-matching-6",
+          "term": "the locker",
+          "meaning": "A small cupboard where you can keep your things."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-first-day-at-work-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-first-day-at-work-gap-1",
+          "promptBefore": "This is your",
+          "promptAfter": ". You can put your bag in it.",
+          "correctAnswer": "locker",
+          "options": [
+            "locker",
+            "shift",
+            "manager"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-first-day-at-work-gap-2",
+          "promptBefore": "My",
+          "promptAfter": "starts at eight o'clock.",
+          "correctAnswer": "shift",
+          "options": [
+            "shift",
+            "colleague",
+            "badge"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-first-day-at-work-gap-3",
+          "promptBefore": "Please wear your",
+          "promptAfter": "at all times.",
+          "correctAnswer": "badge",
+          "options": [
+            "badge",
+            "break",
+            "locker"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-first-day-at-work-gap-4",
+          "promptBefore": "We have a lunch",
+          "promptAfter": "at twelve.",
+          "correctAnswer": "break",
+          "options": [
+            "break",
+            "badge",
+            "manager"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-first-day-at-work-gap-5",
+          "promptBefore": "If you have a problem, talk to your",
+          "promptAfter": ".",
+          "correctAnswer": "manager",
+          "options": [
+            "manager",
+            "locker",
+            "shift"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-first-day-at-work-gap-6",
+          "promptBefore": "Nice to meet you. I'm your new",
+          "promptAfter": ".",
+          "correctAnswer": "colleague",
+          "options": [
+            "colleague",
+            "break",
+            "badge"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-first-day-at-work-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-first-day-at-work-verbs-1",
+          "promptBefore": "Hello, my name",
+          "promptAfter": "Sara.",
+          "correctAnswer": "is",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "be"
+        },
+        {
+          "id": "en-first-day-at-work-verbs-2",
+          "promptBefore": "Where",
+          "promptAfter": "I find the break room?",
+          "correctAnswer": "can",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "can"
+        },
+        {
+          "id": "en-first-day-at-work-verbs-3",
+          "promptBefore": "I",
+          "promptAfter": "in the warehouse.",
+          "correctAnswer": "work",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "work"
+        },
+        {
+          "id": "en-first-day-at-work-verbs-4",
+          "promptBefore": "Could you",
+          "promptAfter": "me the way to the office?",
+          "correctAnswer": "show",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "show"
+        },
+        {
+          "id": "en-first-day-at-work-verbs-5",
+          "promptBefore": "The meeting",
+          "promptAfter": "at ten.",
+          "correctAnswer": "starts",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "start"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-first-day-at-work-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-first-day-at-work-order-1",
+          "chunks": [
+            "Where",
+            "is",
+            "the break room"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-first-day-at-work-order-2",
+          "chunks": [
+            "I",
+            "am",
+            "the new colleague"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-first-day-at-work-order-3",
+          "chunks": [
+            "When",
+            "does",
+            "my shift",
+            "end"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-first-day-at-work-order-4",
+          "chunks": [
+            "Could you",
+            "explain",
+            "that",
+            "again"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-first-day-at-work-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-first-day-at-work-spelling-1",
+          "correct": "colleague",
+          "wrong": "collegue"
+        },
+        {
+          "id": "en-first-day-at-work-spelling-2",
+          "correct": "meeting",
+          "wrong": "meating"
+        },
+        {
+          "id": "en-first-day-at-work-spelling-3",
+          "correct": "schedule",
+          "wrong": "shedule"
+        },
+        {
+          "id": "en-first-day-at-work-spelling-4",
+          "correct": "tomorrow",
+          "wrong": "tommorow"
+        },
+        {
+          "id": "en-first-day-at-work-spelling-5",
+          "correct": "welcome",
+          "wrong": "wellcome"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

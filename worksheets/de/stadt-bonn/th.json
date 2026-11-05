@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:53.945Z"
+  },
+  "title": "บอนน์",
+  "instructions": {
+    "stadt-bonn-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-bonn-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-bonn-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-bonn-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-bonn-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-bonn-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "เมืองแห่งสหพันธ์ (บุนเดสชตัดท์)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "ตำแหน่งทางการของบอนน์ บอนน์เป็นเมืองหลวงจนถึงปี 1990",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "เบโทเฟิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "คีตกวีชื่อดัง เขาเกิดที่บอนน์ในปี 1770",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "ฮาริโบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "บริษัทผลิตเยลลี่หมี ชื่อมาจาก ฮันส์ รีเกิล บอนน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "ดอกซากุระ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "ในฤดูใบไม้ผลิ ต้นไม้หลายต้นในเมืองเก่าออกดอกเป็นสีชมพูทั้งต้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "บ้านแห่งประวัติศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "พิพิธภัณฑ์เกี่ยวกับประวัติศาสตร์เยอรมนีหลังปี 1945",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "\"ไวเบอร์ฟาสท์นัคท์\" (วันคาร์นิวัลของผู้หญิง)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "วันคาร์นิวัลของผู้หญิง ว่ากันว่าเริ่มต้นที่ย่านบ็อยเอิลของบอนน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "ภูเขาดราเคินเฟลส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "ภูเขาริมแม่น้ำไรน์ มีซากปราสาทและวิวสวยงาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "บอนน์เคยเป็นเมืองหลวงของสหพันธ์สาธารณรัฐเป็นเวลานาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "เบโทเฟินเกิดในบ้านหลังหนึ่งบนถนนบอนน์กัสเซอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "เดือนเมษายนต้นซากุระในเมืองเก่าออกดอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "พวกเราไปเยี่ยมชมบ้านแห่งประวัติศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "ลูกของฉันชอบกินเยลลี่หมีหนึ่งถุง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "ในวันไวเบอร์ฟาสท์นัคท์ ผู้หญิงจะตัดเนกไทของผู้ชาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "พวกเราเดินขึ้นภูเขาดราเคินเฟลส์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "เบโทเฟินถือกำเนิดที่บอนน์ในปี 1770",
+      "answerText": "ถือกำเนิด"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "ในฤดูใบไม้ผลิ ต้นซากุระออกดอกสีชมพู",
+      "answerText": "ออกดอก"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "เยลลี่หมีทำให้เด็ก ๆ มีความสุข",
+      "answerText": "ทำให้"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "ทุกวันนี้กระทรวงหลายแห่งยังอยู่ที่บอนน์",
+      "answerText": "ยังอยู่"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "แม่น้ำไรน์ไหลผ่านข้างเมือง",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "ต้นไม้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "ดอกไม้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "กระทรวง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "ถุง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "คีตกวี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "เนกไท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "เบโทเฟินเกิดที่บอนน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "เดือนเมษายนเมืองเก่าเป็นสีชมพูไปหมด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "คุณยังมีเยลลี่หมีเหลืออยู่ไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "สมัยก่อนบอนน์เป็นเมืองหลวง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "คีตกวี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "เนกไท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "ประวัติศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "ต้นไม้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "ดอกไม้",
+      "answerText": null
+    }
+  ]
+}

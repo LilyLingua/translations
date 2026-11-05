@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በፋርማሲ",
+  "instructions": {
+    "in-der-apotheke-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "in-der-apotheke-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "in-der-apotheke-verbs": "ትክክለኛውን ግሥ በትክክለኛው ቅጽ ይሙሉ።",
+    "in-der-apotheke-table": "መስተአምሩን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "in-der-apotheke-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "in-der-apotheke-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "የሐኪም ማዘዣ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "ለመድኃኒት ከሐኪሙ የሚሰጥ ወረቀት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "ኪኒን",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "የሚዋጥ ትንሽ መድኃኒት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "የሳል ሽሮፕ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "ለሳል የሚሆን ፈሳሽ መድኃኒት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "ቅባት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "በቆዳ ላይ ይቀቡታል።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "የጎንዮሽ ጉዳት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "የመድኃኒት ያልተፈለገ ውጤት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "የመድኃኒት መረጃ ወረቀት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "በመድኃኒቱ ሣጥን ውስጥ ያለ፣ ሁሉንም መረጃ የያዘ ወረቀት።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "የራስ ድርሻ ክፍያ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "ለሐኪም ማዘዣ ትንሽ ገንዘብ ራስዎ ይከፍላሉ።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "ከሐኪሜ የተሰጠኝ ማዘዣ አለኝ።",
+      "answerText": "ማዘዣ"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "ለጉሮሮ ሕመም የሚሆን ነገር አለዎት?",
+      "answerText": "ለጉሮሮ ሕመም"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "በቀን ሁለት ኪኒኖችን ይውሰዱ።",
+      "answerText": "ኪኒኖችን"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "ቅባቱ ለቆዳ ነው።",
+      "answerText": "ለቆዳ"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "እባክዎ የመድኃኒት መረጃ ወረቀቱን ያንብቡ።",
+      "answerText": "የመድኃኒት መረጃ ወረቀቱን"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "መድኃኒቱ የጎንዮሽ ጉዳት የለውም ማለት ይቻላል።",
+      "answerText": "የጎንዮሽ ጉዳት"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "ቅዳሜና እሑድ አንድ ፋርማሲ የአደጋ ጊዜ ተረኛ ነው።",
+      "answerText": "ፋርማሲ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "ከትናንት ጀምሮ ሳል አለብኝ።",
+      "answerText": "አለብኝ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "ኪኒኖቹን ስንት ጊዜ ልውሰድ?",
+      "answerText": "ልውሰድ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "መድኃኒቱን እስከ ነገ እናዝዛለን።",
+      "answerText": "እናዝዛለን"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "ቅባቱን በቀን ሁለት ጊዜ ይቀቡ።",
+      "answerText": "ይቀቡ"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "እባክዎ ብዙ ውሃ ይጠጡ።",
+      "answerText": "ይጠጡ"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "ፋርማሲ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "መድኃኒት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "ቅባት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "ፕላስተር",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "ፓኬት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "ጠብታ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "ለሳል የሚሆን ነገር አለዎት?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "ኪኒኖቹን ስንት ጊዜ ልውሰድ?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "ለራስ ምታት የሚሆን መድኃኒት ያስፈልገኛል።",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "ለዚህ የሐኪም ማዘዣ ያስፈልገኛል?",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "ፋርማሲ",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "መድኃኒት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "ፕላስተር",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "የጎንዮሽ ጉዳት",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "ሳል",
+      "answerText": null
+    }
+  ]
+}

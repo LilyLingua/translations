@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:38.539Z"
+  },
+  "title": "Termine am Telefon",
+  "instructions": {
+    "es-citas-por-telefono-matching": "Verbinde jedes Wort mit seiner Bedeutung.",
+    "es-citas-por-telefono-gap": "Wähle das richtige Wort.",
+    "es-citas-por-telefono-verbs": "Schreib das richtige Verb.",
+    "es-citas-por-telefono-order": "Ordne die Wörter und schreib den Satz.",
+    "es-citas-por-telefono-spelling": "Welches Wort ist richtig geschrieben? Kreuze es an."
+  },
+  "items": [
+    {
+      "id": "es-citas-por-telefono-matching-1",
+      "translation": "anrufen",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-1:meaning",
+      "translation": "Mit jemandem am Telefon sprechen.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-2",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-2:meaning",
+      "translation": "Sagen, dass du nicht kommst.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-3",
+      "translation": "den Termin verschieben",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-3:meaning",
+      "translation": "Den Termin auf einen anderen Tag oder eine andere Uhrzeit legen.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-4",
+      "translation": "die Mailbox",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-4:meaning",
+      "translation": "Dort hinterlässt du eine Nachricht, wenn niemand abnimmt.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-5",
+      "translation": "die Durchwahl",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-5:meaning",
+      "translation": "Eine kurze Nummer innerhalb einer Firma.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-6",
+      "translation": "frei",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-matching-6:meaning",
+      "translation": "Nicht beschäftigt.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-gap-1",
+      "translation": "Ich möchte meinen Termin am Freitag absagen.",
+      "answerText": "absagen"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-2",
+      "translation": "Können wir den Termin auf nächste Woche verschieben?",
+      "answerText": "verschieben"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-3",
+      "translation": "Ist der Arzt am Montag frei?",
+      "answerText": "frei"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-4",
+      "translation": "Hinterlassen Sie eine Nachricht auf der Mailbox.",
+      "answerText": "Mailbox"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-5",
+      "translation": "Können Sie mich später anrufen?",
+      "answerText": "anrufen"
+    },
+    {
+      "id": "es-citas-por-telefono-gap-6",
+      "translation": "Wählen Sie bitte die Durchwahl 245.",
+      "answerText": "Durchwahl"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-1",
+      "translation": "Guten Tag, hier spricht María López.",
+      "answerText": "spricht"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-2",
+      "translation": "Ich hätte gern einen Termin.",
+      "answerText": "hätte"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-3",
+      "translation": "Könnten Sie das bitte wiederholen?",
+      "answerText": "wiederholen"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-4",
+      "translation": "Ich rufe Sie in zehn Minuten an.",
+      "answerText": "rufe"
+    },
+    {
+      "id": "es-citas-por-telefono-verbs-5",
+      "translation": "Das Büro schließt um fünf.",
+      "answerText": "schließt"
+    },
+    {
+      "id": "es-citas-por-telefono-order-1",
+      "translation": "Kann ich mit Doktor Ruiz sprechen?",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-2",
+      "translation": "Ich möchte meinen Termin absagen.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-3",
+      "translation": "Passt Ihnen Dienstag um zehn?",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-order-4",
+      "translation": "Ich rufe Sie morgen früh an.",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-1",
+      "translation": "Nachricht",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-2",
+      "translation": "absagen",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-3",
+      "translation": "Anruf",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-4",
+      "translation": "frei",
+      "answerText": null
+    },
+    {
+      "id": "es-citas-por-telefono-spelling-5",
+      "translation": "Telefon",
+      "answerText": null
+    }
+  ]
+}

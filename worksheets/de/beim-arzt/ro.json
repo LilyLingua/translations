@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.939Z"
+  },
+  "title": "La medic",
+  "instructions": {
+    "beim-arzt-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "beim-arzt-gap": "Bifați cuvântul potrivit.",
+    "beim-arzt-verbs": "Completați cu verbul corect la forma corectă.",
+    "beim-arzt-table": "Completați articolul (der/die/das) și forma de plural.",
+    "beim-arzt-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "beim-arzt-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "cardul de sănătate",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Arăți acest card la recepție. Pe el scrie casa ta de asigurări de sănătate.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "programarea",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "O oră fixă la care vii la cabinet.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "sala de așteptare",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Aici stai până ești chemat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "rețeta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Cu ea primești un medicament la farmacie.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "concediul medical",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Angajatorul tău primește această hârtie când ești bolnav.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "febra",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Temperatura corpului e prea mare, de exemplu 39 de grade.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Corpul reacționează puternic la ceva, de exemplu la penicilină.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "apelul de urgență",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Numărul 112 – la un accident sau într-o urgență.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Bună ziua, aș dori să fac o programare.",
+      "answerText": "programare"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Aveți cardul de sănătate la dumneavoastră?",
+      "answerText": "cardul de sănătate"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Vă rog să luați loc în sala de așteptare.",
+      "answerText": "sala de așteptare"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Am dureri de cap și febră.",
+      "answerText": "dureri de cap"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Mă doare burta.",
+      "answerText": "burta"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Sunt alergic la penicilină.",
+      "answerText": "penicilină"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Am nevoie de un concediu medical pentru angajator.",
+      "answerText": "concediu medical"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Luați comprimatele de trei ori pe zi după masă.",
+      "answerText": "masă"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Puteți să spuneți asta mai rar, vă rog?",
+      "answerText": "spuneți"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Am febră de trei zile.",
+      "answerText": "Am"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Mă doare foarte tare capul.",
+      "answerText": "doare"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Vă rog să inspirați adânc – și apoi expirați.",
+      "answerText": "inspirați"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Doamna doctor îmi dă o rețetă.",
+      "answerText": "dă"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Vă chemăm imediat.",
+      "answerText": "chemăm"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "medicul",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "comprimatul",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "rețeta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "programarea",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "cabinetul medical",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "medicamentul",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Aș dori să fac o programare.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Am febră de trei zile.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Puteți repeta, vă rog?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Unde vă doare?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "dureri de cap",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "concediu medical",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "card de sănătate",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alergic",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "comprimat",
+      "answerText": null
+    }
+  ]
+}

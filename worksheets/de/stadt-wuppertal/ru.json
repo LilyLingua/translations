@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:14.320Z"
+  },
+  "title": "Вупперталь",
+  "instructions": {
+    "stadt-wuppertal-matching": "Соедините каждое слово с правильным объяснением.",
+    "stadt-wuppertal-gap": "Отметьте правильное слово.",
+    "stadt-wuppertal-verbs": "Вставьте правильный глагол в правильной форме.",
+    "stadt-wuppertal-table": "Допишите артикль и форму множественного числа.",
+    "stadt-wuppertal-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "stadt-wuppertal-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "подвесная дорога",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Поезд, который висит на рельсах и едет над рекой, – с 1901 года.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "Туффи",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "Молодая слониха, которая в 1950 году выпрыгнула из подвесной дороги в Вуппер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "Вуппер",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Река, которая течёт через весь город.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Пина Бауш",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Знаменитая танцовщица; её театр танца из Вупперталя известен во всём мире.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "лестницы",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "В Вуппертале очень много общественных лестниц, потому что город расположен на склонах.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Фридрих Энгельс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Мыслитель и друг Карла Маркса; он родился в районе Бармен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "Нордбантрассе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Велодорожка на старой железнодорожной линии, с тоннелями и мостами.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "Подвесная дорога едет над Вуппером.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "В 1950 году из подвесной дороги выпрыгнул слон.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Мы едем на велосипеде по Нордбантрассе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Фридрих Энгельс родился в районе Бармен.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Мы поднимаемся по лестнице.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "Театр танца известен во всём мире.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Туффи упала в реку.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "Подвесная дорога висит на рельсах над рекой.",
+      "answerText": "висит"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Туффи упала в Вуппер.",
+      "answerText": "упала"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "В Вуппертале есть очень много лестниц.",
+      "answerText": "есть"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "Подвесная дорога ездит уже более 120 лет.",
+      "answerText": "ездит"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Многие велосипедисты пользуются Нордбантрассе.",
+      "answerText": "пользуются"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "железная дорога",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "слон",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "лестница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "велосипед",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "станция",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "Подвесная дорога висит над Вуппером.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "Каждый день много людей ездит на подвесной дороге.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "Ты знаешь историю Туффи?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "В Вуппертале очень много лестниц.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "слон",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "лестница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "река",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "рельс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "станция",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.447Z"
+  },
+  "title": "عند الطبيب",
+  "instructions": {
+    "beim-arzt-matching": "صِل كل كلمة بالشرح المناسب.",
+    "beim-arzt-gap": "ضع علامة على الكلمة المناسبة.",
+    "beim-arzt-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "beim-arzt-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "beim-arzt-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "beim-arzt-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "بطاقة التأمين الصحي",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "تُظهر هذه البطاقة في الاستقبال. عليها اسم شركة تأمينك الصحي.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "الموعد",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "وقت محدد تأتي فيه إلى العيادة.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "غرفة الانتظار",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "تجلس هنا حتى يُنادى عليك.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "الوصفة الطبية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "بها تحصل على دواء من الصيدلية.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "الإجازة المرضية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "يحصل صاحب العمل على هذه الورقة عندما تكون مريضًا.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "الحمّى",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "حرارة الجسم مرتفعة جدًا، مثلًا 39 درجة.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "الحساسية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "يتفاعل الجسم بقوة مع شيء ما، مثلًا مع البنسلين.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "اتصال الطوارئ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "الرقم 112 – عند حادث أو في حالة طارئة.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "مرحبًا، أريد أن أحجز موعدًا.",
+      "answerText": "موعدًا"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "هل معك بطاقة التأمين الصحي؟",
+      "answerText": "بطاقة التأمين الصحي"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "من فضلك، اجلس في غرفة الانتظار.",
+      "answerText": "غرفة الانتظار"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "عندي صداع وحمّى.",
+      "answerText": "صداع"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "بطني يؤلمني.",
+      "answerText": "بطني"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "عندي حساسية من البنسلين.",
+      "answerText": "البنسلين"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "أحتاج إجازة مرضية لصاحب العمل.",
+      "answerText": "إجازة مرضية"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "تناول الأقراص ثلاث مرات يوميًا بعد الأكل.",
+      "answerText": "الأكل"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "هل يمكنك أن تقول ذلك ببطء أكثر من فضلك؟",
+      "answerText": "تقول"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "عندي حمّى منذ ثلاثة أيام.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "رأسي يؤلمني كثيرًا.",
+      "answerText": "يؤلمني"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "من فضلك، خذ نفسًا عميقًا – ثم أخرجه.",
+      "answerText": "خذ نفسًا"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "الطبيبة تعطيني وصفة طبية.",
+      "answerText": "تعطيني"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "سننادي عليك بعد قليل.",
+      "answerText": "سننادي"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "الطبيب",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "القرص",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "الوصفة الطبية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "الموعد",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "العيادة",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "الدواء",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "أريد أن أحجز موعدًا.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "عندي حمّى منذ ثلاثة أيام.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "هل يمكنك أن تكرر ذلك من فضلك؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "أين يؤلمك؟",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "صداع",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "إجازة مرضية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "بطاقة التأمين الصحي",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "عنده حساسية",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "قرص",
+      "answerText": null
+    }
+  ]
+}

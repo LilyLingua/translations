@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "0150ab05-f4e8-4908-bf3d-ca9be5f7b64c",
+    "level": "A1"
+  },
+  "title": "Primer día de trabajo",
+  "topic": "Conocer a los compañeros y hacer preguntas",
+  "tasks": [
+    {
+      "id": "es-primer-dia-de-trabajo-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-primer-dia-de-trabajo-matching-1",
+          "term": "el compañero",
+          "meaning": "Una persona que trabaja contigo."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-matching-2",
+          "term": "el jefe",
+          "meaning": "La persona que dirige el equipo."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-matching-3",
+          "term": "el descanso",
+          "meaning": "Un rato corto para descansar en el trabajo."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-matching-4",
+          "term": "el turno",
+          "meaning": "Las horas en que trabajas, por ejemplo de 7 a 3."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-matching-5",
+          "term": "el gafete",
+          "meaning": "Una tarjeta con tu nombre y foto que llevas en el trabajo."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-matching-6",
+          "term": "el casillero",
+          "meaning": "Un mueble pequeño donde guardas tus cosas."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-primer-dia-de-trabajo-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-primer-dia-de-trabajo-gap-1",
+          "promptBefore": "Este es tu",
+          "promptAfter": ". Aquí puedes dejar tu mochila.",
+          "correctAnswer": "casillero",
+          "options": [
+            "casillero",
+            "turno",
+            "jefe"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-gap-2",
+          "promptBefore": "Mi",
+          "promptAfter": "empieza a las siete.",
+          "correctAnswer": "turno",
+          "options": [
+            "turno",
+            "gafete",
+            "casillero"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-gap-3",
+          "promptBefore": "Por favor, usa tu",
+          "promptAfter": "todo el día.",
+          "correctAnswer": "gafete",
+          "options": [
+            "gafete",
+            "descanso",
+            "turno"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-gap-4",
+          "promptBefore": "Tenemos un",
+          "promptAfter": "de media hora para comer.",
+          "correctAnswer": "descanso",
+          "options": [
+            "descanso",
+            "gafete",
+            "jefe"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-gap-5",
+          "promptBefore": "Si tienes un problema, habla con tu",
+          "promptAfter": ".",
+          "correctAnswer": "jefe",
+          "options": [
+            "jefe",
+            "casillero",
+            "turno"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-gap-6",
+          "promptBefore": "Mucho gusto, soy tu nuevo",
+          "promptAfter": ".",
+          "correctAnswer": "compañero",
+          "options": [
+            "compañero",
+            "descanso",
+            "gafete"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-primer-dia-de-trabajo-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-primer-dia-de-trabajo-verbs-1",
+          "promptBefore": "Hola, me",
+          "promptAfter": "Ana.",
+          "correctAnswer": "llamo",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "llamarse"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-verbs-2",
+          "promptBefore": "¿Dónde",
+          "promptAfter": "el comedor?",
+          "correctAnswer": "está",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "estar"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "en el almacén.",
+          "correctAnswer": "Trabajo",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "trabajar"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-verbs-4",
+          "promptBefore": "¿Me puedes",
+          "promptAfter": "la oficina?",
+          "correctAnswer": "enseñar",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "enseñar"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-verbs-5",
+          "promptBefore": "La junta",
+          "promptAfter": "a las diez.",
+          "correctAnswer": "empieza",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "empezar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-primer-dia-de-trabajo-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-primer-dia-de-trabajo-order-1",
+          "chunks": [
+            "¿Dónde",
+            "está",
+            "el comedor"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-order-2",
+          "chunks": [
+            "Soy",
+            "el nuevo",
+            "compañero"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-order-3",
+          "chunks": [
+            "¿A qué hora",
+            "termina",
+            "mi turno"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-order-4",
+          "chunks": [
+            "¿Me lo",
+            "puedes",
+            "explicar",
+            "otra vez"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-primer-dia-de-trabajo-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-primer-dia-de-trabajo-spelling-1",
+          "correct": "compañero",
+          "wrong": "conpañero"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-spelling-2",
+          "correct": "trabajo",
+          "wrong": "travajo"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-spelling-3",
+          "correct": "horario",
+          "wrong": "orario"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-spelling-4",
+          "correct": "oficina",
+          "wrong": "ofisina"
+        },
+        {
+          "id": "es-primer-dia-de-trabajo-spelling-5",
+          "correct": "bienvenido",
+          "wrong": "vienvenido"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

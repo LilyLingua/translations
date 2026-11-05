@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "922e6d0d-063f-48f3-943a-bad649fd7b18",
+    "level": "A2"
+  },
+  "title": "Termine am Telefon",
+  "topic": "Anrufen, Termine machen, verschieben und absagen",
+  "tasks": [
+    {
+      "id": "termine-am-telefon-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "termine-am-telefon-matching-1",
+          "term": "der Anrufbeantworter",
+          "meaning": "Hier können Sie eine Nachricht hinterlassen."
+        },
+        {
+          "id": "termine-am-telefon-matching-2",
+          "term": "die Durchwahl",
+          "meaning": "Die direkte Telefonnummer einer Person in einer Firma."
+        },
+        {
+          "id": "termine-am-telefon-matching-3",
+          "term": "zurückrufen",
+          "meaning": "Jemanden später anrufen, weil er vorher angerufen hat."
+        },
+        {
+          "id": "termine-am-telefon-matching-4",
+          "term": "verschieben",
+          "meaning": "Einen Termin auf einen anderen Tag legen."
+        },
+        {
+          "id": "termine-am-telefon-matching-5",
+          "term": "absagen",
+          "meaning": "Sagen, dass man zu einem Termin nicht kommt."
+        },
+        {
+          "id": "termine-am-telefon-matching-6",
+          "term": "die Sprechzeiten",
+          "meaning": "Die Zeiten, in denen man jemanden erreichen kann."
+        },
+        {
+          "id": "termine-am-telefon-matching-7",
+          "term": "buchstabieren",
+          "meaning": "Ein Wort Buchstabe für Buchstabe sagen."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "termine-am-telefon-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "termine-am-telefon-gap-1",
+          "promptBefore": "Haben Sie",
+          "promptAfter": "Montag Zeit?",
+          "correctAnswer": "am",
+          "options": [
+            "im",
+            "am",
+            "um"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-2",
+          "promptBefore": "Geht es",
+          "promptAfter": "10 Uhr?",
+          "correctAnswer": "um",
+          "options": [
+            "am",
+            "um",
+            "im"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-3",
+          "promptBefore": "Ich habe erst",
+          "promptAfter": "Dezember Zeit.",
+          "correctAnswer": "im",
+          "options": [
+            "im",
+            "um",
+            "am"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-4",
+          "promptBefore": "Die Praxis ist",
+          "promptAfter": "Wochenende geschlossen.",
+          "correctAnswer": "am",
+          "options": [
+            "am",
+            "im",
+            "um"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-5",
+          "promptBefore": "Ich rufe Sie",
+          "promptAfter": "einer Stunde zurück.",
+          "correctAnswer": "in",
+          "options": [
+            "seit",
+            "in",
+            "vor"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-6",
+          "promptBefore": "Ich warte schon",
+          "promptAfter": "zwei Wochen auf einen Termin.",
+          "correctAnswer": "seit",
+          "options": [
+            "in",
+            "seit",
+            "um"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "termine-am-telefon-gap-7",
+          "promptBefore": "Bitte kommen Sie zehn Minuten",
+          "promptAfter": "dem Termin.",
+          "correctAnswer": "vor",
+          "options": [
+            "vor",
+            "in",
+            "seit"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie die richtige Präposition an."
+    },
+    {
+      "id": "termine-am-telefon-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "termine-am-telefon-verbs-1",
+          "promptBefore": "Kann ich bitte mit Frau Weber",
+          "promptAfter": "?",
+          "correctAnswer": "sprechen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sprechen"
+        },
+        {
+          "id": "termine-am-telefon-verbs-2",
+          "promptBefore": "Ich muss meinen Termin leider",
+          "promptAfter": ".",
+          "correctAnswer": "absagen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "absagen"
+        },
+        {
+          "id": "termine-am-telefon-verbs-3",
+          "promptBefore": "Können Sie mich bitte",
+          "promptAfter": "?",
+          "correctAnswer": "zurückrufen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zurückrufen"
+        },
+        {
+          "id": "termine-am-telefon-verbs-4",
+          "promptBefore": "Ich",
+          "promptAfter": "Ihnen meine Nummer.",
+          "correctAnswer": "gebe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "geben"
+        },
+        {
+          "id": "termine-am-telefon-verbs-5",
+          "promptBefore": "Wie",
+          "promptAfter": "man Ihren Namen?",
+          "correctAnswer": "schreibt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schreiben"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "termine-am-telefon-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "termine-am-telefon-table-1",
+          "article": "der",
+          "singular": "Anruf",
+          "plural": "Anrufe"
+        },
+        {
+          "id": "termine-am-telefon-table-2",
+          "article": "die",
+          "singular": "Nummer",
+          "plural": "Nummern"
+        },
+        {
+          "id": "termine-am-telefon-table-3",
+          "article": "die",
+          "singular": "Nachricht",
+          "plural": "Nachrichten"
+        },
+        {
+          "id": "termine-am-telefon-table-4",
+          "article": "das",
+          "singular": "Telefon",
+          "plural": "Telefone"
+        },
+        {
+          "id": "termine-am-telefon-table-5",
+          "article": "die",
+          "singular": "Uhrzeit",
+          "plural": "Uhrzeiten"
+        },
+        {
+          "id": "termine-am-telefon-table-6",
+          "article": "das",
+          "singular": "Handy",
+          "plural": "Handys"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "termine-am-telefon-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "termine-am-telefon-order-1",
+          "chunks": [
+            "Ich",
+            "möchte",
+            "einen Termin",
+            "verschieben"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "termine-am-telefon-order-2",
+          "chunks": [
+            "Wann",
+            "haben",
+            "Sie",
+            "Zeit"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "termine-am-telefon-order-3",
+          "chunks": [
+            "Ich",
+            "rufe",
+            "morgen",
+            "noch einmal",
+            "an"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "termine-am-telefon-order-4",
+          "chunks": [
+            "Passt",
+            "Ihnen",
+            "Donnerstag",
+            "um 9 Uhr"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "termine-am-telefon-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "termine-am-telefon-spelling-1",
+          "correct": "Nachricht",
+          "wrong": "Nachrigt"
+        },
+        {
+          "id": "termine-am-telefon-spelling-2",
+          "correct": "Telefon",
+          "wrong": "Telephon"
+        },
+        {
+          "id": "termine-am-telefon-spelling-3",
+          "correct": "Termin",
+          "wrong": "Thermin"
+        },
+        {
+          "id": "termine-am-telefon-spelling-4",
+          "correct": "zurückrufen",
+          "wrong": "zurükrufen"
+        },
+        {
+          "id": "termine-am-telefon-spelling-5",
+          "correct": "Uhrzeit",
+          "wrong": "Uhrzeid"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

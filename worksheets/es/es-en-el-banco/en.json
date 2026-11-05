@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.296Z"
+  },
+  "title": "At the Bank",
+  "instructions": {
+    "es-en-el-banco-matching": "Match each word with its meaning.",
+    "es-en-el-banco-gap": "Choose the right word.",
+    "es-en-el-banco-verbs": "Write the correct verb.",
+    "es-en-el-banco-order": "Put the words in order and write the sentence.",
+    "es-en-el-banco-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-en-el-banco-matching-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-1:meaning",
+      "translation": "A place at the bank where your money is.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-2",
+      "translation": "debit card",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-2:meaning",
+      "translation": "A card for paying with the money in your account.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-3",
+      "translation": "PIN",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-3:meaning",
+      "translation": "A secret number for your card.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-4",
+      "translation": "ATM",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-4:meaning",
+      "translation": "A machine where you get cash.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-5",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-5:meaning",
+      "translation": "When you send money to another account.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-6",
+      "translation": "balance",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-matching-6:meaning",
+      "translation": "How much money is in your account.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-gap-1",
+      "translation": "I'd like to open an account.",
+      "answerText": "account"
+    },
+    {
+      "id": "es-en-el-banco-gap-2",
+      "translation": "Please enter your PIN.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "es-en-el-banco-gap-3",
+      "translation": "Where is the nearest ATM?",
+      "answerText": "ATM"
+    },
+    {
+      "id": "es-en-el-banco-gap-4",
+      "translation": "I want to make a transfer to my landlord.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "es-en-el-banco-gap-5",
+      "translation": "How do I check my balance?",
+      "answerText": "balance"
+    },
+    {
+      "id": "es-en-el-banco-gap-6",
+      "translation": "My debit card isn't working.",
+      "answerText": "debit"
+    },
+    {
+      "id": "es-en-el-banco-verbs-1",
+      "translation": "I want to open an account.",
+      "answerText": "want"
+    },
+    {
+      "id": "es-en-el-banco-verbs-2",
+      "translation": "Can I withdraw cash here?",
+      "answerText": "withdraw"
+    },
+    {
+      "id": "es-en-el-banco-verbs-3",
+      "translation": "Please sign this form.",
+      "answerText": "sign"
+    },
+    {
+      "id": "es-en-el-banco-verbs-4",
+      "translation": "The card arrives in five days.",
+      "answerText": "arrives"
+    },
+    {
+      "id": "es-en-el-banco-verbs-5",
+      "translation": "I forgot my PIN.",
+      "answerText": "forgot"
+    },
+    {
+      "id": "es-en-el-banco-order-1",
+      "translation": "I want to open an account.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-2",
+      "translation": "Where can I get money?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-3",
+      "translation": "My card is blocked.",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-order-4",
+      "translation": "How much does the account cost?",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-2",
+      "translation": "money",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-3",
+      "translation": "card",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-4",
+      "translation": "cash",
+      "answerText": null
+    },
+    {
+      "id": "es-en-el-banco-spelling-5",
+      "translation": "bank",
+      "answerText": null
+    }
+  ]
+}

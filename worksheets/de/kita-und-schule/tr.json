@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.559Z"
+  },
+  "title": "Kreş ve Okul",
+  "instructions": {
+    "kita-und-schule-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "kita-und-schule-gap": "Uygun kelimeyi işaretleyin.",
+    "kita-und-schule-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "kita-und-schule-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "kita-und-schule-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "kita-und-schule-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "veli toplantısı",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "Velilerin öğretmenlerle yaptığı bir toplantı.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "kreş",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "Burada küçük çocuklara gün boyunca bakılır.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "sınıf öğretmeni (kadın)",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "Bir sınıftan sorumludur.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "karne",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "Okul yılının sonundaki notlar burada yazar.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "mazeret yazısı",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "Çocuğunuz hasta olduğunda okula yazılan kısa bir mektup.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "tatil",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "Okulun olmadığı zaman, örneğin yazın.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "gezi",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "Sınıf birlikte başka bir yere gider.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "Oğlum hasta. Bugün okula gelemiyor.",
+      "answerText": "okula"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "Veli toplantısında veliler öğretmenle konuşuyor.",
+      "answerText": "Veli toplantısında"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "Yazın çocukların altı hafta tatili var.",
+      "answerText": "tatili"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "Okul yılının sonunda kızım bir karne alıyor.",
+      "answerText": "karne"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "Çocuğum hasta olduğu için öğretmene bir mazeret yazısı yazıyorum.",
+      "answerText": "mazeret yazısı"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "Çocuklar her gün ödev yapmak zorunda.",
+      "answerText": "ödev"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "Çocuğum üç yaşında ve kreşe gidiyor.",
+      "answerText": "kreşe"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "Çocuğumu saat 16'da alıyorum.",
+      "answerText": "alıyorum"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "Kızım bugün maalesef hasta.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "Bir randevu ayarlayabilir miyiz?",
+      "answerText": "ayarlayabilir"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "Dersler saat 8'de başlıyor.",
+      "answerText": "başlıyor"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "Lütfen formu cumaya kadar imzalayın.",
+      "answerText": "imzalayın"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "çocuk",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "sınıf",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "öğretmen",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "defter",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "not",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "kalem",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "Oğlum bugün hasta.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "Veli toplantısı ne zaman başlıyor?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "Kızımı saat 15'te alıyorum.",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "Çocuğumun gezi için bir şeye ihtiyacı var mı?",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "veli toplantısı",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "karne",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "mazeret yazısı",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "ödev",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "sınıf öğretmeni",
+      "answerText": null
+    }
+  ]
+}

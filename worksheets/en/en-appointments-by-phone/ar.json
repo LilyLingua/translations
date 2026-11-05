@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:43.840Z"
+  },
+  "title": "المواعيد عبر الهاتف",
+  "instructions": {
+    "en-appointments-by-phone-matching": "صِل كل كلمة بمعناها.",
+    "en-appointments-by-phone-gap": "اختر الكلمة الصحيحة.",
+    "en-appointments-by-phone-verbs": "اكتب الفعل الصحيح.",
+    "en-appointments-by-phone-order": "رتّب الكلمات بالترتيب الصحيح واكتب الجملة.",
+    "en-appointments-by-phone-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة عليها."
+  },
+  "items": [
+    {
+      "id": "en-appointments-by-phone-matching-1",
+      "translation": "يتصل",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-1:meaning",
+      "translation": "يتحدث مع شخص عبر الهاتف.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2",
+      "translation": "يلغي",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2:meaning",
+      "translation": "يقول إنه لن يأتي.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3",
+      "translation": "يؤجّل",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3:meaning",
+      "translation": "يغيّر وقت الموعد.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4",
+      "translation": "البريد الصوتي",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4:meaning",
+      "translation": "رسالة تتركها عندما لا يردّ أحد.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5",
+      "translation": "الرقم الداخلي",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5:meaning",
+      "translation": "رقم هاتف قصير داخل الشركة.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6",
+      "translation": "متاح",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6:meaning",
+      "translation": "غير مشغول.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-gap-1",
+      "translation": "أريد أن ألغي موعدي يوم الجمعة.",
+      "answerText": "ألغي"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-2",
+      "translation": "هل يمكننا أن نؤجّله إلى الأسبوع القادم؟",
+      "answerText": "نؤجّله"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-3",
+      "translation": "هل الطبيب متاح يوم الاثنين؟",
+      "answerText": "متاح"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-4",
+      "translation": "من فضلك اترك رسالة في البريد الصوتي.",
+      "answerText": "البريد الصوتي"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-5",
+      "translation": "هل يمكنك أن تعاود الاتصال بي لاحقًا؟",
+      "answerText": "تعاود"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-6",
+      "translation": "من فضلك اطلب الرقم الداخلي اثنان أربعة خمسة.",
+      "answerText": "الرقم الداخلي"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-1",
+      "translation": "مرحبًا، معك ماريا لوبيز.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-2",
+      "translation": "أحتاج إلى موعد.",
+      "answerText": "أحتاج"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-3",
+      "translation": "هل يمكنك أن تكرّر ذلك من فضلك؟",
+      "answerText": "تكرّر"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-4",
+      "translation": "سأتصل بك بعد عشر دقائق.",
+      "answerText": "سأتصل"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-5",
+      "translation": "يُغلق المكتب في الساعة الخامسة.",
+      "answerText": "يُغلق"
+    },
+    {
+      "id": "en-appointments-by-phone-order-1",
+      "translation": "هل يمكنني التحدث مع الدكتور براون؟",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-2",
+      "translation": "أودّ أن ألغي موعدي.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-3",
+      "translation": "هل يناسبك الثلاثاء في العاشرة؟",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-4",
+      "translation": "من فضلك اتصل بي لاحقًا.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-1",
+      "translation": "متاح",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-2",
+      "translation": "رسالة",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-3",
+      "translation": "الأربعاء",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-4",
+      "translation": "يلغي",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-5",
+      "translation": "هاتف",
+      "answerText": null
+    }
+  ]
+}

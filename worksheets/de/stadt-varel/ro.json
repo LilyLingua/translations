@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:57:53.578Z"
+  },
+  "title": "Varel",
+  "instructions": {
+    "stadt-varel-matching": "Potriviți fiecare cuvânt cu explicația corectă.",
+    "stadt-varel-gap": "Bifați cuvântul corect.",
+    "stadt-varel-verbs": "Completați verbul corect în forma corectă.",
+    "stadt-varel-table": "Completați articolul și forma de plural.",
+    "stadt-varel-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "stadt-varel-spelling": "Care cuvânt este scris corect? Bifați-l."
+  },
+  "items": [
+    {
+      "id": "stadt-varel-matching-1",
+      "translation": "moara de vânt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-1:meaning",
+      "translation": "Construită în 1847/48; cu 39 de metri, una dintre cele mai înalte mori de vânt din Germania.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2",
+      "translation": "turnul de apă",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-2:meaning",
+      "translation": "Simbolul orașului Varel, înalt de peste 50 de metri; de sus ai o priveliște largă.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3",
+      "translation": "Jadebusen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-3:meaning",
+      "translation": "Golf mare al Mării Nordului, chiar în fața orașului Varel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4",
+      "translation": "Dangast",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-4:meaning",
+      "translation": "Mică stațiune la Marea Nordului, care aparține de Varel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5",
+      "translation": "prăjitura cu rubarbă",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-5:meaning",
+      "translation": "Prăjitură celebră de la vechea casă de cură (Kurhaus) din Dangast.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6",
+      "translation": "Biserica Castelului",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-6:meaning",
+      "translation": "Cea mai veche clădire a orașului, cu un altar de lemn înalt de aproape 10 metri.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7",
+      "translation": "„Watt” (zona de maree)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-matching-7:meaning",
+      "translation": "Fundul mării, pe care poți merge pe jos la reflux.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-1",
+      "translation": "Varel se află la Jadebusen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-2",
+      "translation": "De pe turnul de apă se vede tot orașul.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-3",
+      "translation": "La Kurhaus din Dangast mâncăm o felie de prăjitură cu rubarbă.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-4",
+      "translation": "La reflux mergem pe jos prin Watt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-5",
+      "translation": "În Biserica Castelului se află un altar foarte vechi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-6",
+      "translation": "Vizităm moara de vânt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-gap-7",
+      "translation": "În port stau vasele de pescuit creveți.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-verbs-1",
+      "translation": "Moara de vânt este una dintre cele mai înalte din Germania.",
+      "answerText": "este"
+    },
+    {
+      "id": "stadt-varel-verbs-2",
+      "translation": "La reflux apa se retrage.",
+      "answerText": "retrage"
+    },
+    {
+      "id": "stadt-varel-verbs-3",
+      "translation": "Mulți turiști merg vara la Dangast.",
+      "answerText": "merg"
+    },
+    {
+      "id": "stadt-varel-verbs-4",
+      "translation": "Turnul de apă alimentează și astăzi orașul Varel cu apă.",
+      "answerText": "alimentează"
+    },
+    {
+      "id": "stadt-varel-verbs-5",
+      "translation": "La Kurhaus se comandă prăjitură cu rubarbă.",
+      "answerText": "comandă"
+    },
+    {
+      "id": "stadt-varel-table-1",
+      "translation": "moara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-2",
+      "translation": "aripa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-3",
+      "translation": "cuterul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-4",
+      "translation": "golful",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-5",
+      "translation": "malul",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-table-6",
+      "translation": "plaja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-1",
+      "translation": "Varel se află la Jadebusen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-2",
+      "translation": "La reflux mergem pe jos prin Watt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-3",
+      "translation": "Ai fost deja sus pe turnul de apă?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-order-4",
+      "translation": "La Dangast mulți mănâncă prăjitură cu rubarbă.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-1",
+      "translation": "moară",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-2",
+      "translation": "rubarbă",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-3",
+      "translation": "reflux",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-4",
+      "translation": "aripă",
+      "answerText": null
+    },
+    {
+      "id": "stadt-varel-spelling-5",
+      "translation": "plajă",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.111Z"
+  },
+  "title": "सरकारी दफ़्तर में",
+  "instructions": {
+    "auf-dem-amt-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "auf-dem-amt-gap": "सही शब्द पर निशान लगाइए।",
+    "auf-dem-amt-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "auf-dem-amt-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "auf-dem-amt-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "auf-dem-amt-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "पते का पंजीकरण",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "आप दफ़्तर को अपना नया पता बताते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "टोकन नंबर",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "यह नंबर आप मशीन से लेते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "पासपोर्ट",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "विदेश यात्रा के लिए पहचान दस्तावेज़।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "मकान मालिक की पुष्टि",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "पंजीकरण के लिए मकान मालिक से यह काग़ज़ चाहिए।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "निवास प्रमाण पत्र",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "यह काग़ज़ दिखाता है कि आप अब इस पते पर रहते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "वैवाहिक स्थिति",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "अविवाहित, विवाहित, तलाक़शुदा या विधुर/विधवा",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "हस्ताक्षर",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "हाथ से लिखा आपका नाम।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "फ़ॉर्म",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "भरने के लिए खानों वाला काग़ज़।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "मैं अपने नए फ़्लैट का पंजीकरण कराना चाहता हूँ।",
+      "answerText": "फ़्लैट"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "कृपया मशीन से एक नंबर लीजिए।",
+      "answerText": "नंबर"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "नंबर 147, कृपया काउंटर 12 पर आइए।",
+      "answerText": "काउंटर"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "यह मेरे मकान मालिक की पुष्टि है।",
+      "answerText": "मकान मालिक"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "क्या आपके पास पहचान पत्र है?",
+      "answerText": "पहचान पत्र"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "कृपया फ़ॉर्म पूरा भरिए।",
+      "answerText": "फ़ॉर्म"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "आपको निवास प्रमाण पत्र अक्सर फिर से चाहिए होगा, जैसे बैंक खाते के लिए।",
+      "answerText": "निवास प्रमाण पत्र"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "आज मैं अपना पंजीकरण कराता हूँ।",
+      "answerText": "पंजीकरण कराता"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "मुझे कहाँ हस्ताक्षर करने हैं?",
+      "answerText": "हस्ताक्षर करने"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "मैं अपने नाम की वर्तनी बताता हूँ: N – O – W – A – K।",
+      "answerText": "वर्तनी बताता"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "कृपया बैठिए।",
+      "answerText": "बैठिए"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "प्रक्रिया में लगभग दो हफ़्ते लगते हैं।",
+      "answerText": "लगते"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "सरकारी दफ़्तर",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "पहचान पत्र",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "फ़्लैट",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "फ़ॉर्म",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "मकान मालिक",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "पता",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "मैं पंजीकरण कराना चाहता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "मुझे कहाँ हस्ताक्षर करने हैं?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "यह मेरा पासपोर्ट है।",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "क्या मुझे और कुछ चाहिए?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "निवास प्रमाण पत्र",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "पासपोर्ट",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "अविवाहित",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "मकान मालिक",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "पता",
+      "answerText": null
+    }
+  ]
+}

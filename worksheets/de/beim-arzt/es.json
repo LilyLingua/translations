@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:22.570Z"
+  },
+  "title": "En el médico",
+  "instructions": {
+    "beim-arzt-matching": "Une cada palabra con la explicación correcta.",
+    "beim-arzt-gap": "Marca la palabra correcta.",
+    "beim-arzt-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "beim-arzt-table": "Completa el artículo (der/die/das) y la forma del plural.",
+    "beim-arzt-order": "Ordena las palabras y escribe la frase.",
+    "beim-arzt-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "la tarjeta del seguro médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Muestras esta tarjeta en la recepción. En ella pone tu seguro médico.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "la cita",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Una hora fija a la que vas a la consulta.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "la sala de espera",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Aquí te sientas hasta que te llaman.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "la receta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Con ella te dan un medicamento en la farmacia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "la baja médica",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Este papel lo recibe tu empresa cuando estás enfermo.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "la fiebre",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "La temperatura del cuerpo es demasiado alta, por ejemplo 39 grados.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "la alergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "El cuerpo reacciona con fuerza a algo, por ejemplo a la penicilina.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "el número de emergencias",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "El número 112, para un accidente o una emergencia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Buenos días, quería pedir una cita.",
+      "answerText": "cita"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "¿Lleva su tarjeta del seguro médico?",
+      "answerText": "tarjeta del seguro médico"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Por favor, siéntese en la sala de espera.",
+      "answerText": "sala de espera"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Tengo dolor de cabeza y fiebre.",
+      "answerText": "dolor de cabeza"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Me duele la barriga.",
+      "answerText": "barriga"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Soy alérgico a la penicilina.",
+      "answerText": "penicilina"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Necesito una baja médica para mi empresa.",
+      "answerText": "baja médica"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Tome las pastillas tres veces al día después de comer.",
+      "answerText": "comer"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "¿Puede decirlo más despacio, por favor?",
+      "answerText": "decirlo"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Tengo fiebre desde hace tres días.",
+      "answerText": "Tengo"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Me duele mucho la cabeza.",
+      "answerText": "duele"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Por favor, inspire profundamente y vuelva a espirar.",
+      "answerText": "inspire"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "La médica me da una receta.",
+      "answerText": "da"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Enseguida le llamamos.",
+      "answerText": "llamamos"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "el médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "la pastilla",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "la receta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "la cita",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "la consulta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "el medicamento",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Quería pedir una cita.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Tengo fiebre desde hace tres días.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "¿Puede repetirlo, por favor?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "¿Dónde le duele?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "dolor de cabeza",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "baja médica",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "tarjeta del seguro médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alérgico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "pastilla",
+      "answerText": null
+    }
+  ]
+}

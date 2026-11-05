@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.479Z"
+  },
+  "title": "Di kantor pemerintah",
+  "instructions": {
+    "auf-dem-amt-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "auf-dem-amt-gap": "Centang kata yang cocok.",
+    "auf-dem-amt-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "auf-dem-amt-table": "Lengkapi artikel dan bentuk jamak.",
+    "auf-dem-amt-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "auf-dem-amt-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "pendaftaran alamat",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Anda melaporkan alamat baru Anda ke kantor.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "nomor antrean",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Nomor ini Anda ambil dari mesin.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "paspor",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Dokumen untuk bepergian ke luar negeri.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "surat konfirmasi pemilik rumah",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Surat dari pemilik rumah ini Anda perlukan untuk pendaftaran.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "surat keterangan domisili",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Surat ini menunjukkan: sekarang Anda tinggal di alamat ini.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "status perkawinan",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "lajang, menikah, cerai, atau janda/duda",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "tanda tangan",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Nama Anda yang ditulis dengan tangan.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "formulir",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Kertas dengan kolom untuk diisi.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Saya ingin mendaftarkan apartemen baru saya.",
+      "answerText": "apartemen"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Silakan ambil nomor di mesin.",
+      "answerText": "nomor"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Nomor 147, silakan ke loket 12.",
+      "answerText": "loket"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Ini surat konfirmasi dari pemilik rumah saya.",
+      "answerText": "pemilik rumah"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Apakah Anda membawa kartu identitas?",
+      "answerText": "kartu identitas"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Tolong isi formulir ini dengan lengkap.",
+      "answerText": "formulir"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Surat keterangan domisili akan sering Anda perlukan lagi, misalnya untuk rekening bank.",
+      "answerText": "Surat keterangan domisili"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Hari ini saya mendaftarkan diri.",
+      "answerText": "mendaftarkan"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Di mana saya harus tanda tangan?",
+      "answerText": "tanda tangan"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Saya mengeja nama saya: N – O – W – A – K.",
+      "answerText": "mengeja"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Silakan duduk.",
+      "answerText": "duduk"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "Prosesnya memakan waktu sekitar dua minggu.",
+      "answerText": "memakan waktu"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "kantor pemerintah",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "kartu identitas",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "apartemen",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "formulir",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "pemilik rumah",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "alamat",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Saya ingin mendaftarkan diri.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Di mana saya harus tanda tangan?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Ini paspor saya.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Apakah saya perlu yang lain lagi?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "surat keterangan domisili",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "paspor",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "lajang",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "pemilik rumah",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "alamat",
+      "answerText": null
+    }
+  ]
+}

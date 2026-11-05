@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:51.862Z"
+  },
+  "title": "Дюселдорф",
+  "instructions": {
+    "stadt-duesseldorf-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-duesseldorf-gap": "Отбележете правилната дума.",
+    "stadt-duesseldorf-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-duesseldorf-table": "Попълнете члена и формата за множествено число.",
+    "stadt-duesseldorf-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-duesseldorf-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-duesseldorf-matching-1",
+      "translation": "„Алт“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-1:meaning",
+      "translation": "Тъмна бира от Дюселдорф; пие се от малки чаши.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2",
+      "translation": "„Кьо“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-2:meaning",
+      "translation": "Съкращение за Кьонигсале – елегантна търговска улица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3",
+      "translation": "Рейнската кула",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-3:meaning",
+      "translation": "Телевизионна кула на Рейн с часовник от светлини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4",
+      "translation": "„Хелау!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-4:meaning",
+      "translation": "Карнавален вик в Дюселдорф – а не „Алааф“ като в Кьолн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5",
+      "translation": "момчето, което прави звезда",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-5:meaning",
+      "translation": "Дете, което прави звезда (колело); символ на града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6",
+      "translation": "старият град",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-6:meaning",
+      "translation": "Стара част на града с много кръчми – „най-дългият бар на света“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7",
+      "translation": "„Кьобес“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-matching-7:meaning",
+      "translation": "Сервитьор в пивница; носи нов Алт, без да пита.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-1",
+      "translation": "Той пие Алт в стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-2",
+      "translation": "Кьо е скъпа търговска улица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-3",
+      "translation": "От върха на Рейнската кула се вижда целият град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-4",
+      "translation": "На Розовия понеделник гледаме шествието.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-5",
+      "translation": "Разхождаме се по брега на Рейн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-6",
+      "translation": "Купувам буркан дюселдорфска горчица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-gap-7",
+      "translation": "Кьобесът носи нов Алт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-1",
+      "translation": "По време на карнавала хората в Дюселдорф викат „Хелау“.",
+      "answerText": "викат"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-2",
+      "translation": "Кьобесът носи следващия Алт, без да пита.",
+      "answerText": "носи"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-3",
+      "translation": "Рейн тече точно през града.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-4",
+      "translation": "Много хора пазаруват на Кьо.",
+      "answerText": "пазаруват"
+    },
+    {
+      "id": "stadt-duesseldorf-verbs-5",
+      "translation": "Децата правят звезда като момчетата от символа на града.",
+      "answerText": "правят"
+    },
+    {
+      "id": "stadt-duesseldorf-table-1",
+      "translation": "чашата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-2",
+      "translation": "кръчмата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-3",
+      "translation": "брегът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-4",
+      "translation": "шествието",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-5",
+      "translation": "пивоварната",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-table-6",
+      "translation": "улицата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-1",
+      "translation": "Той пие Алт в стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-2",
+      "translation": "Кьо е елегантна търговска улица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-3",
+      "translation": "Ще дойдеш ли с мен на шествието на Розовия понеделник?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-order-4",
+      "translation": "Кьобесът веднага носи нова чаша.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-1",
+      "translation": "карнавал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-2",
+      "translation": "пивоварна",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-3",
+      "translation": "кръчма",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-4",
+      "translation": "бар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-duesseldorf-spelling-5",
+      "translation": "чаша",
+      "answerText": null
+    }
+  ]
+}

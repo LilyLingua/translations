@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:50.177Z"
+  },
+  "title": "Кил",
+  "instructions": {
+    "stadt-kiel-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-kiel-gap": "Отбележете правилната дума.",
+    "stadt-kiel-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-kiel-table": "Попълнете члена и формата за множествено число.",
+    "stadt-kiel-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-kiel-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "„Фьорде“ (фиордът)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Дълъг тесен залив на Балтийско море, който навлиза дълбоко в сушата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Килската седмица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Голям празник на ветроходството през юни с музика и лодки от цял свят.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "фериботът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Голям кораб за хора и коли, например до Норвегия.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Килският канал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Изкуствен воден път между Северно и Балтийско море.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "килската цаца",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Малка пушена рибка, типична за Кил.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "„Мойн мойн!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Северняшки поздрав; някои смятат, че два пъти „Мойн“ е вече прекалено.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "плавам с платноходка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Пътувам с лодка, която се движи от вятъра.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Кил се намира на Балтийско море.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "През юни празнуваме Килската седмица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Пътуваме с ферибота до Осло.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Корабите минават през Килския канал.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "През уикенда плаваме с платноходка във фиорда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Купувам пликче килска цаца.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Разхождаме кучето на плажа.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Фериботът пътува всеки ден до Норвегия.",
+      "answerText": "пътува"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "По време на Килската седмица плават лодки от цял свят.",
+      "answerText": "плават"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Много кораби използват Килския канал.",
+      "answerText": "използват"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "На север хората казват „Мойн“.",
+      "answerText": "казват"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "На плажа често духа силен вятър.",
+      "answerText": "духа"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "лодката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "фериботът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "рибата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "плажът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "платното",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "каналът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Кил се намира на Балтийско море.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "През юни градът празнува Килската седмица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Ще пътуваш ли с ферибота до Норвегия?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "През уикенда плаваме във фиорда.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "ферибот",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "платно",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "плаж",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Балтийско море",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "канал",
+      "answerText": null
+    }
+  ]
+}

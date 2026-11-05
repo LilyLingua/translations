@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:56.116Z"
+  },
+  "title": "Renting an Apartment",
+  "instructions": {
+    "pl-wynajem-mieszkania-matching": "Match each word with its meaning.",
+    "pl-wynajem-mieszkania-gap": "Choose the right word.",
+    "pl-wynajem-mieszkania-verbs": "Fill in the correct verb.",
+    "pl-wynajem-mieszkania-order": "Put the words in the right order and write the sentence.",
+    "pl-wynajem-mieszkania-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-wynajem-mieszkania-matching-1",
+      "translation": "rent",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-1:meaning",
+      "translation": "Money you pay every month for the apartment.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2",
+      "translation": "owner, landlord",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-2:meaning",
+      "translation": "The person who owns the apartment and rents it out.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3",
+      "translation": "deposit",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-3:meaning",
+      "translation": "Money you pay at the start and get back when you move out.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4",
+      "translation": "lease",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-4:meaning",
+      "translation": "A document that the tenant and the owner sign.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5",
+      "translation": "utilities",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-5:meaning",
+      "translation": "Water, electricity, gas and heating.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6",
+      "translation": "viewing",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-matching-6:meaning",
+      "translation": "A visit to see the apartment before renting it.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-1",
+      "translation": "How much is the rent per month?",
+      "answerText": "rent"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-2",
+      "translation": "Are utilities included in the rent?",
+      "answerText": "utilities"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-3",
+      "translation": "You have to pay a deposit of two months' rent.",
+      "answerText": "deposit"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-4",
+      "translation": "When can I come and see the apartment?",
+      "answerText": "apartment"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-5",
+      "translation": "Read the lease carefully before you sign it.",
+      "answerText": "lease"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-gap-6",
+      "translation": "The apartment has two rooms and a balcony.",
+      "answerText": "rooms"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-1",
+      "translation": "I am looking for a two-room apartment.",
+      "answerText": "looking"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-2",
+      "translation": "Is it allowed to keep pets?",
+      "answerText": "keep"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-3",
+      "translation": "We signed the lease yesterday.",
+      "answerText": "signed"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-4",
+      "translation": "The owner will give us the keys on Monday.",
+      "answerText": "will give"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-verbs-5",
+      "translation": "How much do utilities cost in winter?",
+      "answerText": "cost"
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-1",
+      "translation": "Is the apartment still available?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-2",
+      "translation": "I want to see the apartment.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-3",
+      "translation": "How much is the deposit?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-order-4",
+      "translation": "The rent must be paid by the tenth of each month.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-1",
+      "translation": "apartment",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-2",
+      "translation": "bathroom",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-3",
+      "translation": "deposit",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-4",
+      "translation": "lease, contract",
+      "answerText": null
+    },
+    {
+      "id": "pl-wynajem-mieszkania-spelling-5",
+      "translation": "kitchen",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:47.748Z"
+  },
+  "title": "At the Bank",
+  "instructions": {
+    "uk-u-banku-matching": "Match each word with its meaning.",
+    "uk-u-banku-gap": "Choose the right word.",
+    "uk-u-banku-verbs": "Fill in the correct verb.",
+    "uk-u-banku-order": "Put the words in the right order and write the sentence.",
+    "uk-u-banku-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "uk-u-banku-matching-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-1:meaning",
+      "translation": "A place at the bank where your money is kept.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2",
+      "translation": "bank card",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2:meaning",
+      "translation": "A card you use to pay with money from your account.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3",
+      "translation": "PIN",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3:meaning",
+      "translation": "A secret number for your card.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4",
+      "translation": "ATM",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4:meaning",
+      "translation": "A machine where you can take out cash.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5:meaning",
+      "translation": "When money is sent from one account to another.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6",
+      "translation": "balance",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6:meaning",
+      "translation": "How much money is in the account.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-gap-1",
+      "translation": "I want to open an account.",
+      "answerText": "account"
+    },
+    {
+      "id": "uk-u-banku-gap-2",
+      "translation": "Please enter your PIN.",
+      "answerText": "PIN"
+    },
+    {
+      "id": "uk-u-banku-gap-3",
+      "translation": "Where is the nearest ATM?",
+      "answerText": "ATM"
+    },
+    {
+      "id": "uk-u-banku-gap-4",
+      "translation": "I want to make a transfer to my landlord.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "uk-u-banku-gap-5",
+      "translation": "How can I check the card balance?",
+      "answerText": "balance"
+    },
+    {
+      "id": "uk-u-banku-gap-6",
+      "translation": "My bank card isn't working.",
+      "answerText": "card"
+    },
+    {
+      "id": "uk-u-banku-verbs-1",
+      "translation": "I want to open an account.",
+      "answerText": "want"
+    },
+    {
+      "id": "uk-u-banku-verbs-2",
+      "translation": "Can I withdraw cash here?",
+      "answerText": "withdraw"
+    },
+    {
+      "id": "uk-u-banku-verbs-3",
+      "translation": "Please sign this document.",
+      "answerText": "sign"
+    },
+    {
+      "id": "uk-u-banku-verbs-4",
+      "translation": "The card will arrive in five days.",
+      "answerText": "will arrive"
+    },
+    {
+      "id": "uk-u-banku-verbs-5",
+      "translation": "We forgot the PIN.",
+      "answerText": "forgot"
+    },
+    {
+      "id": "uk-u-banku-order-1",
+      "translation": "I want to open an account.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-2",
+      "translation": "Where can I withdraw money?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-3",
+      "translation": "My card has been blocked.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-4",
+      "translation": "How much does the account cost?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-1",
+      "translation": "account",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-2",
+      "translation": "ATM",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-3",
+      "translation": "money",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-4",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-5",
+      "translation": "signature",
+      "answerText": null
+    }
+  ]
+}

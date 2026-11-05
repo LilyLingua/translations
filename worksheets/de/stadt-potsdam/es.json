@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:52.216Z"
+  },
+  "title": "Potsdam",
+  "instructions": {
+    "stadt-potsdam-matching": "Relaciona cada palabra con la explicación correcta.",
+    "stadt-potsdam-gap": "Marca la palabra correcta.",
+    "stadt-potsdam-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "stadt-potsdam-table": "Completa el artículo y el plural.",
+    "stadt-potsdam-order": "Ordena las palabras y escribe la frase.",
+    "stadt-potsdam-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "Sanssouci",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "Palacio de Federico el Grande; el nombre es francés: «sin preocupación».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "el «Viejo Fritz»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "Apodo del rey prusiano Federico II.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "la patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "El Viejo Fritz la hizo popular en Prusia; se ponen patatas en su tumba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "el Barrio Holandés",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "Barrio con casas de ladrillo rojo al estilo de los Países Bajos.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "Babelsberg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "Aquí hay grandes estudios de cine; se ruedan muchas películas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "el puente de Glienicke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "Puente hacia Berlín; en la Guerra Fría se intercambiaban espías aquí.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "el Havel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "Río con muchos lagos alrededor de Potsdam.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "Visitamos el palacio de Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "En la tumba del Viejo Fritz hay patatas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "Paseamos por el Barrio Holandés.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "En Babelsberg están rodando una película nueva.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "Vamos en el barco por el Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "Potsdam está justo al lado de la capital, Berlín.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "El puente de Glienicke cruza el Havel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "A Federico el Grande le gustaba vivir en Sanssouci.",
+      "answerText": "vivir"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "Los visitantes ponen patatas en su tumba.",
+      "answerText": "ponen"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "En Babelsberg se ruedan muchas películas.",
+      "answerText": "ruedan"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "Con el S-Bahn se llega rápido a Berlín.",
+      "answerText": "llega"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "En 1945 la Conferencia de Potsdam tuvo lugar en el palacio Cecilienhof.",
+      "answerText": "tuvo"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "el palacio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "el rey",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "la patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "el estudio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "la película",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "la tumba",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "El Viejo Fritz vivía en Sanssouci.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "En su tumba siempre hay patatas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "¿Ya has estado en el Filmpark Babelsberg?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "Potsdam está justo al lado de Berlín.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "rey",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "patata",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "palacio",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "película",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "jardín",
+      "answerText": null
+    }
+  ]
+}

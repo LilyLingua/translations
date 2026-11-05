@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.237Z"
+  },
+  "title": "Код лекара",
+  "instructions": {
+    "beim-arzt-matching": "Повежите сваку реч с одговарајућим објашњењем.",
+    "beim-arzt-gap": "Означите одговарајућу реч.",
+    "beim-arzt-verbs": "Упишите прави глагол у правом облику.",
+    "beim-arzt-table": "Допуните члан (der/die/das) и облик множине.",
+    "beim-arzt-order": "Поређајте речи правилним редом и напишите реченицу.",
+    "beim-arzt-spelling": "Која реч је правилно написана? Означите."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "картица здравственог осигурања",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Ову картицу показујете на пријемном шалтеру. На њој пише ваше здравствено осигурање.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "термин",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Утврђено време кад долазите у ординацију.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "чекаоница",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Овде седите док вас не прозову.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "С њим добијате лек у апотеци.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "потврда о боловању",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Овај папир добија ваш послодавац кад сте болесни.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "температура (грозница)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Телесна температура је превисока, на пример 39 степени.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "алергија",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Тело јако реагује на нешто, на пример на пеницилин.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "хитан позив",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Број 112 – код несреће или у хитном случају.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Добар дан, желео бих да закажем термин.",
+      "answerText": "термин"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Да ли имате картицу здравственог осигурања код себе?",
+      "answerText": "картицу здравственог осигурања"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Молим вас, седните у чекаоницу.",
+      "answerText": "чекаоницу"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Боли ме глава и имам температуру.",
+      "answerText": "глава"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Боли ме стомак.",
+      "answerText": "стомак"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Алергичан сам на пеницилин.",
+      "answerText": "пеницилин"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Треба ми потврда о боловању за мог послодавца.",
+      "answerText": "потврда о боловању"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Узимајте таблете три пута дневно после јела.",
+      "answerText": "јела"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Можете ли, молим вас, да кажете то спорије?",
+      "answerText": "кажете"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Већ три дана имам температуру.",
+      "answerText": "имам"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Глава ме јако боли.",
+      "answerText": "боли"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Молим вас, дубоко удахните – и поново издахните.",
+      "answerText": "удахните"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Лекарка ми даје рецепт.",
+      "answerText": "даје"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Одмах ћемо вас прозвати.",
+      "answerText": "прозвати"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "лекар",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "таблета",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "термин",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "ординација",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "лек",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Желео бих да закажем термин.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Већ три дана имам температуру.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Можете ли, молим вас, то да поновите?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Где вас боли?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "главобоља",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "потврда о боловању",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "картица здравственог осигурања",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "алергичан",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "таблета",
+      "answerText": null
+    }
+  ]
+}

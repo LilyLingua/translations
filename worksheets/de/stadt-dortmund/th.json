@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:55.459Z"
+  },
+  "title": "ดอร์ทมุนท์",
+  "instructions": {
+    "stadt-dortmund-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-dortmund-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-dortmund-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-dortmund-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-dortmund-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-dortmund-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-dortmund-matching-1",
+      "translation": "\"บีวีบี\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-1:meaning",
+      "translation": "โบรุสเซีย ดอร์ทมุนท์ – สโมสรฟุตบอลใหญ่ของเมือง สีดำและเหลือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2",
+      "translation": "\"กำแพงสีเหลือง\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-2:meaning",
+      "translation": "อัฒจันทร์ฝั่งใต้ขนาดมหึมาในสนาม แฟนบอลยืนเบียดกันแน่นที่นั่น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3",
+      "translation": "\"ดอร์ทมุนเดอร์ อู\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-3:meaning",
+      "translation": "ตึกสูงเก่าของโรงเบียร์ บนหลังคามีตัวอักษร U ขนาดใหญ่ส่องแสง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4",
+      "translation": "เหมืองถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-4:meaning",
+      "translation": "เหมือง สมัยก่อนที่นี่ขุดถ่านหินขึ้นมาจากใต้ดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5",
+      "translation": "\"บูเดอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-5:meaning",
+      "translation": "ซุ้มขายของเล็ก ๆ ตรงหัวมุม ขายเครื่องดื่ม ขนม และหนังสือพิมพ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6",
+      "translation": "\"พอตต์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-6:meaning",
+      "translation": "คำเรียกสั้น ๆ ของแคว้นรูห์ร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7",
+      "translation": "ต้นคริสต์มาส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-matching-7:meaning",
+      "translation": "ในตลาดคริสต์มาสมีต้นไม้ยักษ์ที่ทำจากต้นสนหลายต้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-1",
+      "translation": "วันเสาร์พวกเราไปสนามกีฬา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-2",
+      "translation": "แฟนบอลยืนอยู่บนอัฒจันทร์ฝั่งใต้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-3",
+      "translation": "พวกเราซื้อเครื่องดื่มที่บูเดอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-4",
+      "translation": "คุณปู่ของฉันเคยทำงานในเหมืองถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-5",
+      "translation": "ในตลาดคริสต์มาสมีต้นคริสต์มาสยักษ์ตั้งอยู่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-6",
+      "translation": "บนยอดดอร์ทมุนเดอร์ อู มีตัว U ขนาดใหญ่ส่องแสง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-gap-7",
+      "translation": "พวกเราไปเยี่ยมชมพิพิธภัณฑ์ฟุตบอลเยอรมัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-verbs-1",
+      "translation": "แฟนบอลร้องเพลงเสียงดังเชียร์บีวีบี",
+      "answerText": "ร้องเพลง"
+    },
+    {
+      "id": "stadt-dortmund-verbs-2",
+      "translation": "สมัยก่อนผู้ชายหลายคนทำงานใต้ดิน",
+      "answerText": "ทำงาน"
+    },
+    {
+      "id": "stadt-dortmund-verbs-3",
+      "translation": "ต้นคริสต์มาสสูงกว่า 40 เมตร",
+      "answerText": "สูง"
+    },
+    {
+      "id": "stadt-dortmund-verbs-4",
+      "translation": "ตัว U ส่องแสงในยามค่ำคืน",
+      "answerText": "ส่องแสง"
+    },
+    {
+      "id": "stadt-dortmund-verbs-5",
+      "translation": "เราเจอกันที่บูเดอนะ",
+      "answerText": "เจอกัน"
+    },
+    {
+      "id": "stadt-dortmund-table-1",
+      "translation": "สนามกีฬา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-2",
+      "translation": "แฟนบอล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-3",
+      "translation": "เหมืองถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-4",
+      "translation": "ประตู (ฟุตบอล)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-5",
+      "translation": "สโมสร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-table-6",
+      "translation": "ซุ้มขายของ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-1",
+      "translation": "บีวีบีเล่นที่สนามเวสท์ฟาเลินชตาดิโอน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-2",
+      "translation": "วันเสาร์พวกเรายืนอยู่บนอัฒจันทร์ฝั่งใต้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-3",
+      "translation": "ไปสนามด้วยกันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-order-4",
+      "translation": "ดอร์ทมุนท์ตั้งอยู่ในแคว้นรูห์ร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-1",
+      "translation": "สนามกีฬา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-2",
+      "translation": "สโมสร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-3",
+      "translation": "อัฒจันทร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-4",
+      "translation": "เหมืองถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dortmund-spelling-5",
+      "translation": "ฟุตบอล",
+      "answerText": null
+    }
+  ]
+}

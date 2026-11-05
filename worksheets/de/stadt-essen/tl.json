@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:37.416Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Itugma ang bawat salita sa tamang paliwanag.",
+    "stadt-essen-gap": "Markahan ang tamang salita.",
+    "stadt-essen-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "stadt-essen-table": "Isulat ang artikulo at ang anyong maramihan.",
+    "stadt-essen-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "stadt-essen-spelling": "Aling salita ang tama ang baybay? Markahan ito."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "ang Zeche Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Lumang minahan; ngayon ay World Heritage ng UNESCO na may mga museo at disenyo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "ang tore ng minahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Mataas na tore sa ibabaw ng minahan; dito umaakyat ang mga tao at ang karbon.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "\"Glück auf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Bati ng mga minero – hinihiling na makabalik ang lahat nang ligtas sa itaas.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "ang Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Malaking bahay ng pamilyang Krupp na may maraming silid at isang parke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "ang Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Lawa sa Ruhr; puwedeng maglayag, sumagwan at mamasyal doon.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "ang Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Malaking parke na may mga bulaklak, palaruan at hayop.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "ang Kabisera ng Kultura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Titulong natanggap ng Essen noong 2010 para sa buong Ruhr region.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Tuwing tag-init, maraming naglalayag sa Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Nakatira ang pamilyang Krupp sa Villa Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Sumasali kami sa isang guided tour sa Zeche Zollverein.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Ang tore ng minahan ang simbolo ng Essen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Sa Linggo, pupunta kami sa Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "Noong 2010, ang Essen ang Kabisera ng Kultura ng Europa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Naglalaro ang Rot-Weiss Essen sa Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "\"Glück auf!\" ang sinasabi ng mga minero.",
+      "answerText": "sinasabi"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Nakatayo ang tore ng minahan sa ibabaw ng lumang minahan.",
+      "answerText": "Nakatayo"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Ngayon, wala nang karbon na lumalabas mula sa lupa.",
+      "answerText": "lumalabas"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Maraming turista ang bumibisita sa Zeche Zollverein.",
+      "answerText": "bumibisita"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Dumadaloy ang Ruhr sa Baldeneysee.",
+      "answerText": "Dumadaloy"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "ang minahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "ang parke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "ang villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ang lawa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "ang museo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "ang bulwagan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Kabilang ang Zeche Zollverein sa World Heritage ng UNESCO.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Sa weekend, pupunta kami sa Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Nakapunta ka na ba sa Grugapark?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Noon, maraming minero ang nagtrabaho sa ilalim ng lupa.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "museo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "minahan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "karbon",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "bulwagan",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:56.873Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-essen-gap": "Coche le bon mot.",
+    "stadt-essen-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-essen-table": "Complète l'article et le pluriel.",
+    "stadt-essen-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-essen-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "la mine Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Ancienne mine ; aujourd'hui patrimoine mondial de l'UNESCO avec des musées et du design.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "le chevalement",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Haute tour au-dessus de la mine ; elle servait à remonter les hommes et le charbon.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "« Glück auf ! »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Salut des mineurs – on souhaite que tous remontent en bonne santé.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "la Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Grande maison de la famille Krupp avec beaucoup de pièces et un parc.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "le Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Lac sur la Ruhr ; on peut y faire de la voile, de l'aviron et se promener.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "le Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Grand parc avec des fleurs, des aires de jeux et des animaux.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "la capitale de la culture",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Titre qu'Essen a reçu en 2010 pour toute la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "En été, beaucoup font de la voile sur le Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "La famille Krupp habitait à la Villa Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Nous faisons une visite guidée de la mine Zollverein.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Le chevalement est l'emblème d'Essen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "Dimanche, nous allons au Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "En 2010, Essen était la capitale européenne de la culture.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Le Rot-Weiss Essen joue à la Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Les mineurs disent « Glück auf ! ».",
+      "answerText": "disent"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Le chevalement se dresse au-dessus de l'ancienne mine.",
+      "answerText": "dresse"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Aujourd'hui, plus aucun charbon ne sort de la terre.",
+      "answerText": "sort"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Beaucoup de touristes visitent la mine Zollverein.",
+      "answerText": "visitent"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "La Ruhr traverse le Baldeneysee.",
+      "answerText": "traverse"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "la mine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "le parc",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "la villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "le lac",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "le musée",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "la halle",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "La mine Zollverein fait partie du patrimoine mondial de l'UNESCO.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Le week-end, nous allons au Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Tu es déjà allé au Grugapark ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Autrefois, beaucoup de mineurs travaillaient au fond.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "le musée",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "la mine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "la villa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "le charbon",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "la halle",
+      "answerText": null
+    }
+  ]
+}

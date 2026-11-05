@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:50.960Z"
+  },
+  "title": "Любек",
+  "instructions": {
+    "stadt-luebeck-matching": "З'єднайте кожне слово з правильним поясненням.",
+    "stadt-luebeck-gap": "Позначте правильне слово.",
+    "stadt-luebeck-verbs": "Вставте правильне дієслово в правильній формі.",
+    "stadt-luebeck-table": "Допишіть артикль і форму множини.",
+    "stadt-luebeck-order": "Розставте слова в правильному порядку й запишіть речення.",
+    "stadt-luebeck-spelling": "Яке слово написане правильно? Позначте його."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "Гольстентор (Гольштинські ворота)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "Старі міські ворота з двома круглими вежами – символ Любека.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "марципан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "Солодощі з мигдалю та цукру; Любек ними славиться.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "Королева Ганзи",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "Прізвисько: у середньовіччі Любек був найважливішим містом Ганзи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "острів Старого міста",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "Старе місто розташоване на острові й належить до Світової спадщини.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Травемюнде",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "Район на Балтійському морі з пляжем і великими поромами.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Томас Манн",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "Відомий письменник із Любека; він написав «Будденброків».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "«Генге» (проходи)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "Вузькі проходи між будинками в Старому місті.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "Ми проходимо через Гольстентор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "Я купую шматочок марципану.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "У середньовіччі Любек був найважливішим містом Ганзи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "У Травемюнде ми йдемо на пляж.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "Пором пливе Балтійським морем.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "Томас Манн написав роман про одну родину.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "Старе місто розташоване на острові.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "Гольстентор має дві круглі вежі.",
+      "answerText": "має"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "Марципан роблять з мигдалю та цукру.",
+      "answerText": "роблять"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "Пороми ходять до Швеції та Фінляндії.",
+      "answerText": "ходять"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "Старе місто розташоване на острові.",
+      "answerText": "розташоване"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "Томас Манн написав роман «Будденброки».",
+      "answerText": "написав"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "ворота",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "мигдаль",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "острів",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "пляж",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "пором",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "роман",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "Гольстентор – символ Любека.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "Ти любиш марципан?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "Старе місто розташоване на острові.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "Влітку ми їдемо до Травемюнде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "марципан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "острів",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "пляж",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "пором",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "мигдаль",
+      "answerText": null
+    }
+  ]
+}

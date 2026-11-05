@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:55.039Z"
+  },
+  "title": "นูเรมเบิร์ก",
+  "instructions": {
+    "stadt-nuernberg-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-nuernberg-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-nuernberg-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-nuernberg-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-nuernberg-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-nuernberg-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "ไส้กรอกย่างรอสท์บราทเวิร์สท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "ไส้กรอกเล็กเรียวย่างบนเตา – เอกลักษณ์ของนูเรมเบิร์ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "\"ดราย อิม เว็กลา\" (สามชิ้นในขนมปัง)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "ภาษาฟรังเคิน: ไส้กรอกย่างสามชิ้นในขนมปังก้อนเดียว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "ตลาดคริสต์มาสคริสท์คินเดิลส์มาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "ตลาดคริสต์มาสที่มีชื่อเสียง พระกุมาร (คริสท์คินด์) เป็นผู้เปิดงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "เลบคูเคิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "ขนมอบเนื้อนุ่มใส่น้ำผึ้ง ถั่ว และเครื่องเทศ กินช่วงคริสต์มาสเป็นหลัก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "ปราสาทจักรพรรดิ (ไกเซอร์บวร์ค)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "ปราสาทใหญ่บนหน้าผาหินเหนือเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "น้ำพุงาม (เชอเนอ บรุนเนิน)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "น้ำพุที่ตลาด ใครหมุนห่วงทองจะโชคดี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "\"ชอยเฟเลอ\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "เนื้อหมูส่วนไหล่อบแบบฟรังเคิน กินกับเกี๊ยวมันฝรั่งและซอส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "ปราสาทจักรพรรดิตั้งอยู่บนหน้าผาหินเหนือเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "เดือนธันวาคมพวกเราไปตลาดคริสต์มาสคริสท์คินเดิลส์มาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "ฉันกินไส้กรอกย่างสามชิ้นในขนมปังก้อนเดียว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "นักท่องเที่ยวหลายคนหมุนห่วงทองที่น้ำพุงาม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "พวกเราซื้อเลบคูเคินที่ร้านเบเกอรี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "วันอาทิตย์มีชอยเฟเลอกับเกี๊ยวมันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "แม่น้ำเพกนิทซ์ไหลผ่านเมืองเก่า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "พระกุมารเปิดตลาดคริสต์มาสคริสท์คินเดิลส์มาร์คท์",
+      "answerText": "เปิด"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "ผู้คนย่างไส้กรอกบนไฟ",
+      "answerText": "ย่าง"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "ชาวนูเรมเบิร์กหลายคนรู้สึกว่าตัวเองเป็นชาวฟรังเคิน ไม่ใช่ชาวบาวาเรีย",
+      "answerText": "รู้สึก"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "ห่วงที่น้ำพุนำโชคมาให้",
+      "answerText": "นำ"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "ฤดูหนาวมีการจัดงานแสดงของเล่น",
+      "answerText": "จัด"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "ปราสาท",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "น้ำพุ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "ตลาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "กำแพง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "ดราย อิม เว็กลา คือไส้กรอกย่างสามชิ้นในขนมปัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "ช่วงเทศกาลอดเวนต์ หลายคนไปเที่ยวตลาดคริสต์มาสคริสท์คินเดิลส์มาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "คุณเคยลองเลบคูเคินของนูเรมเบิร์กหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "ปราสาทจักรพรรดิตั้งอยู่สูงเหนือเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "เลบคูเคิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "น้ำพุ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "ไส้กรอกย่าง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "คริสต์มาส",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "ปราสาท",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:00.958Z"
+  },
+  "title": "เคมนิทซ์",
+  "instructions": {
+    "stadt-chemnitz-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-chemnitz-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-chemnitz-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-chemnitz-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-chemnitz-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-chemnitz-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-chemnitz-matching-1",
+      "translation": "\"นิชเชิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-1:meaning",
+      "translation": "ศีรษะยักษ์ของคาร์ล มาร์กซ์ \"นิชเชิล\" ในภาษาถิ่นซัคเซินแปลว่า \"หัว\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2",
+      "translation": "คาร์ล-มาร์กซ์-ชตัดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-2:meaning",
+      "translation": "ชื่อของเคมนิทซ์ตั้งแต่ปี 1953 ถึง 1990",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3",
+      "translation": "เมืองหลวงทางวัฒนธรรม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-3:meaning",
+      "translation": "ปี 2025 เคมนิทซ์เป็นเมืองหลวงทางวัฒนธรรมของยุโรป",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4",
+      "translation": "ป่ากลายเป็นหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-4:meaning",
+      "translation": "ต้นไม้ที่กลายเป็นหินเมื่อเกือบ 300 ล้านปีก่อน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5",
+      "translation": "หอคอยแดง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-5:meaning",
+      "translation": "หอคอยเก่าจากยุคกลาง อยู่กลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6",
+      "translation": "แมนเชสเตอร์แห่งซัคเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-6:meaning",
+      "translation": "ชื่อเล่นเก่า เพราะเมื่อก่อนที่นี่มีโรงงานมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7",
+      "translation": "ซีเอฟซี (CFC)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-matching-7:meaning",
+      "translation": "เคมนิทเซอร์ เอฟซี สโมสรฟุตบอลสีฟ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-1",
+      "translation": "นักท่องเที่ยวหลายคนถ่ายรูปนิชเชิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-2",
+      "translation": "ในพิพิธภัณฑ์ พวกเราได้ดูป่ากลายเป็นหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-3",
+      "translation": "ปี 2025 เคมนิทซ์ฉลองวัฒนธรรมตลอดทั้งปี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-4",
+      "translation": "พวกเราเดินไปที่หอคอยแดง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-5",
+      "translation": "เมื่อก่อนหลายคนทำงานในโรงงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-6",
+      "translation": "ศีรษะตั้งอยู่บนฐาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-gap-7",
+      "translation": "แฟน ๆ สวมหมวกไหมพรมสีฟ้า",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-verbs-1",
+      "translation": "ศีรษะสูงกว่า 7 เมตร",
+      "answerText": "สูง"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-2",
+      "translation": "ตั้งแต่ปี 1953 ถึง 1990 เคมนิทซ์มีชื่อว่าคาร์ล-มาร์กซ์-ชตัดท์",
+      "answerText": "มีชื่อว่า"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-3",
+      "translation": "ในพิพิธภัณฑ์มองเห็นต้นไม้ที่กลายเป็นหิน",
+      "answerText": "มองเห็น"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-4",
+      "translation": "ปี 2025 ผู้เยี่ยมชมจำนวนมากเดินทางมายังเมืองหลวงทางวัฒนธรรม",
+      "answerText": "เดินทางมา"
+    },
+    {
+      "id": "stadt-chemnitz-verbs-5",
+      "translation": "ซีเอฟซีเล่นในชุดสีฟ้า",
+      "answerText": "เล่น"
+    },
+    {
+      "id": "stadt-chemnitz-table-1",
+      "translation": "ศีรษะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-2",
+      "translation": "ต้นไม้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-3",
+      "translation": "หิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-4",
+      "translation": "หอคอย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-5",
+      "translation": "โรงงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-table-6",
+      "translation": "หมวกไหมพรม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-1",
+      "translation": "นิชเชิลตั้งอยู่ในใจกลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-2",
+      "translation": "คุณเคยไปเคมนิทซ์หรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-3",
+      "translation": "ต้นไม้กลายเป็นหินไปแล้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-order-4",
+      "translation": "ปี 2025 เคมนิทซ์เป็นเมืองหลวงทางวัฒนธรรม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-1",
+      "translation": "ศีรษะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-2",
+      "translation": "หิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-3",
+      "translation": "หอคอย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-4",
+      "translation": "วัฒนธรรม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-chemnitz-spelling-5",
+      "translation": "ป่า",
+      "answerText": null
+    }
+  ]
+}

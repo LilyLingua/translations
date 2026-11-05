@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "53d37bd6-e7e9-4710-ad36-cce69dc7be89",
+    "level": "A2"
+  },
+  "title": "Der erste Arbeitstag",
+  "topic": "Kollegen kennenlernen und Fragen stellen",
+  "tasks": [
+    {
+      "id": "erster-arbeitstag-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "erster-arbeitstag-matching-1",
+          "term": "der Kollege",
+          "meaning": "Ein Mann, mit dem Sie zusammenarbeiten."
+        },
+        {
+          "id": "erster-arbeitstag-matching-2",
+          "term": "die Chefin",
+          "meaning": "Sie leitet das Team."
+        },
+        {
+          "id": "erster-arbeitstag-matching-3",
+          "term": "die Pause",
+          "meaning": "Die freie Zeit während der Arbeit, zum Beispiel zum Essen."
+        },
+        {
+          "id": "erster-arbeitstag-matching-4",
+          "term": "der Urlaub",
+          "meaning": "Freie Tage, an denen Sie nicht arbeiten und trotzdem Geld bekommen."
+        },
+        {
+          "id": "erster-arbeitstag-matching-5",
+          "term": "die Überstunde",
+          "meaning": "Eine Stunde, die Sie mehr arbeiten als geplant."
+        },
+        {
+          "id": "erster-arbeitstag-matching-6",
+          "term": "der Arbeitsvertrag",
+          "meaning": "Hier stehen Lohn, Arbeitszeit und Urlaub."
+        },
+        {
+          "id": "erster-arbeitstag-matching-7",
+          "term": "die Kantine",
+          "meaning": "Hier essen die Mitarbeiter in der Firma."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "erster-arbeitstag-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "erster-arbeitstag-gap-1",
+          "promptBefore": "Das ist",
+          "promptAfter": "neue Kollegin.",
+          "correctAnswer": "meine",
+          "options": [
+            "mein",
+            "meine",
+            "meinen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-2",
+          "promptBefore": "Darf ich Ihnen",
+          "promptAfter": "Kollegen vorstellen?",
+          "correctAnswer": "meinen",
+          "options": [
+            "mein",
+            "meine",
+            "meinen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-3",
+          "promptBefore": "Ich arbeite gern mit",
+          "promptAfter": "Team zusammen.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-4",
+          "promptBefore": "Wir treffen uns in",
+          "promptAfter": "Kantine.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-5",
+          "promptBefore": "Ich habe",
+          "promptAfter": "Frage.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-6",
+          "promptBefore": "Wann beginnt",
+          "promptAfter": "Pause?",
+          "correctAnswer": "die",
+          "options": [
+            "der",
+            "den",
+            "die"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "erster-arbeitstag-gap-7",
+          "promptBefore": "Ich gebe",
+          "promptAfter": "Chefin den Bericht.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie die richtige Form an."
+    },
+    {
+      "id": "erster-arbeitstag-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "erster-arbeitstag-verbs-1",
+          "promptBefore": "Darf ich mich kurz",
+          "promptAfter": "?",
+          "correctAnswer": "vorstellen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "vorstellen"
+        },
+        {
+          "id": "erster-arbeitstag-verbs-2",
+          "promptBefore": "Ich",
+          "promptAfter": "von 8 bis 16 Uhr.",
+          "correctAnswer": "arbeite",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "arbeiten"
+        },
+        {
+          "id": "erster-arbeitstag-verbs-3",
+          "promptBefore": "Wo",
+          "promptAfter": "ich die Toilette?",
+          "correctAnswer": "finde",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "finden"
+        },
+        {
+          "id": "erster-arbeitstag-verbs-4",
+          "promptBefore": "Wir",
+          "promptAfter": "uns im Team.",
+          "correctAnswer": "duzen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "duzen"
+        },
+        {
+          "id": "erster-arbeitstag-verbs-5",
+          "promptBefore": "Können Sie mir das bitte",
+          "promptAfter": "?",
+          "correctAnswer": "erklären",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "erklären"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "erster-arbeitstag-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "erster-arbeitstag-table-1",
+          "article": "der",
+          "singular": "Kollege",
+          "plural": "Kollegen"
+        },
+        {
+          "id": "erster-arbeitstag-table-2",
+          "article": "die",
+          "singular": "Firma",
+          "plural": "Firmen"
+        },
+        {
+          "id": "erster-arbeitstag-table-3",
+          "article": "das",
+          "singular": "Büro",
+          "plural": "Büros"
+        },
+        {
+          "id": "erster-arbeitstag-table-4",
+          "article": "der",
+          "singular": "Computer",
+          "plural": "Computer"
+        },
+        {
+          "id": "erster-arbeitstag-table-5",
+          "article": "die",
+          "singular": "Besprechung",
+          "plural": "Besprechungen"
+        },
+        {
+          "id": "erster-arbeitstag-table-6",
+          "article": "das",
+          "singular": "Team",
+          "plural": "Teams"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "erster-arbeitstag-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "erster-arbeitstag-order-1",
+          "chunks": [
+            "Darf",
+            "ich",
+            "mich",
+            "kurz",
+            "vorstellen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "erster-arbeitstag-order-2",
+          "chunks": [
+            "Ich",
+            "bin",
+            "neu",
+            "im Team"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "erster-arbeitstag-order-3",
+          "chunks": [
+            "Wann",
+            "beginnt",
+            "die Mittagspause"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "erster-arbeitstag-order-4",
+          "chunks": [
+            "Können",
+            "Sie",
+            "mir",
+            "das",
+            "erklären"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "erster-arbeitstag-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "erster-arbeitstag-spelling-1",
+          "correct": "Kollege",
+          "wrong": "Kolege"
+        },
+        {
+          "id": "erster-arbeitstag-spelling-2",
+          "correct": "Besprechung",
+          "wrong": "Besprächung"
+        },
+        {
+          "id": "erster-arbeitstag-spelling-3",
+          "correct": "Urlaub",
+          "wrong": "Urlaup"
+        },
+        {
+          "id": "erster-arbeitstag-spelling-4",
+          "correct": "Büro",
+          "wrong": "Bürro"
+        },
+        {
+          "id": "erster-arbeitstag-spelling-5",
+          "correct": "Überstunde",
+          "wrong": "Überstunte"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

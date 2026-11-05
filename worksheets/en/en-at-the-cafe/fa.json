@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:45.810Z"
+  },
+  "title": "در کافه",
+  "instructions": {
+    "en-at-the-cafe-matching": "هر کلمه را به معنی‌اش وصل کن.",
+    "en-at-the-cafe-gap": "کلمهٔ درست را انتخاب کن.",
+    "en-at-the-cafe-verbs": "فعل درست را بنویس.",
+    "en-at-the-cafe-order": "کلمه‌ها را به ترتیب درست بچین و جمله را بنویس.",
+    "en-at-the-cafe-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزن."
+  },
+  "items": [
+    {
+      "id": "en-at-the-cafe-matching-1",
+      "translation": "منو",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-1:meaning",
+      "translation": "فهرست غذاها و نوشیدنی‌ها با قیمت.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2",
+      "translation": "گارسون",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2:meaning",
+      "translation": "کسی که غذا و نوشیدنی‌ات را می‌آورد.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3",
+      "translation": "صورت‌حساب",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3:meaning",
+      "translation": "برگه‌ای که نشان می‌دهد چقدر باید بپردازی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4",
+      "translation": "انعام",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4:meaning",
+      "translation": "پول اضافه برای خدمت خوب.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5",
+      "translation": "کیک",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5:meaning",
+      "translation": "خوراکی شیرین، مثلاً شکلاتی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6",
+      "translation": "بیرون‌بر",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6:meaning",
+      "translation": "غذا یا نوشیدنی‌ات را با خودت می‌بری.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-gap-1",
+      "translation": "لطفاً می‌توانم منو را ببینم؟",
+      "answerText": "منو"
+    },
+    {
+      "id": "en-at-the-cafe-gap-2",
+      "translation": "یک فنجان قهوه لطفاً.",
+      "answerText": "فنجان"
+    },
+    {
+      "id": "en-at-the-cafe-gap-3",
+      "translation": "تمام کردیم. لطفاً صورت‌حساب را بیاورید.",
+      "answerText": "صورت‌حساب"
+    },
+    {
+      "id": "en-at-the-cafe-gap-4",
+      "translation": "اینجا میل می‌کنید یا بیرون‌بر؟",
+      "answerText": "بیرون‌بر"
+    },
+    {
+      "id": "en-at-the-cafe-gap-5",
+      "translation": "گارسون خیلی مهربان است.",
+      "answerText": "گارسون"
+    },
+    {
+      "id": "en-at-the-cafe-gap-6",
+      "translation": "برای گارسون انعام گذاشتیم.",
+      "answerText": "انعام"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-1",
+      "translation": "یک چای می‌خواستم لطفاً.",
+      "answerText": "می‌خواستم"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-2",
+      "translation": "چه چیزی پیشنهاد می‌کنید؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-verbs-3",
+      "translation": "می‌خواهیم حساب کنیم لطفاً.",
+      "answerText": "می‌خواهیم"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-4",
+      "translation": "طعم کیک عالی است.",
+      "answerText": "طعم"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-5",
+      "translation": "می‌توانم با کارت پرداخت کنم؟",
+      "answerText": "پرداخت کنم"
+    },
+    {
+      "id": "en-at-the-cafe-order-1",
+      "translation": "می‌شود یک لیوان آب بدهید؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-2",
+      "translation": "یک تکه کیک می‌خواهم.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-3",
+      "translation": "قهوه چند است؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-4",
+      "translation": "می‌خواهیم حساب کنیم.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-1",
+      "translation": "قهوه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-2",
+      "translation": "شکلات",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-3",
+      "translation": "ساندویچ",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-4",
+      "translation": "خوشمزه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-5",
+      "translation": "صبحانه",
+      "answerText": null
+    }
+  ]
+}

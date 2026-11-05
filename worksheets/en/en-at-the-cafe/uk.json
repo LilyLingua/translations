@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.328Z"
+  },
+  "title": "У кафе",
+  "instructions": {
+    "en-at-the-cafe-matching": "З'єднай кожне слово з його значенням.",
+    "en-at-the-cafe-gap": "Вибери правильне слово.",
+    "en-at-the-cafe-verbs": "Встав правильне дієслово.",
+    "en-at-the-cafe-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-at-the-cafe-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-at-the-cafe-matching-1",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-1:meaning",
+      "translation": "Список страв і напоїв із цінами.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2",
+      "translation": "офіціант",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-2:meaning",
+      "translation": "Людина, яка приносить їжу й напої.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3",
+      "translation": "рахунок",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-3:meaning",
+      "translation": "Папірець, де написано, скільки треба заплатити.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4",
+      "translation": "чайові",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-4:meaning",
+      "translation": "Додаткові гроші за добре обслуговування.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5",
+      "translation": "торт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-5:meaning",
+      "translation": "Щось солодке, наприклад шоколадне.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6",
+      "translation": "з собою",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-matching-6:meaning",
+      "translation": "Ти забираєш їжу чи напій із собою.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-gap-1",
+      "translation": "Можна подивитися меню?",
+      "answerText": "меню"
+    },
+    {
+      "id": "en-at-the-cafe-gap-2",
+      "translation": "Мені, будь ласка, чашку кави.",
+      "answerText": "чашку"
+    },
+    {
+      "id": "en-at-the-cafe-gap-3",
+      "translation": "Ми закінчили. Принесіть, будь ласка, рахунок.",
+      "answerText": "рахунок"
+    },
+    {
+      "id": "en-at-the-cafe-gap-4",
+      "translation": "Тут чи з собою?",
+      "answerText": "з собою"
+    },
+    {
+      "id": "en-at-the-cafe-gap-5",
+      "translation": "Офіціант дуже привітний.",
+      "answerText": "Офіціант"
+    },
+    {
+      "id": "en-at-the-cafe-gap-6",
+      "translation": "Ми залишили чайові офіціантові.",
+      "answerText": "чайові"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-1",
+      "translation": "Я візьму чай, будь ласка.",
+      "answerText": "візьму"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-2",
+      "translation": "Що ви порадите?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-verbs-3",
+      "translation": "Ми хочемо заплатити.",
+      "answerText": "хочемо"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-4",
+      "translation": "Торт на смак просто чудовий.",
+      "answerText": "смак"
+    },
+    {
+      "id": "en-at-the-cafe-verbs-5",
+      "translation": "Чи можна заплатити карткою?",
+      "answerText": "заплатити"
+    },
+    {
+      "id": "en-at-the-cafe-order-1",
+      "translation": "Можна склянку води?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-2",
+      "translation": "Мені шматок торта, будь ласка.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-3",
+      "translation": "Скільки коштує кава?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-order-4",
+      "translation": "Ми хотіли б заплатити.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-1",
+      "translation": "кава",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-2",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-3",
+      "translation": "бутерброд",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-4",
+      "translation": "смачний",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-cafe-spelling-5",
+      "translation": "сніданок",
+      "answerText": null
+    }
+  ]
+}

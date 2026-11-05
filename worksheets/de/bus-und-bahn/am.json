@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "በአውቶቡስና በባቡር",
+  "instructions": {
+    "bus-und-bahn-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያገናኙ።",
+    "bus-und-bahn-gap": "ትክክለኛውን ቃል ምልክት ያድርጉበት።",
+    "bus-und-bahn-verbs": "ትክክለኛውን ግስ በትክክለኛው ቅጽ ይሙሉ።",
+    "bus-und-bahn-table": "አርቲክሉን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "bus-und-bahn-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "bus-und-bahn-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "ትኬቱ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "በእሱ በአውቶቡስ ወይም በባቡር መጓዝ ይፈቀድልዎታል።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "የትኬት መሸጫ ማሽኑ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "እዚህ ያለ ቆጣሪ (ያለ ሻጭ) ትኬት ይገዛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "የባቡር መሳፈሪያ መድረኩ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "ባቡሩ በጣቢያው የሚቆመው እዚህ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "መዘግየቱ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "ባቡሩ ከታቀደው ዘግይቶ ይደርሳል።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "ባቡር መቀየር",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "ከአንድ ባቡር ወደ ሌላ ባቡር ይቀይራሉ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "ፌርማታው",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "አውቶቡሱ የሚቆመው እዚህ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket (ዶይችላንድቲኬት)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "በመላው ጀርመን ለአውቶቡሶችና ለአካባቢ ባቡሮች የሚያገለግል ወርሃዊ ትኬት።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "ወደ Köln የሚሄደው ባቡር ከመድረክ 5 ይነሳል።",
+      "answerText": "መድረክ"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "ባቡሩ የአሥር ደቂቃ መዘግየት አለው።",
+      "answerText": "መዘግየት"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "በጣም ቅርብ የሆነው ፌርማታ የት ነው?",
+      "answerText": "ፌርማታ"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "እባክዎ ወደ Berlin አንድ ትኬት።",
+      "answerText": "ትኬት"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "እባክዎ ትኬትዎን ያሳዩ።",
+      "answerText": "ትኬትዎን"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "የምድር ውስጥ ባቡሩ በየአሥር ደቂቃው ይሄዳል።",
+      "answerText": "የምድር ውስጥ ባቡሩ"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "ትኬቶችን በማሽኑ መግዛት ይችላሉ።",
+      "answerText": "ማሽኑ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "የት ነው መቀየር ያለብኝ?",
+      "answerText": "መቀየር"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "አውቶቡሱ 8:15 ላይ ይነሳል።",
+      "answerText": "ይነሳል"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "10:00 ሰዓት ላይ Hamburg እንደርሳለን።",
+      "answerText": "እንደርሳለን"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "እባክዎ እዚህ ይውረዱ።",
+      "answerText": "ይውረዱ"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "ጉዞው ምን ያህል ጊዜ ይወስዳል?",
+      "answerText": "ይወስዳል"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "ባቡሩ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "ጣቢያው",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "ትኬቱ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "መድረኩ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "ፌርማታው",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "አውቶቡሱ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "ወደ München የሚሄደው ቀጣዩ ባቡር መቼ ይነሳል?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "በMannheim ባቡር መቀየር አለብኝ።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "እንደ አለመታደል ሆኖ ባቡሩ ዘግይቷል።",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "ትኬቱ ለአውቶቡሱም ያገለግላል?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "ትኬት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "መዘግየት",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "ፌርማታ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "መድረክ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "ጣቢያ",
+      "answerText": null
+    }
+  ]
+}

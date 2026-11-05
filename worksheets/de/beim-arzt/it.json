@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.303Z"
+  },
+  "title": "Dal medico",
+  "instructions": {
+    "beim-arzt-matching": "Collega ogni parola alla spiegazione giusta.",
+    "beim-arzt-gap": "Segna la parola adatta.",
+    "beim-arzt-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "beim-arzt-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "beim-arzt-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "beim-arzt-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "la tessera sanitaria",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Mostri questa tessera all'accettazione. Sopra c'è la tua cassa malattia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "l'appuntamento",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Un orario fisso in cui vai allo studio medico.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "la sala d'attesa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Qui ti siedi finché non ti chiamano.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "la ricetta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Con questa ricevi un farmaco in farmacia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "il certificato di malattia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Il tuo datore di lavoro riceve questo foglio quando sei malato.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "la febbre",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "La temperatura del corpo è troppo alta, per esempio 39 gradi.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "l'allergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Il corpo reagisce forte a qualcosa, per esempio alla penicillina.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "la chiamata di emergenza",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Il numero 112 – in caso di incidente o di emergenza.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Buongiorno, vorrei prendere un appuntamento.",
+      "answerText": "appuntamento"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Ha con sé la tessera sanitaria?",
+      "answerText": "tessera sanitaria"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Per favore, si accomodi in sala d'attesa.",
+      "answerText": "sala d'attesa"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Ho mal di testa e febbre.",
+      "answerText": "mal di testa"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Mi fa male la pancia.",
+      "answerText": "pancia"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Sono allergico alla penicillina.",
+      "answerText": "penicillina"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Ho bisogno di un certificato di malattia per il mio datore di lavoro.",
+      "answerText": "certificato di malattia"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Prenda le compresse tre volte al giorno dopo i pasti.",
+      "answerText": "pasti"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Può dirlo più lentamente, per favore?",
+      "answerText": "dirlo"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Ho la febbre da tre giorni.",
+      "answerText": "Ho"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "La testa mi fa molto male.",
+      "answerText": "fa"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Per favore, inspiri profondamente e poi espiri.",
+      "answerText": "inspiri"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "La dottoressa mi dà una ricetta.",
+      "answerText": "dà"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "La chiamiamo subito.",
+      "answerText": "chiamiamo"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "il medico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "la compressa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "la ricetta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "l'appuntamento",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "lo studio medico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "il farmaco",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Vorrei prendere un appuntamento.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Ho la febbre da tre giorni.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Può ripetere, per favore?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Dove le fa male?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "mal di testa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "certificato di malattia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "tessera sanitaria",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "compressa",
+      "answerText": null
+    }
+  ]
+}

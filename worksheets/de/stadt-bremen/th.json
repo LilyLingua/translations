@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:56.931Z"
+  },
+  "title": "เบรเมิน",
+  "instructions": {
+    "stadt-bremen-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-bremen-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-bremen-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-bremen-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-bremen-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-bremen-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-bremen-matching-1",
+      "translation": "นักดนตรีแห่งเมืองเบรเมิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-1:meaning",
+      "translation": "ลา สุนัข แมว และไก่ตัวผู้จากนิทาน รูปปั้นอยู่ข้างศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2",
+      "translation": "รูปปั้นโรลันด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2:meaning",
+      "translation": "รูปปั้นหินขนาดใหญ่ที่ลานตลาด สัญลักษณ์ของเมืองเสรี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3",
+      "translation": "ย่านชนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3:meaning",
+      "translation": "ย่านเก่าแก่มากที่มีบ้านเล็ก ๆ และตรอกแคบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4",
+      "translation": "ไฟรมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4:meaning",
+      "translation": "เทศกาลพื้นบ้านฤดูใบไม้ร่วง คนเบรเมินตะโกนว่า \"อิชา ไฟรมาค!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5",
+      "translation": "\"โคลอุนท์พิงเคิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5:meaning",
+      "translation": "ผักเคลกับไส้กรอก อาหารฤดูหนาวที่ขึ้นชื่อ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6",
+      "translation": "ชลัคเทอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6:meaning",
+      "translation": "ทางเดินเล่นริมแม่น้ำเวเซอร์ มีสวนเบียร์และเรือ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7",
+      "translation": "นครรัฐ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7:meaning",
+      "translation": "เมืองที่เป็นรัฐไปด้วย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-1",
+      "translation": "นักดนตรีแห่งเมืองเบรเมินตั้งอยู่ข้างศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-2",
+      "translation": "รูปปั้นโรลันด์ตั้งอยู่ที่ลานตลาด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-3",
+      "translation": "พวกเราเดินผ่านตรอกแคบในย่านชนอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-4",
+      "translation": "ฤดูใบไม้ร่วงพวกเรานั่งชิงช้าสวรรค์ที่ไฟรมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-5",
+      "translation": "ฤดูหนาวมีอาหารขึ้นชื่อ: โคลอุนท์พิงเคิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-6",
+      "translation": "พวกเรานั่งริมแม่น้ำเวเซอร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-7",
+      "translation": "เพื่อความโชคดี ผู้คนจับขาของลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-1",
+      "translation": "ใครที่จับขาของลาจะโชคดี",
+      "answerText": "จับ"
+    },
+    {
+      "id": "stadt-bremen-verbs-2",
+      "translation": "ไฟรมาร์คท์จัดขึ้นทุกปีในฤดูใบไม้ร่วง",
+      "answerText": "จัดขึ้น"
+    },
+    {
+      "id": "stadt-bremen-verbs-3",
+      "translation": "ในนิทาน สัตว์ต่าง ๆ เดินไปเบรเมิน",
+      "answerText": "เดิน"
+    },
+    {
+      "id": "stadt-bremen-verbs-4",
+      "translation": "ในย่านชนอร์ บ้านเล็กและเก่ามาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-5",
+      "translation": "ตั้งแต่ปี 2004 ศาลาว่าการและรูปปั้นโรลันด์เป็นส่วนหนึ่งของมรดกโลกยูเนสโก",
+      "answerText": "เป็นส่วนหนึ่ง"
+    },
+    {
+      "id": "stadt-bremen-table-1",
+      "translation": "ลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-2",
+      "translation": "สุนัข",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-3",
+      "translation": "แมว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-4",
+      "translation": "ไก่ตัวผู้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-5",
+      "translation": "ตรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-6",
+      "translation": "นิทาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-1",
+      "translation": "นักดนตรีตั้งอยู่ข้างศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-2",
+      "translation": "ฤดูใบไม้ร่วงคนเบรเมินฉลองไฟรมาร์คท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-3",
+      "translation": "คุณเคยจับขาของลาหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-4",
+      "translation": "เบรเมินเป็นรัฐที่เล็กที่สุด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-1",
+      "translation": "ลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-2",
+      "translation": "แมว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-3",
+      "translation": "นิทาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-4",
+      "translation": "ตรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-5",
+      "translation": "รัฐ",
+      "answerText": null
+    }
+  ]
+}

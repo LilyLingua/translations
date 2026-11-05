@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:17.392Z"
+  },
+  "title": "Есен",
+  "instructions": {
+    "stadt-essen-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-essen-gap": "Означи тачну реч.",
+    "stadt-essen-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-essen-table": "Упиши члан и облик множине.",
+    "stadt-essen-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-essen-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "рудник Цолферајн",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Стари рудник; данас Унескова светска баштина са музејима и дизајном.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "извозни торањ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Висок торањ изнад рудника; њиме су људи и угаљ ишли горе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“ (Срећно!)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Поздрав рудара – жели се да сви здрави поново изађу горе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Вила Хигел",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Велика кућа породице Круп са много соба и парком.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Балденејзе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Језеро на Руру; тамо може да се једри, весла и шета.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Гругапарк",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Велики парк са цвећем, игралиштима и животињама.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "престоница културе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Титула коју је Есен 2010. добио за целу Рурску област.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Лети многи једре на Балденејзеу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Породица Круп је живела у Вили Хигел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Идемо у обилазак рудника Цолферајн са водичем.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Извозни торањ је симбол Есена.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "У недељу идемо у Гругапарк.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "Есен је 2010. био европска престоница културе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Рот-Вајс Есен игра у улици Хафенштрасе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Рудари кажу „Glück auf!“.",
+      "answerText": "кажу"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Извозни торањ стоји изнад старог рудника.",
+      "answerText": "стоји"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Данас се угаљ више не вади из земље.",
+      "answerText": "вади"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Много туриста посећује рудник Цолферајн.",
+      "answerText": "посећује"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Рур тече кроз Балденејзе.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "парк",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "вила",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "језеро",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "музеј",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "хала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Рудник Цолферајн спада у Унескову светску баштину.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "За викенд идемо на Балденејзе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Да ли си већ био у Гругапарку?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Некада је много рудара радило под земљом.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "музеј",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "рудник",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "вила",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "угаљ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "хала",
+      "answerText": null
+    }
+  ]
+}

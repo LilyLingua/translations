@@ -1,0 +1,330 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "e6aa2e5d-e955-4e46-a727-69bcb02466aa",
+    "level": "A2"
+  },
+  "title": "Mit Bus und Bahn",
+  "topic": "Fahrkarten, Gleise und Verspätungen",
+  "tasks": [
+    {
+      "id": "bus-und-bahn-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "bus-und-bahn-matching-1",
+          "term": "die Fahrkarte",
+          "meaning": "Damit dürfen Sie mit Bus oder Bahn fahren."
+        },
+        {
+          "id": "bus-und-bahn-matching-2",
+          "term": "der Fahrkartenautomat",
+          "meaning": "Hier kaufen Sie ein Ticket ohne Schalter."
+        },
+        {
+          "id": "bus-und-bahn-matching-3",
+          "term": "das Gleis",
+          "meaning": "Hier hält der Zug im Bahnhof."
+        },
+        {
+          "id": "bus-und-bahn-matching-4",
+          "term": "die Verspätung",
+          "meaning": "Der Zug kommt später als geplant."
+        },
+        {
+          "id": "bus-und-bahn-matching-5",
+          "term": "umsteigen",
+          "meaning": "Sie wechseln von einem Zug in einen anderen."
+        },
+        {
+          "id": "bus-und-bahn-matching-6",
+          "term": "die Haltestelle",
+          "meaning": "Hier hält der Bus."
+        },
+        {
+          "id": "bus-und-bahn-matching-7",
+          "term": "das Deutschlandticket",
+          "meaning": "Ein Monatsticket für Bus und Bahn im Nahverkehr in ganz Deutschland."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "bus-und-bahn-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "bus-und-bahn-gap-1",
+          "promptBefore": "Der Zug nach Köln fährt von",
+          "promptAfter": "5.",
+          "correctAnswer": "Gleis",
+          "options": [
+            "Fahrkarte",
+            "Gleis",
+            "Haltestelle"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-2",
+          "promptBefore": "Der Zug hat zehn Minuten",
+          "promptAfter": ".",
+          "correctAnswer": "Verspätung",
+          "options": [
+            "Verspätung",
+            "Fahrkarte",
+            "Haltestelle"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-3",
+          "promptBefore": "Wo ist die nächste",
+          "promptAfter": "?",
+          "correctAnswer": "Haltestelle",
+          "options": [
+            "Gleis",
+            "Verspätung",
+            "Haltestelle"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-4",
+          "promptBefore": "Eine",
+          "promptAfter": "nach Berlin, bitte.",
+          "correctAnswer": "Fahrkarte",
+          "options": [
+            "Verspätung",
+            "Haltestelle",
+            "Fahrkarte"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-5",
+          "promptBefore": "Bitte zeigen Sie Ihr",
+          "promptAfter": ".",
+          "correctAnswer": "Ticket",
+          "options": [
+            "Gleis",
+            "Bahnhof",
+            "Ticket"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-6",
+          "promptBefore": "Die",
+          "promptAfter": "fährt alle zehn Minuten.",
+          "correctAnswer": "U-Bahn",
+          "options": [
+            "U-Bahn",
+            "Haltestelle",
+            "Fahrkarte"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "bus-und-bahn-gap-7",
+          "promptBefore": "Am",
+          "promptAfter": "können Sie Tickets kaufen.",
+          "correctAnswer": "Automaten",
+          "options": [
+            "Automaten",
+            "Ausgang",
+            "Sitzplatz"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "bus-und-bahn-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "bus-und-bahn-verbs-1",
+          "promptBefore": "Wo muss ich",
+          "promptAfter": "?",
+          "correctAnswer": "umsteigen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "umsteigen"
+        },
+        {
+          "id": "bus-und-bahn-verbs-2",
+          "promptBefore": "Der Bus",
+          "promptAfter": "um 8:15 Uhr ab.",
+          "correctAnswer": "fährt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "abfahren"
+        },
+        {
+          "id": "bus-und-bahn-verbs-3",
+          "promptBefore": "Wir",
+          "promptAfter": "um 10 Uhr in Hamburg an.",
+          "correctAnswer": "kommen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ankommen"
+        },
+        {
+          "id": "bus-und-bahn-verbs-4",
+          "promptBefore": "Bitte",
+          "promptAfter": "Sie hier aus.",
+          "correctAnswer": "steigen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "aussteigen"
+        },
+        {
+          "id": "bus-und-bahn-verbs-5",
+          "promptBefore": "Wie lange",
+          "promptAfter": "die Fahrt?",
+          "correctAnswer": "dauert",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "dauern"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "bus-und-bahn-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "bus-und-bahn-table-1",
+          "article": "der",
+          "singular": "Zug",
+          "plural": "Züge"
+        },
+        {
+          "id": "bus-und-bahn-table-2",
+          "article": "der",
+          "singular": "Bahnhof",
+          "plural": "Bahnhöfe"
+        },
+        {
+          "id": "bus-und-bahn-table-3",
+          "article": "die",
+          "singular": "Fahrkarte",
+          "plural": "Fahrkarten"
+        },
+        {
+          "id": "bus-und-bahn-table-4",
+          "article": "das",
+          "singular": "Gleis",
+          "plural": "Gleise"
+        },
+        {
+          "id": "bus-und-bahn-table-5",
+          "article": "die",
+          "singular": "Haltestelle",
+          "plural": "Haltestellen"
+        },
+        {
+          "id": "bus-und-bahn-table-6",
+          "article": "der",
+          "singular": "Bus",
+          "plural": "Busse"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "bus-und-bahn-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "bus-und-bahn-order-1",
+          "chunks": [
+            "Wann",
+            "fährt",
+            "der nächste Zug",
+            "nach München"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "bus-und-bahn-order-2",
+          "chunks": [
+            "Ich",
+            "muss",
+            "in Mannheim",
+            "umsteigen"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "bus-und-bahn-order-3",
+          "chunks": [
+            "Der Zug",
+            "hat",
+            "leider",
+            "Verspätung"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "bus-und-bahn-order-4",
+          "chunks": [
+            "Gilt",
+            "das Ticket",
+            "auch",
+            "für den Bus"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "bus-und-bahn-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "bus-und-bahn-spelling-1",
+          "correct": "Fahrkarte",
+          "wrong": "Farkarte"
+        },
+        {
+          "id": "bus-und-bahn-spelling-2",
+          "correct": "Verspätung",
+          "wrong": "Verspetung"
+        },
+        {
+          "id": "bus-und-bahn-spelling-3",
+          "correct": "Haltestelle",
+          "wrong": "Haltstelle"
+        },
+        {
+          "id": "bus-und-bahn-spelling-4",
+          "correct": "Gleis",
+          "wrong": "Gleiss"
+        },
+        {
+          "id": "bus-und-bahn-spelling-5",
+          "correct": "Bahnhof",
+          "wrong": "Banhof"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

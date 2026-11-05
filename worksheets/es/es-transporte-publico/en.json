@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "es",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:47:41.101Z"
+  },
+  "title": "Public Transportation",
+  "instructions": {
+    "es-transporte-publico-matching": "Match each word with its meaning.",
+    "es-transporte-publico-gap": "Choose the right word.",
+    "es-transporte-publico-verbs": "Write the correct verb.",
+    "es-transporte-publico-order": "Put the words in order and write the sentence.",
+    "es-transporte-publico-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "es-transporte-publico-matching-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-1:meaning",
+      "translation": "A paper or card that lets you travel.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-2",
+      "translation": "stop",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-2:meaning",
+      "translation": "The place where the bus stops.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-3",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-3:meaning",
+      "translation": "The place in the station where you get on the subway or train.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-4",
+      "translation": "delay",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-4:meaning",
+      "translation": "When the bus comes later.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-5",
+      "translation": "schedule",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-5:meaning",
+      "translation": "A list with departure times.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-6",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-matching-6:meaning",
+      "translation": "When you change from one line to another.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-gap-1",
+      "translation": "I need a ticket for the subway.",
+      "answerText": "ticket"
+    },
+    {
+      "id": "es-transporte-publico-gap-2",
+      "translation": "The train leaves from platform four.",
+      "answerText": "platform"
+    },
+    {
+      "id": "es-transporte-publico-gap-3",
+      "translation": "Get off at the next stop.",
+      "answerText": "stop"
+    },
+    {
+      "id": "es-transporte-publico-gap-4",
+      "translation": "There is a twenty-minute delay.",
+      "answerText": "delay"
+    },
+    {
+      "id": "es-transporte-publico-gap-5",
+      "translation": "Check the schedule on the website.",
+      "answerText": "schedule"
+    },
+    {
+      "id": "es-transporte-publico-gap-6",
+      "translation": "You have to transfer at Hidalgo station.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "es-transporte-publico-verbs-1",
+      "translation": "The bus comes every ten minutes.",
+      "answerText": "comes"
+    },
+    {
+      "id": "es-transporte-publico-verbs-2",
+      "translation": "Where do I buy a subway card?",
+      "answerText": "buy"
+    },
+    {
+      "id": "es-transporte-publico-verbs-3",
+      "translation": "You have to change lines here.",
+      "answerText": "have"
+    },
+    {
+      "id": "es-transporte-publico-verbs-4",
+      "translation": "The train is late today.",
+      "answerText": "is"
+    },
+    {
+      "id": "es-transporte-publico-verbs-5",
+      "translation": "Please show your ticket.",
+      "answerText": "show"
+    },
+    {
+      "id": "es-transporte-publico-order-1",
+      "translation": "Which bus goes to the airport?",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-2",
+      "translation": "The train is ten minutes late.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-3",
+      "translation": "Where is the next stop?",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-order-4",
+      "translation": "I missed the bus.",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-1",
+      "translation": "station",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-2",
+      "translation": "passenger",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-3",
+      "translation": "trip",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-4",
+      "translation": "bus",
+      "answerText": null
+    },
+    {
+      "id": "es-transporte-publico-spelling-5",
+      "translation": "line",
+      "answerText": null
+    }
+  ]
+}

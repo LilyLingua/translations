@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:57.800Z"
+  },
+  "title": "พอทสดัม",
+  "instructions": {
+    "stadt-potsdam-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-potsdam-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-potsdam-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-potsdam-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-potsdam-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-potsdam-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-potsdam-matching-1",
+      "translation": "ซองซูซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-1:meaning",
+      "translation": "พระราชวังของพระเจ้าฟรีดริชมหาราช ชื่อภาษาฝรั่งเศสแปลว่า \"ไร้กังวล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2",
+      "translation": "\"ฟริทซ์ผู้เฒ่า\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-2:meaning",
+      "translation": "ชื่อเล่นของพระเจ้าฟรีดริชที่ 2 แห่งปรัสเซีย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3",
+      "translation": "มันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-3:meaning",
+      "translation": "ฟริทซ์ผู้เฒ่าทำให้มันฝรั่งเป็นที่นิยมในปรัสเซีย ผู้คนวางมันฝรั่งบนหลุมศพของพระองค์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4",
+      "translation": "ย่านดัตช์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-4:meaning",
+      "translation": "ย่านที่มีบ้านอิฐแดงแบบเนเธอร์แลนด์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5",
+      "translation": "บาเบิลส์แบร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-5:meaning",
+      "translation": "ที่นี่มีสตูดิโอภาพยนตร์ใหญ่ ถ่ายทำภาพยนตร์มากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6",
+      "translation": "สะพานกลีนิคเคอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-6:meaning",
+      "translation": "สะพานไปเบอร์ลิน ในสงครามเย็นมีการแลกเปลี่ยนสายลับที่นี่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7",
+      "translation": "แม่น้ำฮาเฟิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-matching-7:meaning",
+      "translation": "แม่น้ำที่มีทะเลสาบมากมายรอบพอทสดัม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-1",
+      "translation": "พวกเราเยี่ยมชมพระราชวังซองซูซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-2",
+      "translation": "บนหลุมศพของฟริทซ์ผู้เฒ่ามีมันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-3",
+      "translation": "พวกเราเดินเล่นในย่านดัตช์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-4",
+      "translation": "ที่บาเบิลส์แบร์คกำลังถ่ายทำภาพยนตร์เรื่องใหม่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-5",
+      "translation": "พวกเรานั่งเรือเที่ยวแม่น้ำฮาเฟิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-6",
+      "translation": "พอทสดัมอยู่ติดกับเมืองหลวงเบอร์ลิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-gap-7",
+      "translation": "สะพานกลีนิคเคอข้ามแม่น้ำฮาเฟิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-verbs-1",
+      "translation": "พระเจ้าฟรีดริชมหาราชชอบประทับที่ซองซูซี",
+      "answerText": "ชอบ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-2",
+      "translation": "นักท่องเที่ยววางมันฝรั่งบนหลุมศพของพระองค์",
+      "answerText": "วาง"
+    },
+    {
+      "id": "stadt-potsdam-verbs-3",
+      "translation": "ที่บาเบิลส์แบร์คมีภาพยนตร์มากมายถูกถ่ายทำ",
+      "answerText": "ถูกถ่ายทำ"
+    },
+    {
+      "id": "stadt-potsdam-verbs-4",
+      "translation": "นั่งรถไฟเอสบาห์นจะถึงเบอร์ลินเร็ว",
+      "answerText": "ถึง"
+    },
+    {
+      "id": "stadt-potsdam-verbs-5",
+      "translation": "ปี 1945 การประชุมพอทสดัมจัดขึ้นที่พระราชวังเซซีลีเอินโฮฟ",
+      "answerText": "จัดขึ้น"
+    },
+    {
+      "id": "stadt-potsdam-table-1",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-2",
+      "translation": "กษัตริย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-3",
+      "translation": "มันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-4",
+      "translation": "สตูดิโอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-5",
+      "translation": "ภาพยนตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-table-6",
+      "translation": "หลุมศพ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-1",
+      "translation": "ฟริทซ์ผู้เฒ่าประทับที่ซองซูซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-2",
+      "translation": "บนหลุมศพของพระองค์มีมันฝรั่งเสมอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-3",
+      "translation": "คุณเคยไปสวนภาพยนตร์บาเบิลส์แบร์คหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-order-4",
+      "translation": "พอทสดัมอยู่ติดกับเบอร์ลิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-1",
+      "translation": "กษัตริย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-2",
+      "translation": "มันฝรั่ง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-3",
+      "translation": "พระราชวัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-4",
+      "translation": "ภาพยนตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-potsdam-spelling-5",
+      "translation": "สวน",
+      "answerText": null
+    }
+  ]
+}

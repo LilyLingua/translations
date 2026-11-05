@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.584Z"
+  },
+  "title": "保育園と学校",
+  "instructions": {
+    "kita-und-schule-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "kita-und-schule-gap": "合う単語に印をつけなさい。",
+    "kita-und-schule-verbs": "正しい動詞を正しい形で入れなさい。",
+    "kita-und-schule-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "kita-und-schule-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "kita-und-schule-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "kita-und-schule-matching-1",
+      "translation": "保護者会",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-1:meaning",
+      "translation": "保護者と先生たちの集まり。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2",
+      "translation": "保育園",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-2:meaning",
+      "translation": "小さい子どもを日中に預かるところ。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3",
+      "translation": "担任の先生（女性）",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-3:meaning",
+      "translation": "一つのクラスを担当しています。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4",
+      "translation": "通知表",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-4:meaning",
+      "translation": "学年末の成績が書いてあります。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5",
+      "translation": "欠席届",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-5:meaning",
+      "translation": "子どもが病気だったときに学校に出す短い手紙。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6",
+      "translation": "休み（長期休暇）",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-6:meaning",
+      "translation": "学校がない期間。例えば夏。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7",
+      "translation": "遠足",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-matching-7:meaning",
+      "translation": "クラスで一緒に別の場所へ行きます。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-gap-1",
+      "translation": "息子は病気です。今日は学校に行けません。",
+      "answerText": "学校"
+    },
+    {
+      "id": "kita-und-schule-gap-2",
+      "translation": "保護者会で保護者が先生と話します。",
+      "answerText": "保護者会"
+    },
+    {
+      "id": "kita-und-schule-gap-3",
+      "translation": "夏、子どもたちは6週間の休みがあります。",
+      "answerText": "休み"
+    },
+    {
+      "id": "kita-und-schule-gap-4",
+      "translation": "学年末に娘は通知表をもらいます。",
+      "answerText": "通知表"
+    },
+    {
+      "id": "kita-und-schule-gap-5",
+      "translation": "子どもが病気だったので、先生に欠席届を書きます。",
+      "answerText": "欠席届"
+    },
+    {
+      "id": "kita-und-schule-gap-6",
+      "translation": "子どもたちは毎日宿題をしなければなりません。",
+      "answerText": "宿題"
+    },
+    {
+      "id": "kita-und-schule-gap-7",
+      "translation": "うちの子は3歳で、保育園に通っています。",
+      "answerText": "保育園"
+    },
+    {
+      "id": "kita-und-schule-verbs-1",
+      "translation": "16時に子どもを迎えに行きます。",
+      "answerText": "迎えに行きます"
+    },
+    {
+      "id": "kita-und-schule-verbs-2",
+      "translation": "娘は今日、残念ながら病気です。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-verbs-3",
+      "translation": "面談の日時を決めてもいいですか？",
+      "answerText": "決めても"
+    },
+    {
+      "id": "kita-und-schule-verbs-4",
+      "translation": "授業は8時に始まります。",
+      "answerText": "始まります"
+    },
+    {
+      "id": "kita-und-schule-verbs-5",
+      "translation": "金曜日までに用紙にサインしてください。",
+      "answerText": "サインして"
+    },
+    {
+      "id": "kita-und-schule-table-1",
+      "translation": "子ども",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-2",
+      "translation": "クラス",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-3",
+      "translation": "先生",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-4",
+      "translation": "ノート",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-5",
+      "translation": "成績",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-table-6",
+      "translation": "ペン",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-1",
+      "translation": "息子は今日病気です。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-2",
+      "translation": "保護者会は何時に始まりますか？",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-3",
+      "translation": "15時に娘を迎えに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-order-4",
+      "translation": "子どもは遠足に何か必要ですか？",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-1",
+      "translation": "保護者会",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-2",
+      "translation": "通知表",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-3",
+      "translation": "欠席届",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-4",
+      "translation": "宿題",
+      "answerText": null
+    },
+    {
+      "id": "kita-und-schule-spelling-5",
+      "translation": "担任の先生",
+      "answerText": null
+    }
+  ]
+}

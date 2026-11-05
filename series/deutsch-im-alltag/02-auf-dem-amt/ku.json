@@ -1,0 +1,832 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Am Eingang",
+      "de": "Ich möchte mich anmelden.",
+      "text": "Ez dixwazim xwe qeyd bikim."
+    },
+    {
+      "scene": "Eine Nummer ziehen",
+      "de": "Ich ziehe eine Nummer.",
+      "text": "Ez hejmarekê digirim."
+    },
+    {
+      "scene": "Der Aufruf",
+      "de": "147 – Platz 12",
+      "text": "147 – maseya 12"
+    },
+    {
+      "scene": "Am Platz",
+      "de": "Ich möchte meine neue Wohnung anmelden.",
+      "text": "Ez dixwazim xaniyê xwe yê nû qeyd bikim."
+    },
+    {
+      "scene": "Die Wohnungsgeberbestätigung",
+      "de": "Hier ist die Bestätigung von meinem Vermieter.",
+      "text": "Va ye piştrastkirina xwediyê xaniyê min."
+    },
+    {
+      "scene": "Der Ausweis",
+      "de": "Hier ist mein Reisepass.",
+      "text": "Va ye pasaporta min."
+    },
+    {
+      "scene": "Buchstabieren",
+      "de": "Ich buchstabiere: N – O – W – A – K.",
+      "text": "Ez tîp bi tîp dibêjim: N – O – W – A – K."
+    },
+    {
+      "scene": "Familienstand",
+      "de": "Ich bin ledig.",
+      "text": "Ez bekar im."
+    },
+    {
+      "scene": "Unterschreiben",
+      "de": "Wo soll ich unterschreiben?",
+      "text": "Ez li ku îmze bikim?"
+    },
+    {
+      "scene": "Die Meldebescheinigung",
+      "de": "Brauche ich sonst noch etwas?",
+      "text": "Tiştekî din jî ji min re lazim e?"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 3.97,
+      "text": "Ez bar kirim! Xaniyê nû, bajarê nû…"
+    },
+    {
+      "start": 4.07,
+      "end": 7.56,
+      "text": "Pir baş! Û – te xwe qeyd kir an na?"
+    },
+    {
+      "start": 7.66,
+      "end": 11.22,
+      "text": "Qeyd? Li ku? Li salona werzişê?"
+    },
+    {
+      "start": 11.32,
+      "end": 20,
+      "text": "Na, Leo. Li dezgeha fermî! Îro tu dê randevûyeke temam li „Bürgeramt“ biceribînî – ji derî heta belgeya qeydê."
+    },
+    {
+      "start": 20.05,
+      "end": 24.32,
+      "text": "Û di her rewşê de em ji te dipirsin: Tu çi dibêjî?"
+    },
+    {
+      "start": 24.42,
+      "end": 26.79,
+      "text": "Û tenê pênc çirkeyên te hene!"
+    },
+    {
+      "start": 30.09,
+      "end": 34.39,
+      "text": "Tu tê Bürgeramtê. Li maseya agahiyê mêrek rûniştiye."
+    },
+    {
+      "start": 34.49,
+      "end": 37.24,
+      "text": "Rojbaş. Karê we çi ye?"
+    },
+    {
+      "start": 37.34,
+      "end": 38.57,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.18,
+      "text": "A: Rojbaş. Ez dixwazim xwe qeyd bikim."
+    },
+    {
+      "start": 42.23,
+      "end": 44.91,
+      "text": "B: Ez karek im."
+    },
+    {
+      "start": 44.96,
+      "end": 47.41,
+      "text": "C: Ez dezgehekê dixwazim."
+    },
+    {
+      "start": 53.11,
+      "end": 57.71,
+      "text": "A! „Anliegen“ tê wateya: Hûn çima li vir in? Çi ji we re lazim e?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.32,
+      "text": "Li dezgehên fermî tu vê peyvê pir dibihîzî."
+    },
+    {
+      "start": 61.57,
+      "end": 64.52,
+      "text": "Rojbaş. Ez dixwazim xwe qeyd bikim."
+    },
+    {
+      "start": 64.61,
+      "end": 66.51,
+      "text": "Randevûya we heye?"
+    },
+    {
+      "start": 66.61,
+      "end": 68.51,
+      "text": "Erê, saet di nehan de."
+    },
+    {
+      "start": 68.61,
+      "end": 70.01,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 70.06,
+      "end": 72.3,
+      "text": "Ez dixwazim xwe qeyd bikim."
+    },
+    {
+      "start": 75.23,
+      "end": 78.28,
+      "text": "Saet di nehan de randevûya min heye."
+    },
+    {
+      "start": 82.64,
+      "end": 86.86,
+      "text": "Baş e. Wê demê ji kerema xwe hejmarekê bikişînin û li wir bisekinin."
+    },
+    {
+      "start": 86.96,
+      "end": 88.7,
+      "text": "Tu niha çi dikî?"
+    },
+    {
+      "start": 88.8,
+      "end": 91.09,
+      "text": "A: Tu bar dikî."
+    },
+    {
+      "start": 91.14,
+      "end": 94.23,
+      "text": "B: Tu porê yekî dikişînî."
+    },
+    {
+      "start": 94.28,
+      "end": 98.74,
+      "text": "C: Tu ji makîneyê kaxezeke bi hejmar digirî."
+    },
+    {
+      "start": 103.94,
+      "end": 108.24,
+      "text": "Yanî A! Ez bar dikim. Min ji nû ve bar kiriye…"
+    },
+    {
+      "start": 108.89,
+      "end": 115.64,
+      "text": "Na, Leo. C! „Eine Nummer ziehen“ tê wateya: tu kaxezeke bi hejmara rêza xwe digirî."
+    },
+    {
+      "start": 115.69,
+      "end": 121.65,
+      "text": "„Umziehen“ tiştekî bi tevahî cuda ye – tê wateya: çûna xaniyekî nû."
+    },
+    {
+      "start": 121.9,
+      "end": 123.31,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 123.36,
+      "end": 125.7,
+      "text": "Ez hejmarekê digirim."
+    },
+    {
+      "start": 129.25,
+      "end": 134.26,
+      "text": "Tu disekinî. Ji nişkê ve tu ragihandinekê dibihîzî. Baş guhdarî bike!"
+    },
+    {
+      "start": 134.36,
+      "end": 138.6,
+      "text": "Hejmara 147, ji kerema xwe ber bi maseya 12."
+    },
+    {
+      "start": 138.7,
+      "end": 143.24,
+      "text": "Hejmara te 147 e. Tu diçî ku?"
+    },
+    {
+      "start": 143.34,
+      "end": 146.83,
+      "text": "A: Ber bi maseya 147."
+    },
+    {
+      "start": 146.88,
+      "end": 149.4,
+      "text": "B: Ber bi maseya 12."
+    },
+    {
+      "start": 149.45,
+      "end": 152.13,
+      "text": "C: Ber bi odeya 14."
+    },
+    {
+      "start": 157.83,
+      "end": 160.75,
+      "text": "B! Pêşî hejmara te tê, paşê mase."
+    },
+    {
+      "start": 160.8,
+      "end": 164.61,
+      "text": "Li gelek dezgehan ev li ser ekranekê jî tê nîşandan."
+    },
+    {
+      "start": 164.86,
+      "end": 166.26,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 166.31,
+      "end": 170.61,
+      "text": "147 – maseya 12"
+    },
+    {
+      "start": 176.42,
+      "end": 180.3,
+      "text": "Tu diçî maseya 12. Li wir jinek rûniştiye."
+    },
+    {
+      "start": 180.4,
+      "end": 184.28,
+      "text": "Rojbaş. Fermo rûnin. Ez çawa dikarim alîkariya we bikim?"
+    },
+    {
+      "start": 184.38,
+      "end": 185.6,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 185.65,
+      "end": 188.49,
+      "text": "A: Ez dixwazim we qeyd bikim."
+    },
+    {
+      "start": 188.54,
+      "end": 192.11,
+      "text": "B: Ez dixwazim xaniyê xwe yê nû qeyd bikim."
+    },
+    {
+      "start": 192.16,
+      "end": 195.41,
+      "text": "C: Ez niha li vir dijîm. Bi xatirê we!"
+    },
+    {
+      "start": 201.11,
+      "end": 206.75,
+      "text": "B! Tu xaniyê xwe qeyd dikî – an xwe: „Ich möchte mich anmelden.“"
+    },
+    {
+      "start": 206.8,
+      "end": 210.84,
+      "text": "Lê ne „Sie“ (we) – Xatûn Krüger berê qeydkirî ye."
+    },
+    {
+      "start": 211.09,
+      "end": 213.69,
+      "text": "Ez dixwazim xaniyê xwe yê nû qeyd bikim."
+    },
+    {
+      "start": 213.79,
+      "end": 216.55,
+      "text": "Bê guman. Hûn kengî bar kirin?"
+    },
+    {
+      "start": 216.65,
+      "end": 218.47,
+      "text": "Di yekê cotmehê de."
+    },
+    {
+      "start": 218.57,
+      "end": 219.97,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 220.03,
+      "end": 223.38,
+      "text": "Ez dixwazim xaniyê xwe yê nû qeyd bikim."
+    },
+    {
+      "start": 227.61,
+      "end": 231.07,
+      "text": "Ez di yekê cotmehê de bar kirim."
+    },
+    {
+      "start": 235.92,
+      "end": 238.67,
+      "text": "Piştrastkirina xwediyê xanî bi we re ye?"
+    },
+    {
+      "start": 238.77,
+      "end": 242.34,
+      "text": "Ax, peyveke dirêj! Tu çi dibêjî?"
+    },
+    {
+      "start": 242.44,
+      "end": 245.77,
+      "text": "A: Na, ez xaniyan nadim."
+    },
+    {
+      "start": 245.82,
+      "end": 249.31,
+      "text": "B: Erê, ez xaniyê xwe didim we."
+    },
+    {
+      "start": 249.36,
+      "end": 253.58,
+      "text": "C: Erê, va ye piştrastkirina xwediyê xaniyê min."
+    },
+    {
+      "start": 259.28,
+      "end": 267.17,
+      "text": "C! „Wohnungsgeberbestätigung“ formeke ji xwediyê xaniyê te ye. Tê de dinivîse ku tu bi rastî di vî xanî de dijî."
+    },
+    {
+      "start": 267.22,
+      "end": 270.92,
+      "text": "Bêyî vê kaxezê qeyd bi gelemperî nabe."
+    },
+    {
+      "start": 271.17,
+      "end": 274.51,
+      "text": "Erê, va ye piştrastkirina xwediyê xaniyê min."
+    },
+    {
+      "start": 274.61,
+      "end": 276.01,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 276.06,
+      "end": 279.52,
+      "text": "Va ye piştrastkirina xwediyê xaniyê min."
+    },
+    {
+      "start": 284.37,
+      "end": 287.31,
+      "text": "Û nasnameya we an pasaporta we, ji kerema xwe."
+    },
+    {
+      "start": 287.41,
+      "end": 288.63,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 288.68,
+      "end": 291.36,
+      "text": "A: Va ye pasaporta min."
+    },
+    {
+      "start": 291.41,
+      "end": 294.17,
+      "text": "B: Va ne pasaporta min."
+    },
+    {
+      "start": 294.22,
+      "end": 296.98,
+      "text": "C: Ez pasaport im."
+    },
+    {
+      "start": 302.68,
+      "end": 305.5,
+      "text": "A! Pasaportek – yanî „ist“, ne „sind“. Li dezgeha fermî hema her tim pasaport an nasname lazim e."
+    },
+    {
+      "start": 305.55,
+      "end": 310.94,
+      "text": "Û heke te ji bîr kiribe, bi rastî bibêje: „Entschuldigung, den habe ich leider vergessen.“"
+    },
+    {
+      "start": 310.99,
+      "end": 318.08,
+      "text": "(Bibore, mixabin min ji bîr kir.)"
+    },
+    {
+      "start": 318.33,
+      "end": 320.14,
+      "text": "Va ye pasaporta min."
+    },
+    {
+      "start": 320.25,
+      "end": 321.65,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 321.7,
+      "end": 323.94,
+      "text": "Va ye pasaporta min."
+    },
+    {
+      "start": 326.87,
+      "end": 330.65,
+      "text": "Bibore, mixabin min ji bîr kir."
+    },
+    {
+      "start": 335.85,
+      "end": 338.14,
+      "text": "Paşnavê we çawa tê nivîsandin?"
+    },
+    {
+      "start": 338.24,
+      "end": 341.34,
+      "text": "Navê te Nowak e. Tu çi dibêjî?"
+    },
+    {
+      "start": 341.44,
+      "end": 344.12,
+      "text": "A: Bi qelema hibrê."
+    },
+    {
+      "start": 344.17,
+      "end": 349.33,
+      "text": "B: Ez tîp bi tîp dibêjim: N – O – W – A – K."
+    },
+    {
+      "start": 349.38,
+      "end": 352.4,
+      "text": "C: Pir xweş tê nivîsandin."
+    },
+    {
+      "start": 358.1,
+      "end": 365.79,
+      "text": "B! „Wie schreibt man …?“ tê wateya: Kîjan tîp? Wê demê tu tîp bi tîp dibêjî."
+    },
+    {
+      "start": 365.84,
+      "end": 370.31,
+      "text": "Navê xwe bi almanî biceribîne, li her derê lazim e!"
+    },
+    {
+      "start": 370.56,
+      "end": 373.58,
+      "text": "N – O – W – A – K."
+    },
+    {
+      "start": 373.68,
+      "end": 374.88,
+      "text": "Spas."
+    },
+    {
+      "start": 374.94,
+      "end": 376.35,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 376.4,
+      "end": 382.11,
+      "text": "Ez tîp bi tîp dibêjim: N – O – W – A – K."
+    },
+    {
+      "start": 389.54,
+      "end": 391.36,
+      "text": "Hûn zewicî ne?"
+    },
+    {
+      "start": 391.45,
+      "end": 394.71,
+      "text": "Tu ne zewicî yî. Tu çi dibêjî?"
+    },
+    {
+      "start": 394.81,
+      "end": 397.83,
+      "text": "A: Na, ez bekar im."
+    },
+    {
+      "start": 397.88,
+      "end": 400.98,
+      "text": "B: Na, ez mixabin im."
+    },
+    {
+      "start": 401.02,
+      "end": 404.12,
+      "text": "C: Na, ez zewicandin im."
+    },
+    {
+      "start": 409.82,
+      "end": 419.92,
+      "text": "A! „Ledig“ tê wateya: ne zewicî. Baldar be: „leider“ dişibe wê, lê wateya wê bi tevahî cuda ye – „leider“"
+    },
+    {
+      "start": 419.97,
+      "end": 421.31,
+      "text": "yanî: mixabin."
+    },
+    {
+      "start": 421.56,
+      "end": 423.69,
+      "text": "Na, ez bekar im."
+    },
+    {
+      "start": 423.79,
+      "end": 425.19,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 425.24,
+      "end": 427.16,
+      "text": "Ez bekar im."
+    },
+    {
+      "start": 429.74,
+      "end": 431.87,
+      "text": "Ez zewicî me."
+    },
+    {
+      "start": 435.18,
+      "end": 440.11,
+      "text": "Ji kerema xwe agahiyan kontrol bikin. Heke her tişt rast be, ji kerema xwe li vir îmze bikin."
+    },
+    {
+      "start": 440.21,
+      "end": 441.43,
+      "text": "Tu çi dibêjî?"
+    },
+    {
+      "start": 441.48,
+      "end": 444.5,
+      "text": "A: Ez wê di binê maseyê de dinivîsim."
+    },
+    {
+      "start": 444.55,
+      "end": 447.56,
+      "text": "B: Ez hez nakim îmze bikim."
+    },
+    {
+      "start": 447.62,
+      "end": 451.57,
+      "text": "C: Her tişt rast e. Ez tam li ku îmze bikim?"
+    },
+    {
+      "start": 457.27,
+      "end": 463.38,
+      "text": "C! „Unterschreiben“ tê wateya: navê xwe bi destê xwe nivîsandin – îmzeya te."
+    },
+    {
+      "start": 463.43,
+      "end": 467.71,
+      "text": "Û şîretek: her tim pêşî bixwîne ku di formê de çi nivîsandî ye."
+    },
+    {
+      "start": 467.96,
+      "end": 471.06,
+      "text": "Her tişt rast e. Ez tam li ku îmze bikim?"
+    },
+    {
+      "start": 471.16,
+      "end": 473.06,
+      "text": "Li vir, li jêr, ji kerema xwe."
+    },
+    {
+      "start": 473.16,
+      "end": 474.56,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 474.61,
+      "end": 476.74,
+      "text": "Ez li ku îmze bikim?"
+    },
+    {
+      "start": 480.06,
+      "end": 483.7,
+      "text": "Wisa, qediya. Va ye belgeya qeyda we."
+    },
+    {
+      "start": 483.8,
+      "end": 486.48,
+      "text": "Te qedand! Tu çi dibêjî?"
+    },
+    {
+      "start": 486.58,
+      "end": 489.34,
+      "text": "A: Spas, ez ê li we vegerim."
+    },
+    {
+      "start": 489.39,
+      "end": 493.19,
+      "text": "B: Gelek spas! Tiştekî din jî ji min re lazim e?"
+    },
+    {
+      "start": 493.24,
+      "end": 495.76,
+      "text": "C: Tiştek li min nîne!"
+    },
+    {
+      "start": 501.46,
+      "end": 509.79,
+      "text": "B! Û baldar be bi A: „Ich melde mich“ nayê wateya „ez xwe qeyd dikim“, lê: ez ê paşê li we bigerim."
+    },
+    {
+      "start": 509.84,
+      "end": 514.72,
+      "text": "Û belkî C tê bîra te – ew tenê li cem bijîşk li cih e!"
+    },
+    {
+      "start": 514.97,
+      "end": 518.07,
+      "text": "Gelek spas! Tiştekî din jî ji min re lazim e?"
+    },
+    {
+      "start": 518.17,
+      "end": 522.55,
+      "text": "Na, ev hemû bû. Belgeyê baş biparêzin."
+    },
+    {
+      "start": 522.65,
+      "end": 524.05,
+      "text": "Dubare bike!"
+    },
+    {
+      "start": 524.1,
+      "end": 526.76,
+      "text": "Tiştekî din jî ji min re lazim e?"
+    },
+    {
+      "start": 530.67,
+      "end": 537.19,
+      "text": "Sê şîret li ser qeydê. Yekem: di nav du hefteyan de piştî ku tu bar dikî, xwe qeyd bike."
+    },
+    {
+      "start": 537.44,
+      "end": 543.41,
+      "text": "Duyem: li gelek bajaran randevû lazim e – pir caran tu dikarî wê online bigirî."
+    },
+    {
+      "start": 543.66,
+      "end": 549.73,
+      "text": "Û sêyem: belgeya qeydê pir caran dîsa ji te re lazim dibe, wek mînak ji bo hesabê bankê."
+    },
+    {
+      "start": 549.78,
+      "end": 551.23,
+      "text": "Lewma baş biparêze!"
+    },
+    {
+      "start": 551.58,
+      "end": 558.25,
+      "text": "Li dezgeha fermî almanî carinan pir tevlihev xuya dike. Leo dixwîne – û ez bi hêsanî dibêjim."
+    },
+    {
+      "start": 558.5,
+      "end": 560.32,
+      "text": "Karê we çi ye?"
+    },
+    {
+      "start": 560.52,
+      "end": 562.08,
+      "text": "Çi ji we re lazim e?"
+    },
+    {
+      "start": 562.73,
+      "end": 565.33,
+      "text": "Ji kerema xwe belgeyên xwe amade bigirin."
+    },
+    {
+      "start": 565.53,
+      "end": 568.28,
+      "text": "Ji kerema xwe kaxezên xwe di destê xwe de bigirin."
+    },
+    {
+      "start": 568.93,
+      "end": 571.77,
+      "text": "Formê bi tevahî tije bikin."
+    },
+    {
+      "start": 571.97,
+      "end": 574.49,
+      "text": "Li her derê tiştekî binivîsin."
+    },
+    {
+      "start": 575.14,
+      "end": 578.08,
+      "text": "Kar nêzî du hefteyan dom dike."
+    },
+    {
+      "start": 578.28,
+      "end": 581.04,
+      "text": "Ev qasî du hefteyan dom dike."
+    },
+    {
+      "start": 581.69,
+      "end": 584.13,
+      "text": "Ji kerema xwe belgeyan paşê radest bikin."
+    },
+    {
+      "start": 584.34,
+      "end": 587.17,
+      "text": "Ji kerema xwe kaxezan paşê bînin."
+    },
+    {
+      "start": 587.82,
+      "end": 589.79,
+      "text": "Îro ez cilên xwe diguherînim!"
+    },
+    {
+      "start": 589.95,
+      "end": 597.9,
+      "text": "Ax, tu cilên din li xwe dikî? An mebesta te ev e: „Ich ziehe um“ – ez bar dikim xaniyekî nû?"
+    },
+    {
+      "start": 598.35,
+      "end": 603.18,
+      "text": "Û li dezgeha fermî: ne „Ich bin leider“, lê „Ich bin ledig“"
+    },
+    {
+      "start": 603.23,
+      "end": 605.99,
+      "text": "(ez bekar im) – heke tu ne zewicî bî."
+    },
+    {
+      "start": 606.44,
+      "end": 613.77,
+      "text": "Û „Ich melde mich“ tê wateya: ez ê paşê bigerim. Li dezgeha fermî tu dibêjî: „Ich melde mich an.“ (Ez xwe qeyd dikim.)"
+    },
+    {
+      "start": 614.22,
+      "end": 619.88,
+      "text": "Û niha her tişt careke din. Deh hevokên herî girîng. Dubare bike!"
+    },
+    {
+      "start": 619.93,
+      "end": 622.17,
+      "text": "Ez dixwazim xwe qeyd bikim."
+    },
+    {
+      "start": 625.1,
+      "end": 628.25,
+      "text": "Saet di nehan de randevûya min heye."
+    },
+    {
+      "start": 632.23,
+      "end": 634.47,
+      "text": "Ez hejmarekê digirim."
+    },
+    {
+      "start": 637.4,
+      "end": 640.55,
+      "text": "Ez dixwazim xaniyê xwe yê nû qeyd bikim."
+    },
+    {
+      "start": 644.54,
+      "end": 648,
+      "text": "Va ye piştrastkirina xwediyê xaniyê min."
+    },
+    {
+      "start": 652.34,
+      "end": 654.79,
+      "text": "Va ye pasaporta min."
+    },
+    {
+      "start": 657.96,
+      "end": 660.9,
+      "text": "Ez navê xwe tîp bi tîp dibêjim."
+    },
+    {
+      "start": 664.65,
+      "end": 666.57,
+      "text": "Ez bekar im."
+    },
+    {
+      "start": 669.14,
+      "end": 671.27,
+      "text": "Ez li ku îmze bikim?"
+    },
+    {
+      "start": 674.08,
+      "end": 676.74,
+      "text": "Tiştekî din jî ji min re lazim e?"
+    },
+    {
+      "start": 680.15,
+      "end": 684.61,
+      "text": "Kîjan peyv ji bo te herî zehmet bû? Di şîroveyan de binivîse!"
+    },
+    {
+      "start": 684.71,
+      "end": 687.65,
+      "text": "Bi xatirê te, heta demeke nêzîk li LilyLingua!"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:59.199Z"
+  },
+  "title": "У лікаря",
+  "instructions": {
+    "pl-u-lekarza-matching": "З'єднай кожне слово з його значенням.",
+    "pl-u-lekarza-gap": "Вибери правильне слово.",
+    "pl-u-lekarza-verbs": "Встав правильне дієслово.",
+    "pl-u-lekarza-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-u-lekarza-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-u-lekarza-matching-1",
+      "translation": "візит",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-1:meaning",
+      "translation": "Зустріч із лікарем у призначений час.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2",
+      "translation": "симптом",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-2:meaning",
+      "translation": "Ознака хвороби, наприклад гарячка.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3",
+      "translation": "гарячка",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-3:meaning",
+      "translation": "Занадто висока температура тіла.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4",
+      "translation": "реєстратура",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-4:meaning",
+      "translation": "Місце в поліклініці, де записують до лікаря.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5",
+      "translation": "направлення",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-5:meaning",
+      "translation": "Документ від лікаря до іншого лікаря або на обстеження.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6",
+      "translation": "лікарняний",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-matching-6:meaning",
+      "translation": "Документ про те, що людина хвора й не може працювати.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-gap-1",
+      "translation": "Я хочу записатися на візит на завтра.",
+      "answerText": "візит"
+    },
+    {
+      "id": "pl-u-lekarza-gap-2",
+      "translation": "З учорашнього дня в мене гарячка.",
+      "answerText": "гарячка"
+    },
+    {
+      "id": "pl-u-lekarza-gap-3",
+      "translation": "Будь ласка, запишіться в реєстратурі.",
+      "answerText": "реєстратурі"
+    },
+    {
+      "id": "pl-u-lekarza-gap-4",
+      "translation": "Лікар дав мені направлення на аналіз крові.",
+      "answerText": "направлення"
+    },
+    {
+      "id": "pl-u-lekarza-gap-5",
+      "translation": "Мені потрібен лікарняний для роботодавця.",
+      "answerText": "лікарняний"
+    },
+    {
+      "id": "pl-u-lekarza-gap-6",
+      "translation": "Які у вас симптоми?",
+      "answerText": "симптоми"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-1",
+      "translation": "У мене болить горло.",
+      "answerText": "болить"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-2",
+      "translation": "Я погано сплю вночі.",
+      "answerText": "сплю"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-3",
+      "translation": "Лікар вимірює мені тиск.",
+      "answerText": "вимірює"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-4",
+      "translation": "Вам треба залишитися в ліжку два дні.",
+      "answerText": "залишитися"
+    },
+    {
+      "id": "pl-u-lekarza-verbs-5",
+      "translation": "Будь ласка, дихайте глибоко.",
+      "answerText": "дихайте"
+    },
+    {
+      "id": "pl-u-lekarza-order-1",
+      "translation": "У мене болить живіт.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-2",
+      "translation": "Коли я можу прийти на візит?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-3",
+      "translation": "Чи потрібен мені рецепт?",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-order-4",
+      "translation": "Будь ласка, приходьте наступного тижня.",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-1",
+      "translation": "лікар",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-2",
+      "translation": "поліклініка",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-3",
+      "translation": "тиск",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-4",
+      "translation": "здоров'я",
+      "answerText": null
+    },
+    {
+      "id": "pl-u-lekarza-spelling-5",
+      "translation": "живіт",
+      "answerText": null
+    }
+  ]
+}

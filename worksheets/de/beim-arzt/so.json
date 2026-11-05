@@ -1,0 +1,253 @@
+{
+  "_meta": {
+    "language": "so",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Booqashada dhakhtarka",
+  "instructions": {
+    "beim-arzt-matching": "Eray kasta ku xidh sharraxaadda saxda ah.",
+    "beim-arzt-gap": "Calaamadee erayga saxda ah.",
+    "beim-arzt-verbs": "Ku buuxi falka saxda ah, qaabka saxda ah.",
+    "beim-arzt-table": "Ku buuxi qodobka (der/die/das) iyo qaabka wadarta.",
+    "beim-arzt-order": "Erayada u habee si sax ah oo qor jumladda.",
+    "beim-arzt-spelling": "Erayga kee ayaa si sax ah loo qoray? Calaamadee."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "kaarka caymiska caafimaadka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Kaarkan waxaad ku tustaa miiska soo dhaweynta. Wuxuu muujinayaa caymiskaaga caafimaadka.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "ballanta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Waqti go'an oo aad imanayso rugta caafimaadka.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "qolka sugitaanka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Halkan ayaad ku fadhiyaysaa ilaa lagaa yeedho.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "warqadda daawada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Iyada ayaad farmashiyaha daawo kaga qaadataa.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "warqadda fasaxa jirrada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Loo-shaqeeyahaagu wuxuu helaa warqaddan marka aad jiran tahay.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "qandhada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Heerkulka jidhkaagu aad buu u sarreeyaa, tusaale ahaan 39 darajo.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "xasaasiyadda",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Jidhku si xooggan ayuu wax ugu falceliyaa, tusaale ahaan penicillin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "wicitaanka degdegga",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Lambarka 112 – shil ama xaalad degdeg ah.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Salaan, waxaan jeclaan lahaa inaan qabsado ballan.",
+      "answerText": "ballan"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Ma wadataa kaarka caymiska caafimaadka?",
+      "answerText": "kaarka caymiska caafimaadka"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Fadlan ku fadhiiso qolka sugitaanka.",
+      "answerText": "qolka sugitaanka"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Waxaan qabaa madax-xanuun iyo qandho.",
+      "answerText": "madax-xanuun"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Calooshaa i xanuunaysa.",
+      "answerText": "Calooshaa"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Waxaan xasaasiyad ku leeyahay penicillin.",
+      "answerText": "penicillin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Waxaan u baahanahay warqadda fasaxa jirrada oo aan siiyo loo-shaqeeyahayga.",
+      "answerText": "warqadda fasaxa jirrada"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Kiniiniyada qaado saddex jeer maalintii cuntada kadib.",
+      "answerText": "cuntada"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Fadlan, ma si tartiib ah u sheegi kartaa taas?",
+      "answerText": "sheegi"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Saddex maalmood ayaan qandho qabay.",
+      "answerText": "qabay"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Madaxa ayaa aad ii xanuunaya.",
+      "answerText": "xanuunaya"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Fadlan si qoto dheer u neefso – oo neefta mar kale soo saar.",
+      "answerText": "neefso"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Dhakhtarku wuxuu i siinayaa warqadda daawada.",
+      "answerText": "siinayaa"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Dhawaan ayaan kuu yeeri doonnaa.",
+      "answerText": "yeeri doonnaa"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "dhakhtarka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "kiniinka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "warqadda daawada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "ballanta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "rugta caafimaadka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "daawada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Waxaan jeclaan lahaa inaan qabsado ballan.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Saddex maalmood ayaan qandho qabay.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Fadlan, ma ku celin kartaa taas?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Halkee kaa xanuunaysaa?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "madax-xanuun",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "warqadda fasaxa jirrada",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "kaarka caymiska caafimaadka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "xasaasiyad leh",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "kiniin",
+      "answerText": null
+    }
+  ]
+}

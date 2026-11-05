@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:24:11.659Z"
+  },
+  "title": "Chez le médecin",
+  "instructions": {
+    "beim-arzt-matching": "Reliez chaque mot à l'explication qui convient.",
+    "beim-arzt-gap": "Cochez le mot qui convient.",
+    "beim-arzt-verbs": "Complétez avec le bon verbe à la bonne forme.",
+    "beim-arzt-table": "Complétez l'article (der/die/das) et la forme du pluriel.",
+    "beim-arzt-order": "Remettez les mots dans le bon ordre et écrivez la phrase.",
+    "beim-arzt-spelling": "Quel mot est bien écrit ? Cochez-le."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "la carte d'assurance maladie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Vous montrez cette carte à l'accueil. Elle indique votre caisse d'assurance maladie.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "le rendez-vous",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Une heure fixe à laquelle vous venez au cabinet.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "la salle d'attente",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Vous vous asseyez ici jusqu'à ce qu'on vous appelle.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "l'ordonnance",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Avec elle, vous recevez un médicament à la pharmacie.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "l'arrêt de travail",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Votre employeur reçoit ce papier quand vous êtes malade.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "la fièvre",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "La température du corps est trop élevée, par exemple 39 degrés.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "l'allergie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Le corps réagit fortement à quelque chose, par exemple à la pénicilline.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "l'appel d'urgence",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Le numéro 112 – en cas d'accident ou d'urgence.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Bonjour, je voudrais prendre rendez-vous.",
+      "answerText": "rendez-vous"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Avez-vous votre carte d'assurance maladie ?",
+      "answerText": "carte d'assurance maladie"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Veuillez vous asseoir dans la salle d'attente.",
+      "answerText": "salle d'attente"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "J'ai mal à la tête et de la fièvre.",
+      "answerText": "mal à la tête"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "J'ai mal au ventre.",
+      "answerText": "ventre"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Je suis allergique à la pénicilline.",
+      "answerText": "pénicilline"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "J'ai besoin d'un arrêt de travail pour mon employeur.",
+      "answerText": "arrêt de travail"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Prenez les comprimés trois fois par jour après le repas.",
+      "answerText": "repas"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Pouvez-vous le dire plus lentement, s'il vous plaît ?",
+      "answerText": "dire"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "J'ai de la fièvre depuis trois jours.",
+      "answerText": "ai"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "J'ai très mal à la tête.",
+      "answerText": "ai"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Veuillez inspirer profondément, puis expirer.",
+      "answerText": "inspirer"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "La médecin me donne une ordonnance.",
+      "answerText": "donne"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Nous vous appelons tout de suite.",
+      "answerText": "appelons"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "le médecin",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "le comprimé",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "l'ordonnance",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "le rendez-vous",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "le cabinet médical",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "le médicament",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Je voudrais prendre rendez-vous.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "J'ai de la fièvre depuis trois jours.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Pouvez-vous répéter, s'il vous plaît ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Où avez-vous mal ?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "mal de tête",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "arrêt de travail",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "carte d'assurance maladie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergique",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "comprimé",
+      "answerText": null
+    }
+  ]
+}

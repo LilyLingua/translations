@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:07.002Z"
+  },
+  "title": "Mannheim",
+  "instructions": {
+    "stadt-mannheim-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-mannheim-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-mannheim-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-mannheim-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-mannheim-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-mannheim-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-mannheim-matching-1",
+      "translation": "\"Quadrate\" (kareler)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-1:meaning",
+      "translation": "Şehir merkezi bir satranç tahtası gibidir; adresler örneğin \"Q6\" veya \"N1\" diye adlandırılır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2",
+      "translation": "Su Kulesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-2:meaning",
+      "translation": "Mannheim'ın simgesi; önünde güzel bir park ve çeşme var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3",
+      "translation": "spagetti dondurma (\"Spaghettieis\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-3:meaning",
+      "translation": "Domates soslu spagettiye benzeyen dondurma – Mannheim'da icat edildi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4",
+      "translation": "saray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-4:meaning",
+      "translation": "Büyük barok saray; bugün orada üniversite var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5",
+      "translation": "\"Laufmaschine\" (koşu makinesi)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-5:meaning",
+      "translation": "Karl Drais onu 1817'de Mannheim'da icat etti – bisikletin atası.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6",
+      "translation": "\"Monnem\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-6:meaning",
+      "translation": "Mannheimlılar şehirlerine lehçede böyle der.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7",
+      "translation": "\"Adler\" (Kartallar)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-matching-7:meaning",
+      "translation": "Mannheim'ın buz hokeyi takımı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-1",
+      "translation": "Su Kulesi'nin fotoğrafını çekiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-2",
+      "translation": "Kafede bir spagetti dondurma sipariş ediyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-3",
+      "translation": "Birçok öğrenci sarayda okuyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-4",
+      "translation": "Quadrate'de her adres hızla bulunur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-5",
+      "translation": "Karl Drais koşu makinesini icat etti.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-6",
+      "translation": "Akşam Kartallar'ın bir maçını izliyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-gap-7",
+      "translation": "Mannheim, Ren ve Neckar kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-verbs-1",
+      "translation": "Adresler bir harf ve bir sayıdan oluşur.",
+      "answerText": "oluşur"
+    },
+    {
+      "id": "stadt-mannheim-verbs-2",
+      "translation": "Spagetti dondurma vanilya ve çilek tadı verir.",
+      "answerText": "verir"
+    },
+    {
+      "id": "stadt-mannheim-verbs-3",
+      "translation": "Neckar, Mannheim'da Ren'e dökülür.",
+      "answerText": "dökülür"
+    },
+    {
+      "id": "stadt-mannheim-verbs-4",
+      "translation": "Kartallar SAP Arena'da buz hokeyi oynar.",
+      "answerText": "oynar"
+    },
+    {
+      "id": "stadt-mannheim-verbs-5",
+      "translation": "Sarayda bugün birçok öğrenci okuyor.",
+      "answerText": "okuyor"
+    },
+    {
+      "id": "stadt-mannheim-table-1",
+      "translation": "kule",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-2",
+      "translation": "sayı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-3",
+      "translation": "sokak",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-4",
+      "translation": "saray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-5",
+      "translation": "bisiklet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-table-6",
+      "translation": "çeşme",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-1",
+      "translation": "Su Kulesi Friedrichsplatz'ta duruyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-2",
+      "translation": "Spagetti dondurma sever misin?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-3",
+      "translation": "Mannheim'da Neckar, Ren'e dökülür.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-order-4",
+      "translation": "Adreslerde harfler ve sayılar var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-1",
+      "translation": "su kulesi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-2",
+      "translation": "saray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-3",
+      "translation": "bisiklet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-4",
+      "translation": "sokak",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mannheim-spelling-5",
+      "translation": "çeşme",
+      "answerText": null
+    }
+  ]
+}

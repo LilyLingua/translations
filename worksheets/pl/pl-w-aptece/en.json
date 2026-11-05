@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:56.045Z"
+  },
+  "title": "At the Pharmacy",
+  "instructions": {
+    "pl-w-aptece-matching": "Match each word with its meaning.",
+    "pl-w-aptece-gap": "Choose the right word.",
+    "pl-w-aptece-verbs": "Fill in the correct verb.",
+    "pl-w-aptece-order": "Put the words in the right order and write the sentence.",
+    "pl-w-aptece-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-w-aptece-matching-1",
+      "translation": "prescription",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-1:meaning",
+      "translation": "A note from the doctor with the name of the medicine you need.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-2",
+      "translation": "pharmacist",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-2:meaning",
+      "translation": "A person who works at a pharmacy and gives advice about medicine.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-3",
+      "translation": "side effect",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-3:meaning",
+      "translation": "An unwanted effect of a medicine.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-4",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-4:meaning",
+      "translation": "A small, hard medicine that you swallow.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-5",
+      "translation": "cough syrup",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-5:meaning",
+      "translation": "Liquid medicine for when someone coughs.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-6",
+      "translation": "dose",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-matching-6:meaning",
+      "translation": "How much medicine you take at one time.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-gap-1",
+      "translation": "My head hurts.",
+      "answerText": "head"
+    },
+    {
+      "id": "pl-w-aptece-gap-2",
+      "translation": "Is this medicine only available with a prescription?",
+      "answerText": "prescription"
+    },
+    {
+      "id": "pl-w-aptece-gap-3",
+      "translation": "Please take one tablet three times a day.",
+      "answerText": "tablet"
+    },
+    {
+      "id": "pl-w-aptece-gap-4",
+      "translation": "Does this medicine have any side effects?",
+      "answerText": "side effects"
+    },
+    {
+      "id": "pl-w-aptece-gap-5",
+      "translation": "If you have questions, please ask the pharmacist.",
+      "answerText": "pharmacist"
+    },
+    {
+      "id": "pl-w-aptece-gap-6",
+      "translation": "I'd like some cough syrup, please.",
+      "answerText": "cough"
+    },
+    {
+      "id": "pl-w-aptece-verbs-1",
+      "translation": "I'm looking for something for a headache.",
+      "answerText": "looking"
+    },
+    {
+      "id": "pl-w-aptece-verbs-2",
+      "translation": "Do you have any allergies?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-verbs-3",
+      "translation": "Please take this medicine after meals.",
+      "answerText": "take"
+    },
+    {
+      "id": "pl-w-aptece-verbs-4",
+      "translation": "The pharmacist explains to me how to use the spray.",
+      "answerText": "explains"
+    },
+    {
+      "id": "pl-w-aptece-verbs-5",
+      "translation": "How much does this medicine cost?",
+      "answerText": "cost"
+    },
+    {
+      "id": "pl-w-aptece-order-1",
+      "translation": "Do I need a prescription for this medicine?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-2",
+      "translation": "I have a sore throat.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-3",
+      "translation": "Please take two tablets in the morning.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-order-4",
+      "translation": "What do you recommend for a cough?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-1",
+      "translation": "prescription",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-2",
+      "translation": "fever",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-3",
+      "translation": "medicine",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-4",
+      "translation": "pharmacy",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-aptece-spelling-5",
+      "translation": "syrup",
+      "answerText": null
+    }
+  ]
+}

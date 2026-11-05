@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:07.503Z"
+  },
+  "title": "Freiburg im Breisgau",
+  "instructions": {
+    "stadt-freiburg-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-freiburg-gap": "Označi tačnu riječ.",
+    "stadt-freiburg-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-freiburg-table": "Upiši član i oblik množine.",
+    "stadt-freiburg-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-freiburg-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "„Bächle“ (potočići)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "Mali vodeni kanali na ulicama starog grada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "katedrala (Münster)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "Velika crkva od crvenog pješčara s visokim tornjem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "„Lange Rote“ (duga crvena)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "Duga, crvena kobasica s pijace kod katedrale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "„Bobbele“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "Tako se zovu ljudi koji su rođeni u Freiburgu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "Schauinsland",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "Kućno brdo Freiburga; na njega vozi žičara.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "Schwarzwald",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "Veliko šumovito gorje odmah pored grada.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "Vauban",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "Eko-četvrt s energetski štedljivim kućama i malo automobila.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "Ko stane u Bächle, vjenča se s nekim iz Freiburga.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "Na pijaci kod katedrale jedemo Lange Rote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "Žičarom se vozimo na Schauinsland.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "Za vikend pješačimo kroz Schwarzwald.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "Mnogo turista posjećuje katedralu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "U Vaubanu mnogi voze bicikl.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "Freiburg je vrlo sunčan grad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "Voda teče kroz Bächle.",
+      "answerText": "teče"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "Žičara vozi na Schauinsland.",
+      "answerText": "vozi"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "U Freiburgu jako često sija sunce.",
+      "answerText": "sija"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "Ko stane u Bächle, vjenča se s nekim iz Freiburga.",
+      "answerText": "vjenča"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "Na trgu katedrale skoro svaki dan je pijaca.",
+      "answerText": "je"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "potok",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "šuma",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "brdo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "kobasica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "četvrt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "žičara",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "U Freiburgu često sija sunce.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "Jesi li već stao u Bächle?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "Katedrala ima visok toranj.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "Za vikend pješačimo po Schwarzwaldu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "kobasica",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "šuma",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "sunce",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "katedrala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "žičara",
+      "answerText": null
+    }
+  ]
+}

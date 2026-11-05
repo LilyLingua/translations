@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.655Z"
+  },
+  "title": "У пекарні та в кафе",
+  "instructions": {
+    "baecker-und-cafe-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "baecker-und-cafe-gap": "Позначте правильний артикль.",
+    "baecker-und-cafe-verbs": "Вставте правильне дієслово в правильній формі.",
+    "baecker-und-cafe-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "baecker-und-cafe-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "baecker-und-cafe-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "Маленький хліб, часто на сніданок.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "крендель (брецель)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "Випічка із сіллю, типова для Південної Німеччини.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "пиріг",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "Щось солодке, часто до кави вдень.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "Тут зазначені всі страви й напої.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "рахунок",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "Тут написано, скільки вам потрібно заплатити.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "чайові",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "Трохи додаткових грошей для офіціанта.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "із собою",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "Ви їсте або п'єте це не в кафе.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "Мені, будь ласка, одну булочку.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "Я візьму каву.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "Скільки коштує крендель?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "Я хотів би шматок пирога.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "Цей столик вільний?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "Я п'ю чай з молоком.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "Принесіть мені, будь ласка, рахунок.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "Що ви хочете випити?",
+      "answerText": "хочете"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "Я візьму капучино.",
+      "answerText": "візьму"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "Разом виходить 6,40 євро.",
+      "answerText": "виходить"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "Можна заплатити карткою?",
+      "answerText": "заплатити"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "Пиріг дуже смачний.",
+      "answerText": "смачний"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "пиріг",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "чашка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "склянка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "тарілка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "крендель",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "Мені, будь ласка, дві булочки.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "Скільки коштує пиріг?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "Можна заплатити карткою?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "Ви будете їсти тут?",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "булочка",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "пиріг",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "рахунок",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "кава",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "чайові",
+      "answerText": null
+    }
+  ]
+}

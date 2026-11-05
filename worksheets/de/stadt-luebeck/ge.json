@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:24.651Z"
+  },
+  "title": "ლიუბეკი",
+  "instructions": {
+    "stadt-luebeck-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-luebeck-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-luebeck-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-luebeck-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-luebeck-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-luebeck-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "ჰოლსტენტორი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "ძველი ქალაქის კარიბჭე ორი მრგვალი კოშკით – ლიუბეკის სიმბოლო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "მარციპანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "ტკბილეული ნუშისა და შაქრისგან; ლიუბეკი ამით არის ცნობილი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "ჰანზის დედოფალი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "მეტსახელი: შუა საუკუნეებში ლიუბეკი ჰანზის ყველაზე მნიშვნელოვანი ქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "ძველი ქალაქის კუნძული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "ძველი ქალაქი კუნძულზე მდებარეობს და მსოფლიო მემკვიდრეობაა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "ტრავემიუნდე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "უბანი ბალტიის ზღვაზე პლაჟითა და დიდი ბორნებით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "თომას მანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "ცნობილი მწერალი ლიუბეკიდან; მან დაწერა „ბუდენბროკები“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "„გენგე“ (გასასვლელები)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "ვიწრო გასასვლელები სახლებს შორის ძველ ქალაქში.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "ჰოლსტენტორში გავდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "მარციპნის ნაჭერს ვყიდულობ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "შუა საუკუნეებში ლიუბეკი ჰანზის ყველაზე მნიშვნელოვანი ქალაქი იყო.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "ტრავემიუნდეში პლაჟზე მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "ბორანი ბალტიის ზღვაზე მიცურავს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "თომას მანმა რომანი ერთ ოჯახზე დაწერა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "ძველი ქალაქი კუნძულზე მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "ჰოლსტენტორს ორი მრგვალი კოშკი აქვს.",
+      "answerText": "აქვს"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "მარციპანს ნუშისა და შაქრისგან ამზადებენ.",
+      "answerText": "ამზადებენ"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "ბორნები შვედეთსა და ფინეთში დადიან.",
+      "answerText": "დადიან"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "ძველი ქალაქი კუნძულზე მდებარეობს.",
+      "answerText": "მდებარეობს"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "თომას მანმა რომანი „ბუდენბროკები“ დაწერა.",
+      "answerText": "დაწერა"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "კარიბჭე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "ნუში",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "კუნძული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "პლაჟი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "ბორანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "რომანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "ჰოლსტენტორი ლიუბეკის სიმბოლოა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "მარციპანი გიყვარს?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "ძველი ქალაქი კუნძულზე მდებარეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "ზაფხულში ტრავემიუნდეში მივდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "მარციპანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "კუნძული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "პლაჟი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "ბორანი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "ნუში",
+      "answerText": null
+    }
+  ]
+}

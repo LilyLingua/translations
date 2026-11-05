@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:59.083Z"
+  },
+  "title": "มิวนิก",
+  "instructions": {
+    "stadt-muenchen-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-muenchen-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-muenchen-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-muenchen-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-muenchen-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-muenchen-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "\"วีสน์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "คนมิวนิกเรียกเทศกาลอ็อกโทเบอร์เฟสต์บนลานเทเรเซียนวีเซอแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "\"เซอร์วุส!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "คำทักทายของบาวาเรีย ใช้ทั้งตอนพบและตอนลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "\"มาส\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "แก้วเบียร์ใหญ่ขนาดหนึ่งลิตร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "ไวส์เวิร์สท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "ไส้กรอกขาวที่ตามธรรมเนียมกินก่อนเที่ยง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "\"เบรทซ์น์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "คนบาวาเรียเรียกขนมปังเพรทเซลแบบนี้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "สวนเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "นั่งข้างนอกใต้ต้นไม้ กินและดื่ม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "ลมเฟิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "ลมอุ่นจากเทือกเขาแอลป์ ตอนนั้นจะเห็นภูเขาชัดมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "นาฬิกาตุ๊กตาอยู่บนศาลาว่าการที่มาเรียนพลัทซ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "ฤดูร้อนวัยรุ่นโต้คลื่นบนลำธารไอส์บัค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "สุดสัปดาห์พวกเราไปสวนเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "เขาสั่งมาสหนึ่งแก้วกับเบรทซ์น์หนึ่งชิ้น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "แม่น้ำอีซาร์ไหลผ่านเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "พวกเราไปสวนอังกฤษ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "เมื่อลมเฟินพัด จะมองเห็นเทือกเขาแอลป์จากในเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "ไวส์เวิร์สท์ต้องกินก่อนเที่ยง",
+      "answerText": "กิน"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "เวลา 11 โมง นาฬิกาตุ๊กตาบนศาลาว่าการบรรเลงเพลง",
+      "answerText": "บรรเลง"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "วีสน์เริ่มปลายเดือนกันยายน",
+      "answerText": "เริ่ม"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "ที่ไอส์บัค วัยรุ่นโต้คลื่นบนคลื่น",
+      "answerText": "โต้คลื่น"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "เวลาลา คนมิวนิกพูดว่า \"เซอร์วุส\"",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "งานเทศกาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "ไส้กรอก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "สวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "แก้วเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "เพรทเซล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "ภูเขา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "วีสน์เริ่มปลายเดือนกันยายน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "ไวส์เวิร์สท์ต้องกินก่อนเที่ยง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "คืนนี้ไปสวนเบียร์กันไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "เมื่อลมเฟินพัด จะเห็นเทือกเขาแอลป์ชัดมาก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "สวนเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "นาฬิกาตุ๊กตา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "ศาลาว่าการ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "ตุลาคม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "ภูเขา",
+      "answerText": null
+    }
+  ]
+}

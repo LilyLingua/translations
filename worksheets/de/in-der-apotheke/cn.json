@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.394Z"
+  },
+  "title": "在药店",
+  "instructions": {
+    "in-der-apotheke-matching": "把每个单词和合适的解释连起来。",
+    "in-der-apotheke-gap": "勾出合适的单词。",
+    "in-der-apotheke-verbs": "用正确形式填入正确的动词。",
+    "in-der-apotheke-table": "填写冠词（der/die/das）和复数形式。",
+    "in-der-apotheke-order": "把单词按正确顺序排列并写出句子。",
+    "in-der-apotheke-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "in-der-apotheke-matching-1",
+      "translation": "处方",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-1:meaning",
+      "translation": "医生开的买药的单子。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2",
+      "translation": "药片",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-2:meaning",
+      "translation": "吞服的小药片。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3",
+      "translation": "止咳糖浆",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-3:meaning",
+      "translation": "治咳嗽的液体药。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4",
+      "translation": "药膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-4:meaning",
+      "translation": "涂在皮肤上。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5",
+      "translation": "副作用",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-5:meaning",
+      "translation": "药物不想要的作用。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6",
+      "translation": "说明书",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-6:meaning",
+      "translation": "药盒里写着所有信息的纸。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7",
+      "translation": "自付费用",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-matching-7:meaning",
+      "translation": "处方药你要自己付一小部分钱。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-gap-1",
+      "translation": "我有我医生开的处方。",
+      "answerText": "处方"
+    },
+    {
+      "id": "in-der-apotheke-gap-2",
+      "translation": "您有治喉咙痛的药吗？",
+      "answerText": "喉咙痛"
+    },
+    {
+      "id": "in-der-apotheke-gap-3",
+      "translation": "每天吃两片药。",
+      "answerText": "片"
+    },
+    {
+      "id": "in-der-apotheke-gap-4",
+      "translation": "这个药膏是涂在皮肤上的。",
+      "answerText": "皮肤"
+    },
+    {
+      "id": "in-der-apotheke-gap-5",
+      "translation": "请阅读说明书。",
+      "answerText": "说明书"
+    },
+    {
+      "id": "in-der-apotheke-gap-6",
+      "translation": "这种药几乎没有副作用。",
+      "answerText": "副作用"
+    },
+    {
+      "id": "in-der-apotheke-gap-7",
+      "translation": "周末有一家药店值班。",
+      "answerText": "药店"
+    },
+    {
+      "id": "in-der-apotheke-verbs-1",
+      "translation": "我从昨天开始咳嗽。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-verbs-2",
+      "translation": "这些药片我应该多久吃一次？",
+      "answerText": "吃"
+    },
+    {
+      "id": "in-der-apotheke-verbs-3",
+      "translation": "我们明天之前订到这种药。",
+      "answerText": "订"
+    },
+    {
+      "id": "in-der-apotheke-verbs-4",
+      "translation": "每天涂两次药膏。",
+      "answerText": "涂"
+    },
+    {
+      "id": "in-der-apotheke-verbs-5",
+      "translation": "请多喝水。",
+      "answerText": "喝"
+    },
+    {
+      "id": "in-der-apotheke-table-1",
+      "translation": "药店",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-2",
+      "translation": "药物",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-3",
+      "translation": "药膏",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-4",
+      "translation": "创可贴",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-5",
+      "translation": "包装盒",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-table-6",
+      "translation": "滴（药水）",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-1",
+      "translation": "您有治咳嗽的药吗？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-2",
+      "translation": "这些药片我应该多久吃一次？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-3",
+      "translation": "我需要治头痛的药。",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-order-4",
+      "translation": "这个需要处方吗？",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-1",
+      "translation": "药店",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-2",
+      "translation": "药物",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-3",
+      "translation": "创可贴",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-4",
+      "translation": "副作用",
+      "answerText": null
+    },
+    {
+      "id": "in-der-apotheke-spelling-5",
+      "translation": "咳嗽",
+      "answerText": null
+    }
+  ]
+}

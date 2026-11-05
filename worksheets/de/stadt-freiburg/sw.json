@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:33.633Z"
+  },
+  "title": "Freiburg im Breisgau",
+  "instructions": {
+    "stadt-freiburg-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-freiburg-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-freiburg-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-freiburg-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-freiburg-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-freiburg-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "\"Bächle\" (vijito)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "Mifereji midogo ya maji katika barabara za mji wa kale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "Münster (kanisa kuu)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "Kanisa kubwa la mawe mekundu ya mchanga lenye mnara mrefu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "Lange Rote (\"Ndefu Nyekundu\")",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "Soseji ndefu nyekundu ya kuchoma kutoka sokoni karibu na Münster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "\"Bobbele\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "Hivyo ndivyo wanavyoitwa watu waliozaliwa Freiburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "Schauinsland",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "Mlima wa nyumbani wa Freiburg; gari la kamba linapanda juu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "Msitu Mweusi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "Milima mikubwa ya misitu karibu kabisa na mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "Vauban",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "Mtaa wa kiikolojia wenye nyumba zinazookoa nishati na magari machache.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "Anayekanyaga Bächle atafunga ndoa na mtu wa Freiburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "Sokoni karibu na Münster tunakula Lange Rote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "Tunapanda Schauinsland kwa gari la kamba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "Mwishoni mwa wiki tunatembea kwa miguu katika Msitu Mweusi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "Watalii wengi wanatembelea Münster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "Huko Vauban watu wengi wanaendesha baiskeli.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "Freiburg ni mji wenye jua sana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "Maji yanatiririka katika Bächle.",
+      "answerText": "yanatiririka"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "Gari la kamba linapanda juu ya Schauinsland.",
+      "answerText": "linapanda"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "Huko Freiburg jua huwaka mara nyingi sana.",
+      "answerText": "huwaka"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "Anayekanyaga Bächle atafunga ndoa na mtu wa Freiburg.",
+      "answerText": "atafunga"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "Katika uwanja wa Münster karibu kila siku kuna soko.",
+      "answerText": "kuna"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "kijito",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "msitu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "mlima",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "soseji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "mtaa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "gari la kamba",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "Huko Freiburg jua huwaka mara nyingi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "Umeshawahi kukanyaga Bächle?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "Münster ina mnara mrefu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "Mwishoni mwa wiki tunatembea kwa miguu katika Msitu Mweusi.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "soseji",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "msitu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "jua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "kanisa kuu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "gari la kamba",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "69c9833e-3e7e-4810-8453-bd68d4768de1",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Augsburg",
+  "topic": "Bayern (Schwaben): Fuggerei, Puppenkiste, Friedensfest",
+  "tasks": [
+    {
+      "id": "stadt-augsburg-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-augsburg-matching-1",
+          "term": "die Fuggerei",
+          "meaning": "Älteste Sozialsiedlung der Welt; die Miete kostet nur 0,88 Euro im Jahr."
+        },
+        {
+          "id": "stadt-augsburg-matching-2",
+          "term": "die Augsburger Puppenkiste",
+          "meaning": "Berühmtes Theater mit Marionetten, bekannt aus dem Fernsehen."
+        },
+        {
+          "id": "stadt-augsburg-matching-3",
+          "term": "das Friedensfest",
+          "meaning": "Am 8. August hat nur Augsburg einen Feiertag."
+        },
+        {
+          "id": "stadt-augsburg-matching-4",
+          "term": "der Goldene Saal",
+          "meaning": "Prächtiger Saal im Rathaus mit viel Gold an der Decke."
+        },
+        {
+          "id": "stadt-augsburg-matching-5",
+          "term": "der Perlachturm",
+          "meaning": "Hoher Turm neben dem Rathaus; man kann hinaufsteigen."
+        },
+        {
+          "id": "stadt-augsburg-matching-6",
+          "term": "der Plärrer",
+          "meaning": "Großes Volksfest im Frühling und im Herbst."
+        },
+        {
+          "id": "stadt-augsburg-matching-7",
+          "term": "Bertolt Brecht",
+          "meaning": "Berühmter Schriftsteller, der in Augsburg geboren wurde."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-augsburg-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-augsburg-gap-1",
+          "promptBefore": "In",
+          "promptAfter": "Fuggerei wohnen bis heute Menschen.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-2",
+          "promptBefore": "Die Kinder sehen",
+          "promptAfter": "Stück in der Puppenkiste.",
+          "correctAnswer": "ein",
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-3",
+          "promptBefore": "Am 8. August haben die Augsburger",
+          "promptAfter": "freien Tag.",
+          "correctAnswer": "einen",
+          "options": [
+            "einen",
+            "ein",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-4",
+          "promptBefore": "Wir steigen auf",
+          "promptAfter": "Perlachturm.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-5",
+          "promptBefore": "Im Rathaus besuchen wir",
+          "promptAfter": "Goldenen Saal.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "das"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-6",
+          "promptBefore": "Im Frühling gehen viele auf",
+          "promptAfter": "Plärrer.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-augsburg-gap-7",
+          "promptBefore": "Brecht wurde in",
+          "promptAfter": "Stadt am Lech geboren.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-augsburg-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-augsburg-verbs-1",
+          "promptBefore": "Die Miete",
+          "promptAfter": "nur 0,88 Euro im Jahr.",
+          "correctAnswer": "kostet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kosten"
+        },
+        {
+          "id": "stadt-augsburg-verbs-2",
+          "promptBefore": "In der Puppenkiste",
+          "promptAfter": "Marionetten Theater.",
+          "correctAnswer": "spielen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-augsburg-verbs-3",
+          "promptBefore": "Am 8. August",
+          "promptAfter": "Augsburg das Friedensfest.",
+          "correctAnswer": "feiert",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "feiern"
+        },
+        {
+          "id": "stadt-augsburg-verbs-4",
+          "promptBefore": "Augsburg",
+          "promptAfter": "über 2000 Jahre alt.",
+          "correctAnswer": "ist",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sein"
+        },
+        {
+          "id": "stadt-augsburg-verbs-5",
+          "promptBefore": "Vom Perlachturm",
+          "promptAfter": "man über die ganze Stadt.",
+          "correctAnswer": "schaut",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "schauen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-augsburg-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-augsburg-table-1",
+          "article": "die",
+          "singular": "Puppe",
+          "plural": "Puppen"
+        },
+        {
+          "id": "stadt-augsburg-table-2",
+          "article": "der",
+          "singular": "Saal",
+          "plural": "Säle"
+        },
+        {
+          "id": "stadt-augsburg-table-3",
+          "article": "das",
+          "singular": "Fest",
+          "plural": "Feste"
+        },
+        {
+          "id": "stadt-augsburg-table-4",
+          "article": "die",
+          "singular": "Miete",
+          "plural": "Mieten"
+        },
+        {
+          "id": "stadt-augsburg-table-5",
+          "article": "der",
+          "singular": "Turm",
+          "plural": "Türme"
+        },
+        {
+          "id": "stadt-augsburg-table-6",
+          "article": "das",
+          "singular": "Theater",
+          "plural": "Theater"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-augsburg-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-augsburg-order-1",
+          "chunks": [
+            "Die Fuggerei",
+            "ist",
+            "über 500 Jahre",
+            "alt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-augsburg-order-2",
+          "chunks": [
+            "Kennst",
+            "du",
+            "die Augsburger Puppenkiste"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-augsburg-order-3",
+          "chunks": [
+            "Am 8. August",
+            "ist",
+            "in Augsburg",
+            "Feiertag"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-augsburg-order-4",
+          "chunks": [
+            "Im Rathaus",
+            "gibt es",
+            "einen goldenen Saal"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-augsburg-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-augsburg-spelling-1",
+          "correct": "Theater",
+          "wrong": "Teater"
+        },
+        {
+          "id": "stadt-augsburg-spelling-2",
+          "correct": "Puppe",
+          "wrong": "Pupe"
+        },
+        {
+          "id": "stadt-augsburg-spelling-3",
+          "correct": "Feiertag",
+          "wrong": "Feiertak"
+        },
+        {
+          "id": "stadt-augsburg-spelling-4",
+          "correct": "Miete",
+          "wrong": "Mihte"
+        },
+        {
+          "id": "stadt-augsburg-spelling-5",
+          "correct": "Saal",
+          "wrong": "Sahl"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.905Z"
+  },
+  "title": "В банке",
+  "instructions": {
+    "en-at-the-bank-matching": "Соедини каждое слово с его значением.",
+    "en-at-the-bank-gap": "Выбери правильное слово.",
+    "en-at-the-bank-verbs": "Вставь правильный глагол.",
+    "en-at-the-bank-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-at-the-bank-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-at-the-bank-matching-1",
+      "translation": "банковский счёт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-1:meaning",
+      "translation": "Место в банке, где хранятся твои деньги.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2",
+      "translation": "дебетовая карта",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2:meaning",
+      "translation": "Карта, которой платят деньгами со счёта.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3",
+      "translation": "PIN-код",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3:meaning",
+      "translation": "Секретное число для карты.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4",
+      "translation": "банкомат",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4:meaning",
+      "translation": "Автомат, где можно снять наличные.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5",
+      "translation": "перевод",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5:meaning",
+      "translation": "Когда отправляешь деньги со своего счёта на другой.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6",
+      "translation": "баланс",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6:meaning",
+      "translation": "Сколько денег на твоём счёте.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-gap-1",
+      "translation": "Я хочу открыть банковский счёт.",
+      "answerText": "счёт"
+    },
+    {
+      "id": "en-at-the-bank-gap-2",
+      "translation": "Пожалуйста, введите PIN-код.",
+      "answerText": "PIN-код"
+    },
+    {
+      "id": "en-at-the-bank-gap-3",
+      "translation": "Где ближайший банкомат?",
+      "answerText": "банкомат"
+    },
+    {
+      "id": "en-at-the-bank-gap-4",
+      "translation": "Я хочу сделать перевод арендодателю.",
+      "answerText": "перевод"
+    },
+    {
+      "id": "en-at-the-bank-gap-5",
+      "translation": "Как проверить баланс?",
+      "answerText": "баланс"
+    },
+    {
+      "id": "en-at-the-bank-gap-6",
+      "translation": "Моя дебетовая карта не работает.",
+      "answerText": "дебетовая"
+    },
+    {
+      "id": "en-at-the-bank-verbs-1",
+      "translation": "Я хочу открыть счёт.",
+      "answerText": "хочу"
+    },
+    {
+      "id": "en-at-the-bank-verbs-2",
+      "translation": "Можно здесь снять наличные?",
+      "answerText": "снять"
+    },
+    {
+      "id": "en-at-the-bank-verbs-3",
+      "translation": "Пожалуйста, подпишите эту форму.",
+      "answerText": "подпишите"
+    },
+    {
+      "id": "en-at-the-bank-verbs-4",
+      "translation": "Карта придёт через пять дней.",
+      "answerText": "придёт"
+    },
+    {
+      "id": "en-at-the-bank-verbs-5",
+      "translation": "Мы забыли PIN-код.",
+      "answerText": "забыли"
+    },
+    {
+      "id": "en-at-the-bank-order-1",
+      "translation": "Я хочу открыть счёт.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-2",
+      "translation": "Где можно снять деньги?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-3",
+      "translation": "Моя карта заблокирована.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-4",
+      "translation": "Сколько стоит обслуживание счёта?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-1",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-2",
+      "translation": "баланс",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-3",
+      "translation": "снять",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-4",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-5",
+      "translation": "подпись",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.645Z"
+  },
+  "title": "Otobüs ve Trenle",
+  "instructions": {
+    "bus-und-bahn-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "bus-und-bahn-gap": "Uygun kelimeyi işaretleyin.",
+    "bus-und-bahn-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "bus-und-bahn-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "bus-und-bahn-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "bus-und-bahn-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Bununla otobüs veya trenle yolculuk edebilirsiniz.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "bilet otomatı",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Burada gişe olmadan bilet alırsınız.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "peron",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Tren istasyonda burada durur.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "gecikme",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Tren planlanandan daha geç gelir.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "aktarma yapmak",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Bir trenden başka bir trene geçersiniz.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "durak",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Otobüs burada durur.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Tüm Almanya'da yerel otobüs ve trenler için aylık bilet.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Köln treni 5. perondan kalkıyor.",
+      "answerText": "perondan"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Trenin on dakika gecikmesi var.",
+      "answerText": "gecikmesi"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "En yakın durak nerede?",
+      "answerText": "durak"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Berlin'e bir bilet, lütfen.",
+      "answerText": "bilet"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Lütfen biletinizi gösterin.",
+      "answerText": "biletinizi"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Metro her on dakikada bir geliyor.",
+      "answerText": "Metro"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Otomattan bilet alabilirsiniz.",
+      "answerText": "Otomattan"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Nerede aktarma yapmam gerekiyor?",
+      "answerText": "aktarma yapmam"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Otobüs saat 8:15'te kalkıyor.",
+      "answerText": "kalkıyor"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Hamburg'a saat 10'da varıyoruz.",
+      "answerText": "varıyoruz"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Lütfen burada inin.",
+      "answerText": "inin"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Yolculuk ne kadar sürüyor?",
+      "answerText": "sürüyor"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "tren",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "istasyon",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "peron",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "durak",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "otobüs",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Münih'e bir sonraki tren ne zaman kalkıyor?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Mannheim'da aktarma yapmam gerekiyor.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Tren maalesef rötarlı.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Bilet otobüs için de geçerli mi?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "bilet",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "gecikme",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "durak",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "peron",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "istasyon",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "1d85209c-b128-4bd6-9c6b-39e44c9c9701",
+    "level": "A2"
+  },
+  "title": "Громадський транспорт",
+  "topic": "Квитки, зупинки, пересадки й затримки",
+  "tasks": [
+    {
+      "id": "uk-hromadskyi-transport-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-hromadskyi-transport-matching-1",
+          "term": "квиток",
+          "meaning": "Документ або запис у застосунку, з яким можна їхати."
+        },
+        {
+          "id": "uk-hromadskyi-transport-matching-2",
+          "term": "зупинка",
+          "meaning": "Місце, де зупиняється автобус."
+        },
+        {
+          "id": "uk-hromadskyi-transport-matching-3",
+          "term": "платформа",
+          "meaning": "Місце на вокзалі, де сідають у потяг."
+        },
+        {
+          "id": "uk-hromadskyi-transport-matching-4",
+          "term": "затримка",
+          "meaning": "Коли автобус чи потяг приходить пізніше."
+        },
+        {
+          "id": "uk-hromadskyi-transport-matching-5",
+          "term": "розклад",
+          "meaning": "Список із часом руху автобусів і потягів."
+        },
+        {
+          "id": "uk-hromadskyi-transport-matching-6",
+          "term": "пересадка",
+          "meaning": "Коли змінюють один автобус чи потяг на інший."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-hromadskyi-transport-gap-1",
+          "promptBefore": "Мені потрібен",
+          "promptAfter": "до центру.",
+          "correctAnswer": "квиток",
+          "options": [
+            "квиток",
+            "затримка",
+            "платформа"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-hromadskyi-transport-gap-2",
+          "promptBefore": "Потяг відправляється з четвертої",
+          "promptAfter": ".",
+          "correctAnswer": "платформи",
+          "options": [
+            "платформи",
+            "затримки",
+            "пересадки"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-hromadskyi-transport-gap-3",
+          "promptBefore": "Виходьте на наступній",
+          "promptAfter": ".",
+          "correctAnswer": "зупинці",
+          "options": [
+            "зупинці",
+            "затримці",
+            "пересадці"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-hromadskyi-transport-gap-4",
+          "promptBefore": "Потяг має",
+          "promptAfter": "двадцять хвилин.",
+          "correctAnswer": "затримку",
+          "options": [
+            "затримку",
+            "квиток",
+            "зупинку"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-hromadskyi-transport-gap-5",
+          "promptBefore": "Подивіться",
+          "promptAfter": "автобусів на сайті.",
+          "correctAnswer": "розклад",
+          "options": [
+            "розклад",
+            "квиток",
+            "пересадку"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-hromadskyi-transport-gap-6",
+          "promptBefore": "На вокзалі вам треба зробити",
+          "promptAfter": ".",
+          "correctAnswer": "пересадку",
+          "options": [
+            "пересадку",
+            "затримку",
+            "платформу"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-hromadskyi-transport-verbs-1",
+          "promptBefore": "Автобус",
+          "promptAfter": "кожні десять хвилин.",
+          "correctAnswer": "ходить",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "ходити"
+        },
+        {
+          "id": "uk-hromadskyi-transport-verbs-2",
+          "promptBefore": "Де можна",
+          "promptAfter": "квиток?",
+          "correctAnswer": "купити",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "купити"
+        },
+        {
+          "id": "uk-hromadskyi-transport-verbs-3",
+          "promptBefore": "Вам треба",
+          "promptAfter": "на іншу лінію.",
+          "correctAnswer": "пересісти",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "пересісти"
+        },
+        {
+          "id": "uk-hromadskyi-transport-verbs-4",
+          "promptBefore": "Потяг",
+          "promptAfter": "на п'ять хвилин.",
+          "correctAnswer": "запізнюється",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "запізнюватися"
+        },
+        {
+          "id": "uk-hromadskyi-transport-verbs-5",
+          "promptBefore": "Будь ласка,",
+          "promptAfter": "квиток.",
+          "correctAnswer": "покажіть",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "показати"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-hromadskyi-transport-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-hromadskyi-transport-order-1",
+          "chunks": [
+            "Який автобус",
+            "їде",
+            "до аеропорту"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-hromadskyi-transport-order-2",
+          "chunks": [
+            "Потяг",
+            "запізнюється",
+            "на десять хвилин"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-hromadskyi-transport-order-3",
+          "chunks": [
+            "Де",
+            "наступна",
+            "зупинка"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-hromadskyi-transport-order-4",
+          "chunks": [
+            "Ми",
+            "пропустили",
+            "автобус"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-hromadskyi-transport-spelling-1",
+          "correct": "квиток",
+          "wrong": "квіток"
+        },
+        {
+          "id": "uk-hromadskyi-transport-spelling-2",
+          "correct": "вокзал",
+          "wrong": "вакзал"
+        },
+        {
+          "id": "uk-hromadskyi-transport-spelling-3",
+          "correct": "розклад",
+          "wrong": "розклат"
+        },
+        {
+          "id": "uk-hromadskyi-transport-spelling-4",
+          "correct": "пасажир",
+          "wrong": "пасажір"
+        },
+        {
+          "id": "uk-hromadskyi-transport-spelling-5",
+          "correct": "автобус",
+          "wrong": "афтобус"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.744Z"
+  },
+  "title": "Аренда квартиры",
+  "instructions": {
+    "uk-orenda-kvartyry-matching": "Соедините каждое слово с его значением.",
+    "uk-orenda-kvartyry-gap": "Выберите правильное слово.",
+    "uk-orenda-kvartyry-verbs": "Вставьте правильный глагол.",
+    "uk-orenda-kvartyry-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-orenda-kvartyry-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-orenda-kvartyry-matching-1",
+      "translation": "арендная плата",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-1:meaning",
+      "translation": "Деньги, которые каждый месяц платят за квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-2",
+      "translation": "арендодатель",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-2:meaning",
+      "translation": "Человек, которому принадлежит квартира и который её сдаёт.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-3",
+      "translation": "залог",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-3:meaning",
+      "translation": "Деньги, которые платят в начале и получают обратно при выезде.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-4",
+      "translation": "договор аренды",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-4:meaning",
+      "translation": "Документ, который подписывают арендатор и арендодатель.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-5",
+      "translation": "коммунальные услуги",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-5:meaning",
+      "translation": "Вода, свет, газ и отопление.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-6",
+      "translation": "просмотр",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-matching-6:meaning",
+      "translation": "Когда приходят посмотреть квартиру перед арендой.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-1",
+      "translation": "Коммунальные услуги входят в арендную плату?",
+      "answerText": "услуги"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-2",
+      "translation": "Нужно заплатить залог за два месяца.",
+      "answerText": "залог"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-3",
+      "translation": "Когда можно прийти на просмотр?",
+      "answerText": "просмотр"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-4",
+      "translation": "Внимательно прочитайте договор перед подписанием.",
+      "answerText": "договор"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-5",
+      "translation": "В квартире две комнаты и балкон.",
+      "answerText": "комнаты"
+    },
+    {
+      "id": "uk-orenda-kvartyry-gap-6",
+      "translation": "Ключи вам передаст арендодатель.",
+      "answerText": "арендодатель"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-1",
+      "translation": "Я ищу двухкомнатную квартиру.",
+      "answerText": "ищу"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-2",
+      "translation": "Мы подписали договор вчера.",
+      "answerText": "подписали"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-3",
+      "translation": "Могу я посмотреть квартиру сегодня?",
+      "answerText": "посмотреть"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-4",
+      "translation": "Арендодатель даст нам ключи в понедельник.",
+      "answerText": "даст"
+    },
+    {
+      "id": "uk-orenda-kvartyry-verbs-5",
+      "translation": "Сколько стоят коммунальные услуги зимой?",
+      "answerText": "стоят"
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-1",
+      "translation": "Квартира ещё свободна?",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-2",
+      "translation": "Я хочу посмотреть квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-3",
+      "translation": "Сколько составляет залог?",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-order-4",
+      "translation": "Арендную плату нужно платить до пятого числа.",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-1",
+      "translation": "квартира",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-2",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-3",
+      "translation": "комната",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-4",
+      "translation": "отопление",
+      "answerText": null
+    },
+    {
+      "id": "uk-orenda-kvartyry-spelling-5",
+      "translation": "ключи",
+      "answerText": null
+    }
+  ]
+}

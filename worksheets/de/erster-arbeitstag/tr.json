@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:40.590Z"
+  },
+  "title": "İlk İş Günü",
+  "instructions": {
+    "erster-arbeitstag-matching": "Her kelimeyi uygun açıklamayla eşleştirin.",
+    "erster-arbeitstag-gap": "Doğru biçimi işaretleyin.",
+    "erster-arbeitstag-verbs": "Doğru fiili doğru biçimde yerine yazın.",
+    "erster-arbeitstag-table": "Artikeli (der/die/das) ve çoğul biçimini tamamlayın.",
+    "erster-arbeitstag-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "erster-arbeitstag-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "iş arkadaşı",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Birlikte çalıştığınız bir adam.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "şef (kadın)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Ekibi yönetir.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "mola",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "İş sırasında boş zaman, örneğin yemek için.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "izin",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Çalışmadığınız ama yine de para aldığınız boş günler.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "fazla mesai saati",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Planlanandan fazla çalıştığınız bir saat.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "iş sözleşmesi",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Burada maaş, çalışma saatleri ve izin yazar.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "kantin",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Çalışanlar şirkette burada yemek yer.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Bu benim yeni iş arkadaşım.",
+      "answerText": "benim"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Size iş arkadaşımı tanıtabilir miyim?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Ekiple birlikte çalışmayı seviyorum.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Kantinde buluşuyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Bir sorum var.",
+      "answerText": "Bir"
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Mola ne zaman başlıyor?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Raporu şefe veriyorum.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Kısaca kendimi tanıtabilir miyim?",
+      "answerText": "tanıtabilir"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Saat 8'den 16'ya kadar çalışıyorum.",
+      "answerText": "çalışıyorum"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Tuvaleti nerede bulabilirim?",
+      "answerText": "bulabilirim"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Ekipte birbirimize sen diye hitap ediyoruz.",
+      "answerText": "sen diye hitap ediyoruz"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Bunu bana açıklayabilir misiniz lütfen?",
+      "answerText": "açıklayabilir"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "iş arkadaşı",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "şirket",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "ofis",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "bilgisayar",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "toplantı",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "ekip",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Kısaca kendimi tanıtabilir miyim?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Ekipte yeniyim.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Öğle arası ne zaman başlıyor?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Bunu bana açıklayabilir misiniz?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "iş arkadaşı",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "toplantı",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "izin",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "ofis",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "fazla mesai saati",
+      "answerText": null
+    }
+  ]
+}

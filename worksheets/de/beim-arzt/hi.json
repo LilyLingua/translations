@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "hi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:40:40.137Z"
+  },
+  "title": "डॉक्टर के पास",
+  "instructions": {
+    "beim-arzt-matching": "हर शब्द को सही व्याख्या से मिलाइए।",
+    "beim-arzt-gap": "सही शब्द पर निशान लगाइए।",
+    "beim-arzt-verbs": "सही क्रिया को सही रूप में भरिए।",
+    "beim-arzt-table": "आर्टिकल (der/die/das) और बहुवचन रूप भरिए।",
+    "beim-arzt-order": "शब्दों को सही क्रम में लगाइए और वाक्य लिखिए।",
+    "beim-arzt-spelling": "कौन-सा शब्द सही लिखा है? निशान लगाइए।"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "स्वास्थ्य बीमा कार्ड",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "यह कार्ड आप रिसेप्शन पर दिखाते हैं। इस पर आपकी बीमा कंपनी का नाम होता है।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "अपॉइंटमेंट",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "तय समय जब आप क्लिनिक आते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "प्रतीक्षा कक्ष",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "जब तक आपको बुलाया न जाए, आप यहाँ बैठते हैं।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "पर्ची (प्रिस्क्रिप्शन)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "इससे आपको दवा की दुकान से दवा मिलती है।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "बीमारी का प्रमाण पत्र",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "बीमार होने पर आपके नियोक्ता को यह काग़ज़ मिलता है।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "बुख़ार",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "शरीर का तापमान बहुत ज़्यादा, जैसे 39 डिग्री।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "एलर्जी",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "शरीर किसी चीज़ पर तेज़ प्रतिक्रिया करता है, जैसे पेनिसिलिन पर।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "आपातकालीन कॉल",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "नंबर 112 – दुर्घटना या आपात स्थिति में।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "नमस्ते, मैं एक अपॉइंटमेंट लेना चाहता हूँ।",
+      "answerText": "अपॉइंटमेंट"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "क्या आपके पास स्वास्थ्य बीमा कार्ड है?",
+      "answerText": "स्वास्थ्य बीमा कार्ड"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "कृपया प्रतीक्षा कक्ष में बैठिए।",
+      "answerText": "प्रतीक्षा कक्ष"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "मुझे सिरदर्द और बुख़ार है।",
+      "answerText": "सिरदर्द"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "मेरे पेट में दर्द है।",
+      "answerText": "पेट"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "मुझे पेनिसिलिन से एलर्जी है।",
+      "answerText": "पेनिसिलिन"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "मुझे अपने नियोक्ता के लिए बीमारी का प्रमाण पत्र चाहिए।",
+      "answerText": "बीमारी का प्रमाण पत्र"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "गोलियाँ दिन में तीन बार खाने के बाद लीजिए।",
+      "answerText": "खाने"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "क्या आप यह धीरे बोल सकते हैं?",
+      "answerText": "बोल"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "मुझे तीन दिन से बुख़ार है।",
+      "answerText": "है"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "मेरे सिर में बहुत दर्द हो रहा है।",
+      "answerText": "दर्द हो रहा"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "कृपया गहरी साँस लीजिए – और फिर छोड़िए।",
+      "answerText": "साँस लीजिए"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "डॉक्टर मुझे पर्ची देती हैं।",
+      "answerText": "देती"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "हम आपको अभी बुलाते हैं।",
+      "answerText": "बुलाते"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "डॉक्टर",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "गोली",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "पर्ची",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "अपॉइंटमेंट",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "क्लिनिक",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "दवा",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "मैं एक अपॉइंटमेंट लेना चाहता हूँ।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "मुझे तीन दिन से बुख़ार है।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "क्या आप फिर से बता सकते हैं?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "दर्द कहाँ है?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "सिरदर्द",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "बीमारी का प्रमाण पत्र",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "स्वास्थ्य बीमा कार्ड",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "एलर्जी वाला",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "गोली",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:06.096Z"
+  },
+  "title": "汉诺威",
+  "instructions": {
+    "stadt-hannover-matching": "把每个词和正确的解释连起来。",
+    "stadt-hannover-gap": "勾出正确的词。",
+    "stadt-hannover-verbs": "用正确形式填入正确的动词。",
+    "stadt-hannover-table": "填写冠词和复数形式。",
+    "stadt-hannover-order": "把词语按正确顺序排列，写出句子。",
+    "stadt-hannover-spelling": "哪个词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "博览会",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "企业的大型展览，汉诺威有一个巨大的展览中心。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "马施湖",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "城里的人工湖，可以玩帆船、跑步和庆祝节日。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "红线",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "地上的一条红线，带你去各个景点。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "标准德语",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "规范的德语；汉诺威人说得特别清楚。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "“Lüttje Lage”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "两个杯子里的啤酒和烧酒，要同时喝。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "射击节",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "夏天非常大的民间节日，有长长的游行。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "“Nana”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "莱纳河边彩色的大型女人雕像，作者是妮基·桑法勒。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "我们跟着红线游览城市。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "夏天很多人绕着马施湖跑步。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "这家公司在博览会上参展。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "我们坐电梯上到市政厅的穹顶。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Nana雕像立在莱纳河边。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "我们参观海恩豪森花园。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "他尝一尝Lüttje Lage。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "红线通向很多景点。",
+      "answerText": "通向"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "在新市政厅，一部斜电梯开到穹顶。",
+      "answerText": "开"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "很多公司在博览会上展示产品。",
+      "answerText": "展示"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "汉诺威人说非常清楚的标准德语。",
+      "answerText": "说"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "2000年世界博览会在汉诺威举行。",
+      "answerText": "举行"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "博览会",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "花园",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "线",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "雕像",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "市政厅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "电梯",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "红线穿过市中心。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "夏天很多人在马施湖上玩帆船。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "你坐电梯上穹顶吗？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "在汉诺威人们说清楚的标准德语。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "博览会",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "景点",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "电梯",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "雕像",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "穹顶",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ku",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:53.483Z"
+  },
+  "title": "Kiel",
+  "instructions": {
+    "stadt-kiel-matching": "Her peyvê bi ravekirina rast ve girêbide.",
+    "stadt-kiel-gap": "Peyva rast nîşan bike.",
+    "stadt-kiel-verbs": "Lêkera rast bi forma rast binivîse.",
+    "stadt-kiel-table": "Artîkel û forma pirjimar binivîse.",
+    "stadt-kiel-order": "Peyvan bi rêza rast rêz bike û hevokê binivîse.",
+    "stadt-kiel-spelling": "Kîjan peyv rast hatiye nivîsandin? Nîşan bike."
+  },
+  "items": [
+    {
+      "id": "stadt-kiel-matching-1",
+      "translation": "\"Förde\" (fîord)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-1:meaning",
+      "translation": "Milekî dirêj û teng ê Deryaya Baltîkê ku kûr dikeve hundirê bejê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2",
+      "translation": "Hefteya Kielê",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-2:meaning",
+      "translation": "Cejneke mezin a keştiyên bayê di hezîranê de bi muzîk û keştiyên ji hemû cîhanê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3",
+      "translation": "ferîbot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-3:meaning",
+      "translation": "Keştiyeke mezin ji bo mirov û otomobîlan, mînak ber bi Norwecê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4",
+      "translation": "Kanala Kielê",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-4:meaning",
+      "translation": "Rêya avê ya çêkirî di navbera Deryaya Bakur û Deryaya Baltîkê de.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5",
+      "translation": "masiyê dûkirî yê Kielê",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-5:meaning",
+      "translation": "Masiyekî biçûk ê dûkirî, taybet ê Kielê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6",
+      "translation": "\"Moin moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-6:meaning",
+      "translation": "Silava bakur; hinek difikirin ku du caran \"Moin\" jî zêde ye.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7",
+      "translation": "bi keştiya bayê çûn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-matching-7:meaning",
+      "translation": "Bi keştiyeke ku ba wê dibe rêwîtî kirin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-1",
+      "translation": "Kiel li ber Deryaya Baltîkê ye.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-2",
+      "translation": "Di hezîranê de em Hefteya Kielê pîroz dikin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-3",
+      "translation": "Em bi ferîbotê diçin Osloyê.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-4",
+      "translation": "Keştî di Kanala Kielê re derbas dibin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-5",
+      "translation": "Dawiya hefteyê em li fîordê bi keştiya bayê diçin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-6",
+      "translation": "Ez çenteyek masiyên dûkirî yên Kielê dikirim.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-gap-7",
+      "translation": "Em kûçikê li peravê digerînin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-verbs-1",
+      "translation": "Ferîbot her roj diçe Norwecê.",
+      "answerText": "diçe"
+    },
+    {
+      "id": "stadt-kiel-verbs-2",
+      "translation": "Di Hefteya Kielê de keştiyên ji hemû cîhanê diçin ser avê.",
+      "answerText": "diçin"
+    },
+    {
+      "id": "stadt-kiel-verbs-3",
+      "translation": "Gelek keştî Kanala Kielê bi kar tînin.",
+      "answerText": "bi kar tînin"
+    },
+    {
+      "id": "stadt-kiel-verbs-4",
+      "translation": "Li bakur mirov \"Moin\" dibêjin.",
+      "answerText": "dibêjin"
+    },
+    {
+      "id": "stadt-kiel-verbs-5",
+      "translation": "Li peravê gelek caran bayekî xurt tê.",
+      "answerText": "tê"
+    },
+    {
+      "id": "stadt-kiel-table-1",
+      "translation": "qeyik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-2",
+      "translation": "ferîbot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-3",
+      "translation": "masî",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-4",
+      "translation": "perav",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-5",
+      "translation": "bayvan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-table-6",
+      "translation": "kanal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-1",
+      "translation": "Kiel li ber Deryaya Baltîkê ye.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-2",
+      "translation": "Di hezîranê de bajar Hefteya Kielê pîroz dike.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-3",
+      "translation": "Tu bi ferîbotê diçî Norwecê?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-order-4",
+      "translation": "Dawiya hefteyê em li fîordê bi keştiya bayê diçin.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-1",
+      "translation": "ferîbot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-2",
+      "translation": "bayvan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-3",
+      "translation": "perav",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-4",
+      "translation": "Deryaya Baltîkê",
+      "answerText": null
+    },
+    {
+      "id": "stadt-kiel-spelling-5",
+      "translation": "kanal",
+      "answerText": null
+    }
+  ]
+}

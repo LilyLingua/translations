@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.389Z"
+  },
+  "title": "קביעת תורים בטלפון",
+  "instructions": {
+    "termine-am-telefon-matching": "חברו כל מילה להסבר המתאים.",
+    "termine-am-telefon-gap": "סמנו את מילת היחס הנכונה.",
+    "termine-am-telefon-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "termine-am-telefon-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "termine-am-telefon-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "termine-am-telefon-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "משיבון",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "כאן אפשר להשאיר הודעה.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "שלוחה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "מספר הטלפון הישיר של אדם בחברה.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "לחזור (בטלפון)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "להתקשר למישהו מאוחר יותר, כי הוא התקשר קודם.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "לדחות",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "להעביר פגישה ליום אחר.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "לבטל",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "להגיד שלא תבוא לפגישה.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "שעות קבלה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "השעות שבהן אפשר להשיג מישהו.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "לאיית",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "להגיד מילה אות אחרי אות.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "יש לך זמן ביום שני?",
+      "answerText": "ביום"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "מתאים לך ב־10?",
+      "answerText": "ב"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "אין לי זמן לפני דצמבר.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "המרפאה סגורה בסוף השבוע.",
+      "answerText": "בסוף השבוע"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "אחזור אליך בעוד שעה.",
+      "answerText": "בעוד"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "אני מחכה לתור כבר שבועיים.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "נא להגיע עשר דקות לפני התור.",
+      "answerText": "לפני"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "אפשר לדבר עם גברת ובר, בבקשה?",
+      "answerText": "לדבר"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "לצערי אני צריך לבטל את התור שלי.",
+      "answerText": "לבטל"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "אתה יכול לחזור אליי, בבקשה?",
+      "answerText": "לחזור"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "אני נותן לך את המספר שלי.",
+      "answerText": "נותן"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "איך כותבים את השם שלך?",
+      "answerText": "כותבים"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "שיחה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "מספר",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "הודעה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "טלפון",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "שעה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "טלפון נייד",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "אני רוצה לדחות תור.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "מתי יש לך זמן?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "אתקשר שוב מחר.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "מתאים לך יום חמישי בשעה 9?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "הודעה",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "טלפון",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "תור",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "לחזור",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "שעה",
+      "answerText": null
+    }
+  ]
+}

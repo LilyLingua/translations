@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:33.838Z"
+  },
+  "title": "Halle (Saale)",
+  "instructions": {
+    "stadt-halle-matching": "Unganisha kila neno na maelezo sahihi.",
+    "stadt-halle-gap": "Weka alama kwenye neno sahihi.",
+    "stadt-halle-verbs": "Jaza kitenzi sahihi katika muundo sahihi.",
+    "stadt-halle-table": "Jaza kibainishi (article) na wingi.",
+    "stadt-halle-order": "Panga maneno kwa mpangilio sahihi na uandike sentensi.",
+    "stadt-halle-spelling": "Neno lipi limeandikwa kwa usahihi? Liwekee alama."
+  },
+  "items": [
+    {
+      "id": "stadt-halle-matching-1",
+      "translation": "Georg Friedrich Händel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-1:meaning",
+      "translation": "Mtunzi maarufu wa muziki; alizaliwa Halle mwaka 1685.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2",
+      "translation": "Halloren-Kugeln (tufe za chokoleti)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-2:meaning",
+      "translation": "Tufe ndogo za chokoleti kutoka kiwanda cha zamani sana cha chokoleti (tangu 1804).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3",
+      "translation": "Halloren",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-3:meaning",
+      "translation": "Zamani wafanyakazi wa chumvi huko Halle; udugu wao upo hadi leo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4",
+      "translation": "chumvi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-4:meaning",
+      "translation": "Kwa hiyo Halle ilitajirika; ilitoka kwenye chemchemi za maji ya chumvi chini ya mji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5",
+      "translation": "Mji wa Minara Mitano",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-5:meaning",
+      "translation": "Jina la utani: Kwenye uwanja wa soko unaona minara mitano.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6",
+      "translation": "Saale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-6:meaning",
+      "translation": "Mto unaopita katikati ya Halle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7",
+      "translation": "Franckesche Stiftungen (Taasisi za Francke)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-matching-7:meaning",
+      "translation": "Mji wa zamani wa shule wenye nyumba kubwa za fremu za mbao, ulioanzishwa mwaka 1698.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-1",
+      "translation": "Tunatembelea Nyumba ya Händel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-2",
+      "translation": "Ninanunua pakiti moja ya Halloren-Kugeln.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-3",
+      "translation": "Halle iko kando ya mto Saale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-4",
+      "translation": "Kwenye uwanja wa soko kuna minara mitano.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-5",
+      "translation": "Zamani watu walichimba chumvi kutoka ardhini.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-6",
+      "translation": "Tunasafiri kwa mashua kwenye mto Saale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-gap-7",
+      "translation": "Händel aliandika kazi maarufu: \"Messiah\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-verbs-1",
+      "translation": "Händel alizaliwa Halle mwaka 1685.",
+      "answerText": "alizaliwa"
+    },
+    {
+      "id": "stadt-halle-verbs-2",
+      "translation": "Saale inapita katikati ya mji.",
+      "answerText": "inapita"
+    },
+    {
+      "id": "stadt-halle-verbs-3",
+      "translation": "Tufe za chokoleti zina ladha tamu sana.",
+      "answerText": "zina"
+    },
+    {
+      "id": "stadt-halle-verbs-4",
+      "translation": "Chumvi iliifanya Halle kuwa tajiri.",
+      "answerText": "iliifanya"
+    },
+    {
+      "id": "stadt-halle-verbs-5",
+      "translation": "Kwenye uwanja wa soko unaona minara mitano.",
+      "answerText": "unaona"
+    },
+    {
+      "id": "stadt-halle-table-1",
+      "translation": "tufe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-2",
+      "translation": "mtunzi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-3",
+      "translation": "chemchemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-4",
+      "translation": "mashua",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-5",
+      "translation": "mto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-table-6",
+      "translation": "pakiti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-1",
+      "translation": "Händel alizaliwa Halle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-2",
+      "translation": "Ungependa Halloren-Kugel moja?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-3",
+      "translation": "Saale inapita katikati ya Halle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-order-4",
+      "translation": "Kwenye uwanja wa soko kuna minara mitano.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-1",
+      "translation": "mtunzi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-2",
+      "translation": "tufe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-3",
+      "translation": "chokoleti",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-4",
+      "translation": "mto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-halle-spelling-5",
+      "translation": "chumvi",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "93fa4562-3445-43bd-885f-5411129c2cd6",
+    "level": "A2"
+  },
+  "title": "W banku",
+  "topic": "Zakładanie konta, karta płatnicza i przelewy",
+  "tasks": [
+    {
+      "id": "pl-w-banku-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-w-banku-matching-1",
+          "term": "konto",
+          "meaning": "Miejsce w banku, gdzie są twoje pieniądze."
+        },
+        {
+          "id": "pl-w-banku-matching-2",
+          "term": "karta płatnicza",
+          "meaning": "Karta, którą płaci się pieniędzmi z konta."
+        },
+        {
+          "id": "pl-w-banku-matching-3",
+          "term": "PIN",
+          "meaning": "Tajny numer do karty."
+        },
+        {
+          "id": "pl-w-banku-matching-4",
+          "term": "bankomat",
+          "meaning": "Automat, z którego można wypłacić gotówkę."
+        },
+        {
+          "id": "pl-w-banku-matching-5",
+          "term": "przelew",
+          "meaning": "Kiedy wysyła się pieniądze z jednego konta na drugie."
+        },
+        {
+          "id": "pl-w-banku-matching-6",
+          "term": "saldo",
+          "meaning": "Ile pieniędzy jest na koncie."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-w-banku-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-w-banku-gap-1",
+          "promptBefore": "Chcę założyć",
+          "promptAfter": ".",
+          "correctAnswer": "konto",
+          "options": [
+            "konto",
+            "saldo",
+            "bankomat"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-banku-gap-2",
+          "promptBefore": "Proszę wpisać",
+          "promptAfter": ".",
+          "correctAnswer": "PIN",
+          "options": [
+            "PIN",
+            "przelew",
+            "saldo"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-banku-gap-3",
+          "promptBefore": "Gdzie jest najbliższy",
+          "promptAfter": "?",
+          "correctAnswer": "bankomat",
+          "options": [
+            "bankomat",
+            "przelew",
+            "PIN"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-banku-gap-4",
+          "promptBefore": "Chcę zrobić",
+          "promptAfter": "do właściciela mieszkania.",
+          "correctAnswer": "przelew",
+          "options": [
+            "przelew",
+            "bankomat",
+            "PIN"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-banku-gap-5",
+          "promptBefore": "Jak sprawdzić",
+          "promptAfter": "na koncie?",
+          "correctAnswer": "saldo",
+          "options": [
+            "saldo",
+            "bankomat",
+            "przelew"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-w-banku-gap-6",
+          "promptBefore": "Moja",
+          "promptAfter": "nie działa.",
+          "correctAnswer": "karta",
+          "options": [
+            "karta",
+            "saldo",
+            "przelew"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-w-banku-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-w-banku-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "założyć konto.",
+          "correctAnswer": "Chcę",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "chcieć"
+        },
+        {
+          "id": "pl-w-banku-verbs-2",
+          "promptBefore": "Czy mogę tu",
+          "promptAfter": "gotówkę?",
+          "correctAnswer": "wypłacić",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "wypłacić"
+        },
+        {
+          "id": "pl-w-banku-verbs-3",
+          "promptBefore": "Proszę",
+          "promptAfter": "ten formularz.",
+          "correctAnswer": "podpisać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "podpisać"
+        },
+        {
+          "id": "pl-w-banku-verbs-4",
+          "promptBefore": "Karta",
+          "promptAfter": "za pięć dni.",
+          "correctAnswer": "przyjdzie",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "przyjść"
+        },
+        {
+          "id": "pl-w-banku-verbs-5",
+          "promptBefore": "Ola",
+          "promptAfter": "swój PIN.",
+          "correctAnswer": "zapomniała",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zapomnieć"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-w-banku-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-w-banku-order-1",
+          "chunks": [
+            "Chcę",
+            "założyć",
+            "konto"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-banku-order-2",
+          "chunks": [
+            "Gdzie",
+            "mogę",
+            "wypłacić",
+            "pieniądze"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-w-banku-order-3",
+          "chunks": [
+            "Moja karta",
+            "jest",
+            "zablokowana"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-w-banku-order-4",
+          "chunks": [
+            "Ile",
+            "kosztuje",
+            "prowadzenie konta"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-w-banku-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-w-banku-spelling-1",
+          "correct": "konto",
+          "wrong": "kąto"
+        },
+        {
+          "id": "pl-w-banku-spelling-2",
+          "correct": "pieniądze",
+          "wrong": "pieniondze"
+        },
+        {
+          "id": "pl-w-banku-spelling-3",
+          "correct": "przelew",
+          "wrong": "pszelew"
+        },
+        {
+          "id": "pl-w-banku-spelling-4",
+          "correct": "podpis",
+          "wrong": "potpis"
+        },
+        {
+          "id": "pl-w-banku-spelling-5",
+          "correct": "bankomat",
+          "wrong": "bankomad"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "fa51c3e2-14ad-4ed6-a172-45aaf67f9883",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "München",
+  "topic": "Bayern: Wiesn, Weißwurst, Biergarten und „Servus“",
+  "tasks": [
+    {
+      "id": "stadt-muenchen-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-muenchen-matching-1",
+          "term": "die Wiesn",
+          "meaning": "So nennen Münchner das Oktoberfest auf der Theresienwiese."
+        },
+        {
+          "id": "stadt-muenchen-matching-2",
+          "term": "Servus!",
+          "meaning": "Bayerischer Gruß zum Kommen und zum Gehen."
+        },
+        {
+          "id": "stadt-muenchen-matching-3",
+          "term": "die Maß",
+          "meaning": "Großer Krug mit einem Liter Bier."
+        },
+        {
+          "id": "stadt-muenchen-matching-4",
+          "term": "die Weißwurst",
+          "meaning": "Weiße Wurst, die man traditionell vor zwölf Uhr mittags isst."
+        },
+        {
+          "id": "stadt-muenchen-matching-5",
+          "term": "die Brezn",
+          "meaning": "So sagt man in Bayern zur Brezel."
+        },
+        {
+          "id": "stadt-muenchen-matching-6",
+          "term": "der Biergarten",
+          "meaning": "Draußen unter Bäumen sitzen, essen und trinken."
+        },
+        {
+          "id": "stadt-muenchen-matching-7",
+          "term": "der Föhn",
+          "meaning": "Warmer Wind aus den Alpen; dann sieht man die Berge sehr klar."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-muenchen-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-muenchen-gap-1",
+          "promptBefore": "Das Glockenspiel ist am Rathaus auf",
+          "promptAfter": "Marienplatz.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-2",
+          "promptBefore": "Im Sommer surfen junge Leute auf",
+          "promptAfter": "Eisbach.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-3",
+          "promptBefore": "Am Wochenende gehen wir in",
+          "promptAfter": "Biergarten.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-4",
+          "promptBefore": "Er bestellt",
+          "promptAfter": "Maß und eine Brezn.",
+          "correctAnswer": "eine",
+          "options": [
+            "eine",
+            "einen",
+            "ein"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-5",
+          "promptBefore": "Die Isar fließt durch",
+          "promptAfter": "Stadt.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "der",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-6",
+          "promptBefore": "Wir gehen in",
+          "promptAfter": "Englischen Garten.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-muenchen-gap-7",
+          "promptBefore": "Bei Föhn sieht man von der Stadt aus",
+          "promptAfter": "Alpen.",
+          "correctAnswer": "die",
+          "options": [
+            "die",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-muenchen-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-muenchen-verbs-1",
+          "promptBefore": "Die Weißwurst",
+          "promptAfter": "man vor zwölf Uhr.",
+          "correctAnswer": "isst",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "essen"
+        },
+        {
+          "id": "stadt-muenchen-verbs-2",
+          "promptBefore": "Um 11 Uhr",
+          "promptAfter": "das Glockenspiel am Rathaus.",
+          "correctAnswer": "spielt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "spielen"
+        },
+        {
+          "id": "stadt-muenchen-verbs-3",
+          "promptBefore": "Die Wiesn",
+          "promptAfter": "Ende September.",
+          "correctAnswer": "beginnt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "beginnen"
+        },
+        {
+          "id": "stadt-muenchen-verbs-4",
+          "promptBefore": "Im Eisbach",
+          "promptAfter": "junge Leute auf der Welle.",
+          "correctAnswer": "surfen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "surfen"
+        },
+        {
+          "id": "stadt-muenchen-verbs-5",
+          "promptBefore": "Zum Abschied",
+          "promptAfter": "man in München „Servus“.",
+          "correctAnswer": "sagt",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "sagen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-muenchen-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-muenchen-table-1",
+          "article": "das",
+          "singular": "Fest",
+          "plural": "Feste"
+        },
+        {
+          "id": "stadt-muenchen-table-2",
+          "article": "die",
+          "singular": "Wurst",
+          "plural": "Würste"
+        },
+        {
+          "id": "stadt-muenchen-table-3",
+          "article": "der",
+          "singular": "Garten",
+          "plural": "Gärten"
+        },
+        {
+          "id": "stadt-muenchen-table-4",
+          "article": "der",
+          "singular": "Krug",
+          "plural": "Krüge"
+        },
+        {
+          "id": "stadt-muenchen-table-5",
+          "article": "die",
+          "singular": "Brezel",
+          "plural": "Brezeln"
+        },
+        {
+          "id": "stadt-muenchen-table-6",
+          "article": "der",
+          "singular": "Berg",
+          "plural": "Berge"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-muenchen-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-muenchen-order-1",
+          "chunks": [
+            "Die Wiesn",
+            "beginnt",
+            "Ende September"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-muenchen-order-2",
+          "chunks": [
+            "Weißwürste",
+            "isst man",
+            "vor zwölf Uhr"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-muenchen-order-3",
+          "chunks": [
+            "Gehen wir",
+            "heute Abend",
+            "in den Biergarten"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "stadt-muenchen-order-4",
+          "chunks": [
+            "Bei Föhn",
+            "sieht man",
+            "die Alpen",
+            "ganz klar"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-muenchen-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-muenchen-spelling-1",
+          "correct": "Biergarten",
+          "wrong": "Biergarden"
+        },
+        {
+          "id": "stadt-muenchen-spelling-2",
+          "correct": "Glockenspiel",
+          "wrong": "Glockenschpiel"
+        },
+        {
+          "id": "stadt-muenchen-spelling-3",
+          "correct": "Rathaus",
+          "wrong": "Ratthaus"
+        },
+        {
+          "id": "stadt-muenchen-spelling-4",
+          "correct": "Oktober",
+          "wrong": "Oktopber"
+        },
+        {
+          "id": "stadt-muenchen-spelling-5",
+          "correct": "Berge",
+          "wrong": "Bärge"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

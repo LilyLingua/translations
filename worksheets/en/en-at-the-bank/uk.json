@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.458Z"
+  },
+  "title": "У банку",
+  "instructions": {
+    "en-at-the-bank-matching": "З'єднай кожне слово з його значенням.",
+    "en-at-the-bank-gap": "Вибери правильне слово.",
+    "en-at-the-bank-verbs": "Встав правильне дієслово.",
+    "en-at-the-bank-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-at-the-bank-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-at-the-bank-matching-1",
+      "translation": "банківський рахунок",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-1:meaning",
+      "translation": "Місце в банку, де зберігаються твої гроші.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2",
+      "translation": "дебетова картка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2:meaning",
+      "translation": "Картка, якою платять грошима з рахунку.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3",
+      "translation": "PIN-код",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3:meaning",
+      "translation": "Таємне число для картки.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4",
+      "translation": "банкомат",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4:meaning",
+      "translation": "Автомат, де можна зняти готівку.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5",
+      "translation": "переказ",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5:meaning",
+      "translation": "Коли надсилаєш гроші зі свого рахунку на інший.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6",
+      "translation": "баланс",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6:meaning",
+      "translation": "Скільки грошей на твоєму рахунку.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-gap-1",
+      "translation": "Я хочу відкрити банківський рахунок.",
+      "answerText": "рахунок"
+    },
+    {
+      "id": "en-at-the-bank-gap-2",
+      "translation": "Будь ласка, введіть PIN-код.",
+      "answerText": "PIN-код"
+    },
+    {
+      "id": "en-at-the-bank-gap-3",
+      "translation": "Де найближчий банкомат?",
+      "answerText": "банкомат"
+    },
+    {
+      "id": "en-at-the-bank-gap-4",
+      "translation": "Я хочу зробити переказ орендодавцю.",
+      "answerText": "переказ"
+    },
+    {
+      "id": "en-at-the-bank-gap-5",
+      "translation": "Як перевірити баланс?",
+      "answerText": "баланс"
+    },
+    {
+      "id": "en-at-the-bank-gap-6",
+      "translation": "Моя дебетова картка не працює.",
+      "answerText": "дебетова"
+    },
+    {
+      "id": "en-at-the-bank-verbs-1",
+      "translation": "Я хочу відкрити рахунок.",
+      "answerText": "хочу"
+    },
+    {
+      "id": "en-at-the-bank-verbs-2",
+      "translation": "Чи можна тут зняти готівку?",
+      "answerText": "зняти"
+    },
+    {
+      "id": "en-at-the-bank-verbs-3",
+      "translation": "Будь ласка, підпишіть цю форму.",
+      "answerText": "підпишіть"
+    },
+    {
+      "id": "en-at-the-bank-verbs-4",
+      "translation": "Картка прийде через п'ять днів.",
+      "answerText": "прийде"
+    },
+    {
+      "id": "en-at-the-bank-verbs-5",
+      "translation": "Ми забули PIN-код.",
+      "answerText": "забули"
+    },
+    {
+      "id": "en-at-the-bank-order-1",
+      "translation": "Я хочу відкрити рахунок.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-2",
+      "translation": "Де можна зняти гроші?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-3",
+      "translation": "Мою картку заблоковано.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-4",
+      "translation": "Скільки коштує обслуговування рахунку?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-1",
+      "translation": "рахунок",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-2",
+      "translation": "баланс",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-3",
+      "translation": "зняти",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-4",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-5",
+      "translation": "підпис",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "_meta": {
+    "language": "tw",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-29T13:37:50.243Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "Dɔkota nkyɛn",
+  "instructions": {
+    "beim-arzt-matching": "Fa asɛmfua biara ka ne nkyerɛkyerɛmu a ɛfata ho.",
+    "beim-arzt-gap": "Hyɛ asɛmfua a ɛfata no nsɛnkyerɛnne.",
+    "beim-arzt-verbs": "Fa adeyɛ asɛmfua a ɛteɛ hyɛ mu wɔ ne nsɛsoɔ a ɛteɛ mu.",
+    "beim-arzt-table": "Fa artikel (der/die/das) ne dodoɔ nsɛsoɔ no hyɛ mu.",
+    "beim-arzt-order": "Hyehyɛ nsɛmfua no yie na kyerɛw kasamu no.",
+    "beim-arzt-spelling": "Asɛmfua bɛn na wɔakyerɛw no yie? Hyɛ no nsɛnkyerɛnne."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "apɔmuden insurance kaad",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Wode kaad yi kyerɛ wɔ ɔpon ano. Wo apɔmuden insurance din wɔ so.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "da ne bere a wɔahyɛ (appointment)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Bere pɔtee a wobɛba dɔkota adwumabea hɔ.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "twɛn dan",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Ɛha na wotena kɔsi sɛ wɔbɛfrɛ wo.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "aduro krataa (prescription)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Wode no na ɛnya aduro wɔ aduroto baabi.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "yadeɛ krataa (sick note)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Wo adwuma wura nya saa krataa yi bere a woyare.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "atiridii (fever)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Wo nipadua ho hyeɛ boro so, sɛ nhwɛsoɔ no digrii 39.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "allergy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Nipadua no yɛ biribi ho adeɛ den, sɛ nhwɛsoɔ no penicillin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "ɔhaw bere frɛ (emergency call)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Nɔma 112 – sɛ akwanhyia anaa ɔhaw kɛseɛ bi ba a.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Maakye, mepɛ sɛ mehyehyɛ da ne bere a mɛba.",
+      "answerText": "da ne bere"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Wokura wo apɔmuden insurance kaad?",
+      "answerText": "apɔmuden insurance kaad"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Mepa wo kyɛw, tena twɛn dan no mu.",
+      "answerText": "twɛn dan"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Me ti yɛ me ya na me ho yɛ hyehye.",
+      "answerText": "ti"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Me yafunu yɛ me ya.",
+      "answerText": "yafunu"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Penicillin nyɛ me yie (allergy).",
+      "answerText": "Penicillin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Mehia yadeɛ krataa ma me adwuma wura.",
+      "answerText": "yadeɛ krataa"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Nom aduro pɛpɛ no da biara mprɛnsa, wodidi wie a.",
+      "answerText": "wodidi"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Mepa wo kyɛw, wobɛtumi aka no brɛoo?",
+      "answerText": "aka"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Nnansa ni a mewɔ atiridii.",
+      "answerText": "mewɔ"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Me ti yɛ me ya paa.",
+      "answerText": "yɛ me ya"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Mepa wo kyɛw, home kɔ mu den – na home fi adi bio.",
+      "answerText": "home kɔ mu"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Dɔkota (ɔbaa) no ma me aduro krataa.",
+      "answerText": "ma"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Yɛrefrɛ wo seesei ara.",
+      "answerText": "Yɛrefrɛ"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "dɔkota",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "aduro pɛpɛ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "aduro krataa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "appointment",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "dɔkota adwumabea",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "aduro",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Mepɛ sɛ mehyehyɛ da ne bere a mɛba.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Nnansa ni a mewɔ atiridii.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Mepa wo kyɛw, wobɛtumi aka no bio?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Ɛhe na ɛyɛ wo ya?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "ti yea",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "yadeɛ krataa",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "apɔmuden insurance kaad",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "aduro pɛpɛ",
+      "answerText": null
+    }
+  ]
+}

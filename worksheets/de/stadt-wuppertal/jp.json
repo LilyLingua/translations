@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:04.023Z"
+  },
+  "title": "ヴッパータール",
+  "instructions": {
+    "stadt-wuppertal-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-wuppertal-gap": "正しい単語に印をつけましょう。",
+    "stadt-wuppertal-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-wuppertal-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-wuppertal-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-wuppertal-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "懸垂式モノレール（シュヴェーベバーン）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "レールにぶら下がって川の上を走る電車。1901年から走っている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "「トゥッフィ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "1950年にモノレールからヴッパー川に飛び降りた子どもの象。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "ヴッパー川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "街全体を流れる川。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "ピナ・バウシュ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "有名なダンサー。ヴッパータールの彼女の舞踊団は世界中で知られている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "階段",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "街が斜面にあるので、ヴッパータールには公共の階段がとても多い。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "フリードリヒ・エンゲルス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "思想家でカール・マルクスの友人。バルメン地区で生まれた。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "ノルトバーントラッセ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "古い線路の跡に作られた自転車道で、トンネルや橋がある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "モノレールはヴッパー川の上を走ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "1950年に一頭の象がモノレールから飛び降りました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "私たちは自転車でノルトバーントラッセを走ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "フリードリヒ・エンゲルスはバルメン地区で生まれました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "私たちは階段を上ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "その舞踊団は世界中で知られています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "トゥッフィは川に落ちました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "モノレールは川の上でレールにぶら下がっています。",
+      "answerText": "ぶら下がって"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "トゥッフィはヴッパー川に落ちました。",
+      "answerText": "落ち"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "ヴッパータールには階段がとてもたくさんあります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "モノレールは120年以上前から走っています。",
+      "answerText": "走って"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "多くのサイクリストがノルトバーントラッセを利用します。",
+      "answerText": "利用し"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "電車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "象",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "階段",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "自転車",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "駅",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "モノレールはヴッパー川の上にぶら下がっています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "毎日たくさんの人がモノレールに乗ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "トゥッフィの話を知っていますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "ヴッパータールには階段がとてもたくさんあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "象",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "階段",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "川",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "レール",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "駅",
+      "answerText": null
+    }
+  ]
+}

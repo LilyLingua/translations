@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ro",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:29:12.749Z"
+  },
+  "title": "Programări la telefon",
+  "instructions": {
+    "termine-am-telefon-matching": "Uniți fiecare cuvânt cu explicația potrivită.",
+    "termine-am-telefon-gap": "Bifați prepoziția corectă.",
+    "termine-am-telefon-verbs": "Completați cu verbul corect la forma corectă.",
+    "termine-am-telefon-table": "Completați articolul (der/die/das) și forma de plural.",
+    "termine-am-telefon-order": "Puneți cuvintele în ordinea corectă și scrieți propoziția.",
+    "termine-am-telefon-spelling": "Care cuvânt este scris corect? Bifați."
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "robotul telefonic",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "Aici puteți lăsa un mesaj.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "interiorul (numărul direct)",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "Numărul de telefon direct al unei persoane într-o firmă.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "a suna înapoi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "A suna pe cineva mai târziu, pentru că te-a sunat înainte.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "a amâna",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "A muta o programare în altă zi.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "a anula",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "A spune că nu vii la o programare.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "programul cu publicul",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "Orele în care poți contacta pe cineva.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "a spune pe litere",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "A spune un cuvânt literă cu literă.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "Aveți timp luni?",
+      "answerText": "luni"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "Vă convine la ora 10?",
+      "answerText": "la"
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "Am timp abia în decembrie.",
+      "answerText": "în"
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "Cabinetul este închis în weekend.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "Vă sun înapoi peste o oră.",
+      "answerText": "peste"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "Aștept o programare de două săptămâni.",
+      "answerText": "de"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "Vă rog să veniți cu zece minute înainte de programare.",
+      "answerText": "înainte"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "Pot să vorbesc cu doamna Weber, vă rog?",
+      "answerText": "vorbesc"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "Din păcate trebuie să-mi anulez programarea.",
+      "answerText": "anulez"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "Mă puteți suna înapoi, vă rog?",
+      "answerText": "suna înapoi"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "Vă dau numărul meu.",
+      "answerText": "dau"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "Cum se scrie numele dumneavoastră?",
+      "answerText": "scrie"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "apelul",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "numărul",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "mesajul",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "telefonul",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "ora",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "telefonul mobil",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "Aș vrea să amân o programare.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "Când aveți timp?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "Sun din nou mâine.",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "Vă convine joi la ora 9?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "mesaj",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "telefon",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "programare",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "a suna înapoi",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "oră",
+      "answerText": null
+    }
+  ]
+}

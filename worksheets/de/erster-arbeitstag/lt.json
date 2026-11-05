@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "lt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z"
+  },
+  "title": "Pirmoji darbo diena",
+  "instructions": {
+    "erster-arbeitstag-matching": "Kiekvieną žodį sujunkite su teisingu paaiškinimu.",
+    "erster-arbeitstag-gap": "Pažymėkite teisingą formą.",
+    "erster-arbeitstag-verbs": "Įrašykite tinkamą veiksmažodį tinkama forma.",
+    "erster-arbeitstag-table": "Įrašykite artikelį (der/die/das) ir daugiskaitos formą.",
+    "erster-arbeitstag-order": "Sudėliokite žodžius teisinga tvarka ir parašykite sakinį.",
+    "erster-arbeitstag-spelling": "Kuris žodis parašytas teisingai? Pažymėkite jį."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "Vyras, su kuriuo dirbate kartu.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "vadovė",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "Ji vadovauja komandai.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "pertrauka",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "Laisvas laikas darbo metu, pavyzdžiui, pavalgyti.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "atostogos",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "Laisvos dienos, kai nedirbate, bet vis tiek gaunate atlyginimą.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "viršvalandis",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "Valanda, kurią dirbate daugiau nei planuota.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "darbo sutartis",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "Joje nurodytas jūsų atlyginimas, darbo laikas ir atostogos.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "valgykla",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "Čia įmonėje valgo darbuotojai.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "Tai mano naujas kolega.",
+      "answerText": "mano"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "Ar galiu jums pristatyti savo kolegą?",
+      "answerText": "savo"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "Man patinka dirbti kartu su komanda.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "Susitinkame valgykloje.",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "Turiu klausimą.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "Kada prasideda pertrauka?",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "Atiduodu vadovei ataskaitą.",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "Ar galiu trumpai prisistatyti?",
+      "answerText": "prisistatyti"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "Dirbu nuo 8 iki 16 val.",
+      "answerText": "Dirbu"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "Kur galiu rasti tualetą?",
+      "answerText": "rasti"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "Komandoje vieni į kitus kreipiamės „tu“.",
+      "answerText": "kreipiamės"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "Ar galėtumėte man tai paaiškinti?",
+      "answerText": "paaiškinti"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "įmonė",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "biuras",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "kompiuteris",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "susirinkimas",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "komanda",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "Ar galiu trumpai prisistatyti?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "Esu naujas komandoje.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "Kada prasideda pietų pertrauka?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "Ar galite man tai paaiškinti?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "kolega",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "susirinkimas",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "atostogos",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "biuras",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "viršvalandis",
+      "answerText": null
+    }
+  ]
+}

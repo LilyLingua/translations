@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.573Z"
+  },
+  "title": "ডাক্তারের কাছে",
+  "instructions": {
+    "beim-arzt-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "beim-arzt-gap": "উপযুক্ত শব্দে চিহ্ন দিন।",
+    "beim-arzt-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "beim-arzt-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "beim-arzt-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "beim-arzt-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "স্বাস্থ্য বীমা কার্ড",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "এই কার্ডটি রিসেপশনে দেখান। এতে আপনার স্বাস্থ্য বীমার নাম থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "অ্যাপয়েন্টমেন্ট",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "একটি নির্দিষ্ট সময় যখন আপনি চেম্বারে আসেন।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "ওয়েটিং রুম",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "আপনাকে না ডাকা পর্যন্ত আপনি এখানে বসেন।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "প্রেসক্রিপশন",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "এটা দিয়ে ফার্মেসি থেকে ওষুধ পাওয়া যায়।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "অসুস্থতার সার্টিফিকেট",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "আপনি অসুস্থ হলে এই কাগজ আপনার নিয়োগকর্তা পান।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "জ্বর",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "শরীরের তাপমাত্রা অনেক বেশি, যেমন 39 ডিগ্রি।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "অ্যালার্জি",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "শরীর কোনো কিছুতে তীব্র প্রতিক্রিয়া দেখায়, যেমন পেনিসিলিনে।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "জরুরি কল",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "নম্বর 112 – দুর্ঘটনা বা জরুরি অবস্থায়।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "নমস্কার, আমি একটা অ্যাপয়েন্টমেন্ট নিতে চাই।",
+      "answerText": "অ্যাপয়েন্টমেন্ট"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "আপনার সঙ্গে কি স্বাস্থ্য বীমা কার্ড আছে?",
+      "answerText": "স্বাস্থ্য বীমা কার্ড"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "দয়া করে ওয়েটিং রুমে বসুন।",
+      "answerText": "ওয়েটিং রুমে"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "আমার মাথাব্যথা আর জ্বর।",
+      "answerText": "মাথাব্যথা"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "আমার পেটে ব্যথা।",
+      "answerText": "পেটে"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "আমার পেনিসিলিনে অ্যালার্জি আছে।",
+      "answerText": "পেনিসিলিনে"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "আমার নিয়োগকর্তার জন্য একটা অসুস্থতার সার্টিফিকেট লাগবে।",
+      "answerText": "অসুস্থতার সার্টিফিকেট"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "ট্যাবলেট দিনে তিনবার খাওয়ার পরে নিন।",
+      "answerText": "খাওয়ার"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "আপনি কি এটা একটু আস্তে বলতে পারবেন?",
+      "answerText": "বলতে"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "তিন দিন ধরে আমার জ্বর।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "আমার মাথায় খুব ব্যথা করছে।",
+      "answerText": "ব্যথা"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "দয়া করে গভীর শ্বাস নিন – তারপর ছাড়ুন।",
+      "answerText": "শ্বাস"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "ডাক্তার আমাকে প্রেসক্রিপশন দেন।",
+      "answerText": "দেন"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "আমরা এখনই আপনাকে ডাকছি।",
+      "answerText": "ডাকছি"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "ডাক্তার",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "ট্যাবলেট",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "প্রেসক্রিপশন",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "অ্যাপয়েন্টমেন্ট",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "চেম্বার",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "ওষুধ",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "আমি একটা অ্যাপয়েন্টমেন্ট নিতে চাই।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "তিন দিন ধরে আমার জ্বর।",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "আপনি কি আবার বলতে পারবেন?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "কোথায় ব্যথা করছে?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "মাথাব্যথা",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "অসুস্থতার সার্টিফিকেট",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "স্বাস্থ্য বীমা কার্ড",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "অ্যালার্জিযুক্ত",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "ট্যাবলেট",
+      "answerText": null
+    }
+  ]
+}

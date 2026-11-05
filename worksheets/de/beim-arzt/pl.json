@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:21.689Z"
+  },
+  "title": "U lekarza",
+  "instructions": {
+    "beim-arzt-matching": "Połącz każde słowo z pasującym wyjaśnieniem.",
+    "beim-arzt-gap": "Zaznacz pasujące słowo.",
+    "beim-arzt-verbs": "Wstaw właściwy czasownik w poprawnej formie.",
+    "beim-arzt-table": "Uzupełnij rodzajnik (der/die/das) i formę liczby mnogiej.",
+    "beim-arzt-order": "Ułóż słowa we właściwej kolejności i napisz zdanie.",
+    "beim-arzt-spelling": "Które słowo jest napisane poprawnie? Zaznacz."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "karta ubezpieczenia zdrowotnego",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Pokazujesz tę kartę w rejestracji. Jest na niej twoja kasa chorych.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "wizyta (termin)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Ustalona godzina, o której przychodzisz do gabinetu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "poczekalnia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Siedzisz tu, aż cię wywołają.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "recepta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Dzięki niej dostajesz lek w aptece.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "zwolnienie lekarskie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Ten dokument dostaje twój pracodawca, gdy jesteś chory.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "gorączka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Temperatura ciała jest za wysoka, na przykład 39 stopni.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Organizm silnie reaguje na coś, na przykład na penicylinę.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "numer alarmowy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Numer 112 – przy wypadku lub w nagłym przypadku.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Dzień dobry, chciałbym umówić się na wizytę.",
+      "answerText": "wizytę"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Czy ma pan / pani przy sobie kartę ubezpieczenia?",
+      "answerText": "kartę ubezpieczenia"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Proszę usiąść w poczekalni.",
+      "answerText": "poczekalni"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Mam ból głowy i gorączkę.",
+      "answerText": "ból głowy"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Boli mnie brzuch.",
+      "answerText": "brzuch"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Mam uczulenie na penicylinę.",
+      "answerText": "penicylinę"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Potrzebuję zwolnienia lekarskiego dla pracodawcy.",
+      "answerText": "zwolnienia lekarskiego"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Proszę brać tabletki trzy razy dziennie po jedzeniu.",
+      "answerText": "jedzeniu"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Czy może pan / pani powiedzieć to wolniej?",
+      "answerText": "powiedzieć"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Mam gorączkę od trzech dni.",
+      "answerText": "Mam"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Bardzo boli mnie głowa.",
+      "answerText": "boli"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Proszę głęboko wdychać – i znowu wydychać.",
+      "answerText": "wdychać"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Lekarka daje mi receptę.",
+      "answerText": "daje"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Zaraz pana / panią wywołamy.",
+      "answerText": "wywołamy"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "lekarz",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tabletka",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "recepta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "wizyta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "gabinet (praktyka lekarska)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "lek",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Chciałbym umówić się na wizytę.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Od trzech dni mam gorączkę.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Czy może pan / pani to powtórzyć?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Gdzie boli?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "ból głowy",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "zwolnienie lekarskie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "karta ubezpieczenia zdrowotnego",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "uczulony",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tabletka",
+      "answerText": null
+    }
+  ]
+}

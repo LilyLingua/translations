@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:51:50.711Z"
+  },
+  "title": "Hamburgo",
+  "instructions": {
+    "stadt-hamburg-matching": "Relaciona cada palabra con la explicación correcta.",
+    "stadt-hamburg-gap": "Marca la palabra correcta.",
+    "stadt-hamburg-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "stadt-hamburg-table": "Completa el artículo y el plural.",
+    "stadt-hamburg-order": "Ordena las palabras y escribe la frase.",
+    "stadt-hamburg-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "«Moin!»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Saludo del norte de Alemania; se dice todo el día, no solo por la mañana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "el puerto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Aquí llegan grandes barcos con contenedores.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "la Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Sala de conciertos en el puerto; los hamburgueses la llaman «Elphi».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "el «Michel»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Así llaman los hamburgueses a su iglesia más conocida, San Miguel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "el Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Bollo dulce con canela, típico de Hamburgo.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "el mercado de pescado",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Mercado junto al Elba, el domingo muy temprano por la mañana.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "el «Schietwetter»",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "En el norte: mal tiempo con lluvia y viento.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Los barcos navegan por el Elba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "El domingo vamos temprano al mercado de pescado.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Me como un bocadillo de pescado.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "El concierto es en la Elbphilharmonie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Hacemos una vuelta por el puerto en el barco.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "En verano mucha gente se sienta junto al Alster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Desde arriba se ve todo el puerto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "En Hamburgo se dice «Moin» todo el día.",
+      "answerText": "dice"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Grandes portacontenedores llegan al puerto.",
+      "answerText": "llegan"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "El mercado de pescado empieza muy temprano el domingo.",
+      "answerText": "empieza"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "¡Otra vez llueve! Típico Schietwetter.",
+      "answerText": "llueve"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Hamburgo es un estado federado propio.",
+      "answerText": "es"
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "el puerto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "el barco",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "el puente",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "el canal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "el concierto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "la iglesia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Hamburgo está junto al Elba.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "El domingo vamos temprano al mercado de pescado.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "¿Ya has estado en la Elbphilharmonie?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "En Hamburgo se dice «Moin» todo el día.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "puerto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "barco",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "concierto",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "lluvia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "puente",
+      "answerText": null
+    }
+  ]
+}

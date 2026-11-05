@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.636Z"
+  },
+  "title": "電話で予約",
+  "instructions": {
+    "termine-am-telefon-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "termine-am-telefon-gap": "正しい前置詞に印をつけなさい。",
+    "termine-am-telefon-verbs": "正しい動詞を正しい形で入れなさい。",
+    "termine-am-telefon-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "termine-am-telefon-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "termine-am-telefon-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "留守番電話",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "ここにメッセージを残せます。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "内線番号",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "会社の中の人への直通番号。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "折り返し電話する",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "前に電話をくれた人に、後で電話をかけること。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "延期する",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "予約を別の日に移すこと。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "キャンセルする",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "予約に行かないと伝えること。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "受付時間",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "誰かに連絡できる時間。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "つづりを言う",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "単語を一文字ずつ言うこと。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "月曜日にお時間ありますか？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "10時でよろしいですか？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "12月まで時間がありません。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "診療所は週末は休みです。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "1時間後に折り返しお電話します。",
+      "answerText": "後に"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "2週間前から予約を待っています。",
+      "answerText": "前から"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "予約の10分前に来てください。",
+      "answerText": "前に"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "ヴェーバーさんとお話しできますか？",
+      "answerText": "お話しできますか"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "残念ですが、予約をキャンセルしなければなりません。",
+      "answerText": "キャンセルしなければなりません"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "折り返しお電話いただけますか？",
+      "answerText": "お電話いただけますか"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "私の番号をお伝えします。",
+      "answerText": "お伝えします"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "お名前はどう書きますか？",
+      "answerText": "書きますか"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "電話（通話）",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "番号",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "メッセージ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "電話",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "時刻",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "携帯電話",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "予約を延期したいです。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "いつお時間がありますか？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "明日もう一度電話します。",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "木曜日の9時はご都合いかがですか？",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "メッセージ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "電話",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "予約",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "折り返し電話する",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "時刻",
+      "answerText": null
+    }
+  ]
+}

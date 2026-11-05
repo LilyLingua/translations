@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:26.099Z"
+  },
+  "title": "Dresden",
+  "instructions": {
+    "stadt-dresden-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-dresden-gap": "Đánh dấu từ đúng.",
+    "stadt-dresden-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-dresden-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-dresden-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-dresden-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-dresden-matching-1",
+      "translation": "Nhà thờ Đức Bà (Frauenkirche)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-1:meaning",
+      "translation": "Nhà thờ lớn có mái vòm; bị phá hủy trong chiến tranh, mở cửa lại năm 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2",
+      "translation": "\"Florence bên sông Elbe\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-2:meaning",
+      "translation": "Biệt danh của Dresden – vì có nhiều công trình đẹp.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3",
+      "translation": "chợ Striezelmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-3:meaning",
+      "translation": "Một trong những chợ Giáng sinh lâu đời nhất ở Đức.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4",
+      "translation": "bánh Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-4:meaning",
+      "translation": "Bánh Giáng sinh nặng có nho khô và đường bột.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5",
+      "translation": "\"Kỳ quan Xanh\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-5:meaning",
+      "translation": "Cây cầu cũ màu xanh bắc qua sông Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6",
+      "translation": "Nhà hát Semperoper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-6:meaning",
+      "translation": "Nhà hát opera nổi tiếng trên quảng trường Theaterplatz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7",
+      "translation": "bánh Eierschecke",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-matching-7:meaning",
+      "translation": "Bánh ba lớp của vùng Sachsen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-1",
+      "translation": "Chúng tôi tham quan Nhà thờ Đức Bà.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-2",
+      "translation": "Tháng Mười Hai chúng tôi đi chợ Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-3",
+      "translation": "Giáng sinh bà tôi nướng một cái Stollen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-4",
+      "translation": "Chúng tôi đi dạo dọc sông Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-5",
+      "translation": "Buổi tối chúng tôi đi Nhà hát Semperoper.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-6",
+      "translation": "Kỳ quan Xanh là một cây cầu cũ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-gap-7",
+      "translation": "Uống cà phê, tôi ăn một miếng Eierschecke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-verbs-1",
+      "translation": "Trong chiến tranh, Nhà thờ Đức Bà bị phá hủy.",
+      "answerText": "bị phá hủy"
+    },
+    {
+      "id": "stadt-dresden-verbs-2",
+      "translation": "Nhiều người quyên góp tiền để xây lại.",
+      "answerText": "quyên góp"
+    },
+    {
+      "id": "stadt-dresden-verbs-3",
+      "translation": "Chợ Striezelmarkt diễn ra mỗi năm vào Mùa Vọng.",
+      "answerText": "diễn ra"
+    },
+    {
+      "id": "stadt-dresden-verbs-4",
+      "translation": "Sông Elbe chảy ngay qua Dresden.",
+      "answerText": "chảy"
+    },
+    {
+      "id": "stadt-dresden-verbs-5",
+      "translation": "Trong tiếng địa phương Sachsen, người ta hay nói \"nu\" thay cho \"vâng\".",
+      "answerText": "nói"
+    },
+    {
+      "id": "stadt-dresden-table-1",
+      "translation": "nhà thờ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-2",
+      "translation": "cây cầu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-3",
+      "translation": "chợ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-4",
+      "translation": "mái vòm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-5",
+      "translation": "bánh ngọt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-table-6",
+      "translation": "cung điện",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-1",
+      "translation": "Nhà thờ Đức Bà được mở cửa lại năm 2005.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-2",
+      "translation": "Mùa Vọng chúng tôi đi chợ Striezelmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-3",
+      "translation": "Bạn đã thử bánh Stollen Dresden chưa?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-order-4",
+      "translation": "Dresden nằm bên sông Elbe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-1",
+      "translation": "mái vòm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-2",
+      "translation": "Giáng sinh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-3",
+      "translation": "bánh Stollen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-4",
+      "translation": "cây cầu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-dresden-spelling-5",
+      "translation": "nho khô",
+      "answerText": null
+    }
+  ]
+}

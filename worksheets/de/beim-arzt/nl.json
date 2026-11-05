@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:30:44.570Z"
+  },
+  "title": "Bij de dokter",
+  "instructions": {
+    "beim-arzt-matching": "Verbind elk woord met de juiste uitleg.",
+    "beim-arzt-gap": "Kruis het passende woord aan.",
+    "beim-arzt-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "beim-arzt-table": "Vul het lidwoord (der/die/das) en de meervoudsvorm in.",
+    "beim-arzt-order": "Zet de woorden in de juiste volgorde en schrijf de zin op.",
+    "beim-arzt-spelling": "Welk woord is goed gespeld? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "de zorgpas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Deze pas laat u zien bij de balie. Hierop staat uw zorgverzekering.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "de afspraak",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Een vast tijdstip waarop u naar de praktijk komt.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "de wachtkamer",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Hier zit u tot u wordt opgeroepen.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "het recept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Daarmee krijgt u een medicijn bij de apotheek.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "de ziekmelding (het ziektebriefje)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Uw werkgever krijgt dit papier als u ziek bent.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "de koorts",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "De lichaamstemperatuur is te hoog, bijvoorbeeld 39 graden.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "de allergie",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Het lichaam reageert sterk op iets, bijvoorbeeld op penicilline.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "het alarmnummer",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Het nummer 112 – bij een ongeval of in een noodgeval.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Goedendag, ik wil graag een afspraak maken.",
+      "answerText": "afspraak"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Heeft u uw zorgpas bij u?",
+      "answerText": "zorgpas"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Neemt u alstublieft plaats in de wachtkamer.",
+      "answerText": "wachtkamer"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Ik heb hoofdpijn en koorts.",
+      "answerText": "hoofdpijn"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Mijn buik doet pijn.",
+      "answerText": "buik"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Ik ben allergisch voor penicilline.",
+      "answerText": "penicilline"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Ik heb een ziektebriefje nodig voor mijn werkgever.",
+      "answerText": "ziektebriefje"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Neem de tabletten drie keer per dag na het eten.",
+      "answerText": "eten"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Kunt u dat alstublieft langzamer zeggen?",
+      "answerText": "zeggen"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Ik heb al drie dagen koorts.",
+      "answerText": "heb"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Mijn hoofd doet erg pijn.",
+      "answerText": "doet"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Diep inademen alstublieft – en weer uitademen.",
+      "answerText": "inademen"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "De dokter geeft mij een recept.",
+      "answerText": "geeft"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "We roepen u zo op.",
+      "answerText": "roepen"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "de arts",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "de tablet",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "het recept",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "de afspraak",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "de praktijk",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "het medicijn",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Ik wil graag een afspraak maken.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Ik heb al drie dagen koorts.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Kunt u dat alstublieft herhalen?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Waar doet het pijn?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "hoofdpijn",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "ziektebriefje",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "zorgpas",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "allergisch",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tablet",
+      "answerText": null
+    }
+  ]
+}

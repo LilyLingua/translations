@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:57.877Z"
+  },
+  "title": "Moguncja",
+  "instructions": {
+    "stadt-mainz-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-mainz-gap": "Zaznacz właściwe słowo.",
+    "stadt-mainz-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-mainz-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-mainz-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-mainz-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-mainz-matching-1",
+      "translation": "„Fastnacht”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-1:meaning",
+      "translation": "Tak w Moguncji nazywa się karnawał; woła się „Helau”.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2",
+      "translation": "Różany Poniedziałek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-2:meaning",
+      "translation": "Kulminacja karnawału z wielkim pochodem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3",
+      "translation": "druk",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-3:meaning",
+      "translation": "Johannes Gutenberg wynalazł go w Moguncji – z ruchomymi czcionkami.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4",
+      "translation": "Mainzelmännchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-4:meaning",
+      "translation": "Małe postacie z kreskówek z programu stacji ZDF.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5",
+      "translation": "„Weck, Worscht un Woi”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-5:meaning",
+      "translation": "W gwarze Moguncji: bułka, kiełbasa i wino.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6",
+      "translation": "„Meenzer”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-6:meaning",
+      "translation": "Tak mieszkańcy Moguncji nazywają siebie w gwarze.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7",
+      "translation": "śniadanie targowe",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-matching-7:meaning",
+      "translation": "Spotkanie w soboty na targu przy katedrze, z winem i kiełbasą.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-1",
+      "translation": "Gutenberg wynalazł druk.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-2",
+      "translation": "W Różany Poniedziałek oglądamy wielki pochód.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-3",
+      "translation": "Śniadanie targowe jest obok katedry.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-4",
+      "translation": "ZDF ma swoją siedzibę w mieście Moguncja.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-5",
+      "translation": "On pije kieliszek wina.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-6",
+      "translation": "W muzeum widzimy starą Biblię.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-gap-7",
+      "translation": "Moguncja leży nad Renem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-verbs-1",
+      "translation": "Johannes Gutenberg wynalazł druk.",
+      "answerText": "wynalazł"
+    },
+    {
+      "id": "stadt-mainz-verbs-2",
+      "translation": "W karnawale mieszkańcy Moguncji wołają „Helau”.",
+      "answerText": "wołają"
+    },
+    {
+      "id": "stadt-mainz-verbs-3",
+      "translation": "Mainzelmännchen pojawiają się w ZDF między reklamami.",
+      "answerText": "pojawiają"
+    },
+    {
+      "id": "stadt-mainz-verbs-4",
+      "translation": "W sobotę spotykamy się na śniadaniu targowym.",
+      "answerText": "spotykamy"
+    },
+    {
+      "id": "stadt-mainz-verbs-5",
+      "translation": "Wokół Moguncji rośnie dużo winorośli.",
+      "answerText": "rośnie"
+    },
+    {
+      "id": "stadt-mainz-table-1",
+      "translation": "pochód",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-2",
+      "translation": "książka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-3",
+      "translation": "litera",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-4",
+      "translation": "Biblia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-5",
+      "translation": "bułka",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-table-6",
+      "translation": "katedra",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-1",
+      "translation": "Gutenberg wynalazł druk w Moguncji.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-2",
+      "translation": "W Różany Poniedziałek jest wielki pochód.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-3",
+      "translation": "Pójdziemy w sobotę na śniadanie targowe?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-order-4",
+      "translation": "Moguncja leży nad Renem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-1",
+      "translation": "litera",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-2",
+      "translation": "Biblia",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-3",
+      "translation": "pochód",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-4",
+      "translation": "Różany Poniedziałek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-mainz-spelling-5",
+      "translation": "telewizja",
+      "answerText": null
+    }
+  ]
+}

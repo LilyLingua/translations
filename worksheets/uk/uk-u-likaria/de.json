@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "de",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:49.490Z"
+  },
+  "title": "Beim Arzt",
+  "instructions": {
+    "uk-u-likaria-matching": "Verbinden Sie jedes Wort mit seiner Bedeutung.",
+    "uk-u-likaria-gap": "Wählen Sie das richtige Wort.",
+    "uk-u-likaria-verbs": "Setzen Sie das richtige Verb ein.",
+    "uk-u-likaria-order": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz.",
+    "uk-u-likaria-spelling": "Welches Wort ist richtig geschrieben? Kreuzen Sie es an."
+  },
+  "items": [
+    {
+      "id": "uk-u-likaria-matching-1",
+      "translation": "der Termin",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-1:meaning",
+      "translation": "Die Zeit, in der der Arzt einen Patienten behandelt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2",
+      "translation": "das Symptom",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-2:meaning",
+      "translation": "Ein Zeichen einer Krankheit, zum Beispiel hohes Fieber.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3",
+      "translation": "die Temperatur",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-3:meaning",
+      "translation": "Das, was man mit dem Thermometer misst.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4",
+      "translation": "die Anmeldung",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-4:meaning",
+      "translation": "Der Ort in der Praxis, an dem man Termine beim Arzt bekommt.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5",
+      "translation": "die Überweisung",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-5:meaning",
+      "translation": "Ein Dokument vom Arzt für einen anderen Arzt oder für Untersuchungen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6",
+      "translation": "die Krankschreibung",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-matching-6:meaning",
+      "translation": "Ein Dokument, dass jemand krank ist und nicht arbeiten kann.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-gap-1",
+      "translation": "Ich möchte einen Termin beim Hausarzt.",
+      "answerText": "Termin"
+    },
+    {
+      "id": "uk-u-likaria-gap-2",
+      "translation": "Ich habe seit gestern hohes Fieber.",
+      "answerText": "Fieber"
+    },
+    {
+      "id": "uk-u-likaria-gap-3",
+      "translation": "Bitte melden Sie sich an der Anmeldung.",
+      "answerText": "Anmeldung"
+    },
+    {
+      "id": "uk-u-likaria-gap-4",
+      "translation": "Der Arzt hat mir eine Überweisung zur Blutuntersuchung gegeben.",
+      "answerText": "Überweisung"
+    },
+    {
+      "id": "uk-u-likaria-gap-5",
+      "translation": "Ich brauche eine Krankschreibung für die Arbeit.",
+      "answerText": "Krankschreibung"
+    },
+    {
+      "id": "uk-u-likaria-gap-6",
+      "translation": "Welche Symptome haben Sie?",
+      "answerText": "Symptome"
+    },
+    {
+      "id": "uk-u-likaria-verbs-1",
+      "translation": "Mir tut der Hals weh.",
+      "answerText": "tut"
+    },
+    {
+      "id": "uk-u-likaria-verbs-2",
+      "translation": "Ich schlafe schlecht.",
+      "answerText": "schlafe"
+    },
+    {
+      "id": "uk-u-likaria-verbs-3",
+      "translation": "Der Arzt misst meinen Blutdruck.",
+      "answerText": "misst"
+    },
+    {
+      "id": "uk-u-likaria-verbs-4",
+      "translation": "Sie müssen zwei Tage zu Hause bleiben.",
+      "answerText": "bleiben"
+    },
+    {
+      "id": "uk-u-likaria-verbs-5",
+      "translation": "Bitte atmen Sie tief.",
+      "answerText": "atmen"
+    },
+    {
+      "id": "uk-u-likaria-order-1",
+      "translation": "Ich habe Bauchschmerzen.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-2",
+      "translation": "Wann kann ich zu einem Termin kommen?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-3",
+      "translation": "Brauche ich ein Rezept?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-order-4",
+      "translation": "Kommen Sie nächste Woche.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-1",
+      "translation": "Arzt",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-2",
+      "translation": "Klinik, Praxis",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-3",
+      "translation": "Thermometer",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-4",
+      "translation": "Untersuchung, Analyse",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-likaria-spelling-5",
+      "translation": "Gesundheit",
+      "answerText": null
+    }
+  ]
+}

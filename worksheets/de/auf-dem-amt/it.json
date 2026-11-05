@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "it",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:25:43.268Z"
+  },
+  "title": "All'ufficio pubblico",
+  "instructions": {
+    "auf-dem-amt-matching": "Collega ogni parola alla spiegazione giusta.",
+    "auf-dem-amt-gap": "Segna la parola adatta.",
+    "auf-dem-amt-verbs": "Inserisci il verbo giusto nella forma corretta.",
+    "auf-dem-amt-table": "Completa l'articolo (der/die/das) e la forma plurale.",
+    "auf-dem-amt-order": "Metti le parole nell'ordine giusto e scrivi la frase.",
+    "auf-dem-amt-spelling": "Quale parola è scritta correttamente? Segnala."
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "la registrazione della residenza",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "Comunichi all'ufficio il tuo nuovo indirizzo.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "il numero di attesa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "Prendi questo numero alla macchinetta.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "il passaporto",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "Un documento con cui viaggi all'estero.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "la conferma del locatore",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "Ti serve questo foglio del padrone di casa per la registrazione.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "il certificato di residenza",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "Questo foglio mostra che ora abiti a questo indirizzo.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "lo stato civile",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "celibe/nubile, sposato, divorziato o vedovo",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "la firma",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "Il tuo nome scritto a mano.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "il modulo",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "Un foglio con campi da compilare.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "Vorrei registrare il mio nuovo appartamento.",
+      "answerText": "appartamento"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "Per favore, prenda un numero alla macchinetta.",
+      "answerText": "numero"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "Il numero 147, per favore, allo sportello 12.",
+      "answerText": "sportello"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "Ecco la conferma del mio padrone di casa.",
+      "answerText": "padrone di casa"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "Ha con sé la carta d'identità?",
+      "answerText": "carta d'identità"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "Per favore, compili tutto il modulo.",
+      "answerText": "modulo"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "Il certificato di residenza Le servirà spesso, per esempio per un conto in banca.",
+      "answerText": "certificato di residenza"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "Oggi mi registro.",
+      "answerText": "registro"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "Dove devo firmare?",
+      "answerText": "firmare"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "Faccio lo spelling del mio nome: N – O – W – A – K.",
+      "answerText": "Faccio lo spelling"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "Prego, si accomodi.",
+      "answerText": "accomodi"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "La pratica richiede circa due settimane.",
+      "answerText": "richiede"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "l'ufficio pubblico",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "la carta d'identità",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "l'appartamento",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "il modulo",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "il padrone di casa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "l'indirizzo",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "Vorrei registrarmi.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "Dove devo firmare?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "Ecco il mio passaporto.",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "Mi serve ancora qualcos'altro?",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "certificato di residenza",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "passaporto",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "celibe / nubile",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "padrone di casa",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "indirizzo",
+      "answerText": null
+    }
+  ]
+}

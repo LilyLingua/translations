@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:39.464Z"
+  },
+  "title": "Sa supermarket",
+  "instructions": {
+    "im-supermarkt-matching": "Pagtugmain ang bawat salita sa tamang paliwanag.",
+    "im-supermarkt-gap": "Markahan ang angkop na pakete o dami.",
+    "im-supermarkt-verbs": "Isulat ang tamang pandiwa sa tamang anyo.",
+    "im-supermarkt-table": "Kumpletuhin ang artikulo at ang plural.",
+    "im-supermarkt-order": "Ayusin ang mga salita sa tamang pagkakasunod at isulat ang pangungusap.",
+    "im-supermarkt-spelling": "Aling salita ang tama ang baybay? Markahan."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "shopping cart",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Dito ninyo inilalagay ang mga binibili.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "cheese counter",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Dito kayo nakakakuha ng sariwang keso ayon sa timbang.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "deposito sa bote (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Perang naibabalik sa inyo para sa mga walang lamang bote.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "bottle return machine",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Dito ninyo isinasauli ang mga walang lamang bote.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "sale / promo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Mas mura ang isang produkto sa maikling panahon.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "resibo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Nakasulat sa papel na ito ang lahat ng presyo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "supot",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Dito ninyo dinadala pauwi ang mga pinamili.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Bibili ako ng isang cup ng yogurt.",
+      "answerText": "cup"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Isa pang bote ng tubig, please.",
+      "answerText": "bote"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Kailangan natin ng isang pakete ng pasta.",
+      "answerText": "pakete"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Para sa sarsa, kukuha ako ng isang lata ng kamatis.",
+      "answerText": "lata"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Gusto ko po ng 200 gramo ng gouda.",
+      "answerText": "gramo"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Ang isang piraso ng mantikilya ay 2,29 euro.",
+      "answerText": "piraso"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Kukuha ako ng isang litro ng gatas.",
+      "answerText": "litro"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Puwede po ba ninyong papalitan ang limang euro ko?",
+      "answerText": "papalitan"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Excuse me, saan ko makikita ang harina?",
+      "answerText": "makikita"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Magbabayad ako gamit ang card.",
+      "answerText": "Magbabayad"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Gusto ko po ng 200 gramo ng gouda.",
+      "answerText": "Gusto"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Tuwing Linggo, halos lahat ng supermarket ay sarado.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "bote",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "cup",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "lata",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "tinapay",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "mansanas",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "saging",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Excuse me, saan ko makikita ang harina?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "May dala akong bag.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Naka-sale ang saging ngayon.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Nasaan ang bottle return machine?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "shopping cart",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "resibo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "deposito sa bote",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "keso",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "Brötchen",
+      "answerText": null
+    }
+  ]
+}

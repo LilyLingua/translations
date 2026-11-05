@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:01:02.357Z"
+  },
+  "title": "Hamburg",
+  "instructions": {
+    "stadt-hamburg-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-hamburg-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-hamburg-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-hamburg-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-hamburg-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-hamburg-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-hamburg-matching-1",
+      "translation": "\"Moin!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-1:meaning",
+      "translation": "Kuzey Almanya selamı – sadece sabah değil, bütün gün söylenir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-2:meaning",
+      "translation": "Konteynerli büyük gemiler buraya gelir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3",
+      "translation": "Elbphilharmonie",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-3:meaning",
+      "translation": "Limandaki konser binası; Hamburglular ona \"Elphi\" der.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4",
+      "translation": "\"Michel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-4:meaning",
+      "translation": "Hamburglular en ünlü kiliseleri St. Michaelis'e böyle der.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5",
+      "translation": "Franzbrötchen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-5:meaning",
+      "translation": "Tarçınlı tatlı çörek, Hamburg'a özgü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6",
+      "translation": "balık pazarı",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-6:meaning",
+      "translation": "Elbe kıyısında, pazar sabahı çok erken kurulan pazar.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7",
+      "translation": "\"Schietwetter\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-matching-7:meaning",
+      "translation": "Kuzeyde yağmurlu ve rüzgârlı kötü havaya denir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-1",
+      "translation": "Gemiler Elbe'de gidiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-2",
+      "translation": "Pazar günü erkenden balık pazarına gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-3",
+      "translation": "Bir balık ekmek yiyorum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-4",
+      "translation": "Konser Elbphilharmonie'de.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-5",
+      "translation": "Gemiyle liman turu yapıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-6",
+      "translation": "Yazın birçok insan Alster kıyısında oturur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-gap-7",
+      "translation": "Yukarıdan bütün liman görünüyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-verbs-1",
+      "translation": "Hamburg'da bütün gün \"Moin\" denir.",
+      "answerText": "denir"
+    },
+    {
+      "id": "stadt-hamburg-verbs-2",
+      "translation": "Büyük konteyner gemileri limana varır.",
+      "answerText": "varır"
+    },
+    {
+      "id": "stadt-hamburg-verbs-3",
+      "translation": "Balık pazarı pazar sabahı çok erken başlar.",
+      "answerText": "başlar"
+    },
+    {
+      "id": "stadt-hamburg-verbs-4",
+      "translation": "Yine yağmur yağıyor – tipik Schietwetter!",
+      "answerText": "yağıyor"
+    },
+    {
+      "id": "stadt-hamburg-verbs-5",
+      "translation": "Hamburg ayrı bir eyalettir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-1",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-2",
+      "translation": "gemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-3",
+      "translation": "köprü",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-4",
+      "translation": "kanal",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-5",
+      "translation": "konser",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-table-6",
+      "translation": "kilise",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-1",
+      "translation": "Hamburg, Elbe kıyısındadır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-2",
+      "translation": "Pazar günü erkenden balık pazarına gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-3",
+      "translation": "Hiç Elbphilharmonie'de bulundun mu?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-order-4",
+      "translation": "Hamburg'da bütün gün \"Moin\" denir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-1",
+      "translation": "liman",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-2",
+      "translation": "gemi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-3",
+      "translation": "konser",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-4",
+      "translation": "yağmur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hamburg-spelling-5",
+      "translation": "köprü",
+      "answerText": null
+    }
+  ]
+}

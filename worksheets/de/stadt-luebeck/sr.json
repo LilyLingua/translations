@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:23.455Z"
+  },
+  "title": "Либек",
+  "instructions": {
+    "stadt-luebeck-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-luebeck-gap": "Означи тачну реч.",
+    "stadt-luebeck-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-luebeck-table": "Упиши члан и облик множине.",
+    "stadt-luebeck-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-luebeck-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-luebeck-matching-1",
+      "translation": "Холстентор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-1:meaning",
+      "translation": "Стара градска капија са два округла торња – симбол Либека.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2",
+      "translation": "марципан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-2:meaning",
+      "translation": "Слаткиш од бадема и шећера; Либек је по њему познат.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3",
+      "translation": "краљица Хансе",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-3:meaning",
+      "translation": "Надимак: у средњем веку Либек је био најважнији град Хансе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4",
+      "translation": "острво старог града",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-4:meaning",
+      "translation": "Стари град лежи на острву и светска је баштина.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5",
+      "translation": "Травеминде",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-5:meaning",
+      "translation": "Кварт на Балтичком мору са плажом и великим трајектима.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6",
+      "translation": "Томас Ман",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-6:meaning",
+      "translation": "Познати писац из Либека; написао је „Буденброкови“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7",
+      "translation": "„Gänge“ (пролази)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-matching-7:meaning",
+      "translation": "Уски пролази између кућа у старом граду.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-1",
+      "translation": "Пролазимо кроз Холстентор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-2",
+      "translation": "Купујем комад марципана.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-3",
+      "translation": "У средњем веку Либек је био најважнији град Хансе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-4",
+      "translation": "У Травеминдеу идемо на плажу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-5",
+      "translation": "Трајект плови преко Балтичког мора.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-6",
+      "translation": "Томас Ман је написао роман о једној породици.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-gap-7",
+      "translation": "Стари град лежи на острву.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-verbs-1",
+      "translation": "Холстентор има два округла торња.",
+      "answerText": "има"
+    },
+    {
+      "id": "stadt-luebeck-verbs-2",
+      "translation": "Марципан се прави од бадема и шећера.",
+      "answerText": "прави"
+    },
+    {
+      "id": "stadt-luebeck-verbs-3",
+      "translation": "Трајекти плове за Шведску и Финску.",
+      "answerText": "плове"
+    },
+    {
+      "id": "stadt-luebeck-verbs-4",
+      "translation": "Стари град лежи на острву.",
+      "answerText": "лежи"
+    },
+    {
+      "id": "stadt-luebeck-verbs-5",
+      "translation": "Томас Ман је написао роман „Буденброкови“.",
+      "answerText": "написао"
+    },
+    {
+      "id": "stadt-luebeck-table-1",
+      "translation": "капија",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-2",
+      "translation": "бадем",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-3",
+      "translation": "острво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-4",
+      "translation": "плажа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-5",
+      "translation": "трајект",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-table-6",
+      "translation": "роман",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-1",
+      "translation": "Холстентор је симбол Либека.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-2",
+      "translation": "Да ли радо једеш марципан?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-3",
+      "translation": "Стари град лежи на острву.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-order-4",
+      "translation": "Лети идемо у Травеминде.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-1",
+      "translation": "марципан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-2",
+      "translation": "острво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-3",
+      "translation": "плажа",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-4",
+      "translation": "трајект",
+      "answerText": null
+    },
+    {
+      "id": "stadt-luebeck-spelling-5",
+      "translation": "бадем",
+      "answerText": null
+    }
+  ]
+}

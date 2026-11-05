@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "kr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:36:43.867Z"
+  },
+  "title": "버스와 기차로",
+  "instructions": {
+    "bus-und-bahn-matching": "각 단어를 알맞은 설명과 연결하세요.",
+    "bus-und-bahn-gap": "알맞은 단어에 표시하세요.",
+    "bus-und-bahn-verbs": "알맞은 동사를 올바른 형태로 넣으세요.",
+    "bus-und-bahn-table": "관사(der/die/das)와 복수형을 채우세요.",
+    "bus-und-bahn-order": "단어를 올바른 순서로 배열하고 문장을 쓰세요.",
+    "bus-und-bahn-spelling": "어느 단어가 맞게 쓰였나요? 표시하세요."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "승차권",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "이것이 있으면 버스나 기차를 탈 수 있습니다.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "승차권 자동판매기",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "창구 없이 승차권을 사는 곳.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "승강장(선로)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "기차가 역에서 서는 곳.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "지연",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "기차가 계획보다 늦게 옵니다.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "갈아타다",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "한 기차에서 다른 기차로 옮겨 탑니다.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "버스 정류장",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "버스가 서는 곳.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "도이칠란트티켓",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "독일 전역의 버스와 지역 기차를 탈 수 있는 월 정기권.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "쾰른행 기차는 5번 승강장에서 출발합니다.",
+      "answerText": "승강장"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "기차가 10분 지연되었습니다.",
+      "answerText": "지연"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "가장 가까운 정류장은 어디예요?",
+      "answerText": "정류장"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "베를린행 승차권 한 장 주세요.",
+      "answerText": "승차권"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "승차권을 보여 주세요.",
+      "answerText": "승차권"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "지하철은 10분마다 옵니다.",
+      "answerText": "지하철"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "자동판매기에서 승차권을 살 수 있습니다.",
+      "answerText": "자동판매기"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "어디에서 갈아타야 해요?",
+      "answerText": "갈아타야"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "버스는 8시 15분에 출발합니다.",
+      "answerText": "출발합니다"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "우리는 10시에 함부르크에 도착합니다.",
+      "answerText": "도착합니다"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "여기에서 내리세요.",
+      "answerText": "내리세요"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "가는 데 얼마나 걸려요?",
+      "answerText": "걸려요"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "기차",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "기차역",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "승차권",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "승강장",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "정류장",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "버스",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "뮌헨행 다음 기차는 언제 출발해요?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "저는 만하임에서 갈아타야 해요.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "기차가 안타깝게도 지연되었습니다.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "이 승차권으로 버스도 탈 수 있어요?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "승차권",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "지연",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "정류장",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "승강장",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "기차역",
+      "answerText": null
+    }
+  ]
+}

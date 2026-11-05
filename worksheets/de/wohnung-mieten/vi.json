@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.842Z"
+  },
+  "title": "Thuê nhà",
+  "instructions": {
+    "wohnung-mieten-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "wohnung-mieten-gap": "Đánh dấu dạng đúng của mạo từ.",
+    "wohnung-mieten-verbs": "Điền động từ đúng ở dạng đúng.",
+    "wohnung-mieten-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "wohnung-mieten-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "wohnung-mieten-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "tiền thuê nhà",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Số tiền bạn trả mỗi tháng cho căn hộ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "tiền đặt cọc",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Tiền chủ nhà nhận lúc đầu để làm bảo đảm.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "phí phụ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Chi phí nước, sưởi và rác.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "hợp đồng thuê nhà",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Hợp đồng giữa người thuê và chủ nhà.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "xem nhà",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Bạn xem căn hộ trước khi thuê.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "người quản lý tòa nhà",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ông ấy chăm lo tòa nhà và sửa những thứ nhỏ.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "nội quy tòa nhà",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Các quy định cho mọi cư dân, ví dụ giờ giữ yên lặng.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Chúng tôi tìm một căn hộ có ban công.",
+      "answerText": "một"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Tôi nói chuyện với chủ nhà.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Tôi đưa tiền đặt cọc cho bà chủ nhà.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Tôi để xe đạp ngoài sân.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Chìa khóa ở trên bàn.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Máy sưởi trong bếp bị hỏng.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Tôi sống ở căn hộ này được một năm.",
+      "answerText": "này"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Khi nào tôi có thể xem căn hộ?",
+      "answerText": "xem"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Tiền thuê nhà là 850 euro đã gồm phí phụ.",
+      "answerText": "là"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Chúng tôi dọn vào ngày 1 tháng Mười Hai.",
+      "answerText": "dọn vào"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Máy sưởi bị hỏng. Anh/chị có thể sửa giúp không?",
+      "answerText": "sửa"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Vui lòng phân loại rác.",
+      "answerText": "phân loại"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "phòng",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "nhà bếp",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "ban công",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "phòng tắm",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "chìa khóa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "máy sưởi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Căn hộ còn trống không?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Phí phụ là bao nhiêu?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Khi nào tôi có thể xem căn hộ?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Tôi muốn thuê căn hộ này.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "tiền đặt cọc",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "phí phụ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "ban công",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "chìa khóa",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "máy sưởi",
+      "answerText": null
+    }
+  ]
+}

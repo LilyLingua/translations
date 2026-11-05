@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:55.245Z"
+  },
+  "title": "เอสเซิน",
+  "instructions": {
+    "stadt-essen-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-essen-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-essen-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-essen-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-essen-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-essen-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "เหมืองถ่านหินซอลล์เฟอไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "เหมืองเก่า ปัจจุบันเป็นมรดกโลกยูเนสโก มีพิพิธภัณฑ์และงานออกแบบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "หอคอยกว้านเหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "หอคอยสูงเหนือเหมือง ใช้ขนคนและถ่านหินขึ้นสู่ด้านบน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "\"กลึค เอาฟ์!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "คำทักทายของคนงานเหมือง – อวยพรให้ทุกคนกลับขึ้นมาอย่างปลอดภัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "วิลลาฮือเกิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "บ้านหลังใหญ่ของตระกูลครุพพ์ มีห้องมากมายและสวน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "ทะเลสาบบัลเดอไนเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "ทะเลสาบบนแม่น้ำรูห์ร ที่นั่นแล่นเรือใบ พายเรือ และเดินเล่นได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "สวนกรูกาพาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "สวนสาธารณะขนาดใหญ่ที่มีดอกไม้ สนามเด็กเล่น และสัตว์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "เมืองหลวงทางวัฒนธรรม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "ตำแหน่งที่เอสเซินได้รับในปี 2010 ในนามของแคว้นรูห์รทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "ฤดูร้อนหลายคนแล่นเรือใบบนทะเลสาบบัลเดอไนเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "ตระกูลครุพพ์เคยอาศัยอยู่ในวิลลาฮือเกิล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "พวกเราเข้าร่วมทัวร์นำชมเหมืองซอลล์เฟอไรน์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "หอคอยกว้านเหมืองเป็นสัญลักษณ์ของเอสเซิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "วันอาทิตย์พวกเราไปสวนกรูกาพาร์ค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "ปี 2010 เอสเซินเป็นเมืองหลวงทางวัฒนธรรมของยุโรป",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "ร็อท-ไวส์ เอสเซิน เล่นที่ถนนฮาเฟินชตราเซอ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "คนงานเหมืองพูดว่า \"กลึค เอาฟ์!\"",
+      "answerText": "พูด"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "หอคอยกว้านเหมืองตั้งอยู่เหนือเหมืองเก่า",
+      "answerText": "ตั้งอยู่"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "ทุกวันนี้ไม่มีถ่านหินออกมาจากใต้ดินอีกแล้ว",
+      "answerText": "ออกมา"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "นักท่องเที่ยวหลายคนเยี่ยมชมเหมืองซอลล์เฟอไรน์",
+      "answerText": "เยี่ยมชม"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "แม่น้ำรูห์รไหลผ่านทะเลสาบบัลเดอไนเซ",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "เหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "สวนสาธารณะ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "วิลลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ทะเลสาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "พิพิธภัณฑ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "ห้องโถง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "เหมืองซอลล์เฟอไรน์เป็นส่วนหนึ่งของมรดกโลกยูเนสโก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "สุดสัปดาห์พวกเราไปทะเลสาบบัลเดอไนเซ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "คุณเคยไปสวนกรูกาพาร์คหรือยัง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "สมัยก่อนคนงานเหมืองหลายคนทำงานใต้ดิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "พิพิธภัณฑ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "เหมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "วิลลา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "ถ่านหิน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "ห้องโถง",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.446Z"
+  },
+  "title": "Di supermarket",
+  "instructions": {
+    "im-supermarkt-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "im-supermarkt-gap": "Centang kemasan atau jumlah yang cocok.",
+    "im-supermarkt-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "im-supermarkt-table": "Lengkapi artikel dan bentuk jamak.",
+    "im-supermarkt-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "im-supermarkt-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "troli belanja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Di sini Anda menaruh barang belanjaan.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "konter keju",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Di sini Anda mendapat keju segar sesuai berat.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "deposit botol (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Uang yang Anda dapat kembali untuk botol kosong.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "mesin pengembalian botol",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Di sini Anda mengembalikan botol kosong.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "promo",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Sebuah produk lebih murah untuk waktu singkat.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "struk belanja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Di kertas ini tertulis semua harga.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "kantong belanja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "Di dalamnya Anda membawa belanjaan pulang.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Saya membeli satu cup yoghurt.",
+      "answerText": "cup"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Tolong satu botol air lagi.",
+      "answerText": "botol"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Kita perlu satu bungkus pasta.",
+      "answerText": "bungkus"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Untuk sausnya saya ambil satu kaleng tomat.",
+      "answerText": "kaleng"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Saya mau 200 gram keju gouda.",
+      "answerText": "gram"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Satu blok mentega harganya 2,29 euro.",
+      "answerText": "blok"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Saya ambil satu liter susu.",
+      "answerText": "liter"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Bisakah Anda menukar lima euro untuk saya?",
+      "answerText": "menukar"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Permisi, di mana saya bisa menemukan tepung?",
+      "answerText": "bisa menemukan"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Saya bayar dengan kartu.",
+      "answerText": "bayar"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Saya mau 200 gram keju gouda.",
+      "answerText": "mau"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Pada hari Minggu hampir semua supermarket tutup.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "botol",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "cup (gelas plastik)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "kaleng",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "roti",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "apel",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "pisang",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Permisi, di mana saya bisa menemukan tepung?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Saya bawa tas sendiri.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Pisang hari ini sedang promo.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Di mana mesin pengembalian botol?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "troli belanja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "struk belanja",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "deposit botol",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "keju",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "roti kecil",
+      "answerText": null
+    }
+  ]
+}

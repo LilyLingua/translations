@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "he",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:32:39.414Z"
+  },
+  "title": "באוטובוס וברכבת",
+  "instructions": {
+    "bus-und-bahn-matching": "חברו כל מילה להסבר המתאים.",
+    "bus-und-bahn-gap": "סמנו את המילה המתאימה.",
+    "bus-und-bahn-verbs": "השלימו את הפועל הנכון בצורה הנכונה.",
+    "bus-und-bahn-table": "השלימו את מילית היידוע (der/die/das) ואת צורת הרבים.",
+    "bus-und-bahn-order": "סדרו את המילים בסדר הנכון וכתבו את המשפט.",
+    "bus-und-bahn-spelling": "איזו מילה כתובה נכון? סמנו."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "כרטיס נסיעה",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "איתו מותר לנסוע באוטובוס או ברכבת.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "מכונת כרטיסים",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "כאן קונים כרטיס בלי קופה.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "רציף",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "כאן הרכבת עוצרת בתחנה.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "עיכוב",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "הרכבת מגיעה מאוחר מהמתוכנן.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "להחליף רכבת",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "עוברים מרכבת אחת לרכבת אחרת.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "תחנת אוטובוס",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "כאן האוטובוס עוצר.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "כרטיס גרמניה (Deutschlandticket)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "כרטיס חודשי לאוטובוסים ולרכבות אזוריות בכל גרמניה.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "הרכבת לקלן יוצאת מרציף 5.",
+      "answerText": "מרציף"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "לרכבת יש עיכוב של עשר דקות.",
+      "answerText": "עיכוב"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "איפה התחנה הקרובה?",
+      "answerText": "התחנה"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "כרטיס לברלין, בבקשה.",
+      "answerText": "כרטיס"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "נא להציג את הכרטיס.",
+      "answerText": "הכרטיס"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "הרכבת התחתית נוסעת כל עשר דקות.",
+      "answerText": "הרכבת התחתית"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "במכונה אפשר לקנות כרטיסים.",
+      "answerText": "במכונה"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "איפה אני צריך להחליף רכבת?",
+      "answerText": "להחליף"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "האוטובוס יוצא ב־8:15.",
+      "answerText": "יוצא"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "אנחנו מגיעים להמבורג בשעה 10.",
+      "answerText": "מגיעים"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "נא לרדת כאן.",
+      "answerText": "לרדת"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "כמה זמן נמשכת הנסיעה?",
+      "answerText": "נמשכת"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "רכבת",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "תחנת רכבת",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "כרטיס",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "רציף",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "תחנה",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "אוטובוס",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "מתי יוצאת הרכבת הבאה למינכן?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "אני צריך להחליף רכבת במנהיים.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "לרכבת יש לצערי עיכוב.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "הכרטיס תקף גם לאוטובוס?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "כרטיס",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "עיכוב",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "תחנה",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "רציף",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "תחנת רכבת",
+      "answerText": null
+    }
+  ]
+}

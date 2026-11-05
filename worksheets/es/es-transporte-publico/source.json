@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "es",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "663e1909-d997-4608-8933-e8b2f2f93ace",
+    "level": "A2"
+  },
+  "title": "Transporte público",
+  "topic": "Boletos, paradas, transbordos y retrasos",
+  "tasks": [
+    {
+      "id": "es-transporte-publico-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "es-transporte-publico-matching-1",
+          "term": "el boleto",
+          "meaning": "Un papel o una tarjeta que te permite viajar."
+        },
+        {
+          "id": "es-transporte-publico-matching-2",
+          "term": "la parada",
+          "meaning": "El lugar donde se detiene el camión."
+        },
+        {
+          "id": "es-transporte-publico-matching-3",
+          "term": "el andén",
+          "meaning": "El lugar de la estación donde subes al metro o al tren."
+        },
+        {
+          "id": "es-transporte-publico-matching-4",
+          "term": "el retraso",
+          "meaning": "Cuando el camión llega más tarde."
+        },
+        {
+          "id": "es-transporte-publico-matching-5",
+          "term": "el horario",
+          "meaning": "Una lista con las horas de salida."
+        },
+        {
+          "id": "es-transporte-publico-matching-6",
+          "term": "el transbordo",
+          "meaning": "Cuando cambias de una línea a otra."
+        }
+      ],
+      "instruction": "Relaciona cada palabra con su significado."
+    },
+    {
+      "id": "es-transporte-publico-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "es-transporte-publico-gap-1",
+          "promptBefore": "Necesito un",
+          "promptAfter": "para el metro.",
+          "correctAnswer": "boleto",
+          "options": [
+            "boleto",
+            "retraso",
+            "andén"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-transporte-publico-gap-2",
+          "promptBefore": "El tren sale del",
+          "promptAfter": "cuatro.",
+          "correctAnswer": "andén",
+          "options": [
+            "andén",
+            "boleto",
+            "retraso"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-transporte-publico-gap-3",
+          "promptBefore": "Bájese en la próxima",
+          "promptAfter": ".",
+          "correctAnswer": "parada",
+          "options": [
+            "parada",
+            "tarjeta",
+            "hora"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-transporte-publico-gap-4",
+          "promptBefore": "Hay un",
+          "promptAfter": "de veinte minutos.",
+          "correctAnswer": "retraso",
+          "options": [
+            "retraso",
+            "boleto",
+            "andén"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-transporte-publico-gap-5",
+          "promptBefore": "Consulte el",
+          "promptAfter": "en la página web.",
+          "correctAnswer": "horario",
+          "options": [
+            "horario",
+            "andén",
+            "retraso"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "es-transporte-publico-gap-6",
+          "promptBefore": "Tiene que hacer",
+          "promptAfter": "en la estación Hidalgo.",
+          "correctAnswer": "transbordo",
+          "options": [
+            "transbordo",
+            "retraso",
+            "boleto"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Elige la palabra correcta."
+    },
+    {
+      "id": "es-transporte-publico-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "es-transporte-publico-verbs-1",
+          "promptBefore": "El camión",
+          "promptAfter": "cada diez minutos.",
+          "correctAnswer": "pasa",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pasar"
+        },
+        {
+          "id": "es-transporte-publico-verbs-2",
+          "promptBefore": "¿Dónde",
+          "promptAfter": "una tarjeta del metro?",
+          "correctAnswer": "compro",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "comprar"
+        },
+        {
+          "id": "es-transporte-publico-verbs-3",
+          "promptBefore": "Aquí",
+          "promptAfter": "que cambiar de línea.",
+          "correctAnswer": "tiene",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "tener"
+        },
+        {
+          "id": "es-transporte-publico-verbs-4",
+          "promptBefore": "Hoy el tren",
+          "promptAfter": "tarde.",
+          "correctAnswer": "viene",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "venir"
+        },
+        {
+          "id": "es-transporte-publico-verbs-5",
+          "promptBefore": "Por favor,",
+          "promptAfter": "su boleto.",
+          "correctAnswer": "muestre",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "mostrar"
+        }
+      ],
+      "instruction": "Escribe el verbo correcto."
+    },
+    {
+      "id": "es-transporte-publico-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "es-transporte-publico-order-1",
+          "chunks": [
+            "¿Qué camión",
+            "va",
+            "al aeropuerto"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-transporte-publico-order-2",
+          "chunks": [
+            "El tren",
+            "viene",
+            "diez minutos",
+            "tarde"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "es-transporte-publico-order-3",
+          "chunks": [
+            "¿Dónde",
+            "está",
+            "la próxima parada"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "es-transporte-publico-order-4",
+          "chunks": [
+            "Se me fue",
+            "el",
+            "camión"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Ordena las palabras y escribe la oración."
+    },
+    {
+      "id": "es-transporte-publico-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "es-transporte-publico-spelling-1",
+          "correct": "estación",
+          "wrong": "estasión"
+        },
+        {
+          "id": "es-transporte-publico-spelling-2",
+          "correct": "pasajero",
+          "wrong": "pasagero"
+        },
+        {
+          "id": "es-transporte-publico-spelling-3",
+          "correct": "viaje",
+          "wrong": "biaje"
+        },
+        {
+          "id": "es-transporte-publico-spelling-4",
+          "correct": "autobús",
+          "wrong": "autovús"
+        },
+        {
+          "id": "es-transporte-publico-spelling-5",
+          "correct": "línea",
+          "wrong": "linia"
+        }
+      ],
+      "instruction": "¿Qué palabra está bien escrita? Márcala."
+    }
+  ]
+}

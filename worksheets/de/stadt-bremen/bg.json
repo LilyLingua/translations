@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:49.647Z"
+  },
+  "title": "Бремен",
+  "instructions": {
+    "stadt-bremen-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-bremen-gap": "Отбележете правилната дума.",
+    "stadt-bremen-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-bremen-table": "Попълнете члена и формата за множествено число.",
+    "stadt-bremen-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-bremen-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-bremen-matching-1",
+      "translation": "Бременските музиканти",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-1:meaning",
+      "translation": "Магаре, куче, котка и петел от приказката; статуята им стои до кметството.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2",
+      "translation": "Роланд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-2:meaning",
+      "translation": "Голяма каменна статуя на пазарния площад, знак за свободен град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3",
+      "translation": "Шнор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-3:meaning",
+      "translation": "Много стар квартал с малки къщи и тесни улички.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4",
+      "translation": "Фраймаркт",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-4:meaning",
+      "translation": "Народен празник през есента; бременци викат „Иша Фраймак!“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5",
+      "translation": "„Кол унд Пинкел“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-5:meaning",
+      "translation": "Къдраво зеле с наденица, типично зимно ястие.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6",
+      "translation": "Шлахте",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-6:meaning",
+      "translation": "Крайбрежна алея на Везер с бирени градини и кораби.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7",
+      "translation": "градът държава",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-matching-7:meaning",
+      "translation": "Град, който е и федерална провинция.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-1",
+      "translation": "Бременските музиканти стоят до кметството.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-2",
+      "translation": "Роланд стои на пазарния площад.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-3",
+      "translation": "Вървим по тесните улички в Шнор.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-4",
+      "translation": "През есента се возим на виенското колело на Фраймаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-5",
+      "translation": "През зимата има типично ястие: Кол унд Пинкел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-6",
+      "translation": "Седим край Везер.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-gap-7",
+      "translation": "За късмет се докосват краката на магарето.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-verbs-1",
+      "translation": "Който докосне краката на магарето, ще има късмет.",
+      "answerText": "докосне"
+    },
+    {
+      "id": "stadt-bremen-verbs-2",
+      "translation": "Фраймаркт се провежда всяка година през есента.",
+      "answerText": "провежда"
+    },
+    {
+      "id": "stadt-bremen-verbs-3",
+      "translation": "В приказката животните вървят пеша до Бремен.",
+      "answerText": "вървят"
+    },
+    {
+      "id": "stadt-bremen-verbs-4",
+      "translation": "В Шнор къщите са много малки и стари.",
+      "answerText": "са"
+    },
+    {
+      "id": "stadt-bremen-verbs-5",
+      "translation": "От 2004 г. кметството и Роланд са част от световното наследство на ЮНЕСКО.",
+      "answerText": "са"
+    },
+    {
+      "id": "stadt-bremen-table-1",
+      "translation": "магарето",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-2",
+      "translation": "кучето",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-3",
+      "translation": "котката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-4",
+      "translation": "петелът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-5",
+      "translation": "уличката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-table-6",
+      "translation": "приказката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-1",
+      "translation": "Музикантите стоят до кметството.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-2",
+      "translation": "През есента бременци празнуват Фраймаркт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-3",
+      "translation": "Докосвал ли си вече краката на магарето?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-order-4",
+      "translation": "Бремен е най-малката федерална провинция.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-1",
+      "translation": "магаре",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-2",
+      "translation": "котка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-3",
+      "translation": "приказка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-4",
+      "translation": "уличка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bremen-spelling-5",
+      "translation": "федерална провинция",
+      "answerText": null
+    }
+  ]
+}

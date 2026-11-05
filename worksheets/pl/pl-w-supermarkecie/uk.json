@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:59.061Z"
+  },
+  "title": "У супермаркеті",
+  "instructions": {
+    "pl-w-supermarkecie-matching": "З'єднай кожне слово з його значенням.",
+    "pl-w-supermarkecie-gap": "Вибери правильне слово.",
+    "pl-w-supermarkecie-verbs": "Встав правильне дієслово.",
+    "pl-w-supermarkecie-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-w-supermarkecie-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-w-supermarkecie-matching-1",
+      "translation": "візок",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-1:meaning",
+      "translation": "Великий кошик на колесах для покупок.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2",
+      "translation": "каса",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-2:meaning",
+      "translation": "Місце, де платять.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3",
+      "translation": "полиця",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-3:meaning",
+      "translation": "На ній лежать продукти в магазині.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4",
+      "translation": "чек",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-4:meaning",
+      "translation": "Папірець, де написано, що куплено й скільки заплачено.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5",
+      "translation": "касир",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-5:meaning",
+      "translation": "Людина, яка працює на касі.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6",
+      "translation": "пакет",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-matching-6:meaning",
+      "translation": "У ньому несуть покупки додому.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-1",
+      "translation": "Мені потрібна пляшка молока.",
+      "answerText": "молока"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-2",
+      "translation": "Хліб лежить на верхній полиці.",
+      "answerText": "полиці"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-3",
+      "translation": "Будь ласка, заплатіть на касі.",
+      "answerText": "касі"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-4",
+      "translation": "Ось, будь ласка, ваш чек. Гарного дня!",
+      "answerText": "чек"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-5",
+      "translation": "Я кладу яблука у візок.",
+      "answerText": "візок"
+    },
+    {
+      "id": "pl-w-supermarkecie-gap-6",
+      "translation": "На касі працює привітний касир.",
+      "answerText": "касир"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-1",
+      "translation": "Скільки коштують яблука?",
+      "answerText": "коштують"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-2",
+      "translation": "Я плачу карткою.",
+      "answerText": "плачу"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-3",
+      "translation": "Ми купуємо яйця й хліб.",
+      "answerText": "купуємо"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-4",
+      "translation": "Вибачте, де лежить рис?",
+      "answerText": "лежить"
+    },
+    {
+      "id": "pl-w-supermarkecie-verbs-5",
+      "translation": "Магазин зачиняється о десятій.",
+      "answerText": "зачиняється"
+    },
+    {
+      "id": "pl-w-supermarkecie-order-1",
+      "translation": "Де рис?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-2",
+      "translation": "Мені потрібен пакет.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-3",
+      "translation": "Чи можу я заплатити карткою?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-order-4",
+      "translation": "Молоко стоїть у третьому ряду.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-1",
+      "translation": "овочі",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-2",
+      "translation": "хліб",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-3",
+      "translation": "яблуко",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-4",
+      "translation": "молоко",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-supermarkecie-spelling-5",
+      "translation": "курка",
+      "answerText": null
+    }
+  ]
+}

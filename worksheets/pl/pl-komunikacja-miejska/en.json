@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "en",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:55.604Z"
+  },
+  "title": "Public Transportation",
+  "instructions": {
+    "pl-komunikacja-miejska-matching": "Match each word with its meaning.",
+    "pl-komunikacja-miejska-gap": "Choose the right word.",
+    "pl-komunikacja-miejska-verbs": "Fill in the correct verb.",
+    "pl-komunikacja-miejska-order": "Put the words in the right order and write the sentence.",
+    "pl-komunikacja-miejska-spelling": "Which word is spelled correctly? Mark it."
+  },
+  "items": [
+    {
+      "id": "pl-komunikacja-miejska-matching-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-1:meaning",
+      "translation": "A piece of paper or an app that lets you travel.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2",
+      "translation": "stop",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-2:meaning",
+      "translation": "The place where the bus stops.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3",
+      "translation": "platform",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-3:meaning",
+      "translation": "The place at the station where you get on the train.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4",
+      "translation": "delay",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-4:meaning",
+      "translation": "When a bus or train comes later.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5",
+      "translation": "schedule",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-5:meaning",
+      "translation": "A list with the departure times of buses and trains.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6",
+      "translation": "transfer",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-matching-6:meaning",
+      "translation": "When you change from one bus or train to another.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-1",
+      "translation": "I need a ticket to the city center.",
+      "answerText": "ticket"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-2",
+      "translation": "The train leaves from platform four.",
+      "answerText": "platform"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-3",
+      "translation": "Please get off at the next stop.",
+      "answerText": "stop"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-4",
+      "translation": "The train has a twenty-minute delay.",
+      "answerText": "delay"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-5",
+      "translation": "Please check the schedule online.",
+      "answerText": "schedule"
+    },
+    {
+      "id": "pl-komunikacja-miejska-gap-6",
+      "translation": "You have a transfer at the station.",
+      "answerText": "transfer"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-1",
+      "translation": "The bus runs every ten minutes.",
+      "answerText": "runs"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-2",
+      "translation": "Where can I buy a ticket?",
+      "answerText": "buy"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-3",
+      "translation": "You have to change here.",
+      "answerText": "change"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-4",
+      "translation": "The train is late today.",
+      "answerText": "is"
+    },
+    {
+      "id": "pl-komunikacja-miejska-verbs-5",
+      "translation": "Please show your ticket.",
+      "answerText": "show"
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-1",
+      "translation": "Which bus goes to the airport?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-2",
+      "translation": "The train is ten minutes late.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-3",
+      "translation": "Where is the next stop?",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-order-4",
+      "translation": "I missed my bus.",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-1",
+      "translation": "ticket",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-2",
+      "translation": "station",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-3",
+      "translation": "stop",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-4",
+      "translation": "train",
+      "answerText": null
+    },
+    {
+      "id": "pl-komunikacja-miejska-spelling-5",
+      "translation": "passenger",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Anruf",
+      "de": "Ich möchte gern einen Termin machen.",
+      "text": "Je voudrais prendre un rendez-vous."
+    },
+    {
+      "scene": "Am Empfang",
+      "de": "Ja, hier ist meine Karte.",
+      "text": "Oui, voici ma carte."
+    },
+    {
+      "scene": "Nicht verstanden?",
+      "de": "Können Sie das bitte langsamer sagen?",
+      "text": "Pouvez-vous dire ça plus lentement s'il vous plaît ?"
+    },
+    {
+      "scene": "„Was fehlt Ihnen?“",
+      "de": "Ich habe Kopfschmerzen und Fieber.",
+      "text": "J'ai mal à la tête et de la fièvre."
+    },
+    {
+      "scene": "Wo tut es weh?",
+      "de": "Mein Bauch tut weh.",
+      "text": "J'ai mal au ventre."
+    },
+    {
+      "scene": "Seit wann?",
+      "de": "Seit drei Tagen.",
+      "text": "Depuis trois jours."
+    },
+    {
+      "scene": "Die Untersuchung",
+      "de": "einatmen – ausatmen",
+      "text": "inspirer – expirer"
+    },
+    {
+      "scene": "Allergien",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "text": "Je suis allergique contre la pénicilline."
+    },
+    {
+      "scene": "Krankschreibung",
+      "de": "Ich brauche eine Krankschreibung.",
+      "text": "J'ai besoin d'un arrêt maladie."
+    },
+    {
+      "scene": "Das Rezept",
+      "de": "Dreimal täglich nach dem Essen.",
+      "text": "Trois fois par jour après les repas."
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.4,
+      "text": "Tu es malade. Tu dois aller chez le médecin. Mais… en allemand ?"
+    },
+    {
+      "start": 5.5,
+      "end": 10.74,
+      "text": "Oh non. La dernière fois chez le médecin, j'ai dit : „Ich bin Kopfschmerzen.“ (Je suis mal de tête.)"
+    },
+    {
+      "start": 10.84,
+      "end": 18.61,
+      "text": "C'est exactement pour ça qu'on est là aujourd'hui. Tu vas vivre une visite complète chez le médecin – du premier appel jusqu'à l'ordonnance."
+    },
+    {
+      "start": 18.66,
+      "end": 22.9,
+      "text": "Et à chaque situation, on te demande : Que dis-tu ?"
+    },
+    {
+      "start": 23,
+      "end": 25.21,
+      "text": "Et tu n'as que cinq secondes !"
+    },
+    {
+      "start": 28.51,
+      "end": 32.23,
+      "text": "Tu appelles le cabinet médical. Quelqu'un décroche."
+    },
+    {
+      "start": 32.33,
+      "end": 36.87,
+      "text": "Cabinet du Dr. Yilmaz, Schulz à l'appareil. Que puis-je faire pour vous ?"
+    },
+    {
+      "start": 36.97,
+      "end": 38.19,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 38.24,
+      "end": 41.34,
+      "text": "A: Je veux docteur. Maintenant."
+    },
+    {
+      "start": 41.39,
+      "end": 45.5,
+      "text": "B: Bonjour, je voudrais prendre un rendez-vous."
+    },
+    {
+      "start": 45.55,
+      "end": 49.43,
+      "text": "C: Salut, je suis malade. Salut."
+    },
+    {
+      "start": 55.13,
+      "end": 59.11,
+      "text": "B ! „Ich möchte gern…“ (Je voudrais…) est poli et ça marche toujours."
+    },
+    {
+      "start": 59.16,
+      "end": 63.35,
+      "text": "„Ich will“ (Je veux) sonne vite impoli au téléphone."
+    },
+    {
+      "start": 63.6,
+      "end": 66.86,
+      "text": "Bonjour, je voudrais prendre un rendez-vous."
+    },
+    {
+      "start": 66.96,
+      "end": 69.9,
+      "text": "Avec plaisir. Est-ce que 10 heures aujourd'hui vous convient ?"
+    },
+    {
+      "start": 70,
+      "end": 71.4,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 71.45,
+      "end": 74.39,
+      "text": "Je voudrais prendre un rendez-vous."
+    },
+    {
+      "start": 78.64,
+      "end": 82.36,
+      "text": "Tu arrives au cabinet. À l'accueil, on te demande :"
+    },
+    {
+      "start": 82.46,
+      "end": 85.22,
+      "text": "Avez-vous votre carte d'assurance avec vous ?"
+    },
+    {
+      "start": 85.32,
+      "end": 86.54,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 86.59,
+      "end": 89.92,
+      "text": "A: Non, je suis assuré pas."
+    },
+    {
+      "start": 89.97,
+      "end": 93.07,
+      "text": "B: Oui, j'ai faim."
+    },
+    {
+      "start": 93.12,
+      "end": 96.22,
+      "text": "C: Oui, voici ma carte."
+    },
+    {
+      "start": 101.92,
+      "end": 108.09,
+      "text": "C ! La „Versichertenkarte“ – certains disent aussi „carte de santé“ ou „carte de caisse maladie“."
+    },
+    {
+      "start": 108.14,
+      "end": 113.24,
+      "text": "C'est toujours la même carte. Prends-la à chaque visite chez le médecin."
+    },
+    {
+      "start": 113.49,
+      "end": 115.7,
+      "text": "Oui, voici ma carte."
+    },
+    {
+      "start": 115.8,
+      "end": 117.05,
+      "text": "Merci beaucoup."
+    },
+    {
+      "start": 117.14,
+      "end": 118.55,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 118.6,
+      "end": 121.36,
+      "text": "Oui, voici ma carte."
+    },
+    {
+      "start": 125.39,
+      "end": 129.43,
+      "text": "La femme parle très vite. Tu ne comprends pas tout."
+    },
+    {
+      "start": 129.53,
+      "end": 133.65,
+      "text": "Veuillez remplir ce formulaire et ensuite attendre dans la salle d'attente."
+    },
+    {
+      "start": 133.75,
+      "end": 134.97,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 135.02,
+      "end": 139.4,
+      "text": "A: Pardon, pouvez-vous dire ça plus lentement s'il vous plaît ?"
+    },
+    {
+      "start": 139.44,
+      "end": 141.5,
+      "text": "B: Quoi ?"
+    },
+    {
+      "start": 141.55,
+      "end": 144.31,
+      "text": "C: Je prends la place avec moi."
+    },
+    {
+      "start": 150,
+      "end": 158.17,
+      "text": "A ! „Was ?“ (Quoi ?) sonne impoli. Cette question te sauve partout : „Können Sie das bitte langsamer sagen ?“"
+    },
+    {
+      "start": 158.22,
+      "end": 160.94,
+      "text": "(Pouvez-vous dire ça plus lentement s'il vous plaît ?) Plus court marche aussi : „Wie bitte ?“ (Pardon ?)"
+    },
+    {
+      "start": 161.19,
+      "end": 164.84,
+      "text": "Pardon, pouvez-vous dire ça plus lentement s'il vous plaît ?"
+    },
+    {
+      "start": 164.94,
+      "end": 172.19,
+      "text": "Bien sûr. Veuillez remplir ce formulaire. Ensuite, attendez là-bas dans la salle d'attente."
+    },
+    {
+      "start": 172.29,
+      "end": 173.69,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 173.74,
+      "end": 177.1,
+      "text": "Pouvez-vous dire ça plus lentement s'il vous plaît ?"
+    },
+    {
+      "start": 181.83,
+      "end": 185.39,
+      "text": "Tu es dans le cabinet avec le médecin. Il demande :"
+    },
+    {
+      "start": 185.49,
+      "end": 188.17,
+      "text": "Bonjour. Qu'est-ce qui ne va pas ?"
+    },
+    {
+      "start": 188.27,
+      "end": 189.49,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 189.54,
+      "end": 192.64,
+      "text": "A: Rien ne me manque, merci."
+    },
+    {
+      "start": 192.69,
+      "end": 196.26,
+      "text": "B: J'ai mal à la tête et de la fièvre."
+    },
+    {
+      "start": 196.31,
+      "end": 199.15,
+      "text": "C: Je suis mal de tête."
+    },
+    {
+      "start": 204.84,
+      "end": 212.25,
+      "text": "B ! Attention : „Was fehlt Ihnen ?“ ne veut pas dire „Qu'est-ce qui vous manque ?“, mais : „Quel est votre problème ?“"
+    },
+    {
+      "start": 212.3,
+      "end": 218.18,
+      "text": "Si tu dis „Mir fehlt nichts“, tu es en bonne santé – et donc pas à ta place chez le médecin."
+    },
+    {
+      "start": 218.43,
+      "end": 221.19,
+      "text": "J'ai mal à la tête et de la fièvre."
+    },
+    {
+      "start": 221.29,
+      "end": 223.42,
+      "text": "Oh, je suis désolé d'entendre ça."
+    },
+    {
+      "start": 223.52,
+      "end": 224.93,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 224.98,
+      "end": 228.54,
+      "text": "J'ai mal à la tête et de la fièvre."
+    },
+    {
+      "start": 233.51,
+      "end": 237.16,
+      "text": "Avez-vous aussi mal au ventre ? Où avez-vous mal ?"
+    },
+    {
+      "start": 237.25,
+      "end": 240.43,
+      "text": "Tu as mal au ventre. Que dis-tu ?"
+    },
+    {
+      "start": 240.53,
+      "end": 243.47,
+      "text": "A: Je fais mal au ventre."
+    },
+    {
+      "start": 243.52,
+      "end": 246.36,
+      "text": "B: Le ventre est mal."
+    },
+    {
+      "start": 246.41,
+      "end": 250.05,
+      "text": "C: Ici, j'ai mal au ventre."
+    },
+    {
+      "start": 255.75,
+      "end": 263.48,
+      "text": "C ! Voilà comment on dit : partie du corps plus „tut weh“ (fait mal). Pour plusieurs : „Meine Füße tun weh.“ (Mes pieds me font mal.)"
+    },
+    {
+      "start": 263.73,
+      "end": 266.33,
+      "text": "Ici, j'ai mal au ventre."
+    },
+    {
+      "start": 266.43,
+      "end": 267.83,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 267.88,
+      "end": 270.54,
+      "text": "J'ai mal au ventre."
+    },
+    {
+      "start": 273.95,
+      "end": 276.89,
+      "text": "Mes pieds me font mal."
+    },
+    {
+      "start": 281.13,
+      "end": 283.5,
+      "text": "Depuis quand avez-vous ces symptômes ?"
+    },
+    {
+      "start": 283.6,
+      "end": 284.82,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 284.87,
+      "end": 287.55,
+      "text": "A: Avant trois jours longtemps."
+    },
+    {
+      "start": 287.6,
+      "end": 290.12,
+      "text": "B: Depuis trois jour."
+    },
+    {
+      "start": 290.17,
+      "end": 292.85,
+      "text": "C: Depuis trois jours."
+    },
+    {
+      "start": 298.55,
+      "end": 303.6,
+      "text": "C ! Après „seit“ (depuis), on met le datif – donc „Tagen“ avec n. Pareil : „seit einer Woche“"
+    },
+    {
+      "start": 303.65,
+      "end": 307.97,
+      "text": "(depuis une semaine), „seit gestern“ (depuis hier)."
+    },
+    {
+      "start": 308.22,
+      "end": 309.96,
+      "text": "Depuis trois jours."
+    },
+    {
+      "start": 310.06,
+      "end": 311.47,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 311.52,
+      "end": 313.75,
+      "text": "Depuis trois jours."
+    },
+    {
+      "start": 316.69,
+      "end": 318.61,
+      "text": "Depuis une semaine."
+    },
+    {
+      "start": 321.68,
+      "end": 325.48,
+      "text": "Je vais écouter votre poitrine. Veuillez enlever le haut."
+    },
+    {
+      "start": 325.58,
+      "end": 327.32,
+      "text": "Que fais-tu maintenant ?"
+    },
+    {
+      "start": 327.42,
+      "end": 331.14,
+      "text": "A: Tu enlèves ton pull et ton t-shirt."
+    },
+    {
+      "start": 331.19,
+      "end": 334.03,
+      "text": "B: Tu enlèves ton pantalon."
+    },
+    {
+      "start": 334.08,
+      "end": 337.81,
+      "text": "C: Tu rentres à la maison – tu es libre, après tout."
+    },
+    {
+      "start": 343,
+      "end": 347.38,
+      "text": "Alors… C, non ? Je suis libre – je rentre à la maison !"
+    },
+    {
+      "start": 348.03,
+      "end": 357.15,
+      "text": "Non, Leo. A ! Le „Oberkörper“ est la partie supérieure du corps. „Frei machen“ veut dire ici : enlever les vêtements."
+    },
+    {
+      "start": 357.2,
+      "end": 362.23,
+      "text": "Ensuite, tu entends souvent : „Tief einatmen… und ausatmen.“ (Inspire profondément… et expire.)"
+    },
+    {
+      "start": 362.48,
+      "end": 367.41,
+      "text": "Inspire profondément… et expire. Bien."
+    },
+    {
+      "start": 367.51,
+      "end": 368.91,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 368.96,
+      "end": 372.74,
+      "text": "inspirer – expirer"
+    },
+    {
+      "start": 377.95,
+      "end": 380.39,
+      "text": "Es-tu allergique à quelque chose ?"
+    },
+    {
+      "start": 380.49,
+      "end": 381.71,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 381.76,
+      "end": 385.64,
+      "text": "A: Oui, je suis allergique pour la pénicilline."
+    },
+    {
+      "start": 385.69,
+      "end": 389.73,
+      "text": "B: Oui, je suis allergique contre la pénicilline."
+    },
+    {
+      "start": 389.78,
+      "end": 393.19,
+      "text": "C: Je n'aime pas trop la pénicilline."
+    },
+    {
+      "start": 398.89,
+      "end": 401.38,
+      "text": "B ! On est allergique „gegen“ (contre) quelque chose. Et si tu n'as pas d'allergie : „Nein, ich habe keine Allergien.“"
+    },
+    {
+      "start": 401.43,
+      "end": 406.61,
+      "text": "(Non, je n'ai pas d'allergies.)"
+    },
+    {
+      "start": 406.86,
+      "end": 409.96,
+      "text": "Oui, je suis allergique contre la pénicilline."
+    },
+    {
+      "start": 410.06,
+      "end": 413.7,
+      "text": "Bien que tu l'aies dit. Tu auras donc autre chose."
+    },
+    {
+      "start": 413.81,
+      "end": 415.21,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 415.26,
+      "end": 418.31,
+      "text": "Je suis allergique contre la pénicilline."
+    },
+    {
+      "start": 422.17,
+      "end": 424.51,
+      "text": "Je n'ai pas d'allergies."
+    },
+    {
+      "start": 428.06,
+      "end": 432.1,
+      "text": "Tu ne peux pas travailler demain. Le médecin demande :"
+    },
+    {
+      "start": 432.2,
+      "end": 434.41,
+      "text": "As-tu besoin d'un arrêt maladie ?"
+    },
+    {
+      "start": 434.51,
+      "end": 435.73,
+      "text": "Que dis-tu ?"
+    },
+    {
+      "start": 435.78,
+      "end": 438.8,
+      "text": "A: Non, j'écris moi-même."
+    },
+    {
+      "start": 438.85,
+      "end": 442.03,
+      "text": "B: Oui, j'écris malade."
+    },
+    {
+      "start": 442.08,
+      "end": 445.8,
+      "text": "C: Oui, s'il vous plaît. Pour mon employeur."
+    },
+    {
+      "start": 451.5,
+      "end": 456.5,
+      "text": "C ! L'arrêt maladie („Krankschreibung“) montre : tu es malade et tu ne peux pas travailler."
+    },
+    {
+      "start": 456.55,
+      "end": 463.95,
+      "text": "Important : préviens quand même ton employeur toi-même – de préférence le premier jour, tôt le matin."
+    },
+    {
+      "start": 464.2,
+      "end": 467.04,
+      "text": "Oui, s'il vous plaît. Pour mon employeur."
+    },
+    {
+      "start": 467.14,
+      "end": 469.5,
+      "text": "Je t'arrête jusqu'à vendredi."
+    },
+    {
+      "start": 469.6,
+      "end": 471.01,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 471.06,
+      "end": 473.82,
+      "text": "J'ai besoin d'un arrêt maladie."
+    },
+    {
+      "start": 477.85,
+      "end": 483.25,
+      "text": "Je te fais une ordonnance. Prends les comprimés trois fois par jour après les repas."
+    },
+    {
+      "start": 483.35,
+      "end": 486.68,
+      "text": "Écoute bien ! Quand prends-tu les comprimés ?"
+    },
+    {
+      "start": 486.78,
+      "end": 490.27,
+      "text": "A: Une fois par jour, avant de dormir."
+    },
+    {
+      "start": 490.32,
+      "end": 494.77,
+      "text": "B: Le matin, à midi et le soir – après les repas."
+    },
+    {
+      "start": 494.82,
+      "end": 498.39,
+      "text": "C: Trois fois par jour – avant les repas."
+    },
+    {
+      "start": 504.09,
+      "end": 509.39,
+      "text": "B ! „Dreimal täglich“ veut dire trois fois par jour. Et „nach dem Essen“"
+    },
+    {
+      "start": 509.44,
+      "end": 512.93,
+      "text": "(après les repas) – donc d'abord manger, puis le comprimé."
+    },
+    {
+      "start": 513.18,
+      "end": 515.47,
+      "text": "Merci beaucoup. Au revoir !"
+    },
+    {
+      "start": 515.57,
+      "end": 517.05,
+      "text": "Bon rétablissement !"
+    },
+    {
+      "start": 517.15,
+      "end": 523.2,
+      "text": "„Gute Besserung“ – c'est ce qu'on dit aux personnes malades. Ça veut dire : guéris vite !"
+    },
+    {
+      "start": 523.3,
+      "end": 524.71,
+      "text": "Répète après moi !"
+    },
+    {
+      "start": 524.76,
+      "end": 527.8,
+      "text": "Trois fois par jour après les repas."
+    },
+    {
+      "start": 531.66,
+      "end": 533.48,
+      "text": "Bon rétablissement !"
+    },
+    {
+      "start": 536.43,
+      "end": 540.02,
+      "text": "Et si le cabinet est fermé ? Retiens deux numéros."
+    },
+    {
+      "start": 540.07,
+      "end": 549.69,
+      "text": "Le 116 117 : le service médical de garde – si tu as besoin d'un médecin la nuit ou le week-end, mais que ce n'est pas une urgence."
+    },
+    {
+      "start": 549.94,
+      "end": 558.63,
+      "text": "Et le 112 : le numéro d'urgence – pour l'ambulance et les pompiers, par exemple après un accident ou en cas de grosse difficulté à respirer."
+    },
+    {
+      "start": 558.98,
+      "end": 563.99,
+      "text": "En cours, tu apprends de belles phrases. Mais qu'est-ce que les Allemands disent vraiment ?"
+    },
+    {
+      "start": 564.24,
+      "end": 566.37,
+      "text": "J'ai mal à la gorge."
+    },
+    {
+      "start": 566.57,
+      "end": 568.62,
+      "text": "Ma gorge gratte."
+    },
+    {
+      "start": 569.27,
+      "end": 571.01,
+      "text": "Je suis malade."
+    },
+    {
+      "start": 571.21,
+      "end": 573.02,
+      "text": "Je suis K.O."
+    },
+    {
+      "start": 573.67,
+      "end": 575.73,
+      "text": "J'ai attrapé une infection."
+    },
+    {
+      "start": 575.93,
+      "end": 578.14,
+      "text": "J'ai chopé un truc."
+    },
+    {
+      "start": 578.79,
+      "end": 581.54,
+      "text": "Je suis très fatigué et faible."
+    },
+    {
+      "start": 581.75,
+      "end": 583.95,
+      "text": "Je suis complètement à plat."
+    },
+    {
+      "start": 584.6,
+      "end": 586.81,
+      "text": "J'ai mal au dos."
+    },
+    {
+      "start": 587.01,
+      "end": 588.75,
+      "text": "C'est mon dos qui coince."
+    },
+    {
+      "start": 589.4,
+      "end": 592.42,
+      "text": "Brrr, j'ai tellement froid !"
+    },
+    {
+      "start": 592.57,
+      "end": 598.54,
+      "text": "Leo… tu n'es pas une personne froide. Tu veux dire : „Mir ist kalt.“ (J'ai froid.)"
+    },
+    {
+      "start": 598.99,
+      "end": 603.9,
+      "text": "Et attention : „Mir ist schlecht“ ne veut pas dire „Je ne vais pas bien“."
+    },
+    {
+      "start": 603.95,
+      "end": 607.52,
+      "text": "Ça veut dire : J'ai la nausée, je vais peut-être vomir."
+    },
+    {
+      "start": 607.97,
+      "end": 613.19,
+      "text": "Grippe ou rhume ? Nez qui coule et toux, c'est souvent un rhume."
+    },
+    {
+      "start": 613.24,
+      "end": 618.18,
+      "text": "Une grippe, c'est bien pire : forte fièvre, on reste au lit."
+    },
+    {
+      "start": 618.63,
+      "end": 624.13,
+      "text": "Et maintenant, tout encore une fois. Les dix phrases les plus importantes. Répète après moi !"
+    },
+    {
+      "start": 624.18,
+      "end": 627.22,
+      "text": "Je voudrais prendre un rendez-vous."
+    },
+    {
+      "start": 631.09,
+      "end": 633.22,
+      "text": "Voici ma carte."
+    },
+    {
+      "start": 636.03,
+      "end": 639.39,
+      "text": "Pouvez-vous dire ça plus lentement s'il vous plaît ?"
+    },
+    {
+      "start": 643.61,
+      "end": 647.28,
+      "text": "J'ai mal à la tête et de la fièvre."
+    },
+    {
+      "start": 651.87,
+      "end": 654.52,
+      "text": "J'ai mal au ventre."
+    },
+    {
+      "start": 657.94,
+      "end": 659.96,
+      "text": "Depuis trois jours."
+    },
+    {
+      "start": 662.66,
+      "end": 665.81,
+      "text": "Je suis allergique contre la pénicilline."
+    },
+    {
+      "start": 669.79,
+      "end": 672.55,
+      "text": "J'ai besoin d'un arrêt maladie."
+    },
+    {
+      "start": 676.08,
+      "end": 679.23,
+      "text": "Trois fois par jour après les repas."
+    },
+    {
+      "start": 683.22,
+      "end": 685.03,
+      "text": "Bon rétablissement !"
+    },
+    {
+      "start": 687.49,
+      "end": 692.25,
+      "text": "Quelle situation a été la plus difficile pour toi ? Écris-le dans les commentaires !"
+    },
+    {
+      "start": 692.36,
+      "end": 696.24,
+      "text": "La prochaine fois, on va à l'administration. Là, j'ai vraiment besoin d'aide."
+    },
+    {
+      "start": 696.34,
+      "end": 698.62,
+      "text": "À bientôt chez LilyLingua !"
+    }
+  ]
+}

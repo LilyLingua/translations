@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:44.397Z"
+  },
+  "title": "Фрайбург в Брайсгау",
+  "instructions": {
+    "stadt-freiburg-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-freiburg-gap": "Отбележете правилната дума.",
+    "stadt-freiburg-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-freiburg-table": "Попълнете члена и формата за множествено число.",
+    "stadt-freiburg-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-freiburg-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "„Бехле“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "Малки водни канали по улиците на Стария град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "Мюнстерът (катедралата)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "Голяма църква от червен пясъчник с висока кула.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "„Ланге Роте“ (Дългата червена)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "Дълга червена пържена наденица от пазара до катедралата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "„Бобеле“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "Така наричат хората, родени във Фрайбург.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "Шауинсланд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "Планината до Фрайбург; до върха ѝ се качва лифт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "Шварцвалд",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "Голяма гориста планина точно до града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "Вобан",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "Еко квартал с енергоспестяващи къщи и малко коли.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "Който стъпи в бехле, ще се ожени за човек от Фрайбург.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "На пазара до катедралата ядем „Ланге Роте“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "Качваме се с лифта на Шауинсланд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "През уикенда ходим на поход в Шварцвалд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "Много туристи посещават катедралата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "Във Вобан много хора карат велосипед.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "Фрайбург е много слънчев град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "Водата тече през бехлето.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "Лифтът се качва на Шауинсланд.",
+      "answerText": "се качва"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "Във Фрайбург много често грее слънце.",
+      "answerText": "грее"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "Който стъпи в бехле, ще се ожени за човек от Фрайбург.",
+      "answerText": "ще се ожени"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "На Мюнстерплац почти всеки ден има пазар.",
+      "answerText": "има"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "потокът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "гората",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "планината",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "наденицата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "кварталът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "лифтът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "Във Фрайбург често грее слънце.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "Стъпвал ли си вече в бехле?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "Катедралата има висока кула.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "През уикенда ходим на поход в Шварцвалд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "наденица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "гора",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "слънце",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "катедрала",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "лифт",
+      "answerText": null
+    }
+  ]
+}

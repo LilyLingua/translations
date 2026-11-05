@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:10.777Z"
+  },
+  "title": "Essen",
+  "instructions": {
+    "stadt-essen-matching": "Poveži svaku riječ s tačnim objašnjenjem.",
+    "stadt-essen-gap": "Označi tačnu riječ.",
+    "stadt-essen-verbs": "Upiši tačan glagol u tačnom obliku.",
+    "stadt-essen-table": "Upiši član i oblik množine.",
+    "stadt-essen-order": "Poredaj riječi pravilnim redom i napiši rečenicu.",
+    "stadt-essen-spelling": "Koja riječ je tačno napisana? Označi je."
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "rudnik Zollverein",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "Stari rudnik; danas UNESCO-va svjetska baština s muzejima i dizajnom.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "izvozni toranj",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "Visok toranj iznad rudnika; njime su ljudi i ugalj išli gore.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“ (Sretno!)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "Pozdrav rudara – želi se da svi zdravi ponovo izađu gore.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "Villa Hügel",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "Velika kuća porodice Krupp s mnogo soba i parkom.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "Baldeneysee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "Jezero na Ruru; tamo se može jedriti, veslati i šetati.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "Grugapark",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "Veliki park s cvijećem, igralištima i životinjama.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "prijestolnica kulture",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "Titula koju je Essen 2010. dobio za cijelu Rursku oblast.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "Ljeti mnogi jedre na jezeru Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "Porodica Krupp je živjela u Villi Hügel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "Idemo u obilazak rudnika Zollverein s vodičem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "Izvozni toranj je simbol Essena.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "U nedjelju idemo u Grugapark.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "Essen je 2010. bio evropska prijestolnica kulture.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen igra u ulici Hafenstraße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "Rudari kažu „Glück auf!“.",
+      "answerText": "kažu"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "Izvozni toranj stoji iznad starog rudnika.",
+      "answerText": "stoji"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "Danas se ugalj više ne vadi iz zemlje.",
+      "answerText": "vadi"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "Mnogo turista posjećuje rudnik Zollverein.",
+      "answerText": "posjećuje"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "Rur teče kroz jezero Baldeneysee.",
+      "answerText": "teče"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "rudnik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "park",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "vila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "jezero",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "muzej",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "hala",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "Rudnik Zollverein spada u UNESCO-vu svjetsku baštinu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "Za vikend idemo na jezero Baldeneysee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "Jesi li već bio u Grugaparku?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "Nekada je mnogo rudara radilo pod zemljom.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "muzej",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "rudnik",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "vila",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "ugalj",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "hala",
+      "answerText": null
+    }
+  ]
+}

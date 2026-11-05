@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "ti",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ቆጸራታት ብተሌፎን",
+  "instructions": {
+    "termine-am-telefon-matching": "ነፍሲ ወከፍ ቃል ምስቲ ቅኑዕ መግለጺ ኣዛምድ።",
+    "termine-am-telefon-gap": "ነቲ ቅኑዕ መስተዋድድ ምልክት ግበረሉ።",
+    "termine-am-telefon-verbs": "ነቲ ቅኑዕ ግሲ ብቅኑዕ ቅርጹ ምላእ።",
+    "termine-am-telefon-table": "ነቲ ኣርቲክል (der/die/das) ከምኡ'ውን ብዙሕ ቁጽሪ ምላእ።",
+    "termine-am-telefon-order": "ነቶም ቃላት ብቅኑዕ ስርዓት ኣቀምጦም እሞ ነቲ ሓረግ ጽሓፍ።",
+    "termine-am-telefon-spelling": "ኣየናይ ቃል እዩ ብቅኑዕ ተጻሒፉ ዘሎ? ምልክት ግበረሉ።"
+  },
+  "items": [
+    {
+      "id": "termine-am-telefon-matching-1",
+      "translation": "መቐበሊ ድምጻዊ መልእኽቲ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-1:meaning",
+      "translation": "ኣብዚ መልእኽቲ ክትገድፍ ትኽእል።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2",
+      "translation": "ቀጥታዊ ቁጽሪ ተሌፎን",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-2:meaning",
+      "translation": "ኣብ ሓደ ትካል ዘሎ ሰብ ቀጥታዊ ቁጽሪ ተሌፎን።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3",
+      "translation": "መሊስካ ምድዋል",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-3:meaning",
+      "translation": "ሓደ ሰብ ቅድሚኡ ስለ ዝደወለልካ፣ ጸኒሕካ ምድዋል።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4",
+      "translation": "ምድንጓይ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-4:meaning",
+      "translation": "ሓደ ቆጸራ ናብ ካልእ መዓልቲ ምቕያር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5",
+      "translation": "ምስራዝ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-5:meaning",
+      "translation": "ናብ ሓደ ቆጸራ ከም ዘይትመጽእ ምሕባር።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6",
+      "translation": "ሰዓታት ስራሕ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-6:meaning",
+      "translation": "ንሓደ ሰብ ክትረኽቦ እትኽእለሉ ግዜታት።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7",
+      "translation": "ብፊደል ምጽዋዕ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-matching-7:meaning",
+      "translation": "ሓደ ቃል ፊደል ብፊደል ምባል።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-1",
+      "translation": "ብሰኑይ ነጻ ዲኹም?",
+      "answerText": "ብሰኑይ"
+    },
+    {
+      "id": "termine-am-telefon-gap-2",
+      "translation": "ሰዓት 10 ይጥዕመኩም ዶ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-3",
+      "translation": "ክሳብ ታሕሳስ ነጻ ኣይኮንኩን።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-gap-4",
+      "translation": "ኣብ መወዳእታ ሰሙን እቲ ክሊኒክ ዕጹው እዩ።",
+      "answerText": "ኣብ"
+    },
+    {
+      "id": "termine-am-telefon-gap-5",
+      "translation": "ድሕሪ ሓደ ሰዓት መሊሰ ክድውለልኩም እየ።",
+      "answerText": "ድሕሪ"
+    },
+    {
+      "id": "termine-am-telefon-gap-6",
+      "translation": "ካብ ክልተ ሰሙን ጀሚረ ቆጸራ እጽበ ኣለኹ።",
+      "answerText": "ካብ"
+    },
+    {
+      "id": "termine-am-telefon-gap-7",
+      "translation": "በጃኹም ቅድሚ እቲ ቆጸራ ዓሰርተ ደቒቕ ቀዲምኩም ምጹ።",
+      "answerText": "ቅድሚ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-1",
+      "translation": "በጃኹም ምስ ወይዘሮ Weber ክዛረብ እኽእል ዶ?",
+      "answerText": "ክዛረብ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-2",
+      "translation": "ይቕሬታ፣ ቆጸራይ ክሰርዞ ኣለኒ።",
+      "answerText": "ክሰርዞ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-3",
+      "translation": "በጃኹም መሊስኩም ክትድውሉለይ ትኽእሉ ዶ?",
+      "answerText": "መሊስኩም ክትድውሉለይ"
+    },
+    {
+      "id": "termine-am-telefon-verbs-4",
+      "translation": "ቁጽረይ እህበኩም።",
+      "answerText": "እህበኩም"
+    },
+    {
+      "id": "termine-am-telefon-verbs-5",
+      "translation": "ስምኩም ብፊደል ከመይ ትጽውዕዎ?",
+      "answerText": "ትጽውዕዎ"
+    },
+    {
+      "id": "termine-am-telefon-table-1",
+      "translation": "ጻውዒት ተሌፎን",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-2",
+      "translation": "ቁጽሪ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-3",
+      "translation": "መልእኽቲ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-4",
+      "translation": "ተሌፎን",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-5",
+      "translation": "ሰዓት",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-table-6",
+      "translation": "ሞባይል",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-1",
+      "translation": "ሓደ ቆጸራ ከደንጉዮ ደልየ ነይረ።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-2",
+      "translation": "መዓስ ነጻ ኢኹም?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-3",
+      "translation": "ጽባሕ ደጊመ ክድውል እየ።",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-order-4",
+      "translation": "ሓሙስ ሰዓት 9 ይጥዕመኩም ዶ?",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-1",
+      "translation": "መልእኽቲ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-2",
+      "translation": "ተሌፎን",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-3",
+      "translation": "ቆጸራ",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-4",
+      "translation": "መሊስካ ምድዋል",
+      "answerText": null
+    },
+    {
+      "id": "termine-am-telefon-spelling-5",
+      "translation": "ሰዓት",
+      "answerText": null
+    }
+  ]
+}

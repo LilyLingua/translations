@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "ec8adceb-c2fc-40e9-a446-654f7ec1c755",
+    "level": "A2"
+  },
+  "title": "Eine Wohnung mieten",
+  "topic": "Wohnungssuche, Besichtigung und Mietvertrag",
+  "tasks": [
+    {
+      "id": "wohnung-mieten-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "wohnung-mieten-matching-1",
+          "term": "die Miete",
+          "meaning": "Das Geld, das Sie jeden Monat für die Wohnung bezahlen."
+        },
+        {
+          "id": "wohnung-mieten-matching-2",
+          "term": "die Kaution",
+          "meaning": "Geld, das der Vermieter am Anfang als Sicherheit bekommt."
+        },
+        {
+          "id": "wohnung-mieten-matching-3",
+          "term": "die Nebenkosten",
+          "meaning": "Kosten für Wasser, Heizung und Müll."
+        },
+        {
+          "id": "wohnung-mieten-matching-4",
+          "term": "der Mietvertrag",
+          "meaning": "Der Vertrag zwischen Mieter und Vermieter."
+        },
+        {
+          "id": "wohnung-mieten-matching-5",
+          "term": "die Besichtigung",
+          "meaning": "Sie sehen sich die Wohnung vor dem Mieten an."
+        },
+        {
+          "id": "wohnung-mieten-matching-6",
+          "term": "der Hausmeister",
+          "meaning": "Er kümmert sich um das Haus und repariert kleine Dinge."
+        },
+        {
+          "id": "wohnung-mieten-matching-7",
+          "term": "die Hausordnung",
+          "meaning": "Die Regeln für alle Bewohner, zum Beispiel die Ruhezeiten."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "wohnung-mieten-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "wohnung-mieten-gap-1",
+          "promptBefore": "Wir suchen",
+          "promptAfter": "Wohnung mit Balkon.",
+          "correctAnswer": "eine",
+          "options": [
+            "einem",
+            "einer",
+            "eine"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-2",
+          "promptBefore": "Ich spreche mit",
+          "promptAfter": "Vermieter.",
+          "correctAnswer": "dem",
+          "options": [
+            "der",
+            "den",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-3",
+          "promptBefore": "Ich gebe",
+          "promptAfter": "Vermieterin die Kaution.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-4",
+          "promptBefore": "Das Fahrrad stelle ich in",
+          "promptAfter": "Hof.",
+          "correctAnswer": "den",
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-5",
+          "promptBefore": "Der Schlüssel liegt auf",
+          "promptAfter": "Tisch.",
+          "correctAnswer": "dem",
+          "options": [
+            "das",
+            "dem",
+            "den"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-6",
+          "promptBefore": "Die Heizung in",
+          "promptAfter": "Küche ist kaputt.",
+          "correctAnswer": "der",
+          "options": [
+            "die",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "wohnung-mieten-gap-7",
+          "promptBefore": "Ich wohne seit einem Jahr in",
+          "promptAfter": "Wohnung.",
+          "correctAnswer": "dieser",
+          "options": [
+            "diese",
+            "dieser",
+            "diesen"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie die richtige Form des Artikels an."
+    },
+    {
+      "id": "wohnung-mieten-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "wohnung-mieten-verbs-1",
+          "promptBefore": "Wann kann ich die Wohnung",
+          "promptAfter": "?",
+          "correctAnswer": "besichtigen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "besichtigen"
+        },
+        {
+          "id": "wohnung-mieten-verbs-2",
+          "promptBefore": "Die Miete",
+          "promptAfter": "850 Euro warm.",
+          "correctAnswer": "kostet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "kosten"
+        },
+        {
+          "id": "wohnung-mieten-verbs-3",
+          "promptBefore": "Wir",
+          "promptAfter": "am 1. Dezember ein.",
+          "correctAnswer": "ziehen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "einziehen"
+        },
+        {
+          "id": "wohnung-mieten-verbs-4",
+          "promptBefore": "Die Heizung ist kaputt. Können Sie sie bitte",
+          "promptAfter": "?",
+          "correctAnswer": "reparieren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "reparieren"
+        },
+        {
+          "id": "wohnung-mieten-verbs-5",
+          "promptBefore": "Bitte",
+          "promptAfter": "Sie den Müll.",
+          "correctAnswer": "trennen",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "trennen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "wohnung-mieten-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "wohnung-mieten-table-1",
+          "article": "das",
+          "singular": "Zimmer",
+          "plural": "Zimmer"
+        },
+        {
+          "id": "wohnung-mieten-table-2",
+          "article": "die",
+          "singular": "Küche",
+          "plural": "Küchen"
+        },
+        {
+          "id": "wohnung-mieten-table-3",
+          "article": "der",
+          "singular": "Balkon",
+          "plural": "Balkone"
+        },
+        {
+          "id": "wohnung-mieten-table-4",
+          "article": "das",
+          "singular": "Bad",
+          "plural": "Bäder"
+        },
+        {
+          "id": "wohnung-mieten-table-5",
+          "article": "der",
+          "singular": "Schlüssel",
+          "plural": "Schlüssel"
+        },
+        {
+          "id": "wohnung-mieten-table-6",
+          "article": "die",
+          "singular": "Heizung",
+          "plural": "Heizungen"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "wohnung-mieten-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "wohnung-mieten-order-1",
+          "chunks": [
+            "Ist",
+            "die Wohnung",
+            "noch",
+            "frei"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "wohnung-mieten-order-2",
+          "chunks": [
+            "Wie hoch",
+            "sind",
+            "die Nebenkosten"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "wohnung-mieten-order-3",
+          "chunks": [
+            "Wann",
+            "kann",
+            "ich",
+            "die Wohnung",
+            "besichtigen"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "wohnung-mieten-order-4",
+          "chunks": [
+            "Ich",
+            "möchte",
+            "die Wohnung",
+            "gern",
+            "mieten"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "wohnung-mieten-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "wohnung-mieten-spelling-1",
+          "correct": "Kaution",
+          "wrong": "Kauzion"
+        },
+        {
+          "id": "wohnung-mieten-spelling-2",
+          "correct": "Nebenkosten",
+          "wrong": "Nebenkossten"
+        },
+        {
+          "id": "wohnung-mieten-spelling-3",
+          "correct": "Balkon",
+          "wrong": "Balkong"
+        },
+        {
+          "id": "wohnung-mieten-spelling-4",
+          "correct": "Schlüssel",
+          "wrong": "Schlüsel"
+        },
+        {
+          "id": "wohnung-mieten-spelling-5",
+          "correct": "Heizung",
+          "wrong": "Heitzung"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

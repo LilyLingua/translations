@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:01.846Z"
+  },
+  "title": "Cologne",
+  "instructions": {
+    "stadt-koeln-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-koeln-gap": "Coche le bon mot.",
+    "stadt-koeln-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-koeln-table": "Complète l'article et le pluriel.",
+    "stadt-koeln-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-koeln-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "« Kölle Alaaf ! »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Cri du carnaval de Cologne – à peu près « Vive Cologne ! ».",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "la cathédrale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Grande église à deux tours, juste à côté de la gare centrale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "la « Kölsch »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Bière blonde de Cologne ; on la boit dans de petits verres étroits.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "le « Köbes »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Serveur dans la brasserie ; il apporte une nouvelle Kölsch jusqu'à ce qu'on pose le sous-bock sur le verre.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "le « Halve Hahn »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Petit pain de seigle au fromage – pas un demi-poulet !",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "le « Veedel »",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "En dialecte de Cologne : quartier ; chaque Colonais aime son Veedel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "le lundi des Roses",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Point culminant du carnaval avec un grand défilé à travers la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Il boit une Kölsch dans la brasserie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "Le Köbes apporte la prochaine Kölsch.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Le lundi des Roses, nous regardons le défilé à travers la ville.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Beaucoup de touristes visitent la cathédrale de Cologne.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Je commande un Halve Hahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Beaucoup de gens se promènent sur le pont Hohenzollern.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Pendant le carnaval, on porte un costume.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Pendant le carnaval, les gens crient « Kölle Alaaf ! ».",
+      "answerText": "crient"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "Le Köbes apporte une nouvelle Kölsch sans qu'on la demande.",
+      "answerText": "apporte"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "La cathédrale mesure plus de 150 mètres.",
+      "answerText": "mesure"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "Le Rhin coule au cœur de Cologne.",
+      "answerText": "coule"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "Le carnaval commence le 11/11 à 11 h 11.",
+      "answerText": "commence"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "la cathédrale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "le pont",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "le verre",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "le défilé",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "le costume",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "le bistrot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "La cathédrale de Cologne se trouve juste à côté de la gare.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Le lundi des Roses, tout Cologne fête le carnaval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Tu veux encore une Kölsch ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "À Cologne, on boit la Kölsch dans de petits verres.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "le carnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "le costume",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "la gare",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "le bistrot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "le verre",
+      "answerText": null
+    }
+  ]
+}

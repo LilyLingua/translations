@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.482Z"
+  },
+  "title": "在政府部门",
+  "instructions": {
+    "auf-dem-amt-matching": "把每个单词和合适的解释连起来。",
+    "auf-dem-amt-gap": "勾出合适的单词。",
+    "auf-dem-amt-verbs": "用正确形式填入正确的动词。",
+    "auf-dem-amt-table": "填写冠词（der/die/das）和复数形式。",
+    "auf-dem-amt-order": "把单词按正确顺序排列并写出句子。",
+    "auf-dem-amt-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "auf-dem-amt-matching-1",
+      "translation": "户口登记（住址登记）",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-1:meaning",
+      "translation": "你向政府部门登记新地址。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2",
+      "translation": "排队号",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-2:meaning",
+      "translation": "你从机器上取这个号码。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3",
+      "translation": "护照",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-3:meaning",
+      "translation": "出国旅行用的证件。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4",
+      "translation": "房东确认书",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-4:meaning",
+      "translation": "办理登记时需要房东提供的这份文件。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5",
+      "translation": "住址登记证明",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-5:meaning",
+      "translation": "这份文件证明你现在住在这个地址。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6",
+      "translation": "婚姻状况",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-6:meaning",
+      "translation": "单身、已婚、离婚或丧偶",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7",
+      "translation": "签名",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-7:meaning",
+      "translation": "你手写的名字。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8",
+      "translation": "表格",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-matching-8:meaning",
+      "translation": "有空格需要填写的纸。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-gap-1",
+      "translation": "我想登记我的新住房。",
+      "answerText": "住房"
+    },
+    {
+      "id": "auf-dem-amt-gap-2",
+      "translation": "请在机器上取一个号。",
+      "answerText": "号"
+    },
+    {
+      "id": "auf-dem-amt-gap-3",
+      "translation": "147号，请到12号窗口。",
+      "answerText": "窗口"
+    },
+    {
+      "id": "auf-dem-amt-gap-4",
+      "translation": "这是我房东的确认书。",
+      "answerText": "房东"
+    },
+    {
+      "id": "auf-dem-amt-gap-5",
+      "translation": "您带身份证了吗？",
+      "answerText": "身份证"
+    },
+    {
+      "id": "auf-dem-amt-gap-6",
+      "translation": "请把表格填写完整。",
+      "answerText": "表格"
+    },
+    {
+      "id": "auf-dem-amt-gap-7",
+      "translation": "你会经常用到住址登记证明，例如开银行账户时。",
+      "answerText": "住址登记证明"
+    },
+    {
+      "id": "auf-dem-amt-verbs-1",
+      "translation": "我今天去登记。",
+      "answerText": "登记"
+    },
+    {
+      "id": "auf-dem-amt-verbs-2",
+      "translation": "我应该在哪里签字？",
+      "answerText": "签字"
+    },
+    {
+      "id": "auf-dem-amt-verbs-3",
+      "translation": "我拼写我的名字：N – O – W – A – K。",
+      "answerText": "拼写"
+    },
+    {
+      "id": "auf-dem-amt-verbs-4",
+      "translation": "请坐。",
+      "answerText": "坐"
+    },
+    {
+      "id": "auf-dem-amt-verbs-5",
+      "translation": "办理大约需要两周。",
+      "answerText": "需要"
+    },
+    {
+      "id": "auf-dem-amt-table-1",
+      "translation": "政府部门",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-2",
+      "translation": "身份证",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-3",
+      "translation": "住房",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-4",
+      "translation": "表格",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-5",
+      "translation": "房东",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-table-6",
+      "translation": "地址",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-1",
+      "translation": "我想办理登记。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-2",
+      "translation": "我应该在哪里签字？",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-3",
+      "translation": "这是我的护照。",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-order-4",
+      "translation": "我还需要别的东西吗？",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-1",
+      "translation": "住址登记证明",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-2",
+      "translation": "护照",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-3",
+      "translation": "单身",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-4",
+      "translation": "房东",
+      "answerText": null
+    },
+    {
+      "id": "auf-dem-amt-spelling-5",
+      "translation": "地址",
+      "answerText": null
+    }
+  ]
+}

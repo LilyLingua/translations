@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:00.708Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ቦኹም",
+  "instructions": {
+    "stadt-bochum-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-bochum-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-bochum-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-bochum-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-bochum-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-bochum-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "\"Bermuda3eck\" (የቤርሙዳ ሦስት ማዕዘን)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "በከተማዋ መሃል ብዙ መጠጥ ቤቶች እና ባሮች ያሉበት አካባቢ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "Currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "ከኬትጪፕ እና ከካሪ ዱቄት ጋር የሚቀርብ የተጠበሰ ቋሊማ – በቦኹም በጣም ተወዳጅ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Herbert Grönemeyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "ስለ ከተማው ቦኹም የታወቀ ዘፈን የሚዘፍን ዘፋኝ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "VfL Bochum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "የከተማዋ የእግር ኳስ ክለብ፣ በሰማያዊ እና በነጭ ቀለም።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "የማዕድን ሙዚየም (Bergbau-Museum)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "ከመሬት በታች ስላለ ሥራ የሚያሳይ ትልቅ ሙዚየም – ሊጎበኝ የሚችል የማዕድን ማውጫ አለው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "Starlight Express",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "ተዋናዮቹ በሮለር ስኬት የሚንሸራተቱበት ሙዚቃዊ ትርዒት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "የሩር ዩኒቨርሲቲ (Ruhr-Universität)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "በከተማዋ ዳርቻ ያለ ብዙ ተማሪዎች ያሉት ትልቅ ዩኒቨርሲቲ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "ዓርብ በBermuda3eck እንገናኛለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Currywurst ከድንች ጥብስ ጋር እበላለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "ብዙ ተማሪዎች በሩር ዩኒቨርሲቲ ይማራሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "በማዕድን ሙዚየሙ ውስጥ ወደ ማዕድን ማውጫው እንገባለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "ተዋናዮቹ በሮለር ስኬት ይንሸራተታሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Herbert Grönemeyer ስለ ቦኹም ዘፈን ይዘፍናል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "VfL በCastroper Straße ባለው ስታዲየም ይጫወታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "በሙዚቃዊ ትርዒቱ ውስጥ ተዋናዮቹ በሮለር ስኬት ይንሸራተታሉ።",
+      "answerText": "ይንሸራተታሉ"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Herbert Grönemeyer ስለ ከተማው ይዘፍናል።",
+      "answerText": "ይዘፍናል"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "ቅዳሜና እሑድ ብዙ ሰዎች ወደ Bermuda3eck ይሄዳሉ።",
+      "answerText": "ይሄዳሉ"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "Currywurst ከድንች ጥብስ ጋር ይበላል።",
+      "answerText": "ይበላል"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "ሙዚቃዊ ትርዒቱ ከ1988 ጀምሮ በቦኹም እየታየ ነው።",
+      "answerText": "እየታየ"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "መጠጥ ቤት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "ዘፈን",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "ተማሪ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "ሙዚቃዊ ትርዒት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "ዩኒቨርሲቲ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "ዘፋኝ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "Starlight Express ከ1988 ጀምሮ በቦኹም እየታየ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "ከዩኒቨርሲቲ በኋላ ወደ Bermuda3eck እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Currywurstዎን ከድንች ጥብስ ጋር ይበላሉ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Grönemeyer ስለ ቦኹም ዘፈን ይዘፍናል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "ሙዚቃዊ ትርዒት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "ዩኒቨርሲቲ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "Currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "መጠጥ ቤት",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "ዘፋኝ",
+      "answerText": null
+    }
+  ]
+}

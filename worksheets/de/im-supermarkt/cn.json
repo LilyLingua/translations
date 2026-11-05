@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "cn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:33:55.437Z"
+  },
+  "title": "在超市",
+  "instructions": {
+    "im-supermarkt-matching": "把每个单词和合适的解释连起来。",
+    "im-supermarkt-gap": "勾出合适的包装或数量。",
+    "im-supermarkt-verbs": "用正确形式填入正确的动词。",
+    "im-supermarkt-table": "填写冠词（der/die/das）和复数形式。",
+    "im-supermarkt-order": "把单词按正确顺序排列并写出句子。",
+    "im-supermarkt-spelling": "哪个单词拼写正确？请勾出来。"
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "购物车",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "购物时把商品放进去。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "奶酪柜台",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "在这里按重量买新鲜奶酪。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "瓶子押金（Pfand）",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "退还空瓶时拿回来的钱。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "空瓶回收机",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "在这里退还空瓶子。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "特价",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "某个商品短时间内更便宜。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "购物小票",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "这张纸上有所有价格。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "袋子",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "用它把买的东西带回家。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "我买一盒酸奶。",
+      "answerText": "盒"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "再来一瓶水，谢谢。",
+      "answerText": "瓶"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "我们需要一包意大利面。",
+      "answerText": "包"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "做酱汁我拿一罐西红柿。",
+      "answerText": "罐"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "请给我200克高达奶酪。",
+      "answerText": "克"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "一块黄油2.29欧元。",
+      "answerText": "块"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "我要一升牛奶。",
+      "answerText": "升"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "您能帮我换五欧元零钱吗？",
+      "answerText": "换"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "请问，面粉在哪儿找？",
+      "answerText": "找"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "我刷卡付钱。",
+      "answerText": "付钱"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "我想要200克高达奶酪。",
+      "answerText": "想要"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "星期天几乎所有超市都关门。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "瓶子",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "盒子（酸奶盒）",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "罐头",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "面包",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "苹果",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "香蕉",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "请问，面粉在哪儿找？",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "我带了一个包。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "香蕉今天特价。",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "空瓶回收机在哪里？",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "购物车",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "购物小票",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "瓶子押金",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "奶酪",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "小面包",
+      "answerText": null
+    }
+  ]
+}

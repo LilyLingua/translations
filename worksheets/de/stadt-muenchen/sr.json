@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:21.445Z"
+  },
+  "title": "Минхен",
+  "instructions": {
+    "stadt-muenchen-matching": "Повежи сваку реч са тачним објашњењем.",
+    "stadt-muenchen-gap": "Означи тачну реч.",
+    "stadt-muenchen-verbs": "Упиши тачан глагол у тачном облику.",
+    "stadt-muenchen-table": "Упиши члан и облик множине.",
+    "stadt-muenchen-order": "Поређај речи правилним редом и напиши реченицу.",
+    "stadt-muenchen-spelling": "Која реч је тачно написана? Означи је."
+  },
+  "items": [
+    {
+      "id": "stadt-muenchen-matching-1",
+      "translation": "„Wiesn“ (Визн)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-1:meaning",
+      "translation": "Тако Минхенци зову Октобарфест на ливади Терезијенвизе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2",
+      "translation": "„Servus!“ (Сервус)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-2:meaning",
+      "translation": "Баварски поздрав за здраво и довиђења.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3",
+      "translation": "„Maß“ (Мас)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-3:meaning",
+      "translation": "Велики кригл са литром пива.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4",
+      "translation": "вајсвурст",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-4:meaning",
+      "translation": "Бела кобасица која се по традицији једе пре подне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5",
+      "translation": "„Brezn“ (Брецн)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-5:meaning",
+      "translation": "Тако се у Баварској зове перец.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6",
+      "translation": "пивска башта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-6:meaning",
+      "translation": "Седи се напољу под дрвећем, једе се и пије.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7",
+      "translation": "фен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-matching-7:meaning",
+      "translation": "Топао ветар са Алпа; тада се планине виде веома јасно.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-1",
+      "translation": "Сат са звонцима налази се на већници на Маријенплацу.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-2",
+      "translation": "Лети млади сурфују на Ајсбаху.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-3",
+      "translation": "За викенд идемо у пивску башту.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-4",
+      "translation": "Он наручује Мас и Брецн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-5",
+      "translation": "Река Изар тече кроз град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-6",
+      "translation": "Идемо у Енглески врт.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-gap-7",
+      "translation": "Кад дува фен, из града се виде Алпи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-verbs-1",
+      "translation": "Вајсвурст се једе пре подне.",
+      "answerText": "једе"
+    },
+    {
+      "id": "stadt-muenchen-verbs-2",
+      "translation": "У 11 сати свира сат са звонцима на већници.",
+      "answerText": "свира"
+    },
+    {
+      "id": "stadt-muenchen-verbs-3",
+      "translation": "Визн почиње крајем септембра.",
+      "answerText": "почиње"
+    },
+    {
+      "id": "stadt-muenchen-verbs-4",
+      "translation": "На Ајсбаху млади сурфују на таласу.",
+      "answerText": "сурфују"
+    },
+    {
+      "id": "stadt-muenchen-verbs-5",
+      "translation": "На растанку Минхенци кажу „Сервус“.",
+      "answerText": "кажу"
+    },
+    {
+      "id": "stadt-muenchen-table-1",
+      "translation": "фестивал",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-2",
+      "translation": "кобасица",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-3",
+      "translation": "башта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-4",
+      "translation": "кригл",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-5",
+      "translation": "перец",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-table-6",
+      "translation": "планина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-1",
+      "translation": "Визн почиње крајем септембра.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-2",
+      "translation": "Вајсвурст се једе пре подне.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-3",
+      "translation": "Хоћемо ли вечерас у пивску башту?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-order-4",
+      "translation": "Кад дува фен, Алпи се виде веома јасно.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-1",
+      "translation": "пивска башта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-2",
+      "translation": "сат са звонцима",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-3",
+      "translation": "већница",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-4",
+      "translation": "октобар",
+      "answerText": null
+    },
+    {
+      "id": "stadt-muenchen-spelling-5",
+      "translation": "планине",
+      "answerText": null
+    }
+  ]
+}

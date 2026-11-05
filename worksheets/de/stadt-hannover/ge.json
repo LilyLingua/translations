@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:23.162Z"
+  },
+  "title": "ჰანოვერი",
+  "instructions": {
+    "stadt-hannover-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-hannover-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-hannover-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-hannover-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-hannover-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-hannover-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "გამოფენა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "დიდი გამოფენა კომპანიებისთვის; ჰანოვერს უზარმაზარი საგამოფენო ტერიტორია აქვს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "მაშზე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "ხელოვნური ტბა ქალაქში იალქნოსნობისთვის, სირბილისა და დღესასწაულებისთვის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "წითელი ძაფი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "წითელი ხაზი მიწაზე; ღირსშესანიშნაობებისკენ მიგიყვანს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "სალიტერატურო გერმანული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "სტანდარტული ენა; ჰანოვერში მას განსაკუთრებით მკაფიოდ საუბრობენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "„ლიუტიე ლაგე“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "ლუდი და არაყი ორი ჭიქიდან, რომლებსაც ერთდროულად სვამენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "მსროლელთა დღესასწაული",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "ძალიან დიდი სახალხო დღესასწაული ზაფხულში გრძელი აღლუმით.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "„ნანა“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "დიდი ფერადი ქალის ფიგურა მდინარე ლაინეს ნაპირზე, ნიკი დე სენ-ფალის ნამუშევარი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "წითელ ძაფს მივყვებით ქალაქში.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "ზაფხულში ბევრი მაშზეს გარშემო დარბის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "კომპანია გამოფენაზე მონაწილეობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "ლიფტით რატუშის გუმბათზე ავდივართ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "ნანები ლაინეს ნაპირზე დგანან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "ჰერენჰაუზენის ბაღებს ვსტუმრობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "ის ლიუტიე ლაგეს სინჯავს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "წითელი ძაფი ბევრ ღირსშესანიშნაობასთან მიდის.",
+      "answerText": "მიდის"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "ახალ რატუშაში დახრილი ლიფტი გუმბათზე ადის.",
+      "answerText": "ადის"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "ბევრი კომპანია გამოფენაზე თავის პროდუქტს აჩვენებს.",
+      "answerText": "აჩვენებს"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "ჰანოვერელები ძალიან მკაფიო სალიტერატურო გერმანულით საუბრობენ.",
+      "answerText": "საუბრობენ"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "2000 წელს ჰანოვერში მსოფლიო გამოფენა ექსპო გაიმართა.",
+      "answerText": "გაიმართა"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "გამოფენა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "ბაღი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "ძაფი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "ფიგურა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "რატუშა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "ლიფტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "წითელი ძაფი ცენტრზე გადის.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "ზაფხულში ბევრი მაშზეზე იალქნოსნობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "ლიფტით გუმბათზე ახვალ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "ჰანოვერში მკაფიო სალიტერატურო გერმანულით საუბრობენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "გამოფენა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "ღირსშესანიშნაობა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "ლიფტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "ფიგურა",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "გუმბათი",
+      "answerText": null
+    }
+  ]
+}

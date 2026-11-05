@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:22:44.788Z"
+  },
+  "title": "Đi xe buýt và tàu",
+  "instructions": {
+    "bus-und-bahn-matching": "Nối mỗi từ với lời giải thích phù hợp.",
+    "bus-und-bahn-gap": "Đánh dấu từ phù hợp.",
+    "bus-und-bahn-verbs": "Điền động từ đúng ở dạng đúng.",
+    "bus-und-bahn-table": "Điền mạo từ (der/die/das) và dạng số nhiều.",
+    "bus-und-bahn-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "bus-und-bahn-spelling": "Từ nào viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "vé",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Có vé bạn được phép đi xe buýt hoặc tàu.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "máy bán vé tự động",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Ở đây bạn mua vé mà không cần quầy.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "đường ray (sân ga)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Ở đây tàu dừng trong nhà ga.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "sự chậm trễ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Tàu đến muộn hơn kế hoạch.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "đổi tàu",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Bạn chuyển từ tàu này sang tàu khác.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "trạm xe buýt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Xe buýt dừng ở đây.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Vé tháng cho xe buýt và tàu địa phương trên toàn nước Đức.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Tàu đi Köln khởi hành từ đường ray số 5.",
+      "answerText": "đường ray"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Tàu bị trễ mười phút.",
+      "answerText": "trễ"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Trạm gần nhất ở đâu?",
+      "answerText": "Trạm"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Cho tôi một vé đi Berlin.",
+      "answerText": "vé"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Vui lòng xuất trình vé của anh/chị.",
+      "answerText": "vé"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Tàu điện ngầm chạy mười phút một chuyến.",
+      "answerText": "Tàu điện ngầm"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Bạn có thể mua vé ở máy bán vé.",
+      "answerText": "máy bán vé"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Tôi phải đổi tàu ở đâu?",
+      "answerText": "đổi tàu"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Xe buýt khởi hành lúc 8:15.",
+      "answerText": "khởi hành"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Chúng tôi đến Hamburg lúc 10 giờ.",
+      "answerText": "đến"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Vui lòng xuống ở đây.",
+      "answerText": "xuống"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Chuyến đi mất bao lâu?",
+      "answerText": "mất"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "tàu",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "nhà ga",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "vé",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "đường ray",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "trạm xe buýt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "xe buýt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Khi nào có chuyến tàu tiếp theo đi München?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Tôi phải đổi tàu ở Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Tiếc là tàu bị trễ.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Vé này có dùng được cho xe buýt không?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "vé",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "sự chậm trễ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "trạm xe buýt",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "đường ray",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "nhà ga",
+      "answerText": null
+    }
+  ]
+}

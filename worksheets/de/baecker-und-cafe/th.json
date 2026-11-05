@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:38:45.540Z"
+  },
+  "title": "ที่ร้านเบเกอรี่และร้านกาแฟ",
+  "instructions": {
+    "baecker-und-cafe-matching": "จับคู่คำแต่ละคำกับคำอธิบายที่เหมาะสม",
+    "baecker-und-cafe-gap": "ทำเครื่องหมายที่คำนำหน้านามที่ถูกต้อง",
+    "baecker-und-cafe-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "baecker-und-cafe-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "baecker-und-cafe-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "baecker-und-cafe-spelling": "คำไหนสะกดถูกต้อง ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "ขนมปังก้อนเล็ก (Brötchen)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "ขนมปังก้อนเล็ก มักกินเป็นอาหารเช้า",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "เพรทเซล (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "ขนมอบโรยเกลือ ขึ้นชื่อทางใต้ของเยอรมนี",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "เค้ก",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "ของหวาน มักกินกับกาแฟตอนบ่าย",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "เมนู",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "มีอาหารและเครื่องดื่มทั้งหมด",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "บิล (ใบเสร็จค่าอาหาร)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "บอกว่าคุณต้องจ่ายเท่าไร",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "ทิป",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "เงินพิเศษเล็กน้อยให้พนักงานเสิร์ฟ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "สั่งกลับบ้าน",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "ไม่ได้กินหรือดื่มในร้าน",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "ขอขนมปังก้อนเล็กหนึ่งก้อน",
+      "answerText": "หนึ่ง"
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "ขอกาแฟหนึ่งแก้ว",
+      "answerText": "หนึ่ง"
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "เพรทเซลราคาเท่าไร",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "ขอเค้กหนึ่งชิ้น",
+      "answerText": "หนึ่ง"
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "โต๊ะนี้ว่างไหม",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "ฉันดื่มชาใส่นมหนึ่งแก้ว",
+      "answerText": "หนึ่ง"
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "ขอบิลด้วยค่ะ/ครับ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "คุณอยากดื่มอะไร",
+      "answerText": "อยาก"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "ฉันเอาคาปูชิโน่หนึ่งแก้ว",
+      "answerText": "เอา"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "ทั้งหมดเป็นเงิน 6.40 ยูโร",
+      "answerText": "เป็น"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "ฉันจ่ายด้วยบัตรได้ไหม",
+      "answerText": "จ่าย"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "เค้กอร่อยมาก",
+      "answerText": "อร่อย"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "เค้ก",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "ถ้วย",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "แก้ว",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "จาน",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "เพรทเซล",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "ขอขนมปังก้อนเล็กสองก้อน",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "เค้กราคาเท่าไร",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "ฉันจ่ายด้วยบัตรได้ไหม",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "คุณจะทานที่นี่ไหม",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "ขนมปังก้อนเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "เค้ก",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "บิล",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "กาแฟ",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "ทิป",
+      "answerText": null
+    }
+  ]
+}

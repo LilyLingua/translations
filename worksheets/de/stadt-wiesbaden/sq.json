@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:01.674Z"
+  },
+  "title": "Visbaden",
+  "instructions": {
+    "stadt-wiesbaden-matching": "Lidh çdo fjalë me shpjegimin e saktë.",
+    "stadt-wiesbaden-gap": "Shëno fjalën e saktë.",
+    "stadt-wiesbaden-verbs": "Plotëso foljen e saktë në formën e saktë.",
+    "stadt-wiesbaden-table": "Plotëso nyjën dhe trajtën e shumësit.",
+    "stadt-wiesbaden-order": "Rendit fjalët në rendin e saktë dhe shkruaj fjalinë.",
+    "stadt-wiesbaden-spelling": "Cila fjalë është shkruar saktë? Shënoje."
+  },
+  "items": [
+    {
+      "id": "stadt-wiesbaden-matching-1",
+      "translation": "qyteti i banjave kuruese",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-1:meaning",
+      "translation": "Qytet me ujë shërues; dikur vinin këtu mysafirë të pasur për t'u çlodhur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2",
+      "translation": "burimi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-2:meaning",
+      "translation": "Këtu uji del nga toka; në Visbaden shpesh është i nxehtë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3",
+      "translation": "Kochbrunnen",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-3:meaning",
+      "translation": "Burim i nxehtë i famshëm në qendër; uji është i nxehtë dhe i kripur.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4",
+      "translation": "Kurhaus",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-4:meaning",
+      "translation": "Ndërtesë madhështore për festa dhe koncerte, me kazino.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5",
+      "translation": "Nerobergbahn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-5:meaning",
+      "translation": "Hekurudhë e vjetër malore që lëviz vetëm me ujë si kundërpeshë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6",
+      "translation": "Sternschnuppenmarkt",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-6:meaning",
+      "translation": "Emri i tregut të Krishtlindjeve në Visbaden.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7",
+      "translation": "kazinoja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-matching-7:meaning",
+      "translation": "Vend ku luhet për para, për shembull ruletë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-1",
+      "translation": "Ngjitemi në mal me Nerobergbahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-2",
+      "translation": "Uji nga Kochbrunnen është i nxehtë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-3",
+      "translation": "Shkojmë në një koncert në Kurhaus.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-4",
+      "translation": "Në dhjetor vizitojmë Sternschnuppenmarkt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-5",
+      "translation": "Visbadeni është kryeqyteti i Hesenit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-6",
+      "translation": "Në Zyrën Federale të Statistikave numërohen banorët e Gjermanisë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-gap-7",
+      "translation": "Çlodhemi në një banjë termale.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-1",
+      "translation": "Uji i nxehtë del nga toka.",
+      "answerText": "del"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-2",
+      "translation": "Nerobergbahn funksionon vetëm me ujë.",
+      "answerText": "funksionon"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-3",
+      "translation": "Dikur mysafirët e pasur udhëtonin në Visbaden për kurim.",
+      "answerText": "udhëtonin"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-4",
+      "translation": "Në Kurhaus mund të luash ruletë.",
+      "answerText": "mund"
+    },
+    {
+      "id": "stadt-wiesbaden-verbs-5",
+      "translation": "Shumë njerëz çlodhen në banjën termale.",
+      "answerText": "çlodhen"
+    },
+    {
+      "id": "stadt-wiesbaden-table-1",
+      "translation": "burimi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-2",
+      "translation": "mysafiri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-3",
+      "translation": "hekurudha",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-4",
+      "translation": "shatërvani",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-5",
+      "translation": "banja",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-table-6",
+      "translation": "mali",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-1",
+      "translation": "Në Visbaden ka shumë burime të nxehta.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-2",
+      "translation": "Nerobergbahn lëviz me ujë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-3",
+      "translation": "A vjen me mua në banjën termale?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-order-4",
+      "translation": "Visbadeni është kryeqyteti i Hesenit.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-1",
+      "translation": "burim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-2",
+      "translation": "shatërvan",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-3",
+      "translation": "banjë termale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-4",
+      "translation": "mysafir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wiesbaden-spelling-5",
+      "translation": "koncert",
+      "answerText": null
+    }
+  ]
+}

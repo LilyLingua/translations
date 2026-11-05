@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:58:55.375Z"
+  },
+  "title": "Ahen",
+  "instructions": {
+    "stadt-aachen-matching": "Lidh çdo fjalë me shpjegimin e saktë.",
+    "stadt-aachen-gap": "Shëno fjalën e saktë.",
+    "stadt-aachen-verbs": "Plotëso foljen e saktë në formën e saktë.",
+    "stadt-aachen-table": "Plotëso nyjën dhe trajtën e shumësit.",
+    "stadt-aachen-order": "Rendit fjalët në rendin e saktë dhe shkruaj fjalinë.",
+    "stadt-aachen-spelling": "Cila fjalë është shkruar saktë? Shënoje."
+  },
+  "items": [
+    {
+      "id": "stadt-aachen-matching-1",
+      "translation": "Katedralja e Ahenit",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-1:meaning",
+      "translation": "Kisha e Karlit të Madh; trashëgimia e parë botërore në Gjermani.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2",
+      "translation": "„Printen“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-2:meaning",
+      "translation": "Biskota me erëza nga Aheni, shumë të dashura sidomos në dimër.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3",
+      "translation": "„Öcher“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-3:meaning",
+      "translation": "Kështu e quajnë veten banorët e Ahenit në dialektin e tyre (Öcher Platt).",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4",
+      "translation": "pika e tri kufijve (Dreiländereck)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-4:meaning",
+      "translation": "Vend ku takohen Gjermania, Belgjika dhe Holanda.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5",
+      "translation": "burimet termale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-5:meaning",
+      "translation": "Ujë i nxehtë nga toka; prandaj Aheni është edhe vend kurativ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6",
+      "translation": "CHIO",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-6:meaning",
+      "translation": "Garë e madhe kalorësie me kuaj nga e gjithë bota.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7",
+      "translation": "Çmimi Karli i Madh",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-matching-7:meaning",
+      "translation": "Çmim për njerëz që kanë bërë shumë për Evropën.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-1",
+      "translation": "Karli i Madh ndërtoi katedralen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-2",
+      "translation": "Në dimër hamë një Printe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-3",
+      "translation": "Ecim deri te pika e tri kufijve.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-4",
+      "translation": "Uji nga burimi është shumë i nxehtë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-5",
+      "translation": "Në CHIO kuajt kërcejnë mbi pengesat.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-6",
+      "translation": "Pothuajse çdo vit dikush merr Çmimin Karli i Madh.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-gap-7",
+      "translation": "Shumë studentë mësojnë në RWTH.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-verbs-1",
+      "translation": "Aheni kufizohet me Belgjikën dhe Holandën.",
+      "answerText": "kufizohet"
+    },
+    {
+      "id": "stadt-aachen-verbs-2",
+      "translation": "Uji i nxehtë vjen nga toka.",
+      "answerText": "vjen"
+    },
+    {
+      "id": "stadt-aachen-verbs-3",
+      "translation": "Kuajt kërcejnë mbi pengesa të larta.",
+      "answerText": "kërcejnë"
+    },
+    {
+      "id": "stadt-aachen-verbs-4",
+      "translation": "Shumë banorë të Ahenit flasin Öcher Platt.",
+      "answerText": "flasin"
+    },
+    {
+      "id": "stadt-aachen-verbs-5",
+      "translation": "Karli i Madh është varrosur në katedrale.",
+      "answerText": "është"
+    },
+    {
+      "id": "stadt-aachen-table-1",
+      "translation": "burimi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-2",
+      "translation": "kali",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-3",
+      "translation": "vendi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-4",
+      "translation": "çmimi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-5",
+      "translation": "kufiri",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-table-6",
+      "translation": "perandori",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-1",
+      "translation": "Katedralja e Ahenit është mbi 1200 vjeç.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-2",
+      "translation": "A i ke provuar ndonjëherë Printen?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-3",
+      "translation": "Aheni ndodhet në kufi me Belgjikën.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-order-4",
+      "translation": "Uji nga burimet është shumë i nxehtë.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-1",
+      "translation": "burim",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-2",
+      "translation": "kufi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-3",
+      "translation": "kalë",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-4",
+      "translation": "perandor",
+      "answerText": null
+    },
+    {
+      "id": "stadt-aachen-spelling-5",
+      "translation": "Belgjikë",
+      "answerText": null
+    }
+  ]
+}

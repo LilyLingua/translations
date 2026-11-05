@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:42.589Z"
+  },
+  "title": "В аптеці",
+  "instructions": {
+    "en-at-the-pharmacy-matching": "З'єднай кожне слово з його значенням.",
+    "en-at-the-pharmacy-gap": "Вибери правильне слово.",
+    "en-at-the-pharmacy-verbs": "Встав правильне дієслово.",
+    "en-at-the-pharmacy-order": "Розстав слова в правильному порядку й запиши речення.",
+    "en-at-the-pharmacy-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "en-at-the-pharmacy-matching-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-1:meaning",
+      "translation": "Записка від лікаря на ліки, які тобі потрібні.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2",
+      "translation": "фармацевт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-2:meaning",
+      "translation": "Людина, яка продає ліки й дає поради.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3",
+      "translation": "побічна дія",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-3:meaning",
+      "translation": "Небажаний ефект ліків.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4",
+      "translation": "таблетка",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-4:meaning",
+      "translation": "Маленькі тверді ліки, які ковтають.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5",
+      "translation": "сироп від кашлю",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-5:meaning",
+      "translation": "Рідкі ліки від кашлю.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6",
+      "translation": "доза",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-matching-6:meaning",
+      "translation": "Скільки ліків приймають за один раз.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-1",
+      "translation": "У мене застуда і болить горло.",
+      "answerText": "застуда"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-2",
+      "translation": "Чи потрібен рецепт на ці ліки?",
+      "answerText": "рецепт"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-3",
+      "translation": "Приймайте по одній таблетці тричі на день.",
+      "answerText": "таблетці"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-4",
+      "translation": "Чи є побічні дії?",
+      "answerText": "побічні дії"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-5",
+      "translation": "Якщо у вас є запитання, зверніться до фармацевта.",
+      "answerText": "фармацевта"
+    },
+    {
+      "id": "en-at-the-pharmacy-gap-6",
+      "translation": "Можна мені чек, будь ласка?",
+      "answerText": "чек"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-1",
+      "translation": "Мені потрібно щось від головного болю.",
+      "answerText": "потрібно"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-2",
+      "translation": "У вас є алергія?",
+      "answerText": "є"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-3",
+      "translation": "Будь ласка, приймайте ці ліки після їди.",
+      "answerText": "приймайте"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-4",
+      "translation": "Фармацевт показує мені, як користуватися спреєм.",
+      "answerText": "показує"
+    },
+    {
+      "id": "en-at-the-pharmacy-verbs-5",
+      "translation": "Скільки це коштує?",
+      "answerText": "коштує"
+    },
+    {
+      "id": "en-at-the-pharmacy-order-1",
+      "translation": "Чи потрібен рецепт для цього?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-2",
+      "translation": "У мене болить голова.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-3",
+      "translation": "Приймайте дві таблетки вранці.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-order-4",
+      "translation": "Можете порадити щось від кашлю?",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-1",
+      "translation": "рецепт",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-2",
+      "translation": "ліки",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-3",
+      "translation": "аптека",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-4",
+      "translation": "алергія",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-pharmacy-spelling-5",
+      "translation": "головний біль",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "tr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:00:59.565Z"
+  },
+  "title": "Wuppertal",
+  "instructions": {
+    "stadt-wuppertal-matching": "Her kelimeyi doğru açıklamayla eşleştirin.",
+    "stadt-wuppertal-gap": "Doğru kelimeyi işaretleyin.",
+    "stadt-wuppertal-verbs": "Doğru fiili doğru biçimde yazın.",
+    "stadt-wuppertal-table": "Artikeli ve çoğul biçimini tamamlayın.",
+    "stadt-wuppertal-order": "Kelimeleri doğru sıraya koyun ve cümleyi yazın.",
+    "stadt-wuppertal-spelling": "Hangi kelime doğru yazılmış? İşaretleyin."
+  },
+  "items": [
+    {
+      "id": "stadt-wuppertal-matching-1",
+      "translation": "\"Schwebebahn\" (asma tren)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-1:meaning",
+      "translation": "Raylara asılı olarak nehrin üstünde giden tren – 1901'den beri.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2",
+      "translation": "Tuffi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-2:meaning",
+      "translation": "1950'de asma trenden Wupper nehrine atlayan yavru fil.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3",
+      "translation": "Wupper",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-3:meaning",
+      "translation": "Bütün şehrin içinden akan nehir.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4",
+      "translation": "Pina Bausch",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-4:meaning",
+      "translation": "Ünlü dansçı; Wuppertal'deki dans tiyatrosu dünyaca tanınır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5",
+      "translation": "merdivenler",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-5:meaning",
+      "translation": "Şehir yamaçlarda kurulduğu için Wuppertal'de çok sayıda kamuya açık merdiven var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6",
+      "translation": "Friedrich Engels",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-6:meaning",
+      "translation": "Düşünür ve Karl Marx'ın dostu; Barmen semtinde doğdu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7",
+      "translation": "Nordbahntrasse",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-matching-7:meaning",
+      "translation": "Eski bir demiryolu hattı üzerinde, tünelli ve köprülü bisiklet yolu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-1",
+      "translation": "Asma tren Wupper'in üstünden gider.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-2",
+      "translation": "1950'de bir fil asma trenden atladı.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-3",
+      "translation": "Nordbahntrasse'de bisikletle gidiyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-4",
+      "translation": "Friedrich Engels Barmen semtinde doğdu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-5",
+      "translation": "Merdivenden yukarı çıkıyoruz.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-6",
+      "translation": "Dans tiyatrosu bütün dünyada tanınıyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-gap-7",
+      "translation": "Tuffi nehre düştü.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-verbs-1",
+      "translation": "Asma tren nehrin üstünde raylara asılıdır.",
+      "answerText": "asılıdır"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-2",
+      "translation": "Tuffi Wupper'e düştü.",
+      "answerText": "düştü"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-3",
+      "translation": "Wuppertal'de çok sayıda merdiven vardır.",
+      "answerText": "vardır"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-4",
+      "translation": "Asma tren 120 yılı aşkın süredir çalışıyor.",
+      "answerText": "çalışıyor"
+    },
+    {
+      "id": "stadt-wuppertal-verbs-5",
+      "translation": "Birçok bisikletli Nordbahntrasse'yi kullanır.",
+      "answerText": "kullanır"
+    },
+    {
+      "id": "stadt-wuppertal-table-1",
+      "translation": "tren",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-2",
+      "translation": "fil",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-3",
+      "translation": "merdiven",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-4",
+      "translation": "nehir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-5",
+      "translation": "bisiklet",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-table-6",
+      "translation": "istasyon",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-1",
+      "translation": "Asma tren Wupper'in üstünde asılıdır.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-2",
+      "translation": "Her gün birçok insan asma trenle gidiyor.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-3",
+      "translation": "Tuffi'nin hikâyesini biliyor musun?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-order-4",
+      "translation": "Wuppertal'de çok sayıda merdiven var.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-1",
+      "translation": "fil",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-2",
+      "translation": "merdiven",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-3",
+      "translation": "nehir",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-4",
+      "translation": "ray",
+      "answerText": null
+    },
+    {
+      "id": "stadt-wuppertal-spelling-5",
+      "translation": "istasyon",
+      "answerText": null
+    }
+  ]
+}

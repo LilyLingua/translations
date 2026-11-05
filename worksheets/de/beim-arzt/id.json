@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.510Z"
+  },
+  "title": "Di dokter",
+  "instructions": {
+    "beim-arzt-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "beim-arzt-gap": "Centang kata yang cocok.",
+    "beim-arzt-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "beim-arzt-table": "Lengkapi artikel dan bentuk jamak.",
+    "beim-arzt-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "beim-arzt-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "kartu asuransi kesehatan",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Kartu ini Anda tunjukkan di resepsionis. Di situ tertulis asuransi kesehatan Anda.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "janji temu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Jam tertentu ketika Anda datang ke praktik dokter.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "ruang tunggu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Di sini Anda duduk sampai dipanggil.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "resep",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Dengan ini Anda mendapat obat di apotek.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "surat keterangan sakit",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Surat ini diterima atasan Anda ketika Anda sakit.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "demam",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "Suhu tubuh terlalu tinggi, misalnya 39 derajat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "alergi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "Tubuh bereaksi kuat terhadap sesuatu, misalnya penisilin.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "panggilan darurat",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "Nomor 112 – saat kecelakaan atau keadaan darurat.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Selamat siang, saya ingin membuat janji temu.",
+      "answerText": "janji temu"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Apakah Anda membawa kartu asuransi kesehatan?",
+      "answerText": "kartu asuransi kesehatan"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Silakan duduk di ruang tunggu.",
+      "answerText": "ruang tunggu"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Saya sakit kepala dan demam.",
+      "answerText": "sakit kepala"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Perut saya sakit.",
+      "answerText": "Perut"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Saya alergi terhadap penisilin.",
+      "answerText": "penisilin"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Saya perlu surat keterangan sakit untuk atasan saya.",
+      "answerText": "surat keterangan sakit"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Minum tabletnya tiga kali sehari sesudah makan.",
+      "answerText": "makan"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Bisakah Anda mengatakannya lebih pelan?",
+      "answerText": "mengatakannya"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Saya sudah tiga hari demam.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Kepala saya sakit sekali.",
+      "answerText": "sakit"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Silakan tarik napas dalam-dalam – lalu buang lagi.",
+      "answerText": "tarik napas"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "Dokter memberi saya resep.",
+      "answerText": "memberi"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Sebentar lagi kami panggil Anda.",
+      "answerText": "panggil"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "dokter",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "tablet",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "resep",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "janji temu",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "praktik dokter",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "obat",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Saya ingin membuat janji temu.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Sudah tiga hari saya demam.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Bisakah Anda mengulanginya?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Di mana yang sakit?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "sakit kepala",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "surat keterangan sakit",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "kartu asuransi kesehatan",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alergi",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "tablet",
+      "answerText": null
+    }
+  ]
+}

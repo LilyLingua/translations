@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:58.991Z"
+  },
+  "title": "У кав'ярні",
+  "instructions": {
+    "pl-w-kawiarni-matching": "З'єднай кожне слово з його значенням.",
+    "pl-w-kawiarni-gap": "Вибери правильне слово.",
+    "pl-w-kawiarni-verbs": "Встав правильне дієслово.",
+    "pl-w-kawiarni-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-w-kawiarni-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-w-kawiarni-matching-1",
+      "translation": "меню",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-1:meaning",
+      "translation": "Список страв і напоїв із цінами.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2",
+      "translation": "офіціант",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-2:meaning",
+      "translation": "Людина, яка приносить їжу й напої.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3",
+      "translation": "рахунок",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-3:meaning",
+      "translation": "Папірець, де написано, скільки треба заплатити.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4",
+      "translation": "чайові",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-4:meaning",
+      "translation": "Додаткові гроші за добре обслуговування.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5",
+      "translation": "пиріг",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-5:meaning",
+      "translation": "Солодка страва, наприклад сирник.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6",
+      "translation": "з собою",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-matching-6:meaning",
+      "translation": "Коли їжу чи напій забирають із собою.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-gap-1",
+      "translation": "Чи можна подивитися меню?",
+      "answerText": "меню"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-2",
+      "translation": "Мені чашку кави, будь ласка.",
+      "answerText": "кави"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-3",
+      "translation": "Ми вже поїли. Рахунок, будь ласка.",
+      "answerText": "Рахунок"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-4",
+      "translation": "Тут чи з собою?",
+      "answerText": "з собою"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-5",
+      "translation": "Наш офіціант дуже привітний.",
+      "answerText": "офіціант"
+    },
+    {
+      "id": "pl-w-kawiarni-gap-6",
+      "translation": "Ми залишили чайові для офіціанта.",
+      "answerText": "чайові"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-1",
+      "translation": "Я візьму чай з лимоном.",
+      "answerText": "візьму"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-2",
+      "translation": "Що ви порадите?",
+      "answerText": "порадите"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-3",
+      "translation": "Ми хочемо заплатити.",
+      "answerText": "хочемо"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-4",
+      "translation": "Пиріг чудово пахне.",
+      "answerText": "пахне"
+    },
+    {
+      "id": "pl-w-kawiarni-verbs-5",
+      "translation": "Чи можу я заплатити карткою?",
+      "answerText": "заплатити"
+    },
+    {
+      "id": "pl-w-kawiarni-order-1",
+      "translation": "Склянку води, будь ласка.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-2",
+      "translation": "Шматок пирога, будь ласка.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-3",
+      "translation": "Скільки коштує кава?",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-order-4",
+      "translation": "Ми хотіли б заплатити.",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-1",
+      "translation": "кава",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-2",
+      "translation": "шоколад",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-3",
+      "translation": "бутерброд",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-4",
+      "translation": "сніданок",
+      "answerText": null
+    },
+    {
+      "id": "pl-w-kawiarni-spelling-5",
+      "translation": "чай",
+      "answerText": null
+    }
+  ]
+}

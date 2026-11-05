@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:20.688Z"
+  },
+  "title": "Винайняти квартиру",
+  "instructions": {
+    "wohnung-mieten-matching": "З'єднайте кожне слово з відповідним поясненням.",
+    "wohnung-mieten-gap": "Позначте правильну форму артикля.",
+    "wohnung-mieten-verbs": "Вставте правильне дієслово в правильній формі.",
+    "wohnung-mieten-table": "Допишіть артикль (der/die/das) і форму множини.",
+    "wohnung-mieten-order": "Розставте слова в правильному порядку й напишіть речення.",
+    "wohnung-mieten-spelling": "Яке слово написано правильно? Позначте."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "орендна плата",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Гроші, які ви щомісяця платите за квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "застава",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Гроші, які орендодавець отримує на початку як гарантію.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "комунальні витрати",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Витрати на воду, опалення та сміття.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "договір оренди",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Договір між орендарем і орендодавцем.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "огляд квартири",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Ви оглядаєте квартиру перед тим, як її винайняти.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "доглядач будинку",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Він дбає про будинок і ремонтує дрібниці.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "правила проживання в будинку",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Правила для всіх мешканців, наприклад години тиші.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Ми шукаємо квартиру з балконом.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Я розмовляю з орендодавцем.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Я віддаю орендодавиці заставу.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Велосипед я ставлю у двір.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Ключ лежить на столі.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Опалення на кухні зламане.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Я живу в цій квартирі вже рік.",
+      "answerText": "цій"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Коли я можу оглянути квартиру?",
+      "answerText": "оглянути"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Оренда коштує 850 євро з комунальними послугами.",
+      "answerText": "коштує"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Ми в'їжджаємо 1 грудня.",
+      "answerText": "в'їжджаємо"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Опалення зламалося. Чи не могли б ви його полагодити?",
+      "answerText": "полагодити"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Будь ласка, сортуйте сміття.",
+      "answerText": "сортуйте"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "кімната",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "кухня",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "ванна кімната",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "ключ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "опалення",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "Квартира ще вільна?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Скільки становлять комунальні витрати?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Коли я можу оглянути квартиру?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Я хотів би винайняти цю квартиру.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "застава",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "комунальні витрати",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "балкон",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "ключ",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "опалення",
+      "answerText": null
+    }
+  ]
+}

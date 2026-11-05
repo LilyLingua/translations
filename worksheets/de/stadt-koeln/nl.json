@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:37.845Z"
+  },
+  "title": "Keulen",
+  "instructions": {
+    "stadt-koeln-matching": "Verbind elk woord met de juiste uitleg.",
+    "stadt-koeln-gap": "Kruis het juiste woord aan.",
+    "stadt-koeln-verbs": "Vul het juiste werkwoord in de juiste vorm in.",
+    "stadt-koeln-table": "Vul het lidwoord en het meervoud in.",
+    "stadt-koeln-order": "Zet de woorden in de juiste volgorde en schrijf de zin.",
+    "stadt-koeln-spelling": "Welk woord is goed geschreven? Kruis het aan."
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"Kölle Alaaf!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "Roep tijdens het Keulse carnaval – ongeveer \"Leve Keulen!\".",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "de Dom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "Grote kerk met twee torens vlak naast het centraal station.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "het \"Kölsch\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "Licht bier uit Keulen; je drinkt het uit kleine, smalle glazen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "de \"Köbes\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "Ober in het bierhuis; hij brengt een nieuw Kölsch tot je het bierviltje op het glas legt.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "de \"Halve Hahn\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "Roggebroodje met kaas – geen halve kip!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "het \"Veedel\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "Keuls voor stadswijk; elke Keulenaar houdt van zijn Veedel.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "Rosenmontag",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "Hoogtepunt van het carnaval met een grote optocht door de stad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "Hij drinkt een Kölsch in het bierhuis.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "De Köbes brengt het volgende Kölsch.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "Op Rosenmontag zien we de optocht door de stad.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "Veel toeristen bezoeken de Dom van Keulen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "Ik bestel een Halve Hahn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "Veel mensen wandelen over de Hohenzollernbrücke.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "Met carnaval draag je een kostuum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "Met carnaval roepen de mensen \"Kölle Alaaf!\".",
+      "answerText": "roepen"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "De Köbes brengt ongevraagd een nieuw Kölsch.",
+      "answerText": "brengt"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "De Dom is meer dan 150 meter hoog.",
+      "answerText": "is"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "De Rijn stroomt dwars door Keulen.",
+      "answerText": "stroomt"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "Op 11.11 om 11:11 uur begint het carnaval.",
+      "answerText": "begint"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "de dom",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "de brug",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "het glas",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "de optocht",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "het kostuum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "de kroeg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "De Dom van Keulen staat vlak bij het station.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "Op Rosenmontag viert heel Keulen carnaval.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "Wil je nog een Kölsch?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "In Keulen drink je Kölsch uit kleine glazen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "het carnaval",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "het kostuum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "het station",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "de kroeg",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "het glas",
+      "answerText": null
+    }
+  ]
+}

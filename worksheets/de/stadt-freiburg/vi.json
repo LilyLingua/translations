@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:20.903Z"
+  },
+  "title": "Freiburg im Breisgau",
+  "instructions": {
+    "stadt-freiburg-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-freiburg-gap": "Đánh dấu từ đúng.",
+    "stadt-freiburg-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-freiburg-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-freiburg-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-freiburg-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-freiburg-matching-1",
+      "translation": "\"Bächle\" (rãnh nước nhỏ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-1:meaning",
+      "translation": "Những rãnh nước nhỏ trên các con phố của phố cổ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2",
+      "translation": "nhà thờ lớn Münster",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-2:meaning",
+      "translation": "Nhà thờ lớn bằng sa thạch đỏ với một tòa tháp cao.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3",
+      "translation": "\"Lange Rote\" (xúc xích đỏ dài)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-3:meaning",
+      "translation": "Xúc xích nướng dài màu đỏ ở chợ cạnh nhà thờ Münster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4",
+      "translation": "\"Bobbele\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-4:meaning",
+      "translation": "Tên gọi những người sinh ra ở Freiburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5",
+      "translation": "núi Schauinsland",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-5:meaning",
+      "translation": "Ngọn núi của Freiburg; có cáp treo chạy lên đỉnh.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6",
+      "translation": "Rừng Đen (Schwarzwald)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-6:meaning",
+      "translation": "Vùng núi rừng lớn ngay sát thành phố.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7",
+      "translation": "Vauban",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-matching-7:meaning",
+      "translation": "Khu phố sinh thái với những ngôi nhà tiết kiệm năng lượng và ít ô tô.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-1",
+      "translation": "Ai bước vào Bächle thì sẽ cưới một người Freiburg.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-2",
+      "translation": "Ở chợ cạnh nhà thờ Münster chúng tôi ăn một cây Lange Rote.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-3",
+      "translation": "Chúng tôi đi cáp treo lên núi Schauinsland.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-4",
+      "translation": "Cuối tuần chúng tôi đi bộ đường dài qua Rừng Đen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-5",
+      "translation": "Nhiều du khách tham quan nhà thờ Münster.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-6",
+      "translation": "Ở Vauban nhiều người đi xe đạp.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-gap-7",
+      "translation": "Freiburg là một thành phố rất nhiều nắng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-verbs-1",
+      "translation": "Nước chảy qua các Bächle.",
+      "answerText": "chảy"
+    },
+    {
+      "id": "stadt-freiburg-verbs-2",
+      "translation": "Cáp treo chạy lên núi Schauinsland.",
+      "answerText": "chạy"
+    },
+    {
+      "id": "stadt-freiburg-verbs-3",
+      "translation": "Ở Freiburg mặt trời rất thường chiếu sáng.",
+      "answerText": "chiếu"
+    },
+    {
+      "id": "stadt-freiburg-verbs-4",
+      "translation": "Ai bước vào Bächle thì sẽ cưới một người Freiburg.",
+      "answerText": "cưới"
+    },
+    {
+      "id": "stadt-freiburg-verbs-5",
+      "translation": "Ở quảng trường Münsterplatz gần như ngày nào cũng có chợ.",
+      "answerText": "có"
+    },
+    {
+      "id": "stadt-freiburg-table-1",
+      "translation": "con suối",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-2",
+      "translation": "khu rừng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-3",
+      "translation": "ngọn núi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-4",
+      "translation": "xúc xích",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-5",
+      "translation": "khu phố",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-table-6",
+      "translation": "cáp treo",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-1",
+      "translation": "Ở Freiburg trời thường có nắng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-2",
+      "translation": "Bạn đã bước vào Bächle chưa?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-3",
+      "translation": "Nhà thờ Münster có một tòa tháp cao.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-order-4",
+      "translation": "Cuối tuần chúng tôi đi bộ đường dài trong Rừng Đen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-1",
+      "translation": "xúc xích",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-2",
+      "translation": "khu rừng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-3",
+      "translation": "mặt trời",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-4",
+      "translation": "nhà thờ lớn (Münster)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-freiburg-spelling-5",
+      "translation": "cáp treo",
+      "answerText": null
+    }
+  ]
+}

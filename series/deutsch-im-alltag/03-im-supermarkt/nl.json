@@ -1,0 +1,817 @@
+{
+  "_meta": {
+    "language": "nl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "OpenAI gpt-4.1"
+      ]
+    },
+    "review": "unreviewed"
+  },
+  "keyPhrases": [
+    {
+      "scene": "Der Einkaufswagen",
+      "de": "Können Sie mir fünf Euro wechseln?",
+      "text": "Kunt u vijf euro voor mij wisselen?"
+    },
+    {
+      "scene": "Wo finde ich …?",
+      "de": "Entschuldigung, wo finde ich Mehl?",
+      "text": "Pardon, waar vind ik bloem?"
+    },
+    {
+      "scene": "An der Käsetheke",
+      "de": "Ich hätte gern 200 Gramm Gouda, bitte.",
+      "text": "Ik had graag 200 gram Goudse kaas, alstublieft."
+    },
+    {
+      "scene": "Ein bisschen mehr?",
+      "de": "Ja, das ist in Ordnung.",
+      "text": "Ja, dat is goed."
+    },
+    {
+      "scene": "Die Durchsage",
+      "de": "Die Bananen sind im Angebot.",
+      "text": "De bananen zijn in de aanbieding."
+    },
+    {
+      "scene": "Leere Flaschen (Pfand)",
+      "de": "Wo ist der Pfandautomat?",
+      "text": "Waar is de statiegeldautomaat?"
+    },
+    {
+      "scene": "Punkte sammeln?",
+      "de": "Nein, danke.",
+      "text": "Nee, dank u."
+    },
+    {
+      "scene": "Die Tüte",
+      "de": "Ich habe eine Tasche dabei.",
+      "text": "Ik heb een tas bij me."
+    },
+    {
+      "scene": "Bar oder mit Karte?",
+      "de": "Mit Karte, bitte.",
+      "text": "Met de kaart, alstublieft."
+    },
+    {
+      "scene": "Der Kassenbon",
+      "de": "Danke, Ihnen auch!",
+      "text": "Dank u, u ook!"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "end": 5.17,
+      "text": "Ik heb zo'n honger! Maar mijn koelkast is leeg."
+    },
+    {
+      "start": 5.27,
+      "end": 7.71,
+      "text": "Dan snel naar de supermarkt!"
+    },
+    {
+      "start": 7.81,
+      "end": 10.57,
+      "text": "De supermarkt? Helemaal in het Duits?"
+    },
+    {
+      "start": 10.67,
+      "end": 16.98,
+      "text": "Natuurlijk! Vandaag doe je een hele boodschappenronde – van het winkelwagentje tot de kassabon."
+    },
+    {
+      "start": 17.03,
+      "end": 21.29,
+      "text": "En in elke situatie vragen we je: wat zeg je?"
+    },
+    {
+      "start": 21.39,
+      "end": 23.76,
+      "text": "En je hebt maar vijf seconden!"
+    },
+    {
+      "start": 27.06,
+      "end": 34.36,
+      "text": "Je wilt een winkelwagentje. Maar daarvoor heb je een munt nodig – en je hebt alleen een briefje van vijf euro."
+    },
+    {
+      "start": 34.41,
+      "end": 36.95,
+      "text": "Naast je staat een oudere meneer."
+    },
+    {
+      "start": 37.05,
+      "end": 38.52,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 38.62,
+      "end": 42.74,
+      "text": "A: Pardon, kunt u mij vijf euro cadeau geven?"
+    },
+    {
+      "start": 42.79,
+      "end": 47.01,
+      "text": "B: Pardon, kunt u vijf euro voor mij wisselen?"
+    },
+    {
+      "start": 47.06,
+      "end": 50.79,
+      "text": "C: Pardon, ik wil uw wagentje."
+    },
+    {
+      "start": 56.49,
+      "end": 62.73,
+      "text": "B! „Wechseln“ betekent: je geeft een briefje en krijgt munten terug. „Schenken“"
+    },
+    {
+      "start": 62.78,
+      "end": 68.94,
+      "text": "betekent: je krijgt het gratis – dat zou heel aardig zijn, maar een beetje brutaal."
+    },
+    {
+      "start": 69.19,
+      "end": 74.35,
+      "text": "Momentje … ja: twee, vier, vijf euro. Alstublieft!"
+    },
+    {
+      "start": 74.45,
+      "end": 75.84,
+      "text": "Hartelijk bedankt!"
+    },
+    {
+      "start": 75.94,
+      "end": 77.35,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 77.4,
+      "end": 80.45,
+      "text": "Kunt u vijf euro voor mij wisselen?"
+    },
+    {
+      "start": 84.81,
+      "end": 91.49,
+      "text": "Je hebt bloem nodig. Maar waar is de bloem? Een medewerker vult net een schap bij."
+    },
+    {
+      "start": 91.59,
+      "end": 93.14,
+      "text": "Wat vraag je?"
+    },
+    {
+      "start": 93.24,
+      "end": 96.89,
+      "text": "A: Pardon, waar vind ik bloem?"
+    },
+    {
+      "start": 96.94,
+      "end": 99.38,
+      "text": "B: „Wo ist der Mehl?“ (verkeerd lidwoord)"
+    },
+    {
+      "start": 99.43,
+      "end": 102.19,
+      "text": "C: Heeft u bloem gevonden?"
+    },
+    {
+      "start": 107.39,
+      "end": 109.83,
+      "text": "B! „Wo ist der Mehl?“"
+    },
+    {
+      "start": 110.48,
+      "end": 117.53,
+      "text": "Bijna, Leo. Het is „das Mehl“. Maar A is nog beter: „Entschuldigung, wo finde ich …?“"
+    },
+    {
+      "start": 117.58,
+      "end": 121.66,
+      "text": "(Pardon, waar vind ik …?) – zo vraag je beleefd naar alles in de supermarkt."
+    },
+    {
+      "start": 121.91,
+      "end": 125.55,
+      "text": "Bloem ligt in gang drie, helemaal onderaan in het schap."
+    },
+    {
+      "start": 125.65,
+      "end": 126.97,
+      "text": "Dank u wel!"
+    },
+    {
+      "start": 127.07,
+      "end": 128.48,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 128.53,
+      "end": 132.09,
+      "text": "Pardon, waar vind ik bloem?"
+    },
+    {
+      "start": 136.56,
+      "end": 139.6,
+      "text": "Gang drie, helemaal onderaan."
+    },
+    {
+      "start": 143.97,
+      "end": 147.62,
+      "text": "Nu ga je naar de versafdeling. Je wilt Goudse kaas."
+    },
+    {
+      "start": 147.72,
+      "end": 150.08,
+      "text": "Goedendag! Wat mag het zijn?"
+    },
+    {
+      "start": 150.18,
+      "end": 151.4,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 151.45,
+      "end": 154.86,
+      "text": "A: Ik ben 200 gram Goudse kaas."
+    },
+    {
+      "start": 154.91,
+      "end": 157.85,
+      "text": "B: Ja, het mag zijn."
+    },
+    {
+      "start": 157.9,
+      "end": 162.12,
+      "text": "C: Ik had graag 200 gram Goudse kaas, alstublieft."
+    },
+    {
+      "start": 167.82,
+      "end": 174.01,
+      "text": "C! „Was darf's sein?“ betekent gewoon: wat wilt u? En met „Ich hätte gern …“"
+    },
+    {
+      "start": 174.06,
+      "end": 179.31,
+      "text": "(Ik had graag …) bestel je altijd beleefd – aan de toonbank, bij de bakker, in het café."
+    },
+    {
+      "start": 179.56,
+      "end": 180.96,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 181.01,
+      "end": 184.79,
+      "text": "Ik had graag 200 gram Goudse kaas, alstublieft."
+    },
+    {
+      "start": 190,
+      "end": 195.81,
+      "text": "Mevrouw Haas snijdt de kaas. Op de weegschaal staat: 230 gram."
+    },
+    {
+      "start": 195.91,
+      "end": 198.35,
+      "text": "Mag het een beetje meer zijn?"
+    },
+    {
+      "start": 198.45,
+      "end": 199.68,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 199.72,
+      "end": 202.74,
+      "text": "A: Nee, ik mag niet."
+    },
+    {
+      "start": 202.79,
+      "end": 205.97,
+      "text": "B: Ja, dat is goed."
+    },
+    {
+      "start": 206.02,
+      "end": 209.67,
+      "text": "C: Ja, ik ben een beetje meer."
+    },
+    {
+      "start": 215.37,
+      "end": 223.63,
+      "text": "B! Deze zin hoor je aan elke toonbank in Duitsland. Hij betekent: het is iets meer dan besteld – is dat oké?"
+    },
+    {
+      "start": 223.68,
+      "end": 228.05,
+      "text": "Zo niet, zeg dan gewoon: „Nein, bitte genau 200 Gramm.“ (Nee, precies 200 gram, alstublieft.)"
+    },
+    {
+      "start": 228.3,
+      "end": 229.86,
+      "text": "Verder nog iets?"
+    },
+    {
+      "start": 229.96,
+      "end": 232.56,
+      "text": "Nee, dank u. Dat was het."
+    },
+    {
+      "start": 232.66,
+      "end": 234.06,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 234.11,
+      "end": 236.77,
+      "text": "Ja, dat is goed."
+    },
+    {
+      "start": 240.18,
+      "end": 243.43,
+      "text": "Nee, dank u. Dat was het."
+    },
+    {
+      "start": 248.04,
+      "end": 253.2,
+      "text": "Je loopt verder. Plotseling hoor je een omroepbericht. Luister goed!"
+    },
+    {
+      "start": 253.3,
+      "end": 260.34,
+      "text": "Beste klanten! Vandaag in de aanbieding: bananen, de kilo voor maar 99 cent."
+    },
+    {
+      "start": 260.44,
+      "end": 263.12,
+      "text": "Hoeveel kost een kilo bananen?"
+    },
+    {
+      "start": 263.22,
+      "end": 265.98,
+      "text": "A: € 9,90"
+    },
+    {
+      "start": 266.03,
+      "end": 269.05,
+      "text": "B: € 1,99"
+    },
+    {
+      "start": 269.1,
+      "end": 271.78,
+      "text": "C: 99 cent"
+    },
+    {
+      "start": 277.48,
+      "end": 283.92,
+      "text": "C! 99 cent. „Im Angebot“ betekent: vandaag goedkoper dan normaal."
+    },
+    {
+      "start": 284.17,
+      "end": 285.57,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 285.62,
+      "end": 288.49,
+      "text": "De bananen zijn in de aanbieding."
+    },
+    {
+      "start": 292.64,
+      "end": 298.22,
+      "text": "Je hebt ook lege flessen bij je – met dit teken: statiegeld („Pfand“). Waar moeten ze naartoe?"
+    },
+    {
+      "start": 298.32,
+      "end": 302.54,
+      "text": "A: Naar de statiegeldautomaat. Je krijgt geld terug."
+    },
+    {
+      "start": 302.59,
+      "end": 305.77,
+      "text": "B: In de prullenbak bij de ingang."
+    },
+    {
+      "start": 305.82,
+      "end": 309.15,
+      "text": "C: Naar de kassa – als cadeau."
+    },
+    {
+      "start": 314.35,
+      "end": 316.56,
+      "text": "B, weg ermee in de prullenbak!"
+    },
+    {
+      "start": 317.21,
+      "end": 323.45,
+      "text": "Nee, Leo – dan gooi je geld weg! A! Voor veel flessen krijg je 25 cent terug."
+    },
+    {
+      "start": 323.5,
+      "end": 328.22,
+      "text": "De automaat geeft je een bonnetje. Dat geef je af bij de kassa."
+    },
+    {
+      "start": 328.47,
+      "end": 329.88,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 329.93,
+      "end": 332.58,
+      "text": "Waar is de statiegeldautomaat?"
+    },
+    {
+      "start": 336.49,
+      "end": 340.14,
+      "text": "Nu sta je bij de kassa. Je legt alles op de band."
+    },
+    {
+      "start": 340.24,
+      "end": 342.53,
+      "text": "Hallo! Spaart u punten?"
+    },
+    {
+      "start": 342.63,
+      "end": 343.85,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 343.9,
+      "end": 347.23,
+      "text": "A: Ja, ik spaar postzegels."
+    },
+    {
+      "start": 347.28,
+      "end": 350.04,
+      "text": "B: Ik spaar uw punten."
+    },
+    {
+      "start": 350.09,
+      "end": 352.77,
+      "text": "C: Nee, dank u."
+    },
+    {
+      "start": 357.97,
+      "end": 361.69,
+      "text": "A! Ik spaar postzegels. Al sinds de school."
+    },
+    {
+      "start": 362.34,
+      "end": 370.69,
+      "text": "Leuk, Leo – maar dat wil ze niet weten. C! Veel supermarkten hebben een kaart of app met punten."
+    },
+    {
+      "start": 370.74,
+      "end": 374.79,
+      "text": "Als je er geen hebt, zeg dan gewoon: „Nein, danke.“"
+    },
+    {
+      "start": 375.04,
+      "end": 376.45,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 376.5,
+      "end": 378.63,
+      "text": "Nee, dank u."
+    },
+    {
+      "start": 381.44,
+      "end": 384.2,
+      "text": "Ja, hier is mijn kaart."
+    },
+    {
+      "start": 388.23,
+      "end": 390.13,
+      "text": "Heeft u een tasje nodig?"
+    },
+    {
+      "start": 390.23,
+      "end": 391.45,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 391.5,
+      "end": 394.75,
+      "text": "A: Ja, een tasje melk, alstublieft."
+    },
+    {
+      "start": 394.8,
+      "end": 398.76,
+      "text": "B: Nee, dank u. Ik heb een tas bij me."
+    },
+    {
+      "start": 398.81,
+      "end": 402.22,
+      "text": "C: Nee, ik ben geen tasje."
+    },
+    {
+      "start": 407.92,
+      "end": 412.38,
+      "text": "B! Goed om te weten: in Duitsland kosten tasjes bijna altijd geld."
+    },
+    {
+      "start": 412.43,
+      "end": 415.8,
+      "text": "Veel mensen nemen hun eigen tas mee."
+    },
+    {
+      "start": 416.05,
+      "end": 417.46,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 417.51,
+      "end": 419.95,
+      "text": "Ik heb een tas bij me."
+    },
+    {
+      "start": 423.62,
+      "end": 429.02,
+      "text": "Dat is dan € 23,47. Betaalt u contant of met de kaart?"
+    },
+    {
+      "start": 429.12,
+      "end": 430.34,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 430.39,
+      "end": 432.76,
+      "text": "A: Met de kaart, alstublieft."
+    },
+    {
+      "start": 432.81,
+      "end": 435.25,
+      "text": "B: Ik betaal met „Bar“."
+    },
+    {
+      "start": 435.3,
+      "end": 438.71,
+      "text": "C: Ja, contant of kaart."
+    },
+    {
+      "start": 443.91,
+      "end": 445.89,
+      "text": "C! Ja!"
+    },
+    {
+      "start": 446.54,
+      "end": 452.38,
+      "text": "Leo … dat is geen ja-nee-vraag! A! „Bar“ betekent: met briefjes en munten. En als je het niet zeker weet, vraag dan: „Kann ich mit Karte zahlen?“"
+    },
+    {
+      "start": 452.43,
+      "end": 457.79,
+      "text": "(Kan ik met de kaart betalen?)"
+    },
+    {
+      "start": 458.04,
+      "end": 459.44,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 459.49,
+      "end": 461.41,
+      "text": "Met de kaart, alstublieft."
+    },
+    {
+      "start": 463.99,
+      "end": 466.53,
+      "text": "Kan ik met de kaart betalen?"
+    },
+    {
+      "start": 470.33,
+      "end": 472.22,
+      "text": "Wilt u de kassabon?"
+    },
+    {
+      "start": 472.32,
+      "end": 473.54,
+      "text": "Wat zeg je?"
+    },
+    {
+      "start": 473.59,
+      "end": 477.16,
+      "text": "A: Nee, ik hou niet van snoepjes („Bonbons“)."
+    },
+    {
+      "start": 477.21,
+      "end": 480.78,
+      "text": "B: Nee, dank u. Die heb ik niet nodig."
+    },
+    {
+      "start": 480.83,
+      "end": 483.85,
+      "text": "C: Ja, ik wil de kassa."
+    },
+    {
+      "start": 489.05,
+      "end": 492.69,
+      "text": "A! Ik hou niet van snoepjes. Te veel suiker."
+    },
+    {
+      "start": 493.34,
+      "end": 501.69,
+      "text": "Leo! Een „Bon“ is geen „Bonbon“. De „Kassenbon“ is het briefje – daarop staat wat je gekocht hebt."
+    },
+    {
+      "start": 501.74,
+      "end": 504.9,
+      "text": "B is goed. Of: „Ja, bitte.“ (Ja, graag.)"
+    },
+    {
+      "start": 505.15,
+      "end": 506.71,
+      "text": "Nog een fijne dag!"
+    },
+    {
+      "start": 506.81,
+      "end": 508.71,
+      "text": "Dank u, u ook!"
+    },
+    {
+      "start": 508.81,
+      "end": 510.21,
+      "text": "Zeg het na!"
+    },
+    {
+      "start": 510.26,
+      "end": 512.6,
+      "text": "Dank u, u ook!"
+    },
+    {
+      "start": 516.16,
+      "end": 519.31,
+      "text": "Drie tips voor de supermarkt in Duitsland."
+    },
+    {
+      "start": 519.36,
+      "end": 525.81,
+      "text": "Ten eerste: op zondag zijn bijna alle supermarkten dicht – dus doe je boodschappen op zaterdag!"
+    },
+    {
+      "start": 526.06,
+      "end": 529.75,
+      "text": "Ten tweede: bij de kassa leg je alles zelf op de band."
+    },
+    {
+      "start": 529.8,
+      "end": 533.86,
+      "text": "Het scheidingsbalkje laat zien: vanaf hier komt de volgende klant."
+    },
+    {
+      "start": 534.11,
+      "end": 536.82,
+      "text": "En ten derde: bij de kassa gaat het snel."
+    },
+    {
+      "start": 536.87,
+      "end": 540.71,
+      "text": "Pak rustig in na de kassa – dat is heel normaal."
+    },
+    {
+      "start": 541.06,
+      "end": 546.45,
+      "text": "Leo schrijft een boodschappenlijstje. Maar er klopt iets niet …"
+    },
+    {
+      "start": 546.7,
+      "end": 548.6,
+      "text": "Een fles yoghurt."
+    },
+    {
+      "start": 548.8,
+      "end": 551.01,
+      "text": "Een bekertje yoghurt!"
+    },
+    {
+      "start": 551.66,
+      "end": 553.63,
+      "text": "Een blik brood."
+    },
+    {
+      "start": 553.83,
+      "end": 557.01,
+      "text": "Een brood – of een pak toastbrood!"
+    },
+    {
+      "start": 557.66,
+      "end": 559.55,
+      "text": "Een bekertje pasta."
+    },
+    {
+      "start": 559.75,
+      "end": 561.96,
+      "text": "Een pak pasta!"
+    },
+    {
+      "start": 562.61,
+      "end": 564.43,
+      "text": "Een pak water."
+    },
+    {
+      "start": 564.63,
+      "end": 566.68,
+      "text": "Een fles water!"
+    },
+    {
+      "start": 567.33,
+      "end": 569.15,
+      "text": "Een zakje tomaten."
+    },
+    {
+      "start": 569.35,
+      "end": 571.64,
+      "text": "Een blik tomaten!"
+    },
+    {
+      "start": 572.29,
+      "end": 574.42,
+      "text": "„Wo finde ich der Käse?“"
+    },
+    {
+      "start": 574.57,
+      "end": 577.82,
+      "text": "„Den Käse“! „Wo finde ich den Käse?“ (Waar vind ik de kaas?)"
+    },
+    {
+      "start": 578.27,
+      "end": 586.65,
+      "text": "En het werkwoord gaat naar het einde: niet „Ich möchte bezahlen mit Karte“, maar: „Ich möchte mit Karte bezahlen.“ (Ik wil graag met de kaart betalen.)"
+    },
+    {
+      "start": 587.1,
+      "end": 592.91,
+      "text": "En bij de kassa: de „Bon“ is het bonnetje. Een „Bonbon“ is een snoepje."
+    },
+    {
+      "start": 593.36,
+      "end": 598.94,
+      "text": "En nu alles nog een keer. De tien belangrijkste zinnen. Zeg het na!"
+    },
+    {
+      "start": 598.99,
+      "end": 602.14,
+      "text": "Kunt u vijf euro voor mij wisselen?"
+    },
+    {
+      "start": 606.12,
+      "end": 609.69,
+      "text": "Pardon, waar vind ik bloem?"
+    },
+    {
+      "start": 614.16,
+      "end": 617.93,
+      "text": "Ik had graag 200 gram Goudse kaas, alstublieft."
+    },
+    {
+      "start": 622.64,
+      "end": 625.29,
+      "text": "Ja, dat is goed."
+    },
+    {
+      "start": 628.71,
+      "end": 631.96,
+      "text": "Nee, dank u. Dat was het."
+    },
+    {
+      "start": 636.07,
+      "end": 638.82,
+      "text": "De bananen zijn in de aanbieding."
+    },
+    {
+      "start": 642.36,
+      "end": 645.01,
+      "text": "Waar is de statiegeldautomaat?"
+    },
+    {
+      "start": 648.42,
+      "end": 650.87,
+      "text": "Ik heb een tas bij me."
+    },
+    {
+      "start": 654.04,
+      "end": 656.49,
+      "text": "Kan ik met de kaart betalen?"
+    },
+    {
+      "start": 659.66,
+      "end": 662,
+      "text": "Dank u, u ook!"
+    },
+    {
+      "start": 665.05,
+      "end": 669.27,
+      "text": "Wat koop je het liefst in de supermarkt? Schrijf het in de reacties!"
+    },
+    {
+      "start": 669.37,
+      "end": 672.39,
+      "text": "Doei en tot snel bij LilyLingua!"
+    }
+  ]
+}

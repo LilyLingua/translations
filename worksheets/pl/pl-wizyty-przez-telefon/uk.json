@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "uk",
+    "source": "pl",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:58.847Z"
+  },
+  "title": "Запис телефоном",
+  "instructions": {
+    "pl-wizyty-przez-telefon-matching": "З'єднай кожне слово з його значенням.",
+    "pl-wizyty-przez-telefon-gap": "Вибери правильне слово.",
+    "pl-wizyty-przez-telefon-verbs": "Встав правильне дієслово.",
+    "pl-wizyty-przez-telefon-order": "Розстав слова в правильному порядку й запиши речення.",
+    "pl-wizyty-przez-telefon-spelling": "Яке слово написано правильно? Познач його."
+  },
+  "items": [
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1",
+      "translation": "дзвонити",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-1:meaning",
+      "translation": "Розмовляти з кимось по телефону.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2",
+      "translation": "скасувати",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-2:meaning",
+      "translation": "Сказати, що не прийдеш.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3",
+      "translation": "перенести",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-3:meaning",
+      "translation": "Змінити час візиту.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4",
+      "translation": "голосове повідомлення",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-4:meaning",
+      "translation": "Повідомлення, яке залишають, коли ніхто не відповідає.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5",
+      "translation": "внутрішній номер",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-5:meaning",
+      "translation": "Короткий номер телефону у фірмі.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6",
+      "translation": "вільний час",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-matching-6:meaning",
+      "translation": "Час, на який ще можна записатися.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-1",
+      "translation": "Я хочу скасувати візит у п'ятницю.",
+      "answerText": "скасувати"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-2",
+      "translation": "Чи можемо ми перенести його на наступний тиждень?",
+      "answerText": "перенести"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-3",
+      "translation": "Чи є вільний час у понеділок?",
+      "answerText": "вільний"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-4",
+      "translation": "Будь ласка, залиште голосове повідомлення.",
+      "answerText": "голосове"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-5",
+      "translation": "Чи можете ви передзвонити мені пізніше?",
+      "answerText": "передзвонити"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-gap-6",
+      "translation": "Будь ласка, наберіть внутрішній номер 245.",
+      "answerText": "внутрішній"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-1",
+      "translation": "Я дзвоню щодо візиту.",
+      "answerText": "дзвоню"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-2",
+      "translation": "Чи можу я записатися на візит?",
+      "answerText": "записатися"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-3",
+      "translation": "Чи можете ви це повторити?",
+      "answerText": "повторити"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-4",
+      "translation": "Я передзвоню за десять хвилин.",
+      "answerText": "передзвоню"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-verbs-5",
+      "translation": "Офіс працює до сімнадцятої.",
+      "answerText": "працює"
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-1",
+      "translation": "Чи можу я поговорити з лікарем Новаком?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-2",
+      "translation": "Я хочу скасувати візит.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-3",
+      "translation": "Вам підходить вівторок о десятій?",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-order-4",
+      "translation": "Я передзвоню завтра вранці.",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-1",
+      "translation": "телефон",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-2",
+      "translation": "повідомлення",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-3",
+      "translation": "середа",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-4",
+      "translation": "скасувати",
+      "answerText": null
+    },
+    {
+      "id": "pl-wizyty-przez-telefon-spelling-5",
+      "translation": "термін, дата",
+      "answerText": null
+    }
+  ]
+}

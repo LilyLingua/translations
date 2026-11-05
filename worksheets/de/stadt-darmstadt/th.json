@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:56.091Z"
+  },
+  "title": "ดาร์มชตัดท์",
+  "instructions": {
+    "stadt-darmstadt-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-darmstadt-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-darmstadt-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-darmstadt-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-darmstadt-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-darmstadt-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-darmstadt-matching-1",
+      "translation": "\"ไฮเนอร์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-1:meaning",
+      "translation": "ชื่อเรียกคนที่เกิดในดาร์มชตัดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2",
+      "translation": "\"ลังเงอ ลุย\" (หลุยส์ตัวสูง)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-2:meaning",
+      "translation": "เสาสูงที่มีอนุสาวรีย์อยู่บนลานลุยเซินพลัทซ์ใจกลางเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3",
+      "translation": "หอคอยแห่งการแต่งงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-3:meaning",
+      "translation": "หอคอยบนเนินมาทิลเดินเฮอเออ สร้างขึ้นเพื่องานแต่งงานของแกรนด์ดยุก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4",
+      "translation": "งานไฮเนอร์เฟสต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-4:meaning",
+      "translation": "งานเทศกาลใหญ่ของเมืองในฤดูร้อน มีเครื่องเล่นและดนตรี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5",
+      "translation": "เมืองแห่งวิทยาศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-5:meaning",
+      "translation": "ตำแหน่งทางการของดาร์มชตัดท์ – เพราะมีมหาวิทยาลัยและสถาบันวิจัยมากมาย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6",
+      "translation": "\"ไอ กูเดอ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-6:meaning",
+      "translation": "คำทักทายของแคว้นเฮสเซิน คล้าย \"หวัดดี สบายดีไหม\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7",
+      "translation": "ทะเลสาบโวก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-matching-7:meaning",
+      "translation": "ทะเลสาบกลางเมือง ฤดูร้อนว่ายน้ำได้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-1",
+      "translation": "ฉันอาศัยอยู่ในเมืองแห่งวิทยาศาสตร์ ดาร์มชตัดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-2",
+      "translation": "ลังเงอ ลุย ตั้งอยู่บนลุยเซินพลัทซ์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-3",
+      "translation": "ฤดูร้อนพวกเราไปงานไฮเนอร์เฟสต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-4",
+      "translation": "หอคอยแห่งการแต่งงานตั้งอยู่บนเนินมาทิลเดินเฮอเออ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-5",
+      "translation": "ฤดูร้อนพวกเราว่ายน้ำในทะเลสาบโวก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-6",
+      "translation": "วัยรุ่นหลายคนเรียนที่มหาวิทยาลัยเทคนิค",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-gap-7",
+      "translation": "ธาตุดาร์มสตัดเทียมถูกค้นพบที่ดาร์มชตัดท์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-verbs-1",
+      "translation": "ตั้งแต่ปี 2021 เนินมาทิลเดินเฮอเออเป็นส่วนหนึ่งของมรดกโลกยูเนสโก",
+      "answerText": "เป็นส่วนหนึ่ง"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-2",
+      "translation": "วัยรุ่นหลายคนเรียนมหาวิทยาลัยในดาร์มชตัดท์",
+      "answerText": "เรียน"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-3",
+      "translation": "ในฤดูร้อนมีการจัดงานไฮเนอร์เฟสต์",
+      "answerText": "จัด"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-4",
+      "translation": "ที่หลุมเมสเซิล นักวิจัยค้นพบฟอสซิลโบราณ",
+      "answerText": "ค้นพบ"
+    },
+    {
+      "id": "stadt-darmstadt-verbs-5",
+      "translation": "เราเจอกันที่ลังเงอ ลุยนะ",
+      "answerText": "เจอกัน"
+    },
+    {
+      "id": "stadt-darmstadt-table-1",
+      "translation": "หอคอย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-2",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-3",
+      "translation": "งานเทศกาล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-4",
+      "translation": "ทะเลสาบ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-5",
+      "translation": "เสา",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-table-6",
+      "translation": "สถาบัน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-1",
+      "translation": "หอคอยแห่งการแต่งงานตั้งอยู่บนเนินมาทิลเดินเฮอเออ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-2",
+      "translation": "ฤดูร้อนชาวไฮเนอร์ฉลองงานไฮเนอร์เฟสต์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-3",
+      "translation": "ดาร์มชตัดท์เป็นเมืองแห่งวิทยาศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-order-4",
+      "translation": "เราไปเจอกันที่ลังเงอ ลุยไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-1",
+      "translation": "วิทยาศาสตร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-2",
+      "translation": "งานแต่งงาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-3",
+      "translation": "มหาวิทยาลัย",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-4",
+      "translation": "อนุสาวรีย์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-darmstadt-spelling-5",
+      "translation": "เสา",
+      "answerText": null
+    }
+  ]
+}

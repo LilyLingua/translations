@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:54.015Z"
+  },
+  "title": "W kawiarni",
+  "instructions": {
+    "uk-u-kavyarni-matching": "Połącz każde słowo z jego znaczeniem.",
+    "uk-u-kavyarni-gap": "Wybierz właściwe słowo.",
+    "uk-u-kavyarni-verbs": "Wstaw właściwy czasownik.",
+    "uk-u-kavyarni-order": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie.",
+    "uk-u-kavyarni-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "uk-u-kavyarni-matching-1",
+      "translation": "menu",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-1:meaning",
+      "translation": "Lista dań i napojów z cenami.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2",
+      "translation": "kelner",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-2:meaning",
+      "translation": "Osoba, która przynosi jedzenie i napoje.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3",
+      "translation": "rachunek",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-3:meaning",
+      "translation": "Kartka, na której jest napisane, ile trzeba zapłacić.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4",
+      "translation": "napiwek",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-4:meaning",
+      "translation": "Dodatkowe pieniądze za dobrą obsługę.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5",
+      "translation": "tort",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-5:meaning",
+      "translation": "Słodkie danie, na przykład czekoladowe.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6",
+      "translation": "na wynos",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-matching-6:meaning",
+      "translation": "Kiedy jedzenie albo napój zabiera się ze sobą i nie je w kawiarni.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-gap-1",
+      "translation": "Czy mogę prosić menu?",
+      "answerText": "menu"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-2",
+      "translation": "Poproszę filiżankę kawy.",
+      "answerText": "kawy"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-3",
+      "translation": "Już zjedliśmy. Poproszę rachunek.",
+      "answerText": "rachunek"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-4",
+      "translation": "Na miejscu czy na wynos?",
+      "answerText": "na wynos"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-5",
+      "translation": "Nasz kelner jest bardzo miły.",
+      "answerText": "kelner"
+    },
+    {
+      "id": "uk-u-kavyarni-gap-6",
+      "translation": "Zostawiliśmy napiwek na stole.",
+      "answerText": "napiwek"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-1",
+      "translation": "Wezmę herbatę z cytryną.",
+      "answerText": "Wezmę"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-2",
+      "translation": "Co Pan/Pani poleca?",
+      "answerText": "poleca"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-3",
+      "translation": "Chcemy zapłacić.",
+      "answerText": "Chcemy"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-4",
+      "translation": "Tort bardzo ładnie pachnie.",
+      "answerText": "pachnie"
+    },
+    {
+      "id": "uk-u-kavyarni-verbs-5",
+      "translation": "Czy mogę zapłacić kartą?",
+      "answerText": "zapłacić"
+    },
+    {
+      "id": "uk-u-kavyarni-order-1",
+      "translation": "Czy mogę prosić szklankę wody?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-2",
+      "translation": "Dla mnie kawałek tortu.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-3",
+      "translation": "Ile kosztuje kawa?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-order-4",
+      "translation": "Chcemy zapłacić.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-1",
+      "translation": "kawa",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-2",
+      "translation": "czekolada",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-3",
+      "translation": "kanapka",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-4",
+      "translation": "śniadanie",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-kavyarni-spelling-5",
+      "translation": "smacznie",
+      "answerText": null
+    }
+  ]
+}

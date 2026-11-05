@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:35:14.716Z"
+  },
+  "title": "部屋を借りる",
+  "instructions": {
+    "wohnung-mieten-matching": "それぞれの単語を合う説明と線で結びなさい。",
+    "wohnung-mieten-gap": "冠詞の正しい形に印をつけなさい。",
+    "wohnung-mieten-verbs": "正しい動詞を正しい形で入れなさい。",
+    "wohnung-mieten-table": "冠詞（der/die/das）と複数形を書き入れなさい。",
+    "wohnung-mieten-order": "単語を正しい順番に並べて、文を書きなさい。",
+    "wohnung-mieten-spelling": "正しく書かれている単語はどれですか。印をつけなさい。"
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "家賃",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "毎月、部屋のために払うお金。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "敷金（保証金）",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "大家さんが最初に保証として受け取るお金。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "共益費（光熱費など）",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "水道、暖房、ごみの費用。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "賃貸契約",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "借りる人と大家さんの間の契約。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "内見",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "借りる前に部屋を見ること。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "管理人",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "建物の世話をして、小さなものを直します。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "建物の規則",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "全住民のためのルール。例えば静かにする時間。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "バルコニー付きの部屋を探しています。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "大家さんと話します。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "大家さん（女性）に敷金を渡します。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "自転車を中庭に置きます。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "鍵はテーブルの上にあります。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "台所の暖房が壊れています。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "この部屋に住んで1年になります。",
+      "answerText": "この"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "いつ部屋を見られますか？",
+      "answerText": "見られますか"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "家賃は共益費込みで850ユーロです。",
+      "answerText": "です"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "12月1日に引っ越します。",
+      "answerText": "引っ越します"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "暖房が壊れています。修理していただけますか？",
+      "answerText": "修理して"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "ごみを分別してください。",
+      "answerText": "分別して"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "部屋",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "台所",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "バルコニー",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "浴室",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "鍵",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "暖房",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "その部屋はまだ空いていますか？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "共益費はいくらですか？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "いつ部屋を見られますか？",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "その部屋を借りたいです。",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "敷金",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "共益費",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "バルコニー",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "鍵",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "暖房",
+      "answerText": null
+    }
+  ]
+}

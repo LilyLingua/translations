@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ar",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:23.308Z"
+  },
+  "title": "عند الخباز وفي المقهى",
+  "instructions": {
+    "baecker-und-cafe-matching": "صِل كل كلمة بالشرح المناسب.",
+    "baecker-und-cafe-gap": "ضع علامة على أداة التعريف الصحيحة.",
+    "baecker-und-cafe-verbs": "اكتب الفعل الصحيح بالصيغة الصحيحة.",
+    "baecker-und-cafe-table": "أكمل أداة التعريف (der/die/das) وصيغة الجمع.",
+    "baecker-und-cafe-order": "رتّب الكلمات ترتيبًا صحيحًا واكتب الجملة.",
+    "baecker-und-cafe-spelling": "أي كلمة مكتوبة بشكل صحيح؟ ضع علامة."
+  },
+  "items": [
+    {
+      "id": "baecker-und-cafe-matching-1",
+      "translation": "الخبز الصغير (بروتشن)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-1:meaning",
+      "translation": "خبز صغير، غالبًا للفطور.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2",
+      "translation": "البريتزل (Brezel)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-2:meaning",
+      "translation": "مخبوز بالملح، معروف في جنوب ألمانيا.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3",
+      "translation": "الكعكة",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-3:meaning",
+      "translation": "شيء حلو، غالبًا مع القهوة بعد الظهر.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4",
+      "translation": "قائمة الطعام",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-4:meaning",
+      "translation": "فيها كل الأطعمة والمشروبات.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5",
+      "translation": "الفاتورة (الحساب)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-5:meaning",
+      "translation": "فيها المبلغ الذي يجب أن تدفعه.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6",
+      "translation": "البقشيش",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-6:meaning",
+      "translation": "قليل من المال الإضافي للنادل.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7",
+      "translation": "للأخذ معك (تيك أواي)",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-matching-7:meaning",
+      "translation": "لا تأكله أو تشربه في المقهى.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-1",
+      "translation": "أريد خبزة صغيرة من فضلك.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-2",
+      "translation": "سآخذ فنجان قهوة.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-3",
+      "translation": "بكم البريتزل؟",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-4",
+      "translation": "أريد قطعة كعك.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-5",
+      "translation": "هل الطاولة فارغة؟",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-6",
+      "translation": "أشرب كوب شاي بالحليب.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-gap-7",
+      "translation": "أحضر لي الحساب من فضلك.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-verbs-1",
+      "translation": "ماذا تريد أن تشرب؟",
+      "answerText": "تريد"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-2",
+      "translation": "سآخذ كابتشينو.",
+      "answerText": "سآخذ"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-3",
+      "translation": "المجموع يصبح 6,40 يورو.",
+      "answerText": "يصبح"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-4",
+      "translation": "هل يمكنني الدفع بالبطاقة؟",
+      "answerText": "الدفع"
+    },
+    {
+      "id": "baecker-und-cafe-verbs-5",
+      "translation": "الكعكة لذيذة جدًا.",
+      "answerText": "لذيذة"
+    },
+    {
+      "id": "baecker-und-cafe-table-1",
+      "translation": "الخبز الصغير",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-2",
+      "translation": "الكعكة",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-3",
+      "translation": "الفنجان",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-4",
+      "translation": "الكأس",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-5",
+      "translation": "الطبق",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-table-6",
+      "translation": "البريتزل",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-1",
+      "translation": "أريد قطعتين من الخبز الصغير من فضلك.",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-2",
+      "translation": "بكم الكعكة؟",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-3",
+      "translation": "هل يمكنني الدفع بالبطاقة؟",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-order-4",
+      "translation": "هل تريد أن تأكل هنا؟",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-1",
+      "translation": "خبز صغير",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-2",
+      "translation": "كعكة",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-3",
+      "translation": "الحساب",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-4",
+      "translation": "قهوة",
+      "answerText": null
+    },
+    {
+      "id": "baecker-und-cafe-spelling-5",
+      "translation": "بقشيش",
+      "answerText": null
+    }
+  ]
+}

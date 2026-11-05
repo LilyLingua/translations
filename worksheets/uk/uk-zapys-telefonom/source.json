@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "81acf63a-ba57-4099-bb28-1b3f30870ef0",
+    "level": "A2"
+  },
+  "title": "Запис телефоном",
+  "topic": "Дзвонити, записуватися, переносити й скасовувати візити",
+  "tasks": [
+    {
+      "id": "uk-zapys-telefonom-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-zapys-telefonom-matching-1",
+          "term": "дзвонити",
+          "meaning": "Розмовляти з кимось по телефону."
+        },
+        {
+          "id": "uk-zapys-telefonom-matching-2",
+          "term": "скасувати",
+          "meaning": "Сказати, що ви не прийдете."
+        },
+        {
+          "id": "uk-zapys-telefonom-matching-3",
+          "term": "перенести",
+          "meaning": "Змінити час візиту."
+        },
+        {
+          "id": "uk-zapys-telefonom-matching-4",
+          "term": "голосове повідомлення",
+          "meaning": "Повідомлення, яке залишають, коли ніхто не відповідає."
+        },
+        {
+          "id": "uk-zapys-telefonom-matching-5",
+          "term": "внутрішній номер",
+          "meaning": "Короткий номер телефону всередині фірми."
+        },
+        {
+          "id": "uk-zapys-telefonom-matching-6",
+          "term": "вільний",
+          "meaning": "Не зайнятий."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-zapys-telefonom-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-zapys-telefonom-gap-1",
+          "promptBefore": "Я хочу",
+          "promptAfter": "свій візит у п'ятницю.",
+          "correctAnswer": "скасувати",
+          "options": [
+            "скасувати",
+            "дзвонити",
+            "залишити"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-zapys-telefonom-gap-2",
+          "promptBefore": "Чи можна",
+          "promptAfter": "його на наступний тиждень?",
+          "correctAnswer": "перенести",
+          "options": [
+            "перенести",
+            "відповісти",
+            "дзвонити"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-zapys-telefonom-gap-3",
+          "promptBefore": "Чи лікар",
+          "promptAfter": "в понеділок?",
+          "correctAnswer": "вільний",
+          "options": [
+            "вільний",
+            "телефон",
+            "номер"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-zapys-telefonom-gap-4",
+          "promptBefore": "Залиште, будь ласка, голосове",
+          "promptAfter": ".",
+          "correctAnswer": "повідомлення",
+          "options": [
+            "повідомлення",
+            "номер",
+            "візит"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-zapys-telefonom-gap-5",
+          "promptBefore": "Можете",
+          "promptAfter": "мені пізніше?",
+          "correctAnswer": "передзвонити",
+          "options": [
+            "передзвонити",
+            "скасувати",
+            "перенести"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-zapys-telefonom-gap-6",
+          "promptBefore": "Наберіть, будь ласка, внутрішній",
+          "promptAfter": "245.",
+          "correctAnswer": "номер",
+          "options": [
+            "номер",
+            "візит",
+            "лікар"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-zapys-telefonom-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-zapys-telefonom-verbs-1",
+          "promptBefore": "Добрий день, вам",
+          "promptAfter": "Марія Коваль.",
+          "correctAnswer": "дзвонить",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "дзвонити"
+        },
+        {
+          "id": "uk-zapys-telefonom-verbs-2",
+          "promptBefore": "Я",
+          "promptAfter": "записатися на прийом.",
+          "correctAnswer": "хочу",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "хотіти"
+        },
+        {
+          "id": "uk-zapys-telefonom-verbs-3",
+          "promptBefore": "Чи могли б ви",
+          "promptAfter": "це, будь ласка?",
+          "correctAnswer": "повторити",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "повторити"
+        },
+        {
+          "id": "uk-zapys-telefonom-verbs-4",
+          "promptBefore": "Я",
+          "promptAfter": "вам за десять хвилин.",
+          "correctAnswer": "передзвоню",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "передзвонити"
+        },
+        {
+          "id": "uk-zapys-telefonom-verbs-5",
+          "promptBefore": "Офіс",
+          "promptAfter": "о п'ятій.",
+          "correctAnswer": "зачиняється",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "зачинятися"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-zapys-telefonom-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-zapys-telefonom-order-1",
+          "chunks": [
+            "Чи можна",
+            "поговорити",
+            "з лікарем Бондаренком"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-zapys-telefonom-order-2",
+          "chunks": [
+            "Я хочу",
+            "скасувати",
+            "свій візит"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-zapys-telefonom-order-3",
+          "chunks": [
+            "Вівторок",
+            "о десятій",
+            "вам підходить"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-zapys-telefonom-order-4",
+          "chunks": [
+            "Я",
+            "передзвоню",
+            "завтра"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-zapys-telefonom-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-zapys-telefonom-spelling-1",
+          "correct": "повідомлення",
+          "wrong": "повідомленя"
+        },
+        {
+          "id": "uk-zapys-telefonom-spelling-2",
+          "correct": "телефон",
+          "wrong": "тєлєфон"
+        },
+        {
+          "id": "uk-zapys-telefonom-spelling-3",
+          "correct": "середа",
+          "wrong": "сєреда"
+        },
+        {
+          "id": "uk-zapys-telefonom-spelling-4",
+          "correct": "скасувати",
+          "wrong": "скасовати"
+        },
+        {
+          "id": "uk-zapys-telefonom-spelling-5",
+          "correct": "вільний",
+          "wrong": "вільній"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

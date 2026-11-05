@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "pl",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:56:58.306Z"
+  },
+  "title": "Hanower",
+  "instructions": {
+    "stadt-hannover-matching": "Połącz każde słowo z właściwym wyjaśnieniem.",
+    "stadt-hannover-gap": "Zaznacz właściwe słowo.",
+    "stadt-hannover-verbs": "Wpisz właściwy czasownik we właściwej formie.",
+    "stadt-hannover-table": "Uzupełnij rodzajnik i liczbę mnogą.",
+    "stadt-hannover-order": "Ułóż słowa we właściwej kolejności i zapisz zdanie.",
+    "stadt-hannover-spelling": "Które słowo jest napisane poprawnie? Zaznacz je."
+  },
+  "items": [
+    {
+      "id": "stadt-hannover-matching-1",
+      "translation": "targi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-1:meaning",
+      "translation": "Duża wystawa dla firm; Hanower ma ogromne tereny targowe.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2",
+      "translation": "Maschsee",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-2:meaning",
+      "translation": "Sztuczne jezioro w mieście do żeglowania, biegania i świętowania.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3",
+      "translation": "Czerwona Nić",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-3:meaning",
+      "translation": "Czerwona linia na ziemi; prowadzi do zabytków.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4",
+      "translation": "standardowy niemiecki",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-4:meaning",
+      "translation": "Język standardowy; w Hanowerze mówi się nim szczególnie czysto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5",
+      "translation": "„Lüttje Lage”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-5:meaning",
+      "translation": "Piwo i wódka w dwóch kieliszkach, które pije się jednocześnie.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6",
+      "translation": "święto strzelców",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-6:meaning",
+      "translation": "Bardzo duży festyn latem z długim pochodem.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7",
+      "translation": "„Nana”",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-matching-7:meaning",
+      "translation": "Duża, kolorowa figura kobiety nad Leine, autorstwa Niki de Saint Phalle.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-1",
+      "translation": "Idziemy za Czerwoną Nicią przez miasto.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-2",
+      "translation": "Latem wiele osób biega wokół Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-3",
+      "translation": "Firma wystawia się na targach.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-4",
+      "translation": "Wjeżdżamy windą do kopuły ratusza.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-5",
+      "translation": "Nany stoją nad Leine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-6",
+      "translation": "Zwiedzamy Ogrody Herrenhausen.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-gap-7",
+      "translation": "On próbuje Lüttje Lage.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-verbs-1",
+      "translation": "Czerwona Nić prowadzi do wielu zabytków.",
+      "answerText": "prowadzi"
+    },
+    {
+      "id": "stadt-hannover-verbs-2",
+      "translation": "W Nowym Ratuszu pochyła winda jedzie do kopuły.",
+      "answerText": "jedzie"
+    },
+    {
+      "id": "stadt-hannover-verbs-3",
+      "translation": "Wiele firm pokazuje swoje produkty na targach.",
+      "answerText": "pokazuje"
+    },
+    {
+      "id": "stadt-hannover-verbs-4",
+      "translation": "Ludzie w Hanowerze mówią bardzo czystym standardowym niemieckim.",
+      "answerText": "mówią"
+    },
+    {
+      "id": "stadt-hannover-verbs-5",
+      "translation": "W 2000 roku w Hanowerze odbyła się wystawa światowa Expo.",
+      "answerText": "odbyła"
+    },
+    {
+      "id": "stadt-hannover-table-1",
+      "translation": "targi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-2",
+      "translation": "ogród",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-3",
+      "translation": "nić",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-4",
+      "translation": "figura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-5",
+      "translation": "ratusz",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-table-6",
+      "translation": "winda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-1",
+      "translation": "Czerwona Nić prowadzi przez centrum miasta.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-2",
+      "translation": "Latem wiele osób żegluje po Maschsee.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-3",
+      "translation": "Wjeżdżasz windą do kopuły?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-order-4",
+      "translation": "W Hanowerze mówi się czystym standardowym niemieckim.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-1",
+      "translation": "targi",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-2",
+      "translation": "zabytek",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-3",
+      "translation": "winda",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-4",
+      "translation": "figura",
+      "answerText": null
+    },
+    {
+      "id": "stadt-hannover-spelling-5",
+      "translation": "kopuła",
+      "answerText": null
+    }
+  ]
+}

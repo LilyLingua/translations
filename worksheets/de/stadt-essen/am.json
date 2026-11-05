@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:01.492Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "ኤሰን (Essen)",
+  "instructions": {
+    "stadt-essen-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "stadt-essen-gap": "ትክክለኛውን ቃል ምልክት ያድርጉ።",
+    "stadt-essen-verbs": "ትክክለኛውን ግስ በትክክለኛው መልኩ ይሙሉ።",
+    "stadt-essen-table": "መስተአምሩን እና የብዙ ቁጥር መልኩን ይሙሉ።",
+    "stadt-essen-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "stadt-essen-spelling": "የትኛው ቃል በትክክል ተጽፏል? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "stadt-essen-matching-1",
+      "translation": "የዞልፌራይን የከሰል ማዕድን ማውጫ (Zeche Zollverein)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-1:meaning",
+      "translation": "የድሮ የከሰል ማዕድን ማውጫ፤ ዛሬ ሙዚየሞችና ዲዛይን ያሉበት የዩኔስኮ የዓለም ቅርስ ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2",
+      "translation": "የማንሻ ማማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-2:meaning",
+      "translation": "ከማዕድን ማውጫው በላይ ያለ ረጅም ማማ፤ ሰዎችና ከሰል በእሱ ወደ ላይ ይወጡ ነበር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3",
+      "translation": "„Glück auf!“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-3:meaning",
+      "translation": "የማዕድን ሠራተኞች ሰላምታ – ሁሉም በሰላም ወደ ላይ እንዲመለሱ ይመኛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4",
+      "translation": "„Villa Hügel“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-4:meaning",
+      "translation": "ብዙ ክፍሎችና መናፈሻ ያለው የክሩፕ (Krupp) ቤተሰብ ትልቅ ቤት።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5",
+      "translation": "የባልዴናይ ሐይቅ (Baldeneysee)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-5:meaning",
+      "translation": "በሩር (Ruhr) ወንዝ ላይ ያለ ሐይቅ፤ እዚያ በጀልባ መጓዝ፣ መቅዘፍና በእግር መንሸራሸር ይቻላል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6",
+      "translation": "„Grugapark“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-6:meaning",
+      "translation": "አበቦች፣ የመጫወቻ ቦታዎችና እንስሳት ያሉበት ትልቅ መናፈሻ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7",
+      "translation": "የባህል ዋና ከተማ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-matching-7:meaning",
+      "translation": "ኤሰን በ2010 ለመላው የሩር አካባቢ ያገኘችው ማዕረግ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-1",
+      "translation": "በበጋ ብዙ ሰዎች በባልዴናይ ሐይቅ ላይ በሸራ ጀልባ ይጓዛሉ።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-2",
+      "translation": "የክሩፕ ቤተሰብ በ„Villa Hügel“ ይኖር ነበር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-3",
+      "translation": "በዞልፌራይን የከሰል ማዕድን ማውጫ የተመራ ጉብኝት እናደርጋለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-4",
+      "translation": "የማንሻ ማማው የኤሰን መለያ ምልክት ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-5",
+      "translation": "እሑድ ወደ „Grugapark“ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-6",
+      "translation": "በ2010 ኤሰን የአውሮፓ የባህል ዋና ከተማ ነበረች።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-gap-7",
+      "translation": "Rot-Weiss Essen በሃፈንሽትራሰ (Hafenstraße) ይጫወታል።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-verbs-1",
+      "translation": "የማዕድን ሠራተኞቹ „Glück auf!“ ይላሉ።",
+      "answerText": "ይላሉ"
+    },
+    {
+      "id": "stadt-essen-verbs-2",
+      "translation": "የማንሻ ማማው ከድሮው የማዕድን ማውጫ በላይ ይቆማል።",
+      "answerText": "ይቆማል"
+    },
+    {
+      "id": "stadt-essen-verbs-3",
+      "translation": "ዛሬ ከመሬት ውስጥ ከሰል አይወጣም።",
+      "answerText": "አይወጣም"
+    },
+    {
+      "id": "stadt-essen-verbs-4",
+      "translation": "ብዙ ቱሪስቶች የዞልፌራይን የከሰል ማዕድን ማውጫን ይጎበኛሉ።",
+      "answerText": "ይጎበኛሉ"
+    },
+    {
+      "id": "stadt-essen-verbs-5",
+      "translation": "የሩር ወንዝ በባልዴናይ ሐይቅ ውስጥ ያልፋል።",
+      "answerText": "ያልፋል"
+    },
+    {
+      "id": "stadt-essen-table-1",
+      "translation": "የማዕድን ማውጫ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-2",
+      "translation": "መናፈሻ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-3",
+      "translation": "ቪላ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-4",
+      "translation": "ሐይቅ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-5",
+      "translation": "ሙዚየም",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-table-6",
+      "translation": "አዳራሽ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-1",
+      "translation": "የዞልፌራይን የከሰል ማዕድን ማውጫ የዩኔስኮ የዓለም ቅርስ አካል ነው።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-2",
+      "translation": "ቅዳሜና እሑድ በመኪና ወደ ባልዴናይ ሐይቅ እንሄዳለን።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-3",
+      "translation": "እስካሁን „Grugapark“ ሄደህ ታውቃለህ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-order-4",
+      "translation": "ድሮ ብዙ የማዕድን ሠራተኞች ከመሬት በታች ይሠሩ ነበር።",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-1",
+      "translation": "ሙዚየም",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-2",
+      "translation": "የማዕድን ማውጫ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-3",
+      "translation": "ቪላ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-4",
+      "translation": "ከሰል",
+      "answerText": null
+    },
+    {
+      "id": "stadt-essen-spelling-5",
+      "translation": "አዳራሽ",
+      "answerText": null
+    }
+  ]
+}

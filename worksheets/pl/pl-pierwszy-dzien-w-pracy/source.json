@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "pl",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "179a3f5b-7b62-40e0-aa1f-30f6b6b3a0ed",
+    "level": "A1"
+  },
+  "title": "Pierwszy dzień w pracy",
+  "topic": "Poznawanie współpracowników i zadawanie pytań",
+  "tasks": [
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-1",
+          "term": "współpracownik",
+          "meaning": "Osoba, która pracuje razem z tobą."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-2",
+          "term": "kierownik",
+          "meaning": "Osoba, która kieruje zespołem."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-3",
+          "term": "przerwa",
+          "meaning": "Krótki czas, kiedy się nie pracuje i odpoczywa."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-4",
+          "term": "zmiana",
+          "meaning": "Godziny pracy, na przykład od szóstej do czternastej."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-5",
+          "term": "identyfikator",
+          "meaning": "Karta z imieniem i zdjęciem, którą nosi się w pracy."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-matching-6",
+          "term": "szafka",
+          "meaning": "Mała szafa, w której można zostawić swoje rzeczy."
+        }
+      ],
+      "instruction": "Połącz każde słowo z jego znaczeniem."
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-1",
+          "promptBefore": "To twoja",
+          "promptAfter": ". Tutaj możesz zostawić torbę.",
+          "correctAnswer": "szafka",
+          "options": [
+            "szafka",
+            "zmiana",
+            "przerwa"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-2",
+          "promptBefore": "Moja",
+          "promptAfter": "zaczyna się o ósmej.",
+          "correctAnswer": "zmiana",
+          "options": [
+            "zmiana",
+            "szafka",
+            "identyfikator"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-3",
+          "promptBefore": "Zawsze noś swój",
+          "promptAfter": ".",
+          "correctAnswer": "identyfikator",
+          "options": [
+            "identyfikator",
+            "szafka",
+            "przerwa"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-4",
+          "promptBefore": "Przerwa na",
+          "promptAfter": "jest o dwunastej.",
+          "correctAnswer": "obiad",
+          "options": [
+            "obiad",
+            "zmianę",
+            "szafkę"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-5",
+          "promptBefore": "Jeśli masz problem, porozmawiaj z",
+          "promptAfter": ".",
+          "correctAnswer": "kierownikiem",
+          "options": [
+            "kierownikiem",
+            "szafką",
+            "przerwą"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-gap-6",
+          "promptBefore": "Miło mi. Jestem twoim nowym",
+          "promptAfter": ".",
+          "correctAnswer": "współpracownikiem",
+          "options": [
+            "współpracownikiem",
+            "identyfikatorem",
+            "obiadem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Wybierz właściwe słowo."
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-verbs-1",
+          "promptBefore": "",
+          "promptAfter": "się Ola.",
+          "correctAnswer": "Nazywam",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "nazywać się"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-verbs-2",
+          "promptBefore": "Gdzie",
+          "promptAfter": "pokój socjalny?",
+          "correctAnswer": "jest",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "być"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-verbs-3",
+          "promptBefore": "",
+          "promptAfter": "w magazynie.",
+          "correctAnswer": "Pracuję",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pracować"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-verbs-4",
+          "promptBefore": "Czy możesz mi",
+          "promptAfter": "drogę do biura?",
+          "correctAnswer": "pokazać",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pokazać"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-verbs-5",
+          "promptBefore": "Spotkanie",
+          "promptAfter": "się o dziesiątej.",
+          "correctAnswer": "zaczyna",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "zaczynać się"
+        }
+      ],
+      "instruction": "Wstaw właściwy czasownik."
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-order-1",
+          "chunks": [
+            "Gdzie",
+            "jest",
+            "pokój socjalny"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-order-2",
+          "chunks": [
+            "Jestem",
+            "tu",
+            "pierwszy dzień"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-order-3",
+          "chunks": [
+            "Kiedy",
+            "kończy się",
+            "moja zmiana"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-order-4",
+          "chunks": [
+            "Czy możesz",
+            "to",
+            "powtórzyć"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Ułóż wyrazy we właściwej kolejności i zapisz zdanie."
+    },
+    {
+      "id": "pl-pierwszy-dzien-w-pracy-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-spelling-1",
+          "correct": "współpracownik",
+          "wrong": "wspułpracownik"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-spelling-2",
+          "correct": "kierownik",
+          "wrong": "kierownig"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-spelling-3",
+          "correct": "przerwa",
+          "wrong": "pszerwa"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-spelling-4",
+          "correct": "jutro",
+          "wrong": "jótro"
+        },
+        {
+          "id": "pl-pierwszy-dzien-w-pracy-spelling-5",
+          "correct": "identyfikator",
+          "wrong": "identifikator"
+        }
+      ],
+      "instruction": "Które słowo jest napisane poprawnie? Zaznacz je."
+    }
+  ]
+}

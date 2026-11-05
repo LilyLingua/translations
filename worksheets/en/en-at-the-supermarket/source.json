@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "a851928c-1071-46fa-bc82-82e6bfba90b2",
+    "level": "A1"
+  },
+  "title": "At the Supermarket",
+  "topic": "Shopping, finding products and paying at the checkout",
+  "tasks": [
+    {
+      "id": "en-at-the-supermarket-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-at-the-supermarket-matching-1",
+          "term": "the cart",
+          "meaning": "A big basket on wheels for your shopping."
+        },
+        {
+          "id": "en-at-the-supermarket-matching-2",
+          "term": "the checkout",
+          "meaning": "The place where you pay."
+        },
+        {
+          "id": "en-at-the-supermarket-matching-3",
+          "term": "the aisle",
+          "meaning": "A long way between the shelves."
+        },
+        {
+          "id": "en-at-the-supermarket-matching-4",
+          "term": "the receipt",
+          "meaning": "A paper that shows what you bought and paid."
+        },
+        {
+          "id": "en-at-the-supermarket-matching-5",
+          "term": "the cashier",
+          "meaning": "The person who works at the checkout."
+        },
+        {
+          "id": "en-at-the-supermarket-matching-6",
+          "term": "the bag",
+          "meaning": "You carry your shopping home in it."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-at-the-supermarket-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-at-the-supermarket-gap-1",
+          "promptBefore": "I need a bottle of",
+          "promptAfter": ".",
+          "correctAnswer": "milk",
+          "options": [
+            "milk",
+            "bag",
+            "receipt"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-supermarket-gap-2",
+          "promptBefore": "The bread is in",
+          "promptAfter": "five.",
+          "correctAnswer": "aisle",
+          "options": [
+            "aisle",
+            "checkout",
+            "cart"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-supermarket-gap-3",
+          "promptBefore": "Do you need a",
+          "promptAfter": "for your shopping?",
+          "correctAnswer": "bag",
+          "options": [
+            "bag",
+            "cashier",
+            "aisle"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-supermarket-gap-4",
+          "promptBefore": "Please pay at the",
+          "promptAfter": ".",
+          "correctAnswer": "checkout",
+          "options": [
+            "checkout",
+            "aisle",
+            "bag"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-supermarket-gap-5",
+          "promptBefore": "Here is your",
+          "promptAfter": ". Have a nice day!",
+          "correctAnswer": "receipt",
+          "options": [
+            "receipt",
+            "aisle",
+            "milk"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-at-the-supermarket-gap-6",
+          "promptBefore": "I put the apples in the shopping",
+          "promptAfter": ".",
+          "correctAnswer": "cart",
+          "options": [
+            "cart",
+            "checkout",
+            "cashier"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-at-the-supermarket-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-at-the-supermarket-verbs-1",
+          "promptBefore": "How much",
+          "promptAfter": "the apples?",
+          "correctAnswer": "are",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "be"
+        },
+        {
+          "id": "en-at-the-supermarket-verbs-2",
+          "promptBefore": "I",
+          "promptAfter": "by card.",
+          "correctAnswer": "pay",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "pay"
+        },
+        {
+          "id": "en-at-the-supermarket-verbs-3",
+          "promptBefore": "We",
+          "promptAfter": "some eggs and bread.",
+          "correctAnswer": "need",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "need"
+        },
+        {
+          "id": "en-at-the-supermarket-verbs-4",
+          "promptBefore": "Excuse me, where",
+          "promptAfter": "I find rice?",
+          "correctAnswer": "can",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "can"
+        },
+        {
+          "id": "en-at-the-supermarket-verbs-5",
+          "promptBefore": "The store",
+          "promptAfter": "at ten o'clock.",
+          "correctAnswer": "closes",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "close"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-at-the-supermarket-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-at-the-supermarket-order-1",
+          "chunks": [
+            "Where",
+            "is",
+            "the rice"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-supermarket-order-2",
+          "chunks": [
+            "I",
+            "need",
+            "a bag"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-at-the-supermarket-order-3",
+          "chunks": [
+            "Can I",
+            "pay",
+            "by card"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-at-the-supermarket-order-4",
+          "chunks": [
+            "The milk",
+            "is",
+            "in aisle three"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-at-the-supermarket-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-at-the-supermarket-spelling-1",
+          "correct": "vegetables",
+          "wrong": "vegetabels"
+        },
+        {
+          "id": "en-at-the-supermarket-spelling-2",
+          "correct": "bread",
+          "wrong": "bred"
+        },
+        {
+          "id": "en-at-the-supermarket-spelling-3",
+          "correct": "cheese",
+          "wrong": "chese"
+        },
+        {
+          "id": "en-at-the-supermarket-spelling-4",
+          "correct": "chicken",
+          "wrong": "chiken"
+        },
+        {
+          "id": "en-at-the-supermarket-spelling-5",
+          "correct": "banana",
+          "wrong": "bananna"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

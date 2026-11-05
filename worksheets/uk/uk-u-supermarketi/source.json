@@ -1,0 +1,265 @@
+{
+  "_meta": {
+    "language": "uk",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "74f48fd0-04b5-4a08-8cbb-869a9fef1eb6",
+    "level": "A1"
+  },
+  "title": "У супермаркеті",
+  "topic": "Купувати продукти, шукати товари й платити на касі",
+  "tasks": [
+    {
+      "id": "uk-u-supermarketi-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "uk-u-supermarketi-matching-1",
+          "term": "візок",
+          "meaning": "Великий кошик на колесах для покупок."
+        },
+        {
+          "id": "uk-u-supermarketi-matching-2",
+          "term": "каса",
+          "meaning": "Місце, де платять."
+        },
+        {
+          "id": "uk-u-supermarketi-matching-3",
+          "term": "полиця",
+          "meaning": "На ній лежать товари в магазині."
+        },
+        {
+          "id": "uk-u-supermarketi-matching-4",
+          "term": "чек",
+          "meaning": "Папірець, де написано, що ви купили й скільки заплатили."
+        },
+        {
+          "id": "uk-u-supermarketi-matching-5",
+          "term": "касир",
+          "meaning": "Людина, яка працює на касі."
+        },
+        {
+          "id": "uk-u-supermarketi-matching-6",
+          "term": "пакет",
+          "meaning": "У ньому несуть покупки додому."
+        }
+      ],
+      "instruction": "З'єднайте кожне слово з його значенням."
+    },
+    {
+      "id": "uk-u-supermarketi-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "uk-u-supermarketi-gap-1",
+          "promptBefore": "Мені потрібна пляшка",
+          "promptAfter": ".",
+          "correctAnswer": "молока",
+          "options": [
+            "молока",
+            "каси",
+            "полиці"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-supermarketi-gap-2",
+          "promptBefore": "Хліб лежить на верхній",
+          "promptAfter": ".",
+          "correctAnswer": "полиці",
+          "options": [
+            "полиці",
+            "касі",
+            "пляшці"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-supermarketi-gap-3",
+          "promptBefore": "Заплатіть, будь ласка, на",
+          "promptAfter": ".",
+          "correctAnswer": "касі",
+          "options": [
+            "касі",
+            "полиці",
+            "пляшці"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-supermarketi-gap-4",
+          "promptBefore": "Ось ваш",
+          "promptAfter": ". Гарного дня!",
+          "correctAnswer": "чек",
+          "options": [
+            "чек",
+            "полиця",
+            "каса"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-supermarketi-gap-5",
+          "promptBefore": "Я кладу яблука у",
+          "promptAfter": ".",
+          "correctAnswer": "візок",
+          "options": [
+            "візок",
+            "касу",
+            "чек"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "uk-u-supermarketi-gap-6",
+          "promptBefore": "На касі працює привітний",
+          "promptAfter": ".",
+          "correctAnswer": "касир",
+          "options": [
+            "касир",
+            "пакет",
+            "візок"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Виберіть правильне слово."
+    },
+    {
+      "id": "uk-u-supermarketi-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "uk-u-supermarketi-verbs-1",
+          "promptBefore": "Скільки",
+          "promptAfter": "яблука?",
+          "correctAnswer": "коштують",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "коштувати"
+        },
+        {
+          "id": "uk-u-supermarketi-verbs-2",
+          "promptBefore": "Я",
+          "promptAfter": "карткою.",
+          "correctAnswer": "плачу",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "платити"
+        },
+        {
+          "id": "uk-u-supermarketi-verbs-3",
+          "promptBefore": "Ми",
+          "promptAfter": "яйця й хліб.",
+          "correctAnswer": "купуємо",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "купувати"
+        },
+        {
+          "id": "uk-u-supermarketi-verbs-4",
+          "promptBefore": "Вибачте, де",
+          "promptAfter": "рис?",
+          "correctAnswer": "лежить",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "лежати"
+        },
+        {
+          "id": "uk-u-supermarketi-verbs-5",
+          "promptBefore": "Магазин",
+          "promptAfter": "о десятій.",
+          "correctAnswer": "зачиняється",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "зачинятися"
+        }
+      ],
+      "instruction": "Вставте правильне дієслово."
+    },
+    {
+      "id": "uk-u-supermarketi-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "uk-u-supermarketi-order-1",
+          "chunks": [
+            "Де",
+            "лежить",
+            "рис"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-supermarketi-order-2",
+          "chunks": [
+            "Мені",
+            "потрібен",
+            "пакет"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "uk-u-supermarketi-order-3",
+          "chunks": [
+            "Можна",
+            "заплатити",
+            "карткою"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "uk-u-supermarketi-order-4",
+          "chunks": [
+            "Молоко",
+            "стоїть",
+            "у третьому ряду"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Розставте слова в правильному порядку та запишіть речення."
+    },
+    {
+      "id": "uk-u-supermarketi-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "uk-u-supermarketi-spelling-1",
+          "correct": "овочі",
+          "wrong": "овочи"
+        },
+        {
+          "id": "uk-u-supermarketi-spelling-2",
+          "correct": "хліб",
+          "wrong": "хлєб"
+        },
+        {
+          "id": "uk-u-supermarketi-spelling-3",
+          "correct": "сир",
+          "wrong": "сір"
+        },
+        {
+          "id": "uk-u-supermarketi-spelling-4",
+          "correct": "яблуко",
+          "wrong": "яблоко"
+        },
+        {
+          "id": "uk-u-supermarketi-spelling-5",
+          "correct": "банан",
+          "wrong": "бонан"
+        }
+      ],
+      "instruction": "Яке слово написано правильно? Позначте його."
+    }
+  ]
+}

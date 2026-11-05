@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "es",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:18:22.453Z"
+  },
+  "title": "Alquilar un piso",
+  "instructions": {
+    "wohnung-mieten-matching": "Une cada palabra con la explicación correcta.",
+    "wohnung-mieten-gap": "Marca la forma correcta del artículo.",
+    "wohnung-mieten-verbs": "Escribe el verbo correcto en la forma correcta.",
+    "wohnung-mieten-table": "Completa el artículo (der/die/das) y la forma del plural.",
+    "wohnung-mieten-order": "Ordena las palabras y escribe la frase.",
+    "wohnung-mieten-spelling": "¿Qué palabra está bien escrita? Márcala."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "el alquiler",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "El dinero que pagas cada mes por el piso.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "la fianza",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Dinero que el casero recibe al principio como garantía.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "los gastos adicionales",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Gastos de agua, calefacción y basura.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "el contrato de alquiler",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "El contrato entre inquilino y casero.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "la visita al piso",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "Ves el piso antes de alquilarlo.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "el conserje",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Cuida del edificio y repara cosas pequeñas.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "las normas de la comunidad",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Las reglas para todos los vecinos, por ejemplo las horas de silencio.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Buscamos un piso con balcón.",
+      "answerText": "un"
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Hablo con el casero.",
+      "answerText": "el"
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Le doy la fianza a la casera.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Dejo la bici en el patio.",
+      "answerText": "el"
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "La llave está en la mesa.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "La calefacción de la cocina está estropeada.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Vivo en este piso desde hace un año.",
+      "answerText": "este"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "¿Cuándo puedo ver el piso?",
+      "answerText": "ver"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "El alquiler cuesta 850 euros con gastos incluidos.",
+      "answerText": "cuesta"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Nos mudamos el 1 de diciembre.",
+      "answerText": "mudamos"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "La calefacción está estropeada. ¿Puede repararla, por favor?",
+      "answerText": "repararla"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Por favor, separe la basura.",
+      "answerText": "separe"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "la habitación",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "la cocina",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "el balcón",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "el baño",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "la llave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "la calefacción",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "¿El piso todavía está libre?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "¿A cuánto ascienden los gastos adicionales?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "¿Cuándo puedo ver el piso?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Me gustaría alquilar el piso.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "fianza",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "gastos adicionales",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "balcón",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "llave",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "calefacción",
+      "answerText": null
+    }
+  ]
+}

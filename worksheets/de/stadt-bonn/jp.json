@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:03.561Z"
+  },
+  "title": "ボン",
+  "instructions": {
+    "stadt-bonn-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-bonn-gap": "正しい単語に印をつけましょう。",
+    "stadt-bonn-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-bonn-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-bonn-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-bonn-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "連邦都市",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "ボンの正式な称号。1990年までボンは首都だった。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "ベートーヴェン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "有名な作曲家。1770年にボンで生まれた。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "ハリボー",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "グミの会社。名前はハンス・リーゲル・ボンから来ている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "桜",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "春になると、旧市街のたくさんの木がピンク色の花でいっぱいになる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "歴史の家",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "1945年以降のドイツの歴史についての博物館。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "女のカーニバル（ヴァイバーファストナハト）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "女性のカーニバルの日。ボンのボイエル地区で始まったと言われている。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "ドラッヘンフェルス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "ライン川沿いの山で、城の廃墟と美しい眺めがある。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "ボンは長い間ドイツ連邦共和国の首都でした。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "ベートーヴェンはボンガッセの家で生まれました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "4月には旧市街の桜の木が咲きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "私たちは歴史の家を訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "私の子どもはグミを一袋食べるのが好きです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "女のカーニバルの日には、女性が男性のネクタイを切ります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "私たちはドラッヘンフェルスまでハイキングします。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "ベートーヴェンは1770年にボンで生まれました。",
+      "answerText": "生まれ"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "春には桜の木がピンク色に咲きます。",
+      "answerText": "咲き"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "グミは子どもたちを喜ばせます。",
+      "answerText": "喜ばせ"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "今でも多くの省庁がボンにあります。",
+      "answerText": "あり"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "ライン川は街のそばを流れています。",
+      "answerText": "流れて"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "木",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "花",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "省",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "袋",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "作曲家",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "ネクタイ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "ベートーヴェンはボンで生まれました。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "4月には旧市街がピンク一色になります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "まだグミある？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "ボンは昔、首都でした。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "作曲家",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "ネクタイ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "歴史",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "木",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "花",
+      "answerText": null
+    }
+  ]
+}

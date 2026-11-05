@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "vi",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T23:02:30.681Z"
+  },
+  "title": "Rostock",
+  "instructions": {
+    "stadt-rostock-matching": "Nối mỗi từ với lời giải thích đúng.",
+    "stadt-rostock-gap": "Đánh dấu từ đúng.",
+    "stadt-rostock-verbs": "Điền động từ đúng ở dạng đúng.",
+    "stadt-rostock-table": "Điền mạo từ và dạng số nhiều.",
+    "stadt-rostock-order": "Sắp xếp các từ theo đúng thứ tự và viết câu.",
+    "stadt-rostock-spelling": "Từ nào được viết đúng? Hãy đánh dấu."
+  },
+  "items": [
+    {
+      "id": "stadt-rostock-matching-1",
+      "translation": "Warnemünde",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-1:meaning",
+      "translation": "Khu phố bên biển Baltic với bãi biển, ngọn hải đăng và những con tàu lớn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2",
+      "translation": "Teepott (ấm trà)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-2:meaning",
+      "translation": "Tòa nhà có mái cong đặc biệt trên bãi biển Warnemünde.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3",
+      "translation": "Hanse Sail",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-3:meaning",
+      "translation": "Lễ hội lớn vào tháng Tám với nhiều thuyền buồm cổ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4",
+      "translation": "thuyền Kogge",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-4:meaning",
+      "translation": "Loại tàu cổ của liên minh Hanse; có thể thấy nó trên huy hiệu của Hansa Rostock.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5",
+      "translation": "F.C. Hansa",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-5:meaning",
+      "translation": "Câu lạc bộ bóng đá của thành phố, màu xanh và trắng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6",
+      "translation": "đồng hồ thiên văn",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-6:meaning",
+      "translation": "Chiếc đồng hồ hơn 550 năm tuổi trong nhà thờ Marienkirche; đến nay vẫn còn chạy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7",
+      "translation": "trường đại học",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-matching-7:meaning",
+      "translation": "Thành lập năm 1419 – trường đại học lâu đời nhất vùng biển Baltic.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-1",
+      "translation": "Chúng tôi leo lên ngọn hải đăng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-2",
+      "translation": "Vào tháng Tám, nhiều con tàu đến Hanse Sail.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-3",
+      "translation": "Một chiếc tàu du lịch chạy vào cảng.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-4",
+      "translation": "Trong nhà thờ Marienkirche có một chiếc đồng hồ cổ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-5",
+      "translation": "Huy hiệu có hình một chiếc thuyền Kogge.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-6",
+      "translation": "Chúng tôi đi bộ trên bãi biển đến Teepott.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-gap-7",
+      "translation": "Nhiều sinh viên học ở trường đại học.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-verbs-1",
+      "translation": "Chiếc đồng hồ cổ đến nay vẫn chạy.",
+      "answerText": "chạy"
+    },
+    {
+      "id": "stadt-rostock-verbs-2",
+      "translation": "Ở Warnemünde, những tàu du lịch lớn dừng lại.",
+      "answerText": "dừng"
+    },
+    {
+      "id": "stadt-rostock-verbs-3",
+      "translation": "Tại Hanse Sail có nhiều con tàu cổ giương buồm.",
+      "answerText": "giương buồm"
+    },
+    {
+      "id": "stadt-rostock-verbs-4",
+      "translation": "Ngọn hải đăng đứng trên bãi biển Warnemünde.",
+      "answerText": "đứng"
+    },
+    {
+      "id": "stadt-rostock-verbs-5",
+      "translation": "Hansa Rostock thi đấu trong màu áo xanh và trắng.",
+      "answerText": "thi đấu"
+    },
+    {
+      "id": "stadt-rostock-table-1",
+      "translation": "con tàu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-2",
+      "translation": "ngọn hải đăng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-3",
+      "translation": "chiếc đồng hồ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-4",
+      "translation": "bến cảng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-5",
+      "translation": "cánh buồm",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-table-6",
+      "translation": "nhà thờ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-1",
+      "translation": "Warnemünde nằm ngay bên biển Baltic.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-2",
+      "translation": "Bạn có đi Hanse Sail cùng không?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-3",
+      "translation": "Chiếc đồng hồ cổ đến nay vẫn còn chạy.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-order-4",
+      "translation": "Trong cảng có nhiều con tàu.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-1",
+      "translation": "ngọn hải đăng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-2",
+      "translation": "con tàu",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-3",
+      "translation": "bến cảng",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-4",
+      "translation": "nhà thờ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-rostock-spelling-5",
+      "translation": "cánh buồm",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:05:50.370Z"
+  },
+  "title": "বাস ও ট্রেনে",
+  "instructions": {
+    "bus-und-bahn-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলান।",
+    "bus-und-bahn-gap": "উপযুক্ত শব্দে চিহ্ন দিন।",
+    "bus-und-bahn-verbs": "সঠিক ক্রিয়াপদটি সঠিক রূপে বসান।",
+    "bus-und-bahn-table": "আর্টিকেল ও বহুবচন রূপ পূরণ করুন।",
+    "bus-und-bahn-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লিখুন।",
+    "bus-und-bahn-spelling": "কোন শব্দটির বানান সঠিক? চিহ্ন দিন।"
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "টিকিট",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "এটা দিয়ে আপনি বাস বা ট্রেনে চড়তে পারেন।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "টিকিট মেশিন",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "এখানে কাউন্টার ছাড়াই টিকিট কেনা যায়।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "প্ল্যাটফর্ম",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "এখানে স্টেশনে ট্রেন থামে।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "বিলম্ব",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "ট্রেন নির্ধারিত সময়ের পরে আসে।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "গাড়ি বদলানো",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "আপনি এক ট্রেন থেকে আরেক ট্রেনে ওঠেন।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "বাস স্টপ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "এখানে বাস থামে।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "ডয়েচল্যান্ড টিকিট",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "সারা জার্মানিতে স্থানীয় বাস ও ট্রেনের মাসিক টিকিট।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "কোলনের ট্রেন 5 নম্বর প্ল্যাটফর্ম থেকে ছাড়ে।",
+      "answerText": "প্ল্যাটফর্ম"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "ট্রেনটির দশ মিনিট বিলম্ব হয়েছে।",
+      "answerText": "বিলম্ব"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "সবচেয়ে কাছের স্টপ কোথায়?",
+      "answerText": "স্টপ"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "বার্লিনের একটা টিকিট, দয়া করে।",
+      "answerText": "টিকিট"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "দয়া করে আপনার টিকিট দেখান।",
+      "answerText": "টিকিট"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "মেট্রো প্রতি দশ মিনিটে চলে।",
+      "answerText": "মেট্রো"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "মেশিনে আপনি টিকিট কিনতে পারেন।",
+      "answerText": "মেশিনে"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "আমাকে কোথায় বদলাতে হবে?",
+      "answerText": "বদলাতে"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "বাসটি 8:15-এ ছাড়ে।",
+      "answerText": "ছাড়ে"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "আমরা 10টায় হামবুর্গে পৌঁছাই।",
+      "answerText": "পৌঁছাই"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "দয়া করে এখানে নামুন।",
+      "answerText": "নামুন"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "যাত্রায় কত সময় লাগে?",
+      "answerText": "লাগে"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "ট্রেন",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "রেলস্টেশন",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "টিকিট",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "প্ল্যাটফর্ম",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "বাস স্টপ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "বাস",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "মিউনিখের পরের ট্রেন কখন ছাড়ে?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "আমাকে মানহাইমে ট্রেন বদলাতে হবে।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "দুঃখজনকভাবে ট্রেনটি দেরিতে চলছে।",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "টিকিটটি কি বাসেও চলবে?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "টিকিট",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "বিলম্ব",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "বাস স্টপ",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "প্ল্যাটফর্ম",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "রেলস্টেশন",
+      "answerText": null
+    }
+  ]
+}

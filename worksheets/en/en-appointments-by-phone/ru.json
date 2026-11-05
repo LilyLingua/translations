@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:40.605Z"
+  },
+  "title": "Запись по телефону",
+  "instructions": {
+    "en-appointments-by-phone-matching": "Соедини каждое слово с его значением.",
+    "en-appointments-by-phone-gap": "Выбери правильное слово.",
+    "en-appointments-by-phone-verbs": "Вставь правильный глагол.",
+    "en-appointments-by-phone-order": "Расставь слова в правильном порядке и запиши предложение.",
+    "en-appointments-by-phone-spelling": "Какое слово написано правильно? Отметь его."
+  },
+  "items": [
+    {
+      "id": "en-appointments-by-phone-matching-1",
+      "translation": "звонить",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-1:meaning",
+      "translation": "Говорить с кем-то по телефону.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2",
+      "translation": "отменить",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-2:meaning",
+      "translation": "Сказать, что ты не придёшь.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3",
+      "translation": "перенести",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-3:meaning",
+      "translation": "Изменить время записи.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4",
+      "translation": "голосовая почта",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-4:meaning",
+      "translation": "Сообщение, которое оставляют, когда никто не отвечает.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5",
+      "translation": "добавочный номер",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-5:meaning",
+      "translation": "Короткий номер телефона внутри фирмы.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6",
+      "translation": "свободен",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-matching-6:meaning",
+      "translation": "Не занят.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-gap-1",
+      "translation": "Я хочу отменить запись на пятницу.",
+      "answerText": "отменить"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-2",
+      "translation": "Можно перенести её на следующую неделю?",
+      "answerText": "перенести"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-3",
+      "translation": "Врач свободен в понедельник?",
+      "answerText": "свободен"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-4",
+      "translation": "Пожалуйста, оставьте сообщение на голосовой почте.",
+      "answerText": "голосовой"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-5",
+      "translation": "Можете перезвонить мне позже?",
+      "answerText": "перезвонить"
+    },
+    {
+      "id": "en-appointments-by-phone-gap-6",
+      "translation": "Пожалуйста, наберите добавочный два-четыре-пять.",
+      "answerText": "добавочный"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-1",
+      "translation": "Здравствуйте, это Мария Лопес.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-2",
+      "translation": "Мне нужна запись к врачу.",
+      "answerText": "нужна"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-3",
+      "translation": "Не могли бы вы повторить?",
+      "answerText": "повторить"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-4",
+      "translation": "Я перезвоню вам через десять минут.",
+      "answerText": "перезвоню"
+    },
+    {
+      "id": "en-appointments-by-phone-verbs-5",
+      "translation": "Офис закрывается в пять.",
+      "answerText": "закрывается"
+    },
+    {
+      "id": "en-appointments-by-phone-order-1",
+      "translation": "Можно поговорить с доктором Брауном?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-2",
+      "translation": "Я хочу отменить запись.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-3",
+      "translation": "Вам подходит вторник в десять?",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-order-4",
+      "translation": "Перезвоните мне, пожалуйста.",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-1",
+      "translation": "свободный",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-2",
+      "translation": "сообщение",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-3",
+      "translation": "среда",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-4",
+      "translation": "отменить",
+      "answerText": null
+    },
+    {
+      "id": "en-appointments-by-phone-spelling-5",
+      "translation": "телефон",
+      "answerText": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bn",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:50:40.001Z"
+  },
+  "title": "এরফুর্ট",
+  "instructions": {
+    "stadt-erfurt-matching": "প্রতিটি শব্দকে সঠিক ব্যাখ্যার সঙ্গে মেলাও।",
+    "stadt-erfurt-gap": "সঠিক শব্দে চিহ্ন দাও।",
+    "stadt-erfurt-verbs": "সঠিক ক্রিয়াপদ সঠিক রূপে লেখো।",
+    "stadt-erfurt-table": "আর্টিকেল আর বহুবচনের রূপ লেখো।",
+    "stadt-erfurt-order": "শব্দগুলো সঠিক ক্রমে সাজিয়ে বাক্যটি লেখো।",
+    "stadt-erfurt-spelling": "কোন শব্দটি সঠিকভাবে লেখা? চিহ্ন দাও।"
+  },
+  "items": [
+    {
+      "id": "stadt-erfurt-matching-1",
+      "translation": "বণিকদের সেতু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-1:meaning",
+      "translation": "এমন সেতু যার ওপর বাড়ি আছে; সেখানে মানুষ থাকে আর ছোট দোকান আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2",
+      "translation": "ডমবের্গ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-2:meaning",
+      "translation": "দুটি বড় গির্জাসহ পাহাড়: ক্যাথিড্রাল আর সেন্ট সেভেরাস গির্জা।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3",
+      "translation": "রোস্টব্রাটভুর্স্ট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-3:meaning",
+      "translation": "থুরিঙ্গিয়ার ঝলসানো সসেজ; রুটির মধ্যে সরিষা দিয়ে খাওয়া হয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4",
+      "translation": "আলুর বল (ক্লোস)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-4:meaning",
+      "translation": "আলু দিয়ে তৈরি গোল পার্শ্ব খাবার, থুরিঙ্গিয়ায় খুব প্রিয়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5",
+      "translation": "কিকা (KiKA)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-5:meaning",
+      "translation": "শিশুদের টিভি চ্যানেল, যার সদর দপ্তর এরফুর্টে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6",
+      "translation": "মঠ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-6:meaning",
+      "translation": "মার্টিন লুথার এখানে তরুণ সন্ন্যাসী হিসেবে থাকতেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7",
+      "translation": "\"ক্রেমার\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-matching-7:meaning",
+      "translation": "ছোট দোকানওয়ালা ব্যবসায়ীর পুরোনো নাম।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-1",
+      "translation": "বণিকদের সেতুর ওপর অনেক বাড়ি আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-2",
+      "translation": "আমরা ডমবের্গে উঠি।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-3",
+      "translation": "আমি সরিষা দিয়ে ব্রাটভুর্স্ট খাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-4",
+      "translation": "রবিবার আমরা রোস্ট মাংসের সঙ্গে আলুর বল খাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-5",
+      "translation": "শহরে শিশুদের টিভির চরিত্রদের মূর্তি আছে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-6",
+      "translation": "আমরা অগাস্টিনিয়ান মঠ দেখতে যাই।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-gap-7",
+      "translation": "এরফুর্ট থুরিঙ্গিয়ার রাজধানী।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-verbs-1",
+      "translation": "মার্টিন লুথার এরফুর্টে পড়াশোনা করেন।",
+      "answerText": "পড়াশোনা"
+    },
+    {
+      "id": "stadt-erfurt-verbs-2",
+      "translation": "আজও বণিকদের সেতুর ওপর মানুষ থাকে।",
+      "answerText": "থাকে"
+    },
+    {
+      "id": "stadt-erfurt-verbs-3",
+      "translation": "গ্রিল থেকে ব্রাটভুর্স্টের গন্ধ আসে।",
+      "answerText": "গন্ধ"
+    },
+    {
+      "id": "stadt-erfurt-verbs-4",
+      "translation": "আলুর বল আলু দিয়ে তৈরি হয়।",
+      "answerText": "তৈরি"
+    },
+    {
+      "id": "stadt-erfurt-verbs-5",
+      "translation": "কিকা শিশুদের অনুষ্ঠান সম্প্রচার করে।",
+      "answerText": "সম্প্রচার"
+    },
+    {
+      "id": "stadt-erfurt-table-1",
+      "translation": "সেতু",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-2",
+      "translation": "আলুর বল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-3",
+      "translation": "সসেজ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-4",
+      "translation": "মঠ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-5",
+      "translation": "সন্ন্যাসী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-table-6",
+      "translation": "ব্যবসায়ী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-1",
+      "translation": "বণিকদের সেতুর ওপর মানুষ থাকে।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-2",
+      "translation": "ব্রাটভুর্স্টের সঙ্গে সরিষা মানায়।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-3",
+      "translation": "তুমি কি থুরিঙ্গিয়ার আলুর বল খেয়েছ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-order-4",
+      "translation": "মার্টিন লুথার এরফুর্টে পড়াশোনা করেন।",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-1",
+      "translation": "আলুর বল",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-2",
+      "translation": "মঠ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-3",
+      "translation": "ব্রাটভুর্স্ট",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-4",
+      "translation": "ব্যবসায়ী",
+      "answerText": null
+    },
+    {
+      "id": "stadt-erfurt-spelling-5",
+      "translation": "সরিষা",
+      "answerText": null
+    }
+  ]
+}

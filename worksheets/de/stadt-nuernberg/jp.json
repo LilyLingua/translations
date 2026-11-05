@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "jp",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:55:04.762Z"
+  },
+  "title": "ニュルンベルク",
+  "instructions": {
+    "stadt-nuernberg-matching": "それぞれの単語を正しい説明と結びましょう。",
+    "stadt-nuernberg-gap": "正しい単語に印をつけましょう。",
+    "stadt-nuernberg-verbs": "正しい動詞を正しい形で入れましょう。",
+    "stadt-nuernberg-table": "冠詞と複数形を書き入れましょう。",
+    "stadt-nuernberg-order": "単語を正しい順番に並べて、文を書きましょう。",
+    "stadt-nuernberg-spelling": "正しく書かれている単語はどれですか？印をつけましょう。"
+  },
+  "items": [
+    {
+      "id": "stadt-nuernberg-matching-1",
+      "translation": "焼きソーセージ（ローストブラートヴルスト）",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-1:meaning",
+      "translation": "グリルで焼く小さくて細いソーセージ。ニュルンベルクの名物。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2",
+      "translation": "「ドライ・イム・ヴェグラ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-2:meaning",
+      "translation": "フランケン方言で、丸パンにはさんだ3本の焼きソーセージのこと。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3",
+      "translation": "クリストキンドレスマルクト",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-3:meaning",
+      "translation": "有名なクリスマスマーケット。クリストキント（幼子キリスト）が開幕を告げる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4",
+      "translation": "レープクーヘン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-4:meaning",
+      "translation": "はちみつ、ナッツ、スパイスで作るやわらかい焼き菓子。主にクリスマスに食べる。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5",
+      "translation": "カイザーブルク",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-5:meaning",
+      "translation": "旧市街の上の岩の上に立つ大きな城。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6",
+      "translation": "美しの泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-6:meaning",
+      "translation": "広場にある泉。金の輪を回すと幸運が来る。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7",
+      "translation": "「ショイフェレ」",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-matching-7:meaning",
+      "translation": "豚の肩肉を焼いたフランケン料理で、団子とソースを添える。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-1",
+      "translation": "カイザーブルクは旧市街の上の岩の上に立っています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-2",
+      "translation": "12月、私たちはクリストキンドレスマルクトに行きます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-3",
+      "translation": "私は丸パンにはさんだ3本の焼きソーセージを食べます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-4",
+      "translation": "多くの観光客が美しの泉の金の輪を回します。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-5",
+      "translation": "私たちはパン屋でレープクーヘンを買います。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-6",
+      "translation": "日曜日にはショイフェレと団子が出ます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-gap-7",
+      "translation": "ペグニッツ川は旧市街を流れています。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-verbs-1",
+      "translation": "クリストキントがクリストキンドレスマルクトを開きます。",
+      "answerText": "開き"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-2",
+      "translation": "ソーセージは火の上で焼きます。",
+      "answerText": "焼き"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-3",
+      "translation": "多くのニュルンベルクの人は、自分をバイエルン人ではなくフランケン人だと感じています。",
+      "answerText": "感じて"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-4",
+      "translation": "泉の輪は幸運をもたらします。",
+      "answerText": "もたらし"
+    },
+    {
+      "id": "stadt-nuernberg-verbs-5",
+      "translation": "冬にはおもちゃ見本市が開かれます。",
+      "answerText": "開かれ"
+    },
+    {
+      "id": "stadt-nuernberg-table-1",
+      "translation": "城",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-2",
+      "translation": "泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-3",
+      "translation": "ソーセージ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-4",
+      "translation": "市場",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-5",
+      "translation": "丸パン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-table-6",
+      "translation": "城壁",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-1",
+      "translation": "ドライ・イム・ヴェグラは、丸パンにはさんだ3本の焼きソーセージです。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-2",
+      "translation": "待降節には多くの人がクリストキンドレスマルクトを訪れます。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-3",
+      "translation": "ニュルンベルクのレープクーヘンを食べてみたことがありますか？",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-order-4",
+      "translation": "カイザーブルクは街の上の高いところにあります。",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-1",
+      "translation": "レープクーヘン",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-2",
+      "translation": "泉",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-3",
+      "translation": "焼きソーセージ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-4",
+      "translation": "クリスマス",
+      "answerText": null
+    },
+    {
+      "id": "stadt-nuernberg-spelling-5",
+      "translation": "城",
+      "answerText": null
+    }
+  ]
+}

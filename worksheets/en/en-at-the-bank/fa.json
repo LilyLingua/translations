@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "fa",
+    "source": "en",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:45.966Z"
+  },
+  "title": "در بانک",
+  "instructions": {
+    "en-at-the-bank-matching": "هر کلمه را به معنی‌اش وصل کن.",
+    "en-at-the-bank-gap": "کلمهٔ درست را انتخاب کن.",
+    "en-at-the-bank-verbs": "فعل درست را بنویس.",
+    "en-at-the-bank-order": "کلمه‌ها را به ترتیب درست بچین و جمله را بنویس.",
+    "en-at-the-bank-spelling": "کدام کلمه درست نوشته شده است؟ علامت بزن."
+  },
+  "items": [
+    {
+      "id": "en-at-the-bank-matching-1",
+      "translation": "حساب بانکی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-1:meaning",
+      "translation": "جایی در بانک که پولت در آن نگه داشته می‌شود.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2",
+      "translation": "کارت بانکی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-2:meaning",
+      "translation": "کارتی که با پول حسابت با آن پرداخت می‌کنی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3",
+      "translation": "رمز کارت",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-3:meaning",
+      "translation": "عدد مخفی برای کارتت.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4",
+      "translation": "خودپرداز",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-4:meaning",
+      "translation": "دستگاهی که از آن پول نقد می‌گیری.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5",
+      "translation": "انتقال وجه",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-5:meaning",
+      "translation": "وقتی از حسابت به حساب دیگری پول می‌فرستی.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6",
+      "translation": "موجودی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-matching-6:meaning",
+      "translation": "مقدار پولی که در حسابت هست.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-gap-1",
+      "translation": "می‌خواهم یک حساب بانکی باز کنم.",
+      "answerText": "حساب"
+    },
+    {
+      "id": "en-at-the-bank-gap-2",
+      "translation": "لطفاً رمز کارتتان را وارد کنید.",
+      "answerText": "رمز"
+    },
+    {
+      "id": "en-at-the-bank-gap-3",
+      "translation": "نزدیک‌ترین خودپرداز کجاست؟",
+      "answerText": "خودپرداز"
+    },
+    {
+      "id": "en-at-the-bank-gap-4",
+      "translation": "می‌خواهم برای صاحب‌خانه انتقال وجه انجام بدهم.",
+      "answerText": "انتقال وجه"
+    },
+    {
+      "id": "en-at-the-bank-gap-5",
+      "translation": "چطور می‌توانم موجودی حسابم را ببینم؟",
+      "answerText": "موجودی"
+    },
+    {
+      "id": "en-at-the-bank-gap-6",
+      "translation": "کارت بانکی‌ام کار نمی‌کند.",
+      "answerText": "کارت"
+    },
+    {
+      "id": "en-at-the-bank-verbs-1",
+      "translation": "می‌خواهم حساب باز کنم.",
+      "answerText": "می‌خواهم"
+    },
+    {
+      "id": "en-at-the-bank-verbs-2",
+      "translation": "می‌توانم اینجا پول نقد بگیرم؟",
+      "answerText": "بگیرم"
+    },
+    {
+      "id": "en-at-the-bank-verbs-3",
+      "translation": "لطفاً این فرم را امضا کنید.",
+      "answerText": "امضا کنید"
+    },
+    {
+      "id": "en-at-the-bank-verbs-4",
+      "translation": "کارت پنج روز دیگر می‌رسد.",
+      "answerText": "می‌رسد"
+    },
+    {
+      "id": "en-at-the-bank-verbs-5",
+      "translation": "رمزم را فراموش کردم.",
+      "answerText": "فراموش کردم"
+    },
+    {
+      "id": "en-at-the-bank-order-1",
+      "translation": "می‌خواهم یک حساب باز کنم.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-2",
+      "translation": "کجا می‌توانم پول بگیرم؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-3",
+      "translation": "کارتم مسدود شده است.",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-order-4",
+      "translation": "هزینهٔ حساب چقدر است؟",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-1",
+      "translation": "حساب",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-2",
+      "translation": "موجودی",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-3",
+      "translation": "برداشت",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-4",
+      "translation": "رسید",
+      "answerText": null
+    },
+    {
+      "id": "en-at-the-bank-spelling-5",
+      "translation": "امضا",
+      "answerText": null
+    }
+  ]
+}

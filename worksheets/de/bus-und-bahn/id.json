@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "id",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:38.322Z"
+  },
+  "title": "Naik bus dan kereta",
+  "instructions": {
+    "bus-und-bahn-matching": "Hubungkan setiap kata dengan penjelasan yang cocok.",
+    "bus-und-bahn-gap": "Centang kata yang cocok.",
+    "bus-und-bahn-verbs": "Isi kata kerja yang tepat dalam bentuk yang benar.",
+    "bus-und-bahn-table": "Lengkapi artikel dan bentuk jamak.",
+    "bus-und-bahn-order": "Susun kata-kata dalam urutan yang benar dan tulis kalimatnya.",
+    "bus-und-bahn-spelling": "Kata mana yang ditulis dengan benar? Centang."
+  },
+  "items": [
+    {
+      "id": "bus-und-bahn-matching-1",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-1:meaning",
+      "translation": "Dengan ini Anda boleh naik bus atau kereta.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2",
+      "translation": "mesin tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-2:meaning",
+      "translation": "Di sini Anda membeli tiket tanpa loket.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3",
+      "translation": "jalur (peron)",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-3:meaning",
+      "translation": "Di sini kereta berhenti di stasiun.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4",
+      "translation": "keterlambatan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-4:meaning",
+      "translation": "Kereta datang lebih lambat dari jadwal.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5",
+      "translation": "pindah kereta / transit",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-5:meaning",
+      "translation": "Anda berpindah dari satu kereta ke kereta lain.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6",
+      "translation": "halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-6:meaning",
+      "translation": "Di sini bus berhenti.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7",
+      "translation": "Deutschlandticket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-matching-7:meaning",
+      "translation": "Tiket bulanan untuk bus dan kereta lokal di seluruh Jerman.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-gap-1",
+      "translation": "Kereta ke Köln berangkat dari jalur 5.",
+      "answerText": "jalur"
+    },
+    {
+      "id": "bus-und-bahn-gap-2",
+      "translation": "Keretanya terlambat sepuluh menit.",
+      "answerText": "terlambat"
+    },
+    {
+      "id": "bus-und-bahn-gap-3",
+      "translation": "Di mana halte terdekat?",
+      "answerText": "halte"
+    },
+    {
+      "id": "bus-und-bahn-gap-4",
+      "translation": "Satu tiket ke Berlin, tolong.",
+      "answerText": "tiket"
+    },
+    {
+      "id": "bus-und-bahn-gap-5",
+      "translation": "Tolong tunjukkan tiket Anda.",
+      "answerText": "tiket"
+    },
+    {
+      "id": "bus-und-bahn-gap-6",
+      "translation": "Kereta bawah tanah lewat setiap sepuluh menit.",
+      "answerText": "Kereta bawah tanah"
+    },
+    {
+      "id": "bus-und-bahn-gap-7",
+      "translation": "Di mesin Anda bisa membeli tiket.",
+      "answerText": "mesin"
+    },
+    {
+      "id": "bus-und-bahn-verbs-1",
+      "translation": "Di mana saya harus pindah kereta?",
+      "answerText": "pindah"
+    },
+    {
+      "id": "bus-und-bahn-verbs-2",
+      "translation": "Bus berangkat pukul 8.15.",
+      "answerText": "berangkat"
+    },
+    {
+      "id": "bus-und-bahn-verbs-3",
+      "translation": "Kami tiba di Hamburg pukul 10.",
+      "answerText": "tiba"
+    },
+    {
+      "id": "bus-und-bahn-verbs-4",
+      "translation": "Silakan turun di sini.",
+      "answerText": "turun"
+    },
+    {
+      "id": "bus-und-bahn-verbs-5",
+      "translation": "Berapa lama perjalanannya berlangsung?",
+      "answerText": "berlangsung"
+    },
+    {
+      "id": "bus-und-bahn-table-1",
+      "translation": "kereta",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-2",
+      "translation": "stasiun",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-3",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-4",
+      "translation": "jalur",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-5",
+      "translation": "halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-table-6",
+      "translation": "bus",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-1",
+      "translation": "Kapan kereta berikutnya ke München berangkat?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-2",
+      "translation": "Saya harus pindah kereta di Mannheim.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-3",
+      "translation": "Sayangnya keretanya terlambat.",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-order-4",
+      "translation": "Apakah tiket ini juga berlaku untuk bus?",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-1",
+      "translation": "tiket",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-2",
+      "translation": "keterlambatan",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-3",
+      "translation": "halte",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-4",
+      "translation": "jalur",
+      "answerText": null
+    },
+    {
+      "id": "bus-und-bahn-spelling-5",
+      "translation": "stasiun",
+      "answerText": null
+    }
+  ]
+}

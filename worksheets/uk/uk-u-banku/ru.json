@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.542Z"
+  },
+  "title": "В банке",
+  "instructions": {
+    "uk-u-banku-matching": "Соедините каждое слово с его значением.",
+    "uk-u-banku-gap": "Выберите правильное слово.",
+    "uk-u-banku-verbs": "Вставьте правильный глагол.",
+    "uk-u-banku-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-u-banku-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-u-banku-matching-1",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-1:meaning",
+      "translation": "Место в банке, где хранятся ваши деньги.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2",
+      "translation": "банковская карта",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-2:meaning",
+      "translation": "Карта, которой платят деньгами со счёта.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3",
+      "translation": "PIN-код",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-3:meaning",
+      "translation": "Секретное число для карты.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4",
+      "translation": "банкомат",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-4:meaning",
+      "translation": "Автомат, где можно снять наличные.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5",
+      "translation": "перевод",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-5:meaning",
+      "translation": "Когда деньги отправляют с одного счёта на другой.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6",
+      "translation": "баланс",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-matching-6:meaning",
+      "translation": "Сколько денег на счёте.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-gap-1",
+      "translation": "Я хочу открыть счёт.",
+      "answerText": "счёт"
+    },
+    {
+      "id": "uk-u-banku-gap-2",
+      "translation": "Введите, пожалуйста, PIN-код.",
+      "answerText": "PIN-код"
+    },
+    {
+      "id": "uk-u-banku-gap-3",
+      "translation": "Где ближайший банкомат?",
+      "answerText": "банкомат"
+    },
+    {
+      "id": "uk-u-banku-gap-4",
+      "translation": "Я хочу сделать перевод арендодателю.",
+      "answerText": "перевод"
+    },
+    {
+      "id": "uk-u-banku-gap-5",
+      "translation": "Как проверить баланс карты?",
+      "answerText": "баланс"
+    },
+    {
+      "id": "uk-u-banku-gap-6",
+      "translation": "Моя банковская карта не работает.",
+      "answerText": "карта"
+    },
+    {
+      "id": "uk-u-banku-verbs-1",
+      "translation": "Я хочу открыть счёт.",
+      "answerText": "хочу"
+    },
+    {
+      "id": "uk-u-banku-verbs-2",
+      "translation": "Можно здесь снять наличные?",
+      "answerText": "снять"
+    },
+    {
+      "id": "uk-u-banku-verbs-3",
+      "translation": "Пожалуйста, подпишите этот документ.",
+      "answerText": "подпишите"
+    },
+    {
+      "id": "uk-u-banku-verbs-4",
+      "translation": "Карта придёт через пять дней.",
+      "answerText": "придёт"
+    },
+    {
+      "id": "uk-u-banku-verbs-5",
+      "translation": "Мы забыли PIN-код.",
+      "answerText": "забыли"
+    },
+    {
+      "id": "uk-u-banku-order-1",
+      "translation": "Я хочу открыть счёт.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-2",
+      "translation": "Где можно снять деньги?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-3",
+      "translation": "Мою карту заблокировали.",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-order-4",
+      "translation": "Сколько стоит обслуживание счёта?",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-1",
+      "translation": "счёт",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-2",
+      "translation": "банкомат",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-3",
+      "translation": "деньги",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-4",
+      "translation": "перевод",
+      "answerText": null
+    },
+    {
+      "id": "uk-u-banku-spelling-5",
+      "translation": "подпись",
+      "answerText": null
+    }
+  ]
+}

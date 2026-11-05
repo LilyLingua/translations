@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:44.156Z"
+  },
+  "title": "Крефелд",
+  "instructions": {
+    "stadt-krefeld-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-krefeld-gap": "Отбележете правилната дума.",
+    "stadt-krefeld-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-krefeld-table": "Попълнете члена и формата за множествено число.",
+    "stadt-krefeld-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-krefeld-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-krefeld-matching-1",
+      "translation": "градът на кадифето и коприната",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-1:meaning",
+      "translation": "Прякор: по-рано тук правеха много фини платове от коприна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2",
+      "translation": "замъкът Лин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-2:meaning",
+      "translation": "Стар воден замък в квартал Лин.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3",
+      "translation": "Фласмаркт (Ленения пазар)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-3:meaning",
+      "translation": "Голям занаятчийски пазар до замъка Лин през пролетта.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4",
+      "translation": "„Пингвините“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-4:meaning",
+      "translation": "Хокейният отбор на Крефелд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5",
+      "translation": "зоологическата градина",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-5:meaning",
+      "translation": "Зоологическа градина с къща за пеперуди и нова гора за човекоподобни маймуни.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6",
+      "translation": "Къща Ланге и Къща Естерс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-6:meaning",
+      "translation": "Два музея в къщи на известния архитект Мис ван дер Рое.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7",
+      "translation": "Юрдинген",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-matching-7:meaning",
+      "translation": "Квартал на Рейн с голямо пристанище.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-1",
+      "translation": "Тя носи рокля от коприна.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-2",
+      "translation": "Около замъка Лин има вода.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-3",
+      "translation": "В събота гледаме мач на „Пингвините“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-4",
+      "translation": "В зоологическата градина влизаме в къщата на пеперудите.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-5",
+      "translation": "На Фласмаркт ковачът показва работата си.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-6",
+      "translation": "Юрдинген се намира на Рейн.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-gap-7",
+      "translation": "Посещаваме музея Къща Ланге.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-verbs-1",
+      "translation": "„Пингвините“ играят хокей.",
+      "answerText": "играят"
+    },
+    {
+      "id": "stadt-krefeld-verbs-2",
+      "translation": "По-рано в Крефелд правеха много платове от коприна.",
+      "answerText": "правеха"
+    },
+    {
+      "id": "stadt-krefeld-verbs-3",
+      "translation": "В зоологическата градина летят много пеперуди.",
+      "answerText": "летят"
+    },
+    {
+      "id": "stadt-krefeld-verbs-4",
+      "translation": "Замъкът стои във водата.",
+      "answerText": "стои"
+    },
+    {
+      "id": "stadt-krefeld-verbs-5",
+      "translation": "На Фласмаркт занаятчиите показват работата си.",
+      "answerText": "показват"
+    },
+    {
+      "id": "stadt-krefeld-table-1",
+      "translation": "платът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-2",
+      "translation": "крепостта",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-3",
+      "translation": "пингвинът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-4",
+      "translation": "пеперудата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-5",
+      "translation": "роклята",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-table-6",
+      "translation": "пристанището",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-1",
+      "translation": "Крефелд се нарича градът на кадифето и коприната.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-2",
+      "translation": "Ще дойдеш ли с нас на хокей?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-3",
+      "translation": "Замъкът Лин стои във водата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-order-4",
+      "translation": "В зоологическата градина летят много пеперуди.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-1",
+      "translation": "коприна",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-2",
+      "translation": "пингвин",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-3",
+      "translation": "пеперуда",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-4",
+      "translation": "пристанище",
+      "answerText": null
+    },
+    {
+      "id": "stadt-krefeld-spelling-5",
+      "translation": "рокля",
+      "answerText": null
+    }
+  ]
+}

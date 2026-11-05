@@ -1,0 +1,328 @@
+{
+  "_meta": {
+    "language": "de",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "e545e466-31f7-4542-8df6-cd6e8756f8c4",
+    "level": "A2",
+    "category": "staedte"
+  },
+  "title": "Darmstadt",
+  "topic": "Hessen: Langer Lui, Hochzeitsturm, Heinerfest, „Ei Gude!“",
+  "tasks": [
+    {
+      "id": "stadt-darmstadt-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "stadt-darmstadt-matching-1",
+          "term": "der Heiner",
+          "meaning": "So nennt man die Menschen, die in Darmstadt geboren sind."
+        },
+        {
+          "id": "stadt-darmstadt-matching-2",
+          "term": "der Lange Lui",
+          "meaning": "Hohe Säule mit Denkmal auf dem Luisenplatz in der Stadtmitte."
+        },
+        {
+          "id": "stadt-darmstadt-matching-3",
+          "term": "der Hochzeitsturm",
+          "meaning": "Turm auf der Mathildenhöhe, gebaut zur Hochzeit des Großherzogs."
+        },
+        {
+          "id": "stadt-darmstadt-matching-4",
+          "term": "das Heinerfest",
+          "meaning": "Großes Stadtfest im Sommer mit Fahrgeschäften und Musik."
+        },
+        {
+          "id": "stadt-darmstadt-matching-5",
+          "term": "die Wissenschaftsstadt",
+          "meaning": "Offizieller Titel von Darmstadt – wegen der vielen Hochschulen und Institute."
+        },
+        {
+          "id": "stadt-darmstadt-matching-6",
+          "term": "Ei Gude!",
+          "meaning": "Hessischer Gruß, so ähnlich wie „Hallo, wie geht's?“."
+        },
+        {
+          "id": "stadt-darmstadt-matching-7",
+          "term": "der Woog",
+          "meaning": "Ein See mitten in der Stadt; im Sommer kann man dort baden."
+        }
+      ],
+      "instruction": "Verbinden Sie jedes Wort mit der passenden Erklärung."
+    },
+    {
+      "id": "stadt-darmstadt-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "case",
+      "items": [
+        {
+          "id": "stadt-darmstadt-gap-1",
+          "promptBefore": "Ich wohne in",
+          "promptAfter": "Wissenschaftsstadt Darmstadt.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-2",
+          "promptBefore": "Der Lange Lui steht auf",
+          "promptAfter": "Luisenplatz.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-3",
+          "promptBefore": "Im Sommer gehen wir auf",
+          "promptAfter": "Heinerfest.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "dem",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-4",
+          "promptBefore": "Der Hochzeitsturm steht auf",
+          "promptAfter": "Mathildenhöhe.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-5",
+          "promptBefore": "Im Sommer schwimmen wir in",
+          "promptAfter": "Woog.",
+          "correctAnswer": "dem",
+          "options": [
+            "dem",
+            "den",
+            "der"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-6",
+          "promptBefore": "Viele junge Leute studieren an",
+          "promptAfter": "Technischen Universität.",
+          "correctAnswer": "der",
+          "options": [
+            "der",
+            "die",
+            "dem"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "stadt-darmstadt-gap-7",
+          "promptBefore": "In Darmstadt hat man",
+          "promptAfter": "Element Darmstadtium entdeckt.",
+          "correctAnswer": "das",
+          "options": [
+            "das",
+            "den",
+            "die"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Kreuzen Sie das passende Wort an."
+    },
+    {
+      "id": "stadt-darmstadt-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "stadt-darmstadt-verbs-1",
+          "promptBefore": "Die Mathildenhöhe",
+          "promptAfter": "seit 2021 zum UNESCO-Welterbe.",
+          "correctAnswer": "gehört",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "gehören"
+        },
+        {
+          "id": "stadt-darmstadt-verbs-2",
+          "promptBefore": "Viele junge Leute",
+          "promptAfter": "in Darmstadt.",
+          "correctAnswer": "studieren",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "studieren"
+        },
+        {
+          "id": "stadt-darmstadt-verbs-3",
+          "promptBefore": "Im Sommer",
+          "promptAfter": "das Heinerfest statt.",
+          "correctAnswer": "findet",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "stattfinden"
+        },
+        {
+          "id": "stadt-darmstadt-verbs-4",
+          "promptBefore": "In der Grube Messel",
+          "promptAfter": "Forscher alte Fossilien.",
+          "correctAnswer": "entdecken",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "entdecken"
+        },
+        {
+          "id": "stadt-darmstadt-verbs-5",
+          "promptBefore": "Ich",
+          "promptAfter": "dich am Langen Lui.",
+          "correctAnswer": "treffe",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "treffen"
+        }
+      ],
+      "instruction": "Setzen Sie das richtige Verb in der richtigen Form ein."
+    },
+    {
+      "id": "stadt-darmstadt-table",
+      "type": "word_table",
+      "items": [
+        {
+          "id": "stadt-darmstadt-table-1",
+          "article": "der",
+          "singular": "Turm",
+          "plural": "Türme"
+        },
+        {
+          "id": "stadt-darmstadt-table-2",
+          "article": "die",
+          "singular": "Hochschule",
+          "plural": "Hochschulen"
+        },
+        {
+          "id": "stadt-darmstadt-table-3",
+          "article": "das",
+          "singular": "Fest",
+          "plural": "Feste"
+        },
+        {
+          "id": "stadt-darmstadt-table-4",
+          "article": "der",
+          "singular": "See",
+          "plural": "Seen"
+        },
+        {
+          "id": "stadt-darmstadt-table-5",
+          "article": "die",
+          "singular": "Säule",
+          "plural": "Säulen"
+        },
+        {
+          "id": "stadt-darmstadt-table-6",
+          "article": "das",
+          "singular": "Institut",
+          "plural": "Institute"
+        }
+      ],
+      "instruction": "Ergänzen Sie den Artikel und die Pluralform."
+    },
+    {
+      "id": "stadt-darmstadt-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "stadt-darmstadt-order-1",
+          "chunks": [
+            "Der Hochzeitsturm",
+            "steht",
+            "auf der Mathildenhöhe"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-darmstadt-order-2",
+          "chunks": [
+            "Im Sommer",
+            "feiern",
+            "die Heiner",
+            "das Heinerfest"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-darmstadt-order-3",
+          "chunks": [
+            "Darmstadt",
+            "ist",
+            "eine Wissenschaftsstadt"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "stadt-darmstadt-order-4",
+          "chunks": [
+            "Treffen",
+            "wir uns",
+            "am Langen Lui"
+          ],
+          "punctuation": "?"
+        }
+      ],
+      "instruction": "Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Satz."
+    },
+    {
+      "id": "stadt-darmstadt-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "stadt-darmstadt-spelling-1",
+          "correct": "Wissenschaft",
+          "wrong": "Wisenschaft"
+        },
+        {
+          "id": "stadt-darmstadt-spelling-2",
+          "correct": "Hochzeit",
+          "wrong": "Hochzeid"
+        },
+        {
+          "id": "stadt-darmstadt-spelling-3",
+          "correct": "Universität",
+          "wrong": "Universitet"
+        },
+        {
+          "id": "stadt-darmstadt-spelling-4",
+          "correct": "Denkmal",
+          "wrong": "Denkmahl"
+        },
+        {
+          "id": "stadt-darmstadt-spelling-5",
+          "correct": "Säule",
+          "wrong": "Seule"
+        }
+      ],
+      "instruction": "Welches Wort ist richtig geschrieben? Kreuzen Sie an."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ge",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:53:15.211Z"
+  },
+  "title": "ბრაუნშვაიგი",
+  "instructions": {
+    "stadt-braunschweig-matching": "დაუკავშირე თითოეული სიტყვა სწორ განმარტებას.",
+    "stadt-braunschweig-gap": "მონიშნე სწორი სიტყვა.",
+    "stadt-braunschweig-verbs": "ჩაწერე სწორი ზმნა სწორი ფორმით.",
+    "stadt-braunschweig-table": "ჩაწერე არტიკლი და მრავლობითი რიცხვის ფორმა.",
+    "stadt-braunschweig-order": "დაალაგე სიტყვები სწორი თანმიმდევრობით და დაწერე წინადადება.",
+    "stadt-braunschweig-spelling": "რომელი სიტყვაა სწორად დაწერილი? მონიშნე."
+  },
+  "items": [
+    {
+      "id": "stadt-braunschweig-matching-1",
+      "translation": "„ბურგლიოვე“ (ციხის ლომი)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-1:meaning",
+      "translation": "ბრინჯაოს ლომი ბურგპლაცზე; ორიგინალი დღეს ციხე-სასახლეშია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2",
+      "translation": "ჰაინრიხ ლომი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-2:meaning",
+      "translation": "ცნობილი ჰერცოგი, რომელიც შუა საუკუნეებში ბრაუნშვაიგში ცხოვრობდა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3",
+      "translation": "აინტრახტი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-3:meaning",
+      "translation": "ქალაქის საფეხბურთო კლუბი ყვითელ-ლურჯ ფერებში; მოთამაშეებს „ლომებსაც“ უწოდებენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4",
+      "translation": "ჰეპი რიცი ჰაუსი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-4:meaning",
+      "translation": "ფერადი სახლი სასაცილო სახეებითა და გულებით ფასადზე.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5",
+      "translation": "„მუმე“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-5:meaning",
+      "translation": "ტკბილი, მუქი ალაოს წვენი – ბრაუნშვაიგის ძალიან ძველი დელიკატესი.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6",
+      "translation": "სასახლე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-6:meaning",
+      "translation": "სასახლე ხელახლა ააშენეს; მის უკან დღეს სავაჭრო ცენტრია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7",
+      "translation": "ტილ ოილენშპიგელი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-matching-7:meaning",
+      "translation": "მხიარული ხუმარა ძველი ამბებიდან; ქალაქში მას შადრევანი იხსენებს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-1",
+      "translation": "ბურგპლაცზე ლომი დგას.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-2",
+      "translation": "ჰაინრიხ ლომმა დანკვარდეროდეს ციხე ააშენა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-3",
+      "translation": "გულშემატკივრები აინტრახტისთვის მღერიან.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-4",
+      "translation": "ფერად სახლს ფოტოს ვუღებთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-5",
+      "translation": "სასახლეში ახალ ქურთუკს ვყიდულობთ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-6",
+      "translation": "ბავშვები ოილენშპიგელის შადრევანთან თამაშობენ.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-gap-7",
+      "translation": "მუმე ძველი დელიკატესია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-verbs-1",
+      "translation": "ლომი ბურგპლაცზე დგას.",
+      "answerText": "დგას"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-2",
+      "translation": "აინტრახტი ყვითელ-ლურჯ ფერებში თამაშობს.",
+      "answerText": "თამაშობს"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-3",
+      "translation": "რიცის სახლს ფერადი ფერები და სასაცილო სახეები აქვს.",
+      "answerText": "აქვს"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-4",
+      "translation": "ტილ ოილენშპიგელი ბევრ ოინს აწყობს.",
+      "answerText": "აწყობს"
+    },
+    {
+      "id": "stadt-braunschweig-verbs-5",
+      "translation": "ჰაინრიხ ლომი შუა საუკუნეებში ბრაუნშვაიგში ცხოვრობდა.",
+      "answerText": "ცხოვრობდა"
+    },
+    {
+      "id": "stadt-braunschweig-table-1",
+      "translation": "ლომი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-2",
+      "translation": "ციხე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-3",
+      "translation": "სახე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-4",
+      "translation": "ჰერცოგი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-5",
+      "translation": "ქურთუკი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-table-6",
+      "translation": "ოინი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-1",
+      "translation": "ლომი ბრაუნშვაიგის სიმბოლოა.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-2",
+      "translation": "ფერად რიცის სახლს იცნობ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-3",
+      "translation": "სასახლის უკან სავაჭრო ცენტრია.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-order-4",
+      "translation": "ტილ ოილენშპიგელი ბევრ ოინს აწყობს.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-1",
+      "translation": "ლომი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-2",
+      "translation": "ციხე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-3",
+      "translation": "ჰერცოგი",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-4",
+      "translation": "სახე",
+      "answerText": null
+    },
+    {
+      "id": "stadt-braunschweig-spelling-5",
+      "translation": "სავაჭრო ცენტრი",
+      "answerText": null
+    }
+  ]
+}

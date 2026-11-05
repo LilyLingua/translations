@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bks",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:34.175Z"
+  },
+  "title": "U supermarketu",
+  "instructions": {
+    "im-supermarkt-matching": "Spojite svaku riječ s odgovarajućim objašnjenjem.",
+    "im-supermarkt-gap": "Označite odgovarajuće pakovanje ili količinu.",
+    "im-supermarkt-verbs": "Upišite pravi glagol u pravom obliku.",
+    "im-supermarkt-table": "Dopunite član i oblik množine.",
+    "im-supermarkt-order": "Poredajte riječi pravilnim redom i napišite rečenicu.",
+    "im-supermarkt-spelling": "Koja riječ je pravilno napisana? Označite."
+  },
+  "items": [
+    {
+      "id": "im-supermarkt-matching-1",
+      "translation": "kolica za kupovinu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-1:meaning",
+      "translation": "Ovdje stavljate robu dok kupujete.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2",
+      "translation": "pult sa sirom",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-2:meaning",
+      "translation": "Ovdje dobijate svježi sir na težinu.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3",
+      "translation": "kaucija za ambalažu (Pfand)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-3:meaning",
+      "translation": "Novac koji dobijete natrag za prazne boce.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4",
+      "translation": "automat za povrat boca",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-4:meaning",
+      "translation": "Ovdje predajete prazne boce.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5",
+      "translation": "akcija (ponuda)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-5:meaning",
+      "translation": "Proizvod je kratko vrijeme jeftiniji.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6",
+      "translation": "fiskalni račun",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-6:meaning",
+      "translation": "Na ovom papiriću stoje sve cijene.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7",
+      "translation": "kesa",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-matching-7:meaning",
+      "translation": "U njoj nosite kupljeno kući.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-gap-1",
+      "translation": "Kupujem jednu čašicu jogurta.",
+      "answerText": "čašicu"
+    },
+    {
+      "id": "im-supermarkt-gap-2",
+      "translation": "Molim još jednu bocu vode.",
+      "answerText": "bocu"
+    },
+    {
+      "id": "im-supermarkt-gap-3",
+      "translation": "Treba nam jedno pakovanje tjestenine.",
+      "answerText": "pakovanje"
+    },
+    {
+      "id": "im-supermarkt-gap-4",
+      "translation": "Za sos uzimam jednu konzervu paradajza.",
+      "answerText": "konzervu"
+    },
+    {
+      "id": "im-supermarkt-gap-5",
+      "translation": "Molio bih 200 grama goude.",
+      "answerText": "grama"
+    },
+    {
+      "id": "im-supermarkt-gap-6",
+      "translation": "Jedan komad maslaca košta 2,29 eura.",
+      "answerText": "komad"
+    },
+    {
+      "id": "im-supermarkt-gap-7",
+      "translation": "Uzimam jedan litar mlijeka.",
+      "answerText": "litar"
+    },
+    {
+      "id": "im-supermarkt-verbs-1",
+      "translation": "Možete li mi usitniti pet eura?",
+      "answerText": "usitniti"
+    },
+    {
+      "id": "im-supermarkt-verbs-2",
+      "translation": "Izvinite, gdje nađem brašno?",
+      "answerText": "nađem"
+    },
+    {
+      "id": "im-supermarkt-verbs-3",
+      "translation": "Plaćam karticom.",
+      "answerText": "Plaćam"
+    },
+    {
+      "id": "im-supermarkt-verbs-4",
+      "translation": "Molio bih 200 grama goude.",
+      "answerText": "Molio"
+    },
+    {
+      "id": "im-supermarkt-verbs-5",
+      "translation": "Nedjeljom su gotovo svi supermarketi zatvoreni.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-1",
+      "translation": "boca",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-2",
+      "translation": "čašica",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-3",
+      "translation": "konzerva",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-4",
+      "translation": "hljeb (kruh)",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-5",
+      "translation": "jabuka",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-table-6",
+      "translation": "banana",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-1",
+      "translation": "Izvinite, gdje nađem brašno?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-2",
+      "translation": "Imam torbu sa sobom.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-3",
+      "translation": "Banane su danas na akciji.",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-order-4",
+      "translation": "Gdje je automat za povrat boca?",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-1",
+      "translation": "kolica za kupovinu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-2",
+      "translation": "fiskalni račun",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-3",
+      "translation": "kaucija za ambalažu",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-4",
+      "translation": "sir",
+      "answerText": null
+    },
+    {
+      "id": "im-supermarkt-spelling-5",
+      "translation": "pecivo",
+      "answerText": null
+    }
+  ]
+}

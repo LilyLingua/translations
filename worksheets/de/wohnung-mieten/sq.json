@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "sq",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:33.158Z"
+  },
+  "title": "Të marrësh me qira një banesë",
+  "instructions": {
+    "wohnung-mieten-matching": "Lidhni çdo fjalë me shpjegimin e duhur.",
+    "wohnung-mieten-gap": "Shënoni formën e saktë të nyjes.",
+    "wohnung-mieten-verbs": "Vendosni foljen e duhur në formën e duhur.",
+    "wohnung-mieten-table": "Plotësoni nyjen dhe formën e shumësit.",
+    "wohnung-mieten-order": "Rendisni fjalët në rendin e duhur dhe shkruani fjalinë.",
+    "wohnung-mieten-spelling": "Cila fjalë është shkruar saktë? Shënojeni."
+  },
+  "items": [
+    {
+      "id": "wohnung-mieten-matching-1",
+      "translation": "qiraja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-1:meaning",
+      "translation": "Paratë që paguani çdo muaj për banesën.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2",
+      "translation": "depozita (kaucioni)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-2:meaning",
+      "translation": "Para që pronari i merr në fillim si garanci.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3",
+      "translation": "shpenzimet shtesë",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-3:meaning",
+      "translation": "Shpenzimet për ujin, ngrohjen dhe mbeturinat.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4",
+      "translation": "kontrata e qirasë",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-4:meaning",
+      "translation": "Kontrata mes qiramarrësit dhe pronarit.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5",
+      "translation": "shikimi i banesës",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-5:meaning",
+      "translation": "E shikoni banesën para se ta merrni me qira.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6",
+      "translation": "portieri (kujdestari i shtëpisë)",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-6:meaning",
+      "translation": "Ai kujdeset për shtëpinë dhe rregullon gjëra të vogla.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7",
+      "translation": "rregullorja e shtëpisë",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-matching-7:meaning",
+      "translation": "Rregullat për të gjithë banorët, për shembull orët e qetësisë.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-1",
+      "translation": "Kërkojmë një banesë me ballkon.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-2",
+      "translation": "Po flas me pronarin.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-3",
+      "translation": "Pronares i jap depozitën.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-4",
+      "translation": "Biçikletën e vendos në oborr.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-5",
+      "translation": "Çelësi është mbi tavolinë.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-6",
+      "translation": "Ngrohja në kuzhinë është e prishur.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-gap-7",
+      "translation": "Prej një viti banoj në këtë banesë.",
+      "answerText": "këtë"
+    },
+    {
+      "id": "wohnung-mieten-verbs-1",
+      "translation": "Kur mund ta shikoj banesën?",
+      "answerText": "shikoj"
+    },
+    {
+      "id": "wohnung-mieten-verbs-2",
+      "translation": "Qiraja kushton 850 euro me shpenzimet.",
+      "answerText": "kushton"
+    },
+    {
+      "id": "wohnung-mieten-verbs-3",
+      "translation": "Ne hyjmë në banesë më 1 dhjetor.",
+      "answerText": "hyjmë"
+    },
+    {
+      "id": "wohnung-mieten-verbs-4",
+      "translation": "Ngrohja është e prishur. A mund ta rregulloni, ju lutem?",
+      "answerText": "rregulloni"
+    },
+    {
+      "id": "wohnung-mieten-verbs-5",
+      "translation": "Ju lutem ndani mbeturinat.",
+      "answerText": "ndani"
+    },
+    {
+      "id": "wohnung-mieten-table-1",
+      "translation": "dhoma",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-2",
+      "translation": "kuzhina",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-3",
+      "translation": "ballkoni",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-4",
+      "translation": "banjo",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-5",
+      "translation": "çelësi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-table-6",
+      "translation": "ngrohja",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-1",
+      "translation": "A është banesa ende e lirë?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-2",
+      "translation": "Sa janë shpenzimet shtesë?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-3",
+      "translation": "Kur mund ta shikoj banesën?",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-order-4",
+      "translation": "Do të doja ta marr me qira banesën.",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-1",
+      "translation": "depozita",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-2",
+      "translation": "shpenzimet shtesë",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-3",
+      "translation": "ballkoni",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-4",
+      "translation": "çelësi",
+      "answerText": null
+    },
+    {
+      "id": "wohnung-mieten-spelling-5",
+      "translation": "ngrohja",
+      "answerText": null
+    }
+  ]
+}

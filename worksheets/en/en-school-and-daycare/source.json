@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "language": "en",
+    "provenance": {
+      "type": "original"
+    },
+    "id": "47f55d2a-718e-4479-9cee-2c149221271a",
+    "level": "A2"
+  },
+  "title": "School and Daycare",
+  "topic": "Parent meetings, calling in sick and school life",
+  "tasks": [
+    {
+      "id": "en-school-and-daycare-matching",
+      "type": "matching",
+      "items": [
+        {
+          "id": "en-school-and-daycare-matching-1",
+          "term": "the daycare",
+          "meaning": "A place where small children stay while their parents work."
+        },
+        {
+          "id": "en-school-and-daycare-matching-2",
+          "term": "the teacher",
+          "meaning": "The person who teaches the class."
+        },
+        {
+          "id": "en-school-and-daycare-matching-3",
+          "term": "the parent-teacher conference",
+          "meaning": "A meeting where parents talk with the teacher."
+        },
+        {
+          "id": "en-school-and-daycare-matching-4",
+          "term": "the homework",
+          "meaning": "Work that children do at home for school."
+        },
+        {
+          "id": "en-school-and-daycare-matching-5",
+          "term": "the report card",
+          "meaning": "A paper with the child's grades."
+        },
+        {
+          "id": "en-school-and-daycare-matching-6",
+          "term": "the field trip",
+          "meaning": "When the class goes somewhere together, for example to a museum."
+        }
+      ],
+      "instruction": "Match each word with its meaning."
+    },
+    {
+      "id": "en-school-and-daycare-gap",
+      "type": "gap_fill",
+      "mode": "multiple_choice",
+      "focus": "noun",
+      "items": [
+        {
+          "id": "en-school-and-daycare-gap-1",
+          "promptBefore": "My son is sick and can't go to",
+          "promptAfter": "today.",
+          "correctAnswer": "school",
+          "options": [
+            "school",
+            "homework",
+            "report card"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-school-and-daycare-gap-2",
+          "promptBefore": "The parent-teacher",
+          "promptAfter": "is next Thursday at six.",
+          "correctAnswer": "conference",
+          "options": [
+            "conference",
+            "homework",
+            "trip"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-school-and-daycare-gap-3",
+          "promptBefore": "Did you finish your",
+          "promptAfter": "?",
+          "correctAnswer": "homework",
+          "options": [
+            "homework",
+            "teacher",
+            "daycare"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-school-and-daycare-gap-4",
+          "promptBefore": "I pick up my daughter from",
+          "promptAfter": "at four.",
+          "correctAnswer": "daycare",
+          "options": [
+            "daycare",
+            "homework",
+            "report card"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-school-and-daycare-gap-5",
+          "promptBefore": "Please sign the form for the field",
+          "promptAfter": ".",
+          "correctAnswer": "trip",
+          "options": [
+            "trip",
+            "card",
+            "teacher"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        },
+        {
+          "id": "en-school-and-daycare-gap-6",
+          "promptBefore": "Her",
+          "promptAfter": "card is very good.",
+          "correctAnswer": "report",
+          "options": [
+            "report",
+            "field",
+            "homework"
+          ],
+          "acceptableAnswers": [],
+          "hint": null
+        }
+      ],
+      "instruction": "Choose the right word."
+    },
+    {
+      "id": "en-school-and-daycare-verbs",
+      "type": "verb_gap",
+      "items": [
+        {
+          "id": "en-school-and-daycare-verbs-1",
+          "promptBefore": "My daughter",
+          "promptAfter": "a fever.",
+          "correctAnswer": "has",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "have"
+        },
+        {
+          "id": "en-school-and-daycare-verbs-2",
+          "promptBefore": "School",
+          "promptAfter": "at eight o'clock.",
+          "correctAnswer": "starts",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "start"
+        },
+        {
+          "id": "en-school-and-daycare-verbs-3",
+          "promptBefore": "Can I",
+          "promptAfter": "to the teacher?",
+          "correctAnswer": "talk",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "talk"
+        },
+        {
+          "id": "en-school-and-daycare-verbs-4",
+          "promptBefore": "The children",
+          "promptAfter": "lunch at school.",
+          "correctAnswer": "eat",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "eat"
+        },
+        {
+          "id": "en-school-and-daycare-verbs-5",
+          "promptBefore": "Please",
+          "promptAfter": "the school if your child is sick.",
+          "correctAnswer": "call",
+          "options": [],
+          "acceptableAnswers": [],
+          "hint": "call"
+        }
+      ],
+      "instruction": "Fill in the correct verb."
+    },
+    {
+      "id": "en-school-and-daycare-order",
+      "type": "sentence_order",
+      "items": [
+        {
+          "id": "en-school-and-daycare-order-1",
+          "chunks": [
+            "My son",
+            "is",
+            "sick",
+            "today"
+          ],
+          "punctuation": "."
+        },
+        {
+          "id": "en-school-and-daycare-order-2",
+          "chunks": [
+            "When",
+            "is",
+            "the parent-teacher conference"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-school-and-daycare-order-3",
+          "chunks": [
+            "Can she",
+            "bring",
+            "a snack"
+          ],
+          "punctuation": "?"
+        },
+        {
+          "id": "en-school-and-daycare-order-4",
+          "chunks": [
+            "I",
+            "will pick him up",
+            "at three"
+          ],
+          "punctuation": "."
+        }
+      ],
+      "instruction": "Put the words in the right order and write the sentence."
+    },
+    {
+      "id": "en-school-and-daycare-spelling",
+      "type": "spelling",
+      "items": [
+        {
+          "id": "en-school-and-daycare-spelling-1",
+          "correct": "teacher",
+          "wrong": "teatcher"
+        },
+        {
+          "id": "en-school-and-daycare-spelling-2",
+          "correct": "school",
+          "wrong": "shool"
+        },
+        {
+          "id": "en-school-and-daycare-spelling-3",
+          "correct": "children",
+          "wrong": "childern"
+        },
+        {
+          "id": "en-school-and-daycare-spelling-4",
+          "correct": "daughter",
+          "wrong": "dauhter"
+        },
+        {
+          "id": "en-school-and-daycare-spelling-5",
+          "correct": "friend",
+          "wrong": "freind"
+        }
+      ],
+      "instruction": "Which word is spelled correctly? Tick it."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "language": "ru",
+    "source": "uk",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-28T00:37:52.338Z"
+  },
+  "title": "Общественный транспорт",
+  "instructions": {
+    "uk-hromadskyi-transport-matching": "Соедините каждое слово с его значением.",
+    "uk-hromadskyi-transport-gap": "Выберите правильное слово.",
+    "uk-hromadskyi-transport-verbs": "Вставьте правильный глагол.",
+    "uk-hromadskyi-transport-order": "Расставьте слова в правильном порядке и запишите предложение.",
+    "uk-hromadskyi-transport-spelling": "Какое слово написано правильно? Отметьте его."
+  },
+  "items": [
+    {
+      "id": "uk-hromadskyi-transport-matching-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-1:meaning",
+      "translation": "Документ или запись в приложении, с которой можно ехать.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2",
+      "translation": "остановка",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-2:meaning",
+      "translation": "Место, где останавливается автобус.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3",
+      "translation": "платформа",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-3:meaning",
+      "translation": "Место на вокзале, где садятся в поезд.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4",
+      "translation": "задержка",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-4:meaning",
+      "translation": "Когда автобус или поезд приходит позже.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5",
+      "translation": "расписание",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-5:meaning",
+      "translation": "Список с временем движения автобусов и поездов.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6",
+      "translation": "пересадка",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-matching-6:meaning",
+      "translation": "Когда меняют один автобус или поезд на другой.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-1",
+      "translation": "Мне нужен билет до центра.",
+      "answerText": "билет"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-2",
+      "translation": "Поезд отправляется с четвёртой платформы.",
+      "answerText": "платформы"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-3",
+      "translation": "Выходите на следующей остановке.",
+      "answerText": "остановке"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-4",
+      "translation": "У поезда задержка двадцать минут.",
+      "answerText": "задержка"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-5",
+      "translation": "Посмотрите расписание автобусов на сайте.",
+      "answerText": "расписание"
+    },
+    {
+      "id": "uk-hromadskyi-transport-gap-6",
+      "translation": "На вокзале вам нужно сделать пересадку.",
+      "answerText": "пересадку"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-1",
+      "translation": "Автобус ходит каждые десять минут.",
+      "answerText": "ходит"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-2",
+      "translation": "Где можно купить билет?",
+      "answerText": "купить"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-3",
+      "translation": "Вам нужно пересесть на другую линию.",
+      "answerText": "пересесть"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-4",
+      "translation": "Поезд опаздывает на пять минут.",
+      "answerText": "опаздывает"
+    },
+    {
+      "id": "uk-hromadskyi-transport-verbs-5",
+      "translation": "Пожалуйста, покажите билет.",
+      "answerText": "покажите"
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-1",
+      "translation": "Какой автобус едет в аэропорт?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-2",
+      "translation": "Поезд опаздывает на десять минут.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-3",
+      "translation": "Где следующая остановка?",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-order-4",
+      "translation": "Мы пропустили автобус.",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-1",
+      "translation": "билет",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-2",
+      "translation": "вокзал",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-3",
+      "translation": "расписание",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-4",
+      "translation": "пассажир",
+      "answerText": null
+    },
+    {
+      "id": "uk-hromadskyi-transport-spelling-5",
+      "translation": "автобус",
+      "answerText": null
+    }
+  ]
+}

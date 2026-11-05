@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "fr",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:52:56.150Z"
+  },
+  "title": "Bochum",
+  "instructions": {
+    "stadt-bochum-matching": "Associe chaque mot à la bonne explication.",
+    "stadt-bochum-gap": "Coche le bon mot.",
+    "stadt-bochum-verbs": "Complète avec le bon verbe à la bonne forme.",
+    "stadt-bochum-table": "Complète l'article et le pluriel.",
+    "stadt-bochum-order": "Remets les mots dans le bon ordre et écris la phrase.",
+    "stadt-bochum-spelling": "Quel mot est bien écrit ? Coche-le."
+  },
+  "items": [
+    {
+      "id": "stadt-bochum-matching-1",
+      "translation": "le Bermuda3eck (le Triangle des Bermudes)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-1:meaning",
+      "translation": "Quartier du centre-ville avec beaucoup de bistrots et de bars.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2",
+      "translation": "la currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-2:meaning",
+      "translation": "Saucisse grillée avec du ketchup et du curry en poudre – très appréciée à Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3",
+      "translation": "Herbert Grönemeyer",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-3:meaning",
+      "translation": "Chanteur qui chante une chanson connue sur sa ville, Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4",
+      "translation": "le VfL Bochum",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-4:meaning",
+      "translation": "Club de football de la ville, en bleu et blanc.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5",
+      "translation": "le musée de la Mine",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-5:meaning",
+      "translation": "Grand musée sur le travail sous terre – avec une mine à visiter.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6",
+      "translation": "Starlight Express",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-6:meaning",
+      "translation": "Comédie musicale dans laquelle les artistes roulent en patins à roulettes.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7",
+      "translation": "l'université de la Ruhr",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-matching-7:meaning",
+      "translation": "Grande université en bordure de la ville, avec beaucoup d'étudiants.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-1",
+      "translation": "Vendredi, on se retrouve au Bermuda3eck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-2",
+      "translation": "Je mange une currywurst avec des frites.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-3",
+      "translation": "Beaucoup d'étudiants étudient à l'université de la Ruhr.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-4",
+      "translation": "Au musée de la Mine, nous entrons dans la mine.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-5",
+      "translation": "Les artistes roulent sur les patins à roulettes.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-6",
+      "translation": "Herbert Grönemeyer chante une chanson sur Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-gap-7",
+      "translation": "Le VfL joue dans le stade de la Castroper Straße.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-verbs-1",
+      "translation": "Dans la comédie musicale, les artistes roulent en patins à roulettes.",
+      "answerText": "roulent"
+    },
+    {
+      "id": "stadt-bochum-verbs-2",
+      "translation": "Herbert Grönemeyer chante sa ville.",
+      "answerText": "chante"
+    },
+    {
+      "id": "stadt-bochum-verbs-3",
+      "translation": "Le week-end, beaucoup de gens vont au Bermuda3eck.",
+      "answerText": "vont"
+    },
+    {
+      "id": "stadt-bochum-verbs-4",
+      "translation": "On mange la currywurst avec des frites.",
+      "answerText": "mange"
+    },
+    {
+      "id": "stadt-bochum-verbs-5",
+      "translation": "La comédie musicale se joue à Bochum depuis 1988.",
+      "answerText": "se joue"
+    },
+    {
+      "id": "stadt-bochum-table-1",
+      "translation": "le bistrot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-2",
+      "translation": "la chanson",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-3",
+      "translation": "l'étudiant",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-4",
+      "translation": "la comédie musicale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-5",
+      "translation": "l'université",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-table-6",
+      "translation": "le chanteur",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-1",
+      "translation": "Starlight Express se joue à Bochum depuis 1988.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-2",
+      "translation": "Après la fac, nous allons au Bermuda3eck.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-3",
+      "translation": "Tu manges la currywurst avec des frites ?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-order-4",
+      "translation": "Grönemeyer chante une chanson sur Bochum.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-1",
+      "translation": "la comédie musicale",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-2",
+      "translation": "l'université",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-3",
+      "translation": "la currywurst",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-4",
+      "translation": "le bistrot",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bochum-spelling-5",
+      "translation": "le chanteur",
+      "answerText": null
+    }
+  ]
+}

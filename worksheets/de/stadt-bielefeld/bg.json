@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:46.471Z"
+  },
+  "title": "Билефелд",
+  "instructions": {
+    "stadt-bielefeld-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-bielefeld-gap": "Отбележете правилната дума.",
+    "stadt-bielefeld-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-bielefeld-table": "Попълнете члена и формата за множествено число.",
+    "stadt-bielefeld-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-bielefeld-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-bielefeld-matching-1",
+      "translation": "„Билефелдската конспирация“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-1:meaning",
+      "translation": "Стара интернет шега: Билефелд изобщо не съществува.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2",
+      "translation": "Шпаренбург",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-2:meaning",
+      "translation": "Стара крепост на хълм; отгоре се вижда целият град.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3",
+      "translation": "„Д-р Йоткер“ (Dr. Oetker)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-3:meaning",
+      "translation": "Известна фирма за пудинг, бакпулвер и пица – тя е от Билефелд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4",
+      "translation": "Тевтобургската гора",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-4:meaning",
+      "translation": "Дълга гора с хълмове точно до града; подходяща за походи.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5",
+      "translation": "„Арминия“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-5:meaning",
+      "translation": "Футболният клуб на града; феновете наричат стадиона му „Алм“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6",
+      "translation": "източновестфалецът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-6:meaning",
+      "translation": "Така се наричат хората тук; казват, че не говорят много.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7",
+      "translation": "„Пикерт“",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-matching-7:meaning",
+      "translation": "Източновестфалска палачинка от картофи, често със стафиди.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-1",
+      "translation": "Шпаренбург стои на хълм над града.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-2",
+      "translation": "Много хора ходят на походи в Тевтобургската гора.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-3",
+      "translation": "Купувам си пудинг от „Д-р Йоткер“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-4",
+      "translation": "Пикертът се пече в тиган.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-5",
+      "translation": "„Арминия“ играе на „Алм“.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-6",
+      "translation": "Много хора се смеят на билефелдската конспирация.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-gap-7",
+      "translation": "Билефелд се намира в региона Източна Вестфалия-Липе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-verbs-1",
+      "translation": "Някои хора на шега казват: „Билефелд не съществува.“",
+      "answerText": "казват"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-2",
+      "translation": "Източновестфалците не говорят много.",
+      "answerText": "говорят"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-3",
+      "translation": "„Д-р Йоткер“ се намира в Билефелд от над 100 години.",
+      "answerText": "намира"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-4",
+      "translation": "Феновете подкрепят „Арминия“ на „Алм“.",
+      "answerText": "подкрепят"
+    },
+    {
+      "id": "stadt-bielefeld-verbs-5",
+      "translation": "От Шпаренбург се вижда целият град.",
+      "answerText": "вижда"
+    },
+    {
+      "id": "stadt-bielefeld-table-1",
+      "translation": "гората",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-2",
+      "translation": "тиганът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-3",
+      "translation": "планината (хълмът)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-4",
+      "translation": "фирмата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-5",
+      "translation": "слухът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-table-6",
+      "translation": "шегата",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-1",
+      "translation": "Билефелд наистина съществува.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-2",
+      "translation": "В неделя ходим на поход в Тевтобургската гора.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-3",
+      "translation": "Бил ли си вече в Шпаренбург?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-order-4",
+      "translation": "„Д-р Йоткер“ е от Билефелд.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-1",
+      "translation": "шега",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-2",
+      "translation": "тиган",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-3",
+      "translation": "гора",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-4",
+      "translation": "фирма",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bielefeld-spelling-5",
+      "translation": "пудинг",
+      "answerText": null
+    }
+  ]
+}

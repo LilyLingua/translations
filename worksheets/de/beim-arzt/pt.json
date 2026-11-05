@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "language": "pt",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-26T21:27:05.900Z"
+  },
+  "title": "No médico",
+  "instructions": {
+    "beim-arzt-matching": "Ligue cada palavra à explicação correta.",
+    "beim-arzt-gap": "Marque a palavra adequada.",
+    "beim-arzt-verbs": "Complete com o verbo correto na forma correta.",
+    "beim-arzt-table": "Complete o artigo (der/die/das) e a forma do plural.",
+    "beim-arzt-order": "Coloque as palavras na ordem correta e escreva a frase.",
+    "beim-arzt-spelling": "Qual palavra está escrita corretamente? Marque."
+  },
+  "items": [
+    {
+      "id": "beim-arzt-matching-1",
+      "translation": "o cartão do plano de saúde",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-1:meaning",
+      "translation": "Você mostra este cartão na recepção. Nele está seu plano de saúde.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2",
+      "translation": "a consulta (o horário marcado)",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-2:meaning",
+      "translation": "Um horário fixo em que você vai ao consultório.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3",
+      "translation": "a sala de espera",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-3:meaning",
+      "translation": "Aqui você se senta até ser chamado.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4",
+      "translation": "a receita",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-4:meaning",
+      "translation": "Com ela você pega um medicamento na farmácia.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5",
+      "translation": "o atestado médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-5:meaning",
+      "translation": "Seu empregador recebe este papel quando você está doente.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6",
+      "translation": "a febre",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-6:meaning",
+      "translation": "A temperatura do corpo está alta demais, por exemplo 39 graus.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7",
+      "translation": "a alergia",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-7:meaning",
+      "translation": "O corpo reage fortemente a algo, por exemplo à penicilina.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8",
+      "translation": "a chamada de emergência",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-matching-8:meaning",
+      "translation": "O número 112 – em caso de acidente ou emergência.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-gap-1",
+      "translation": "Bom dia, eu gostaria de marcar uma consulta.",
+      "answerText": "consulta"
+    },
+    {
+      "id": "beim-arzt-gap-2",
+      "translation": "Você está com o seu cartão do plano de saúde?",
+      "answerText": "cartão do plano de saúde"
+    },
+    {
+      "id": "beim-arzt-gap-3",
+      "translation": "Por favor, sente-se na sala de espera.",
+      "answerText": "sala de espera"
+    },
+    {
+      "id": "beim-arzt-gap-4",
+      "translation": "Estou com dor de cabeça e febre.",
+      "answerText": "dor de cabeça"
+    },
+    {
+      "id": "beim-arzt-gap-5",
+      "translation": "Minha barriga dói.",
+      "answerText": "barriga"
+    },
+    {
+      "id": "beim-arzt-gap-6",
+      "translation": "Sou alérgico à penicilina.",
+      "answerText": "penicilina"
+    },
+    {
+      "id": "beim-arzt-gap-7",
+      "translation": "Preciso de um atestado médico para o meu empregador.",
+      "answerText": "atestado médico"
+    },
+    {
+      "id": "beim-arzt-gap-8",
+      "translation": "Tome os comprimidos três vezes ao dia depois das refeições.",
+      "answerText": "refeições"
+    },
+    {
+      "id": "beim-arzt-verbs-1",
+      "translation": "Você pode falar mais devagar, por favor?",
+      "answerText": "falar"
+    },
+    {
+      "id": "beim-arzt-verbs-2",
+      "translation": "Estou com febre há três dias.",
+      "answerText": "Estou"
+    },
+    {
+      "id": "beim-arzt-verbs-3",
+      "translation": "Minha cabeça dói muito.",
+      "answerText": "dói"
+    },
+    {
+      "id": "beim-arzt-verbs-4",
+      "translation": "Por favor, inspire fundo – e solte o ar de novo.",
+      "answerText": "inspire"
+    },
+    {
+      "id": "beim-arzt-verbs-5",
+      "translation": "A médica me dá uma receita.",
+      "answerText": "dá"
+    },
+    {
+      "id": "beim-arzt-verbs-6",
+      "translation": "Já vamos chamar você.",
+      "answerText": "chamar"
+    },
+    {
+      "id": "beim-arzt-table-1",
+      "translation": "o médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-2",
+      "translation": "o comprimido",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-3",
+      "translation": "a receita",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-4",
+      "translation": "a consulta",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-5",
+      "translation": "o consultório",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-table-6",
+      "translation": "o medicamento",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-1",
+      "translation": "Eu gostaria de marcar uma consulta.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-2",
+      "translation": "Estou com febre há três dias.",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-3",
+      "translation": "Você pode repetir, por favor?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-order-4",
+      "translation": "Onde dói?",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-1",
+      "translation": "dor de cabeça",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-2",
+      "translation": "atestado médico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-3",
+      "translation": "cartão do plano de saúde",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-4",
+      "translation": "alérgico",
+      "answerText": null
+    },
+    {
+      "id": "beim-arzt-spelling-5",
+      "translation": "comprimido",
+      "answerText": null
+    }
+  ]
+}

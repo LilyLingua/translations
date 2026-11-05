@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "bg",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:49:46.232Z"
+  },
+  "title": "Бон",
+  "instructions": {
+    "stadt-bonn-matching": "Свържете всяка дума с правилното обяснение.",
+    "stadt-bonn-gap": "Отбележете правилната дума.",
+    "stadt-bonn-verbs": "Попълнете правилния глагол в правилната форма.",
+    "stadt-bonn-table": "Попълнете члена и формата за множествено число.",
+    "stadt-bonn-order": "Подредете думите в правилния ред и напишете изречението.",
+    "stadt-bonn-spelling": "Коя дума е написана правилно? Отбележете я."
+  },
+  "items": [
+    {
+      "id": "stadt-bonn-matching-1",
+      "translation": "федералният град",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-1:meaning",
+      "translation": "Официалната титла на Бон; до 1990 г. Бон беше столица.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2",
+      "translation": "Бетовен",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-2:meaning",
+      "translation": "Прочут композитор; роден е в Бон през 1770 г.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3",
+      "translation": "„Харибо“ (Haribo)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-3:meaning",
+      "translation": "Фирма за желирани мечета; името идва от Hans Riegel Bonn.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4",
+      "translation": "черешовият цвят",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-4:meaning",
+      "translation": "През пролетта много дървета в Стария град цъфтят в розово.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5",
+      "translation": "Домът на историята",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-5:meaning",
+      "translation": "Музей за историята на Германия след 1945 г.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6",
+      "translation": "„Вайберфастнахт“ (женският карнавален ден)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-6:meaning",
+      "translation": "Карнавален ден на жените; смята се, че е възникнал в боннския квартал Бойел.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7",
+      "translation": "Драхенфелс",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-matching-7:meaning",
+      "translation": "Планина на Рейн с руини на замък и красива гледка.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-1",
+      "translation": "Бон дълго време беше столицата на Федералната република.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-2",
+      "translation": "Бетовен е роден в една къща на улица Бонгасе.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-3",
+      "translation": "През април черешите в Стария град цъфтят.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-4",
+      "translation": "Посещаваме Дома на историята.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-5",
+      "translation": "Детето ми обича да изяжда едно пликче желирани мечета.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-6",
+      "translation": "На Вайберфастнахт жените отрязват вратовръзките на мъжете.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-gap-7",
+      "translation": "Изкачваме се пеша на Драхенфелс.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-verbs-1",
+      "translation": "Бетовен се появи на бял свят в Бон през 1770 г.",
+      "answerText": "появи"
+    },
+    {
+      "id": "stadt-bonn-verbs-2",
+      "translation": "През пролетта черешите цъфтят в розово.",
+      "answerText": "цъфтят"
+    },
+    {
+      "id": "stadt-bonn-verbs-3",
+      "translation": "Желираните мечета радват децата.",
+      "answerText": "радват"
+    },
+    {
+      "id": "stadt-bonn-verbs-4",
+      "translation": "Много министерства и днес се намират в Бон.",
+      "answerText": "се намират"
+    },
+    {
+      "id": "stadt-bonn-verbs-5",
+      "translation": "Рейн тече покрай града.",
+      "answerText": "тече"
+    },
+    {
+      "id": "stadt-bonn-table-1",
+      "translation": "дървото",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-2",
+      "translation": "цветът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-3",
+      "translation": "министерството",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-4",
+      "translation": "пликът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-5",
+      "translation": "композиторът",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-table-6",
+      "translation": "вратовръзката",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-1",
+      "translation": "Бетовен е роден в Бон.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-2",
+      "translation": "През април Старият град е съвсем розов.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-3",
+      "translation": "Имаш ли още желирани мечета?",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-order-4",
+      "translation": "Бон по-рано беше столицата.",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-1",
+      "translation": "композитор",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-2",
+      "translation": "вратовръзка",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-3",
+      "translation": "история",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-4",
+      "translation": "дърво",
+      "answerText": null
+    },
+    {
+      "id": "stadt-bonn-spelling-5",
+      "translation": "цвят",
+      "answerText": null
+    }
+  ]
+}

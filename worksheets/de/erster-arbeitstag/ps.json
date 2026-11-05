@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "ps",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-10-27T18:03:36.053Z"
+  },
+  "title": "د کار لومړۍ ورځ",
+  "instructions": {
+    "erster-arbeitstag-matching": "هره کلمه له سمې تشریح سره ونښلوئ.",
+    "erster-arbeitstag-gap": "سمه بڼه په نښه کړئ.",
+    "erster-arbeitstag-verbs": "سم فعل په سمه بڼه ولیکئ.",
+    "erster-arbeitstag-table": "آرټیکل او د جمع بڼه بشپړه کړئ.",
+    "erster-arbeitstag-order": "کلمې په سم ترتیب کېږدئ او جمله ولیکئ.",
+    "erster-arbeitstag-spelling": "کومه کلمه سمه لیکل شوې؟ په نښه یې کړئ."
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "یو سړی چې تاسو ورسره یوځای کار کوئ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "مشره (باس)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "هغه ټیم رهبري کوي.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "وقفه",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "د کار پر مهال ازاد وخت، لکه د خوړو لپاره.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "کلنۍ رخصتي",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "هغه ورځې چې کار نه کوئ خو بیا هم معاش اخلئ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "اضافي ساعت",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "یو ساعت چې له پلان نه زیات کار کوئ.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "د کار تړون",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "پدې کې معاش، د کار وخت او رخصتي لیکل شوي.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "کنټین (ډوډۍ خونه)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "دلته کارکوونکي په شرکت کې ډوډۍ خوري.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "دا زما نوې همکاره ده.",
+      "answerText": "زما"
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "اجازه ده چې خپل همکار درمعرفي کړم؟",
+      "answerText": "کړم"
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "زه خوښوم چې له ټیم سره یوځای کار وکړم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "موږ په کنټین کې سره ګورو.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "زه یوه پوښتنه لرم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "وقفه کله پیلېږي؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "زه راپور مشرې ته ورکوم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "اجازه ده چې ځان په لنډه توګه معرفي کړم؟",
+      "answerText": "معرفي"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "زه له ۸ تر ۴ بجو کار کوم.",
+      "answerText": "کار"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "تشناب چېرته پیدا کړم؟",
+      "answerText": "پیدا"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "په ټیم کې موږ یو بل ته „ته“ وایو.",
+      "answerText": "وایو"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "کولی شئ دا راته تشریح کړئ؟",
+      "answerText": "تشریح"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "شرکت",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "دفتر",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "کمپیوټر",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "غونډه",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "ټیم",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "اجازه ده چې ځان په لنډه توګه معرفي کړم؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "زه په ټیم کې نوی یم.",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "د غرمې وقفه کله پیلېږي؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "کولی شئ دا راته تشریح کړئ؟",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "همکار",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "غونډه",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "کلنۍ رخصتي",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "دفتر",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "اضافي ساعت",
+      "answerText": null
+    }
+  ]
+}

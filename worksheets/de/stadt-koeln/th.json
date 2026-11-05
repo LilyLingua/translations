@@ -1,0 +1,230 @@
+{
+  "_meta": {
+    "language": "th",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T22:59:59.509Z"
+  },
+  "title": "โคโลญ",
+  "instructions": {
+    "stadt-koeln-matching": "จับคู่แต่ละคำกับคำอธิบายที่ถูกต้อง",
+    "stadt-koeln-gap": "ทำเครื่องหมายที่คำที่ถูกต้อง",
+    "stadt-koeln-verbs": "เติมคำกริยาที่ถูกต้องในรูปที่ถูกต้อง",
+    "stadt-koeln-table": "เติมคำนำหน้านาม (der/die/das) และรูปพหูพจน์",
+    "stadt-koeln-order": "เรียงคำให้ถูกลำดับแล้วเขียนประโยค",
+    "stadt-koeln-spelling": "คำไหนเขียนถูกต้อง? ทำเครื่องหมาย"
+  },
+  "items": [
+    {
+      "id": "stadt-koeln-matching-1",
+      "translation": "\"เคิลเลอ อาลาฟ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-1:meaning",
+      "translation": "คำโห่ร้องในงานคาร์นิวัลโคโลญ – ความหมายประมาณ \"โคโลญจงเจริญ!\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2",
+      "translation": "มหาวิหาร (โดม)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-2:meaning",
+      "translation": "โบสถ์ใหญ่ที่มีหอคอยสองหอ อยู่ติดกับสถานีรถไฟหลัก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3",
+      "translation": "\"เคิลช์\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-3:meaning",
+      "translation": "เบียร์สีอ่อนจากโคโลญ ดื่มจากแก้วเล็กทรงผอม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4",
+      "translation": "\"เคอเบส\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-4:meaning",
+      "translation": "บริกรในโรงเบียร์ เขาจะนำเคิลช์แก้วใหม่มาเรื่อย ๆ จนกว่าลูกค้าจะวางที่รองแก้วปิดบนแก้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5",
+      "translation": "\"ฮัลเวอ ฮาน\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-5:meaning",
+      "translation": "ขนมปังไรย์กับชีส – ไม่ใช่ไก่ครึ่งตัว!",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6",
+      "translation": "\"เฟเดิล\"",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-6:meaning",
+      "translation": "ภาษาเคิลช์แปลว่าย่านในเมือง คนโคโลญทุกคนรักเฟเดิลของตัวเอง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7",
+      "translation": "โรเซินมอนทาค (วันจันทร์กุหลาบ)",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-matching-7:meaning",
+      "translation": "จุดสูงสุดของงานคาร์นิวัล มีขบวนพาเหรดใหญ่ผ่านเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-1",
+      "translation": "เขาดื่มเคิลช์ที่โรงเบียร์",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-2",
+      "translation": "เคอเบสนำเคิลช์แก้วถัดไปมาให้",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-3",
+      "translation": "วันโรเซินมอนทาคพวกเราดูขบวนพาเหรดผ่านเมือง",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-4",
+      "translation": "นักท่องเที่ยวหลายคนเยี่ยมชมมหาวิหารโคโลญ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-5",
+      "translation": "ฉันสั่งฮัลเวอ ฮานหนึ่งที่",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-6",
+      "translation": "หลายคนเดินเล่นข้ามสะพานโฮเอินโซลเลิร์น",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-gap-7",
+      "translation": "ช่วงคาร์นิวัลผู้คนสวมชุดแฟนซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-verbs-1",
+      "translation": "ช่วงคาร์นิวัลผู้คนตะโกนว่า \"เคิลเลอ อาลาฟ!\"",
+      "answerText": "ตะโกน"
+    },
+    {
+      "id": "stadt-koeln-verbs-2",
+      "translation": "เคอเบสนำเคิลช์แก้วใหม่มาโดยไม่ต้องถาม",
+      "answerText": "นำ"
+    },
+    {
+      "id": "stadt-koeln-verbs-3",
+      "translation": "มหาวิหารสูงกว่า 150 เมตร",
+      "answerText": "สูง"
+    },
+    {
+      "id": "stadt-koeln-verbs-4",
+      "translation": "แม่น้ำไรน์ไหลผ่านกลางเมืองโคโลญ",
+      "answerText": "ไหล"
+    },
+    {
+      "id": "stadt-koeln-verbs-5",
+      "translation": "คาร์นิวัลเริ่มวันที่ 11.11. เวลา 11:11 น.",
+      "answerText": "เริ่ม"
+    },
+    {
+      "id": "stadt-koeln-table-1",
+      "translation": "มหาวิหาร",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-2",
+      "translation": "สะพาน",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-3",
+      "translation": "แก้ว",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-4",
+      "translation": "ขบวนพาเหรด",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-5",
+      "translation": "ชุดแฟนซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-table-6",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-1",
+      "translation": "มหาวิหารโคโลญตั้งอยู่ติดกับสถานีรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-2",
+      "translation": "วันโรเซินมอนทาคทั้งเมืองโคโลญฉลองคาร์นิวัล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-3",
+      "translation": "รับเคิลช์อีกแก้วไหม",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-order-4",
+      "translation": "ที่โคโลญผู้คนดื่มเคิลช์จากแก้วเล็ก",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-1",
+      "translation": "คาร์นิวัล",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-2",
+      "translation": "ชุดแฟนซี",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-3",
+      "translation": "สถานีรถไฟ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-4",
+      "translation": "ผับ",
+      "answerText": null
+    },
+    {
+      "id": "stadt-koeln-spelling-5",
+      "translation": "แก้ว",
+      "answerText": null
+    }
+  ]
+}

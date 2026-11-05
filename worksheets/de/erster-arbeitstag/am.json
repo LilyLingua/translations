@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "language": "am",
+    "source": "de",
+    "provenance": {
+      "type": "ai",
+      "models": [
+        "Anthropic Claude Opus 5.5"
+      ]
+    },
+    "review": "unreviewed",
+    "updated": "2026-11-03T09:55:56.880Z",
+    "notes": [
+      "KI kann diese Sprache nur eingeschränkt prüfen – Muttersprachler gesucht."
+    ]
+  },
+  "title": "የመጀመሪያው የሥራ ቀን",
+  "instructions": {
+    "erster-arbeitstag-matching": "እያንዳንዱን ቃል ከትክክለኛው ማብራሪያ ጋር ያዛምዱ።",
+    "erster-arbeitstag-gap": "ትክክለኛውን ቅጽ ምልክት ያድርጉ።",
+    "erster-arbeitstag-verbs": "ትክክለኛውን ግስ በትክክለኛው ቅጽ ይሙሉ።",
+    "erster-arbeitstag-table": "አርቲክሉን (der/die/das) እና የብዙ ቁጥር ቅጹን ይሙሉ።",
+    "erster-arbeitstag-order": "ቃላቱን በትክክለኛው ቅደም ተከተል አስቀምጠው ዓረፍተ ነገሩን ይጻፉ።",
+    "erster-arbeitstag-spelling": "የትኛው ቃል ነው በትክክል የተጻፈው? ምልክት ያድርጉበት።"
+  },
+  "items": [
+    {
+      "id": "erster-arbeitstag-matching-1",
+      "translation": "የሥራ ባልደረባ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-1:meaning",
+      "translation": "አብረውት የሚሠሩት ወንድ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2",
+      "translation": "ኃላፊ (ሴት)",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-2:meaning",
+      "translation": "ቡድኑን ትመራለች።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3",
+      "translation": "እረፍት",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-3:meaning",
+      "translation": "በሥራ መካከል ያለ ነፃ ጊዜ፣ ለምሳሌ ለምግብ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4",
+      "translation": "የዓመት ፈቃድ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-4:meaning",
+      "translation": "የማይሠሩባቸው ነገር ግን ደመወዝ የሚያገኙባቸው የእረፍት ቀናት።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5",
+      "translation": "የትርፍ ሰዓት ሥራ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-5:meaning",
+      "translation": "ከታቀደው በላይ የሚሠሩት አንድ ሰዓት።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6",
+      "translation": "የሥራ ውል",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-6:meaning",
+      "translation": "ደመወዝዎን፣ የሥራ ሰዓትዎንና የዓመት ፈቃድዎን ይገልጻል።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7",
+      "translation": "የሠራተኞች ምግብ ቤት",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-matching-7:meaning",
+      "translation": "ሠራተኞቹ በድርጅቱ ውስጥ እዚህ ይመገባሉ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-1",
+      "translation": "ይህ አዲሱ የሥራ ባልደረባዬ ነው።",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-2",
+      "translation": "የሥራ ባልደረባዬን ላስተዋውቅዎ?",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-3",
+      "translation": "ከቡድኑ ጋር አብሬ መሥራት እወዳለሁ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-4",
+      "translation": "በሠራተኞች ምግብ ቤቱ እንገናኛለን።",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-5",
+      "translation": "አንድ ጥያቄ አለኝ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-gap-6",
+      "translation": "እረፍቱ መቼ ይጀምራል?",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-gap-7",
+      "translation": "ሪፖርቱን ለኃላፊዋ እሰጣለሁ።",
+      "answerText": ""
+    },
+    {
+      "id": "erster-arbeitstag-verbs-1",
+      "translation": "ራሴን በአጭሩ ላስተዋውቅ?",
+      "answerText": "ላስተዋውቅ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-2",
+      "translation": "ከ8:00 እስከ 16:00 እሠራለሁ።",
+      "answerText": "እሠራለሁ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-3",
+      "translation": "መጸዳጃ ቤቱን የት አገኛለሁ?",
+      "answerText": "አገኛለሁ"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-4",
+      "translation": "በቡድኑ ውስጥ በመጠሪያ ስማችን እንጠራራለን።",
+      "answerText": "እንጠራራለን"
+    },
+    {
+      "id": "erster-arbeitstag-verbs-5",
+      "translation": "እባክዎ ያንን ሊያብራሩልኝ ይችላሉ?",
+      "answerText": "ሊያብራሩልኝ"
+    },
+    {
+      "id": "erster-arbeitstag-table-1",
+      "translation": "የሥራ ባልደረባ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-2",
+      "translation": "ድርጅት",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-3",
+      "translation": "ቢሮ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-4",
+      "translation": "ኮምፒውተር",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-5",
+      "translation": "ስብሰባ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-table-6",
+      "translation": "ቡድን",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-1",
+      "translation": "ራሴን በአጭሩ ላስተዋውቅ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-2",
+      "translation": "በቡድኑ ውስጥ አዲስ ነኝ።",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-3",
+      "translation": "የምሳ እረፍቱ መቼ ይጀምራል?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-order-4",
+      "translation": "ያንን ሊያብራሩልኝ ይችላሉ?",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-1",
+      "translation": "የሥራ ባልደረባ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-2",
+      "translation": "ስብሰባ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-3",
+      "translation": "የዓመት ፈቃድ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-4",
+      "translation": "ቢሮ",
+      "answerText": null
+    },
+    {
+      "id": "erster-arbeitstag-spelling-5",
+      "translation": "የትርፍ ሰዓት ሥራ",
+      "answerText": null
+    }
+  ]
+}
